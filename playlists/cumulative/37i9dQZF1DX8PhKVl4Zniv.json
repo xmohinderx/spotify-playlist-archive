@@ -828,6 +828,24 @@
     },
     {
       "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296540,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/5Oi47usa5zPxOQNukvKcZ6"
+    },
+    {
+      "album": {
         "name": "Aneurythms",
         "url": "https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR"
       },

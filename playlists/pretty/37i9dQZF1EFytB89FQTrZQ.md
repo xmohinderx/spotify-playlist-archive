@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,895 likes - 226 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,897 likes - 226 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 72 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 |
 | 73 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 74 | [Tongue](https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:28 |
-| 75 | [Entirety](https://open.spotify.com/track/7Cu9VJOK9A0gJtTTLbJ9GU) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Entirety](https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT) | 3:08 |
-| 76 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 75 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 76 | [Entirety](https://open.spotify.com/track/7Cu9VJOK9A0gJtTTLbJ9GU) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Entirety](https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT) | 3:08 |
 | 77 | [Feel Good \(It's Alright\) \(feat\. Karen Harding\)](https://open.spotify.com/track/46VKKXfpbJDi9aqhomNFrZ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Feel Good \(It's Alright\) \[feat\. Karen Harding\]](https://open.spotify.com/album/0NQhCyUDNtZvd7pVBiHP4I) | 3:11 |
 | 78 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
 | 79 | [Finally \(Cannot Hide It\)](https://open.spotify.com/track/24gGzXklm7S16b9rcYUpGm) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally \(Cannot Hide It\)](https://open.spotify.com/album/4W1lA9h8HeDNOLdDxupSHl) | 3:24 |
@@ -147,10 +147,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 137 | [Feel On Me](https://open.spotify.com/track/4kEM6BvhUtFry78gHUeDHh) | [Ghosted](https://open.spotify.com/artist/3TOyRHj6rptXMN5F97Fpuq), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Feel On Me](https://open.spotify.com/album/6UZnxCo6vgmJG3ONVc6y8b) | 2:54 |
 | 138 | [Girlfriend](https://open.spotify.com/track/0jIUiSTrJuDxjkf7ddAEYy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:03 |
 | 139 | [Natural \(feat\. KStewart\)](https://open.spotify.com/track/5C3ybgC2yExg9qBcMJyG9F) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [NIT3 TALES](https://open.spotify.com/album/3aaDMnR6ZksGbZSDw2JRxZ) | 3:12 |
-| 140 | [Ultimatum](https://open.spotify.com/track/2DAwdGk9fJY9zXhOP6psz6) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ultimatum](https://open.spotify.com/album/76DYEfwnt7VbRTrBt5sos6) | 3:31 |
-| 141 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 |
-| 142 | [Danger \(feat\. Shola Ama\)](https://open.spotify.com/track/22Wxi2u7CeP9X1d2Nprpam) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO), [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Danger \(feat\. Shola Ama\)](https://open.spotify.com/album/5OVu7lRwOFXmNjyMRbOTdn) | 3:30 |
-| 143 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 140 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 |
+| 141 | [Ultimatum](https://open.spotify.com/track/2DAwdGk9fJY9zXhOP6psz6) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ultimatum](https://open.spotify.com/album/76DYEfwnt7VbRTrBt5sos6) | 3:31 |
+| 142 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 143 | [Danger \(feat\. Shola Ama\)](https://open.spotify.com/track/22Wxi2u7CeP9X1d2Nprpam) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO), [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Danger \(feat\. Shola Ama\)](https://open.spotify.com/album/5OVu7lRwOFXmNjyMRbOTdn) | 3:30 |
 | 144 | [100 Times](https://open.spotify.com/track/0OfGWNcBYJ0mVwIEKB5ZTf) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 3:06 |
 | 145 | [Love Just Ain't Enough](https://open.spotify.com/track/6ccP5gih4lhJWoYrBK3ZgH) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:36 |
 | 146 | [Find A Place \(ft\. MNEK\)](https://open.spotify.com/track/04dqOCvtYqZiCyroSmC8AG) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:43 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 225 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
 | 226 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc3NDE3MjUsMDAwMDAwMDA5OGEzMWE3Zjg1ZmYxYWExNzIwOTdkNzFmNmY4MGI2Mg==`
+Snapshot ID: `Mjc3NDMxNjUsMDAwMDAwMDBiYzcwMDBlNGRiZGFlMWQ4MjlhMzQ3M2JlYjNiMTE0NQ==`

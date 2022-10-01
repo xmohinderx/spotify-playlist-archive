@@ -2198,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Korea",
+        "url": "https://open.spotify.com/album/2yvW470Y2oPtTKUA4iWWQy"
+      },
+      "artists": [
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309954,
+      "name": "Korea",
+      "url": "https://open.spotify.com/track/4xP6pfadCFsCE1OA22BgZG"
+    },
+    {
+      "album": {
         "name": "Electro Acustica Mente",
         "url": "https://open.spotify.com/album/4pQIQbs8V5pAfkcRthV21Z"
       },
@@ -4283,7 +4301,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 299960,
       "name": "Traicionero",
       "url": "https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ"

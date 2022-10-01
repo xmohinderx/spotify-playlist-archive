@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Toosii",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Kalan.FrFr",
   "name": "B.A.E.",
   "published_playlist_ids": [
     "4mX7G5RGhbP5eelSWBD353"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 151238,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/6RouTxJEaWLaleuPFt5JP4"
@@ -681,6 +681,28 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "album": {
+        "name": "3 Nights In Seattle",
+        "url": "https://open.spotify.com/album/4wEbi47t3VMFRPhMq7bl8W"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        },
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172023,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/5wWbAr0jLpAYgV4wB6llRl"
     },
     {
       "album": {
@@ -1073,7 +1095,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 193396,
       "name": "Difference Is (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ"
@@ -3225,6 +3247,32 @@
       "duration_ms": 190224,
       "name": "Single & Happy (feat. Wale & Eric Bellinger)",
       "url": "https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi"
+    },
+    {
+      "album": {
+        "name": "I GOT ISSUES",
+        "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253913,
+      "name": "Sober (feat. Roddy Ricch & Post Malone)",
+      "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
     },
     {
       "album": {

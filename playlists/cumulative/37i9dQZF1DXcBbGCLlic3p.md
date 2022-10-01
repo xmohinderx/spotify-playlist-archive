@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-213 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+218 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [& Wishes](https://open.spotify.com/track/73hY81aqUHZF1KHCY7P5Mk) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6btauNVZRPm75SILUUOLJY) | 2:44 | 2022-07-22 |  |
 | [A l'aube](https://open.spotify.com/track/4kyq9I3MUOK4UCt9KojulV) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [A l'aube](https://open.spotify.com/album/2PiAhpMBDjNqN85uHRf60G) | 3:24 | 2021-12-23 |  |
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2021-12-23 | 2022-09-03 |
+| [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2022-09-30 |  |
 | [Allt finns kvar](https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Allt finns kvar](https://open.spotify.com/album/4peQko6d1eFGavCfFHJGT3) | 3:59 | 2021-12-23 |  |
 | [Anay degimay](https://open.spotify.com/track/3wuEQyST9B3qhPlNymA4Vl) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Anay degimay](https://open.spotify.com/album/23hYRiBfshqH0kACbIGjiH) | 3:17 | 2021-12-23 |  |
 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 | 2021-12-23 |  |
@@ -107,6 +108,7 @@
 | [Linea Degli Alberi](https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Linea Degli Alberi](https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr) | 3:56 | 2021-12-23 |  |
 | [Lonely Hearts](https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:45 | 2021-12-23 |  |
 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 | 2021-12-23 |  |
+| [Long Time Gone](https://open.spotify.com/track/2ttiWUOOJeaPDsKrQlHnhJ) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Long Time Gone](https://open.spotify.com/album/66cbRBo9HSrZJjIzTGWYOM) | 2:33 | 2022-09-30 |  |
 | [Looking Up](https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 2:32 | 2021-12-23 |  |
 | [Lorimar](https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:42 | 2021-12-23 | 2022-09-03 |
 | [Lost](https://open.spotify.com/track/3O1AqwrqIwVoAr0GET75SY) | [Janae Milligan](https://open.spotify.com/artist/7fXVjzJEkTzPsCman3hBFu) | [Lost](https://open.spotify.com/album/5PGFQeWWIrlxj9fQzSwkRp) | 2:26 | 2021-12-23 |  |
@@ -181,6 +183,7 @@
 | [Slowly Drifting Away](https://open.spotify.com/track/3xgSzRqNvrQtUVcYP0LxdI) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Slowly Drifting Away](https://open.spotify.com/album/3mTYgLak5gS3ZQqheAFLMj) | 2:58 | 2022-03-03 |  |
 | [Slowly Relaxing](https://open.spotify.com/track/19iBXrL3jjNmm4oDaozXWA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:21 | 2021-12-23 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-23 |  |
+| [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Soluma](https://open.spotify.com/track/1pfYu9JKsojWVnmb5J9Xc0) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Soluma](https://open.spotify.com/album/1qoutOhGSCzeCZSp3Is4Ps) | 3:44 | 2021-12-23 |  |
 | [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2021-12-23 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2021-12-23 |  |
@@ -193,6 +196,7 @@
 | [Sumire](https://open.spotify.com/track/7j5U7NtYQbqbgTuEmznPnh) | [Josephe Cressac](https://open.spotify.com/artist/2sEVgwrqZxHDJIfV62TXbW) | [Sumire](https://open.spotify.com/album/2QgVDh8p6bSVBjGyBE6cKh) | 2:48 | 2021-12-23 | 2022-09-03 |
 | [Sunflower Sunset](https://open.spotify.com/track/3vPoUXeqlDaqHUx38pe7tb) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Ambient Fields](https://open.spotify.com/album/7jBA8xzRMRWJtX2ZsxqW9w) | 3:25 | 2021-12-23 |  |
 | [Sweet Dreams](https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS) | [Nakatami](https://open.spotify.com/artist/169r1sNrXrpaXiTHkmKgWE) | [Sweet Dreams](https://open.spotify.com/album/1advw5ZtYzo7dO74Ny3bIU) | 3:00 | 2021-12-23 |  |
+| [Tambo](https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Tambo](https://open.spotify.com/album/2IBgAMSclg0n79MbD8a6sr) | 3:12 | 2022-09-30 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2021-12-23 |  |
 | [The Explorer](https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [The Explorer](https://open.spotify.com/album/572p09vhNOLPyc0PHeMWuf) | 2:36 | 2021-12-23 |  |
@@ -217,6 +221,7 @@
 | [Violet Ocean](https://open.spotify.com/track/3ffNZwshGDc3VLJQgdis5r) | [Ocean Floor](https://open.spotify.com/artist/4nNuiFBkkhspJCQ31LWnVg) | [Noise Cloud](https://open.spotify.com/album/4DVvvyoccdAaUu3rgqY8dG) | 2:36 | 2021-12-23 |  |
 | [Warmest Embrace](https://open.spotify.com/track/0Sn8lWeOkc5crNhOus3hw9) | [Dean Valio](https://open.spotify.com/artist/5eLXROpXyDsljbkItKaQxc) | [Warmest Embrace](https://open.spotify.com/album/7ubPYdlFJBArDcBJh1SQ5u) | 4:54 | 2021-12-23 |  |
 | [Wasserturm](https://open.spotify.com/track/3kn4W6GH3GjN1PH7UIwW5X) | [Claude Sabatier](https://open.spotify.com/artist/5oRDhVSff6UD1uX7cZa7mf) | [Wasserturm](https://open.spotify.com/album/1DKbXEZvcEYWz06DnbWjhx) | 3:20 | 2021-12-23 |  |
+| [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2022-09-30 |  |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2021-12-23 |  |
 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 | 2021-12-23 | 2022-09-03 |
 | [Yamuna](https://open.spotify.com/track/3kzMuziVFP7PTOry77H9W7) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Yamuna](https://open.spotify.com/album/4t0Y3UVW4APwGMvdRn2g47) | 3:01 | 2021-12-23 |  |

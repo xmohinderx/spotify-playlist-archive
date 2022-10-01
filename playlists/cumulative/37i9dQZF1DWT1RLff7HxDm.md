@@ -2,14 +2,15 @@
 
 ### [Blues Live & Loud](https://open.spotify.com/playlist/37i9dQZF1DWT1RLff7HxDm)
 
-> All live, all blues\. Cover: Joe Bonamassa
+> All live, all blues\. Cover: Jackie Venson
 
-108 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/6wMyac4Tq7WkhRXiQeoF05)
+109 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/6wMyac4Tq7WkhRXiQeoF05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 | 2020-10-30 |  |
 | [Alabama \- Live](https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Alabama \(Live\)](https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM) | 3:26 | 2020-10-30 |  |
+| [Always Free \(Live in Austin\)](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 | 2022-09-30 |  |
 | [Backwater Blues \- Live](https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7) | [Cedric Burnside Project](https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W) | [Backwater Blues \(Live\)](https://open.spotify.com/album/1acsrcWZZlLtWnzhHykdrU) | 4:37 | 2020-10-30 | 2022-03-19 |
 | [Bird On The Wire \- Live](https://open.spotify.com/track/2D1b4pdLJWi9rU309xLcBK) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 5:38 | 2020-10-30 |  |
 | [Blue On Black \- Live](https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:59 | 2020-11-20 |  |
@@ -27,7 +28,7 @@
 | [Chills & Thrills \- Live](https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4) | 6:50 | 2020-10-30 |  |
 | [Cry a Little \- Live](https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP) | 4:16 | 2022-01-28 | 2022-05-13 |
 | [Crying For My Baby](https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/319sQSVvGqeaNlCoJ2Zxc2) | 4:41 | 2020-10-30 | 2022-07-24 |
-| [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 | 2020-10-30 |  |
+| [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 | 2020-10-30 | 2022-10-01 |
 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 | 2020-10-30 |  |
 | [Damn Right, I've Got The Blues \- Live at New Orleans Jazz & Heritage Festival, 2014](https://open.spotify.com/track/0Jt849xbK5RTJt8UORof5A) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Live at New Orleans Jazz & Heritage Festival, 2014](https://open.spotify.com/album/6DkHonUCVueVdmATd2NmGv) | 4:16 | 2022-04-22 | 2022-07-28 |
 | [Diamonds & Gold \- Live](https://open.spotify.com/track/15vIOt0JMhkeFUsbOEhMis) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Diamonds & Gold \(Live\)](https://open.spotify.com/album/66TI5r8liZTsY3zglSew4Z) | 6:27 | 2020-10-30 | 2022-07-29 |

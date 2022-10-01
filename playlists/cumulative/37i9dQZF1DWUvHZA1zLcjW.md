@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-139 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/4Num9648PBh0tHBNi9kTl7)
+140 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/4Num9648PBh0tHBNi9kTl7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Tsirani Tsar](https://open.spotify.com/track/1Zu31CU9CSl9ZpEnmky8xT) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Atmosphères](https://open.spotify.com/album/6bWRFvvfLzVFw7vZZHMHaK) | 5:49 | 2022-01-28 |  |
 | [Tune from the Film by Lana Gogoberidze: When Almonds Blossomed](https://open.spotify.com/track/0vqNv43ZdOMGwq6ZZiRBEH) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Motherland](https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh) | 2:08 | 2022-01-28 | 2022-08-03 |
 | [Violin Concerto in D Major, Op\. 61: II\. Larghetto](https://open.spotify.com/track/4BWs1bcs60wjW56SyoHjQi) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Oleg Caetani](https://open.spotify.com/artist/5aQCrqgWkrOGdG7qb2FMVT) | [Violin Concerto in D Major, Op\. 61: II\. Larghetto](https://open.spotify.com/album/3rWvlpOXpbx8ELWoPAKDpy) | 8:06 | 2022-08-02 |  |
+| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-09-30 |  |
 | [Willow](https://open.spotify.com/track/3bMks007brAPs3uP8Vq9tu) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Willow](https://open.spotify.com/album/3KuZlFMLInM67TA7hmPs1k) | 3:05 | 2022-01-28 | 2022-08-03 |
 | [Wishing](https://open.spotify.com/track/6yso76bQYrTpad7KvMjQ3S) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Wishing](https://open.spotify.com/album/02c3T7Rtx1v6VdMZRUsa6n) | 2:08 | 2022-01-28 | 2022-07-29 |
 | [Wishing](https://open.spotify.com/track/2DCB7vBKleDUerpJErGyr2) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 2:08 | 2022-01-28 | 2022-08-03 |

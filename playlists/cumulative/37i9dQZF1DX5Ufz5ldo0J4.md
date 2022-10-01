@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-260 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+261 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Crépuscule](https://open.spotify.com/track/4FE9jhuatcOZZYoHdBDN8T) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Crépuscule](https://open.spotify.com/album/4XWPYDTAaQvjhDSKWbsHP9) | 4:05 | 2021-12-10 | 2022-08-13 |
 | [Daybreak](https://open.spotify.com/track/2FicOiRPPn08ZOAJHH5kgD) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Piano and My Heart](https://open.spotify.com/album/6LueQAU32JLzLcf4ONiAsi) | 2:57 | 2021-12-10 |  |
 | [Daydreaming](https://open.spotify.com/track/3YLOJL7XiGnWHK8bUySote) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Lucent](https://open.spotify.com/album/3VICx82chKr8SCGA4AsyRg) | 3:20 | 2021-12-10 |  |
+| [Delicate Silence](https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Alternatives](https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk) | 2:46 | 2022-09-30 |  |
 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 | 2021-12-10 |  |
 | [Diligence](https://open.spotify.com/track/1mBe4d92QRRMqN1FQ2cvup) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Diligence](https://open.spotify.com/album/2dswTsB44D75N7rgLaXFvd) | 3:46 | 2021-12-10 |  |
 | [Distant](https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Traveling Windows](https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m) | 3:17 | 2021-12-10 |  |

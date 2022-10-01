@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,690 likes - 60 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,717 likes - 60 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 25 | [Love Thang](https://open.spotify.com/track/7vRuEtSugCJVYRQtk1lXnJ) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Grandmaster Flash Presents: Salsoul Jam 2000](https://open.spotify.com/album/28n4vKOfQNAevM2189Pfsm) | 7:57 |
 | 26 | [Hold On \- Remastered](https://open.spotify.com/track/7IOFNCLhwQh431C0SLNZUy) | [High Fashion](https://open.spotify.com/artist/6axEK9sZSlbE212EPp41eg) | [Feelin' Lucky](https://open.spotify.com/album/0DaTkFRnsOiE3ImH4pWuUz) | 5:26 |
 | 27 | [Till You Take My Love](https://open.spotify.com/track/6VtO5cZQzv8s3kCFjrXfhi) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Funk In A Mason Jar](https://open.spotify.com/album/4FT9zMdYfx8kqaWszNrTxM) | 3:42 |
-| 28 | [Never Let You Go](https://open.spotify.com/track/6xHJTRNAePpZjmXfFQgyTI) | [Savanna](https://open.spotify.com/artist/1PlMwUWyWobenj3SHUzRdS) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/4cwOh2TV6zMqzp2zBP8MdS) | 5:37 |
+| 28 | [Never Let You Go](https://open.spotify.com/track/6tn5z1MWbKF0y1MygcOn0J) | [Savanna](https://open.spotify.com/artist/1PlMwUWyWobenj3SHUzRdS) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/7ePTPHIRm76J8B9bWu162e) | 5:37 |
 | 29 | [Don't Go Lose It Baby](https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Pure Sounds of Africa](https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab) | 6:53 |
 | 30 | [Don't It Drive You Crazy](https://open.spotify.com/track/7HT8rn9DzwGuyQ7oTTibx9) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Having A Party](https://open.spotify.com/album/7pJn7BX7jPrWWFoEmAuWE7) | 6:19 |
 | 31 | [It Seems to Hang On \- 12" Disco Mix](https://open.spotify.com/track/3UakFD4Ky6c6By968BwDqH) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi) | [Hits, Remixes and Rarities: The Warner Brothers Years](https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY) | 7:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 59 | [You're My](https://open.spotify.com/track/5ulWUXo2mV3xy2PzzuVTuB) | [Sticks & Stonez](https://open.spotify.com/artist/4Jf1z5Lvop0Y5GmYjsqh1l), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [You're My](https://open.spotify.com/album/6AmBMZgibAEtlVawaio0G1) | 4:49 |
 | 60 | [Outta Sight / Dark Lavender Interlude](https://open.spotify.com/track/3WsSVBM9oPmHlXjxKIKV59) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM](https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V) | 5:53 |
 
-Snapshot ID: `MTY1NzIzNDgwMCwwMDAwMDAwMDNiZDk2ZTRlOWJlNzE0YTYyNmY1ODFmNzBkMzkzOTRi`
+Snapshot ID: `MTY1NzIzNDgwMCwwMDAwMDAwMDdkOGI3ZWQ1OGQ1NTgyMjlmMGUwNzcxNTkyNzgyM2E0`

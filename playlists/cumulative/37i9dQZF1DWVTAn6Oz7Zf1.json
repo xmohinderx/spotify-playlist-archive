@@ -328,6 +328,24 @@
     },
     {
       "album": {
+        "name": "Bon Trip",
+        "url": "https://open.spotify.com/album/2Mmsb8bBd17AgrB6O2NQKx"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181712,
+      "name": "Bon Trip - Radio Edit",
+      "url": "https://open.spotify.com/track/1m7rYHVB8LHDTm9EqtKP4f"
+    },
+    {
+      "album": {
         "name": "Break Her Heart",
         "url": "https://open.spotify.com/album/2wFl2VCAHpU7eGqhwoF2Ye"
       },
@@ -497,6 +515,24 @@
       "duration_ms": 172370,
       "name": "Burn This Love (bryska x HAUZ)",
       "url": "https://open.spotify.com/track/3KI7tTKpqclYnMSdSu4IXp"
+    },
+    {
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/1JCbimAC11Q9dyaMk1dz0U"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4eRutShPXNfRyPFpiUyk8I"
     },
     {
       "album": {
@@ -821,7 +857,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 198703,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
@@ -1239,6 +1275,28 @@
       "duration_ms": 196721,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
+    },
+    {
+      "album": {
+        "name": "Got 2 Know (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/1hbjC4DD3fy3vvEfczipeX"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144919,
+      "name": "Got 2 Know (feat. SHELLS) - Radio Edit",
+      "url": "https://open.spotify.com/track/5dYHeKMZtAgwE1GU1HY7RE"
     },
     {
       "album": {
@@ -1927,6 +1985,28 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "album": {
+        "name": "Like You Do",
+        "url": "https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152224,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL"
     },
     {
       "album": {
@@ -2845,7 +2925,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185015,
       "name": "Running",
       "url": "https://open.spotify.com/track/4hsRzEQg0t9qgtB4iXEGB5"
@@ -3003,7 +3083,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
@@ -3069,7 +3149,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 173714,
       "name": "Stronger (feat. Kesha)",
       "url": "https://open.spotify.com/track/4NctFqJyGAqurHFEUQvWgR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 鬼頭明里
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,136 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,155 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 39 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 |
 | 40 | [CROSS A LINE](https://open.spotify.com/track/4XavZrAn9OxuRDz0mbOidg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 5:20 |
 | 41 | [BROKEN IDENTITY](https://open.spotify.com/track/7sesrgtKuGu5YKtjfuJkUv) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [TV Animation "I'm Quitting Heroing" Opening Theme Song "BROKEN IDENTITY"](https://open.spotify.com/album/5qQqVkv6UVXfLk4twIAtk0) | 4:50 |
-| 42 | [Anohino Kotoba](https://open.spotify.com/track/4moDgpmTBcPRgnjlIsl06x) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Anohino Kotoba / Growing](https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ) | 4:26 |
+| 42 | [Anohino Kotoba](https://open.spotify.com/track/2LmURPmnlTJCHIMBRMCqON) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 4:27 |
 | 43 | [荊棘輪舞曲](https://open.spotify.com/track/2IN8nMFDFzZUTIMijQf4VS) | [古川 慎](https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc) | [荊棘輪舞曲 \(アニメ盤\)](https://open.spotify.com/album/79XFLkM5vF2HdkpsaQoaND) | 4:20 |
 | 44 | [うつろいと君](https://open.spotify.com/track/7lGmBFs2YqvXAurQlh3Ry3) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/5ws73fegng3yitV0nBdTIO) | 4:20 |
 | 45 | [嘘つきダーティ](https://open.spotify.com/track/6F6aBeXTbtXiDU0xfR2gxj) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Before the Nightmare](https://open.spotify.com/album/5hKG7hWvVwM2AhX2hDFBwh) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Yakusoku no Overture \- Rearranged ver.](https://open.spotify.com/track/3zNFyq66zJofERP33LK5Qt) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/09MqHzTC2kqcsNP362mi7v) | 4:18 |
 | 50 | [カウンターブロウ](https://open.spotify.com/track/2VRG7h2Tmcbnx7yZtSkCuR) | [浪川大輔](https://open.spotify.com/artist/5mchqa3eKySQx0LcrovrJg) | [鼓動](https://open.spotify.com/album/2pOWAQB0Q70R1X5C93aPII) | 3:56 |
 
-Snapshot ID: `MTY2MzgzODM1NywwMDAwMDAwMDQ4ZjIwYzZlMzhkYzM4MmI2OWI1MTgxYzkwMzdlM2My`
+Snapshot ID: `MTY2MzgzODM1NywwMDAwMDAwMDEzZDliODM2YzMxNWE0NzhhZWVlNGZlZTFiYzdkZGQ1`

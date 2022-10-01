@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Casting Crowns
 
-232 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+233 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Morning By Morning \(I Will Trust\) \- Radio Version](https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv) | 3:41 | 2022-02-25 |  |
 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 | 2022-02-25 | 2022-04-23 |
 | [Nail Scarred Hands](https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD) | 3:12 | 2022-04-22 |  |
-| [Narrow Road](https://open.spotify.com/track/2aslD8gmcu8uHxBXaIQUtF) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [I See The Light](https://open.spotify.com/album/2dHaMmJsjwdJeWx1M356ER) | 4:05 | 2022-08-26 |  |
+| [Narrow Road](https://open.spotify.com/track/0bk6K6OtdTVQownDeQRoEo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 4:05 | 2022-08-26 |  |
+| [Narrow Road](https://open.spotify.com/track/2aslD8gmcu8uHxBXaIQUtF) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [I See The Light](https://open.spotify.com/album/2dHaMmJsjwdJeWx1M356ER) | 4:05 | 2022-08-26 | 2022-10-01 |
 | [Narrow Road](https://open.spotify.com/track/7jm83aZTPxR23x64edVncD) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Narrow Road](https://open.spotify.com/album/4dpNubvrQMpX4zFidDYDqb) | 4:05 | 2022-08-26 | 2022-09-03 |
 | [Never Not God](https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [God Is Real](https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW) | 2:57 | 2022-04-29 | 2022-08-27 |
 | [New Creation \- Live](https://open.spotify.com/track/0IpoNkAwhdk9AqO1Sjtwe4) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation](https://open.spotify.com/album/6GJghSKLYh1bXWzaDso5ZG) | 3:02 | 2022-03-05 | 2022-04-23 |

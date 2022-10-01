@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 48749,
+  "num_followers": 49038,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDhhMjI3N2ZkMGNjMDc0MzE4YjZlYjNlMDUyZDk1NjNm",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDJjZjQ1MmJhNWI5ZGE0OThhODlhNWUwZGVhYjc5YTYz",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Take A Chance",
-        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
-      },
-      "artists": [
-        {
-          "name": "Mr. Flagio",
-          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
-        }
-      ],
-      "duration_ms": 472361,
-      "name": "Take A Chance - Original Mix",
-      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "The Voice of Q",
         "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 316118,
       "name": "The Voice of Q - 12\" Mix",
       "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Take A Chance",
+        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flagio",
+          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
+        }
+      ],
+      "duration_ms": 472361,
+      "name": "Take A Chance - Original Mix",
+      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "My Magic Number",
         "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        }
+      ],
+      "duration_ms": 404766,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
     },
     {
       "added_at": "2022-09-08 22:01:00",

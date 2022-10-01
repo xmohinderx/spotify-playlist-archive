@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 415296,
+  "num_followers": 415319,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDUwNjAxZDgxMzYyZWY0MzQzOTViYjc0ZmRmMWU5OTJl",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDUzNjFiNzNlYmQyNzI3N2ZjZTA1OTI4YWMwMzFlZmI3",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -23,6 +23,38 @@
       "duration_ms": 262693,
       "name": "Chained To The Rhythm",
       "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -61,38 +93,6 @@
       "url": "https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "That's How Love Is Made",
-        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "That's How Love Is Made",
-      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "May Be the Last Time",
@@ -125,52 +125,20 @@
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "The Breeze",
-        "url": "https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH"
+        "name": "Wreckage, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/3TtOISH2vi1m9vR3xYlLS6"
       },
       "artists": [
         {
-          "name": "Kenny Sharp",
-          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
         }
       ],
-      "duration_ms": 156158,
-      "name": "The Breeze",
-      "url": "https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 215969,
-      "name": "Gullah Geechee",
-      "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Shake the Roots",
-        "url": "https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 217365,
-      "name": "Hard Learned",
-      "url": "https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz"
+      "duration_ms": 210546,
+      "name": "Dark Roses (Live From Sunset Sound)",
+      "url": "https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -319,22 +287,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "neve give up",
-      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -347,6 +299,22 @@
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "neve give up",
+      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -397,38 +365,6 @@
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Waiting on a Song",
@@ -447,6 +383,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Ice Cream & Cigarettes",
         "url": "https://open.spotify.com/album/2y2szuP1tMpaGCJhb2TfRM"
       },
@@ -459,6 +411,22 @@
       "duration_ms": 172240,
       "name": "Ice Cream & Cigarettes",
       "url": "https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -611,6 +579,22 @@
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -851,22 +835,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Black Hole Rainbow",
         "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
@@ -923,6 +891,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Smoke From The Chimney",
         "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 266013,
       "name": "Bubba Jones",
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Wednesday Morning Atonement",
+      "url": "https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -953,20 +953,20 @@
       "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+        "name": "S\u00edminn+Spotify Session",
+        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
         }
       ],
-      "duration_ms": 268733,
-      "name": "Wednesday Morning Atonement",
-      "url": "https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1"
+      "duration_ms": 352720,
+      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
+      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1003,22 +1003,6 @@
       "duration_ms": 290482,
       "name": "Rock & Roll",
       "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "S\u00edminn+Spotify Session",
-        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 352720,
-      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
-      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1085,6 +1069,22 @@
       "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
     },
     {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Shake the Roots",
+        "url": "https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 217365,
+      "name": "Hard Learned",
+      "url": "https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz"
+    },
+    {
       "added_at": "2022-07-26 14:55:05",
       "album": {
         "name": "Bloodline Maintenance",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/4kw9x3gkvWRNk3IIv6cYGW"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Have A Ball",
-        "url": "https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 144985,
-      "name": "Have A Ball",
-      "url": "https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Undercover Bros.",
@@ -1149,22 +1133,6 @@
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Healing Tide",
@@ -1179,6 +1147,38 @@
       "duration_ms": 144106,
       "name": "Love Like There's No Tomorrow",
       "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Have A Ball",
+        "url": "https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 144985,
+      "name": "Have A Ball",
+      "url": "https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2022-01-28 05:01:00",

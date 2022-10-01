@@ -4,11 +4,12 @@
 
 > Check your vibe with Epic Records.
 
-112 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
+113 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50 M's](https://open.spotify.com/track/6ccXIf6EOJsfp2CnHsl72s) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn) | [50 M's](https://open.spotify.com/album/1UHlBdLDa9YeGaAa3rBriO) | 2:29 | 2022-08-05 |  |
+| [9 Lives \(feat\. Polo G & NLE Choppa\)](https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Not Me It's You](https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN) | 3:48 | 2022-09-30 |  |
 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 | 2022-01-14 | 2022-08-06 |
 | [Ain't My Dog](https://open.spotify.com/track/55yPlote432saxAHYwlqp4) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [Ain't My Dog](https://open.spotify.com/album/3W0OjgFTPdNZJqLUCdcdYT) | 3:44 | 2022-07-22 |  |
 | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/track/30An28ovHzHONcqysPKIIs) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/album/6BTeOKDYTNW0fTKmf2uROH) | 3:30 | 2021-12-10 | 2022-07-30 |
@@ -44,7 +45,7 @@
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-05 |  |
 | [EXCHANGE](https://open.spotify.com/track/2DYNyO657ppfS7Hl7jHg7a) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [EXCHANGE](https://open.spotify.com/album/2QZQ6HUp0WhpxpnkCqZrkw) | 2:54 | 2022-06-03 | 2022-07-23 |
 | [FAR AWAY](https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 3:15 | 2022-07-22 |  |
-| [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/track/4c9fF18rZHbsA8X8apjuRd) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/album/78vPH1YGbwtqZuF0sFcFv7) | 2:23 | 2021-12-17 |  |
+| [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/track/4c9fF18rZHbsA8X8apjuRd) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/album/78vPH1YGbwtqZuF0sFcFv7) | 2:23 | 2021-12-17 | 2022-10-01 |
 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 | 2022-05-06 |  |
 | [For The Record](https://open.spotify.com/track/7muCbQ50cXlYgDuYQo4fr4) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [For The Record](https://open.spotify.com/album/18zJI0OjYmtDjG8qzn1G7x) | 3:09 | 2021-10-01 | 2022-06-11 |
 | [Free](https://open.spotify.com/track/679TFYvv44xVWXiEPefOSu) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/2uk0qRQyJKmqF1NJL2Cjrw) | 3:07 | 2022-02-25 | 2022-07-23 |

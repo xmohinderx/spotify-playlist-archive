@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-779 songs - 1 day 16 hr 56 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+780 songs - 1 day 17 hr 0 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 | 2021-03-27 | 2021-04-04 |
 | [Gammel Jegermarsj](https://open.spotify.com/track/7vXIiUiKTw8j6Kct59ZARV) | [HM Kongens Gardes Musikkorps](https://open.spotify.com/artist/1mJCP4lGqdhBUuiHQIlbtr) | [The Olympic Spirit](https://open.spotify.com/album/1VN6DTKb8hk4uKLfwE4MI5) | 2:02 | 2021-05-19 | 2022-05-20 |
 | [Gamora](https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:45 | 2021-10-23 | 2021-10-31 |
+| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
 | [Gatebil](https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Gatebil](https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH) | 2:08 | 2022-07-05 | 2022-08-07 |
 | [Get Him Away From Me](https://open.spotify.com/track/19V22p018Mt3sk6I95Xd5E) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Get Him Away From Me](https://open.spotify.com/album/4oa3dUC5H3hAe6moQ6hAY2) | 3:47 | 2022-04-09 | 2022-04-11 |
@@ -566,7 +567,7 @@
 | [Pause fra mæ sjøl](https://open.spotify.com/track/480JvLYE83nvigCc8TM8eS) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Pause fra mæ sjøl](https://open.spotify.com/album/2TUxdFPE1LNuTRvGXcn3He) | 3:35 | 2021-11-14 | 2021-11-21 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-28 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-18 | 2022-06-21 |
-| [Peroni & Perignon](https://open.spotify.com/track/3nG8AgNEqt9icT5unQBl1a) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 3:00 | 2022-06-16 |  |
+| [Peroni & Perignon](https://open.spotify.com/track/3nG8AgNEqt9icT5unQBl1a) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 3:00 | 2022-06-16 | 2022-10-01 |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-28 | 2022-01-23 |
 | [Pinne for landet](https://open.spotify.com/track/0jefzmTNGgqmxVgMbNWdOa) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Pinne for landet](https://open.spotify.com/album/1ekZkKGOkHcbZY9aHr5Xsj) | 3:17 | 2022-04-16 | 2022-04-20 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,648 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,711 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 28 | [Dear Goth](https://open.spotify.com/track/1pSQLQAj7xy6CybmqUnHax) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Dear Goth](https://open.spotify.com/album/7mWd8LS3zZWlFMPvuMNpIb) | 3:29 |
 | 29 | [hi, my name is lonely.](https://open.spotify.com/track/4TKrQI3vyPH31FdOd4WOve) | [stef](https://open.spotify.com/artist/3Tqps31ekhHVR7ylpNUzSj) | [A Glitch in Our Virtual Reality](https://open.spotify.com/album/0Z982C1sqouyogCsQqkrwx) | 2:50 |
 | 30 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
-| 31 | [Religion](https://open.spotify.com/track/41mPsIQNdpq6al1eobzgjD) | [Zand](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Shurk](https://open.spotify.com/artist/0NDgB30D7P2gt1qCS2qfIx) | [Religion](https://open.spotify.com/album/2dt3akdTzN7C0NzPoKrV4n) | 3:05 |
+| 31 | [Religion](https://open.spotify.com/track/41mPsIQNdpq6al1eobzgjD) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Shurk](https://open.spotify.com/artist/0NDgB30D7P2gt1qCS2qfIx) | [Religion](https://open.spotify.com/album/2dt3akdTzN7C0NzPoKrV4n) | 3:05 |
 | 32 | [Day I Die](https://open.spotify.com/track/4Qt6fOWtoMdjQYtV5jztL2) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 2:57 |
 | 33 | [HEAVY METAL](https://open.spotify.com/track/35ZDgSGHRkV04aYdkP1VfI) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [HEAVY METAL](https://open.spotify.com/album/22M4UMtjicyvAs4fwX91AG) | 2:39 |
 | 34 | [verbal warnings](https://open.spotify.com/track/02JZIF70F9dpOCdenwFwH3) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [verbal warnings](https://open.spotify.com/album/71884HMgAShpsgBO7aR26P) | 3:03 |

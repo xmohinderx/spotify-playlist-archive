@@ -2,7 +2,7 @@
 
 ### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
 
-> De la douceur pour accompagner votre journée\. Photo: Les sœurs Boulay
+> De la douceur pour accompagner votre journée\. Photo: Daniel Bélanger
 
 374 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 

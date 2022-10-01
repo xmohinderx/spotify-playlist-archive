@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-237 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+238 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Let You Go](https://open.spotify.com/track/2p8vubDBdUmbbdNWtC1Ots) | [Great Peacock](https://open.spotify.com/artist/5PMyfGJxTdk91f1MxHw7Uv) | [Let You Go](https://open.spotify.com/album/1p61uyfOlNgnejxbP2jMXZ) | 4:46 | 2021-12-17 |  |
 | [Lift Me Up \(Leave Me Here\)](https://open.spotify.com/track/5eoKQlJjP6A8JKjJVAcLUw) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Lift Me Up \(Leave Me Here\)](https://open.spotify.com/album/5wakVnN6GdcJVP4K7jpRS4) | 3:21 | 2021-12-17 |  |
 | [Lightning Strike](https://open.spotify.com/track/5QN2EOIp6XFXCV85dOp35H) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Lightning Strike](https://open.spotify.com/album/3x9chN0T0Z4D5wwFNmy2lc) | 2:58 | 2021-12-17 |  |
+| [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 |  |
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2021-12-17 |  |
 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 | 2021-12-17 |  |
 | [Magnolia](https://open.spotify.com/track/2WRhHhX9s9ZhLEZV7luzIg) | [Mail the Horse](https://open.spotify.com/artist/6NuOslH44SY61wyfxAvRYB) | [Magnolia](https://open.spotify.com/album/33gmdU6C7wf2t03cghGqL4) | 4:40 | 2021-12-17 | 2022-04-29 |
@@ -178,7 +179,7 @@
 | [Shape Shifter](https://open.spotify.com/track/7F6S1cyEbjKz6tvO1wmhwi) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Resistor](https://open.spotify.com/album/3K3dwseF2yrKwtTsrszTBM) | 3:51 | 2022-07-22 |  |
 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 | 2021-12-17 |  |
 | [Shout Into The Noise](https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/4JN56UyhqvwmD9fQJuJlPo) | 3:13 | 2022-01-21 |  |
-| [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 | 2021-12-17 |  |
+| [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 | 2021-12-17 | 2022-10-01 |
 | [So Long Gone](https://open.spotify.com/track/5T9PcJQ7S24pnvtrIVSSmq) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:32 | 2021-12-17 | 2022-09-24 |
 | [Somebody Was Watching](https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:07 | 2021-12-17 |  |
 | [Something’s Got a Hold on Me](https://open.spotify.com/track/5oU6hEiZ3l1CG8xMPdI5M0) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Something’s Got a Hold on Me](https://open.spotify.com/album/1WK7PVI8kDQX8ogzKMJfn4) | 3:08 | 2022-07-22 |  |

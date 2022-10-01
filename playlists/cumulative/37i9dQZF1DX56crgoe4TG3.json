@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 205094,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3E4miyUPbCkdMoPGnJaPmv"
@@ -673,10 +673,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 214500,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A"
+    },
+    {
+      "album": {
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/7LYMxGkmh3Ex3ioRrbBF5a"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223625,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/6jjtloIxVfU2xSyi96V5UT"
     },
     {
       "album": {
@@ -1452,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
+    },
+    {
+      "album": {
         "name": "Cover Story",
         "url": "https://open.spotify.com/album/6PapSLx3b0H2mwD6p2IU4I"
       },
@@ -1499,7 +1535,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 349506,
       "name": "It's Alright Ma, I'm Only Bleeding",
       "url": "https://open.spotify.com/track/3WlRqQM19BVTLR9Qw0xjWv"
@@ -1575,7 +1611,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 188500,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/3I8lVQEo7B4tHERQK88MAw"
@@ -2035,6 +2071,24 @@
       "duration_ms": 259649,
       "name": "Olympia, WA",
       "url": "https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe"
+    },
+    {
+      "album": {
+        "name": "Country Mountain Tributes: The Songs of Willie Nelson",
+        "url": "https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202841,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ"
     },
     {
       "album": {

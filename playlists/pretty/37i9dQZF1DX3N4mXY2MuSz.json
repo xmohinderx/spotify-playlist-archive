@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favorite punks. Cover: jxdn",
-  "num_followers": 34003,
+  "num_followers": 34000,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMGRjNmJjODQ5MmIyODZlNjMxNmE5NDU4YjlkNmY1OWY0",
+  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMDRiYWQ0NjRmZGIyMjVmZDE0ZjVjYThiOTg0MjczYjc0",
   "tracks": [
     {
       "added_at": "2021-11-19 13:39:50",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "sympathy 4 the grinch",
-        "url": "https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 131780,
-      "name": "sympathy 4 the grinch",
-      "url": "https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "The Christmas Attic",
         "url": "https://open.spotify.com/album/6DsIXONf5oi48VDiCVG1bu"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 257986,
       "name": "Christmas Canon",
       "url": "https://open.spotify.com/track/0O4vuJynWVVdyvoHvZtnk3"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "sympathy 4 the grinch",
+        "url": "https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 131780,
+      "name": "sympathy 4 the grinch",
+      "url": "https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Believers Never Die - Greatest Hits",
-        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
+        "name": "Nightmare Revisited",
+        "url": "https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 221013,
-      "name": "Yule Shoot Your Eye Out - Bonus Track",
-      "url": "https://open.spotify.com/track/24ZZV8nmMT0TD5jVdkqNhK"
+      "duration_ms": 206280,
+      "name": "Making Christmas",
+      "url": "https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Nightmare Revisited",
-        "url": "https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr"
+        "name": "Believers Never Die - Greatest Hits",
+        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 206280,
-      "name": "Making Christmas",
-      "url": "https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq"
+      "duration_ms": 221013,
+      "name": "Yule Shoot Your Eye Out - Bonus Track",
+      "url": "https://open.spotify.com/track/24ZZV8nmMT0TD5jVdkqNhK"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -795,18 +795,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+        "name": "It's Christmas And I Fucking Miss You",
+        "url": "https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "Charly Bliss",
+          "url": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
+        },
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 157746,
-      "name": "I Had A Heart",
-      "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
+      "duration_ms": 161083,
+      "name": "It's Christmas And I Fucking Miss You",
+      "url": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -827,22 +831,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "It's Christmas And I Fucking Miss You",
-        "url": "https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn"
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
       "artists": [
         {
-          "name": "Charly Bliss",
-          "url": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
-        },
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
       ],
-      "duration_ms": 161083,
-      "name": "It's Christmas And I Fucking Miss You",
-      "url": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz"
+      "duration_ms": 157746,
+      "name": "I Had A Heart",
+      "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -943,6 +943,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Merry MeX-mas",
+        "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
+      },
+      "artists": [
+        {
+          "name": "El Vez",
+          "url": "https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
       },
@@ -975,38 +991,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Merry MeX-mas",
-        "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
-      },
-      "artists": [
-        {
-          "name": "El Vez",
-          "url": "https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Stoke Extinguisher",
-        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 139133,
-      "name": "New Year's Revolution",
-      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "December's Here",
         "url": "https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 102483,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Stoke Extinguisher",
+        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "New Year's Revolution",
+      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "A GC Christmas, Pt. 1",
-        "url": "https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 181991,
-      "name": "Christmas by the Phone",
-      "url": "https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Tis The Season To Be Fearless",
         "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 238422,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "A GC Christmas, Pt. 1",
+        "url": "https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 181991,
+      "name": "Christmas by the Phone",
+      "url": "https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/29BjO5ddpVEfIn9vtlNXi2"
+        "name": "Punk Rawk Christmas",
+        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
         }
       ],
-      "duration_ms": 216115,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U"
+      "duration_ms": 200573,
+      "name": "Punk Rawk Christmas",
+      "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
     }
   ],
   "unique_name": "Punk Christmas",

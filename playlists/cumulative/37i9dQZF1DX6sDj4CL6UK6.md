@@ -4,7 +4,7 @@
 
 > Finest of the Indian English Indie\. Cover \-Parekh & Singh
 
-114 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+117 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Horoscope](https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 4:03 | 2022-03-25 | 2022-05-23 |
 | [I Can't Go Back To Sleep](https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [I Can't Go Back To Sleep](https://open.spotify.com/album/7F52Qrxl2V5moUvEHf5hAc) | 4:38 | 2022-03-25 | 2022-06-30 |
 | [I Saw You in a Dream](https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [I Saw You in a Dream](https://open.spotify.com/album/33p2rB65gI3GQDxw0XdOzw) | 3:02 | 2022-03-25 |  |
-| [i'm a mess](https://open.spotify.com/track/6I2gceToKVNSteaBQZeM41) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [living a daydream](https://open.spotify.com/album/1X41RF1XEDbFDoQeEi2MER) | 2:53 | 2022-09-09 |  |
+| [i'm a mess](https://open.spotify.com/track/6I2gceToKVNSteaBQZeM41) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [living a daydream](https://open.spotify.com/album/1X41RF1XEDbFDoQeEi2MER) | 2:53 | 2022-09-09 | 2022-10-01 |
 | [I'm On Holiday](https://open.spotify.com/track/1o80HBoapHZKj4DfiEAvE2) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/2qUiZUyvXbvqyDXEUrkPIC) | 3:32 | 2022-07-28 |  |
 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2022-03-25 | 2022-07-29 |
 | [i'm tired](https://open.spotify.com/track/5UeN38kwUvd2pSd4gn1kAt) | [Trisha](https://open.spotify.com/artist/2Z5Y14aAgVmcGt9k9bzyL1) | [i'm tired](https://open.spotify.com/album/1hPXi29Hl972CSqagCVNNT) | 2:54 | 2022-05-25 |  |
@@ -75,6 +75,7 @@
 | [Keep](https://open.spotify.com/track/4eYkUYICxHoejgygQmBZR9) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [Keep \- Single](https://open.spotify.com/album/0VlDd0PvwmbCvCZO4qGcK5) | 2:24 | 2022-03-25 |  |
 | [Lemonade](https://open.spotify.com/track/29YHCfHLkqLLWcf8GhPnA0) | [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr) | [Mood](https://open.spotify.com/album/1KKnwcyHAvHuNkQebSgkxN) | 2:49 | 2022-03-25 | 2022-06-21 |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-03-25 |  |
+| [Love Is Love](https://open.spotify.com/track/4QOhdspHbF735AWRRGJ7Zn) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 2:52 | 2022-09-30 |  |
 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 | 2022-03-25 |  |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2022-03-25 |  |
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-09 |  |
@@ -85,6 +86,7 @@
 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 | 2022-03-25 |  |
 | [Never](https://open.spotify.com/track/1gfzJ5dFmiciUmt1DXt4ty) | [Sukruth Mallesh](https://open.spotify.com/artist/51tevckKFOo3yISAc0JDh1) | [Never](https://open.spotify.com/album/5Dok14CF9Vg7F9J6NNpohN) | 3:08 | 2022-07-08 |  |
 | [Ocean Calls My Name](https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Ocean Calls My Name](https://open.spotify.com/album/554nCrw78BshclRnREAjUV) | 4:23 | 2022-03-25 |  |
+| [Oceans](https://open.spotify.com/track/48IEgZ2qIuMXY8XTpGvlEK) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Oceans](https://open.spotify.com/album/62Sk2TEDaiPB7B45FIQCmw) | 3:45 | 2022-09-30 |  |
 | [On My Own](https://open.spotify.com/track/12jHntVUvHSFiXiLW1eaVy) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [On My Own](https://open.spotify.com/album/3IpkOKy7xlKRyJ8TNZGOz0) | 2:36 | 2022-03-25 |  |
 | [Paper Boats](https://open.spotify.com/track/4Js7oC6qWF8UgZgnBBVDfO) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Gouri and Aksha](https://open.spotify.com/artist/2pEp8Qlef5Pj2KHSE61zrF) | [Paper Boats](https://open.spotify.com/album/2zFL0B15XOryvnMv5QyVyI) | 3:47 | 2022-09-02 |  |
 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 | 2022-03-25 |  |
@@ -114,6 +116,7 @@
 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 | 2022-07-28 |  |
 | [Swimming](https://open.spotify.com/track/0jf7Z8WEKagWMyIIqioial) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Swimming](https://open.spotify.com/album/4cmTN5VnKA4aMvsMv0IzTQ) | 3:23 | 2022-03-25 |  |
 | [The End](https://open.spotify.com/track/0IkVhFaDqI39XlTRl5VPoK) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [The End](https://open.spotify.com/album/7pT89w7mNXavMZjUZOz7qn) | 3:46 | 2022-09-02 |  |
+| [The Hills Know Of You](https://open.spotify.com/track/0iDuVPiWspI7lcWRrFJ9LC) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/7bmnGlu7dJtSgACtv2cZNA) | 3:18 | 2022-09-30 |  |
 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 | 2022-03-25 |  |
 | [Tomorrow](https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Tomorrow](https://open.spotify.com/album/46ergrjBnO4VMGR4gc6HbS) | 3:59 | 2022-03-25 | 2022-09-10 |
 | [Traffic](https://open.spotify.com/track/4z2oHMR3XlJJyyME3ZOkPr) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [ill tapes, Vol\. 1](https://open.spotify.com/album/16UYyBhOMc8C6wCLagb1Vr) | 2:18 | 2022-05-06 |  |

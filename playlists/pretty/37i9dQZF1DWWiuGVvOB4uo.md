@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,792 likes - 193 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,071 likes - 193 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 80 | [Say](https://open.spotify.com/track/2kowzxt2lnJhw9yQqOOG2n) | [The Albertson Duo](https://open.spotify.com/artist/0jbFImQ3Ja4NWpzob434nE) | [Say](https://open.spotify.com/album/5gOVhTYiwAK8EbmgaPWVfB) | 3:22 |
 | 81 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 |
 | 82 | [Pretty Paper](https://open.spotify.com/track/4Uo9MMLohVxRyD4VPSDdDq) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Pretty Paper](https://open.spotify.com/album/1gPXN9FQn2BD4DLq0UyQwn) | 2:43 |
-| 83 | [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 |
+| 83 | [Kiss the Girl](https://open.spotify.com/track/4wJcS2F4VoJM2DR8en4EaW) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/1UzG66W3YFBdLnDG8Bh7hl) | 2:10 |
 | 84 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 |
 | 85 | [Glycerine](https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Glycerine](https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY) | 2:59 |
 | 86 | [I Like Me Better](https://open.spotify.com/track/3XhxKOiaCZcHb7YGmN4dvO) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [I Like Me Better](https://open.spotify.com/album/4vHrQ3IWPIZiaMyZ1ZXnjd) | 3:28 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 192 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jAzQGA8cl7MtPzgNQ5Ehx) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/3GINcZdettso6ktU4bTlmy) | 3:47 |
 | 193 | [Call Me](https://open.spotify.com/track/3oWSDDSjKpLsqbszAvzOap) | [Greg Gould](https://open.spotify.com/artist/7scMWGksw0YUGUVuewfyJo) | [Call Me](https://open.spotify.com/album/6J1KXsAGwAKYKrW3PoMSPw) | 3:40 |
 
-Snapshot ID: `MTY2NDQ2MTI1MSwwMDAwMDAwMGE3NmMxYzVhNDBiMjcyMmRjNDBiMjhkZDEwNmMzYTBm`
+Snapshot ID: `MTY2NDQ2MTI1MSwwMDAwMDAwMDljZDc3NTllN2JmYTBmYWFhMDVhZDdlNDdjZTJjNGQz`

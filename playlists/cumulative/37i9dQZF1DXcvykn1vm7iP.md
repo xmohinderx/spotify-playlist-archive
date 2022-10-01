@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-82 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+87 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-08-05 |  |
 | [Balm](https://open.spotify.com/track/0QluGNVWnSnUrc688kQwEN) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Balm](https://open.spotify.com/album/0kxlBRorKL49TM6f1VNnf2) | 3:12 | 2022-08-05 |  |
 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 | 2022-09-13 |  |
+| [Binaural Focus](https://open.spotify.com/track/4IMepS2LzBVhkrH99GSrbG) | [8D Spheres](https://open.spotify.com/artist/6PQZnRaF4PpSSUryfJMQjf) | [Binaural Focus](https://open.spotify.com/album/1yFwmonWECNMkhdRGSXcuj) | 3:15 | 2022-10-01 |  |
 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 | 2022-08-05 |  |
 | [Blankly Slept](https://open.spotify.com/track/0Z1OskWKPEpLniJPWVQjfL) | [Sheep Hurdle](https://open.spotify.com/artist/2EvRgp09ci3GA7yI7XE6C2) | [Blankly Slept](https://open.spotify.com/album/6P47YyI7GnT4kFh1J2e4Ak) | 3:35 | 2022-08-05 |  |
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-08-05 |  |
@@ -44,7 +45,7 @@
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2022-08-05 |  |
 | [Here & Now](https://open.spotify.com/track/0MzwONXcdPaDdsEy1SQwKm) | [Faye Brinkmann](https://open.spotify.com/artist/34THtJSLQbUmVxt5BxcmpC) | [Here & Now](https://open.spotify.com/album/1ZEALWmQkIP4kMFGvBqD4Y) | 3:08 | 2022-08-05 |  |
 | [Invisible Waters](https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Invisible Waters](https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9) | 3:06 | 2022-09-23 |  |
-| [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |
+| [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 | 2022-10-01 |
 | [Leading Light](https://open.spotify.com/track/5AL7XX3jWq8GfZLSRW0zC9) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Leading Light](https://open.spotify.com/album/1Go8ba7DjE6qpyiZr2ateh) | 3:08 | 2022-08-05 |  |
 | [Lemuria](https://open.spotify.com/track/3U10BbfZtZxMmiaEVuievr) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Awaken](https://open.spotify.com/album/39Ip3deSTOqNZzSRc8kSsm) | 2:47 | 2022-08-05 |  |
 | [Liquid](https://open.spotify.com/track/1npn4kWD5AXwPuoQPmrkKN) | [Vertical Mindset](https://open.spotify.com/artist/5vn8IRrcEm8nH3jlprOc6f) | [Liquid](https://open.spotify.com/album/4NiRRjKOFlrVglfLfbiuUu) | 3:18 | 2022-08-05 |  |
@@ -58,6 +59,7 @@
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-08-05 |  |
 | [Pathways](https://open.spotify.com/track/6z4ohxiXb7BvirAqOxlfR4) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Pathways](https://open.spotify.com/album/77i0t3E5F4jeyf9OO0u4rs) | 3:09 | 2022-08-05 |  |
 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 | 2022-08-05 |  |
+| [Peaceful Sundown](https://open.spotify.com/track/03o9SRxgQAu7lpmvqePASW) | [Buddha’s Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Peaceful Sundown](https://open.spotify.com/album/7owwupvVS9cNFJLvI1hQKI) | 2:34 | 2022-10-01 |  |
 | [Perception](https://open.spotify.com/track/43uAtp536KbblbYD1K6h99) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Axiom](https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW) | 3:11 | 2022-09-13 |  |
 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 | 2022-08-05 |  |
 | [Petrichor](https://open.spotify.com/track/5nDE13yxQhHjYUCfZs2KYL) | [Gus Pachis](https://open.spotify.com/artist/0NOlCBBabcH18ynPm8D9Mp) | [Petrichor](https://open.spotify.com/album/7EbaELvX8k5l6RLs2MvwoQ) | 2:57 | 2022-08-05 |  |
@@ -69,6 +71,7 @@
 | [Seraphic](https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Seraphic](https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5) | 3:32 | 2022-08-23 |  |
 | [Silverhearts](https://open.spotify.com/track/20EmHh9TVgaZUZ9UvmlvUv) | [Taylor Stephens](https://open.spotify.com/artist/49Cmx1Yp6lQrseq3v712Kc) | [Silverhearts](https://open.spotify.com/album/763n56FRXMTLlU1RrWDvCD) | 3:04 | 2022-08-05 |  |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-15 |  |
+| [Sleeping Moons](https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:11 | 2022-10-01 |  |
 | [Slow Comets](https://open.spotify.com/track/3RooVmiw2ZTwu3rnBNAq1f) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [Slow Comets](https://open.spotify.com/album/6KkIHN9fRp96181Q3Y1kV5) | 2:40 | 2022-08-05 |  |
 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 | 2022-08-05 |  |
 | [Soundscape \- 125 Hz](https://open.spotify.com/track/5aaumNrLeFcJ0BTS23muLa) | [Cha Kra](https://open.spotify.com/artist/1ik6KM5qOycsX1gAX1O5UJ) | [Soundscapes For Meditation And Sleep](https://open.spotify.com/album/20rpIRzKgRuOh0haWlj6fw) | 2:26 | 2022-08-05 |  |
@@ -77,6 +80,7 @@
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-08-05 |  |
 | [Sunchada](https://open.spotify.com/track/6hVfYrQuNBz9MT8Kk5JX0p) | [Phala Magna](https://open.spotify.com/artist/0vFpciAlbVVQRqIOrJW2Dx) | [Sunchada](https://open.spotify.com/album/2SLyvaAXcUDo3D2qWevpyj) | 3:27 | 2022-08-05 |  |
 | [Surficial](https://open.spotify.com/track/3Yf1WOs2Qmp26M0h81gJVr) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Surficial](https://open.spotify.com/album/06LUgatj9BWv7fuaGAGYjJ) | 2:34 | 2022-08-05 |  |
+| [Svävar Fritt](https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Svävar Fritt](https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu) | 3:04 | 2022-10-01 |  |
 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 | 2022-08-05 |  |
 | [Symmetry](https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:00 | 2022-08-05 |  |
 | [The Old Silo in Kelvinside](https://open.spotify.com/track/18IV84ZuajnPzEzt7cCWSy) | [Professor Daydream](https://open.spotify.com/artist/3v8FLONDn3ZhFfIb75WLUg) | [Wundt Illusion](https://open.spotify.com/album/0ZCAK2T61AbkcPnAiGC4IM) | 3:16 | 2022-08-05 |  |
@@ -84,6 +88,7 @@
 | [Transcendental Waves](https://open.spotify.com/track/0wHxhO1wW2Xa2sjszhpYfy) | [Hibiskus](https://open.spotify.com/artist/092ojOuOkibdb82lTdKhsJ) | [Transcendental Waves](https://open.spotify.com/album/0R9tXgiJeGYi2qrWGh01E8) | 2:20 | 2022-08-05 |  |
 | [Unconscious Hours](https://open.spotify.com/track/39ziD9wgBpKjA7lhuv9jPT) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Natural Events](https://open.spotify.com/album/5be1q5HZtRuUZtWLXB4TVB) | 3:28 | 2022-08-05 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-08-05 |  |
+| [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-10-01 |  |
 | [Vivid Imagination](https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG) | [Heaven on Earth Instrumental Universe](https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt) | [Psybient \(Psychedelic Ambient Music\)](https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM) | 3:16 | 2022-09-20 |  |
 | [Water Shapes](https://open.spotify.com/track/2BXn2oEXL6XD2iXzuSzd0g) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Water Shapes](https://open.spotify.com/album/4gRZeAvNFnIQZvhUEPbf2H) | 3:20 | 2022-08-05 |  |
 | [Y](https://open.spotify.com/track/2aO1Kx044UxkdUn9HMjsnY) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Y](https://open.spotify.com/album/6HFV1kH4B3WPJWfhxF8CAF) | 3:29 | 2022-08-05 |  |

@@ -1,28 +1,28 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 410012,
+  "num_followers": 410053,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NDcyNSwwMDAwMDAwMDIyOTUzNDk2N2E3NjE5MTFjZDI5NjI1NWI5YmU4ZWRk",
+  "snapshot_id": "MTY2NDU1NjcyMSwwMDAwMDAwMDg1Nzk5YWQxZTU2NmNjODc2MWJiMTIwZjljNGNkNDhk",
   "tracks": [
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 366004,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
+      "duration_ms": 231546,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -59,6 +59,38 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 156963,
+      "name": "Shade of Yellow",
+      "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
       },
@@ -71,22 +103,6 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "Be Good Be Kind",
-        "url": "https://open.spotify.com/album/61cjUw6E7Jm1kfGRefBzS9"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 217447,
-      "name": "Be Good Be Kind",
-      "url": "https://open.spotify.com/track/4jASXavs4L1Z5p5QEfGD3e"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -155,34 +171,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+        "name": "Birthday Cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
         }
       ],
-      "duration_ms": 156963,
-      "name": "Shade of Yellow",
-      "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+      "duration_ms": 205280,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -199,22 +199,6 @@
       "duration_ms": 157373,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "Birthday Cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Birthday Cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -287,54 +271,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Call Me A Dreamer",
-        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 228798,
-      "name": "Call Me A Dreamer",
-      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
-        "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
-      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "MEAN!",
         "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
@@ -351,18 +287,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/62ZCpVRnSLUpGikEBQgNKF"
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 181054,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/4LOj7r7dNiGQHD1Ixtl3dd"
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -431,22 +367,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -459,6 +379,22 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Miserable Man",
+        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 232991,
+      "name": "Miserable Man",
+      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -483,18 +419,34 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "home tapes",
-        "url": "https://open.spotify.com/album/5jsREy8uHU31ps84AQ96H9"
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
       },
       "artists": [
         {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 232933,
-      "name": "till you brought me home - demo",
-      "url": "https://open.spotify.com/track/5YZXx9yMJKEEDAzmTJIIpm"
+      "duration_ms": 191375,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Best Day Of My Life",
+        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -515,38 +467,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 191375,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "= (Tour Edition)",
-        "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -563,18 +483,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Best Day Of My Life",
-        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+      "duration_ms": 366004,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -723,18 +643,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n"
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 239865,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA"
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -755,18 +675,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n"
       },
       "artists": [
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
+      "duration_ms": 239865,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -783,22 +703,6 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "Crisis / Secret / Set Me Free",
-        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Crisis",
-      "url": "https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -831,6 +735,22 @@
       "duration_ms": 181093,
       "name": "You - Live",
       "url": "https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Crisis / Secret / Set Me Free",
+        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -971,22 +891,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Something to Someone (Piano)",
-        "url": "https://open.spotify.com/album/2es7Wvv9mh7IK9K874jQJW"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Something to Someone - Piano",
-      "url": "https://open.spotify.com/track/5YLGr2aXsNZWpZmwQiaX7H"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "my dear",
         "url": "https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC"
       },
@@ -999,6 +903,22 @@
       "duration_ms": 132122,
       "name": "my dear",
       "url": "https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Something to Someone (Piano)",
+        "url": "https://open.spotify.com/album/2es7Wvv9mh7IK9K874jQJW"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Something to Someone - Piano",
+      "url": "https://open.spotify.com/track/5YLGr2aXsNZWpZmwQiaX7H"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1051,22 +971,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Keep Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM"
-      },
-      "artists": [
-        {
-          "name": "Ashley Singh",
-          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Keep Me - Acoustic",
-      "url": "https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -1095,6 +999,38 @@
       "duration_ms": 198794,
       "name": "Scars",
       "url": "https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Keep Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM"
+      },
+      "artists": [
+        {
+          "name": "Ashley Singh",
+          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Keep Me - Acoustic",
+      "url": "https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1131,18 +1067,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+        "name": "Call Me A Dreamer",
+        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
       },
       "artists": [
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
+      "duration_ms": 228798,
+      "name": "Call Me A Dreamer",
+      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1163,6 +1099,22 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "Margaux",
+        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 146810,
+      "name": "Margaux",
+      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "Second Hand Love (feat. Ruben)",
         "url": "https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey"
       },
@@ -1179,22 +1131,6 @@
       "duration_ms": 204216,
       "name": "Second Hand Love (feat. Ruben)",
       "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "Margaux",
-        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 146810,
-      "name": "Margaux",
-      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1277,6 +1213,22 @@
       "url": "https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL"
     },
     {
+      "added_at": "2022-10-01 01:47:08",
+      "album": {
+        "name": "East End Coast",
+        "url": "https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/7iBPtgnL0CcOKy96R7JXIO"
+    },
+    {
       "added_at": "2022-09-13 15:58:45",
       "album": {
         "name": "Give You Love",
@@ -1327,22 +1279,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "To Love A Man",
-        "url": "https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 161140,
-      "name": "To Love A Man",
-      "url": "https://open.spotify.com/track/659179UI47crJGFp0RrCwU"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Better in the Shade",
         "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
       },
@@ -1355,6 +1291,22 @@
       "duration_ms": 216920,
       "name": "Better in the Shade",
       "url": "https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "To Love A Man",
+        "url": "https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 161140,
+      "name": "To Love A Man",
+      "url": "https://open.spotify.com/track/659179UI47crJGFp0RrCwU"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1391,6 +1343,22 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "Be Good Be Kind",
+        "url": "https://open.spotify.com/album/61cjUw6E7Jm1kfGRefBzS9"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 217447,
+      "name": "Be Good Be Kind",
+      "url": "https://open.spotify.com/track/4jASXavs4L1Z5p5QEfGD3e"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "Birds That Flew and Ships That Sailed",
         "url": "https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0"
       },
@@ -1423,22 +1391,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 174567,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4"
       },
@@ -1451,6 +1403,22 @@
       "duration_ms": 205453,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 174567,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1519,22 +1487,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "With The Band / Bruises & Scratches",
-        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 173070,
-      "name": "With The Band",
-      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/4Pai2PESVr2exnYu71e1ML"
       },
@@ -1547,6 +1499,22 @@
       "duration_ms": 195282,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/4UGssFKaiKeeNqtQvPNH7n"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "With The Band / Bruises & Scratches",
+        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 173070,
+      "name": "With The Band",
+      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1631,6 +1599,22 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "Bedroom Walls",
+        "url": "https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy"
+      },
+      "artists": [
+        {
+          "name": "Etaoin",
+          "url": "https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Pale Damp Cheeks",
+      "url": "https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "A Good Love, Pt. 2",
         "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 213556,
       "name": "A Good Love, Pt. 2",
       "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Happier Without Me",
+      "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
     }
   ],
   "unique_name": "Easy",

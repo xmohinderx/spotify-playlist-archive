@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 333772,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
@@ -2469,6 +2469,24 @@
       "duration_ms": 193422,
       "name": "Release",
       "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232304,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2"
     },
     {
       "album": {

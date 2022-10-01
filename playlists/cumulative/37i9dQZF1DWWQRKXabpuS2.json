@@ -1390,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Lail EL Mefarag",
+        "url": "https://open.spotify.com/album/4lHyB1fOo2GPI34u47qwSD"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274468,
+      "name": "Lail EL Mefarag",
+      "url": "https://open.spotify.com/track/2jr8YIesCQsPzjLpjwJx20"
+    },
+    {
+      "album": {
         "name": "Leeh Ma Teji",
         "url": "https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd"
       },

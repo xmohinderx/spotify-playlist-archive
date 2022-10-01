@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-113 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+115 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2022-05-25 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-05-25 |  |
 | [Evergreen](https://open.spotify.com/track/6udaDN01GpjLsp2YIp7Tne) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Patterns in Nature](https://open.spotify.com/album/6FQBByldkbuvsStaFrRdB1) | 2:31 | 2022-05-25 |  |
+| [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Prana Morales](https://open.spotify.com/artist/4VUxmx1n8byJVJL4rqlzvS) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 | 2022-09-30 |  |
 | [Falling Leaves](https://open.spotify.com/track/3usFmO6297RSHmn0gvE1G6) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 2:59 | 2022-05-25 |  |
 | [Forensia](https://open.spotify.com/track/2WtgSzDE0rAjr5T4bZT3Yz) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Forensia](https://open.spotify.com/album/4GvUzLdBV8aLCHTiU0iC9x) | 2:56 | 2022-05-25 |  |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-05-25 |  |
@@ -74,6 +75,7 @@
 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 | 2022-07-15 |  |
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-05-25 |  |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2022-05-25 |  |
+| [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
 | [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2022-05-25 |  |
 | [Ocean Unwind](https://open.spotify.com/track/2HLgn2iuSkMPlMCdV3BNdH) | [Haf](https://open.spotify.com/artist/4ZN3pGwIN6s1NNiKAivvuM) | [Ocean Unwind](https://open.spotify.com/album/6hAXiuDrYUvmhYjEZdfXkq) | 3:06 | 2022-07-08 |  |
 | [Oceanic Adagio](https://open.spotify.com/track/1GniADRRmWcbMxIvoFG5yq) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Oceanic Adagio](https://open.spotify.com/album/7JjdS43xvxl5gaoG3PcHIr) | 3:23 | 2022-05-25 |  |

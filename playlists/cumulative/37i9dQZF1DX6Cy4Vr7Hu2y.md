@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: TRI.BE\(트라이비\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-282 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
+283 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Because of you](https://open.spotify.com/track/42jl3tTIai0aQ49JDW4MGk) | [Kim Greem](https://open.spotify.com/artist/1mJ8v3a8vsNWdP0FpUqeda) | [Because of you](https://open.spotify.com/album/46tJqWi5jtkMVbjh19X9PG) | 3:38 | 2021-11-21 | 2022-07-10 |
 | [Better](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:19 | 2021-11-21 | 2022-07-26 |
 | [Better Me](https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [BE](https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX) | 3:20 | 2021-11-21 | 2022-07-17 |
-| [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-11-21 |  |
+| [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-11-21 | 2022-10-01 |
 | [BIRTHDAY](https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/7GfqgsiW63VBNLRvIrhqLx) | 3:05 | 2021-11-21 | 2022-07-29 |
 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 | 2022-07-07 | 2022-08-28 |
 | [Blossom Flower](https://open.spotify.com/track/7IJdSAtU6GS3AzvvSmvgUs) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Blossom Flower](https://open.spotify.com/album/4CKtim3edPtjSJVbz5SQbF) | 3:47 | 2021-11-21 | 2022-04-21 |
@@ -79,6 +79,7 @@
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-04 |  |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-21 |  |
 | [Fever](https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:34 | 2022-03-22 | 2022-07-28 |
+| [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-10-01 |  |
 | [FLASH](https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [FLASH](https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA) | 3:20 | 2022-08-31 | 2022-09-07 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 |  |
 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 | 2021-11-21 |  |

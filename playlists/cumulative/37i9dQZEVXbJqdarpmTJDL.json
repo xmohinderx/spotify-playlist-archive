@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 216000,
       "name": "Asteio",
       "url": "https://open.spotify.com/track/4EtdWayd2ovobv6F3MeoYU"
@@ -5216,6 +5216,24 @@
     },
     {
       "album": {
+        "name": "Emmonh",
+        "url": "https://open.spotify.com/album/7oYpjEf9RT33LNM7MSKIlc"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236470,
+      "name": "Emmonh",
+      "url": "https://open.spotify.com/track/3xo0AJj0gWlp51SqoGaGDv"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -6207,6 +6225,28 @@
       "duration_ms": 304311,
       "name": "Gangsta Party",
       "url": "https://open.spotify.com/track/4QFwY4j7vMLMH9K2igX7Km"
+    },
+    {
+      "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
       "album": {
@@ -10624,6 +10664,32 @@
     },
     {
       "album": {
+        "name": "Mavra TN",
+        "url": "https://open.spotify.com/album/7bGTseoLQq88SYxqA7xWxB"
+      },
+      "artists": [
+        {
+          "name": "Owner 101",
+          "url": "https://open.spotify.com/artist/0ddfMggw98JypeXgtSpxoF"
+        },
+        {
+          "name": "Franco 101",
+          "url": "https://open.spotify.com/artist/5wZd3HBBfuvbztr2Yw0j66"
+        },
+        {
+          "name": "Corle 101",
+          "url": "https://open.spotify.com/artist/5MnaDx2z7cmS7xz3l2mKxg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233231,
+      "name": "Mavra TN",
+      "url": "https://open.spotify.com/track/7oM0ThhmkJ4ge8R6Cl9gHf"
+    },
+    {
+      "album": {
         "name": "Mavromalla",
         "url": "https://open.spotify.com/album/58gbkbk8AFg3G0CdLnYjM5"
       },
@@ -10635,7 +10701,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180058,
       "name": "Mavromalla",
       "url": "https://open.spotify.com/track/4fwvjWWylOsMxOsEbq2nsa"
@@ -11813,7 +11879,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 197938,
       "name": "NANA",
       "url": "https://open.spotify.com/track/7hVXZVcmpcHq1DJ05dnFZK"

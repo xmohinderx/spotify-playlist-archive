@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 207722,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
@@ -745,6 +745,24 @@
       "duration_ms": 200000,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
+      "album": {
+        "name": "Burning Up Slow",
+        "url": "https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124987,
+      "name": "Burning Up Slow",
+      "url": "https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw"
     },
     {
       "album": {
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 228177,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/5HkslahmVaoXXjbphnlYmZ"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 230178,
       "name": "Hypotheticals",
       "url": "https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 210590,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra"
@@ -3885,7 +3903,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 142000,
       "name": "Third Wheel - JACK-O Remix",
       "url": "https://open.spotify.com/track/0wg73ZCjX3uamQZiF94K0K"

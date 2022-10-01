@@ -630,6 +630,28 @@
     },
     {
       "album": {
+        "name": "Blowing In From Chicago",
+        "url": "https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        },
+        {
+          "name": "John Gilmore",
+          "url": "https://open.spotify.com/artist/65A4foeosCkf3zaigZJuzF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356746,
+      "name": "Bo-Fill - Rudy Van Gelder 24Bit Mastering",
+      "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
+    },
+    {
+      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz"
       },
@@ -1742,7 +1764,7 @@
     },
     {
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet (Expanded Edition)",
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
       "artists": [
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 304733,
       "name": "Salt And Pepper",
       "url": "https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi"

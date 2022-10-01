@@ -1,12 +1,12 @@
 {
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
-  "num_followers": 91980,
+  "num_followers": 92014,
   "original_name": "Cl\u00e1sicos del Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQwMzQ2MSwwMDAwMDAwMDVjMGFjMDY0YTdhYWU0YzFhOGY0ZWJiZGVhMjIxYTky",
+  "snapshot_id": "MTY2MjQwMzQ2MSwwMDAwMDAwMGYwOTM3M2UzNTM1NDFlZDliOTdmMTgwYzU3YjdiMGE2",
   "tracks": [
     {
       "added_at": "2022-09-05 18:44:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-05 18:44:21",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
-    },
-    {
-      "added_at": "2022-09-05 18:44:21",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
         "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 282760,
       "name": "Mi Vida",
       "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
+    },
+    {
+      "added_at": "2022-09-05 18:44:21",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
     },
     {
       "added_at": "2022-09-05 18:44:21",

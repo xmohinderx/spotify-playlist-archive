@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Cam'Ron",
-  "num_followers": 231928,
+  "num_followers": 232109,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDAwMGZmMmMzMmU1YzIzOTE1ZTExMjFlMjNiMTI4ODgxYzdh",
+  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDAwMGFlODQ4MjU5YWQzMTI3NmZlZmQyNGU1NTdlYzJhYzA0",
   "tracks": [
     {
       "added_at": "2022-07-01 04:00:00",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 226986,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
     },
     {
       "added_at": "2022-07-01 04:00:00",

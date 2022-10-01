@@ -986,6 +986,24 @@
     },
     {
       "album": {
+        "name": "Welcome to MY WONDERLAND",
+        "url": "https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb"
+      },
+      "artists": [
+        {
+          "name": "Nao Toyama",
+          "url": "https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "de messiah",
+      "url": "https://open.spotify.com/track/5HPkVEqdGS65rqvX4a5UFo"
+    },
+    {
+      "album": {
         "name": "Anohino Kotoba / Growing",
         "url": "https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ"
       },
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 228200,
       "name": "de messiah",
       "url": "https://open.spotify.com/track/3KnUNThgGLUcGMTiOtyPYl"

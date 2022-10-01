@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: The Backseat Lovers",
-  "num_followers": 81422,
+  "num_followers": 81457,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDdmMWRkZjkwMzllNGExOTIxMWUxZmIyNDIzYTk2Mzkw",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDM5YThlNTBiNWQ2OTE0MjYzYWUwMmVjMzg5YzRhYzM4",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -295,18 +295,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "sheluvme",
-        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
+        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 150840,
-      "name": "sheluvme",
-      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
+      "duration_ms": 149160,
+      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -343,22 +347,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
-        "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
+        "name": "sheluvme",
+        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
       },
       "artists": [
         {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 149160,
-      "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+      "duration_ms": 150840,
+      "name": "sheluvme",
+      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "cross your mind",
-        "url": "https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 160783,
-      "name": "cross your mind",
-      "url": "https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "minnesota is a place that exists",
         "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 138000,
       "name": "minnesota is a place that exists",
       "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "cross your mind",
+        "url": "https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 160783,
+      "name": "cross your mind",
+      "url": "https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Asphalt Meadows",
         "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 226320,
       "name": "Here to Forever",
       "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Fruity",
-        "url": "https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Fruity",
-      "url": "https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "CHAMPAGNE",
         "url": "https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 180637,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Fruity",
+        "url": "https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Fruity",
+      "url": "https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 140921,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Girls Make Me Wanna Die",
         "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 216187,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "duration_ms": 140921,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh"
+        "name": "We're Not In Orbit Yet\u2026",
+        "url": "https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT"
       },
       "artists": [
         {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 154280,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r"
+      "duration_ms": 310840,
+      "name": "We're Not In Orbit Yet\u2026",
+      "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1403,34 +1403,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "We're Not In Orbit Yet\u2026",
-        "url": "https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT"
+        "name": "High School",
+        "url": "https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
         }
       ],
-      "duration_ms": 310840,
-      "name": "We're Not In Orbit Yet\u2026",
-      "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Seasick",
-        "url": "https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 150510,
-      "name": "Seasick",
-      "url": "https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S"
+      "duration_ms": 154280,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 184253,
       "name": "The Rodeo",
       "url": "https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Seasick",
+        "url": "https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 150510,
+      "name": "Seasick",
+      "url": "https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Earth Worship",
-        "url": "https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA"
-      },
-      "artists": [
-        {
-          "name": "Rubblebucket",
-          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
-        }
-      ],
-      "duration_ms": 217530,
-      "name": "Earth Worship",
-      "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
       },
@@ -1651,22 +1635,34 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Beautiful World - Echo in the Dark, Pt. II",
-        "url": "https://open.spotify.com/album/1hyrW80YTGDz5fWS5kXzuH"
+        "name": "Earth Worship",
+        "url": "https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        },
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
         }
       ],
-      "duration_ms": 183586,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/2dPhaqqNSBsmlxVknA2M6F"
+      "duration_ms": 217530,
+      "name": "Earth Worship",
+      "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     }
   ],
   "unique_name": "Et Alt",

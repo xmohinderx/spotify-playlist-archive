@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: Milky Chance",
+  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: Giovannie & the Hired Guns",
   "name": "The New Alt",
   "published_playlist_ids": [
     "4nMPQOlCNMSE5OFGV7xGWt"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/0REv856zadB0e8IM1brlwr"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 195823,
       "name": "All the Things I Hate About You",
       "url": "https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW"
@@ -733,10 +733,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "album": {
+        "name": "Battle Scars",
+        "url": "https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171672,
+      "name": "Battle Scars",
+      "url": "https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi"
     },
     {
       "album": {
@@ -1022,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "Makes Me Sick Makes Me Smile",
+        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Black Tar",
+      "url": "https://open.spotify.com/track/1Ipu45jQi7z03PSi3ce35h"
+    },
+    {
+      "album": {
         "name": "Blacklight Shine",
         "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
       },
@@ -1127,6 +1163,28 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "album": {
+        "name": "Box in a Heart (with renforshort)",
+        "url": "https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Box in a Heart (with renforshort)",
+      "url": "https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3"
     },
     {
       "album": {
@@ -1321,7 +1379,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 122173,
       "name": "Buy likes",
       "url": "https://open.spotify.com/track/4PpyNUrgNO7OhHcBosuonP"
@@ -1808,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/7h4rNt0Jka3I0D3wLBJqYG"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO"
+    },
+    {
+      "album": {
         "name": "curious/furious",
         "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
       },
@@ -2227,7 +2303,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 229517,
       "name": "Don't Let The Light Go Out",
       "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
@@ -2629,6 +2705,24 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "album": {
+        "name": "ENTITLED MAN",
+        "url": "https://open.spotify.com/album/49Ar7KlbIoX8XasFMYVfdp"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145551,
+      "name": "ENTITLED MAN",
+      "url": "https://open.spotify.com/track/7Gak6IaDN5PsalA9W5TLez"
     },
     {
       "album": {
@@ -4152,6 +4246,24 @@
     },
     {
       "album": {
+        "name": "I Can't Grow Up",
+        "url": "https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "I Can\u2019t Grow Up",
+      "url": "https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF"
+    },
+    {
+      "album": {
         "name": "I Don't Want to Talk",
         "url": "https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I"
       },
@@ -5159,7 +5271,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 249995,
       "name": "Love Of Mine - Night Visions Demo",
       "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
@@ -5783,10 +5895,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
+    },
+    {
+      "album": {
+        "name": "new body rhumba (from the film White Noise)",
+        "url": "https://open.spotify.com/album/0NIz7gtDhMS3pqFnCgcZCy"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443853,
+      "name": "new body rhumba (from the film White Noise)",
+      "url": "https://open.spotify.com/track/2iqA5Na5vlo0bnZUf8KT1N"
     },
     {
       "album": {
@@ -5867,7 +5997,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 129812,
       "name": "Next Ex",
       "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
@@ -6183,6 +6313,24 @@
       "duration_ms": 265107,
       "name": "Out the Neighbourhood",
       "url": "https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6"
+    },
+    {
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218936,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
     },
     {
       "album": {
@@ -6773,7 +6921,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 181797,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
@@ -7242,6 +7390,24 @@
     },
     {
       "album": {
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
+    },
+    {
+      "album": {
         "name": "Scared Together",
         "url": "https://open.spotify.com/album/1ZFett7XcEMcGLIaod85wq"
       },
@@ -7419,7 +7585,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 212080,
       "name": "Self Portrait",
       "url": "https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh"
@@ -7686,6 +7852,28 @@
     },
     {
       "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+    },
+    {
+      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -7755,7 +7943,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 172672,
       "name": "Singapore",
       "url": "https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z"
@@ -8135,6 +8323,24 @@
       "duration_ms": 227405,
       "name": "Stepped On A Bee",
       "url": "https://open.spotify.com/track/4oHHeXVDV8lcZNfMYpGP59"
+    },
+    {
+      "album": {
+        "name": "Stick Around",
+        "url": "https://open.spotify.com/album/7ochAwB26q3WPLmeEnnsYF"
+      },
+      "artists": [
+        {
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202330,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/1bgCgY2vAwJ3mRMjb0g8lA"
     },
     {
       "album": {
@@ -8874,6 +9080,42 @@
     },
     {
       "album": {
+        "name": "Things You Make Me Do",
+        "url": "https://open.spotify.com/album/6R7lEkunZZDznrlqQcxDxh"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185502,
+      "name": "Things You Make Me Do",
+      "url": "https://open.spotify.com/track/5yRkLnZ3rcvnJUyE2MJie2"
+    },
+    {
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207652,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI"
+    },
+    {
+      "album": {
         "name": "thought it was",
         "url": "https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj"
       },
@@ -8915,6 +9157,24 @@
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
+    },
+    {
+      "album": {
+        "name": "three wheels and it still drives!",
+        "url": "https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200117,
+      "name": "three wheels and it still drives!",
+      "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
     },
     {
       "album": {
@@ -10217,7 +10477,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 229517,
       "name": "Wretched",
       "url": "https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd"
@@ -10325,7 +10585,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 166758,
       "name": "you're not special",
       "url": "https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB"

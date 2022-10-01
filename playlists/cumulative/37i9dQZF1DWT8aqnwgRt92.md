@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-248 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+250 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 | 2022-07-28 | 2022-08-17 |
 | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/track/2VkhXYlEEx0753IjeQCeof) | [Onishi Aguri](https://open.spotify.com/artist/3hp538apqv8zWeIa31uKe7) | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/album/2umPEmciHjUCfqziD1B7zG) | 3:58 | 2022-07-28 | 2022-08-03 |
 | [geki](https://open.spotify.com/track/0pNibb6CapyORpwvkbpFEm) | [zonji](https://open.spotify.com/artist/5mAHChNntfSXlZA1MvfWmv) | [geki](https://open.spotify.com/album/4yHPXYnI5USQhghoflfuac) | 4:05 | 2022-07-19 |  |
+| [Gen Ai Yugi](https://open.spotify.com/track/3l2xktQvGgo9fNsb6SzaNw) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Gen Ai Yugi](https://open.spotify.com/album/2hdx95aAzVO3DE4brSpH3a) | 3:48 | 2022-09-29 |  |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-05-28 | 2022-07-27 |
 | [Glitter](https://open.spotify.com/track/4N7q20wGjD32efYY5r9G09) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Glitter](https://open.spotify.com/album/3lSsvZCA16bhwPUgoq7TT3) | 3:20 | 2022-07-26 |  |
 | [Go Live!](https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Go Live!](https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv) | 3:50 | 2022-06-28 | 2022-07-06 |
@@ -122,6 +123,7 @@
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-28 | 2022-08-17 |
 | [SUPER SHOCK \(with 羽多野 渉\)](https://open.spotify.com/track/7tFZu3Lr43csLBWNooNSd2) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0), [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [SUPER SHOCK \(with 羽多野 渉\)](https://open.spotify.com/album/4DLui1rvYIcnE5cu3YbU6Q) | 3:49 | 2022-09-27 |  |
+| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 |  |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-06-07 | 2022-07-06 |
 | [TAXIDRIVER](https://open.spotify.com/track/7xl1B2jbBWpKsBX6MmcGTb) | [小戸川\(CV:花江夏樹\)](https://open.spotify.com/artist/6hSuI6670s3Jw5GZyWwg9Q) | [ODDTAXI CHARACTER SONG EP](https://open.spotify.com/album/71X44bA7wxYBDr0NwtlIE9) | 2:51 | 2022-07-05 | 2022-07-13 |
 | [TBD](https://open.spotify.com/track/6t4HZstA6tlgXyhTwcry6R) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/3eTggf0BQGCCjSKTPehaHD) | 3:56 | 2022-05-28 | 2022-06-26 |
@@ -147,7 +149,7 @@
 | [きらりらり](https://open.spotify.com/track/4GQjav2jvs9tmbC0KkYtCj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [きらりらり](https://open.spotify.com/album/7iXTH7HUVN26FCK1RoBiG4) | 3:42 | 2022-08-30 |  |
 | [ここにある約束](https://open.spotify.com/track/0APwmGFaMz1i7yJzB7RNJj) | [であいもん\(ayaho+曽我淳一\)](https://open.spotify.com/artist/5Fb3qOyeKFVcSsbxzPLkdK) | [TVアニメ「であいもん」エンディングテーマ ここにある約束](https://open.spotify.com/album/0gO3GOODkLfILLTQGuVgHQ) | 3:46 | 2022-05-28 | 2022-06-15 |
 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-05-28 | 2022-07-06 |
-| [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 | 2022-09-29 |  |
+| [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 | 2022-09-29 | 2022-10-01 |
 | [ずっと好きだった](https://open.spotify.com/track/2ZvKYdnWNzzSiIbS88yCzp) | [榎木淳弥](https://open.spotify.com/artist/4jl9awuZJuOK7UFDFkhHUI) | [\[Re:collection\] HIT SONG cover series feat.voice actors \~10's\-20's EDITION\~](https://open.spotify.com/album/3yMUzckDJ4TCnioXn783VO) | 4:08 | 2022-07-26 | 2022-07-29 |
 | [なんだなんなんだ!](https://open.spotify.com/track/4vjKgV2rjD38Xs0L2RSDaU) | [Mikako Komatsu](https://open.spotify.com/artist/4gzfRfkcrQ3Lle7ONpYZJO) | [なんだなんなんだ!](https://open.spotify.com/album/7eMqKpD3zmKrWaII7GMSVr) | 3:58 | 2022-08-02 | 2022-08-17 |
 | [はじまりのサイン](https://open.spotify.com/track/0gDwPtNkiPPMvnfPddX9AG) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [はじまりのサイン](https://open.spotify.com/album/4ARKEbQec1IrJdYfzUHp7V) | 4:35 | 2022-05-28 | 2022-07-06 |
@@ -212,7 +214,7 @@
 | [天灯](https://open.spotify.com/track/0bfsRP5VUaseeZypS4uZ1j) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇」オープニングテーマ「天灯」](https://open.spotify.com/album/3r04pAxWWkkH8lhG4pX7PF) | 3:40 | 2022-08-23 | 2022-08-25 |
 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 | 2022-07-07 |  |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-05-28 | 2022-07-13 |
-| [幻愛遊戯](https://open.spotify.com/track/1jQSxEc0Yfcj6CmWdpmBZm) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [幻愛遊戯](https://open.spotify.com/album/4RKBVmR8igpcLT2vvNFaNR) | 3:48 | 2022-09-29 |  |
+| [幻愛遊戯](https://open.spotify.com/track/1jQSxEc0Yfcj6CmWdpmBZm) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [幻愛遊戯](https://open.spotify.com/album/4RKBVmR8igpcLT2vvNFaNR) | 3:48 | 2022-09-29 | 2022-10-01 |
 | [廻廻奇譚 \- from CrosSing](https://open.spotify.com/track/2pmkpQZLZ5XgaemmC2rKG2) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [廻廻奇譚 \- from CrosSing](https://open.spotify.com/album/0W09G6ikA8kPk9XXTOkTSU) | 3:43 | 2022-09-27 | 2022-09-29 |
 | [怪物 \- from CrosSing](https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [怪物 \- from CrosSing](https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0) | 3:28 | 2022-05-28 | 2022-07-01 |
 | [恋はエクスプロージョン](https://open.spotify.com/track/2dKAXekTOOuHA9fLTqvSUj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [恋はエクスプロージョン](https://open.spotify.com/album/6SVzGAC0PQpG3rGdh4GAWl) | 3:37 | 2022-05-28 | 2022-07-06 |

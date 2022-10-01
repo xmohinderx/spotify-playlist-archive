@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 213975,
       "name": "Crime Ministers",
       "url": "https://open.spotify.com/track/76tU16o1XPOKGUlKobpTVY"
@@ -3413,7 +3413,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 146573,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
@@ -3709,6 +3709,24 @@
       "duration_ms": 166522,
       "name": "In Hell",
       "url": "https://open.spotify.com/track/5qy6ZfQRAM8sGJGCkUW2It"
+    },
+    {
+      "album": {
+        "name": "KISS THE RING",
+        "url": "https://open.spotify.com/album/0JvoIKuIaMFmGeRUmHvvQg"
+      },
+      "artists": [
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205316,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
     },
     {
       "album": {
@@ -4115,7 +4133,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 146947,
       "name": "Krohmeconut Wolf",
       "url": "https://open.spotify.com/track/0DZVkUkr5udpeqlv2lfWdB"
@@ -6118,6 +6136,24 @@
     },
     {
       "album": {
+        "name": "Bigg Perrm",
+        "url": "https://open.spotify.com/album/0j1hO68a3wwYmJoYfWyc7q"
+      },
+      "artists": [
+        {
+          "name": "Psalm One",
+          "url": "https://open.spotify.com/artist/1nuhKrHzivsm88EjIE67L1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266265,
+      "name": "Pitchfork Score",
+      "url": "https://open.spotify.com/track/4tDQFTPTP9bdIFWFGoRSaR"
+    },
+    {
+      "album": {
         "name": "Sundays Sessions",
         "url": "https://open.spotify.com/album/3vf4JTF9W1Ln7MRluatDGI"
       },
@@ -6625,7 +6661,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 227661,
       "name": "Reefer Clouds",
       "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
@@ -6828,6 +6864,40 @@
     },
     {
       "album": {
+        "name": "Royal (feat. Blu & Joell Ortiz)",
+        "url": "https://open.spotify.com/album/2Ao7L4a8P4YHdDooxdiBnk"
+      },
+      "artists": [
+        {
+          "name": "Marlowe",
+          "url": "https://open.spotify.com/artist/6RhsbxbsDk5ypSXFkS41J4"
+        },
+        {
+          "name": "L'Orange",
+          "url": "https://open.spotify.com/artist/5kJsAiwFWEaNRPwvtkjnXz"
+        },
+        {
+          "name": "Solemn Brigham",
+          "url": "https://open.spotify.com/artist/75vP2W1S1HhYmpi5cL14Oz"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Royal (feat. Blu & Joell Ortiz)",
+      "url": "https://open.spotify.com/track/5uzxflxVqVEbyukRQim0v4"
+    },
+    {
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/7xxhxTEduoERzGfRX37DSH"
       },
@@ -6923,6 +6993,28 @@
       "duration_ms": 109973,
       "name": "Sanotori",
       "url": "https://open.spotify.com/track/00LmrwZM42wxGf3tWZd6ky"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
+      },
+      "artists": [
+        {
+          "name": "Homeboy Sandman",
+          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
+        },
+        {
+          "name": "Deca",
+          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221029,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
       "album": {

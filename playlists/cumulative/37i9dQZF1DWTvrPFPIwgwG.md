@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Damares, Canção & Louvor
 
-85 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2TO2MpzJje9bKw3Lpv5pLG)
+86 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2TO2MpzJje9bKw3Lpv5pLG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Só Faz Ajudar](https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Só Faz Ajudar](https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv) | 4:27 | 2022-09-09 |  |
 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 | 2022-09-09 |  |
 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 | 2022-09-09 |  |
+| [Treinar Você](https://open.spotify.com/track/2rJMAfn7eB3GQTr276zBiO) | [Kemily Maciel](https://open.spotify.com/artist/12sY570nlrZo3u5dnd2cuP), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Treinar Você](https://open.spotify.com/album/6nvoq8EFg817BBinpcg8Wc) | 5:01 | 2022-10-01 |  |
 | [Tá Gerando](https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8) | [Joyce Queiroz](https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Tá Gerando](https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE) | 4:34 | 2022-09-09 |  |
 | [Tá nas Mãos de Deus](https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Tá nas Mãos de Deus](https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ) | 4:22 | 2022-09-09 |  |
 | [Tá Passando](https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Tá Passando](https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8) | 5:11 | 2022-09-09 |  |
@@ -92,6 +93,6 @@
 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 | 2022-09-09 |  |
 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 | 2022-09-09 |  |
 | [Vou Marcar Tua História](https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vou Marcar Tua História](https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9) | 4:09 | 2022-09-09 |  |
-| [É Só Você Tentar](https://open.spotify.com/track/2eX2w6YtlIOYsz5GZ5R3Ro) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [É Só Você Tentar](https://open.spotify.com/album/3hS9Dcqu6NLcu1e6mqIpy7) | 4:49 | 2022-09-09 |  |
+| [É Só Você Tentar](https://open.spotify.com/track/2eX2w6YtlIOYsz5GZ5R3Ro) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [É Só Você Tentar](https://open.spotify.com/album/3hS9Dcqu6NLcu1e6mqIpy7) | 4:49 | 2022-09-09 | 2022-10-01 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

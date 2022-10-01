@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-139 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
+140 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/4Ud7MY5W4nOplTDwiMvpxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Chirpsichord](https://open.spotify.com/track/6q7PJfwkai2HdoXID1BdDh) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [The Curved Line](https://open.spotify.com/album/0lBtA83iFBeKxBEGSYMAiv) | 4:29 | 2022-03-22 | 2022-07-29 |
 | [Clarity](https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Ibb & Obb \(Original Soundtrack\)](https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6) | 2:34 | 2022-03-22 |  |
 | [Clock](https://open.spotify.com/track/5NuZdSoNdbBOEzJVYRqUQ6) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/0w8x1W1PktGoseY4edkAdE) | 7:03 | 2022-03-22 | 2022-07-29 |
+| [Clock](https://open.spotify.com/track/6N6jCOPR4kEczFBMrgun5A) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 7:03 | 2022-07-15 |  |
 | [Clouds](https://open.spotify.com/track/2CixrnuQ422hBBzzau52ve) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V](https://open.spotify.com/album/6rjlbxPuED4Dtn9fdMyfUH) | 4:12 | 2022-03-22 | 2022-07-29 |
 | [Clouds](https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V \- EP](https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1) | 4:12 | 2022-07-15 |  |
 | [Cloverfield \- Original Mix](https://open.spotify.com/track/6hg11XB9rUTSM92Sx2WDhJ) | [Tom Hutt](https://open.spotify.com/artist/6nAdbXw8ZWvMfQsM1AqpEm) | [Cloverfield](https://open.spotify.com/album/647hVoRT9zzXTFvNwRoAGh) | 7:33 | 2022-03-22 | 2022-06-27 |
@@ -63,7 +64,7 @@
 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 | 2022-07-15 |  |
 | [Ghostly](https://open.spotify.com/track/2KRquNeHjbEm1Q0hPulCt2) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/0w8x1W1PktGoseY4edkAdE) | 6:00 | 2022-03-22 | 2022-07-29 |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2022-03-22 | 2022-07-16 |
-| [Godt Begyndt](https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Nature Boy](https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB) | 6:41 | 2022-03-22 |  |
+| [Godt Begyndt](https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Nature Boy](https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB) | 6:41 | 2022-03-22 | 2022-10-01 |
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2022-03-22 |  |
 | [Grand St\. Blues](https://open.spotify.com/track/5BxTUvzRSTGakm0iXAVtu8) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Grand St\. Blues](https://open.spotify.com/album/2Nua0uyD0jz5XOcSBdKqkl) | 4:04 | 2022-03-22 | 2022-07-29 |
 | [Gulch](https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs) | [Tipper](https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe) | [Forward Escape](https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L) | 3:56 | 2022-03-22 |  |

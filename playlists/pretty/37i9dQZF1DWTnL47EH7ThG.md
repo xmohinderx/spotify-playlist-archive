@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,587 likes - 236 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,613 likes - 236 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,7 +230,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 220 | [Bagga Yute](https://open.spotify.com/track/4BHWOvdFcPLjubN0cowdUe) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE TAPES Vol.1](https://open.spotify.com/album/6jqwzjUeXAJdUBKZ0KqtGO) | 2:39 |
 | 221 | [nevr b me](https://open.spotify.com/track/3DfqahbvsQW6yHDHbsg5KU) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Shapeshyfter](https://open.spotify.com/album/0cESoqQSfbpjOLuT3b23G0) | 2:26 |
 | 222 | [The Sound of Neptune](https://open.spotify.com/track/1uZHI2rWg7wHGIti4aYqdr) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [You Want](https://open.spotify.com/album/7AnDUzKjjnPvrxoN2ZOkQL) | 5:28 |
-| 223 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 |
+| 223 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 |
 | 224 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
 | 225 | [Been Around Me \(feat\. Rhianna Keane\)](https://open.spotify.com/track/584Ubv2TTCneWaXiB1mN4V) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [Rhianna Keane](https://open.spotify.com/artist/1ZjmlhNhN3z4VDLKDfjMUo) | [Been Around Me](https://open.spotify.com/album/0r3FTnpmGhdHugGS42OZxA) | 3:30 |
 | 226 | [Backseat](https://open.spotify.com/track/6dUDGsXLTE059A8d0jQuqr) | [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR) | [Backseat](https://open.spotify.com/album/5Hd4IfHw7DfZKzw0X4TYIX) | 3:36 |

@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-84 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
+85 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [C.H.R.I.S.Y.E.](https://open.spotify.com/track/42si4ikg5dh732gPuQ0xHb) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [C.H.R.I.S.Y.E.](https://open.spotify.com/album/3CVNmMgqfF8Rr3tiOqFvkH) | 5:10 | 2022-05-26 |  |
 | [Cinta Yang Baru](https://open.spotify.com/track/60B0QJiu537CpR271O0ael) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Cinta Yang Baru](https://open.spotify.com/album/4VY2hVNomWfL1TDgVCoVp8) | 3:37 | 2022-05-26 |  |
 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 | 2022-05-26 |  |
-| [City Hunter](https://open.spotify.com/track/5fpp1cnRKPjgZe1aXQEFd5) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Amusement Park](https://open.spotify.com/album/2nkyyh9Wmji0a1a3ga6h9A) | 4:12 | 2022-05-26 |  |
+| [City Hunter](https://open.spotify.com/track/3r7IlRaVffevh2JkhIF0Vj) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Amusement Park](https://open.spotify.com/album/25IDIVfQRGihHQswzbgfL0) | 4:12 | 2022-08-30 |  |
+| [City Hunter](https://open.spotify.com/track/5fpp1cnRKPjgZe1aXQEFd5) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Amusement Park](https://open.spotify.com/album/2nkyyh9Wmji0a1a3ga6h9A) | 4:12 | 2022-05-26 | 2022-10-01 |
 | [City Love](https://open.spotify.com/track/74dVN7rzRYU9R8RDkpVxNU) | [Pastel Lite](https://open.spotify.com/artist/7BSBLoz0qlHdjqZEdmA6U5) | [City Love](https://open.spotify.com/album/44G2reK3LwLKagXmoDx8H7) | 3:58 | 2022-05-26 |  |
 | [Coffee's on Me](https://open.spotify.com/track/5UeYwxG6CXk8uMC7aGcRsn) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/1BwY5tsTSAZu1UZFUWyW9K) | 3:42 | 2022-05-26 | 2022-07-29 |
 | [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 | 2022-05-26 |  |

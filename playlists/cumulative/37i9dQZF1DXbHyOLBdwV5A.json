@@ -104,6 +104,36 @@
     },
     {
       "album": {
+        "name": "Balan\u00e7a: Remixes",
+        "url": "https://open.spotify.com/album/487SwfT2EM1BQwVhzNZSBf"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Diego Atalaia",
+          "url": "https://open.spotify.com/artist/3Wrcxw6gmXzUCgKtDXmCe5"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        },
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105937,
+      "name": "Balan\u00e7a - AVIPA Remix",
+      "url": "https://open.spotify.com/track/6o7hCpHBH7k2keD64G3ZF1"
+    },
+    {
+      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/4z5oXRNJSmrvsvm6oJgbEX"
       },
@@ -189,7 +219,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 237627,
       "name": "Celebrarei - Remix",
       "url": "https://open.spotify.com/track/6zUlwL3hbCddtQgH4095DC"
@@ -747,6 +777,36 @@
       "duration_ms": 225519,
       "name": "Loucura - Remix",
       "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Felipe Costa",
+          "url": "https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D"
     },
     {
       "album": {
@@ -1415,7 +1475,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 202000,
       "name": "T\u00fa \u00e9s Bom (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/7nz1eeQL0lCCTkne6QNuUV"

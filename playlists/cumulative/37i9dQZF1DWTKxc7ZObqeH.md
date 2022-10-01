@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-181 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+182 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-02-16 |  |
 | [Gentle rain](https://open.spotify.com/track/78S8rCKCJ3MUoGF3LCnpo4) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Jessica](https://open.spotify.com/album/4bDZq3KMHTqKIj9Rhkjgwl) | 4:16 | 2022-02-16 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-02-16 |  |
+| [Girl From Ipanema](https://open.spotify.com/track/352nageWZMwwi1rIidMzdJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 3:53 | 2022-09-29 |  |
 | [Girl From Ipanema](https://open.spotify.com/track/04n2zZCoMIw7r0NNTN1hMg) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 3:55 | 2022-02-16 | 2022-07-29 |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 | 2022-05-17 |  |
 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 | 2022-06-28 |  |
@@ -84,7 +85,7 @@
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2022-02-16 |  |
 | [Let There Be Love](https://open.spotify.com/track/0xwx7ezy29UaYUfauZiFSF) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [Misty](https://open.spotify.com/album/3VxtokLaFZNDwce4YijTmE) | 3:02 | 2022-02-16 |  |
 | [Lexington Ave\. Blues](https://open.spotify.com/track/098POWyt9OYxpTbzosh47I) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Skating](https://open.spotify.com/album/2TQ3EtEnMcVqwItpCMsYOY) | 2:38 | 2022-02-16 |  |
-| [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 | 2022-02-16 |  |
+| [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 | 2022-02-16 |  |
 | [Lithe](https://open.spotify.com/track/6Ow1x2Z9OvuQHE6iRqmZJG) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Lithe](https://open.spotify.com/album/3kxCez0DkWqVsD3eXFwv7P) | 3:48 | 2022-06-14 |  |
 | [Little Boat](https://open.spotify.com/track/4noc1JvLn446v2kBacnEoe) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [In Love Again](https://open.spotify.com/album/3GMcmek84lzwZvDsN1PHca) | 2:35 | 2022-08-10 |  |
 | [Long Ago \(and Far Away\)](https://open.spotify.com/track/3TiEf1n50RsKFERybqGm2s) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:29 | 2022-02-16 |  |
@@ -159,7 +160,7 @@
 | [The Call](https://open.spotify.com/track/6dr3C76wvbQJty7WvNG7tG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [The Call](https://open.spotify.com/album/43moPGlUvUG7X0uAVb7yFd) | 4:03 | 2022-02-16 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2022-09-29 |  |
 | [The Folks Who Live On The Hill](https://open.spotify.com/track/339eppUVQJF6JsKEiwYNWL) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:45 | 2022-06-14 |  |
-| [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/5skmZMK4GOD729sJ1YeuLl) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 3:51 | 2022-06-28 |  |
+| [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/5skmZMK4GOD729sJ1YeuLl) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 3:51 | 2022-06-28 | 2022-10-01 |
 | [The Good Life \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 5:08 | 2022-02-16 | 2022-08-11 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-02-16 |  |
 | [The More I See You](https://open.spotify.com/track/2upj2OVsilwcGnXdOpbMl6) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [The More I See You](https://open.spotify.com/album/694IJJZVQL9d6UY1IqwWKC) | 4:22 | 2022-02-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Sampa The Great
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,592 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,618 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 11 | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD) | 4:11 |
 | 12 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
 | 13 | [Lele](https://open.spotify.com/track/1I697suBHNxZ92r7RoqwK6) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Blueboy](https://open.spotify.com/artist/49tPWZ7vQeE7VscuIHqrn6), [Rowena](https://open.spotify.com/artist/47eKYwFgXbaQrFN2DUo485) | [WAHYAHSEY](https://open.spotify.com/album/4BZ1EKmrNVF316EYam3Pni) | 2:44 |
-| 14 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 |
+| 14 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 |
 | 15 | [LOCO \(feat\. Muz!\)](https://open.spotify.com/track/5FuBh6ztXw5qf5wwgjpjEF) | [BLXSS](https://open.spotify.com/artist/2MErAFVwib6BaoHZa3GvWb), [Muz!](https://open.spotify.com/artist/5SjkjKZ05dPl7gtZbBRQV4) | [LOCO \(feat\. Muz!\)](https://open.spotify.com/album/3B1HMKvqGX7rsjqK7aa2Ti) | 2:47 |
 | 16 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 |
 | 17 | [ISoft Life](https://open.spotify.com/track/1KMdsn40pcqhQcDmWW8rUg) | [Kristelle](https://open.spotify.com/artist/1mSLccW06KhvdQfhRj1gQu), [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [ISoft Life](https://open.spotify.com/album/2z6E4fBqrkgUSxECpYyx9T) | 5:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 99 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 100 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 |
 
-Snapshot ID: `MTY2MjY0NTYwMCwwMDAwMDAwMDJhNmY3YTUwYTE5YWQ3NDcyYmNhZjM2NjAxMTcwNmIx`
+Snapshot ID: `MTY2MjY0NTYwMCwwMDAwMDAwMDQ0NjI5M2UyMGEyMjAyYTE3ZmNiOGE3N2NhNjZkYTZm`

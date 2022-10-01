@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-116 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+118 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [514](https://open.spotify.com/track/2vECXvQoLABMxEPMogaERm) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Sleep Box vol.51](https://open.spotify.com/album/24sSd5811YMvEOXmfjYs9s) | 3:02 | 2022-01-07 |  |
 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 |  |
 | [A Light Snow](https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXII](https://open.spotify.com/album/7kglN4QQK5KVbotPVHpkYQ) | 5:16 | 2022-01-07 |  |
-| [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 | 2022-01-07 |  |
+| [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 | 2022-01-07 | 2022-10-01 |
 | [Afternoon Coastline](https://open.spotify.com/track/2DJzac0etyt8fnN0X7xUh7) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [slowdance​,​lowtide](https://open.spotify.com/album/7xomRNjiLs0yWQ6qemwMMA) | 6:08 | 2022-01-07 |  |
 | [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 | 2022-09-06 |  |
 | [Alie 5.2](https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Alie](https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY) | 3:15 | 2022-01-07 |  |
@@ -27,7 +27,7 @@
 | [Cassiopeia, 6 July 1982](https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [MDT001](https://open.spotify.com/album/57DgSN6ZCnVIsiUUOkIjji) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 | 2022-01-07 |  |
 | [Cherry Blossom](https://open.spotify.com/track/49FgEirdzQYfzmDKwNynOI) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Cherry Blossom](https://open.spotify.com/album/0Ps7E8fAZir8LS7bEosHhL) | 3:16 | 2022-01-07 |  |
-| [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 | 2022-01-07 |  |
+| [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 | 2022-01-07 | 2022-10-01 |
 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 | 2022-02-22 |  |
 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 | 2022-01-07 |  |
 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 | 2022-01-07 |  |
@@ -35,13 +35,14 @@
 | [dama](https://open.spotify.com/track/4Xri8RbDoyznZ2HZeQaSlh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Midori](https://open.spotify.com/album/1dSDUX6GkjFVeQtNjWYVKt) | 3:08 | 2022-01-07 | 2022-02-23 |
 | [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2022-08-19 |  |
 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 |  |
-| [EAST](https://open.spotify.com/track/6Ygtiz9F4HhhJaO7EHwiMj) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/70FS8K29lXeAiX6ovQaHwo) | 6:14 | 2022-01-07 |  |
+| [EAST](https://open.spotify.com/track/6Ygtiz9F4HhhJaO7EHwiMj) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/70FS8K29lXeAiX6ovQaHwo) | 6:14 | 2022-01-07 | 2022-10-01 |
 | [Endless Winter](https://open.spotify.com/track/6iWq0mbEZN5d7h4yMGCtqz) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [Endless Winter](https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR) | 4:48 | 2022-01-07 | 2022-07-29 |
 | [Firing](https://open.spotify.com/track/6zbYuGYwr34odkFt5KeJmv) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO), [Shimatani Shoryu Kobo](https://open.spotify.com/artist/35TkW5XHiRnfHTbw5O0o6R) | [VAGUE](https://open.spotify.com/album/3wwGYCEB35E5K5MAKjALtS) | 6:01 | 2022-01-07 |  |
 | [flow](https://open.spotify.com/track/4PfX6YNf0Mw9iDf9CCaPK6) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb) | 5:12 | 2022-01-07 |  |
 | [Flow of Time to Fade](https://open.spotify.com/track/5ZnXB2l4dxz6wSiOa2XoM4) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Ambient Collage](https://open.spotify.com/album/4PxfcF5QbkdwmSYWfNT3AO) | 4:07 | 2022-01-07 |  |
 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 | 2022-01-07 |  |
 | [Fold Air](https://open.spotify.com/track/53p4Twt4YkUlrYQwkuWrI4) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 2:48 | 2022-01-07 |  |
+| [Forgetful Angel](https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/0wzOZrYgU9wrndydzgYOPX) | 2:57 | 2022-09-30 |  |
 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2022-01-07 |  |
 | [Grass Harp](https://open.spotify.com/track/3IS7K9DaeCMDC087s79GWk) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC) | 5:57 | 2022-07-22 |  |
 | [Grass Harp](https://open.spotify.com/track/5oy0BoXi4o83XaAkZ9lMrG) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/3VlSsznQDQhW1hIi8FrZXn) | 5:57 | 2022-01-07 | 2022-07-29 |
@@ -71,7 +72,8 @@
 | [Meditate Tree](https://open.spotify.com/track/3UrXhetqxfROItPT6URWHb) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Meditate Tree](https://open.spotify.com/album/07dwyiZBrQmoaQvOolbHI5) | 2:49 | 2022-01-07 |  |
 | [mellow](https://open.spotify.com/track/1VJ77OFm7zzfLcAaV7feNd) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [mellow](https://open.spotify.com/album/67z28TWSWLl0K40wnmVmal) | 5:44 | 2022-01-07 |  |
 | [melt](https://open.spotify.com/track/1OBYLRZN5dnufdxtTlmBZ1) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Sui](https://open.spotify.com/album/7iX6y044SXbJ9Rg0GWxgMh) | 2:40 | 2022-01-07 |  |
-| [NIMB \#8](https://open.spotify.com/track/1STYnt6S6kJf3NefRatVzM) | [Toshimaru Nakamura](https://open.spotify.com/artist/3PsFuBHTZsvyZwMbVIuVZT) | [NO\-INPUT MIXING BOARD](https://open.spotify.com/album/7HBbA8sdlmh5y96GtlsfiI) | 3:06 | 2022-01-07 |  |
+| [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
+| [NIMB \#8](https://open.spotify.com/track/1STYnt6S6kJf3NefRatVzM) | [Toshimaru Nakamura](https://open.spotify.com/artist/3PsFuBHTZsvyZwMbVIuVZT) | [NO\-INPUT MIXING BOARD](https://open.spotify.com/album/7HBbA8sdlmh5y96GtlsfiI) | 3:06 | 2022-01-07 | 2022-10-01 |
 | [nod](https://open.spotify.com/track/0N1p2sngaMZXCszfvs1qbv) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [dusk to dawn](https://open.spotify.com/album/5UHg2dMdXffuSepLuOcBdo) | 4:04 | 2022-01-07 |  |
 | [On Your Side](https://open.spotify.com/track/311dAPDVuWrPKkWRMB5ykc) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 2:44 | 2022-01-07 | 2022-07-29 |
 | [On Your Side](https://open.spotify.com/track/6ygriWnFCuEKBhEvB7hppb) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7) | 2:44 | 2022-07-22 |  |
@@ -106,7 +108,7 @@
 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 | 2022-01-07 |  |
 | [Twilight Sea](https://open.spotify.com/track/1yuOuQsQf1Lnz0OFAXfahW) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 6:05 | 2022-01-07 |  |
 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-01-07 |  |
-| [ubi](https://open.spotify.com/track/25Sv3SN7Xz3r5rz5xzOMPm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:03 | 2022-07-22 |  |
+| [ubi](https://open.spotify.com/track/25Sv3SN7Xz3r5rz5xzOMPm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:03 | 2022-07-22 | 2022-10-01 |
 | [ubi](https://open.spotify.com/track/5SpqLL6fVoeRKSPrBqIz1k) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:03 | 2022-01-07 | 2022-07-29 |
 | [Under Water](https://open.spotify.com/track/1eRK03Al2xKms7tEV7baym) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Mist](https://open.spotify.com/album/1gy2sqf4gWrnoNGNQsrff6) | 3:36 | 2022-01-07 |  |
 | [Uprise](https://open.spotify.com/track/6Irafr3hWhoQOgWkNUQXIr) | [Keigo Tanaka](https://open.spotify.com/artist/6t4tsh9Xx0oPZQayHbxLb3) | [Uprise](https://open.spotify.com/album/4KZAgayKyBYJaD4ZQ9cxH2) | 8:15 | 2022-03-25 |  |

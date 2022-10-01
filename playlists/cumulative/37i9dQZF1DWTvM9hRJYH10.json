@@ -1820,6 +1820,24 @@
     },
     {
       "album": {
+        "name": "Kinda Don't Ever",
+        "url": "https://open.spotify.com/album/55X93nG9mjFGfrp0DMklVO"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Kinda Don't Ever",
+      "url": "https://open.spotify.com/track/5vQtpSDI9757CYLmZSCksD"
+    },
+    {
+      "album": {
         "name": "King Of The World",
         "url": "https://open.spotify.com/album/2YP4ubZ2u87XOAkeRaKwlU"
       },

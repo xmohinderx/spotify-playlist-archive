@@ -756,6 +756,24 @@
     },
     {
       "album": {
+        "name": "Wreckage, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/3TtOISH2vi1m9vR3xYlLS6"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210546,
+      "name": "Dark Roses (Live From Sunset Sound)",
+      "url": "https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3"
+    },
+    {
+      "album": {
         "name": "TajMo",
         "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
       },
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 215969,
       "name": "Gullah Geechee",
       "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
@@ -2091,6 +2109,24 @@
       "duration_ms": 144106,
       "name": "Love Like There's No Tomorrow",
       "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
+    },
+    {
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
     },
     {
       "album": {
@@ -3317,7 +3353,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 156158,
       "name": "The Breeze",
       "url": "https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir"

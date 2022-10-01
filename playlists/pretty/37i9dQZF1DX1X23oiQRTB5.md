@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gazo au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265,081 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265,640 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 30 | [Bitume](https://open.spotify.com/track/6Bz3XzPurBj5poPqSHXHZB) | [L2B Gang](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [94 bois, vol\. 2](https://open.spotify.com/album/6WELqgG0dapTfZXNUnOHKC) | 3:12 |
 | 31 | [Full black](https://open.spotify.com/track/1WcBhct7iVXliYorbEKTql) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 2:29 |
 | 32 | [Stars](https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F) | [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Stars](https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx) | 3:09 |
-| 33 | [AQUA](https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [AQUA](https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn) | 2:35 |
+| 33 | [Aqua](https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [AQUA](https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn) | 2:35 |
 | 34 | [Passat](https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OCHO \(Deluxe\)](https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y) | 3:23 |
 | 35 | [FRAUDE](https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [FRAUDE](https://open.spotify.com/album/1ds595bn2azH1sYiG38A66) | 3:08 |
 | 36 | [Laisse tomber](https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Laisse tomber](https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn) | 3:11 |

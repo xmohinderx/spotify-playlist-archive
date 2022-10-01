@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Royce Da 5'9\"",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
   "name": "Spilled Ink",
   "published_playlist_ids": [
     "263ylGzX2g8MfE4QemXHet"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 187416,
       "name": "505",
       "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 193656,
       "name": "Barely Miss",
       "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 206446,
       "name": "Bruuuh (with Denzel Curry) - Remix",
       "url": "https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK"
@@ -1454,6 +1454,28 @@
     },
     {
       "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194461,
+      "name": "Decoded (feat. Scarface) - BONUS TRACK",
+      "url": "https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV"
+    },
+    {
+      "album": {
         "name": "Black Habits (Deluxe)",
         "url": "https://open.spotify.com/album/0WkqYoTVOLg2ady3z0vusJ"
       },
@@ -1487,7 +1509,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 214187,
       "name": "Derrick Boleman",
       "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
@@ -1505,7 +1527,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
@@ -1818,6 +1840,24 @@
     },
     {
       "album": {
+        "name": "The Hegelian Dialectic 2: The Book of Heroine",
+        "url": "https://open.spotify.com/album/1xhIUCFuzlf17stdPjF5Ct"
+      },
+      "artists": [
+        {
+          "name": "Prodigy",
+          "url": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/6mO6V4QcFQOYUAq4NUk5L5"
+    },
+    {
+      "album": {
         "name": "Extra Credit",
         "url": "https://open.spotify.com/album/2xpeZujHknYIFaU5IeBNeb"
       },
@@ -2091,7 +2131,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 131909,
       "name": "Freedom of Speech (with J. Cole)",
       "url": "https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy"
@@ -2273,7 +2313,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 239026,
       "name": "God Is Perfect",
       "url": "https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl"
@@ -2295,6 +2335,28 @@
       "duration_ms": 238800,
       "name": "God's Bathroom Floor",
       "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
+    },
+    {
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222776,
+      "name": "Gold Rings (feat. Pusha T)",
+      "url": "https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0"
     },
     {
       "album": {
@@ -2463,7 +2525,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180826,
       "name": "Head High",
       "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
@@ -2503,7 +2565,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 193208,
       "name": "Headshots (4r Da Locals)",
       "url": "https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R"
@@ -2583,7 +2645,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 178677,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
@@ -2773,7 +2835,7 @@
           "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
         }
       ],
-      "date_added": "2022-09-30",
+      "date_added": "2022-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165185,
@@ -3015,7 +3077,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 177946,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
@@ -3049,7 +3111,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 296982,
       "name": "Isis - Remix",
       "url": "https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp"
@@ -3265,7 +3327,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 178620,
       "name": "Just So You Remember",
       "url": "https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y"
@@ -3641,7 +3703,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 166775,
       "name": "Lifestyle (with Bas feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/0URbdJpIV9B54W2d9yeMwt"
@@ -3715,7 +3777,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 148118,
       "name": "lo$t kid.",
       "url": "https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI"
@@ -4185,7 +4247,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 209314,
       "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
       "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
@@ -4313,7 +4375,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 249458,
       "name": "No Man Falls (Feat. Pusha T & 2 Chainz)",
       "url": "https://open.spotify.com/track/4BWbRimlDfSTUQkqMrkCem"
@@ -4511,7 +4573,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 198998,
       "name": "One Way Flight (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
@@ -5145,7 +5207,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 102397,
       "name": "ROUND HERE (PART ONE)",
       "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
@@ -5207,7 +5269,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -5359,7 +5421,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 209117,
       "name": "Scatter Brain (feat. Ludacris & JID)",
       "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
@@ -5623,7 +5685,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 193800,
       "name": "Soccer Dad",
       "url": "https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG"
@@ -6253,7 +6315,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 124973,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz"
@@ -6563,7 +6625,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 173372,
       "name": "THE_EVIL_THAT_MEN_DO",
       "url": "https://open.spotify.com/track/6s9qov2o5dUVUVut2jB45K"
@@ -6703,7 +6765,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 201128,
       "name": "Times Is Rough",
       "url": "https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy"
@@ -6937,7 +6999,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 282581,
       "name": "Vinyl Days (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
@@ -7241,7 +7303,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 170133,
       "name": "Worst Comes To Worst",
       "url": "https://open.spotify.com/track/44AnNS0mBwYbnVpmLAj049"

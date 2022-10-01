@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 225153,
+  "num_followers": 225506,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQwOTYwMCwwMDAwMDAwMGM2Mjg4YzAyY2FlZGUyYjA4OGYyMGNjOWM2MDA1ZWFm",
+  "snapshot_id": "MTY2NDQwOTYwMCwwMDAwMDAwMGZhNTA1MzFhZWYxNDI3YTMzMTc5NGZkNTU3ZjJlZWJl",
   "tracks": [
     {
       "added_at": "2022-09-29 00:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-09-29 00:00:00",
       "album": {
-        "name": "Just Re'd up 2",
-        "url": "https://open.spotify.com/album/6LYs6vCaIZd3kemw1JDGti"
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/2ac92T1zsE9J73BYx3fPjl"
       },
       "artists": [
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
         }
       ],
-      "duration_ms": 174602,
-      "name": "Im 4rm Bompton",
-      "url": "https://open.spotify.com/track/5Zmd9SxFlYLNkvegm4WkJn"
+      "duration_ms": 149394,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/2bxEpkw9f7EAMC8SoeiUvU"
     },
     {
       "added_at": "2022-09-29 00:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-09-29 00:00:00",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/2ac92T1zsE9J73BYx3fPjl"
+        "name": "Just Re'd up 2",
+        "url": "https://open.spotify.com/album/6LYs6vCaIZd3kemw1JDGti"
       },
       "artists": [
         {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 149394,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/2bxEpkw9f7EAMC8SoeiUvU"
+      "duration_ms": 174602,
+      "name": "Im 4rm Bompton",
+      "url": "https://open.spotify.com/track/5Zmd9SxFlYLNkvegm4WkJn"
     },
     {
       "added_at": "2022-09-29 00:00:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-09-29 00:00:00",
       "album": {
+        "name": "Funny Thing",
+        "url": "https://open.spotify.com/album/0sYUT2cExet2oUIAPvCU3p"
+      },
+      "artists": [
+        {
+          "name": "Brielle",
+          "url": "https://open.spotify.com/artist/2iNiSOXG7MjwwwypRYxCtR"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "duration_ms": 144048,
+      "name": "Funny Thing",
+      "url": "https://open.spotify.com/track/1hKOXFVydAKNB7iqAtpIf0"
+    },
+    {
+      "added_at": "2022-09-29 00:00:00",
+      "album": {
         "name": "Tour\u00e9's Theory",
         "url": "https://open.spotify.com/album/0z8oOpzyOxfqhWuwbuctUw"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 244653,
       "name": "New Oakland (feat. Mistah Fab, J Stalin, Beeda Weeda & R.O.D.)",
       "url": "https://open.spotify.com/track/5Ui8P7Bc3lc9BljG93y3r8"
-    },
-    {
-      "added_at": "2022-09-29 00:00:00",
-      "album": {
-        "name": "Funny Thing",
-        "url": "https://open.spotify.com/album/0sYUT2cExet2oUIAPvCU3p"
-      },
-      "artists": [
-        {
-          "name": "Brielle",
-          "url": "https://open.spotify.com/artist/2iNiSOXG7MjwwwypRYxCtR"
-        },
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
-        }
-      ],
-      "duration_ms": 144048,
-      "name": "Funny Thing",
-      "url": "https://open.spotify.com/track/1hKOXFVydAKNB7iqAtpIf0"
     }
   ],
   "unique_name": "Taste",

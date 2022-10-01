@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 176000,
       "name": "Amor de Mar",
       "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 158571,
       "name": "Carona",
       "url": "https://open.spotify.com/track/3JjvlmeaiwnZYzGG99SU20"
@@ -753,6 +753,10 @@
         {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
         },
         {
           "name": "Neo Beats",
@@ -1218,6 +1222,32 @@
     },
     {
       "album": {
+        "name": "Golpe Baixo",
+        "url": "https://open.spotify.com/album/3JTHIZV0FUtTD8gCpSCu10"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Vulto",
+          "url": "https://open.spotify.com/artist/0F70fLZ3B78qjKQg3PguLX"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Golpe Baixo",
+      "url": "https://open.spotify.com/track/0tikP9agfqFyjJS4NLJHxp"
+    },
+    {
+      "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
       },
@@ -1303,6 +1333,10 @@
         {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
         },
         {
           "name": "Neo Beats",
@@ -2457,6 +2491,10 @@
         {
           "name": "Neo Beats",
           "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
         }
       ],
       "date_added": "2022-09-16",
@@ -2487,7 +2525,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 158139,
       "name": "Quero Te Levar",
       "url": "https://open.spotify.com/track/5lY1N9XJ90Yhm54urHitVB"
@@ -2535,6 +2573,28 @@
       "duration_ms": 159744,
       "name": "Sabor Uva",
       "url": "https://open.spotify.com/track/1lBdaxzlCO1NeeWpqeCU5r"
+    },
+    {
+      "album": {
+        "name": "Sabotagem",
+        "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
+        },
+        {
+          "name": "Auler",
+          "url": "https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166927,
+      "name": "Sabotagem",
+      "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
     },
     {
       "album": {
@@ -3053,6 +3113,10 @@
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
           "name": "Gustah",
           "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         },
@@ -3143,6 +3207,44 @@
       "duration_ms": 152582,
       "name": "War",
       "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
+    },
+    {
+      "album": {
+        "name": "Xavequin 2",
+        "url": "https://open.spotify.com/album/3U0g88ovbhpQwTzaaJMenm"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/0IcY9RL9TnntANn96IL0bQ"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "San Joe",
+          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350014,
+      "name": "Xavequin 2",
+      "url": "https://open.spotify.com/track/2C2Ya63y7cp3rh01Umjy2P"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Songs that will make you and your kids laugh.
 
-65 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/6oqlMpPWfZSiIArFsJgjYS)
+66 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/6oqlMpPWfZSiIArFsJgjYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [PPAP\(Pen\-Pineapple\-Apple\-Pen\) \- Long ver.](https://open.spotify.com/track/5qRj5I58zuHkVilcqVWN3P) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [I have a PPAP](https://open.spotify.com/album/2c8W1S31BgpyrAm0txBFTc) | 2:02 | 2022-03-11 |  |
 | [Putt Putt Butt Butt](https://open.spotify.com/track/06QdgOu6C18330sXSrcpWR) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Putt Putt Butt Butt](https://open.spotify.com/album/0ksaoAQwf9Q8Wa5mnupwSf) | 3:51 | 2022-03-11 |  |
 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 | 2022-03-11 |  |
-| [Ridiculous](https://open.spotify.com/track/48iEwZRRBJqkkEQjmmKx65) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Ridiculous](https://open.spotify.com/album/3JazKQ0JHgJTXZGxvsTPmQ) | 2:46 | 2022-03-11 |  |
+| [Ridiculous](https://open.spotify.com/track/1YyFEBVK5vitR8gI4t8r0U) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/3gNNCz0Zlz4oWgb1w2SxVp) | 2:46 | 2022-03-11 |  |
+| [Ridiculous](https://open.spotify.com/track/48iEwZRRBJqkkEQjmmKx65) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Ridiculous](https://open.spotify.com/album/3JazKQ0JHgJTXZGxvsTPmQ) | 2:46 | 2022-03-11 | 2022-10-01 |
 | [Run Like The Kitty](https://open.spotify.com/track/0njL7tKenSQRxmBXdGouGs) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/6pEPcbShtQj5G5VMd2SUbz) | 0:56 | 2022-03-11 |  |
 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 | 2022-03-11 |  |
 | [Texas Song](https://open.spotify.com/track/6Gjfv5NljDeGjk8mA2m3Dk) | [Sandy Cheeks with Junior Brown](https://open.spotify.com/artist/5jMZs99nK1zTx8r4zkVtOh) | [Spongebob Squarepants \- Original Theme Highlights](https://open.spotify.com/album/1RNWrGGAolUU7C0EJLMwk5) | 1:58 | 2022-03-11 |  |

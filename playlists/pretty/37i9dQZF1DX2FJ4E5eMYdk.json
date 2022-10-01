@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 120737,
+  "num_followers": 120809,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDBkODNmNzkwNGY4MzFmZDM2MjQ5MDY1MzliY2VlZWU0",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDA4N2NkYzY2ZDdiN2Q3YzYwNzFjNDMxOTE1NDhjNzcx",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Game Show",
-        "url": "https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Game Show",
-      "url": "https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99"
-    },
-    {
       "added_at": "2022-07-22 04:00:00",
       "album": {
         "name": "No Quit",
@@ -555,6 +539,22 @@
       "duration_ms": 193520,
       "name": "No Quit",
       "url": "https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Game Show",
+        "url": "https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Game Show",
+      "url": "https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 140164,
-      "name": "Hippo",
-      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 390666,
       "name": "Cecil Taylor",
       "url": "https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 140164,
+      "name": "Hippo",
+      "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
     },
     {
       "added_at": "2022-07-22 04:00:00",

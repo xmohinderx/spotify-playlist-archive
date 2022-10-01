@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 
 > Hip hop heat from the Lone Star State for when you're feeling unstoppable.
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,618 likes - 40 songs - 1 hr 47 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,591 likes - 40 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 | 39 | [Dead Man](https://open.spotify.com/track/4Jf8WQfYeyCovUwbzWW4pM) | [TrapboyDre10k](https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9) | [Straight Crack](https://open.spotify.com/album/4XbJKPVbGX1WLx7EgzjCfp) | 2:00 |
 | 40 | [Suicide](https://open.spotify.com/track/1RKdIAB2mgaelPCxbOO9Aj) | [GGO Kurt](https://open.spotify.com/artist/0vz5Vjiz8a9dq9PEBACdRG) | [Suicide](https://open.spotify.com/album/7McDjv1gNIYgXp4HifR0yJ) | 2:26 |
 
-Snapshot ID: `MzQ3MSw2NjY0MzM0Y2JmY2M1MjNjZmY5NWE5NmUwMmZjZGI1NjI2ODgyYWM4`
+Snapshot ID: `MzU1MSxkZGZlYTM0YjAzY2ZmODIxMjczZTcxOGUwNDAwYTQ4ZjAxYjAzYTM1`

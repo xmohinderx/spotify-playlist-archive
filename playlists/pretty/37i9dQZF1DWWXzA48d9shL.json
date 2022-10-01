@@ -1,13 +1,37 @@
 {
   "description": "New CORPSE ft. Scarlxrd & Kordhell",
-  "num_followers": 306339,
+  "num_followers": 307550,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ3NDA5OSwwMDAwMDAwMDllNjUwZDA4OWZhMGFmNzdiZTg0ZjMzNzUzNjA5ZTUw",
+  "snapshot_id": "MTY2NDU1NDMzMCwwMDAwMDAwMDJiM2M5ZWUzYmY5ZDM0ODAzMDdiMTljODQ3ZTljMWQy",
   "tracks": [
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "MISA MISA!",
+        "url": "https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 85894,
+      "name": "MISA MISA!",
+      "url": "https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw"
+    },
     {
       "added_at": "2022-09-26 21:16:01",
       "album": {
@@ -33,28 +57,32 @@
       "url": "https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5"
     },
     {
-      "added_at": "2022-09-02 06:10:00",
+      "added_at": "2022-09-30 16:12:10",
       "album": {
-        "name": "MISA MISA!",
-        "url": "https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ"
+        "name": "ROLEPLAY",
+        "url": "https://open.spotify.com/album/4tYEe0g5xT5kWJg5wFxrs1"
       },
       "artists": [
         {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+          "name": "OMXNEMO",
+          "url": "https://open.spotify.com/artist/6QK0K28MJ2Fj2nsmrZv1O1"
         },
         {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
         },
         {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+          "name": "Lucie's Nightmare",
+          "url": "https://open.spotify.com/artist/73cmp0OKYaPbYsCAgKqAcl"
+        },
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
         }
       ],
-      "duration_ms": 85894,
-      "name": "MISA MISA!",
-      "url": "https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw"
+      "duration_ms": 178953,
+      "name": "ROLEPLAY",
+      "url": "https://open.spotify.com/track/6lBjqdPLsOxLSKrBPQufi5"
     },
     {
       "added_at": "2022-09-23 16:17:12",
@@ -87,6 +115,22 @@
       "duration_ms": 113553,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
+    },
+    {
+      "added_at": "2022-09-30 05:45:00",
+      "album": {
+        "name": "what i see when i'm walking alone at night",
+        "url": "https://open.spotify.com/album/1An8EBw9h670Cmzuzd2m05"
+      },
+      "artists": [
+        {
+          "name": "Dexndre",
+          "url": "https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7"
+        }
+      ],
+      "duration_ms": 133858,
+      "name": "what i see when i'm walking alone at night",
+      "url": "https://open.spotify.com/track/3ekCDlvLHI0kFj2U1W81oQ"
     },
     {
       "added_at": "2022-09-23 06:48:00",

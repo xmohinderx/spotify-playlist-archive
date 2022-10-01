@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 114106,
+  "num_followers": 114277,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGUyZTlkZTlhZWM1ZmJiYzdhMDNmZDBhYjExZDY5Njgy",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDQzZDYyMGQxY2UxNDNmZTU5YTI2NWZjODg1MDM3MWEz",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -115,22 +115,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+        "name": "Los Legendarios 001",
+        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
         }
       ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
+      "duration_ms": 261665,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -159,26 +163,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Los Legendarios 001",
-        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
       },
       "artists": [
         {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 261665,
-      "name": "Fiel",
-      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "No Vuelvas M\u00e1s",
+        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "No Vuelvas M\u00e1s",
+      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
         "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 217263,
       "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
       "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "No Vuelvas M\u00e1s",
-        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "No Vuelvas M\u00e1s",
-      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Ansioso",
-        "url": "https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "Ansioso",
-      "url": "https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "PERREAMOS?",
         "url": "https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 184535,
       "name": "XULITA (feat. Kaydy Cain)",
       "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Ansioso",
+        "url": "https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 187411,
+      "name": "Ansioso",
+      "url": "https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2111,6 +2111,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "GOTIKA",
+        "url": "https://open.spotify.com/album/0MMzgwHbf5tzu5NLqTEof0"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "GOTIKA",
+      "url": "https://open.spotify.com/track/4n8gspB9iCAGEja5AUkexK"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Miami (Remix)",
         "url": "https://open.spotify.com/album/5b8fTmX1gRCU7YYS7QSOur"
       },
@@ -2159,26 +2179,6 @@
       "duration_ms": 172054,
       "name": "Coraz\u00f3n Ego\u00edsta",
       "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "ENR",
-        "url": "https://open.spotify.com/album/7c3cZS4ScoPCEmtZFIPqLF"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "Se Le Ve",
-      "url": "https://open.spotify.com/track/1ntqvhJlheHh2uFEcK9fqY"
     }
   ],
   "unique_name": "Rimas y Perreo",

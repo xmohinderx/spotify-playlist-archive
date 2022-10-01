@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Don't Come Lookin' (Live)",
+        "url": "https://open.spotify.com/album/7sM0nVCmKgUpaj8GyNxVMr"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199303,
+      "name": "Don't Come Lookin' - Live",
+      "url": "https://open.spotify.com/track/2A8qDQF7hWDZo8ueroFu52"
+    },
+    {
+      "album": {
         "name": "Spotify Live (Live From Austin, TX)",
         "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
       },

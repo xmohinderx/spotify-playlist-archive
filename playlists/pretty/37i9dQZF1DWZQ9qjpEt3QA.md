@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,360 likes - 70 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,402 likes - 70 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 66 | [Venus 샛별](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 |
 | 67 | [Ultra Venus](https://open.spotify.com/track/0QhWeC7nAvAOyKNA279gRT) | [Disco Hue](https://open.spotify.com/artist/6k0tAEcYn1sa2M3EZhlEfw) | [The Yearbook](https://open.spotify.com/album/6Zqb6O4wNqSwUe6uR6Bdpo) | 3:20 |
 | 68 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
-| 69 | [City Hunter](https://open.spotify.com/track/5fpp1cnRKPjgZe1aXQEFd5) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Amusement Park](https://open.spotify.com/album/2nkyyh9Wmji0a1a3ga6h9A) | 4:12 |
+| 69 | [City Hunter](https://open.spotify.com/track/3r7IlRaVffevh2JkhIF0Vj) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Amusement Park](https://open.spotify.com/album/25IDIVfQRGihHQswzbgfL0) | 4:12 |
 | 70 | [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 |
 
-Snapshot ID: `MTY2MTgzOTI4NSwwMDAwMDAwMGRjNGM4ZmFmOTA2ZTFjYTQ4ODFkYjY5NDBmNmJjMmM0`
+Snapshot ID: `MTY2MTgzOTI4NSwwMDAwMDAwMDE0NzNiMjY3YzEzZTgxNDBkNmE5Zjc2NTgxZDNmMDcx`

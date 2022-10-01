@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Poly Styrene ",
-  "num_followers": 808781,
+  "num_followers": 809173,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2Njc2MCwwMDAwMDAwMDc1YzJjZTc0ODA1NmViN2UxOTNmNjlkOGVkYTE3Zjdl",
+  "snapshot_id": "MTY2NDQ2Njc2MCwwMDAwMDAwMGM5ZWRiMTBlOTUwODE4MTEzMjdiZWNlZjJjNDExZWZh",
   "tracks": [
     {
       "added_at": "2022-09-29 15:52:40",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Visage",
-        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
-      },
-      "artists": [
-        {
-          "name": "Visage",
-          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Fade To Grey",
-      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
         "name": "Singles (2016 Remaster)",
         "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 450800,
       "name": "Blue Monday - 2016 Remaster",
       "url": "https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Debaser",
+      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
         }
       ],
-      "duration_ms": 171746,
-      "name": "Debaser",
-      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
+      "duration_ms": 239360,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Metro Music",
-        "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
-      },
-      "artists": [
-        {
-          "name": "Martha and the Muffins",
-          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Echo Beach",
-      "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
-    },
-    {
-      "added_at": "2022-09-29 15:52:40",
-      "album": {
         "name": "Psychocandy (Expanded Version)",
         "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 182493,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry"
+    },
+    {
+      "added_at": "2022-09-29 15:52:40",
+      "album": {
+        "name": "Metro Music",
+        "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
+      },
+      "artists": [
+        {
+          "name": "Martha and the Muffins",
+          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Echo Beach",
+      "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
     },
     {
       "added_at": "2022-09-29 15:52:40",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-09-29 15:52:40",
       "album": {
-        "name": "Our Favourite Shop",
-        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
+        "name": "We Are The '80s",
+        "url": "https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF"
       },
       "artists": [
         {
-          "name": "The Style Council",
-          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
+          "name": "Bow Wow Wow",
+          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
         }
       ],
-      "duration_ms": 204333,
-      "name": "Walls Come Tumbling Down",
-      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
+      "duration_ms": 164306,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S"
     }
   ],
   "unique_name": "Alternative 80s",

@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-255 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+256 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Belo Horizonte](https://open.spotify.com/track/4FuEQNopUQZZuSWhBjIBVM) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Belo Horizonte](https://open.spotify.com/album/7gHg2zQPQc0IgQT6tx5dVI) | 3:44 | 2021-12-09 | 2022-07-29 |
 | [Belo Horizonte](https://open.spotify.com/track/5v3eLbjMTRPyJk0gDnjCXN) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Belo Horizonte](https://open.spotify.com/album/0GGi7u94hGWeEmiB1e7Wjn) | 3:44 | 2022-07-21 | 2022-09-20 |
 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2021-12-09 | 2022-05-26 |
+| [Bicycle Day](https://open.spotify.com/track/0wC6uIBKnc4vTwA3WMb9cN) | [Markus Nikolaus](https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds) | [Bicycle Day](https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH) | 3:34 | 2022-09-30 |  |
 | [Blinking](https://open.spotify.com/track/41z41ChUI6twSJj07WGe5T) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Blinking](https://open.spotify.com/album/79OGQ3TYv55TqTSCqSDZ7q) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Blue](https://open.spotify.com/track/1MrElax7day41jzoztYk2k) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3iIrKF9cVzG0sctCOOgP3U) | 2:36 | 2021-12-09 | 2022-07-27 |
 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 | 2022-07-21 | 2022-09-30 |
@@ -167,7 +168,7 @@
 | [One For Your Workout](https://open.spotify.com/track/75hl31r8NOhWe5CKsiEsce) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [One For Your Workout](https://open.spotify.com/album/7fFOXWFnbF7Q8gTJswnZrB) | 4:02 | 2022-04-14 | 2022-07-22 |
 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 | 2021-12-09 |  |
 | [Orion](https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Orion](https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9) | 3:37 | 2021-12-09 | 2022-07-29 |
-| [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 | 2021-12-09 |  |
+| [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 | 2021-12-09 | 2022-10-01 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-11 |  |
 | [Outer Sunset](https://open.spotify.com/track/6MUuMaiREbhGc2HvvBYFik) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:10 | 2022-04-14 | 2022-04-21 |
 | [Paper Cup \- Edit](https://open.spotify.com/track/6ttrFq4adJwxBaWUz2H7EC) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [The Main Thing](https://open.spotify.com/album/1UKlb2Lb7CW1trU8ultvGr) | 3:47 | 2022-04-14 | 2022-04-21 |

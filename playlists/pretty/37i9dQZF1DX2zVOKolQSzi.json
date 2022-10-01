@@ -1,12 +1,12 @@
 {
   "description": "The best and finest '10s Funk. Cover: Pharrell Williams.",
-  "num_followers": 31482,
+  "num_followers": 31548,
   "original_name": "I Love My '10s Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYwNDExMCwwMDAwMDAwMDIyZGFjZGYwMjZhMjYxMzJhOWE5OGE2NWEyNzVkYTk2",
+  "snapshot_id": "MTY2NDUzMzIwMCwwMDAwMDAwMDY3MzMzMWY5OTkzNGUxZjY1YWIwZWRiZTEwNGUxYTMz",
   "tracks": [
     {
       "added_at": "2021-05-05 15:15:21",
@@ -27,6 +27,46 @@
     {
       "added_at": "2021-05-05 15:15:21",
       "album": {
+        "name": "Thrill of the Arts",
+        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+        }
+      ],
+      "duration_ms": 130770,
+      "name": "Funky Duck",
+      "url": "https://open.spotify.com/track/2KRQR1VK6OoJxpwVzwDv72"
+    },
+    {
+      "added_at": "2021-05-05 15:15:21",
+      "album": {
+        "name": "Cory Wong and the Green Screen Band",
+        "url": "https://open.spotify.com/album/4GMMDXVjbUwzospZCb8Uy9"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "duration_ms": 339975,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/62cr4T5CnlHhRVPLQQ3Var"
+    },
+    {
+      "added_at": "2021-05-05 15:15:21",
+      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -43,22 +83,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2021-05-05 15:15:21",
-      "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 285626,
-      "name": "Gust of Wind",
-      "url": "https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0"
     },
     {
       "added_at": "2021-05-05 15:15:21",
@@ -151,6 +175,22 @@
     {
       "added_at": "2021-05-05 15:15:21",
       "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 285626,
+      "name": "Gust of Wind",
+      "url": "https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0"
+    },
+    {
+      "added_at": "2021-05-05 15:15:21",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/3OYfshPEbKYN8aYZfIk9XW"
       },
@@ -187,26 +227,6 @@
       "duration_ms": 302560,
       "name": "Jam On",
       "url": "https://open.spotify.com/track/1ePjiM953NQc7FfRTNjxsq"
-    },
-    {
-      "added_at": "2021-05-05 15:15:21",
-      "album": {
-        "name": "Thrill of the Arts",
-        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
-        }
-      ],
-      "duration_ms": 130770,
-      "name": "Funky Duck",
-      "url": "https://open.spotify.com/track/2KRQR1VK6OoJxpwVzwDv72"
     },
     {
       "added_at": "2021-05-05 15:15:21",
@@ -263,26 +283,6 @@
       "duration_ms": 177200,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
-      "added_at": "2021-05-05 15:15:21",
-      "album": {
-        "name": "Cory Wong and the Green Screen Band",
-        "url": "https://open.spotify.com/album/4GMMDXVjbUwzospZCb8Uy9"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Antwaun Stanley",
-          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
-        }
-      ],
-      "duration_ms": 339975,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/62cr4T5CnlHhRVPLQQ3Var"
     },
     {
       "added_at": "2021-05-05 15:15:21",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2021-05-05 15:15:21",
       "album": {
+        "name": "Hot Like Fire",
+        "url": "https://open.spotify.com/album/0OkeW87Vlog7eTQxeEq8Xa"
+      },
+      "artists": [
+        {
+          "name": "Bonerama",
+          "url": "https://open.spotify.com/artist/29C6qd6bEW3SrWxANgjYNw"
+        }
+      ],
+      "duration_ms": 280742,
+      "name": "Hot Like Fire",
+      "url": "https://open.spotify.com/track/2NpreHI1dki4J7tUMcKlDz"
+    },
+    {
+      "added_at": "2021-05-05 15:15:21",
+      "album": {
         "name": "Everybody Want Sum",
         "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 215173,
       "name": "White Knuckle Ride",
       "url": "https://open.spotify.com/track/1DujLrZJUvLdOCNAUTLJ7Y"
-    },
-    {
-      "added_at": "2021-05-05 15:15:21",
-      "album": {
-        "name": "Hot Like Fire",
-        "url": "https://open.spotify.com/album/0OkeW87Vlog7eTQxeEq8Xa"
-      },
-      "artists": [
-        {
-          "name": "Bonerama",
-          "url": "https://open.spotify.com/artist/29C6qd6bEW3SrWxANgjYNw"
-        }
-      ],
-      "duration_ms": 280742,
-      "name": "Hot Like Fire",
-      "url": "https://open.spotify.com/track/2NpreHI1dki4J7tUMcKlDz"
     },
     {
       "added_at": "2021-05-05 15:15:21",

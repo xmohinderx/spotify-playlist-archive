@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-787 songs - 1 day 19 hr 35 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+788 songs - 1 day 19 hr 38 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz) | 3:30 | 2021-12-17 | 2022-04-08 |
 | [Alors On Danse \- DubDogz Remix](https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Alors On Danse \(DubDogz Remix\)](https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p) | 2:48 | 2020-05-22\* | 2022-04-22 |
 | [Alter Ego](https://open.spotify.com/track/1H5aqJh1n2xJPTVc7D0aqR) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [For Club Play Only, Pt\. 7](https://open.spotify.com/album/6gtIyiWuthKdkFFz5Aoqhu) | 3:25 | 2021-10-10 | 2022-04-19 |
-| [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-07-01 |  |
+| [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-07-01 | 2022-10-01 |
 | [Animal Kingdom](https://open.spotify.com/track/68pyMFPW2TOrCrjnbytDk5) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Animal Kingdom](https://open.spotify.com/album/4eABXs2kDjjsBgjg0CeWIT) | 3:10 | 2021-04-21 | 2022-04-19 |
 | [Another Chance](https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Another Chance](https://open.spotify.com/album/2duIDdyqxZxcvJkhoGi8Bp) | 4:14 | 2021-11-20 | 2022-07-28 |
 | [Another Life \(feat\. Alida\)](https://open.spotify.com/track/0NWVFwJxCMjBdTOCePlQdl) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Another Life \(feat\. Alida\)](https://open.spotify.com/album/1nRhHxZcQ3a5c23LdVTn7N) | 3:32 | 2020-12-18 | 2021-12-11 |
@@ -279,6 +279,7 @@
 | [Get Out My Head](https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Get Out My Head](https://open.spotify.com/album/70mFskdJpptbrvVk9uwtAo) | 3:24 | 2020-12-27 | 2021-11-20 |
 | [Get Stupid](https://open.spotify.com/track/7k2Ol1Tzgvt7mywZQvu6zB) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Get Stupid](https://open.spotify.com/album/6xZYXQyYeo1wEBsIxLi72S) | 3:47 | 2020-11-03 | 2021-10-12 |
 | [Get Up](https://open.spotify.com/track/5Wy9yg61go8oLBw8oTHp69) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Per QX](https://open.spotify.com/artist/0eCneJhmArVmpFfgDUt4kn), [Elias Bravo](https://open.spotify.com/artist/1CLPglIL0E4ts7MVdnwJxv) | [Get Up](https://open.spotify.com/album/4FPycTuwtDhuZdU2cnxTYk) | 3:12 | 2022-04-01 | 2022-04-21 |
+| [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2022-09-30 |  |
 | [Get Your Money](https://open.spotify.com/track/2Nk1gAqXytbhryuGmm84I5) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get Your Money](https://open.spotify.com/album/6p6WEfnvtKxEk7eY5Wohw3) | 3:50 | 2021-04-24 | 2021-05-29 |
 | [Girls](https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Girls](https://open.spotify.com/album/3v9d9gmeLR3CQ2Yz2Q7rgY) | 3:00 | 2021-03-14 | 2022-04-21 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-08-18 |  |

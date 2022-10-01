@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels.
 
-216 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
+217 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2019-06-19\* | 2021-02-11 |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2019-06-19\* |  |
 | [Best Thing](https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [S.O.L.A.R.](https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87) | 3:08 | 2021-01-21 |  |
-| [Between The Lines](https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Between The Lines](https://open.spotify.com/album/6lCouTlJCmzbCAysQCYXls) | 3:43 | 2020-11-17 | 2022-08-17 |
+| [Between The Lines](https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Between The Lines](https://open.spotify.com/album/6lCouTlJCmzbCAysQCYXls) | 3:43 | 2020-11-17 |  |
 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 | 2019-10-29 |  |
 | [Broken](https://open.spotify.com/track/1SuznrYulmD8HMZrenI0VU) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/76FANVOor6l7OMUFcc0q9r) | 3:20 | 2019-06-19\* | 2021-01-28 |
 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 | 2020-11-12 |  |
@@ -72,7 +72,7 @@
 | [From Time](https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 5:22 | 2022-07-28 |  |
 | [From Time](https://open.spotify.com/track/10VBBaul4zVD0reteuIHM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt) | 5:22 | 2019-05-26\* | 2022-07-29 |
 | [Frustrated](https://open.spotify.com/track/1N5j9dRZ3foNWwU4Zp0pbq) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/22I1D0zjOvt3oz5xmot6Ab) | 3:21 | 2019-05-26\* | 2019-06-19 |
-| [Fuck Alone](https://open.spotify.com/track/0YkyPP2wnuOUrD8Yv1UMW3) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Fuck Alone](https://open.spotify.com/album/5KlWgubv7BCPrEdB9VxPdd) | 3:21 | 2022-06-17 |  |
+| [Fuck Alone](https://open.spotify.com/track/0YkyPP2wnuOUrD8Yv1UMW3) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Fuck Alone](https://open.spotify.com/album/5KlWgubv7BCPrEdB9VxPdd) | 3:21 | 2022-06-17 | 2022-10-01 |
 | [Fuck The World \(Summer in London\)](https://open.spotify.com/track/2LHRwhsMByGIVTtHxlOJg2) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World \(Summer in London\)](https://open.spotify.com/album/0IIpx0hVwtkVb1OUq6mvLP) | 3:56 | 2019-08-04 | 2019-10-29 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 | 2022-04-15 |  |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 | 2019-05-26\* |  |
@@ -98,7 +98,7 @@
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-04-15 |  |
 | [i miss the old u](https://open.spotify.com/track/1nMYtxDrONcoGnKRvxTwPv) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/30QoUTsSdpQuZunPNFsLnm) | 3:31 | 2019-06-19\* | 2021-02-11 |
 | [IF HE RULES THE WORLD](https://open.spotify.com/track/4W7bZVTlkupyRLq1XnQCXs) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:19 | 2022-04-15 | 2022-07-29 |
-| [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 | 2022-07-22 |  |
+| [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 | 2022-07-22 | 2022-10-01 |
 | [If You Let Me](https://open.spotify.com/track/5LKXxwgll43fxe1lPF7sze) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [If You Let Me](https://open.spotify.com/album/2WTbzsNwxQ53kvZAdPBozx) | 3:52 | 2019-05-26\* | 2019-06-19 |
 | [Inhale](https://open.spotify.com/track/0ycIrEpkyb4lrqE7M1emju) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:51 | 2020-10-22 |  |
 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 | 2021-05-20 |  |
@@ -163,6 +163,7 @@
 | [Primrose](https://open.spotify.com/track/1NRX2Ktplk6T3nj8rriiYJ) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [honeycomb](https://open.spotify.com/album/07HYWH4vVntmvQiSyu5B83) | 4:14 | 2020-11-12 | 2022-06-17 |
 | [Provider](https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Provider](https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9) | 4:03 | 2019-06-19\* | 2022-04-16 |
 | [Psycho, Pt\. 2](https://open.spotify.com/track/26OhjtaTamFocE08t83ml6) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Psycho, Pt\. 2](https://open.spotify.com/album/21UO4eAaNZ5kultgMBNEHD) | 2:41 | 2019-06-19\* | 2022-04-16 |
+| [QUEEN ST\. W](https://open.spotify.com/track/5IugC7MdXtCwOtEbUSERkA) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:51 | 2022-09-30 |  |
 | [Redemption](https://open.spotify.com/track/4cRBqWBjuccCowYVHFlXK6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 5:33 | 2019-05-26\* | 2022-04-16 |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2019-08-04 | 2019-10-29 |
 | [Right My Wrongs](https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 4:09 | 2019-05-26\* |  |

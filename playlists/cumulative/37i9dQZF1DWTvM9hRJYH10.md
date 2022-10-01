@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Madeline Merlo
 
-228 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+229 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Just Like July](https://open.spotify.com/track/6AV8mVeFUk0seEUx9m04zL) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Just Like July](https://open.spotify.com/album/3B0vTKdSiAYKG3zp49qzTM) | 3:14 | 2022-08-12 |  |
 | [Just Want My Love](https://open.spotify.com/track/7vr9z3BpXTnLrHthI9rVrg) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Just Want My Love](https://open.spotify.com/album/39JOX2Eoh0Hb6EBdbfpc3t) | 2:39 | 2022-08-26 |  |
 | [Kinda](https://open.spotify.com/track/7k4eO6vkBNU9OO8LAonra4) | [Jake Rose](https://open.spotify.com/artist/6uj6GUVOExWu9W98Gq5i98) | [Kinda](https://open.spotify.com/album/0ldOhc6vksH0Eja0Eai5Oi) | 2:26 | 2021-12-31 |  |
+| [Kinda Don't Ever](https://open.spotify.com/track/5vQtpSDI9757CYLmZSCksD) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Kinda Don't Ever](https://open.spotify.com/album/55X93nG9mjFGfrp0DMklVO) | 3:06 | 2022-09-30 |  |
 | [King Of The World](https://open.spotify.com/track/6yK2aEEVtYTmQ2ca3wja3S) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [King Of The World](https://open.spotify.com/album/2YP4ubZ2u87XOAkeRaKwlU) | 3:19 | 2022-04-15 |  |
 | [Kiss About It](https://open.spotify.com/track/4atQ9Mu2f3s4ym4U2y811i) | [Cash Campbell](https://open.spotify.com/artist/57niI6IBcl5QLGLY45pEdw) | [Kiss About It](https://open.spotify.com/album/0H8cRuaKhqv98RjOWowmN7) | 3:16 | 2021-12-31 | 2022-01-08 |
 | [Knee On](https://open.spotify.com/track/2Ls3eAK8JioZRuyI508fIn) | [Clayton Shay](https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR) | [Knee On](https://open.spotify.com/album/0DERFnU3gL3kT4phelFrzZ) | 3:04 | 2021-12-31 | 2022-02-12 |

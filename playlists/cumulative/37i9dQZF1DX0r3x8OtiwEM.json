@@ -146,6 +146,28 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269752,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
+    },
+    {
+      "album": {
         "name": "Agitation",
         "url": "https://open.spotify.com/album/4FoS91xptdEBZeWq4ymeuO"
       },
@@ -1904,6 +1926,24 @@
     },
     {
       "album": {
+        "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
+    },
+    {
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -2757,6 +2797,42 @@
       "duration_ms": 414326,
       "name": "Exhilaration",
       "url": "https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc"
+    },
+    {
+      "album": {
+        "name": "Expander",
+        "url": "https://open.spotify.com/album/7B2lPcnbOvIUpCwFRvPtRZ"
+      },
+      "artists": [
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444881,
+      "name": "Expander",
+      "url": "https://open.spotify.com/track/6hZZ6ZPpkAauDA3Al6za5T"
+    },
+    {
+      "album": {
+        "name": "Explore",
+        "url": "https://open.spotify.com/album/2LkepPSBrgwEiLavKjk49L"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299047,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8"
     },
     {
       "album": {
@@ -3742,6 +3818,24 @@
     },
     {
       "album": {
+        "name": "Hegn",
+        "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386130,
+      "name": "Hegn",
+      "url": "https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK"
+    },
+    {
+      "album": {
         "name": "Here And Now",
         "url": "https://open.spotify.com/album/35Woxs6eyVIX9m94vZKvMy"
       },
@@ -3937,7 +4031,7 @@
       ],
       "date_added": "2020-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 221090,
       "name": "Home",
       "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
@@ -4481,6 +4575,28 @@
       "duration_ms": 423077,
       "name": "Inside Me",
       "url": "https://open.spotify.com/track/1qiTpLXlQ3wAGvQlEpnP3d"
+    },
+    {
+      "album": {
+        "name": "Unanimously",
+        "url": "https://open.spotify.com/album/0LnCqQ81vJlu3FtC7626r6"
+      },
+      "artists": [
+        {
+          "name": "Kadosh (IL)",
+          "url": "https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W"
+        },
+        {
+          "name": "Marc Pi\u00f1ol",
+          "url": "https://open.spotify.com/artist/0yEHxtfvCa9otjDLZdWeDi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394093,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/6thkaOWp9dSeLBVmbW8ZXN"
     },
     {
       "album": {
@@ -6565,7 +6681,7 @@
       ],
       "date_added": "2020-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 233333,
       "name": "Over This",
       "url": "https://open.spotify.com/track/5QBoohH8QfwtCrH2ZSWpJ8"
@@ -6925,7 +7041,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 498419,
       "name": "Postquam",
       "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
@@ -7031,7 +7147,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 365172,
       "name": "Pure",
       "url": "https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2"
@@ -7553,7 +7669,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 320853,
       "name": "Risky Business",
       "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
@@ -8749,7 +8865,7 @@
       ],
       "date_added": "2021-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 404400,
       "name": "The Blame - Helsloot Remix",
       "url": "https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n"

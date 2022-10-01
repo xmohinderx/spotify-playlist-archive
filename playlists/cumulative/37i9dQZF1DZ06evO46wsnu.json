@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 246933,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/4NY0rkhWqRGCEnnJdYvZO1"
@@ -959,6 +959,24 @@
       "duration_ms": 200000,
       "name": "Worth Dying For",
       "url": "https://open.spotify.com/track/2fFdjMCVUnIBU1jiKLBIKH"
+    },
+    {
+      "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278346,
+      "name": "Zero Visibility",
+      "url": "https://open.spotify.com/track/4JnWKLgb2iCU7XdmKLQr2e"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO46wsnu"

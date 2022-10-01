@@ -1,12 +1,12 @@
 {
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
-  "num_followers": 74494,
+  "num_followers": 74524,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2MzQwNSwwMDAwMDAwMGY1ZDFiOTQxZjZmMzlhYjljNzBlY2VmZGJkMDQ1MzBl",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGIzZjM3M2Y0ODQ5NmEwNTAyOWFmYWZlNTlhZmEzM2I0",
   "tracks": [
     {
       "added_at": "2022-09-02 04:02:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 347840,
-      "name": "Blame it On Me",
-      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Me to You",
@@ -57,6 +41,22 @@
       "url": "https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq"
     },
     {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 347840,
+      "name": "Blame it On Me",
+      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+    },
+    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Bloodline Maintenance",
@@ -71,22 +71,6 @@
       "duration_ms": 218766,
       "name": "Smile At The Mention",
       "url": "https://open.spotify.com/track/660y7d6UfYBNdU9U2Tewn6"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Emmaline",
-      "url": "https://open.spotify.com/track/0scyMh87ralm4LxQqHRKvq"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -125,6 +109,22 @@
       "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Emmaline",
+      "url": "https://open.spotify.com/track/0scyMh87ralm4LxQqHRKvq"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Crown",
@@ -139,6 +139,26 @@
       "duration_ms": 290973,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi"
+      },
+      "artists": [
+        {
+          "name": "Emily West",
+          "url": "https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA"
+        },
+        {
+          "name": "Whiskey Wolves of the West",
+          "url": "https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj"
+        }
+      ],
+      "duration_ms": 240583,
+      "name": "Out of Sight (Out of Mind)",
+      "url": "https://open.spotify.com/track/00XkBPsjAlNyw4VeQrQSJY"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1483,22 +1503,6 @@
       "duration_ms": 288360,
       "name": "Something To Lose",
       "url": "https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Loving Arms",
-        "url": "https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK"
-      },
-      "artists": [
-        {
-          "name": "Jo Harman",
-          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
-        }
-      ],
-      "duration_ms": 381049,
-      "name": "Loving Arms",
-      "url": "https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS"
     }
   ],
   "unique_name": "Blue Ballads",

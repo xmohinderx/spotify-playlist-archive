@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 4450,
+  "num_followers": 4458,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzExMiwwMDAwMDAwMDgwN2RlYmM1ZGZjZWU3NzZmOTZiMjNjZjFlY2FiNzhl",
+  "snapshot_id": "MTY2MjM5MzExMiwwMDAwMDAwMGRiNzA0N2NjMjgyYjI1NzE4Mzc5MDViZDFiMzNjYzEx",
   "tracks": [
     {
       "added_at": "2022-09-05 15:51:52",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
+        "name": "bimil:ier vol.1 \"so this is love\"",
+        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
       },
       "artists": [
         {
-          "name": "Seo In Guk",
-          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 178373,
-      "name": "I like you",
-      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
+      "duration_ms": 203425,
+      "name": "so this is love",
+      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "bimil:ier vol.1 \"so this is love\"",
-        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
+        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
       },
       "artists": [
         {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
         }
       ],
-      "duration_ms": 203425,
-      "name": "so this is love",
-      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
+      "duration_ms": 178373,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
     },
     {
       "added_at": "2022-09-05 15:51:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-05 15:51:52",
       "album": {
-        "name": "algorithm",
-        "url": "https://open.spotify.com/album/70sbsUFZH7F476QOof1pw6"
-      },
-      "artists": [
-        {
-          "name": "Mabinc",
-          "url": "https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z"
-        }
-      ],
-      "duration_ms": 129619,
-      "name": "algorithm (prod. edenbyeden)",
-      "url": "https://open.spotify.com/track/27zb6pgYkmgpeD4kLNPdBQ"
-    },
-    {
-      "added_at": "2022-09-05 15:51:52",
-      "album": {
         "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 209866,
       "name": "Something Precious",
       "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
+    },
+    {
+      "added_at": "2022-09-05 15:51:52",
+      "album": {
+        "name": "algorithm",
+        "url": "https://open.spotify.com/album/70sbsUFZH7F476QOof1pw6"
+      },
+      "artists": [
+        {
+          "name": "Mabinc",
+          "url": "https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z"
+        }
+      ],
+      "duration_ms": 129619,
+      "name": "algorithm (prod. edenbyeden)",
+      "url": "https://open.spotify.com/track/27zb6pgYkmgpeD4kLNPdBQ"
     }
   ],
   "unique_name": "\uc378",

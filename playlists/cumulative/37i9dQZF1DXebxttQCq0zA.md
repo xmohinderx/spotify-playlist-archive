@@ -4,17 +4,18 @@
 
 > Soothing drones, ambient piano and new age music.
 
-259 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+263 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cabinet With Phosphorescence](https://open.spotify.com/track/4PO5kkTwxCqpumXdDAFQVw) | [Genevieve Bertram](https://open.spotify.com/artist/10ODqXnN38l7oy4TaMbsGO) | [A Cabinet With Phosphorescence](https://open.spotify.com/album/1QU2tdTMOOBv0DUkiMeoeR) | 3:28 | 2022-05-25 |  |
 | [A New Day](https://open.spotify.com/track/2YmHA1zfrkam6TaO5mkQgZ) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [A New Day](https://open.spotify.com/album/0yfSVnunzAXRjdc89P502Q) | 4:15 | 2022-05-25 | 2022-09-28 |
 | [A Soft Echo](https://open.spotify.com/track/0p4YqnuGL81qRn6UNg4mxN) | [Lusciousness](https://open.spotify.com/artist/5mFwFCtioyQoqFUYY3VKtf) | [A Soft Echo](https://open.spotify.com/album/38a7MUTk2Rl9Za9HlGAB1O) | 3:53 | 2022-05-25 |  |
-| [Aan de andere kant](https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Aan de andere kant](https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM) | 4:06 | 2022-05-25 |  |
+| [Aan de andere kant](https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Aan de andere kant](https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM) | 4:06 | 2022-05-25 | 2022-10-01 |
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2022-05-25 | 2022-09-28 |
 | [Across the Sky](https://open.spotify.com/track/2LqrkTxO7V6R0xoLEdtyaQ) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Across the Sky](https://open.spotify.com/album/2h7RIAyJ3vvnW4Wl8vnklD) | 2:09 | 2022-05-25 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-25 |  |
+| [Ajna](https://open.spotify.com/track/2K5oZahJ4iSqs4LaXeCjtx) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:29 | 2022-09-30 |  |
 | [All Rivers](https://open.spotify.com/track/5bw8YBybhZA37RZKjZ2voM) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [All Rivers](https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91) | 3:57 | 2022-05-25 | 2022-09-03 |
 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-23 |  |
 | [Amoralis](https://open.spotify.com/track/2mTpYXCPuy7FVLyi958Qpl) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Amoralis](https://open.spotify.com/album/1O1xjqTSjZzCmAMIGNYYwg) | 4:13 | 2022-05-25 |  |
@@ -150,6 +151,7 @@
 | [Motionless](https://open.spotify.com/track/4jjuffnk6c7UZ4cscp0uS0) | [Simone Baillard](https://open.spotify.com/artist/7pJOC2WVTR888AUtLPCoLh) | [Motionless](https://open.spotify.com/album/2rmIHj1vqui9lwaAQwNfnO) | 2:37 | 2022-05-25 | 2022-09-28 |
 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 | 2022-07-15 | 2022-09-28 |
 | [Moving Silence](https://open.spotify.com/track/08Mk6wrJu3giNbV2oy6Vv8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW) | 2:05 | 2022-05-25 | 2022-07-29 |
+| [Muladhara](https://open.spotify.com/track/3pOIvvzAM9nj0ipjmGGhRs) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 4:53 | 2022-09-30 |  |
 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 | 2022-05-25 | 2022-09-28 |
 | [Mångata](https://open.spotify.com/track/1dpvthn5aYPgBmk7LiKOsl) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [Mångata](https://open.spotify.com/album/1qzSfgjTCYGysekMKLqxdi) | 2:57 | 2022-05-25 |  |
 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 | 2022-05-25 | 2022-09-28 |
@@ -211,6 +213,7 @@
 | [Skylines](https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Magnetic](https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa) | 2:46 | 2022-05-25 | 2022-09-28 |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-15 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 3:11 | 2022-05-25 |  |
+| [Sleeping Moons](https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:11 | 2022-09-30 |  |
 | [Slow Comets](https://open.spotify.com/track/3RooVmiw2ZTwu3rnBNAq1f) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [Slow Comets](https://open.spotify.com/album/6KkIHN9fRp96181Q3Y1kV5) | 2:40 | 2022-05-25 |  |
 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2022-05-25 | 2022-09-28 |
 | [Smyrna](https://open.spotify.com/track/3Gyss6Qzd4cHxfxciKAPc7) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0imOiiDynHggx316VKVNuN) | 3:18 | 2022-05-25 | 2022-06-25 |
@@ -250,6 +253,7 @@
 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2022-07-15 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-05-25 |  |
 | [Vast Surroundings](https://open.spotify.com/track/6xCgUaot7EEpxQRGtW7S0O) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:13 | 2022-05-25 |  |
+| [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-09-30 |  |
 | [Visions of Sleep and Beyond](https://open.spotify.com/track/3TT0S61x8x2IFUn8lnqjq9) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Visions of Sleep and Beyond](https://open.spotify.com/album/3kCPg1GdYtz8ZdD3NILoTr) | 3:01 | 2022-05-25 | 2022-09-28 |
 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 | 2022-05-25 | 2022-09-28 |
 | [Wave After Wave](https://open.spotify.com/track/3OUKRGnpsMenK14ZDdSHmk) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:32 | 2022-05-25 |  |

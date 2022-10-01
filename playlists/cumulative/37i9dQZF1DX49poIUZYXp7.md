@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Ashley Cooke
+> The extraordinary women making great country music today\. Cover: Ashley McBryde
 
-288 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
+289 songs - 15 hr 50 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Big for a Small Town](https://open.spotify.com/track/1cssFOIRPAewIVA9cjRXxH) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Where You Come From](https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Bits & Pieces](https://open.spotify.com/track/2muPf36lYJMIqGzI3h8JTQ) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Bits & Pieces](https://open.spotify.com/album/5kGK6raX2Jt0hiQSZ6Q3uC) | 2:41 | 2021-12-01 | 2022-07-27 |
 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 | 2021-12-01 |  |
+| [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 |  |
 | [Bought the T\-Shirt](https://open.spotify.com/track/28Ncn33pglXWunvZ7lFwgS) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [I Ain't a Saint](https://open.spotify.com/album/0g8HweBRPuoqpruz4ycic8) | 2:40 | 2022-03-25 | 2022-04-20 |
 | [Boys and Girls](https://open.spotify.com/track/6MNC6shWy6gJPtQxPa7fdY) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Feels Like This](https://open.spotify.com/album/0XQX8svQeK9zt85vjPx8VR) | 3:10 | 2022-03-02 | 2022-04-20 |
 | [Break My Heart](https://open.spotify.com/track/3OLjsUcHEN3LseRaqiYxoD) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Break My Heart](https://open.spotify.com/album/1Gz1G8IgDgJK5M5PAmb6K7) | 3:17 | 2022-03-25 | 2022-04-21 |
@@ -152,7 +153,7 @@
 | [Love Me When I'm Leavin'](https://open.spotify.com/track/7reuV9C5aw7OLQnjA7L6hc) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Love Me When I'm Leavin'](https://open.spotify.com/album/5qnSXznshj3uLjxUzMyftG) | 2:32 | 2022-04-15 | 2022-04-21 |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 | 2021-12-01 |  |
 | [Love Triangle](https://open.spotify.com/track/6EJMBO60yYTS5YOXTqPhka) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Love Triangle](https://open.spotify.com/album/2Sr7xPuoK1wgU04sOP9HvL) | 3:44 | 2022-03-25 | 2022-04-19 |
-| [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2022-07-22 |  |
+| [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2022-07-22 | 2022-10-01 |
 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 | 2022-09-16 |  |
 | [Magic](https://open.spotify.com/track/47Gp8oW808q6j4Oxg9iGLw) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic](https://open.spotify.com/album/2X2jLJr3W0IMGbCVwzSjc3) | 3:06 | 2022-03-25 | 2022-04-20 |
 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 | 2021-12-01 | 2022-07-26 |

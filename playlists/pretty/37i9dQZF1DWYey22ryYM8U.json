@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 528245,
+  "num_followers": 528310,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDNmMDQ3NjU5N2JmZWU4NDgwZGE0ZWMzY2YwMThjYzhk",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGY3ZWQwZDkyNGVjYmRkOTQ1OThiNjYyZDYxMmUyNzMy",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Ateo",
-        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "Nathy Peluso",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ateo",
-      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "La Mejor Versi\u00f3n de Mi (Remix)",
         "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 229333,
       "name": "La Mejor Versi\u00f3n de Mi - Remix",
       "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Ateo",
+        "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Nathy Peluso",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Ateo",
+      "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Vuela Muy Alto",
+        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Vuela Muy Alto",
+      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Friends & Legends",
         "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 217000,
       "name": "Una Mentirita",
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Vuela Muy Alto",
-        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Vuela Muy Alto",
-      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Cobarde (Remix)",
-        "url": "https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
       "artists": [
         {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Cobarde - Remix",
-      "url": "https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd"
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1575,18 +1571,42 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+        "name": "Cobarde (Remix)",
+        "url": "https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx"
       },
       "artists": [
         {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
         }
       ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+      "duration_ms": 231333,
+      "name": "Cobarde - Remix",
+      "url": "https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Si Me Das Tu Amor",
+        "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "Si Me Das Tu Amor",
+      "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1611,26 +1631,6 @@
       "duration_ms": 254290,
       "name": "Abrete",
       "url": "https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Si Me Das Tu Amor",
-        "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "Si Me Das Tu Amor",
-      "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 219049,
-      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW"
       },
@@ -1743,22 +1727,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
       },
@@ -1771,6 +1739,38 @@
       "duration_ms": 226128,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 219049,
+      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "C\u00f3mo Olvidar (Versi\u00f3n 2021)",
-        "url": "https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 226771,
-      "name": "C\u00f3mo Olvidar - Versi\u00f3n 2021",
-      "url": "https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Aventurero",
         "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
       },
@@ -1863,22 +1843,6 @@
       "duration_ms": 209500,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1899,6 +1863,42 @@
       "duration_ms": 184333,
       "name": "Y Le Dije No - Salsa",
       "url": "https://open.spotify.com/track/2NcuCrsWUKklKE0glhndJD"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "C\u00f3mo Olvidar (Versi\u00f3n 2021)",
+        "url": "https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 226771,
+      "name": "C\u00f3mo Olvidar - Versi\u00f3n 2021",
+      "url": "https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Ojal\u00e1 (Remix)",
-        "url": "https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "Ojal\u00e1 - Remix",
-      "url": "https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Sin Amenazas",
         "url": "https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 264906,
       "name": "Uno de los Dos",
       "url": "https://open.spotify.com/track/0GuebVpkNITyobZ52oLTqf"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Ojal\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "Ojal\u00e1 - Remix",
+      "url": "https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Si Fuera M\u00eda",
-        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 203135,
-      "name": "Si Fuera M\u00eda",
-      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Sin Fronteras (feat. Haila)",
         "url": "https://open.spotify.com/album/5qgoLsJKKnbHtVpqO4FD4C"
       },
@@ -2175,6 +2159,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Si Fuera M\u00eda",
+        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 203135,
+      "name": "Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Hoy en Dia",
         "url": "https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu"
       },
@@ -2187,22 +2187,6 @@
       "duration_ms": 226777,
       "name": "Hoy en Dia",
       "url": "https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Comienzos",
-        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "Tu Fan",
-      "url": "https://open.spotify.com/track/186NSDXnUNw86nINuSoO9t"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -2223,6 +2207,22 @@
       "duration_ms": 263586,
       "name": "Te Di - Bachata Version",
       "url": "https://open.spotify.com/track/0UGwXhOY0puqYasfDDh8ZU"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Comienzos",
+        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Tu Fan",
+      "url": "https://open.spotify.com/track/186NSDXnUNw86nINuSoO9t"
     },
     {
       "added_at": "2022-09-09 04:00:00",

@@ -1864,6 +1864,24 @@
     },
     {
       "album": {
+        "name": "Wheels Of Time",
+        "url": "https://open.spotify.com/album/0w5QFggozxNROc5LqPjK7N"
+      },
+      "artists": [
+        {
+          "name": "Tall Towers",
+          "url": "https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "Wheels Of Time",
+      "url": "https://open.spotify.com/track/79f1BWnoz0SzwpQVXjmtxX"
+    },
+    {
+      "album": {
         "name": "When we go",
         "url": "https://open.spotify.com/album/2Rrba97lDOHXALfvZSpRx7"
       },

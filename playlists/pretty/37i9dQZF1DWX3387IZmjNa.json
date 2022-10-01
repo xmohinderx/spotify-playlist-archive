@@ -1,48 +1,36 @@
 {
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Toosii",
-  "num_followers": 1900164,
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Kalan.FrFr",
+  "num_followers": 1900294,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGY5NjM2YzBiOGRlOWM1OGEzNGUwNjE4ODVmOGIyNWU1",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDlhZThkODIwODVhNDc3NjRjYjc0MjA4M2E0MDkwN2Yw",
   "tracks": [
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Luv Me Again",
-        "url": "https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s"
+        "name": "I GOT ISSUES",
+        "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },
       "artists": [
         {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 127929,
-      "name": "Luv Me Again",
-      "url": "https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+      "duration_ms": 253913,
+      "name": "Sober (feat. Roddy Ricch & Post Malone)",
+      "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -71,6 +59,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -91,6 +99,58 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203917,
+      "name": "My Go To (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 213288,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Luv Me Again",
+        "url": "https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 127929,
+      "name": "Luv Me Again",
+      "url": "https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -151,38 +211,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 203917,
-      "name": "My Go To (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 213288,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
+      "duration_ms": 198127,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -221,6 +261,26 @@
       "url": "https://open.spotify.com/track/0h55heB6xDNh4hpWmtH71v"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "3 Nights In Seattle",
+        "url": "https://open.spotify.com/album/4wEbi47t3VMFRPhMq7bl8W"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        },
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "duration_ms": 172023,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/5wWbAr0jLpAYgV4wB6llRl"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "If I Want You",
@@ -251,22 +311,6 @@
       "duration_ms": 190370,
       "name": "Little Miss",
       "url": "https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 198127,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -431,6 +475,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Public Housing",
+        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 169056,
+      "name": "How TF He Like You",
+      "url": "https://open.spotify.com/track/13Sn01CH1mTRAylwCSkFKh"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "5 Star (with Rick Ross)",
         "url": "https://open.spotify.com/album/6IX1qlt5sGAWAF2XPteKy6"
       },
@@ -535,22 +595,6 @@
       "duration_ms": 172725,
       "name": "Self Worth (feat. Lil Perco)",
       "url": "https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Public Housing",
-        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        }
-      ],
-      "duration_ms": 169056,
-      "name": "How TF He Like You",
-      "url": "https://open.spotify.com/track/13Sn01CH1mTRAylwCSkFKh"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -875,22 +919,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6cNrV6Uz4CdVM7hwIPSA60"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 151238,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/6RouTxJEaWLaleuPFt5JP4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -911,26 +939,6 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193396,
-      "name": "Difference Is (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ"
     }
   ],
   "unique_name": "B.A.E.",

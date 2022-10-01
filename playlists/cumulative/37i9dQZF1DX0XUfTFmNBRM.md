@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover\- Ranbir & Alia.
 
-204 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+205 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK) | 4:51 | 2021-12-08 |  |
 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 | 2022-06-08 |  |
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2021-08-17 |  |
+| [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88) | 4:25 | 2022-09-30 |  |
 | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z) | 3:47 | 2022-01-17 | 2022-07-15 |
 | [Saari Ki Saari 2.0](https://open.spotify.com/track/34ppgPuSUgKIqUIBT26ulf) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Saari Ki Saari 2.0](https://open.spotify.com/album/0FHtjFSg6H8PWhjzEuAyuV) | 4:08 | 2021-01-25\* | 2021-08-03 |
 | [Saiyaan Ji](https://open.spotify.com/track/39QJ7KkN3L8LLqQqsO85W1) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Nushrratt Bharuccha](https://open.spotify.com/artist/1UhspKnJSXSz6I0pFtZhuy) | [Saiyaan Ji](https://open.spotify.com/album/00GpnM3JCsq6rtfBHptXZa) | 3:25 | 2021-02-23 | 2021-12-08 |

@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 188546,
       "name": "COBARDES",
       "url": "https://open.spotify.com/track/1AhdtdrlqKtcEJYFdQT05L"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 256573,
       "name": "EL PROBLEMA",
       "url": "https://open.spotify.com/track/6tr1KxiITaFnh9GGJLbfH3"
@@ -2172,6 +2172,32 @@
     },
     {
       "album": {
+        "name": "Se siente bien",
+        "url": "https://open.spotify.com/album/6a8VSm81mdzGUIg0WHImFl"
+      },
+      "artists": [
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
+        },
+        {
+          "name": "Pinky",
+          "url": "https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS"
+        },
+        {
+          "name": "Squiz Nine",
+          "url": "https://open.spotify.com/artist/79MQXIRLbX25QY6iAxlITO"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173031,
+      "name": "Se siente bien",
+      "url": "https://open.spotify.com/track/5KenV6MN79lZ0qqDSbqTw4"
+    },
+    {
+      "album": {
         "name": "Shot",
         "url": "https://open.spotify.com/album/3hyAIlkA3X2ZbLmoJc3bJA"
       },
@@ -2371,6 +2397,24 @@
       "duration_ms": 202546,
       "name": "S\u00edgueme - Remix",
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Prefieres?",
+        "url": "https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168149,
+      "name": "Talism\u00e1n",
+      "url": "https://open.spotify.com/track/2ELUxG0k6Gr6dr5IF1StWY"
     },
     {
       "album": {

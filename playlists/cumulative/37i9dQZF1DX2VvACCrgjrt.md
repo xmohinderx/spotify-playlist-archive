@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Malaa
 
-342 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+343 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Act Up](https://open.spotify.com/track/3zMTtFESlmiuKeIx61e0Io) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [Act Up](https://open.spotify.com/album/1j8faQ7w6rOUUMZIJek2g9) | 3:06 | 2022-05-27 |  |
 | [ALIEN](https://open.spotify.com/track/4fci3f54oN8iJl75OZLm7r) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [ALIEN](https://open.spotify.com/album/3NEiRqKazY4kENtQhKOw4q) | 2:46 | 2022-08-12 |  |
 | [All About U](https://open.spotify.com/track/1xoUL5CDpAB66vB8qZzMXY) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All About U](https://open.spotify.com/album/4BoLtiThigu3dTXSRCDsW9) | 2:51 | 2021-10-29 | 2021-12-30 |
+| [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 | 2022-09-30 |  |
 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 | 2021-10-29 | 2022-05-28 |
 | [Armageddon](https://open.spotify.com/track/6t0sQM20nfzukV8mzsFEWe) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Armageddon](https://open.spotify.com/album/6aDDd2jtcs4rPodWsAdliA) | 3:04 | 2021-10-29 | 2022-08-13 |
 | [Arrival](https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Arrival](https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9) | 3:27 | 2022-05-06 |  |
@@ -104,7 +105,7 @@
 | [Do Me Right](https://open.spotify.com/track/6mLJ7zIYSd0UU4clzjKjMC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Do Me Right](https://open.spotify.com/album/67FSPQuOEYIU4vqtcg0Fxm) | 3:01 | 2021-10-29 | 2022-01-22 |
 | [Downstairs \(feat\. Jaquell\) \- AC Slater Remix](https://open.spotify.com/track/4mJE8x9qBYJXtsbgCabL4R) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Downstairs \(feat\. Jaquell\) \[Remixes\]](https://open.spotify.com/album/6H2fT3UlOqvPog8j9xHnu6) | 3:20 | 2021-10-29 | 2022-01-22 |
 | [Drop The Top](https://open.spotify.com/track/1hYhtilcZAOXEIG4GuolxY) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Drop The Top](https://open.spotify.com/album/0VA36eUPG0iME35swH0PhQ) | 2:45 | 2021-10-29 | 2022-07-30 |
-| [Dynamit](https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Jet Crown](https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp) | [Dynamit](https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6) | 1:43 | 2022-05-27 |  |
+| [Dynamit](https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Jet Crown](https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp) | [Dynamit](https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6) | 1:43 | 2022-05-27 | 2022-10-01 |
 | [Earthquake](https://open.spotify.com/track/7p10Admejdbz7aU8Bd8nQh) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Earthquake](https://open.spotify.com/album/3N7z1ezQEDSV94VAa6OcU4) | 2:26 | 2021-10-29 | 2022-01-17 |
 | [Eat That](https://open.spotify.com/track/3wAZSNBuAlgA0fHELUvjMF) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Eat That](https://open.spotify.com/album/2BdLECy9p6Z2pirDw8Phel) | 2:41 | 2021-12-03 | 2022-05-28 |
 | [Everyday](https://open.spotify.com/track/3nC4P5WWwg7wT9LN3wi9M1) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Everyday](https://open.spotify.com/album/5BUTHQghk5eg7sQax6FJs5) | 3:50 | 2021-10-29 | 2022-03-01 |

@@ -1872,6 +1872,24 @@
     },
     {
       "album": {
+        "name": "HEARTLESS",
+        "url": "https://open.spotify.com/album/1DEOv4NMWgsrW0SzJ9JgFj"
+      },
+      "artists": [
+        {
+          "name": "Rops1",
+          "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "HEARTLESS",
+      "url": "https://open.spotify.com/track/7hBvKINP7pM0MWBBD1eXVF"
+    },
+    {
+      "album": {
         "name": "Hit My Line",
         "url": "https://open.spotify.com/album/3rv3dFnCgjEXheaE5mN614"
       },
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 163298,
       "name": "Riding",
       "url": "https://open.spotify.com/track/1VroX76EOk6I4qoqsCMH06"

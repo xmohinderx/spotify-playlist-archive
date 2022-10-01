@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Oxlade
 
-263 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
+264 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,8 @@
 | [Woman](https://open.spotify.com/track/1ODftV7ocihBwY9CJcCvD1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Woman](https://open.spotify.com/album/6bqDVBfkBUuMy56zc91rR6) | 2:48 | 2021-10-14 | 2022-02-24 |
 | [WYD](https://open.spotify.com/track/13ulmsrmNsMMuqX61yJIU5) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [WYD](https://open.spotify.com/album/50u9TSex0yCf6OEcysr9eN) | 2:55 | 2022-04-21 | 2022-07-29 |
 | [Yes I Do](https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Arabi](https://open.spotify.com/artist/6VrXIP3nJGtGwRL8jcdTyu) | [Made For Love](https://open.spotify.com/album/5QERzxJ3zro4qe4zQ3zbqp) | 3:23 | 2021-10-14 | 2022-07-25 |
-| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 |  |
+| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
+| [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 |  |
 | [You](https://open.spotify.com/track/3mPNiVNsCpGFjV4y7IaOrX) | [KvY](https://open.spotify.com/artist/5yPapEPmS3x9wWjZqWYf11) | [You](https://open.spotify.com/album/57xoei8INC8r7QomPGQND1) | 2:59 | 2021-10-14 | 2022-02-11 |
 | [Your Number](https://open.spotify.com/track/57QcTLuRqbeyd6l9MgPPNd) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Your Number](https://open.spotify.com/album/2NC9XHUUFTUrgOrcgi3qld) | 3:07 | 2021-10-14 | 2022-02-27 |
 

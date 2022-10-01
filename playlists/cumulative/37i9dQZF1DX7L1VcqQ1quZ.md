@@ -2,7 +2,7 @@
 
 ### [90s Ballads](https://open.spotify.com/playlist/37i9dQZF1DX7L1VcqQ1quZ)
 
-> All 90s, all ballads\. Cover: Shania Twain
+> All 90s, all ballads\. Cover: Sinéad O'Connor
 
 84 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/1S5MWUPnOvyz1w7RvDvP5N)
 

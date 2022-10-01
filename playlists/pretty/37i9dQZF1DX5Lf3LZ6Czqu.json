@@ -1,13 +1,33 @@
 {
   "description": "Instrumental guitar shreddery. Cover: TORA",
-  "num_followers": 100476,
+  "num_followers": 100606,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGI0NDU5N2VjYjZhMWNhMWNiZGE0NTE4NjM3ZDFhNjA1",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDdiZDc2MmNhZWVkOTI5NTFkNjBjZmU0YmMxMGE1MzIx",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Ego Death (feat. Steve Vai)",
+        "url": "https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 350085,
+      "name": "Ego Death (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r"
+    },
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {

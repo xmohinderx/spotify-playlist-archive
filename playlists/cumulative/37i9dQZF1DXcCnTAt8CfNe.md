@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-228 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+230 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Daydream](https://open.spotify.com/track/0RAubp6u1ePTYC6SgXoWcY) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Daydream](https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE) | 2:31 | 2021-12-09 |  |
 | [Deep Blue](https://open.spotify.com/track/2fwWL41PZuEciP57NfTE5g) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:54 | 2021-12-09 |  |
 | [Del Sankt](https://open.spotify.com/track/2ga17EkepbRILT5nX2sqz3) | [Omnium Tal](https://open.spotify.com/artist/5aWinRRUMWDwSjwUMCNZP9) | [Del Sankt](https://open.spotify.com/album/6xz6h575XzPzB3QG8LThaJ) | 3:06 | 2021-12-09 |  |
+| [Delicate Silence](https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Alternatives](https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk) | 2:46 | 2022-09-30 |  |
 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 | 2021-12-09 |  |
 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2021-12-09 |  |
 | [Distant](https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Traveling Windows](https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m) | 3:17 | 2021-12-09 | 2022-09-03 |
@@ -59,6 +60,7 @@
 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 | 2021-12-09 | 2022-03-22 |
 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 | 2021-12-09 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-12-09 |  |
+| [Eleni](https://open.spotify.com/track/62FsGEI77Ot7VXNcA2ReHz) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Eleni](https://open.spotify.com/album/52qI0dktuJ4W5s08Yilflu) | 2:21 | 2022-09-30 |  |
 | [Elusive](https://open.spotify.com/track/2qIW959qt0als3uu3gtjwB) | [Elysha Iman](https://open.spotify.com/artist/3YG9AoDdEIOygPtme6s1ZE) | [Elusive](https://open.spotify.com/album/0qxfxLXn8myAJLXKa6EmFS) | 2:15 | 2021-12-09 |  |
 | [Essential Sleep](https://open.spotify.com/track/7FkskPFn9biiXHFqFn4jFD) | [Alvaro Siesta](https://open.spotify.com/artist/2TqnggQ9LjdAR1GBHhUcZ1) | [Essential Sleep](https://open.spotify.com/album/7aoGBZ6Tb1YoUXZQNqOLhh) | 2:12 | 2022-06-16 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2021-12-09 |  |

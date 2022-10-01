@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 39424,
+  "num_followers": 39466,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMDIyZTRhMzIzODY5M2UzYWJkYjlkOWUyMjI5ZDM5ODhj",
+  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMGNkZDlkNTI0OWUxYWVkZWE0NzBkZjEwMTdhZjZmZTIz",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Negociar\u00e9 Con la Pena",
-        "url": "https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Ni Contigo, Ni Sin Ti",
-      "url": "https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Un Chingazo",
         "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 189090,
       "name": "Un Chingazo",
       "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Negociar\u00e9 Con la Pena",
+        "url": "https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -687,22 +687,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Positivo",
-        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+        "name": "La Vida (Deluxe)",
+        "url": "https://open.spotify.com/album/2mCF7tagY5QWepheBHM236"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         },
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 224440,
-      "name": "\u00bfQui\u00e9n Pierde M\u00e1s? - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/54uLPB8SDBgBWszrDiohBX"
+      "duration_ms": 184946,
+      "name": "Te Dejo Libre",
+      "url": "https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -723,22 +723,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "La Vida (Deluxe)",
-        "url": "https://open.spotify.com/album/2mCF7tagY5QWepheBHM236"
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         },
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 184946,
-      "name": "Te Dejo Libre",
-      "url": "https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx"
+      "duration_ms": 224440,
+      "name": "\u00bfQui\u00e9n Pierde M\u00e1s? - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/54uLPB8SDBgBWszrDiohBX"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Joyas Prestadas - Pop",
         "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 253133,
       "name": "Basta Ya - Pop",
       "url": "https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Positivo",
-        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Positivo - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "De M\u00e9xico",
         "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 241449,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/6eu4W9RlGEzGPjfVJlXWtT"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Cobarde - Spotify Singles",
+      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 191546,
-      "name": "Cobarde - Spotify Singles",
-      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
+      "duration_ms": 187440,
+      "name": "Positivo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "En Vivo CDMX",
-        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 629026,
-      "name": "Popurr\u00ed Acustico - En Vivo",
-      "url": "https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "No que no",
         "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
       },
@@ -1115,22 +1099,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Cuando Fuimos Nada",
-      "url": "https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Hasta Que Regreses",
         "url": "https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw"
       },
@@ -1155,18 +1123,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Tu Postura (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/740rycJJKT7XpcJIj5rNhS"
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 275160,
-      "name": "Tu Postura - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3z2Q58llEa6gx6mlhHSpgx"
+      "duration_ms": 185142,
+      "name": "Cuando Fuimos Nada",
+      "url": "https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1219,6 +1187,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 629026,
+      "name": "Popurr\u00ed Acustico - En Vivo",
+      "url": "https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Se Me Va A Quemar El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
       },
@@ -1251,22 +1235,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 213902,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Veinte A\u00f1os",
         "url": "https://open.spotify.com/album/7y10h42cMtYY8FWliI9tfC"
       },
@@ -1291,6 +1259,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Covers A Mi Estilo",
         "url": "https://open.spotify.com/album/5VCYfrOsF7WzUl0QIQCYBc"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 184666,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/3yJPDtrII0EVSQFdpSZIQR"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Tu Postura (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/740rycJJKT7XpcJIj5rNhS"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "Tu Postura - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3z2Q58llEa6gx6mlhHSpgx"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Somos Octubre Doce",
-        "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
-      },
-      "artists": [
-        {
-          "name": "Octubre Doce",
-          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
-        }
-      ],
-      "duration_ms": 247526,
-      "name": "Se Va Muriendo Mi Alma",
-      "url": "https://open.spotify.com/track/2lXeKjwaIYARsOmUXoVZIi"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Ida y Vuelta (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 303173,
       "name": "Un Hombre Normal",
       "url": "https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Somos Octubre Doce",
+        "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
+      },
+      "artists": [
+        {
+          "name": "Octubre Doce",
+          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
+        }
+      ],
+      "duration_ms": 247526,
+      "name": "Se Va Muriendo Mi Alma",
+      "url": "https://open.spotify.com/track/2lXeKjwaIYARsOmUXoVZIi"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Somos Octubre Doce",
-        "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
-      },
-      "artists": [
-        {
-          "name": "Octubre Doce",
-          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/1F9PPhjuq7UmxQxxMbUrIz"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Ida y Vuelta (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 212760,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/7kz0MP7yFGbDOalOVvcJrd"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Somos Octubre Doce",
+        "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
+      },
+      "artists": [
+        {
+          "name": "Octubre Doce",
+          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/1F9PPhjuq7UmxQxxMbUrIz"
     },
     {
       "added_at": "2022-08-03 16:09:42",

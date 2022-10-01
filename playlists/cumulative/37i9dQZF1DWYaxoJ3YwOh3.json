@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
+    },
+    {
+      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
       },
@@ -856,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Savasana Dream",
+        "url": "https://open.spotify.com/album/6McMuE7IKh65r5Gj8YciCS"
+      },
+      "artists": [
+        {
+          "name": "Wellness Portal",
+          "url": "https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Savasana Dream",
+      "url": "https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv"
+    },
+    {
+      "album": {
         "name": "The Azeri Project",
         "url": "https://open.spotify.com/album/3qWl7PaIKVOhc4COB6ExP6"
       },
@@ -1123,7 +1159,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 230000,
       "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e \u0446\u0438\u0433\u0443\u043d",
       "url": "https://open.spotify.com/track/6kujJnkMNAv8gaQGbTVCRz"

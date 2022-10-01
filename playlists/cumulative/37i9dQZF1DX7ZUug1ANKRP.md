@@ -4,11 +4,11 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: FORTELLA
 
-201 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
+202 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-04 |  |
+| [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-04 | 2022-10-01 |
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2022-06-29 | 2022-09-22 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-07-20 | 2022-08-11 |
 | [Alien](https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Alien](https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh) | 2:45 | 2021-12-15 | 2022-04-28 |
@@ -142,6 +142,7 @@
 | [One More Time](https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [One More Time](https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM) | 2:28 | 2022-07-20 |  |
 | [Over The Rainbow](https://open.spotify.com/track/3L27NKlSRbwbubyrOpNz57) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Over The Rainbow](https://open.spotify.com/album/4DxdTQ0zTKcNTHoikKLvqk) | 2:55 | 2022-07-13 | 2022-08-25 |
 | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/track/2WCInR4Z5mlpuk6qbYooQE) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/album/2LVHnGD0b6KrJvyGmOuG8Q) | 2:53 | 2021-12-15 | 2022-01-06 |
+| [Party PPL](https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Party PPL](https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5) | 2:28 | 2022-09-30 |  |
 | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Kayla Rose](https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk) | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7) | 3:40 | 2021-12-15 | 2022-03-24 |
 | [Pepas \- Robin Schulz Remix](https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pepas \(Robin Schulz Remix\)](https://open.spotify.com/album/5EWuidCGbZUq4ChxSZhXAw) | 4:40 | 2021-12-15 | 2022-03-31 |
 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 | 2022-01-12 | 2022-02-17 |

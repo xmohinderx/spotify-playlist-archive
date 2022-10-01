@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-436 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/1oznrLnQS5DZxxfUr57NET)
+437 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/1oznrLnQS5DZxxfUr57NET)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Callaita](https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:10 | 2022-05-07 | 2022-07-10 |
 | [CAMPEÓN](https://open.spotify.com/track/7IatvjEcXEeeXnHC2gMZ2j) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:14 | 2022-03-26 | 2022-03-28 |
 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 | 2021-04-19 | 2021-04-20 |
-| [Candela](https://open.spotify.com/track/0oDUxuieaQHOryhpTYVN0a) | [Wanton chulito](https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Colapso](https://open.spotify.com/album/1A8pFYoAULq2VxTo6PmkeX) | 3:03 | 2022-08-22 |  |
+| [Candela](https://open.spotify.com/track/0oDUxuieaQHOryhpTYVN0a) | [Wanton chulito](https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Colapso](https://open.spotify.com/album/1A8pFYoAULq2VxTo6PmkeX) | 3:03 | 2022-08-22 | 2022-10-01 |
 | [Cantares de Navidad](https://open.spotify.com/track/0Vx3Tpg4zOYS8yOMNDDXHx) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Una Leyenda: Rodolfo Aicardi \(Exitos\)](https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn) | 2:56 | 2021-12-10 | 2021-12-27 |
 | [Carinito](https://open.spotify.com/track/0bjxkAYIxs0V1ahOthIoX7) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/3dnu3CBOjTrPaywVmogHjT) | 3:46 | 2021-12-10 | 2022-01-04 |
 | [Castigo](https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:57 | 2022-09-15 |  |
@@ -350,6 +350,7 @@
 | [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 | 2021-03-27\* | 2021-08-04 |
 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 | 2022-03-26 | 2022-03-28 |
 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 | 2022-03-05 | 2022-03-22 |
+| [Rip Pusho \(Por Pillo\)](https://open.spotify.com/track/2uItXJYsugAp72oX7rIOzx) | [Juny Montana](https://open.spotify.com/artist/4lwoHJna6OGeV4BQVYMFxP) | [Rip Pusho \(Por Pillo\)](https://open.spotify.com/album/1glIQIaBqot8i4xbZVOExL) | 7:20 | 2022-09-30 |  |
 | [Ropa Cara](https://open.spotify.com/track/2zY1iTaEgs8ROkkWtWLe7l) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:42 | 2021-03-27\* | 2021-03-27 |
 | [RUDEBOYZ](https://open.spotify.com/track/19bRjBsNb33qkJkyYNZT16) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:06 | 2021-12-18 | 2021-12-20 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-04-03 |

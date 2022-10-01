@@ -1790,6 +1790,24 @@
     },
     {
       "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/278aTIaFGFBK5GbNtgzAlR"
+      },
+      "artists": [
+        {
+          "name": "Emma-Lo Larsson",
+          "url": "https://open.spotify.com/artist/5DoFMnoAqaEr0JNHLVfrWa"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215574,
+      "name": "Sleep Quiz",
+      "url": "https://open.spotify.com/track/4EzwRp1nDzCe7LeQI3cNmu"
+    },
+    {
+      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },
@@ -2645,6 +2663,28 @@
       "duration_ms": 148151,
       "name": "Way Home",
       "url": "https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o"
+    },
+    {
+      "album": {
+        "name": "We Contain Multitudes \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264052,
+      "name": "We Contain Multitudes \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
     },
     {
       "album": {

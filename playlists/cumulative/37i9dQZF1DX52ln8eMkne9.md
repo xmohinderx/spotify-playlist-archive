@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-226 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
+227 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [But Not For Me](https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:15 | 2021-12-17 | 2022-09-17 |
 | [Castles in the Air](https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [Castles in the Air](https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S) | 3:53 | 2021-12-17 |  |
 | [Close to You](https://open.spotify.com/track/5XSz5Jeo2aaNMEMIJnzSnC) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Jacky Terrasson Trio](https://open.spotify.com/artist/0nVpQijJUO5HRxBJ95eRgw) | [Close to You \(with Jacky Terrasson Trio\)](https://open.spotify.com/album/55F0v4gDfpFdyLqhvFQcvY) | 4:03 | 2021-12-17 |  |
-| [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB) | 4:43 | 2021-12-17 |  |
+| [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB) | 4:43 | 2021-12-17 | 2022-10-01 |
 | [Cloudy Treasures](https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Cloudy Treasures](https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm) | 3:58 | 2022-08-30 | 2022-09-15 |
 | [Coming Back To You](https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Coming Back To You](https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31) | 3:40 | 2022-08-11 |  |
 | [Confession / The Other Woman](https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 6:43 | 2022-02-18 |  |
@@ -135,6 +135,7 @@
 | [May I Come In](https://open.spotify.com/track/51NfTuAXFJrNzIfaGsR5hD) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [May I Come In](https://open.spotify.com/album/6y82IM329PZUfWZ0HiFiup) | 5:10 | 2021-12-17 | 2022-07-29 |
 | [Maybe I'm Amazed](https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope) | [4 Wheel Drive](https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2) | 3:46 | 2021-12-17 |  |
 | [Misty](https://open.spotify.com/track/5qauSfvYgvZK1rRb0jKmo9) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [The Best Of Dianne Reeves](https://open.spotify.com/album/7CSRH0IYxm0dZNpfwkNKGz) | 5:56 | 2021-12-17 |  |
+| [Misty](https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:54 | 2022-09-27 |  |
 | [Misty \- Remastered](https://open.spotify.com/track/3IWapc5QZq6tidZIZZhxMT) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Great Ladies Of Song / Spotlight On Dakota Staton](https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl) | 2:35 | 2021-12-17 |  |
 | [Moon River \- Live](https://open.spotify.com/track/6SP8PT3BiZnnkv4zrxvD13) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 2: Live at the Village Vanguard](https://open.spotify.com/album/3gAmnTrafv3RJ8UcIvTKfe) | 10:51 | 2021-12-17 |  |
 | [Moon Song](https://open.spotify.com/track/6iaE1tdPPx5KILayeCMOBl) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:04 | 2022-03-03 |  |

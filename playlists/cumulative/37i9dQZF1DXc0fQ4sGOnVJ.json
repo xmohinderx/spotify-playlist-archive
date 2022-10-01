@@ -26,6 +26,32 @@
     },
     {
       "album": {
+        "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM"
+      },
+      "artists": [
+        {
+          "name": "Avila Brothers",
+          "url": "https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167919,
+      "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza"
+    },
+    {
+      "album": {
         "name": "AutoPilot",
         "url": "https://open.spotify.com/album/5PlAnlR9c9kuwFRAde1cwp"
       },
@@ -1001,6 +1027,28 @@
       "duration_ms": 172842,
       "name": "I'm Still Me",
       "url": "https://open.spotify.com/track/35T4rqTGxHPv5fDfOLsjrx"
+    },
+    {
+      "album": {
+        "name": "If She Ain't Country (Remix)",
+        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
+      },
+      "artists": [
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176989,
+      "name": "If She Ain't Country - Remix",
+      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
     },
     {
       "album": {

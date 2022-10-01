@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE?si=K80DPqPTTe\-OVydeyfGsQA">Wanja Wohoro</a>
 
-97 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+99 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 |  |
 | [Ignited](https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Rafiki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r) | 5:45 | 2021-12-28 |  |
 | [Imia Mor](https://open.spotify.com/track/4kjfnAGaYvr2afZxGB2yyE) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Blk2541](https://open.spotify.com/album/77yeDBzL9v308FeLoyypPd) | 3:54 | 2021-12-28 | 2022-04-01 |
-| [in the name of love](https://open.spotify.com/track/2Z8PgUAoQxxdW6NshdJv1Q) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [in the name of love](https://open.spotify.com/album/60IOLifUMf2mvPn2WSwC61) | 2:49 | 2022-04-22 |  |
+| [in the name of love](https://open.spotify.com/track/2Z8PgUAoQxxdW6NshdJv1Q) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [in the name of love](https://open.spotify.com/album/60IOLifUMf2mvPn2WSwC61) | 2:49 | 2022-04-22 | 2022-10-01 |
 | [Infatuated](https://open.spotify.com/track/6gYNntWr2EDsgTxzl9p6cE) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Jungle Trap](https://open.spotify.com/album/6rdSXm21K45CLRkxFdLQZu) | 3:35 | 2021-12-28 | 2022-02-25 |
 | [Insecure](https://open.spotify.com/track/6dDDPV8S5meV46SamOnDNl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:10 | 2021-12-28 | 2022-07-30 |
 | [Isabella](https://open.spotify.com/track/6eHfU5ED5uKQEc7EPd0nDY) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die In Afrika](https://open.spotify.com/album/4H5UZrxvT1OdPMDynLjFNL) | 3:32 | 2021-12-28 | 2022-09-23 |
@@ -81,7 +81,7 @@
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 |  |
 | [Pictures](https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 3:59 | 2021-12-28 |  |
 | [Problems](https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Problems](https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs) | 4:09 | 2021-12-28 |  |
-| [Pulling Out](https://open.spotify.com/track/2Xqi7yZeFfcSIVwU1c5slN) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Pulling Out](https://open.spotify.com/album/50rwp4OLO5TL7QcRQ23Rji) | 3:12 | 2021-12-28 |  |
+| [Pulling Out](https://open.spotify.com/track/2Xqi7yZeFfcSIVwU1c5slN) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Pulling Out](https://open.spotify.com/album/50rwp4OLO5TL7QcRQ23Rji) | 3:12 | 2021-12-28 | 2022-10-01 |
 | [Rosella](https://open.spotify.com/track/0X5xHB8t99D6jv5ES4BUqH) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1), [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Rosella](https://open.spotify.com/album/328oKDyLr5OBnbdA97KLeb) | 5:04 | 2021-12-28 | 2022-03-04 |
 | [Saviour](https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Saviour](https://open.spotify.com/album/1g4JkRkSgMy2DwaO2Kb7aJ) | 2:25 | 2022-05-19 |  |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2021-12-28 | 2022-07-30 |
@@ -90,6 +90,7 @@
 | [Slow Down](https://open.spotify.com/track/0hrXbMtT7Wb8vlRLpRxBZ8) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Slow Down](https://open.spotify.com/album/4juUxcfkxdA6ry2dKBRMYz) | 3:17 | 2021-12-28 | 2022-06-11 |
 | [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 | 2022-02-17 |  |
 | [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 |  |
+| [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 |  |
 | [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 |  |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 |  |
 | [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 |  |
@@ -104,6 +105,7 @@
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 |  |
 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 | 2021-12-28 |  |
 | [Wild Trip](https://open.spotify.com/track/5LH9sGAsEtE2ysKdKG7ZRh) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx), [MacKinlay](https://open.spotify.com/artist/3TpmxDMVmH67u6PfT0Wz7f) | [Wild Trip](https://open.spotify.com/album/3evi4QPow2u205Fx8MyW0I) | 4:18 | 2021-12-28 | 2022-06-24 |
+| [Window \(Red\)](https://open.spotify.com/track/53UTnaVi48tv6mv0DoLm4A) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 3:12 | 2022-09-30 |  |
 | [Your Name](https://open.spotify.com/track/2nyrEsGC9YRHIug4Sy2YNG) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [The Love Sessions EP](https://open.spotify.com/album/2Xg6m00evfyyHtYc7hCzPa) | 4:47 | 2021-12-28 |  |
 
 \*This playlist was first scraped on 2022-02-24. Prior content cannot be recovered.

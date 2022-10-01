@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Aleesha",
-  "num_followers": 65404,
+  "num_followers": 65496,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1NjYyMywwMDAwMDAwMDlhMWViZWM5YTVmNDI1MzY0ZTQ1MGIyMjk4MTNmNmE0",
+  "snapshot_id": "MTY2Mzk1NjYyMywwMDAwMDAwMDgwMDE1MTQ4MTFjZjMyODU2ZjY5YWZjN2VkYThlZTM0",
   "tracks": [
     {
       "added_at": "2022-09-23 18:10:23",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
+        "name": "Rebota",
+        "url": "https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 204630,
+      "name": "Rebota",
+      "url": "https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
         "name": "Carbon Fiber Hits",
         "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 224018,
       "name": "Subete",
       "url": "https://open.spotify.com/track/4OOlKNTQISagv0nsofvySZ"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "Rebota",
-        "url": "https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 204630,
-      "name": "Rebota",
-      "url": "https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Los Bobo Son Mio",
-        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
-      },
-      "artists": [
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        }
-      ],
-      "duration_ms": 131870,
-      "name": "Los Bobo Son Mio",
-      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
         "name": "Tu Lokotron Remix",
         "url": "https://open.spotify.com/album/0Ux38IUGtLmSvNiPRrik70"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 418728,
       "name": "Tu Lokotron Remix",
       "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Los Bobo Son Mio",
+        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
+      },
+      "artists": [
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "duration_ms": 131870,
+      "name": "Los Bobo Son Mio",
+      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Limonada Coco (Remix)",
-        "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
-      },
-      "artists": [
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        }
-      ],
-      "duration_ms": 216816,
-      "name": "Limonada Coco - Remix",
-      "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
         "name": "Dembow Hits",
         "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 223026,
       "name": "Que Se Mueran de Envidia - Remix",
       "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Limonada Coco (Remix)",
+        "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 216816,
+      "name": "Limonada Coco - Remix",
+      "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1171,6 +1171,46 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
+        "name": "Sin \"S\"",
+        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanquito",
+          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Telacuti",
+      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Bum Bam Ven (Remix)",
+        "url": "https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        },
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Bum Bam Ven - Remix",
+      "url": "https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
         "name": "Lava Urbana 2018",
         "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
       },
@@ -1183,6 +1223,22 @@
       "duration_ms": 170000,
       "name": "Rapidito",
       "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Los Lunatikos-Siente el ki",
+        "url": "https://open.spotify.com/album/2dtjta6EGCagLB2LdYvCk4"
+      },
+      "artists": [
+        {
+          "name": "leo martinez 12djs",
+          "url": "https://open.spotify.com/artist/7McJxAkJsTupNa9hVhZZD7"
+        }
+      ],
+      "duration_ms": 204199,
+      "name": "Los Lunatikos-Siente el ki",
+      "url": "https://open.spotify.com/track/4lyPtzBofgqxUzAfYMIl6B"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1247,62 +1303,6 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Sin \"S\"",
-        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanquito",
-          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Telacuti",
-      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "Bum Bam Ven (Remix)",
-        "url": "https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9"
-      },
-      "artists": [
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        },
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Bum Bam Ven - Remix",
-      "url": "https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "Los Lunatikos-Siente el ki",
-        "url": "https://open.spotify.com/album/2dtjta6EGCagLB2LdYvCk4"
-      },
-      "artists": [
-        {
-          "name": "leo martinez 12djs",
-          "url": "https://open.spotify.com/artist/7McJxAkJsTupNa9hVhZZD7"
-        }
-      ],
-      "duration_ms": 204199,
-      "name": "Los Lunatikos-Siente el ki",
-      "url": "https://open.spotify.com/track/4lyPtzBofgqxUzAfYMIl6B"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
         "name": "Ponme to Eso Pa Lante",
         "url": "https://open.spotify.com/album/30DAg92KlUWk4k8chGRWNJ"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        }
-      ],
-      "duration_ms": 215301,
-      "name": "La Chapa Que Vibran",
-      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
         "name": "Klok Con Klok",
         "url": "https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6"
       },
@@ -1347,30 +1331,6 @@
       "duration_ms": 163800,
       "name": "Klok Con Klok",
       "url": "https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "melacomo",
-        "url": "https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        },
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "melacomo",
-      "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1399,6 +1359,30 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
+        "name": "melacomo",
+        "url": "https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "melacomo",
+      "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
         "name": "El Que No Salta Es Paco (Remix)",
         "url": "https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 248209,
       "name": "El Que No Salta Es Paco - Remix",
       "url": "https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        }
+      ],
+      "duration_ms": 215301,
+      "name": "La Chapa Que Vibran",
+      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
     },
     {
       "added_at": "2022-09-23 18:10:23",

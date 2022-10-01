@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "M\u00fasica Mexicana hits of today! The playlist sin fronteras. Cover: LEGADO 7, Jos\u00e9 Mejia & Nivel Codiciado",
+  "description": "M\u00fasica Mexicana hits of today! The playlist sin fronteras. Cover: Grupo Firme.",
   "name": "Los Que Mandan",
   "published_playlist_ids": [
     "0V871kSfrlE3mK4NJAUl7m"
@@ -2474,6 +2474,28 @@
     },
     {
       "album": {
+        "name": "M\u00eda Un A\u00f1o",
+        "url": "https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "M\u00eda Un A\u00f1o",
+      "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
+    },
+    {
+      "album": {
         "name": "M\u00edranos Ahora",
         "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
       },
@@ -3525,7 +3547,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 222669,
       "name": "Soy El Rat\u00f3n",
       "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"

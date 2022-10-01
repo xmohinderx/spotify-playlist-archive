@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 173934,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/6I2gceToKVNSteaBQZeM41"
@@ -1302,6 +1302,32 @@
     },
     {
       "album": {
+        "name": "Mismatched: Season 2 (Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bJRbj971pXenefii5i3mY"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Maskey",
+          "url": "https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph"
+        },
+        {
+          "name": "Cosmic Grooves",
+          "url": "https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn"
+        },
+        {
+          "name": "Mismatched",
+          "url": "https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172721,
+      "name": "Love Is Love",
+      "url": "https://open.spotify.com/track/4QOhdspHbF735AWRRGJ7Zn"
+    },
+    {
+      "album": {
         "name": "Lt Dwn",
         "url": "https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm"
       },
@@ -1491,6 +1517,24 @@
       "duration_ms": 263210,
       "name": "Ocean Calls My Name",
       "url": "https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8"
+    },
+    {
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/62Sk2TEDaiPB7B45FIQCmw"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225258,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/48IEgZ2qIuMXY8XTpGvlEK"
     },
     {
       "album": {
@@ -2065,6 +2109,24 @@
       "duration_ms": 226800,
       "name": "The End",
       "url": "https://open.spotify.com/track/0IkVhFaDqI39XlTRl5VPoK"
+    },
+    {
+      "album": {
+        "name": "The Hills Know Of You",
+        "url": "https://open.spotify.com/album/7bmnGlu7dJtSgACtv2cZNA"
+      },
+      "artists": [
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "The Hills Know Of You",
+      "url": "https://open.spotify.com/track/0iDuVPiWspI7lcWRrFJ9LC"
     },
     {
       "album": {

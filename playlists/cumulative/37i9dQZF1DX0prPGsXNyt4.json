@@ -281,6 +281,10 @@
         {
           "name": "Pedro Lotto",
           "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
         }
       ],
       "date_added": "2022-05-13",
@@ -1407,6 +1411,32 @@
     {
       "album": {
         "name": "Zod\u00edaco",
+        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Sagit\u00e1rio",
+      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
+    },
+    {
+      "album": {
+        "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/6U7WUtuQ4YvVruh9bl6aaG"
       },
       "artists": [
@@ -1425,28 +1455,6 @@
       "duration_ms": 172000,
       "name": "Sagit\u00e1rio",
       "url": "https://open.spotify.com/track/0N0JNYiFx3xTyIWmnIVuV7"
-    },
-    {
-      "album": {
-        "name": "Zod\u00edaco",
-        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "date_added": "2022-07-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172000,
-      "name": "Sagit\u00e1rio",
-      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
     },
     {
       "album": {

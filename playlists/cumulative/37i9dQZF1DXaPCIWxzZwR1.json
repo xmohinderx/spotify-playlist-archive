@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/1YcrrT5zuAkzJx0ztbwdsV"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186810,
+      "name": "001",
+      "url": "https://open.spotify.com/track/4E9FiSTNbDe7bPjwuKvhxc"
+    },
+    {
+      "album": {
         "name": "10 Things I Hate About You",
         "url": "https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185172,
       "name": "21",
       "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
@@ -2540,6 +2558,24 @@
     },
     {
       "album": {
+        "name": "debbie downer",
+        "url": "https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184543,
+      "name": "boohoo",
+      "url": "https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV"
+    },
+    {
+      "album": {
         "name": "Booty Call",
         "url": "https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB"
       },
@@ -2785,7 +2821,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 153600,
       "name": "Breakup Sex",
       "url": "https://open.spotify.com/track/5qy7Tp0aeBNEuAbV3mo3Xq"
@@ -3041,7 +3077,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 146564,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/3kEegRRwwQnQ7sik2oRoaJ"
@@ -4049,7 +4085,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 137500,
       "name": "Could've Just Left Me Alone",
       "url": "https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW"
@@ -5003,6 +5039,24 @@
       "duration_ms": 132120,
       "name": "Don't Talk",
       "url": "https://open.spotify.com/track/3mXjVkMtEqWZ2iMHYtincz"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Tell My Mom",
+        "url": "https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188544,
+      "name": "Don't Tell My Mom",
+      "url": "https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0"
     },
     {
       "album": {
@@ -8040,6 +8094,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140443,
+      "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz"
+    },
+    {
+      "album": {
         "name": "heartbreak honeymoon",
         "url": "https://open.spotify.com/album/0BBy35QpH4SqoAbwxLZypl"
       },
@@ -8199,7 +8271,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 219036,
       "name": "High School in Jakarta",
       "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
@@ -9581,7 +9653,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 227749,
       "name": "In The Kitchen",
       "url": "https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV"
@@ -11955,7 +12027,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180120,
       "name": "Mentally Cheating",
       "url": "https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p"
@@ -12273,6 +12345,24 @@
       "duration_ms": 132199,
       "name": "Monica Lewinsky",
       "url": "https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/0ZNVOeu0n0XPdSkqRCfk6w"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160385,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz"
     },
     {
       "album": {
@@ -12969,7 +13059,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 172514,
       "name": "NIGHTS LIKE THESE",
       "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
@@ -16036,6 +16126,28 @@
     },
     {
       "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+    },
+    {
+      "album": {
         "name": "sims",
         "url": "https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y"
       },
@@ -17256,6 +17368,24 @@
     },
     {
       "album": {
+        "name": "stupid i miss u",
+        "url": "https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "stupid i miss u",
+      "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
+    },
+    {
+      "album": {
         "name": "Suburbia",
         "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
       },
@@ -18157,7 +18287,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 216448,
       "name": "The 30th",
       "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
@@ -19318,6 +19448,24 @@
     },
     {
       "album": {
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
+    },
+    {
+      "album": {
         "name": "UH OH! (feat. BENEE)",
         "url": "https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN"
       },
@@ -19369,7 +19517,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 171946,
       "name": "Understand",
       "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
@@ -20565,7 +20713,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 164723,
       "name": "Wonderland (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"

@@ -2,7 +2,7 @@
 
 ### [skad'aká](https://open.spotify.com/playlist/37i9dQZF1DXdNw9eeM3mpo)
 
-> 100 % ska latinoamericano\. La Maldita Vecindad en portada.
+> 100 % ska latinoamericano\. Los Fabulosos Cadillacs en portada.
 
 258 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/7sowbFUvoZr7b5eIa5Z44L)
 
@@ -35,7 +35,7 @@
 | [Bicolor](https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI) | [EXILIOS](https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE) | [Sueños de Carpa](https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x) | 4:07 | 2021-12-21 |  |
 | [Brindo Por Ti](https://open.spotify.com/track/6XeuHuEhijEhvt2KXsJGvZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:08 | 2021-12-21 | 2022-07-29 |
 | [Calaveras y Diablitos](https://open.spotify.com/track/7mPx5N0Yg9s5U0Cd13WA8q) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:20 | 2021-12-21 | 2022-03-17 |
-| [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 | 2021-12-21 | 2022-07-29 |
+| [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 | 2021-12-21 |  |
 | [Cannabis](https://open.spotify.com/track/3pKEYZcL428BwPWiP2udxz) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:25 | 2021-12-21 |  |
 | [Cannabis](https://open.spotify.com/track/0DjSa6czo5ywsf6iCtZW5A) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf) | 4:25 | 2021-12-21 | 2022-07-18 |
 | [Canto a la Rebelión](https://open.spotify.com/track/3Omx1tugYI03ULA1zcLCj6) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [99%](https://open.spotify.com/album/4XqbCTI7eyQUZ4pnya9hOo) | 4:38 | 2021-12-21 |  |
@@ -62,7 +62,7 @@
 | [Dejando Libre el Amor](https://open.spotify.com/track/4IvYW5NRB5U8FE1nHTQkGn) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:22 | 2021-12-21 |  |
 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 | 2021-12-21 |  |
 | [Demasiada Presión](https://open.spotify.com/track/4TeNu0jKZZ8GsMIgGfKGuY) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Vasos Vacios](https://open.spotify.com/album/7fOv9NQRH5UWZq0EfUk1YE) | 4:08 | 2021-12-21 | 2022-07-29 |
-| [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 | 2021-12-21 |  |
+| [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 | 2021-12-21 | 2022-10-01 |
 | [Demencia](https://open.spotify.com/track/3hms0jV0Us7m2IReVFoZjt) | [Los Skaterrestres](https://open.spotify.com/artist/4t2NDEU8KTAPTR5hjv2dbs) | [Ska Wars Monterrey](https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x) | 2:38 | 2021-12-21 | 2022-03-05 |
 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 | 2021-12-21 |  |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-12-21 | 2022-03-16 |

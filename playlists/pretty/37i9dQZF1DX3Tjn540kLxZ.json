@@ -1,12 +1,12 @@
 {
   "description": "bops you can always rely on \u25e1\u0308\n",
-  "num_followers": 150486,
+  "num_followers": 150606,
   "original_name": "free refills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ1MjUzMiwwMDAwMDAwMDcxZjI2NDYwMGM2OWI5Nzc3NTYzNTQ3NzA2M2Y1Yzhm",
+  "snapshot_id": "MTY2MTQ1MjUzMiwwMDAwMDAwMDczYzAxYWQ3OWViYjhkMDE1NTg1YjAxMTY0M2I1N2E4",
   "tracks": [
     {
       "added_at": "2022-07-04 13:34:14",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 298899,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
-    },
-    {
       "added_at": "2022-08-25 18:35:32",
       "album": {
         "name": "Chit Chat",
@@ -71,6 +55,22 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -851,6 +851,26 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
+        "name": "Rogue Waves",
+        "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "waves - Tame Impala Remix",
+      "url": "https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
         "name": "Meet Me At Our Spot (Live)",
         "url": "https://open.spotify.com/album/7x5oZf6cKUstjslCxLsKkT"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 147828,
       "name": "Meet Me At Our Spot - Live",
       "url": "https://open.spotify.com/track/3BrWLBC4WYx393yRUOlTih"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
-        "name": "Rogue Waves",
-        "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "waves - Tame Impala Remix",
-      "url": "https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 357357,
       "name": "Movie",
       "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "touch tank",
         "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "Modus Vivendi",
-        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
       "artists": [
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Guilty Conscience",
-      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
+      "duration_ms": 225862,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1171,6 +1155,22 @@
       "duration_ms": 212853,
       "name": "Rose-Colored Boy",
       "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
+        "name": "soft spot",
+        "url": "https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 219529,
+      "name": "soft spot",
+      "url": "https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
         "name": "You Say I'm in Love",
         "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
@@ -1315,26 +1339,6 @@
       "duration_ms": 176760,
       "name": "You Say I'm in Love",
       "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
-        "name": "soft spot",
-        "url": "https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 219529,
-      "name": "soft spot",
-      "url": "https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1503,22 +1507,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Something Good Can Work",
-      "url": "https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "Kenny",
         "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
       },
@@ -1531,6 +1519,22 @@
       "duration_ms": 194133,
       "name": "Kenny",
       "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Something Good Can Work",
+      "url": "https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa"
     },
     {
       "added_at": "2022-07-04 13:34:14",
@@ -1583,22 +1587,6 @@
     {
       "added_at": "2022-07-04 13:34:14",
       "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2022-07-04 13:34:14",
-      "album": {
         "name": "Marlboro Nights 2",
         "url": "https://open.spotify.com/album/5X1U12yQ1wgaf0PUuSMUJd"
       },
@@ -1615,6 +1603,22 @@
       "duration_ms": 149068,
       "name": "Marlboro Nights 2",
       "url": "https://open.spotify.com/track/5YSoAMG654oXW5Cz4VkFvL"
+    },
+    {
+      "added_at": "2022-07-04 13:34:14",
+      "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "added_at": "2022-07-04 13:34:14",

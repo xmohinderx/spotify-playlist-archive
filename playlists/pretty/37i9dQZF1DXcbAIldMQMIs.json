@@ -1,12 +1,12 @@
 {
   "description": "indie pop when ur crushing so hard it hurts",
-  "num_followers": 424846,
+  "num_followers": 425336,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGYwNGRiZDMyNGMyNjA4ZTc0ZjU1ZWVkMmU0ZDQwODI4",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDExYzhhYjhmMWE3MGUzMjQ5NTkzYzI2Y2NjNTQxNmMw",
   "tracks": [
     {
       "added_at": "2022-06-30 20:25:33",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG"
     },
     {
-      "added_at": "2022-06-30 20:25:33",
-      "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 256688,
-      "name": "Be My Mistake",
-      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Teenage Dream",
@@ -507,6 +491,22 @@
       "duration_ms": 177857,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
+      "added_at": "2022-06-30 20:25:33",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 256688,
+      "name": "Be My Mistake",
+      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
     },
     {
       "added_at": "2022-06-30 20:25:33",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-06-30 20:25:33",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 98544,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO"
-    },
-    {
-      "added_at": "2022-06-30 20:25:33",
-      "album": {
         "name": "Do You Love Me, or Are You Just Lonely?",
         "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 316556,
       "name": "A Soulmate Who Wasn\u2019t Meant to Be",
       "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
+    },
+    {
+      "added_at": "2022-06-30 20:25:33",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 98544,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO"
     },
     {
       "added_at": "2022-06-30 20:25:33",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-06-30 20:25:33",
       "album": {
-        "name": "First Date",
-        "url": "https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH"
-      },
-      "artists": [
-        {
-          "name": "frad",
-          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
-        }
-      ],
-      "duration_ms": 173143,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/733hyyG8U8kxxebds98nc6"
-    },
-    {
-      "added_at": "2022-06-30 20:25:33",
-      "album": {
         "name": "Was It Something I Said",
         "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 220588,
       "name": "Was It Something I Said",
       "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
+    },
+    {
+      "added_at": "2022-06-30 20:25:33",
+      "album": {
+        "name": "First Date",
+        "url": "https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH"
+      },
+      "artists": [
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        }
+      ],
+      "duration_ms": 173143,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/733hyyG8U8kxxebds98nc6"
     },
     {
       "added_at": "2022-06-30 20:25:33",

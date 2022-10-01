@@ -3289,7 +3289,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 186462,
       "name": "GOLDEN",
       "url": "https://open.spotify.com/track/189aZynRlL0tMI7pNwAmx5"
@@ -4829,6 +4829,24 @@
       "duration_ms": 185681,
       "name": "just a boy",
       "url": "https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar"
+    },
+    {
+      "album": {
+        "name": "Just for the Day",
+        "url": "https://open.spotify.com/album/3DTiE4gQOSaKuMTVvc5amh"
+      },
+      "artists": [
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Just for the Day",
+      "url": "https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd"
     },
     {
       "album": {

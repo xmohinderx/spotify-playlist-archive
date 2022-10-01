@@ -4,7 +4,7 @@
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.
 
-90 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4xIGgN9sUn8w5WjNECj4E7)
+91 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/4xIGgN9sUn8w5WjNECj4E7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Who I Am](https://open.spotify.com/track/3dlM0Jy0cLRzAOeBxMt7Mw) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Waiting](https://open.spotify.com/album/0n6zxAXMLA2dDZx4bLs6IG) | 4:35 | 2021-12-23 |  |
 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 | 2021-12-23 |  |
 | [Wild as You](https://open.spotify.com/track/4IZOdhEvXYWqh5XAXYzBk3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:06 | 2021-12-23 |  |
+| [Willy The Wandering Gypsy And Me](https://open.spotify.com/track/4lJJrRisImnmJSEiL2C4z0) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Willy The Wandering Gypsy And Me](https://open.spotify.com/album/2tvuMHKGqdenkE2IhOZjYg) | 3:52 | 2022-09-30 |  |
 | [Wish It Was You](https://open.spotify.com/track/67QeP29uBpp9FRM6OqrCIT) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Wish It Was You](https://open.spotify.com/album/2W6gl0v91b8jbLKwcQYiRw) | 4:06 | 2021-12-23 |  |
 | [Wish You Were Here](https://open.spotify.com/track/3Os22J3L2km0aRaR0JpEYG) | [Brandon Jenkins](https://open.spotify.com/artist/2ml98zfrlLRJYkUimCP9gC) | [Undone: A Musicfest Tribute to Robert Earl Keen](https://open.spotify.com/album/5K3zDZeAo4tTGKqEmRyJN2) | 4:06 | 2021-12-23 |  |
 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2021-12-23 |  |

@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Vikram
 
-88 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/6OAKXR3lL6SjbrqJyJl0zB)
+89 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/6OAKXR3lL6SjbrqJyJl0zB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh) | 1:10 | 2021-11-01 |  |
 | [Mankatha Theme Music](https://open.spotify.com/track/1A1YlVucS5hugYaeWXfCA8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Mankatha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SV5Wjj3CH23kMOg4VrO33) | 3:04 | 2021-11-01 |  |
 | [Manmadhan Theme Music](https://open.spotify.com/track/5Q0ffIynfGqumKoJuqjlEC) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\) \- Bonus Tracks](https://open.spotify.com/album/6k25DINuCoGsG1rayjLqSt) | 1:23 | 2021-11-01 | 2022-07-29 |
-| [Manmadhan Theme Music](https://open.spotify.com/track/3v3a6pzDuXm1FBvbEf0XgL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 1:23 | 2021-11-01 |  |
+| [Manmadhan Theme Music](https://open.spotify.com/track/3v3a6pzDuXm1FBvbEf0XgL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 1:23 | 2021-11-01 | 2022-10-01 |
 | [Marriage At 2AM \- Background Score](https://open.spotify.com/track/4XlAwjHZUbQrgUJcfrCuMQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:27 | 2022-07-08 |  |
 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 | 2021-11-01 |  |
 | [Moaning Theme \- Background Score](https://open.spotify.com/track/3Qm35fbJSuclok2fQB2rzZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:24 | 2022-07-08 |  |
@@ -85,6 +85,7 @@
 | [The Vikram Squad \- Background Score](https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:34 | 2022-07-08 |  |
 | [Theme Music 1](https://open.spotify.com/track/5U9EsOlN3BOGKSDTlOKNkA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kadhal Kondaen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FEBJg0kJl4axCBYzktGI) | 1:06 | 2021-11-01 |  |
 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 | 2021-11-01 |  |
+| [Tiger \(Theme Song\) \- From "Trigger"](https://open.spotify.com/track/2ToXOcfS1YgHc3h9YAogP5) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Bmac Mastamind](https://open.spotify.com/artist/4utuxKXdRpXcvh3x69qFtV), [Vamanaa](https://open.spotify.com/artist/2mZvMF5SPXj4OfCYfq7RQE) | [Tiger \(Theme Song\) \[From "Trigger"\]](https://open.spotify.com/album/6UG80I3RLMBODuvwVc05uL) | 2:32 | 2022-09-30 |  |
 | [Uttama Villain Theme \- Instrumental Version](https://open.spotify.com/track/5O1Ra1nvyoqY3SwpOmJVqv) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Uttama Villain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WIDaqmsGvA9cJQwFUy33p) | 1:19 | 2021-11-01 |  |
 | [Vaathi Kabbadi \- Background Score](https://open.spotify.com/track/4U8wO7PDX3fz9L3Ne1U0eg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 3:26 | 2021-11-01 |  |
 | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/album/2jz0ydxBSQm359To6I4XE4) | 1:27 | 2021-11-01 |  |

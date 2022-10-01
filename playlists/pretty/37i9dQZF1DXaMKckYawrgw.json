@@ -1,12 +1,12 @@
 {
   "description": "Ska con cuadritos blancos, negros, y tricolores. La Tremenda Korte en portada.",
-  "num_followers": 6717,
+  "num_followers": 6728,
   "original_name": "Ska Mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQxMDYxOCwwMDAwMDAwMDJlZTU0MWE5ZmQ2NjAyYmM5NjMxZjU5MzRiYTc4MjNk",
+  "snapshot_id": "MTY2NDQxMDYxOCwwMDAwMDAwMGJmZTYyZWYxMWRlZTQ2MzRjNGViZjcxMTY5ZmY2ZTU2",
   "tracks": [
     {
       "added_at": "2022-03-18 06:00:00",
@@ -743,6 +743,38 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
+      },
+      "artists": [
+        {
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "No Hemos Muerto",
+      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -759,38 +791,6 @@
       "duration_ms": 143200,
       "name": "Ste Ska",
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Cenizas en el Mar",
-      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -843,8 +843,8 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
         }
       ],
-      "duration_ms": 209306,
-      "name": "No Hemos Muerto",
-      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
+      "duration_ms": 170826,
+      "name": "Cenizas en el Mar",
+      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "Armada Hasta los Dientes V 1.5",
+        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
         }
       ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+      "duration_ms": 236840,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
     },
     {
       "added_at": "2022-07-15 04:44:57",
@@ -959,22 +975,6 @@
       "duration_ms": 156820,
       "name": "Polic\u00eda",
       "url": "https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Armada Hasta los Dientes V 1.5",
-        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Armada Hasta los Dientes V 1.5",
+        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 132146,
+      "name": "Nana Punk",
+      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1039,6 +1055,38 @@
       "duration_ms": 189786,
       "name": "Se Va",
       "url": "https://open.spotify.com/track/7z1CXrg9Gc6b3hJlFzRhco"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Ruperta",
+      "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1075,54 +1123,6 @@
       "duration_ms": 233513,
       "name": "Cumbia Feminista",
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Armada Hasta los Dientes V 1.5",
-        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 132146,
-      "name": "Nana Punk",
-      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Ruperta",
-      "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 257240,
       "name": "Como Un Sol",
       "url": "https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1861,6 +1861,22 @@
       "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
     },
     {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
+    },
+    {
       "added_at": "2022-07-15 04:41:26",
       "album": {
         "name": "M\u00fasica Guerrera",
@@ -1885,22 +1901,6 @@
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
     },
     {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
-    },
-    {
       "added_at": "2022-04-01 20:18:29",
       "album": {
         "name": "Ej\u00e9rcito de Paz",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Estrella Roja",
-      "url": "https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 227520,
       "name": "Borracho Drunk Steady Beer",
       "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Estrella Roja",
+      "url": "https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0"
     },
     {
       "added_at": "2022-03-25 00:00:00",

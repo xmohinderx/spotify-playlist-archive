@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Will.i.am, El Alfa & Yandel",
+  "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Don Omar & Lil Jon",
   "name": "Global X",
   "published_playlist_ids": [
     "6qZ86PrcY4XIZq7R01HhHo"
@@ -276,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Amour, Haine et Danger",
+        "url": "https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Amour, Haine et Danger",
+      "url": "https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX"
+    },
+    {
+      "album": {
         "name": "ANACONDA *o* ~~~",
         "url": "https://open.spotify.com/album/3lGLYMe25ojYNWqfTpwyk2"
       },
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -649,6 +667,24 @@
       "duration_ms": 199146,
       "name": "Brividi",
       "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+    },
+    {
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209578,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE"
     },
     {
       "album": {
@@ -819,7 +855,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
@@ -2502,6 +2538,28 @@
     },
     {
       "album": {
+        "name": "LET'S GET CRAZY! (Mambo Drop)",
+        "url": "https://open.spotify.com/album/0o18HO4i1RMnJR2wXHDpfb"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159819,
+      "name": "LET'S GET CRAZY! (Mambo Drop)",
+      "url": "https://open.spotify.com/track/4q5pdsB1bsZRu9BgewM7j9"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg"
       },
@@ -3149,7 +3207,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"

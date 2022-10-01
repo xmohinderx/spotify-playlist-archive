@@ -4,10 +4,12 @@
 
 > Feed your focus with restaurant ambience from around the world.
 
-53 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/3w3bYiSNhjrxB4SAa25ooN)
+61 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/3w3bYiSNhjrxB4SAa25ooN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5th avenue Café](https://open.spotify.com/track/1KQrzCcHFR2fv8WxZX6pLT) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [New York Café Sounds](https://open.spotify.com/album/02hJKfndJgVsPjQrl0Yyqo) | 3:19 | 2022-09-30 |  |
+| [A Espresso In Venice](https://open.spotify.com/track/0yivM6X1XmRbVcdzNQcx1f) | [Focus Finders](https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68) | [Italian Piazza Sounds](https://open.spotify.com/album/6UvqunJqwOVqVWEjS5tnEd) | 3:01 | 2022-09-30 |  |
 | [Akasaka Morning Coffee](https://open.spotify.com/track/2r9TnPg7FlQbMILnokA1my) | [Genki Desu](https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp) | [Tokyo Morning Coffee](https://open.spotify.com/album/30T6dBtJsV25mIzkUkKWGy) | 2:48 | 2022-08-26 |  |
 | [Akasaka\-Mitsuke After Work Vibe](https://open.spotify.com/track/0d7ps9ZIPXxuSsWOj4ciE0) | [Akasaka Awesome](https://open.spotify.com/artist/3Riyn6qbp11BLkMnyCz4E1) | [New Edo Sounds](https://open.spotify.com/album/2xwDNBWGkALEjny6posDx5) | 2:43 | 2022-08-26 |  |
 | [Ambience Café Sound](https://open.spotify.com/track/4JP54QTU0SZ1kDBzqic9WY) | [Andiman](https://open.spotify.com/artist/1eDXoT9A8y5E9xIDrHV4yH) | [Coffee Shop Ambience](https://open.spotify.com/album/2Qbfhjvsis6eKLQslIU0X2) | 2:52 | 2022-08-26 |  |
@@ -27,6 +29,8 @@
 | [Coffee Shop Ambience](https://open.spotify.com/track/2662uF1Ee3ViL9ncDSkg7j) | [Andiman](https://open.spotify.com/artist/1eDXoT9A8y5E9xIDrHV4yH) | [Coffee Shop Ambience](https://open.spotify.com/album/2Qbfhjvsis6eKLQslIU0X2) | 2:52 | 2022-08-26 |  |
 | [Coffee Shop For Sleep](https://open.spotify.com/track/6x0hbz7tcpITOw23JrzQ7m) | [Sleep Makers Samples](https://open.spotify.com/artist/21TfwfkOQkI8h5I7CJzCNf) | [French Coffee House Ambience](https://open.spotify.com/album/41pVNde09D3FWB758YHQ8A) | 2:58 | 2022-08-26 |  |
 | [Coffee Shop Soundscape](https://open.spotify.com/track/0x2r596Dyr5O587pCzSSqB) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [City Sounds](https://open.spotify.com/album/68mCbHYFFDQoJUOBQuqsI8) | 2:58 | 2022-08-26 |  |
+| [Coffeehouse Ambience Soft Music](https://open.spotify.com/track/0TCWoQ37uL9yg25s9UMf0E) | [ASMR Anonymous](https://open.spotify.com/artist/1CBbKj7iORJ5c6Kzhx6fAC) | [Coffeehouse Soundscapes](https://open.spotify.com/album/79SkgomzlGpX2gG1IMTxkc) | 2:40 | 2022-09-30 |  |
+| [Coffeehouse Lullaby](https://open.spotify.com/track/1sMTxfa73Nng1JUfeYH79Q) | [Perfect Zounds](https://open.spotify.com/artist/2ywSSOHLa97xCG2mNqgKMZ) | [Coffeehouse Lullaby](https://open.spotify.com/album/4bzVOl8jaDop1JbhHD8wSS) | 3:19 | 2022-09-30 |  |
 | [Con Amigos Si](https://open.spotify.com/track/1jej12mKBgkKhWUrkGVo53) | [Comer Para Vivir](https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7) | [Taqueria Mexico \#2](https://open.spotify.com/album/6FOdjXA0D1vKGoFdXAO6TJ) | 4:22 | 2022-08-26 |  |
 | [Cosy Coffee House Sounds](https://open.spotify.com/track/09dwfUbPPzPxM3hciHWuuP) | [Athmospherical FX](https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr) | [Cosy Coffee House Sounds](https://open.spotify.com/album/5XpnoL4lKd9gqElwYob6fX) | 2:58 | 2022-08-26 |  |
 | [Cosy Italian Restaurant Sound](https://open.spotify.com/track/73D4m6MGL8xJInk3Vvsbvw) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Cosy Italian Restaurant Sound](https://open.spotify.com/album/0StsVpt5Wq4zu74uaf5Tzj) | 3:00 | 2022-08-26 |  |
@@ -41,6 +45,9 @@
 | [French Coffee House Ambience](https://open.spotify.com/track/6tFIYg2LI9sMVvBwFfUmjU) | [Sleep Makers Samples](https://open.spotify.com/artist/21TfwfkOQkI8h5I7CJzCNf) | [French Coffee House Ambience](https://open.spotify.com/album/41pVNde09D3FWB758YHQ8A) | 2:50 | 2022-08-26 |  |
 | [French Restaurant Ambience](https://open.spotify.com/track/4HOVxq1LzqBVP9M9k8Zlok) | [Luncheonette](https://open.spotify.com/artist/1K5ZCzCxlyaSCtQNdHv1cQ) | [Resturants Around The World](https://open.spotify.com/album/7yVg3wyjlyriCkIXpePSdB) | 3:01 | 2022-08-26 |  |
 | [Italian Bistro](https://open.spotify.com/track/6R9tQ4ziy250ecrTtwgPIv) | [Luncheonette](https://open.spotify.com/artist/1K5ZCzCxlyaSCtQNdHv1cQ) | [Resturants Around The World](https://open.spotify.com/album/7yVg3wyjlyriCkIXpePSdB) | 2:54 | 2022-08-26 |  |
+| [Italian Piazza Sounds](https://open.spotify.com/track/6yzZ5ropRCW1imbX9BE9g0) | [Focus Finders](https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68) | [Italian Piazza Sounds](https://open.spotify.com/album/6UvqunJqwOVqVWEjS5tnEd) | 3:08 | 2022-09-30 |  |
+| [Java House Noise](https://open.spotify.com/track/2grDfUtrDXvwMhTsJDhnfr) | [Perfect Zounds](https://open.spotify.com/artist/2ywSSOHLa97xCG2mNqgKMZ) | [Coffeehouse Lullaby](https://open.spotify.com/album/4bzVOl8jaDop1JbhHD8wSS) | 3:18 | 2022-09-30 |  |
+| [New York Café Sounds](https://open.spotify.com/track/6sTfPkSidCoCKtbp1fltuk) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [New York Café Sounds](https://open.spotify.com/album/02hJKfndJgVsPjQrl0Yyqo) | 2:32 | 2022-09-30 |  |
 | [Nippon Coffee Shop Ambience 1 \- Seamless](https://open.spotify.com/track/2InTbPdiMSILxLMhJlQKnO) | [Cohi Hot\-O](https://open.spotify.com/artist/5HiYuoH1yGihvPi7oGVEZh) | [Nippon Coffee Atmos](https://open.spotify.com/album/2r8tyZzWqPTGRWuEvgNZuZ) | 2:59 | 2022-08-26 |  |
 | [Nippon Coffee Shop Ambience 2](https://open.spotify.com/track/776lNbsawdl6qVHNFJiy5u) | [Cohi Hot\-O](https://open.spotify.com/artist/5HiYuoH1yGihvPi7oGVEZh) | [Nippon Coffee Atmos](https://open.spotify.com/album/2r8tyZzWqPTGRWuEvgNZuZ) | 2:59 | 2022-08-26 |  |
 | [Omotesando Morning Coffee](https://open.spotify.com/track/2v5JXRgm3YTgJy6niOHcYC) | [Genki Desu](https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp) | [Tokyo Morning Coffee](https://open.spotify.com/album/30T6dBtJsV25mIzkUkKWGy) | 2:47 | 2022-08-26 |  |
@@ -56,6 +63,7 @@
 | [Shinjuku Café](https://open.spotify.com/track/2QXQYNItlNAlXmx65LmfLh) | [Seki San](https://open.spotify.com/artist/6A3p45Th0ovE3hXjdeK3Vp) | [Tokyo Café](https://open.spotify.com/album/7qyISRnhKoO8R3W4TL707R) | 2:48 | 2022-08-26 |  |
 | [Smell The Coffee](https://open.spotify.com/track/2yDvxqkrAIkxNos0y0LCLN) | [Tokyo\-Feels](https://open.spotify.com/artist/0ZuOBZjygp4mJOJhGXQ4Pb) | [Shimbashi Café](https://open.spotify.com/album/5nGgE47yybNlYPQsRCBmD2) | 3:19 | 2022-08-26 |  |
 | [Soothing Restaurant Sound](https://open.spotify.com/track/7k7ZlayBaJYhULrrZkr0rT) | [Tight Chill Creator](https://open.spotify.com/artist/6fenwnC12GiSNfN2Aar8Aj) | [Soothing Restaurant Sound](https://open.spotify.com/album/6nnlRHH6rbFmKCnoDjraFn) | 2:54 | 2022-08-26 |  |
+| [Stockholm Restaurant at Noon](https://open.spotify.com/track/0loUCoyqZ84fhvsScWx17X) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stockholm Restaurant at Noon](https://open.spotify.com/album/3kfHNtY1tUURYxdKeD3qTT) | 2:44 | 2022-09-30 |  |
 | [The Beach Café](https://open.spotify.com/track/5nyEWxmTc1UgfhLxWUy41C) | [Surf & Turf](https://open.spotify.com/artist/50629oufjz881d0uHfUC3n) | [Seaside Coffee Break](https://open.spotify.com/album/09wTNxkN0fdoGDQhLtRXo8) | 2:24 | 2022-08-26 |  |
 | [The Harbour Café \- Seamless](https://open.spotify.com/track/52l6s4sdjspyuk52GgDZad) | [Surf & Turf](https://open.spotify.com/artist/50629oufjz881d0uHfUC3n) | [Seaside Coffee Break](https://open.spotify.com/album/09wTNxkN0fdoGDQhLtRXo8) | 2:52 | 2022-08-26 |  |
 | [The Waterfalls Café](https://open.spotify.com/track/51RI17EJHVrXxoKUAYJvDw) | [Surf & Turf](https://open.spotify.com/artist/50629oufjz881d0uHfUC3n) | [Seaside Coffee Break](https://open.spotify.com/album/09wTNxkN0fdoGDQhLtRXo8) | 2:12 | 2022-08-26 |  |

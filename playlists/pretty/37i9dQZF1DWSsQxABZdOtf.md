@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,460 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,480 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 15 | [Popular](https://open.spotify.com/track/3098sOo6ZdYy0BskCqOBfJ) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Popular](https://open.spotify.com/album/6c9QyP5cZlq0DCY7ysXSbj) | 3:06 |
 | 16 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 |
 | 17 | [Fractured Collectivity](https://open.spotify.com/track/071CPfuUEHGOcdeEZ0kgRs) | [DJ Pitch](https://open.spotify.com/artist/6gnPiTUdUPttmm5N8j7Rvy), [Rafael Lubner](https://open.spotify.com/artist/2f1JAxOQ7i77o8UcfOLO7d) | [Spiritual Claustrophobia](https://open.spotify.com/album/4wIFqveFP5c4XwAE70Ov7R) | 6:36 |
-| 18 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
+| 18 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
 | 19 | [One Million \- Caltonic SA Remix](https://open.spotify.com/track/61eh5M5onC6xCwCmP0UOnQ) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi), [Caltonic SA](https://open.spotify.com/artist/17GosBGcjmcVVy4M6NBwQ9) | [Abeka Bugatti Remixed](https://open.spotify.com/album/50CJ7p03MsOqIcJoyxDvwT) | 5:01 |
 | 20 | [It’s A Love Thing](https://open.spotify.com/track/63sLliVYvTftRNtsHyaE4T) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [It’s A Love Thing](https://open.spotify.com/album/2DPGnMwSkAMjDukOojCsNt) | 3:22 |
 | 21 | [Anywhere With You](https://open.spotify.com/track/0RG81CtArQ6WWE5W7cGocf) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Anywhere With You EP](https://open.spotify.com/album/5So0sPYfpNBhyNpvQOjnVi) | 2:42 |

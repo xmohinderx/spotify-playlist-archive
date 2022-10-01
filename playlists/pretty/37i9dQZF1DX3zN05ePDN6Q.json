@@ -1,15 +1,35 @@
 {
-  "description": "Tem rap nacional e muito boom bap na \u00e1rea. Foto: Daniel Shadow",
-  "num_followers": 35515,
+  "description": "Tem rap nacional e muito boom bap na \u00e1rea. Foto: AmandesNoBeat, Dudu",
+  "num_followers": 35534,
   "original_name": "Boom Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1OTA3OSwwMDAwMDAwMDI0Yjk0ODA5MDBhYWE5YzM2MzczNzRiMmI3NTA1ZjQ4",
+  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMGQzYTNkMTc2ZmE1ZGE1ODFmNzRmNTgzMTNjZDdiYzk4",
   "tracks": [
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "4Am In Sp",
+        "url": "https://open.spotify.com/album/2p1fu3EVIP7wk8ScA5fpsE"
+      },
+      "artists": [
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "4Am In Sp",
+      "url": "https://open.spotify.com/track/5XU90BgqEJJJLL90V2MFhD"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Deuses & Planetas",
         "url": "https://open.spotify.com/album/0VzkWTZdKMJMUmh1FxRzGo"
@@ -29,51 +49,7 @@
       "url": "https://open.spotify.com/track/6nhE4lscGt5GfteXW5OD9d"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
-      "album": {
-        "name": "Sementinha do Mal",
-        "url": "https://open.spotify.com/album/6APEhDxAI5GmMfVXgywtYy"
-      },
-      "artists": [
-        {
-          "name": "Febre90s",
-          "url": "https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku"
-        },
-        {
-          "name": "SonoTWS",
-          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
-        },
-        {
-          "name": "pumapjl",
-          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Sementinha do Mal",
-      "url": "https://open.spotify.com/track/3hytYbdEQ7rDrhJEI529Pn"
-    },
-    {
-      "added_at": "2022-09-23 18:51:19",
-      "album": {
-        "name": "Bom dia Vietn\u00e3 2",
-        "url": "https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV"
-      },
-      "artists": [
-        {
-          "name": "Puro Suco",
-          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
-        },
-        {
-          "name": "BEATDOMK",
-          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
-        }
-      ],
-      "duration_ms": 165488,
-      "name": "Bom dia Vietn\u00e3 2",
-      "url": "https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d"
-    },
-    {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Melhor Que Ontem",
         "url": "https://open.spotify.com/album/3z75GAmcVXisxqwnQod4EM"
@@ -93,7 +69,27 @@
       "url": "https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Linhas A\u00e9reas",
+        "url": "https://open.spotify.com/album/2WWA75CIB0ZFIN9G8wrNh1"
+      },
+      "artists": [
+        {
+          "name": "Bface",
+          "url": "https://open.spotify.com/artist/1V962YgN6DOZGAeN1H2o65"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        }
+      ],
+      "duration_ms": 175431,
+      "name": "Linhas A\u00e9reas",
+      "url": "https://open.spotify.com/track/2hx8zQaDoPz36cMKZlU1mK"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Camisa Dez",
         "url": "https://open.spotify.com/album/2Fiv2XAjaeUts0QUReWwQI"
@@ -117,7 +113,27 @@
       "url": "https://open.spotify.com/track/21ykQ4fCQGGImQuWIOGWh3"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Ganhe Dinheiro ou Morra",
+        "url": "https://open.spotify.com/album/644XUD6PlDAVHPmUWPtXZd"
+      },
+      "artists": [
+        {
+          "name": "Jacksom",
+          "url": "https://open.spotify.com/artist/1QC4KvSV6LKlbjECxCRqdn"
+        },
+        {
+          "name": "Dj Novset",
+          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ganhe Dinheiro ou Morra",
+      "url": "https://open.spotify.com/track/7p7uutjlVuDp20pQgceNsg"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/28PfTRuAUoB3lk8sWDxYhs"
@@ -141,59 +157,51 @@
       "url": "https://open.spotify.com/track/2PvRDrC9kiHnLTljSYjCDg"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Old Rap",
-        "url": "https://open.spotify.com/album/2FcuIVnJO5Mb5hW2DRCTva"
+        "name": "Fitas Perdidas",
+        "url": "https://open.spotify.com/album/0Q7DsXc72gYQHUgxGuU7JF"
       },
       "artists": [
         {
-          "name": "Bikera Sonora",
-          "url": "https://open.spotify.com/artist/2LpTK3UffBph51hdXrDklL"
+          "name": "Supperbiro",
+          "url": "https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        },
+        {
+          "name": "ALLANA",
+          "url": "https://open.spotify.com/artist/6HDbz8r8C8Rr5XQO1uHslV"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Old Rap",
-      "url": "https://open.spotify.com/track/2rKAfftXgnr0dmRkXmxPrJ"
+      "duration_ms": 243032,
+      "name": "J\u00e1 \u00c9 Tarde",
+      "url": "https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Eles Falam de Ti",
-        "url": "https://open.spotify.com/album/3qnPl0DnzW5cyXnFfPVqa9"
+        "name": "Bom dia Vietn\u00e3 2",
+        "url": "https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV"
       },
       "artists": [
         {
-          "name": "Mano Fler",
-          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+          "name": "Puro Suco",
+          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
         },
         {
-          "name": "patetacodigo43",
-          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
-        },
-        {
-          "name": "Escobar Gaviria",
-          "url": "https://open.spotify.com/artist/40YcPKCssgBCtKd1H24QZa"
-        },
-        {
-          "name": "Brancco",
-          "url": "https://open.spotify.com/artist/0EYiW2OzlKuLKYkYP1YE1w"
-        },
-        {
-          "name": "Dg",
-          "url": "https://open.spotify.com/artist/7cTrr2oIMr5JGOxI80UWfi"
-        },
-        {
-          "name": "Perdid\u00e3o",
-          "url": "https://open.spotify.com/artist/4Ev4026OeakVjCOuEEwhp6"
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
         }
       ],
-      "duration_ms": 407998,
-      "name": "Eles Falam de Ti",
-      "url": "https://open.spotify.com/track/1K2kcqNfbSkrcwughQnnVM"
+      "duration_ms": 165488,
+      "name": "Bom dia Vietn\u00e3 2",
+      "url": "https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Desavento",
         "url": "https://open.spotify.com/album/56ZIX9QNRoqVY1Nb02yDXY"
@@ -213,7 +221,71 @@
       "url": "https://open.spotify.com/track/2S44kcVUvjd8xy2ndatosj"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "N\u00e3opentecostal",
+        "url": "https://open.spotify.com/album/4mvm2Ec9iyocAbhOlaLRFT"
+      },
+      "artists": [
+        {
+          "name": "Andersoul Raps",
+          "url": "https://open.spotify.com/artist/0yYRsfdkY2mg3v3olGRMyw"
+        },
+        {
+          "name": "Enryck SB",
+          "url": "https://open.spotify.com/artist/2Kgeu1fL79dlpdtlT3h1J8"
+        },
+        {
+          "name": "Rodone Dimbas",
+          "url": "https://open.spotify.com/artist/5MxLDQQHPrVGs1ipMf1ekJ"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "N\u00e3opentecostal",
+      "url": "https://open.spotify.com/track/2nZrw0s7wve3ko0shexAYG"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Old Rap",
+        "url": "https://open.spotify.com/album/2FcuIVnJO5Mb5hW2DRCTva"
+      },
+      "artists": [
+        {
+          "name": "Bikera Sonora",
+          "url": "https://open.spotify.com/artist/2LpTK3UffBph51hdXrDklL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Old Rap",
+      "url": "https://open.spotify.com/track/2rKAfftXgnr0dmRkXmxPrJ"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Dizzabafo",
+        "url": "https://open.spotify.com/album/5WaspzNsol7Zq7j1lUluH3"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Dizzabafo",
+      "url": "https://open.spotify.com/track/792Kwq7leRnzTZ2ZhG6xw6"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Pra Berlin",
         "url": "https://open.spotify.com/album/66ulRuBs3zeUDIfW4HNICQ"
@@ -229,7 +301,7 @@
       "url": "https://open.spotify.com/track/0sRzOlD788V7vTonwx5m4S"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "COLETE",
         "url": "https://open.spotify.com/album/5R52ljOsbfYRbDpEGrajoy"
@@ -257,47 +329,7 @@
       "url": "https://open.spotify.com/track/4lwVNwnDBCUYonkHlkOucc"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
-      "album": {
-        "name": "Linhas A\u00e9reas",
-        "url": "https://open.spotify.com/album/2WWA75CIB0ZFIN9G8wrNh1"
-      },
-      "artists": [
-        {
-          "name": "Bface",
-          "url": "https://open.spotify.com/artist/1V962YgN6DOZGAeN1H2o65"
-        },
-        {
-          "name": "SonoTWS",
-          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
-        }
-      ],
-      "duration_ms": 175431,
-      "name": "Linhas A\u00e9reas",
-      "url": "https://open.spotify.com/track/2hx8zQaDoPz36cMKZlU1mK"
-    },
-    {
-      "added_at": "2022-09-23 18:51:19",
-      "album": {
-        "name": "Ganhe Dinheiro ou Morra",
-        "url": "https://open.spotify.com/album/644XUD6PlDAVHPmUWPtXZd"
-      },
-      "artists": [
-        {
-          "name": "Jacksom",
-          "url": "https://open.spotify.com/artist/1QC4KvSV6LKlbjECxCRqdn"
-        },
-        {
-          "name": "Dj Novset",
-          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ganhe Dinheiro ou Morra",
-      "url": "https://open.spotify.com/track/7p7uutjlVuDp20pQgceNsg"
-    },
-    {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "100 Balas",
         "url": "https://open.spotify.com/album/7g9DZuaJKWTeB9C9E17NK4"
@@ -325,23 +357,7 @@
       "url": "https://open.spotify.com/track/56szHJj0EFDM9We1qgGYI1"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
-      "album": {
-        "name": "Homens e Meninos",
-        "url": "https://open.spotify.com/album/4NiLOsKAoTELePkmpdmY6q"
-      },
-      "artists": [
-        {
-          "name": "Elo Da Corrente",
-          "url": "https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe"
-        }
-      ],
-      "duration_ms": 140259,
-      "name": "Homens e Meninos",
-      "url": "https://open.spotify.com/track/7hZP9Hr0ay5vzkNrGNsWjY"
-    },
-    {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Flores e Facas",
         "url": "https://open.spotify.com/album/00zWdL6Rj0pONkeNYwNdKq"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/5y6BXNz2jiBjZBvf8HCC05"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Vendaval",
         "url": "https://open.spotify.com/album/1i1MQlF0Jm80D0tbNHWTzr"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/4RVtgNDHgQ3TIXOQLgOHZS"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "X da quest\u00e3o",
         "url": "https://open.spotify.com/album/0UHv4QlVLmNUiijrvVU6Qs"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/3Z8eJFFoYhHaDCn8DwPsqD"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Aqueles Velhos Calos",
         "url": "https://open.spotify.com/album/6jzct8ldXiXGTTH9BpyLPv"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/3rEWWLedK3Vo1VIselds4E"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Florescer",
         "url": "https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "1024Db",
         "url": "https://open.spotify.com/album/35s7VIm0r7sd4c8gsicSXS"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/7GGSVw39xeCtwGjKLApEyH"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Se Fosse por Mim",
         "url": "https://open.spotify.com/album/3jvNwMKV018NJbqn3qNjo7"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/5U0djhxrJK2MJOF84yxTOA"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Cor",
         "url": "https://open.spotify.com/album/0RFv01DJph6nBEKH2OZr63"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/09dbxhklCWCqEJ1qq4iwJx"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Viver T\u00e1 Osso",
         "url": "https://open.spotify.com/album/37sqcLKyDMdHdDgGWd0spl"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/63WtsqSUUR75iWvGyBwnIw"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Aux\u00edlio Emergencial do Rap",
         "url": "https://open.spotify.com/album/0e4Szps1xppl5S4cIjjVfJ"
@@ -533,27 +549,7 @@
       "url": "https://open.spotify.com/track/2tbnYUZqSQPSuTn2Zd0arn"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
-      "album": {
-        "name": "Ser\u00e1 Que Fica Novo Essa Velha",
-        "url": "https://open.spotify.com/album/7tG8FORtUmBb3ys0PVH47T"
-      },
-      "artists": [
-        {
-          "name": "Joaozinho Beatbox",
-          "url": "https://open.spotify.com/artist/6RSCinVsVheFsme8wR5qLX"
-        },
-        {
-          "name": "DJ Ak beats",
-          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
-        }
-      ],
-      "duration_ms": 121278,
-      "name": "Ser\u00e1 Que Fica Novo Essa Velha",
-      "url": "https://open.spotify.com/track/5mpcYoQj5jOLMM8PH2jNX8"
-    },
-    {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Pulsa",
         "url": "https://open.spotify.com/album/2KzGC4EHnMCdjfAVOBuhUM"
@@ -569,7 +565,7 @@
       "url": "https://open.spotify.com/track/6Z2Cn9IheRLbCRrquBDcbS"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Guerra",
         "url": "https://open.spotify.com/album/0pbbJhOcA6v8AYZTBhRVM9"
@@ -589,7 +585,7 @@
       "url": "https://open.spotify.com/track/4VNQiOlGRKeGkEBntleFKe"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Chico Marola (Ao Vivo)",
         "url": "https://open.spotify.com/album/1h8riVHgTXKMWc8WPgfZ8n"
@@ -605,7 +601,7 @@
       "url": "https://open.spotify.com/track/6090ahSRvAgrdbTMWovY2K"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Pierrot e Colombina",
         "url": "https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC"
@@ -621,7 +617,7 @@
       "url": "https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
@@ -645,7 +641,7 @@
       "url": "https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "S\u00e3o Bento Vive!",
         "url": "https://open.spotify.com/album/3HjqfQOXGhHJD1hA0fRR1t"
@@ -673,7 +669,7 @@
       "url": "https://open.spotify.com/track/6eWvgP1RVaRMbuqnSHhXQ1"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Rap dos Novos Bandidos",
         "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
@@ -697,7 +693,7 @@
       "url": "https://open.spotify.com/track/49PonczSLhra0DxsSdSxq8"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "F\u00e9 No Processo",
         "url": "https://open.spotify.com/album/5K4vMTbZjJzzwSSY8TEZ0m"
@@ -717,7 +713,7 @@
       "url": "https://open.spotify.com/track/3wx7XAAC8SjXpOMv8YDVhe"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Resist\u00eancia de Favela",
         "url": "https://open.spotify.com/album/7ty0nG2K29FeVroOzRfw09"
@@ -737,7 +733,7 @@
       "url": "https://open.spotify.com/track/7ksynz0JTpnWgvO2tP1FhI"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "N\u00f4made VII",
         "url": "https://open.spotify.com/album/3jhFJYo9qphO2WxHzIWudt"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/4XTu1iHT5Q8dDfiIXgUXLD"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Boombap Gold",
         "url": "https://open.spotify.com/album/2Ddati0V6fWvpe3E9kUqy4"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/60FUbcsCoJB5GyYsFkvpZm"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Novos Dias",
         "url": "https://open.spotify.com/album/5w2QDXAhOMe4SjyiM59yT5"
@@ -813,7 +809,7 @@
       "url": "https://open.spotify.com/track/4mn42Ofg4kUBUmRAwiZjft"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Sobre mim",
         "url": "https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK"
@@ -829,7 +825,7 @@
       "url": "https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Ambicioso",
         "url": "https://open.spotify.com/album/0AUEz9YIOrPzbSGISTvtEP"
@@ -857,7 +853,7 @@
       "url": "https://open.spotify.com/track/4TbmRs8sJVW6FuBS826Rnp"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Vida no Gueto",
         "url": "https://open.spotify.com/album/6zjR3VWeYle62YRMx46i3U"
@@ -881,7 +877,7 @@
       "url": "https://open.spotify.com/track/4ziK17dSvFJ4ir5QYJILBb"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Aben\u00e7oado",
         "url": "https://open.spotify.com/album/2ZbrQKjotHLMaYuE58ggSw"
@@ -901,7 +897,7 @@
       "url": "https://open.spotify.com/track/5d93iCrmatMYnAmca4CLWi"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "O Futuro N\u00e3o Espera",
         "url": "https://open.spotify.com/album/4PoOjE0T4rWZuZqkXWvHdj"
@@ -929,7 +925,7 @@
       "url": "https://open.spotify.com/track/39pbHL9d3asniQtUnVmX6p"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Cuca Fresca",
         "url": "https://open.spotify.com/album/2hBjSZJStm2lbuORzcSqRN"
@@ -949,7 +945,7 @@
       "url": "https://open.spotify.com/track/3e4FyJumyArzi2XV68bmzT"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Veja Bem",
         "url": "https://open.spotify.com/album/10CtIdXeXO7XTXAZqQjhpO"
@@ -965,7 +961,7 @@
       "url": "https://open.spotify.com/track/5IcaGHP7FjV7NQtqVfOLoZ"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Forja",
         "url": "https://open.spotify.com/album/0sI4CDAdcaGF1lSvyTQwyd"
@@ -981,7 +977,7 @@
       "url": "https://open.spotify.com/track/2mzctyCwTS7CKXC3RP4QXf"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "N\u00c3O ESCUTE ESSA M\u00daSICA",
         "url": "https://open.spotify.com/album/0hoCCYkxjCROrGy4FNAejw"
@@ -1001,7 +997,7 @@
       "url": "https://open.spotify.com/track/3DqroTwrAl5gFwGDxvnT7F"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Diamantes S\u00e3o Lapidados na Minha \u00c1rea",
         "url": "https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg"
@@ -1017,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "N\u00f4made VI",
         "url": "https://open.spotify.com/album/2aRP8ADWeTliDfTUs3NTYb"
@@ -1045,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1V5nrvPDmynT2kJMJwo5FR"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Dai a Cesar o Que \u00c9 de Cesar",
         "url": "https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux"
@@ -1073,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4HJ1ffUdueDSeblz7wGKJo"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Imigrante",
         "url": "https://open.spotify.com/album/5Xa8dKUdTqJL2qOzadUnt3"
@@ -1097,7 +1093,7 @@
       "url": "https://open.spotify.com/track/01iDxGokio8GbYW63DLVet"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "R.U.A 12 Batalha de Vida",
         "url": "https://open.spotify.com/album/1UwM49xZkncbw3Rsqkq2l7"
@@ -1137,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1E8nSsB4EKkKlOQOfUA9mV"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Boombap",
         "url": "https://open.spotify.com/album/3Dj6pQbYLbD5Vdmira6GS1"
@@ -1153,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6LM2B5QzMIewJLdqXnh2Vq"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "No Memo Vale",
         "url": "https://open.spotify.com/album/7haDPxmTeQVbFLb0YfV9C8"
@@ -1177,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2WPuB06wrQmdZm4XvzfsEv"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Rap Sujo",
         "url": "https://open.spotify.com/album/39lHGlUk8NOZPxFjXr49zd"
@@ -1201,7 +1197,7 @@
       "url": "https://open.spotify.com/track/1ARG0pacP6H4PCvABCBlDl"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Som Que Vem Da Alma",
         "url": "https://open.spotify.com/album/6qJ9myq1bIRtr1Sdawtrfb"
@@ -1221,27 +1217,7 @@
       "url": "https://open.spotify.com/track/5ho4sWitLTdIktXtHVV1Ei"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
-      "album": {
-        "name": "FLORA DE CONTROLE",
-        "url": "https://open.spotify.com/album/4BGYI7zvyPcAkwG8e0agSz"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        }
-      ],
-      "duration_ms": 155374,
-      "name": "SER SUA",
-      "url": "https://open.spotify.com/track/2D3moQIIadQ0sQDNQej6Ko"
-    },
-    {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Novo Horizonte",
         "url": "https://open.spotify.com/album/77ONKPCS5X2RGA0mzTi6ZS"
@@ -1265,7 +1241,7 @@
       "url": "https://open.spotify.com/track/7sgIpOH0aLG6G1ujmanrJz"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "O Balan\u00e7o Do Efeito Dunning-Kruger",
         "url": "https://open.spotify.com/album/1bBOQwVqfxleBP5K1c9DRb"
@@ -1281,7 +1257,7 @@
       "url": "https://open.spotify.com/track/7j0dEbHnE35BaVC7y5RnlT"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Corre",
         "url": "https://open.spotify.com/album/6zaT7Fan2DTDnnThuQZ9KX"
@@ -1305,7 +1281,7 @@
       "url": "https://open.spotify.com/track/7iSF0kqPkq5xwGPzURo3NH"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Guerra \u00e0s Drogas",
         "url": "https://open.spotify.com/album/5C6rUc0a2yELXPKV0N7Eyo"
@@ -1325,7 +1301,7 @@
       "url": "https://open.spotify.com/track/5wvqSBoa3ktRQEgMWyr1ow"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
@@ -1349,7 +1325,7 @@
       "url": "https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
         "url": "https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4"
@@ -1369,7 +1345,7 @@
       "url": "https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Briga de Casal (Estilo Vagabundo 5)",
         "url": "https://open.spotify.com/album/5e1VkQhetJMWxRb77LGPCj"
@@ -1389,7 +1365,7 @@
       "url": "https://open.spotify.com/track/4ZZSTRy9eugd4v9falGoMs"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Suavy na Base",
         "url": "https://open.spotify.com/album/3je7yvU258orJz1rimQzIP"
@@ -1413,7 +1389,7 @@
       "url": "https://open.spotify.com/track/41pUfNomy3oLg4ParN5wbX"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Trof\u00e9u",
         "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
@@ -1437,7 +1413,7 @@
       "url": "https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k"
@@ -1465,7 +1441,7 @@
       "url": "https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Dai a Cesar o Que \u00c9 de Cesar",
         "url": "https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux"
@@ -1497,7 +1473,7 @@
       "url": "https://open.spotify.com/track/7AC44OGeO16I8PkqdmDNOv"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Vida De Cinema",
         "url": "https://open.spotify.com/album/5Njc5TCgFIJYOGJfjjZwul"
@@ -1525,7 +1501,7 @@
       "url": "https://open.spotify.com/track/6pV19HgJpUnkI4cV5uqgw5"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "I Can See the Sun",
         "url": "https://open.spotify.com/album/1Zl4jJDpUsQ8s7fMsJSF77"
@@ -1553,7 +1529,7 @@
       "url": "https://open.spotify.com/track/5vZnKY2jpbBAYU8sXURY5z"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Cypher At\u00e9 depois do fim 005",
         "url": "https://open.spotify.com/album/7ygGk4m0Z6wYyuRqrhjXaC"
@@ -1593,7 +1569,7 @@
       "url": "https://open.spotify.com/track/1xmOWgPBUHwhUrfNyJg1sK"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Abra\u00e7o do Tempo",
         "url": "https://open.spotify.com/album/6sNW5qOS0Lt3bpjE3zFH6M"
@@ -1617,7 +1593,7 @@
       "url": "https://open.spotify.com/track/2yUfCproWqEB06g2bw7ba8"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Ego Feio",
         "url": "https://open.spotify.com/album/5KaGeuZ9VbROftPun41nwP"
@@ -1637,7 +1613,7 @@
       "url": "https://open.spotify.com/track/7GkY8cria742BEJtC7peaG"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Uma Dose de Boombap",
         "url": "https://open.spotify.com/album/0KFd6lTTdKNJccZ2QeUlPv"
@@ -1653,7 +1629,7 @@
       "url": "https://open.spotify.com/track/4ldgX0SM921NprB232n7zW"
     },
     {
-      "added_at": "2022-09-23 18:51:19",
+      "added_at": "2022-09-30 03:01:00",
       "album": {
         "name": "Louco T\u00e1 O Mundo N\u00e3o Eu",
         "url": "https://open.spotify.com/album/2rHy0XC2fakSxtObWwTJEa"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-738 songs - 1 day 17 hr 5 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+739 songs - 1 day 17 hr 9 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-01-08 |
 | [Front 2 Back](https://open.spotify.com/track/7kbx13BGzXx2sfA31lmuGt) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Front 2 Back](https://open.spotify.com/album/3jiI4TNKBr9U6GXAECxWAR) | 2:20 | 2022-07-10 | 2022-07-16 |
 | [Galerie](https://open.spotify.com/track/2SSCtasL6H9ckzCJAlBcgW) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:45 | 2021-11-14 | 2021-11-14 |
+| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-13 |
 | [Geen Tranen Meer Over](https://open.spotify.com/track/1SBBqkpgv93ITwS6tf7DGm) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [SOS](https://open.spotify.com/album/34s3r2WEBHHFpeivyjsXac) | 3:18 | 2022-08-26 |  |
 | [Geen Tranen Meer Over](https://open.spotify.com/track/4V2eYSKckdvIbb3t20K3ga) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Geen Tranen Meer Over](https://open.spotify.com/album/6H3SqoeRWd16mbKQYOdKEW) | 3:18 | 2022-07-02 | 2022-08-27 |
@@ -514,7 +515,7 @@
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2022-07-23 | 2022-07-27 |
 | [PETETE](https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [PETETE](https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk) | 2:03 | 2022-07-30 |  |
 | [Petrouchka \(feat\. PLK\)](https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Avec le temps](https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8) | 3:09 | 2021-06-07 | 2021-10-20 |
-| [Peur \(feat\. Ziak\)](https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Peur \(feat\. Ziak\)](https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR) | 3:10 | 2022-09-27 |  |
+| [Peur \(feat\. Ziak\)](https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Peur \(feat\. Ziak\)](https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR) | 3:10 | 2022-09-27 | 2022-10-01 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-08-22 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/2VOfPkpiJctQYXVYfnp0X8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:14 | 2022-07-30 | 2022-08-01 |

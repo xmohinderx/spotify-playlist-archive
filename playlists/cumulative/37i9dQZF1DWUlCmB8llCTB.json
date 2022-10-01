@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Esto es un perreo a lo Rauw Alejandro y Baby Rasta.",
+  "description": "Esto es un perreo a lo Wisin & Yandel.",
   "name": "Perreo City",
   "published_playlist_ids": [
     "7slpjtiTF4amPLODArmLYt"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 164081,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/4xUoT1ufPfYu6GHzZ0AlLW"
@@ -357,6 +357,28 @@
       "duration_ms": 175317,
       "name": "AUTOM\u00c1TICO",
       "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
+    },
+    {
+      "album": {
+        "name": "Avemar\u00eda",
+        "url": "https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Avemar\u00eda",
+      "url": "https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv"
     },
     {
       "album": {
@@ -401,7 +423,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 175058,
       "name": "Bad Bichi",
       "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
@@ -2411,7 +2433,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 157215,
       "name": "Gulag",
       "url": "https://open.spotify.com/track/38VYSJnRnFHP1THB7k68My"
@@ -3881,7 +3903,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 252162,
       "name": "Mojando Asientos (feat. Feid)",
       "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
@@ -4774,6 +4796,28 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193574,
+      "name": "Party y Alcohol",
+      "url": "https://open.spotify.com/track/19Z5rP5UdeIGKHjqlh1ZdP"
+    },
+    {
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
       },
@@ -4853,7 +4897,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 220000,
       "name": "PERDON TOI EN DINERO",
       "url": "https://open.spotify.com/track/2d75kmyVQm1L7Lasq0Hdkz"
@@ -4937,7 +4981,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185136,
       "name": "perreo sad",
       "url": "https://open.spotify.com/track/1cze6kBI1UeQL8xvjyNOwm"
@@ -5359,7 +5403,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 164000,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/0dDjwXEwklHwPI8hb6MvvT"
@@ -5459,6 +5503,36 @@
       "duration_ms": 209840,
       "name": "Qu\u00e9 Me Cont\u00e1s",
       "url": "https://open.spotify.com/track/3tyl9sCGLh17nDtZo73Lrz"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Rico (feat. El Clooy) [Remix]",
+        "url": "https://open.spotify.com/album/0MPj6gzF6jNWOZLHmqMWtk"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Qu\u00e9 Rico (feat. El Clooy) - Remix",
+      "url": "https://open.spotify.com/track/53fQfzienlCQks52Bztdpt"
     },
     {
       "album": {
@@ -5914,6 +5988,24 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176241,
+      "name": "Se Vuelve Loca",
+      "url": "https://open.spotify.com/track/4DLbHF8lYhpW7QBFROWxel"
+    },
+    {
+      "album": {
         "name": "Sensual Beb\u00e9",
         "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
       },
@@ -5925,7 +6017,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 209146,
       "name": "Sensual Beb\u00e9",
       "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
@@ -6732,6 +6824,32 @@
     },
     {
       "album": {
+        "name": "De Camino a Palomino, Vol. 2",
+        "url": "https://open.spotify.com/album/5HHEUcChwJwMKrJdsiZyn1"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Mequi",
+          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
+        },
+        {
+          "name": "Eliot El Mago De Oz",
+          "url": "https://open.spotify.com/artist/0Bpb2S11JuS29kTnevW2xE"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196489,
+      "name": "Una Rosa",
+      "url": "https://open.spotify.com/track/0mRWlO0dZkgtTU02L2rHzp"
+    },
+    {
+      "album": {
         "name": "Unfollow",
         "url": "https://open.spotify.com/album/7kZP9XNkAgcKMqhXWZG4PB"
       },
@@ -6791,6 +6909,54 @@
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208894,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/4yXBfJAPsDZjpjMEp9NyjT"
+    },
+    {
+      "album": {
+        "name": "VENENO",
+        "url": "https://open.spotify.com/album/0GGBTQC4nVLYK7flDA6qEa"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181230,
+      "name": "VENENO",
+      "url": "https://open.spotify.com/track/3Qqx9pfjWgSdOehoHqKey9"
     },
     {
       "album": {

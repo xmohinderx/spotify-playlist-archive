@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Mitraz
 
-115 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+116 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 | 2022-07-15 | 2022-09-02 |
 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 | 2022-05-20 | 2022-07-16 |
 | [Han Solo](https://open.spotify.com/track/5fEWssyFXJtHrZNSVy3g8x) | [Nirob Islam](https://open.spotify.com/artist/6sXDsB4h2hPUWIFk3XF5v3) | [Han Solo](https://open.spotify.com/album/6NUpzdz7cNml8DjZ1ALIva) | 2:48 | 2022-05-20 | 2022-09-02 |
+| [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-09-30 |  |
 | [HUM](https://open.spotify.com/track/5KA3Z4EJI3qM7S3tMee6Mj) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [HUM](https://open.spotify.com/album/1CgDmthgQr99ZlJEwDpCft) | 3:23 | 2022-07-15 | 2022-09-02 |
 | [I Could Save You](https://open.spotify.com/track/6itdaQh0oR32nRC5gcpP8q) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Bahu](https://open.spotify.com/album/6qwGQgm99tnKU2tJ7qEB4y) | 2:47 | 2022-09-01 |  |
 | [Ishq Di Chaawaan](https://open.spotify.com/track/32QciyqHLkDbIfSMwZ4vaF) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/3wCkTerpj85FLiecQwQnsJ) | 3:45 | 2022-05-20 |  |

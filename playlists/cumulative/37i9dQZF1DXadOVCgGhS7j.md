@@ -4,10 +4,11 @@
 
 > Put a spring in your step with these mood boosting tracks.
 
-139 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/5WfbzNnYUEdavIs2y7YL9x)
+140 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/5WfbzNnYUEdavIs2y7YL9x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2022-09-30 |  |
 | [A Little More](https://open.spotify.com/track/5y20ik4oFXCIg1santQtWl) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Pure Fiction](https://open.spotify.com/album/451WScawJZh2hk4k7pokZX) | 3:16 | 2021-03-30 | 2022-07-21 |
 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 | 2022-03-24 |  |
 | [Ain't No Other Man](https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:48 | 2022-01-21 | 2022-04-19 |
@@ -79,7 +80,7 @@
 | [Kiss Somebody](https://open.spotify.com/track/17XU1PTSv4OfcBUE8rNYWm) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Kiss Somebody](https://open.spotify.com/album/3irowXEVy9J7eOsdbRInIh) | 2:18 | 2021-03-30 | 2022-06-02 |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 | 2022-05-12 | 2022-08-13 |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:50 | 2021-12-20 | 2022-07-29 |
-| [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2022-08-12 |  |
+| [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2022-08-12 | 2022-10-01 |
 | [Let Me Love You \(feat\. Chris Crone\)](https://open.spotify.com/track/2jfCy43LsFbCQoB6HyetlY) | [SJUR](https://open.spotify.com/artist/1X6dfPmF8f5C5EW3WIGfvm), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Let Me Love You \(feat\. Chris Crone\)](https://open.spotify.com/album/6Lmx4sQJ4lUrXxY64X4oeu) | 3:28 | 2022-03-24 | 2022-04-21 |
 | [Levels \- Radio Edit](https://open.spotify.com/track/0JhKJg5ejeQ8jq89UQtnw8) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/4mkvtXQd6rD7zuAHhexEvb) | 3:19 | 2022-03-24 | 2022-04-21 |
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2022-05-12 |  |

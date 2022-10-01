@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Joya Mooi
 
-238 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+239 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [More Than Ever](https://open.spotify.com/track/3llTnIKQXVYxnLD4K7jXXv) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Blossom Carefully](https://open.spotify.com/album/0jvOSPYrrocMcLui4thzZ5) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [More Than Love](https://open.spotify.com/track/71iTdpLIixnRQOgxA4KXlP) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [What's After 'I Love You?'](https://open.spotify.com/album/1zMntRNN2McM6cuN4RQM48) | 3:32 | 2022-03-10 |  |
 | [Morning Blue](https://open.spotify.com/track/08wigkZrr1UjIXoTA1TQSc) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue](https://open.spotify.com/album/2gsW55Onj8vkcyXSPlu8bf) | 3:54 | 2021-12-16 | 2022-02-25 |
-| [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 | 2021-12-16 |  |
+| [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 | 2021-12-16 | 2022-10-01 |
 | [Move](https://open.spotify.com/track/6AjQWeiO9fjbdst7QZeYDG) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Move](https://open.spotify.com/album/1d5iWv8O3gUHAuUf51OaED) | 3:32 | 2021-12-16 |  |
 | [Mystic Lover](https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH) | [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Mystic Lover](https://open.spotify.com/album/6NUcMrmhoAIwvO0kAhk6Rt) | 3:55 | 2021-12-16 | 2022-02-11 |
 | [Never Let Me Go](https://open.spotify.com/track/4zwbn8nmwsKR67EdRSaIU5) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Magic 8ball](https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5) | 2:48 | 2021-12-16 | 2022-04-09 |
@@ -213,6 +213,7 @@
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2021-12-16 |  |
 | [Sunrise](https://open.spotify.com/track/76VbFUE4gxXiaMd1uWwJCv) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Sunrise](https://open.spotify.com/album/1zKmFpEW0oj8qy5mvnUyBb) | 3:18 | 2022-04-28 | 2022-07-07 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-14 |  |
+| [Sunwaves](https://open.spotify.com/track/7sje70FdAxpVSI106q51yf) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner \(Side A\)](https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84) | 2:43 | 2022-09-30 |  |
 | [Super Bounce](https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:38 | 2021-12-16 | 2022-02-11 |
 | [Superstar](https://open.spotify.com/track/3c46fXVjVArsPheex1R7AI) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J), [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [Superstar](https://open.spotify.com/album/7EWhJMY64EezShQPMD2zf4) | 2:57 | 2021-12-16 |  |
 | [Take Care of You \(feat\. King Princess, Amaarae & Meshell Ndegeocello\) \- Remix](https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [ALPHA \(Deluxe\)](https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL) | 3:34 | 2021-12-16 |  |

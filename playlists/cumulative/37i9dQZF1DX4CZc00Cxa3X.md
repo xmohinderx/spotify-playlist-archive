@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-145 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+146 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,13 @@
 | [Dewey](https://open.spotify.com/track/0KXPPU4wKaVOzHtASPzyGg) | [Picnic](https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo) | [Picnic](https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE) | 4:54 | 2022-05-25 |  |
 | [Distance](https://open.spotify.com/track/2vHF644TPOyDF9lQSgTVzr) | [Pepo Galan](https://open.spotify.com/artist/18NAfV3NJPeHDvA2mjwh6K), [Sita Ostheimer](https://open.spotify.com/artist/2euah4M3KphCCZalnxQw4Y) | [Contact](https://open.spotify.com/album/7hTymFxCiU5SbCGeeGcAvi) | 2:50 | 2022-03-17 | 2022-07-28 |
 | [distorted memories](https://open.spotify.com/track/2QJEVdIX5xuBGrDSpPjocC) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [distorted memories](https://open.spotify.com/album/38VmHqpsur9blTgwtjg5VF) | 1:50 | 2022-07-08 |  |
+| [Dive In : Dive Out](https://open.spotify.com/track/3c9geGzOBDEgOwv9YbtjAb) | [Loris S\. Sarid](https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl) | [Seabed\-Sunbath](https://open.spotify.com/album/5dazs6Z7DynTPgZVRR4X4J) | 3:46 | 2022-09-30 |  |
 | [Doubled Flutes](https://open.spotify.com/track/31WhK6qzj9WmsVa46XROQR) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 2:17 | 2022-03-17 |  |
 | [Dragged by the Hand](https://open.spotify.com/track/5f8sbbWtGlVnMq7NdZSllo) | [Mutes](https://open.spotify.com/artist/52mqrsNlDf6CVhB6XJ6LHf) | [Dreams of Being Cornered](https://open.spotify.com/album/6zMCRZbdkAeiJTE3tZSmja) | 3:06 | 2022-08-19 |  |
 | [Drift](https://open.spotify.com/track/3X6Fyt7NXiZ0TUA2bf4iVK) | [Soon](https://open.spotify.com/artist/7LgtfPE5jpsqOCFrOi0x6t), [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC) | [Drift](https://open.spotify.com/album/3IMm9U6V9tD0EPe9RyyfUQ) | 4:32 | 2022-03-17 | 2022-09-21 |
 | [Droplet](https://open.spotify.com/track/6U3nADxIr8sshiUnXe9w6L) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Ancient Pathways](https://open.spotify.com/album/4lLj4XS2JmaScVyp2DElvc) | 4:28 | 2022-03-17 | 2022-07-29 |
 | [Dysbarism](https://open.spotify.com/track/6waGjqgqcV92Jwnm45Qua8) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [OFFAIR: Mouthful of Salt](https://open.spotify.com/album/6RAaQ6MCrDuyugGMiDFCTF) | 2:10 | 2022-09-12 |  |
-| [Easter](https://open.spotify.com/track/2vNQxUNCzkSwRlOD9UKcnW) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg) | [Entanglement](https://open.spotify.com/album/4FN58DPGKCKisIpqEmu7av) | 5:24 | 2022-03-30 |  |
+| [Easter](https://open.spotify.com/track/2vNQxUNCzkSwRlOD9UKcnW) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg) | [Entanglement](https://open.spotify.com/album/4FN58DPGKCKisIpqEmu7av) | 5:24 | 2022-03-30 | 2022-10-01 |
 | [El Bosque Animado](https://open.spotify.com/track/1J6q1Iu5URtTm2DMIOrM7R) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Home Normal](https://open.spotify.com/album/2oiQ6Ck93DZDl9DHDOqpS1) | 5:03 | 2022-03-17 | 2022-07-29 |
 | [Eloy](https://open.spotify.com/track/3kN5BsC4W7Fl4fcxib98na) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 2:15 | 2022-07-08 |  |
 | [Fabric](https://open.spotify.com/track/4WfJ9UMh4HBaQzzHbZyTKs) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/0Hb2ZHVdAcxal70BtzHOXL) | 6:06 | 2022-03-17 | 2022-07-27 |

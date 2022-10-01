@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-278 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
+279 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/56MimGQfv13ynX1TQdHFIl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Hold On, We're Going Home](https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Spotify Sessions](https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv) | 4:26 | 2021-11-12 | 2022-05-28 |
 | [Holy](https://open.spotify.com/track/0aDV1K6H1n70QP7eTsRr7X) | [Peter Gergely](https://open.spotify.com/artist/1rM7GiyPW7mPqDTtLfXRoZ) | [Holy](https://open.spotify.com/album/3qFp6XPCDhTLShKrbtH2Ot) | 2:40 | 2022-07-27 |  |
 | [Holy](https://open.spotify.com/track/3ZVg92J1sYzjrhoA5rkc5c) | [Peter Gergely](https://open.spotify.com/artist/1rM7GiyPW7mPqDTtLfXRoZ) | [Holy](https://open.spotify.com/album/3535jlhZZZGK7Q2sBoUBLF) | 2:40 | 2021-11-12 | 2022-07-29 |
-| [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 | 2022-07-27 |  |
+| [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 | 2022-07-27 | 2022-10-01 |
 | [Home / Dirty Paws](https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn) | 2:53 | 2021-11-12 | 2022-07-29 |
 | [How's It Going to Be](https://open.spotify.com/track/5j4zV7vxT2mbLrOOpyC95d) | [Jack and White](https://open.spotify.com/artist/2U5RgZDZdAR13tX6yivvRy), [Brooke White](https://open.spotify.com/artist/1feuQE7d9izI54MoL5Lc7t) | [Undercover](https://open.spotify.com/album/7iq1vJH3Ch9NORI4IfazEU) | 4:02 | 2021-11-12 |  |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:04 | 2022-07-27 |  |
@@ -180,6 +180,7 @@
 | [Moon River](https://open.spotify.com/track/6MbITmnWbLYhQzcLBVFAs3) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Moon River](https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5) | 2:37 | 2022-05-27 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Mr\. Brightside](https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp) | 4:32 | 2021-11-12 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 | 2022-07-27 |  |
+| [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/351445Kofxc3BN2T27beOv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ) | 4:11 | 2022-09-30 |  |
 | [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 | 2022-07-27 |  |
 | [My City of Ruins](https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:16 | 2021-11-12 | 2022-07-29 |
 | [My Love / Hotline Bling](https://open.spotify.com/track/304Fl0f56eyOYyFum3TN9X) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [My Love / Hotline Bling](https://open.spotify.com/album/3di81g6eNLDd2pK0QYScJy) | 3:22 | 2021-11-12 | 2022-07-29 |

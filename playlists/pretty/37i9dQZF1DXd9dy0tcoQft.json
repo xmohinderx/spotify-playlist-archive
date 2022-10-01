@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 11196,
+  "num_followers": 11202,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMDgwNTlmODNkY2QwNGZkYjRhYTBmMzcyMjA4ZWU0NjM2",
+  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMDI2NDgwNWRhZjM4NmQ1NzFjNzE4OTk0ZGI2OThkY2Rm",
   "tracks": [
     {
       "added_at": "2022-05-20 11:08:57",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 151913,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "L.A.B III",
         "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 252680,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 151913,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 225000,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI"
-      },
-      "artists": [
-        {
-          "name": "Ast\u00e8r Fekre",
-          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
-        }
-      ],
-      "duration_ms": 306597,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Tascam Tapes",
         "url": "https://open.spotify.com/album/43LoWypu3rYrv2TuJmxxaT"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 204173,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e8r Fekre",
+          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
+        }
+      ],
+      "duration_ms": 306597,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Somewhere In-Between",
+        "url": "https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1CQlDfBet6ji4BT8EkrvY6"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "If You Want Me To Stay (with Anthony Ramos)",
         "url": "https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 187605,
       "name": "If You Want Me To Stay (with Anthony Ramos)",
       "url": "https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Somewhere In-Between",
-        "url": "https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1CQlDfBet6ji4BT8EkrvY6"
     },
     {
       "added_at": "2022-05-20 11:08:57",

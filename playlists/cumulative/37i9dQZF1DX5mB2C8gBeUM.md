@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Levi Hummon
 
-274 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+275 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Room to Dream](https://open.spotify.com/track/2yzKdZZCEQM9LCNBamNmvC) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/3VEYJ68XnBWjndfdR9uL0V) | 3:07 | 2021-12-10 | 2022-08-05 |
 | [Room to Dream](https://open.spotify.com/track/3ZvP5XbLElIdeYVerFZ1U4) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/759rhQI6Tgbkd9Ss4Sm81e) | 3:07 | 2022-08-01 |  |
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 |  |
+| [Say It Again](https://open.spotify.com/track/3QP4KQ74RjP3ziiAkeLqcO) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [Say It Again](https://open.spotify.com/album/30JoxMW7toDvE90C2nyCtv) | 3:07 | 2022-09-30 |  |
 | [Say It First](https://open.spotify.com/track/7hKcJWiTSQ5C7DswfkJKIa) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:20 | 2022-02-11 |  |
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-05-13 |  |
 | [She Ain't](https://open.spotify.com/track/6me4kri7ccTesxEQzRMRXa) | [Seth Alley](https://open.spotify.com/artist/03iUAGyJwZiIhAF6PcSoxt) | [She Ain't](https://open.spotify.com/album/2REjfGJcn53lxTZI2VlJpS) | 2:50 | 2021-12-10 | 2022-02-26 |

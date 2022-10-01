@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-200 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+201 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 | 2021-12-10 | 2022-07-29 |
 | [Here I Am](https://open.spotify.com/track/2yVhdgjCt0T2keTR1YlKEp) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Born In Babylon](https://open.spotify.com/album/0iWAzOU9mbH3m6b07F90G1) | 4:48 | 2022-07-06 |  |
 | [Hero](https://open.spotify.com/track/05rxJmgQwyYb0asCN6zOhq) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Hero](https://open.spotify.com/album/5ZimltcH4HJiRmNnjzxRpv) | 3:33 | 2021-12-10 | 2022-07-29 |
+| [Highshool Steady \- Kaua'i Mix](https://open.spotify.com/track/7ImUgqoBEVQAtgcE5uSMA3) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Highschool Steady \(Kaua'i Mix\)](https://open.spotify.com/album/6o0PdTPgscYKvGIisY9GFH) | 3:39 | 2022-09-30 |  |
 | [I Got You](https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/61427AKV7p3p30uvrniI4L) | 2:59 | 2022-07-06 |  |
 | [I Got You](https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Work Hard and Be Nice](https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR) | 3:36 | 2022-07-06 |  |
 | [I Got You](https://open.spotify.com/track/7bBNJRLEbYnInGy4NLJbu0) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [I Got You](https://open.spotify.com/album/0E6Qi1wdhj9q0sL5G8PYqR) | 3:36 | 2021-12-10 | 2022-07-29 |
@@ -127,7 +128,7 @@
 | [Not The End](https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE) | [4th & Orange](https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf) | [Not The End](https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR) | 2:50 | 2021-12-10 | 2022-07-01 |
 | [Ocean Eyes](https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y) | [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [Ocean Eyes](https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph) | 3:22 | 2021-12-10 |  |
 | [Old School Feeling](https://open.spotify.com/track/54GuCaNBEr3dcPAZq4SNkB) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Old School Feeling](https://open.spotify.com/album/6BsIV30xUdK2QDmP9UdYO7) | 3:56 | 2021-12-10 | 2022-07-29 |
-| [On & On \(with Iration\)](https://open.spotify.com/track/56XNpU7rDh8fUShQR7BXtO) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [On & On \(with Iration\)](https://open.spotify.com/album/26s88nuixgzDosdvHyr4AO) | 4:15 | 2022-06-14 |  |
+| [On & On \(with Iration\)](https://open.spotify.com/track/56XNpU7rDh8fUShQR7BXtO) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [On & On \(with Iration\)](https://open.spotify.com/album/26s88nuixgzDosdvHyr4AO) | 4:15 | 2022-06-14 | 2022-10-01 |
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2022-07-06 |  |
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-06-14 |  |
 | [Owens Brothers](https://open.spotify.com/track/2v38O2Stv1CLj53lciMWBS) | [Long Beach Dub Allstars](https://open.spotify.com/artist/3zAxGWQqKmDnAsCY57ihKR) | [Long Beach Dub Allstars](https://open.spotify.com/album/4L6AiGTFKz1l0ACGtNeRew) | 3:15 | 2021-12-10 | 2022-08-30 |

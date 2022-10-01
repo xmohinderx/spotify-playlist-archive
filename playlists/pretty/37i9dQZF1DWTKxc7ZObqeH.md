@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing Jazz on a warm summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,339 likes - 156 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,363 likes - 156 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 75 | [How I Sing](https://open.spotify.com/track/77eZBHfUgVSPqatPpsdY1m) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [How I Sing](https://open.spotify.com/album/3MjBszHfA4TdioPXyDoKR4) | 3:36 |
 | 76 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 |
 | 77 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5aiwRlBHsL5Gq6qCdPAFzM) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 6:00 |
-| 78 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/5skmZMK4GOD729sJ1YeuLl) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 3:51 |
+| 78 | [Girl From Ipanema](https://open.spotify.com/track/352nageWZMwwi1rIidMzdJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 3:53 |
 | 79 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 |
 | 80 | [Someone To Watch Over Me](https://open.spotify.com/track/3Gcpi1CwKoQtc8B3H2ZOIX) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Lee Konitz Meets Jimmy Giuffre](https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs) | 3:36 |
 | 81 | [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 102 | [I Loves You, Porgy](https://open.spotify.com/track/4vDwDzzYGKylT26VE53elE) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [I Loves You, Porgy](https://open.spotify.com/album/6qVDn32CzWKFsB9NdBkcJO) | 5:23 |
 | 103 | [You Turned The Tables On Me](https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 2:59 |
 | 104 | [Stardust](https://open.spotify.com/track/7FeEoTg5tsJtTc8fu0PjDf) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 8:23 |
-| 105 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 |
+| 105 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 |
 | 106 | [Long Ago \(and Far Away\)](https://open.spotify.com/track/3TiEf1n50RsKFERybqGm2s) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:29 |
 | 107 | [Clouds \- 24\-Bit Mastering](https://open.spotify.com/track/65lfucKzmFE6YkXuXE5nt5) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [The Bossa Rio Sextet](https://open.spotify.com/artist/3z0bbBil34Ab1kL9t3o8S4) | [Cannonball's Bossa Nova](https://open.spotify.com/album/1TNOffWopiUF7z4WJGWWkI) | 4:51 |
 | 108 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 155 | [I'm An Old Cowhand](https://open.spotify.com/track/1HBrYLUou9PbQDp91wVA9f) | [The Josh Rogers Band](https://open.spotify.com/artist/4zfTyFGyjLJd9vAbxqTuNg) | [Love Letters](https://open.spotify.com/album/6f6WVUeFK2hnBn7TfefGWJ) | 2:23 |
 | 156 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 |
 
-Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMDA3MGIxMTYxMjg1YjI2NTAwMWRiMGFmMjZhNTk3Yzlh`
+Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMDNiMDQyN2RmNWNkYzQ3MDVkYzEwYzMxY2Q1OWRhYmI5`

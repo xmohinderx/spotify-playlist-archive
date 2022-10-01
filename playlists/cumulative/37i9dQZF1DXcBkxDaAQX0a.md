@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-251 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+252 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Don't Lay Me Down](https://open.spotify.com/track/6blzEahcUbDImWbP7EomAW) | [Jim Lindberg](https://open.spotify.com/artist/3a6waCdlpb0EwJi1PHP5vg) | [Songs from the Elkhorn Trail](https://open.spotify.com/album/6UnogU1fnJcncg9xHuosmv) | 3:22 | 2022-04-04 | 2022-04-21 |
 | [Don't Walk Away](https://open.spotify.com/track/2gfCCFoVM4ERkoVGVDNnw1) | [Mike Herrera](https://open.spotify.com/artist/6CoS5eAPJErSSTyEsWcJOp) | [Don't Walk Away](https://open.spotify.com/album/5XDGPFrJjCO6i4WeJDRb05) | 3:22 | 2022-04-04 | 2022-04-21 |
 | [Down for the Ride](https://open.spotify.com/track/5m4FRZfAgAf5YCN8T7C3rN) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Jessie Abbey](https://open.spotify.com/artist/4CBfoF9c6LRT464xfoQe1V) | [Revision](https://open.spotify.com/album/6e9d2TheUtdGOkDXmyx31h) | 4:58 | 2021-02-08 | 2022-07-29 |
-| [Down for the Ride](https://open.spotify.com/track/3StdQf9neW5XYw1cQOVq0j) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU), [Jessie Abbey](https://open.spotify.com/artist/4CBfoF9c6LRT464xfoQe1V) | [Revision](https://open.spotify.com/album/2GgNLsLfmPMKseIhslzMFG) | 4:58 | 2022-04-04 |  |
+| [Down for the Ride](https://open.spotify.com/track/3StdQf9neW5XYw1cQOVq0j) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU), [Jessie Abbey](https://open.spotify.com/artist/4CBfoF9c6LRT464xfoQe1V) | [Revision](https://open.spotify.com/album/2GgNLsLfmPMKseIhslzMFG) | 4:58 | 2022-04-04 | 2022-10-01 |
 | [Down Through](https://open.spotify.com/track/0YCwiFdDBzZJ7DtOBhCBfi) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Down Through](https://open.spotify.com/album/6iBcKPThGr6j70OPGoJ79s) | 4:35 | 2021-02-08 | 2022-04-17 |
 | [Downcast \- Acoustic](https://open.spotify.com/track/6NyUmmBBSplZwglwfEMSAD) | [Letdown](https://open.spotify.com/artist/65Fz4UMimsdL2ktdDOLpej) | [Gone Soft, Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/6nQtH9DeMoOftkThGUULRz) | 3:01 | 2022-04-04 | 2022-04-21 |
 | [Downtown \(Up North\)](https://open.spotify.com/track/6Veo9O3o0lFRDqHL03AGY7) | [William Ryan Key](https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE) | [Virtue](https://open.spotify.com/album/31yuSCo1TGv8PXEAMqsjJt) | 4:00 | 2021-02-08 | 2022-07-28 |
@@ -138,6 +138,7 @@
 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 | 2022-04-04 |  |
 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/4rhbREgJQLpWVZIZDMKeSW) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/6FtJVjZo2m1nsw3d8QyDAC) | 3:47 | 2021-02-08 | 2022-07-25 |
 | [Last To Know \- From Exile](https://open.spotify.com/track/3iAD6IOJ4F2A0zBMwLH7sE) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Last To Know \(From Exile\)](https://open.spotify.com/album/7hAjKbEPKBnH3PY18qwVPz) | 3:59 | 2021-02-08 | 2022-06-18 |
+| [Last To Know \- From Exile](https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [From Exile](https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9) | 3:59 | 2022-04-04 |  |
 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/021zb89IodxPOcPZheUwVl) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH) | 2:59 | 2021-02-08 |  |
 | [Light On](https://open.spotify.com/track/4QeuXQ7LKdRXo5o7C6al6S) | [Last Night Saved My Life](https://open.spotify.com/artist/0AcQzV75nMVCmChGNyGzPH) | [Light On](https://open.spotify.com/album/0shoi18L4d6jBsFyTs29d2) | 3:45 | 2021-02-08 | 2022-07-17 |
 | [Lights Out](https://open.spotify.com/track/0BoNR72JDBcH7b9v1WpD3D) | [Mike Herrera](https://open.spotify.com/artist/6CoS5eAPJErSSTyEsWcJOp) | [Lights Out](https://open.spotify.com/album/1iu23Ehsxrift5PGUtrPt8) | 3:16 | 2022-04-04 | 2022-04-19 |

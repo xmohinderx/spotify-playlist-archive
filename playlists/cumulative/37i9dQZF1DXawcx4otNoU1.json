@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/6CLVh9sekZ1p2G8Tfhhj8h"
+    },
+    {
+      "album": {
         "name": "Glasshouse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
       },
@@ -221,6 +239,32 @@
       "duration_ms": 190779,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
+    },
+    {
+      "album": {
+        "name": "The Bedroom Tour Playlist",
+        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
+      },
+      "artists": [
+        {
+          "name": "Niykee Heaton",
+          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245722,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
     },
     {
       "album": {
@@ -1182,6 +1226,28 @@
     },
     {
       "album": {
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277297,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
+    },
+    {
+      "album": {
         "name": "Air: Aquarius' Songs",
         "url": "https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk"
       },
@@ -1691,7 +1757,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185428,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/4vNKn8JtZrcwn7aR3x1unv"
@@ -1757,7 +1823,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 241066,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
@@ -2438,6 +2504,28 @@
     },
     {
       "album": {
+        "name": "lovely (with Khalid)",
+        "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200185,
+      "name": "lovely (with Khalid)",
+      "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
+    },
+    {
+      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -2611,7 +2699,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 171807,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4xhDwG2mnp3YqgfV0JKYcD"
@@ -2759,7 +2847,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 156631,
       "name": "Need Luv",
       "url": "https://open.spotify.com/track/3Jiwk6k8VfEyVreUDIJYre"
@@ -3001,6 +3089,32 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "album": {
+        "name": "OTW",
+        "url": "https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263013,
+      "name": "OTW",
+      "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
     },
     {
       "album": {
@@ -3592,6 +3706,24 @@
     },
     {
       "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197854,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
+    },
+    {
+      "album": {
         "name": "So Close To Magic",
         "url": "https://open.spotify.com/album/4TBOy4iyBHKF7fLQQKucWL"
       },
@@ -3643,7 +3775,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 194634,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/71RHfbbUVoYNKNFtRomycM"
@@ -3849,7 +3981,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"

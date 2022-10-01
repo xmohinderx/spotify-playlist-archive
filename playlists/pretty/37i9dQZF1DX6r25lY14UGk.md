@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,256 likes - 106 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,261 likes - 106 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 6 | [PJs All Day](https://open.spotify.com/track/4HVli0VNf13JmmgkC2p2x6) | [The Oot n' oots](https://open.spotify.com/artist/4r7I9e1YST7G7EY8C2qnoK) | [Ponderosa Bunchgrass and the Golden Rule](https://open.spotify.com/album/4KLLD8QW7MrYVJpMlObyg9) | 2:52 |
 | 7 | [Goin' To A Birthday](https://open.spotify.com/track/2rtz0CHDt2RwOYqXBwDqN6) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Goin' To A Birthday](https://open.spotify.com/album/5IRiwsbsT3p0lj2GenF7q8) | 2:47 |
 | 8 | [Disco Rain](https://open.spotify.com/track/20twtF2MePkY2WF9qdD3bd) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Let It Out!](https://open.spotify.com/album/2SXHp5cFcwno6SDKJ2gL9p) | 2:44 |
-| 9 | [Elevator](https://open.spotify.com/track/0RZHkbz1VCfWfKIzdirQI0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/5T5kQhE6o4QClLQUOVrs38) | 2:58 |
+| 9 | [Elevator](https://open.spotify.com/track/0nyEzNpnp8Vn2uoMQsNrgT) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/3gNNCz0Zlz4oWgb1w2SxVp) | 2:58 |
 | 10 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 |
 | 11 | [Happy](https://open.spotify.com/track/5V3T4m5Ak4wjfON9SekdYE) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [A Colorful World](https://open.spotify.com/album/3rjX6PHBw0KW8aqhxxQXfc) | 3:02 |
 | 12 | [You Are Magic](https://open.spotify.com/track/5c2pIV0J5Jn7NtYfxYOHN1) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/1iBE3NdOlXJA9NUaAUD685) | 3:44 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 105 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 106 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MTY2NDMxMzc2NiwwMDAwMDAwMGNiM2NjNGY4NGZmY2FlMDFjNjAyM2RhZmJiYjJkOTll`
+Snapshot ID: `MTY2NDMxMzc2NiwwMDAwMDAwMGVlYjY3NmYxYWY4MGFhYjNmZDBhN2FhYTFlYzk5YzNj`

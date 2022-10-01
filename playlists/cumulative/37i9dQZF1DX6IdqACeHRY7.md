@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-334 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/1yDl9PUnuyK8nMQ2AIrRVP)
+335 songs - 19 hr 36 min - [published](https://open.spotify.com/playlist/1yDl9PUnuyK8nMQ2AIrRVP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Take You Home](https://open.spotify.com/track/6V7dNVUExZ1z1TCHYxLrHg) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Take You Home](https://open.spotify.com/album/235t3rItvh7FSrtI2SuEUG) | 3:13 | 2020-10-20 | 2022-07-29 |
 | [Tell Me in the Morning](https://open.spotify.com/track/5OdtwysZszMXcujVwscqeo) | [FOURS](https://open.spotify.com/artist/2O96kas7AXED9RLiOWvrpY) | [Tell Me in the Morning](https://open.spotify.com/album/7l2LeqaDZcQr4A8EvkXSQm) | 3:37 | 2021-05-23 | 2022-07-18 |
 | [The Best You Had \- Acoustic Version](https://open.spotify.com/track/1JyMinaImPlBCH0bnJ1v4S) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Best You Had \(Acoustic Version\)](https://open.spotify.com/album/6yFL3sjNVHjub7EmAFcq8R) | 3:18 | 2020-10-20 | 2022-07-29 |
+| [The Best You Had \- Acoustic Version](https://open.spotify.com/track/3DUuf2LE8BBuWZUFuwFGkf) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall](https://open.spotify.com/album/4Wi489dcX4owpM21EcKKz7) | 3:19 | 2022-09-09 |  |
 | [The Few Things](https://open.spotify.com/track/7GajeLvMksa794ZEQXwRSy) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things](https://open.spotify.com/album/2G54TgvdPgeLZ8uRFYZNTk) | 3:31 | 2020-10-20 | 2022-07-15 |
 | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1) | 3:31 | 2022-05-09 |  |
 | [The First To Know](https://open.spotify.com/track/58YU87leZyFMLbqdhQyQva) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [The First To Know](https://open.spotify.com/album/63X0OJQvVHVKWfR52CEndw) | 3:03 | 2020-10-06\* | 2022-07-29 |
@@ -332,7 +333,7 @@
 | [Worst In Me](https://open.spotify.com/track/3rK43VNP0142Kbxt8nuAhD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/22aqlgX39cWQMWazg9qwuv) | 3:26 | 2021-05-22 | 2021-10-16 |
 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 | 2020-11-07 |  |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2020-11-07 | 2021-01-21 |
-| [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-09-09 |  |
+| [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-09-09 | 2022-10-01 |
 | [You Give Me Something](https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered \(International Version\)](https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ) | 3:33 | 2021-05-22 | 2022-07-07 |
 | [You Make It Real](https://open.spotify.com/track/5tTj367c98D4roNryoIhfN) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(EU Version\)](https://open.spotify.com/album/7A1mKWt3smgL4WiLap3sx2) | 3:31 | 2021-04-08 | 2022-07-29 |
 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 | 2022-05-09 |  |

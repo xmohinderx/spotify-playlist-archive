@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,311 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,326 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 |
-| 2 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
-| 3 | [Celle\-là](https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là](https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP) | 3:18 |
+| 2 | [Celle\-là](https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là](https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP) | 3:18 |
+| 3 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
 | 4 | [Boca Chica](https://open.spotify.com/track/2ULmbHcQT8YvW9IBHSZgjR) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage to Mars](https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP) | 2:57 |
 | 5 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 |
 | 6 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 101 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 |
 | 102 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGZiN2M5OGUwNjBkYmY5MjY3MWM4MThkMWRhYmViYmMz`
+Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMDIxZjc5NTMzMDA4Yjk2NGU1ZjZhZDZjODIyYmMyMjQ5`

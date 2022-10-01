@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 359429,
+  "num_followers": 359478,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMGIyM2U5NmExZTY0NzE3MTAwMDhmM2IyYTA0MDljMzVh",
+  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMDQ2YWFkMmUyZmZhYjI4OWUyODViZmEzMThlOWEyMTQw",
   "tracks": [
     {
       "added_at": "2022-08-31 07:28:39",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Spanish Grease",
-        "url": "https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Spanish Grease",
-      "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Omara Portuondo (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 223133,
       "name": "\u00bfD\u00f3nde estabas t\u00fa?",
       "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Spanish Grease",
+        "url": "https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Spanish Grease",
+      "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "En Medio Del Jard\u00edn",
-        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "En Medio Del Jard\u00edn",
-      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 185160,
       "name": "Mar Y Cielo",
       "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
+      },
+      "artists": [
+        {
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Cun Cun Pr\u00e1",
-        "url": "https://open.spotify.com/album/24UH0bSpSX7dikFJI9dE0v"
-      },
-      "artists": [
-        {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
-        }
-      ],
-      "duration_ms": 205285,
-      "name": "Cun Cun Pr\u00e1",
-      "url": "https://open.spotify.com/track/5cYUjVF8imi3J9Q6mu8ZoG"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Treinta D\u00edas",
         "url": "https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 189400,
       "name": "Monedita",
       "url": "https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Cun Cun Pr\u00e1",
+        "url": "https://open.spotify.com/album/24UH0bSpSX7dikFJI9dE0v"
+      },
+      "artists": [
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        }
+      ],
+      "duration_ms": 205285,
+      "name": "Cun Cun Pr\u00e1",
+      "url": "https://open.spotify.com/track/5cYUjVF8imi3J9Q6mu8ZoG"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Cookin' Gumbo",
-        "url": "https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 209672,
-      "name": "Speakin' Nuyorican",
-      "url": "https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "President Alien",
         "url": "https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 211586,
       "name": "Arturo Sandoval",
       "url": "https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Cookin' Gumbo",
+        "url": "https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 209672,
+      "name": "Speakin' Nuyorican",
+      "url": "https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Se\u00f1or Coconut / Around the World",
-        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
-      },
-      "artists": [
-        {
-          "name": "Atom TM",
-          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
-        }
-      ],
-      "duration_ms": 167497,
-      "name": "Around the World (Intro)",
-      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
-      },
-      "artists": [
-        {
-          "name": "KerreKe",
-          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Bailando Con Un Pie",
-      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Calentura: Global Bassment",
         "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
       },
@@ -1531,6 +1499,22 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
+      },
+      "artists": [
+        {
+          "name": "KerreKe",
+          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Bailando Con Un Pie",
+      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
         "name": "Jogando Capoiera / Cookin'",
         "url": "https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 410004,
       "name": "Jogando Capoiera",
       "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Se\u00f1or Coconut / Around the World",
+        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 167497,
+      "name": "Around the World (Intro)",
+      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "La Revancha Del Tango",
-        "url": "https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo"
-      },
-      "artists": [
-        {
-          "name": "Gotan Project",
-          "url": "https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Una M\u00fasica Brutal",
-      "url": "https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Songs From The Tin",
         "url": "https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 373133,
       "name": "Pra Manha",
       "url": "https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "La Revancha Del Tango",
+        "url": "https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo"
+      },
+      "artists": [
+        {
+          "name": "Gotan Project",
+          "url": "https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Una M\u00fasica Brutal",
+      "url": "https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1675,22 +1675,6 @@
       "duration_ms": 251830,
       "name": "El hombre que quiso ser canci\u00f3n",
       "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "The Now Sound of Ursula 1000",
-        "url": "https://open.spotify.com/album/5JG1oBh7qRFjWgtKtRmOCD"
-      },
-      "artists": [
-        {
-          "name": "Ursula 1000",
-          "url": "https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT"
-        }
-      ],
-      "duration_ms": 340946,
-      "name": "Mambo 1000",
-      "url": "https://open.spotify.com/track/3uXX1oen9kKJyRcDnuM97R"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1747,6 +1731,22 @@
       "duration_ms": 224826,
       "name": "Donde Est\u00e1",
       "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "El Bombo",
+        "url": "https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "El Bombo",
+      "url": "https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN"
     }
   ],
   "unique_name": "Latin Dinner",

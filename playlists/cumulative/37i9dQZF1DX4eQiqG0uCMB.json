@@ -1432,6 +1432,28 @@
     },
     {
       "album": {
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221399,
+      "name": "Live Life",
+      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+    },
+    {
+      "album": {
         "name": "LOML (feat. Olamide)",
         "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
       },
@@ -2522,6 +2544,24 @@
     },
     {
       "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/3tyZSkDg5L8sti6qwxrAs3"
+      },
+      "artists": [
+        {
+          "name": "WNDRSZN",
+          "url": "https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/2ljnYyH3utOWhdZkkty1dQ"
+    },
+    {
+      "album": {
         "name": "Toxic Love",
         "url": "https://open.spotify.com/album/1UFB4rx4pD2A93XxU1Ff5w"
       },
@@ -2567,6 +2607,24 @@
       "duration_ms": 384893,
       "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
       "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
+    },
+    {
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "Very Simple",
+      "url": "https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR"
     },
     {
       "album": {
@@ -2691,7 +2749,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 168000,
       "name": "What To Expect When Expecting",
       "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
@@ -2771,7 +2829,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192475,
       "name": "WITH YOU",
       "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
@@ -2841,7 +2899,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"

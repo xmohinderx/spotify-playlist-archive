@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Eve Dönüş Yok Çizim: Isu Kim
 
-241 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+242 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Hem Yolsun Hem Yolcu](https://open.spotify.com/track/50aIDp4gtML2B6T0PAvaZ6) | [Batu](https://open.spotify.com/artist/7vdtfmzMDEeIAJFyOCrVIi) | [Hem Yolsun Hem Yolcu](https://open.spotify.com/album/2xC90n6kAnHKUGZjUw3ZKJ) | 3:51 | 2021-12-03 | 2022-07-20 |
 | [Her Yerde Sen](https://open.spotify.com/track/4SZk2FiBheRSQXofYfTEWy) | [Uzay Böcekleri](https://open.spotify.com/artist/3vsVHHUAxsXyR6GyfA0jKU) | [Her Yerde Sen](https://open.spotify.com/album/1tKcKJkGdiY48xij9mqJR1) | 3:58 | 2021-12-03 | 2022-03-04 |
 | [Heyoka](https://open.spotify.com/track/26Kyw8T5KgNdFAmLUqqwtB) | [İlker Aksungar](https://open.spotify.com/artist/3nMYvC7EfdL3p4PHTConHc) | [Heyoka](https://open.spotify.com/album/3KGz4tGV5SBukZKZsYzzE7) | 1:47 | 2022-03-03 | 2022-04-16 |
-| [Hiç](https://open.spotify.com/track/7tPhHk1amwXmnZgVTYRSVr) | [Gomeisa](https://open.spotify.com/artist/6eSz2ZOZNvS6Y5fxnFbUiQ) | [Hiç](https://open.spotify.com/album/40ZKNfFQhoPRTPXvobdfJ4) | 3:48 | 2022-01-20 |  |
+| [Hiç](https://open.spotify.com/track/2HESkfktMQjThje1ulp58b) | [Gomeisa](https://open.spotify.com/artist/6eSz2ZOZNvS6Y5fxnFbUiQ) | [Hiç](https://open.spotify.com/album/4V1jYr9MUtps5qPAscz7zb) | 3:48 | 2022-09-20 |  |
+| [Hiç](https://open.spotify.com/track/7tPhHk1amwXmnZgVTYRSVr) | [Gomeisa](https://open.spotify.com/artist/6eSz2ZOZNvS6Y5fxnFbUiQ) | [Hiç](https://open.spotify.com/album/40ZKNfFQhoPRTPXvobdfJ4) | 3:48 | 2022-01-20 | 2022-10-01 |
 | [Hiç](https://open.spotify.com/track/0uGK36mFTNIV6lPXyhUQvG) | [Kiana](https://open.spotify.com/artist/4iwGzx87xeiMdiDDAumxxe) | [Hiç](https://open.spotify.com/album/4ZD8rlokKROEEuIeKAvwK0) | 4:27 | 2022-02-17 | 2022-03-18 |
 | [Hopeful](https://open.spotify.com/track/4uOlx1UopvipP3AhtLnqny) | [Ahsen Eroğlu](https://open.spotify.com/artist/4Da3MwrtMGo5r8hGNjFaRu), [Algan](https://open.spotify.com/artist/3gqoD5RHKtGxm8inzYf41g) | [Hopeful](https://open.spotify.com/album/30MeYc7peLfjCOmk9FNwTL) | 4:00 | 2022-04-01 |  |
 | [Hücre](https://open.spotify.com/track/0vBRgzFjzlCxfBnEAQi6mF) | [Mai Devran](https://open.spotify.com/artist/1d3JnRB284OJP64vtOYble) | [Hücre](https://open.spotify.com/album/5SUmGKb0pfK6WNNPyVt040) | 4:16 | 2022-01-19 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-174 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
+175 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2021-11-12 | 2022-07-29 |
 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 | 2021-11-12 |  |
 | [Golden](https://open.spotify.com/track/2WtZ0pGY93BnZfuGVenMb9) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden](https://open.spotify.com/album/3MnInies0fUg0hmzYwELpo) | 5:13 | 2021-11-12 | 2022-07-29 |
-| [Good Scare](https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Silver Tongue](https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv) | 3:35 | 2021-11-12 |  |
+| [Good Scare](https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Silver Tongue](https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv) | 3:35 | 2021-11-12 | 2022-10-01 |
 | [Good Scare](https://open.spotify.com/track/3UrZ77Jh8iL2h5Apvswrwm) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Gracious Day](https://open.spotify.com/album/65oWWfSiVcm3p57T9HBNQs) | 3:35 | 2021-11-12 | 2022-07-29 |
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2021-11-12 | 2022-07-29 |
 | [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 | 2021-11-12 |  |
@@ -84,6 +84,7 @@
 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 | 2021-11-12 |  |
 | [I’ll Still Have Me \- Aquilo Remix](https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I’ll Still Have Me \(Aquilo Remix\)](https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr) | 4:04 | 2022-09-16 |  |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2021-11-18 |  |
+| [Kill Her Freak Out](https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Kill Her Freak Out](https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1) | 4:20 | 2022-09-30 |  |
 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 | 2021-11-12 |  |
 | [Let Me Tell You Something](https://open.spotify.com/track/5GV0Yeo76b1UubEPVOQKUd) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Let Me Tell You Something](https://open.spotify.com/album/6v5akaxg5phcFicnoMbCDu) | 3:14 | 2021-11-12 | 2022-07-29 |
 | [Light Blue](https://open.spotify.com/track/1arhLLK6PZNd5g4OupOJyZ) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:34 | 2021-11-12 |  |

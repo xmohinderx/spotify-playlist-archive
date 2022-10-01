@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-680 songs - 1 day 12 hr 3 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+683 songs - 1 day 12 hr 14 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Deepest Slumber](https://open.spotify.com/track/0nEoBGIHXBkLBw9FxLhCrL) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Deepest Slumber](https://open.spotify.com/album/3wZCVZTXHADG3LUY2qaRbA) | 3:27 | 2019-06-29 | 2020-05-18 |
 | [Delta](https://open.spotify.com/track/17tRQ9xLcfif3rNFJEwca3) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 4:10 | 2019-06-29 | 2020-01-09 |
 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 | 2019-12-07 | 2020-08-08 |
-| [Depth of Mind](https://open.spotify.com/track/50AtDtIeRZV9MTXahpjGoD) | [Pásztor Bernadett](https://open.spotify.com/artist/6TrFNdRCffYoRu4FE7CEqX) | [Pásztor Bernadett](https://open.spotify.com/album/5uUY70msqiTGQNOm6hQEVk) | 3:38 | 2020-05-09 |  |
+| [Depth of Mind](https://open.spotify.com/track/50AtDtIeRZV9MTXahpjGoD) | [Pásztor Bernadett](https://open.spotify.com/artist/6TrFNdRCffYoRu4FE7CEqX) | [Pásztor Bernadett](https://open.spotify.com/album/5uUY70msqiTGQNOm6hQEVk) | 3:38 | 2020-05-09 | 2022-10-01 |
 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2019-06-29 |  |
 | [Destroy Nothing](https://open.spotify.com/track/2qr6vkyGsk43Q2jkDfOgeZ) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Destroy Nothing](https://open.spotify.com/album/7Ec3NOzHnTlYZ1gGHU8KFT) | 2:06 | 2020-09-16 | 2020-10-27 |
 | [Devotion](https://open.spotify.com/track/2SjBRxCVMi41VzalD8WQBP) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Devotion](https://open.spotify.com/album/3Yfhkc5zYfwemAAbQoBJ6y) | 2:27 | 2021-08-26 |  |
@@ -321,6 +321,7 @@
 | [In the Clouds](https://open.spotify.com/track/2AvDzQfRf5Bx8PX0qRWLRc) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [In the Clouds](https://open.spotify.com/album/0RB032f7b6bwNGrfdW81E5) | 2:56 | 2019-05-26\* | 2020-05-18 |
 | [in the hide](https://open.spotify.com/track/2FojeY4xeZC2wrwIgTDDVU) | [Rossyx](https://open.spotify.com/artist/2vvcM0Ac0BOQIFpBeRO9vu) | [hieroglyphs](https://open.spotify.com/album/7yKRy1HLte1sQeFXTiUmnA) | 2:51 | 2021-11-11 |  |
 | [In the Past](https://open.spotify.com/track/7BGQQE0Xgic9Bvk7BlRumP) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 1:56 | 2019-06-29 | 2020-07-11 |
+| [Incipits](https://open.spotify.com/track/51cHdrCG6qyH5r9BPRK2K0) | [Elviras](https://open.spotify.com/artist/6OJrVwGJIhTvJNjav14KMN) | [Incipits](https://open.spotify.com/album/1q3O1Oa4aF4hyJorWa2shJ) | 2:40 | 2022-09-30 |  |
 | [Incisif](https://open.spotify.com/track/6wdW5qgYw9CUXD9on4ylLn) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Incisif](https://open.spotify.com/album/5VE3DMJYN3uD5SG8Jod2Z6) | 2:29 | 2021-04-28 |  |
 | [Individuation](https://open.spotify.com/track/0uhnSuoPlikZpiW9Hj7V0Z) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/0a2yGkTrEviUUZNBolAUXL) | 3:08 | 2019-05-26\* | 2020-05-18 |
 | [Infinities](https://open.spotify.com/track/5985uWNOMmxrzAvvWaxT0t) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Infinities](https://open.spotify.com/album/5Sonpi8gWOXu02oZdxSees) | 3:23 | 2019-12-07 | 2020-01-03 |
@@ -547,6 +548,7 @@
 | [Solitude](https://open.spotify.com/track/1sPHdG6zyTuvpX9rWV5rEz) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Solitude](https://open.spotify.com/album/1fj611g3arEQ7KGaQxiHLo) | 2:28 | 2020-05-09 |  |
 | [Soluma](https://open.spotify.com/track/1pfYu9JKsojWVnmb5J9Xc0) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Soluma](https://open.spotify.com/album/1qoutOhGSCzeCZSp3Is4Ps) | 3:44 | 2021-09-21 |  |
 | [Sometimes](https://open.spotify.com/track/5kEBCeCA8lrYyLar9WGbhY) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Sometimes](https://open.spotify.com/album/4Ld49F7UxvyR2imnjF0Zqq) | 2:49 | 2019-05-26\* | 2020-01-03 |
+| [Somewhere in The Universe](https://open.spotify.com/track/3ZKOanKZHi3CGawcnXMk2y) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Somewhere in The Universe](https://open.spotify.com/album/5kMzFWm1eX0at2tcZcm2Nx) | 5:10 | 2022-09-30 |  |
 | [Song For Saul](https://open.spotify.com/track/4kNNXWML7vg2b4NXAGILdd) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Fields Of Moab](https://open.spotify.com/album/0koXNisSlKiZui2102JtVx) | 3:53 | 2019-05-26\* | 2020-01-03 |
 | [Song of Ascents](https://open.spotify.com/track/4KhXbiPa1xhEiMAyag5KgO) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Through the Clouds](https://open.spotify.com/album/1fdEQYId6oVZhK76SJbDI9) | 3:41 | 2020-01-03 |  |
 | [Soul Connect](https://open.spotify.com/track/1EVG8oKkYocWnjot9oPZHB) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Soul Connect](https://open.spotify.com/album/4CA9koIi5G0oRNLrPxv6UL) | 3:16 | 2021-09-29 |  |
@@ -555,7 +557,7 @@
 | [Spatsmanium](https://open.spotify.com/track/7jUjRQpX5NCXhOgwtW5J47) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [Spatsmanium](https://open.spotify.com/album/5sEk9boEfqnmH7i4h3DxEx) | 3:11 | 2021-07-01 |  |
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2019-05-26\* | 2021-09-14 |
 | [Spirals](https://open.spotify.com/track/2V44hSJNBbay5Xsxm5isjy) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Spirals](https://open.spotify.com/album/6mNT1NjK9v4rtENleh3QPO) | 4:02 | 2020-01-03 | 2022-08-24 |
-| [Spiritual Awakening](https://open.spotify.com/track/5hD7Ezq0E8nwz7z2xNMlVH) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 3:54 | 2019-05-26\* |  |
+| [Spiritual Awakening](https://open.spotify.com/track/5hD7Ezq0E8nwz7z2xNMlVH) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 3:54 | 2019-05-26\* | 2022-10-01 |
 | [Stars Above](https://open.spotify.com/track/6SXJvDRDaChdN07Q5msQKE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nightfall](https://open.spotify.com/album/502yvPzDKhv4PoENfTdhHo) | 3:23 | 2020-09-16 |  |
 | [Starseed](https://open.spotify.com/track/4OuwecJMuYfwqEzfdXLdzs) | [Lucien Mørk](https://open.spotify.com/artist/1a1r1rGzRmzZ45ybcsEAJn) | [Starseed](https://open.spotify.com/album/55QNsBnHK6tXjtl5k8UgvZ) | 2:54 | 2020-12-11 | 2021-06-16 |
 | [Start Again](https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP) | [Iselinn](https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV) | [Through it All](https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt) | 3:06 | 2020-10-08 |  |
@@ -590,7 +592,7 @@
 | [Taurus](https://open.spotify.com/track/0cZQXAwomBlCnuSvTCsKWn) | [Tolga Kahani](https://open.spotify.com/artist/2JwKOYKRy4sxxF8nkpA3ig) | [Taurus](https://open.spotify.com/album/7geRmxkwEeS7IvDLfebFOq) | 2:14 | 2020-01-09 |  |
 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 | 2021-04-02 |  |
 | [Telefono A](https://open.spotify.com/track/6E6U7GLpd3Hod0QEv2AvsJ) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:29 | 2019-07-12 | 2020-05-09 |
-| [Tell Me And I'll Forget](https://open.spotify.com/track/2d0PP0ZSYGhqICCRkntOaD) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Time Is But A Wellspring](https://open.spotify.com/album/2JJnTzmb8Kl06775VKGLPA) | 2:52 | 2022-07-22 |  |
+| [Tell Me And I'll Forget](https://open.spotify.com/track/2d0PP0ZSYGhqICCRkntOaD) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Time Is But A Wellspring](https://open.spotify.com/album/2JJnTzmb8Kl06775VKGLPA) | 2:52 | 2022-07-22 | 2022-10-01 |
 | [Tell Me And I'll Forget](https://open.spotify.com/track/5ZMpJvJRpTs8jPCFDbUqfM) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Time Is But A Wellspring](https://open.spotify.com/album/1ipPYMrH02EkcMGcfYBCkp) | 2:52 | 2019-05-26\* | 2022-07-29 |
 | [Temple of Peace](https://open.spotify.com/track/0qLkLemmQaimQxGy7wXDzM) | [Gloans](https://open.spotify.com/artist/5NrEcEpRQsyX8B7hZoLFU0) | [Temple of Peace](https://open.spotify.com/album/4QjpazE0HSSTudOpoAjLe1) | 3:11 | 2020-05-09 |  |
 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 | 2019-05-26\* | 2022-09-15 |
@@ -652,6 +654,7 @@
 | [Velvet Fog](https://open.spotify.com/track/3XjuI2bR7r8XEWTCEIBuW0) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Soaring](https://open.spotify.com/album/5LRb99HtgyQVkhKfdfAMGP) | 6:15 | 2020-01-03 | 2020-05-18 |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-06-16 |  |
 | [Vi møtes igjen](https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Vi møtes igjen](https://open.spotify.com/album/7pfvZelJPPsQL4FG7yKO1n) | 3:05 | 2020-09-16 |  |
+| [View](https://open.spotify.com/track/3pAHf0eiUS1j7GwXzia6aq) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [View](https://open.spotify.com/album/7DIi1vnsQwqtJEDwg4e6RE) | 2:20 | 2022-09-30 |  |
 | [Violin Tales](https://open.spotify.com/track/0EbvVi0EEW2uSepHX83sY4) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Lost Tales](https://open.spotify.com/album/1rSfn4Fgame8VjA4vb7HjX) | 3:23 | 2019-05-26\* | 2020-01-03 |
 | [Vivante](https://open.spotify.com/track/6S0hwfRH6W5iLbAXl3cmB4) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Vivante](https://open.spotify.com/album/5Kzb8AvMcFS801pp6SR012) | 2:13 | 2020-10-08 |  |
 | [Voronezh Violin](https://open.spotify.com/track/6lkDLWCYpmVActgK7ZkLwZ) | [elders and children](https://open.spotify.com/artist/1fZmUxpPND8lITAOdnoXEi) | [Tortricidae](https://open.spotify.com/album/2xXldZFy4z0WtgqIZ3CO9G) | 3:11 | 2021-07-14 |  |

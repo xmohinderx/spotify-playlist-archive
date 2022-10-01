@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 8964,
+  "num_followers": 8984,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDA2MzU3ZGI4YmUwNDdjYWQ0NDU4Y2IyM2ViMDA2NmQ5",
+  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDI1YjhhMmNjODIxMmQ1MDI3ZjAzOTFlYTg1MTc0OTM0",
   "tracks": [
     {
       "added_at": "2022-09-22 22:00:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Paul Chambers Quintet (Remastered)",
+        "url": "https://open.spotify.com/album/3YjDsVQMm9N0u2A0uUCiyb"
+      },
+      "artists": [
+        {
+          "name": "Paul Chambers Quintet",
+          "url": "https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Softly As In A Morning Sunrise - Rudy Van Gelder Edition, 2008 Digital Remaster",
+      "url": "https://open.spotify.com/track/6I0I8uMyDHtA1nfyP8c5WE"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Wynton Kelly!",
         "url": "https://open.spotify.com/album/1gzCCqBq3ow0Un6gILf5Qm"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 409840,
       "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
       "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Paul Chambers Quintet (Remastered)",
-        "url": "https://open.spotify.com/album/3YjDsVQMm9N0u2A0uUCiyb"
-      },
-      "artists": [
-        {
-          "name": "Paul Chambers Quintet",
-          "url": "https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Softly As In A Morning Sunrise - Rudy Van Gelder Edition, 2008 Digital Remaster",
-      "url": "https://open.spotify.com/track/6I0I8uMyDHtA1nfyP8c5WE"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
       "artists": [
         {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 245906,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
+      "duration_ms": 446893,
+      "name": "Without a Song - Remastered",
+      "url": "https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 446893,
-      "name": "Without a Song - Remastered",
-      "url": "https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 186560,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
+      },
+      "artists": [
+        {
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "A Garland Of Red",
-        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 407533,
       "name": "The More I See You - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+        "name": "Joshua Redman",
+        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
+      "duration_ms": 290466,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -499,18 +499,34 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Joshua Redman",
-        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 290466,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM"
+      "duration_ms": 259933,
+      "name": "Charlie Brown Theme",
+      "url": "https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -539,18 +555,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Charlie Brown Holiday Hits",
-        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 259933,
-      "name": "Charlie Brown Theme",
-      "url": "https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY"
+      "duration_ms": 442400,
+      "name": "West Coast Blues",
+      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -571,18 +587,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+        "name": "Plays Monk",
+        "url": "https://open.spotify.com/album/7gIeXaWDihgMi7s925uq4A"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
         }
       ],
-      "duration_ms": 442400,
-      "name": "West Coast Blues",
-      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
+      "duration_ms": 407293,
+      "name": "I Mean You",
+      "url": "https://open.spotify.com/track/1bOLFHXStwdSHAdz412vMG"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -599,22 +615,6 @@
       "duration_ms": 351280,
       "name": "All the Things You Are",
       "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Plays Monk",
-        "url": "https://open.spotify.com/album/7gIeXaWDihgMi7s925uq4A"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 407293,
-      "name": "I Mean You",
-      "url": "https://open.spotify.com/track/1bOLFHXStwdSHAdz412vMG"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Duke Ellington Meets Coleman Hawkins",
-        "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 365066,
       "name": "Social Call",
       "url": "https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Duke Ellington Meets Coleman Hawkins",
+        "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
+      },
+      "artists": [
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "duration_ms": 404826,
+      "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
+        "name": "The Jazz Giants",
+        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
       },
       "artists": [
         {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
         }
       ],
-      "duration_ms": 404826,
-      "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
+      "duration_ms": 575173,
+      "name": "I Guess I'll Have To Change My Plan",
+      "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 482440,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "The Jazz Giants",
-        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 575173,
-      "name": "I Guess I'll Have To Change My Plan",
-      "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "Lonely Town",
+      "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Legacy Of A Legend",
         "url": "https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 301080,
       "name": "Ode To A Cowboy",
       "url": "https://open.spotify.com/track/6Oci0KLr1huChKVkO5MUVP"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 334866,
-      "name": "Lonely Town",
-      "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Blowin' The Blues Away",
         "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
       },
@@ -1255,6 +1271,22 @@
       "duration_ms": 362280,
       "name": "Peace",
       "url": "https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Paper Moon",
+        "url": "https://open.spotify.com/album/1zjtMS9M1eGoY7KyMW71qf"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "I Thought About You",
+      "url": "https://open.spotify.com/track/7w68AfSG7PL0oGcpzEcOiM"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1279,38 +1311,6 @@
       "duration_ms": 393133,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Paper Moon",
-        "url": "https://open.spotify.com/album/1zjtMS9M1eGoY7KyMW71qf"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 318266,
-      "name": "I Thought About You",
-      "url": "https://open.spotify.com/track/7w68AfSG7PL0oGcpzEcOiM"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Dear John C.",
-        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Like Someone In Love",
         "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 484333,
       "name": "Like Someone In Love - Rudy Van Gelder Edition, 2004 Remaster",
       "url": "https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Dear John C.",
+        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 146253,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/04bTSazBcvYh3yszQLzOZH"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Standards Vol.1",
         "url": "https://open.spotify.com/album/6g4tw8mwge2gJKqJQxE5r3"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 402573,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 146253,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/04bTSazBcvYh3yszQLzOZH"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Falling In Love With Paul Desmond",
-        "url": "https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 428493,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/3iK5q2qCdlKEJOYpaNrDXZ"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "JuJu",
         "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 331306,
       "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Falling In Love With Paul Desmond",
+        "url": "https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 428493,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/3iK5q2qCdlKEJOYpaNrDXZ"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "The Dancing Monk",
-        "url": "https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Anything Goes",
         "url": "https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 402133,
       "name": "Nearness of You",
       "url": "https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "The Dancing Monk",
+        "url": "https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "The Golden Flute",
-        "url": "https://open.spotify.com/album/4BmWdFMdpfZgKpspsAdqZZ"
-      },
-      "artists": [
-        {
-          "name": "Yusef Lateef",
-          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Rosetta",
-      "url": "https://open.spotify.com/track/5OtACP7f32kZgVEXCgVsjs"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Rollins Plays For Bird",
         "url": "https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 292426,
       "name": "I've Grown Accustomed To Your Face",
       "url": "https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "The Golden Flute",
+        "url": "https://open.spotify.com/album/4BmWdFMdpfZgKpspsAdqZZ"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/5OtACP7f32kZgVEXCgVsjs"
     },
     {
       "added_at": "2022-09-22 22:00:00",

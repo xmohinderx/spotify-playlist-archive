@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-314 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+316 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 | 2020-10-20\* |  |
 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2020-10-20\* |  |
 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 | 2020-10-20\* |  |
+| [Dreamy Days](https://open.spotify.com/track/383UHUBQYnyrnFnfY1n3b8) | [Moiki](https://open.spotify.com/artist/0SbXVLqHl9UCKZ0YxDKWAq) | [Dreamy Days](https://open.spotify.com/album/0mrp5JodYIw5JHNkszmJlj) | 2:28 | 2022-09-30 |  |
 | [Drifting](https://open.spotify.com/track/3d7ANjpM6qpxLdp2v1BFkI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Drifting](https://open.spotify.com/album/4y5HjVDtqHT41t9ST85f5c) | 2:59 | 2021-07-04 |  |
 | [Drifting](https://open.spotify.com/track/6ZPr9b4odEGaYIFdYDRGM4) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Drifting](https://open.spotify.com/album/7rb1ZtyB3i3h9pCdMJRZr6) | 3:00 | 2021-09-08 |  |
 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 | 2020-10-20\* |  |
@@ -250,6 +251,7 @@
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2020-10-20\* |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-04-15 |  |
 | [Solêr](https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:35 | 2020-10-20\* |  |
+| [Some Of The Best](https://open.spotify.com/track/4zpLwv9T5KynW7NNrJH2RR) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [The Sleepers](https://open.spotify.com/album/0TavgJey3rSIHxqw3y3tm3) | 3:47 | 2022-09-30 |  |
 | [Somnolence](https://open.spotify.com/track/42l68t0uutO6GH5xGEJLuO) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Somnolence](https://open.spotify.com/album/2I22kCuVqwkvnJ2sfO1huh) | 4:07 | 2020-10-20\* | 2022-02-04 |
 | [Song For Saul](https://open.spotify.com/track/4kNNXWML7vg2b4NXAGILdd) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Fields Of Moab](https://open.spotify.com/album/0koXNisSlKiZui2102JtVx) | 3:53 | 2020-10-20\* | 2022-08-13 |
 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2021-09-24 |  |

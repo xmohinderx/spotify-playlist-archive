@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: 5 Seconds of Summer",
-  "num_followers": 198810,
+  "num_followers": 198841,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDlmNTA1OTU4ZjNlZTE4ZDlhMjRiZjhlYzNjNzY0NWEx",
+  "snapshot_id": "MTY2NDU3MDc5MywwMDAwMDAwMGM5MDAyMDViNTVjYzkwMTQwNGMwMjQ4YzI1NmVhOWJk",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -25,36 +25,40 @@
       "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-30 20:46:33",
       "album": {
-        "name": "the rainbow cassette",
-        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
       },
       "artists": [
         {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 125256,
-      "name": "dumb dumb",
-      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+      "duration_ms": 180742,
+      "name": "World's Smallest Violin",
+      "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-30 04:21:58",
       "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/0UmhcENCeTcbLF4cf9lAEA"
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 347146,
-      "name": "Second Nature",
-      "url": "https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7"
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
       "added_at": "2022-09-09 19:32:26",
@@ -77,6 +81,54 @@
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
     },
     {
+      "added_at": "2022-09-30 04:21:58",
+      "album": {
+        "name": "OH NO!",
+        "url": "https://open.spotify.com/album/0oKwWq3FGBprGxwSKxwOvV"
+      },
+      "artists": [
+        {
+          "name": "Jake Clark",
+          "url": "https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd"
+        }
+      ],
+      "duration_ms": 131328,
+      "name": "OH NO!",
+      "url": "https://open.spotify.com/track/5NDjk4GOodIGmrQxSjExEr"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "added_at": "2022-09-30 04:21:58",
+      "album": {
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 187850,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Destination",
@@ -91,6 +143,54 @@
       "duration_ms": 163543,
       "name": "Destination",
       "url": "https://open.spotify.com/track/7C7bJ7Y8ifewQHwWJn0cHj"
+    },
+    {
+      "added_at": "2022-09-30 20:46:33",
+      "album": {
+        "name": "I Can't Grow Up",
+        "url": "https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "I Can\u2019t Grow Up",
+      "url": "https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF"
+    },
+    {
+      "added_at": "2022-09-30 04:21:58",
+      "album": {
+        "name": "stupid i miss u",
+        "url": "https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "stupid i miss u",
+      "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 194595,
+      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -111,6 +211,38 @@
       "duration_ms": 153442,
       "name": "Only Fan (feat. Cordae)",
       "url": "https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4"
+    },
+    {
+      "added_at": "2022-09-30 04:21:58",
+      "album": {
+        "name": "Blame The Brakes",
+        "url": "https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo"
+      },
+      "artists": [
+        {
+          "name": "Hastings",
+          "url": "https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO"
+        }
+      ],
+      "duration_ms": 206411,
+      "name": "Blame The Brakes",
+      "url": "https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/0UmhcENCeTcbLF4cf9lAEA"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 347146,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -259,22 +391,6 @@
       "duration_ms": 205254,
       "name": "Chloe (feat. Jutes)",
       "url": "https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 194595,
-      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -719,22 +835,6 @@
     {
       "added_at": "2022-09-09 19:32:26",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/2NnIGE6mh0IlHhcCJ8zFPu"
-      },
-      "artists": [
-        {
-          "name": "WATTS",
-          "url": "https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt"
-        }
-      ],
-      "duration_ms": 187187,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6uSU3s6JZOZDxowW4Fragc"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
         "name": "Hide And Seek",
         "url": "https://open.spotify.com/album/5aI0fru90lUJrf4RFXOYMo"
       },
@@ -899,22 +999,6 @@
       "duration_ms": 218709,
       "name": "moshpit",
       "url": "https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "The Click",
-        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 227267,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
     }
   ],
   "unique_name": "soda",

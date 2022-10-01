@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+52 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Edith's Theme](https://open.spotify.com/track/4MQlkQ6U6R2itl3AggPppI) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [What Remains of Edith Finch \(Original Soundtrack\)](https://open.spotify.com/album/0dI3DcRX27ovAqUgSkyxlJ) | 3:16 | 2022-08-05 |  |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-08-05 |  |
 | [Forest](https://open.spotify.com/track/2moMdZAnPvsDXbOY5m9fHf) | [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5) | [The Last Guardian Soundtrack \(Japan Deluxe Edition\)](https://open.spotify.com/album/4cTewzrku9xOpNPXOZ4jVo) | 2:06 | 2022-08-05 |  |
+| [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/track/6PbvnBmHVFDdjG6pMxag6g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/album/4RNyRkhOHbb8BVfzKFqhCP) | 3:25 | 2022-09-30 |  |
 | [Good Night You Kings \(from "The Cider House Rules", Arr\. for Piano\) \- a calm version](https://open.spotify.com/track/0P3snbkMDVmzfMKaKDuO9b) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Good Night You Kings](https://open.spotify.com/album/2uZVaktrTm54XmeO7w0kbI) | 1:03 | 2022-09-09 |  |
 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 | 2022-08-05 |  |
 | [It's a Process](https://open.spotify.com/track/0KSwoOoIKqUZhQhmm0NnSP) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Moneyball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3l4qPqECm6fywG03Rwke6r) | 1:52 | 2022-08-05 |  |
@@ -46,6 +47,7 @@
 | [Romance Suite \(From the Motion Picture "Promising Young Woman"\)](https://open.spotify.com/track/7HYsIVxaKJtbCfaPDj8hMy) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Promising Young Woman \(Original Motion Picture Score\)](https://open.spotify.com/album/5tw3WvlmNGNBACzwUSPbJd) | 3:32 | 2022-08-05 |  |
 | [Searching \(Foundation Track\)](https://open.spotify.com/track/3Xw5J2mgjVQOnbDwD4qDLN) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The Underground Railroad: Volume 1 \(Amazon Original Series Score\)](https://open.spotify.com/album/2dCTpR2osQnVMvbCeiKPkC) | 3:25 | 2022-08-05 |  |
 | [Song of Healing](https://open.spotify.com/track/1BjgY1mNtSRniRqrYbP8i1) | [Laurence Manning](https://open.spotify.com/artist/4pS3AwZi3Nd0klW5yEE1Le), [Daphnée Sincennes Richard](https://open.spotify.com/artist/4NCw6JwOxucMAXdCQJATQ0), [Lou Dunand\-Vincent](https://open.spotify.com/artist/3vwfNOzpHeV0s5R4owSQ3E) | [Trio of the Goddesses](https://open.spotify.com/album/6rls52uHTGGcbYRIXcUnfv) | 4:32 | 2022-08-05 |  |
+| [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 | 2022-09-30 |  |
 | [Sunny's Theme](https://open.spotify.com/track/32WK8dQzMwl0AjvNxhf7lz) | [Guy Jackson](https://open.spotify.com/artist/3HyEoZ7fYGMAJ2fAHIeD9K) | [Sea of Solitude \(Original Soundtrack\)](https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff) | 3:43 | 2022-08-05 |  |
 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 | 2022-08-05 |  |
 | [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 | 2022-08-05 |  |

@@ -3238,6 +3238,24 @@
     },
     {
       "album": {
+        "name": "NEXT 2 U",
+        "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169484,
+      "name": "NEXT 2 U",
+      "url": "https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L"
+    },
+    {
+      "album": {
         "name": "Nina",
         "url": "https://open.spotify.com/album/6o6ovalcWUZlsuT9DsAnS1"
       },
@@ -4603,7 +4621,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 228853,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
@@ -4926,6 +4944,24 @@
     },
     {
       "album": {
+        "name": "EGO APARTMENT",
+        "url": "https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218631,
+      "name": "the wire",
+      "url": "https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh"
+    },
+    {
+      "album": {
         "name": "Red Focus",
         "url": "https://open.spotify.com/album/4V4qdKRONWcZxKfRAMv4IS"
       },
@@ -5137,7 +5173,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 223278,
       "name": "Toothache",
       "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"

@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
+83 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Playa Sola](https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:48 | 2022-06-01 |  |
 | [Popurri / En Vivo Desde Monterrey \- En Vivo \- La Fe Music Hall \- Monterrey, NL / 2008](https://open.spotify.com/track/0sPQ3zxRu4JqrPm3fbwL80) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo Desde Monterrey \(En Vivo \- La Fe Music Hall \- Monterrey, NL / 2008\)](https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL) | 9:07 | 2022-08-05 | 2022-08-07 |
 | [Que La Dejen Ir Al Baile Sola](https://open.spotify.com/track/2Ro00jkaTJPoDsZ4mJBfGv) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:22 | 2022-07-19 | 2022-08-01 |
-| [Que Me Perdone Dios](https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corazón Indeseable](https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs) | 3:03 | 2022-06-02 | 2022-09-30 |
+| [Que Me Perdone Dios](https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corazón Indeseable](https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs) | 3:03 | 2022-06-02 |  |
 | [Rafael Caro Quintero](https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 3:03 | 2022-07-21 | 2022-09-30 |
 | [Regalo Caro](https://open.spotify.com/track/3gpI8YBhKnhngpL7GaE08B) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Corridos Bien Perrones](https://open.spotify.com/album/1fGux6tD9bRqucPsd1MJGi) | 3:16 | 2022-06-01 |  |
 | [Se Vale Llorar](https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [X Aniversario](https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9) | 3:16 | 2022-06-01 |  |
@@ -85,10 +85,11 @@
 | [Topofthe](https://open.spotify.com/track/49JH98Lzv1rSP8gWOLvYGY) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [MC Rahell](https://open.spotify.com/artist/3A1pTNTVgpjpO39ORulNs2) | [Topofthe](https://open.spotify.com/album/6B5MltaFnxT82cyLKiKyLk) | 1:41 | 2022-06-11 | 2022-06-16 |
 | [Tres Vueltas](https://open.spotify.com/track/136eFsPOpnzkxzQ9xldnkx) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 2:49 | 2022-06-28 | 2022-07-07 |
 | [Trono Caído](https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:41 | 2022-06-01 |  |
+| [Tu Nuevo Cariñito](https://open.spotify.com/track/7lSaKdIUjUHHIV4IqTi7Tq) | [Lupe Mendoza](https://open.spotify.com/artist/7AV7uwxrICf5QVYXqWow9r), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Lupe Mendoza y Lalo Mora 15 Exitos, vol\. 1](https://open.spotify.com/album/4B6xwGhnwh5pdsh0S58sVj) | 2:33 | 2022-09-30 |  |
 | [Valente Quintero \- En Vivo](https://open.spotify.com/track/7uVMBqe030IswozmKmEG1Q) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Ama a Su Público \(En Vivo\)](https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM) | 4:12 | 2022-06-06 |  |
 | [Vearon Se Lia](https://open.spotify.com/track/1wy4ZOVpvmW3r8NHM8tV8x) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vearon Se Lia](https://open.spotify.com/album/5MUBzyqDOC056on93cpwBW) | 2:25 | 2022-06-01 | 2022-07-29 |
-| [Veil](https://open.spotify.com/track/5WaoGoZ9CFLdbpIqNfFAXz) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 3:30 | 2022-08-18 |  |
-| [Vete Con Él](https://open.spotify.com/track/5Zza5gIVxsMi57nOlTwfgr) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Tributo A Valentín Elizalde](https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00) | 3:03 | 2022-06-13 |  |
+| [Veil](https://open.spotify.com/track/5WaoGoZ9CFLdbpIqNfFAXz) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 3:30 | 2022-08-18 | 2022-10-01 |
+| [Vete Con Él](https://open.spotify.com/track/5Zza5gIVxsMi57nOlTwfgr) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Tributo A Valentín Elizalde](https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00) | 3:03 | 2022-06-13 | 2022-10-01 |
 | [Yo Te Amo María](https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:39 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

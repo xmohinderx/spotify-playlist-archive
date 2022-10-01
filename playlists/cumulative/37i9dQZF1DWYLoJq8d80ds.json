@@ -1650,6 +1650,24 @@
     },
     {
       "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39j7YWFfBTmt99FUy55DRs"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "No Somos Nada",
+      "url": "https://open.spotify.com/track/7JAven4KfvzBPbKyxE99OJ"
+    },
+    {
+      "album": {
         "name": "Jorge Rojas",
         "url": "https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J"
       },

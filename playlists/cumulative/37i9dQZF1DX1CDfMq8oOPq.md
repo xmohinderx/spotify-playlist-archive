@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mc Luanna
 
-81 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
+82 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hino Delas](https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Hino Delas](https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd) | 2:19 | 2022-06-03 |  |
 | [Irreal](https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LUCA](https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Irreal](https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE) | 3:10 | 2022-03-11 |  |
 | [Lambe Lá](https://open.spotify.com/track/2tgTqKVSIgg1Jhgv8d6iYg) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Lambe Lá](https://open.spotify.com/album/4BcKnUFja6cU4GsCTyW9GQ) | 2:43 | 2022-03-11 | 2022-06-25 |
+| [Levado](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
 | [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 | 2022-03-11 |  |
 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 | 2022-04-15 |  |
 | [Linda, Chique, Sexy & Braba](https://open.spotify.com/track/1JwSUCeNoLgqb5rTUIbA3W) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Linda, Chique, Sexy & Braba](https://open.spotify.com/album/3MFToXYZ3DfGpJqUEp5maK) | 2:44 | 2022-03-11 | 2022-04-23 |
@@ -76,7 +77,7 @@
 | [Sem Tempo](https://open.spotify.com/track/4OjU6vAV8f9pSCUScsgYek) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Sem Tempo](https://open.spotify.com/album/3YbO6IwKj63ABxzrqApH3g) | 2:30 | 2022-03-11 | 2022-05-28 |
 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 | 2022-06-24 |  |
 | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE) | 3:32 | 2022-03-11 |  |
-| [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 | 2022-07-08 |  |
+| [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 | 2022-07-08 | 2022-10-01 |
 | [Sinal](https://open.spotify.com/track/3c61X2aLcCAVMMQV1YzSfH) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90) | 2:53 | 2022-03-11 | 2022-07-29 |
 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 | 2022-06-24 |  |
 | [Sofa, Breja e Netflix](https://open.spotify.com/track/6eIZaT9qNz9lVrhWbJOWls) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 3:04 | 2022-03-11 |  |

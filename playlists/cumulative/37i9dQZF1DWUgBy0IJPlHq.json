@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Joy Oladokun & Chris Stapleton ",
+  "description": "A new shade of Country. Cover: Tyler Childers",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -693,6 +693,36 @@
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "album": {
+        "name": "Ashley McBryde Presents: Lindeville",
+        "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220796,
+      "name": "Bonfire At Tina's",
+      "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
     },
     {
       "album": {
@@ -3375,7 +3405,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180833,
       "name": "Look At The Mess I'm In",
       "url": "https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD"
@@ -4091,7 +4121,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 219954,
       "name": "Pink Sky",
       "url": "https://open.spotify.com/track/5erf3Lj664ICIbDzaVdquG"
@@ -4272,6 +4302,24 @@
     },
     {
       "album": {
+        "name": "Ramblin' Soul",
+        "url": "https://open.spotify.com/album/4D6qrnkYiOb6sWhEJNMW2b"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172840,
+      "name": "Ramblin' Soul",
+      "url": "https://open.spotify.com/track/5KYS5YUKdrqkujJFtupKNV"
+    },
+    {
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -4345,7 +4393,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192539,
       "name": "Roll",
       "url": "https://open.spotify.com/track/28qparr2ZgSP8cq45EJc87"
@@ -5743,6 +5791,24 @@
       "duration_ms": 209773,
       "name": "Waxahachie",
       "url": "https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5"
+    },
+    {
+      "album": {
+        "name": "Can I Take My Hounds to Heaven?",
+        "url": "https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "Way of the Triune God - Jubilee Version",
+      "url": "https://open.spotify.com/track/3mXMXwi6zJ7XVaG4PbpcjS"
     },
     {
       "album": {

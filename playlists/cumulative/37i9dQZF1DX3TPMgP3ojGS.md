@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,538 songs - 2 day 21 hr 39 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,539 songs - 2 day 21 hr 41 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,7 +778,7 @@
 | [Louise](https://open.spotify.com/track/2zszAsNTv49ObMBtWXIICm) | [Happy People](https://open.spotify.com/artist/4nczWWUv1aBW4lPSV1cj0j) | [Comfort](https://open.spotify.com/album/7auBQwUCqEXn9kSsRZD0As) | 2:33 | 2022-04-14 | 2022-04-20 |
 | [Love At First Sight](https://open.spotify.com/track/51QraBOwt6c0CII6MYEcEs) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [Love At First Sight](https://open.spotify.com/album/2Vg6412lMnTCuXZrAZDALo) | 1:47 | 2021-05-19 | 2022-04-07 |
 | [Love Is About Daily Leaps](https://open.spotify.com/track/1Ja4NlTHvkVc45El8wpDHC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Love Is \_\_ \(Music From The Original TV Series\)](https://open.spotify.com/album/3CGjYf6qmtumZFTnLXv7iE) | 4:00 | 2021-05-25 | 2022-07-22 |
-| [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-02-15 |  |
+| [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-02-15 | 2022-10-01 |
 | [Love to Give](https://open.spotify.com/track/197gAis0L7q9xIFreP0cGA) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [The Window](https://open.spotify.com/album/2qZEwFZ6xmtvVAOPaKEMpQ) | 3:17 | 2021-03-18 | 2022-04-07 |
 | [Lucida](https://open.spotify.com/track/316nnoeN99STxwMJWNnH0a) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Lucida](https://open.spotify.com/album/5ddAstd0V5H42ABq8olDSE) | 2:07 | 2021-05-14 | 2021-12-20 |
 | [Lucienda](https://open.spotify.com/track/53TDpUUYxE0KGPVhdkNpOn) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Lucienda](https://open.spotify.com/album/65syZRHtM5IwwyjwDbhh0z) | 2:51 | 2022-07-14 | 2022-07-29 |
@@ -844,6 +844,7 @@
 | [Mirror Song](https://open.spotify.com/track/5Z6pY8kv0bYE72QKBYes0s) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Mirror Song](https://open.spotify.com/album/3L25gHwm471Vec1YrXysmp) | 3:35 | 2021-04-28 | 2022-06-11 |
 | [Misli na tebe](https://open.spotify.com/track/33dahwAOW1V1quRlxh1Ffp) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Misli na tebe](https://open.spotify.com/album/3PEQD0rAwurBJiYIiT1OLx) | 1:53 | 2021-05-25 | 2022-04-18 |
 | [Missy](https://open.spotify.com/track/31Ym8LjfKv5dpgppLUmpWs) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Missy](https://open.spotify.com/album/76M1XQdN9UnipO6FQG3TJc) | 2:45 | 2021-03-08 | 2022-04-17 |
+| [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 | 2022-09-29 |  |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-08-06 | 2022-09-19 |
 | [Moderato malinconico](https://open.spotify.com/track/4aLv7wK3U690o6TXfg2VIm) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Alvaro Cendoya](https://open.spotify.com/artist/1jyT4Lhl2rlLEQivwIgDat) | [Ponce: Complete Piano Works, Vol\. 2](https://open.spotify.com/album/63SsbvjLqIzTXSHAemQT71) | 2:20 | 2021-05-17 | 2021-05-18 |
 | [Moment of Silence](https://open.spotify.com/track/4eSYFvsqnVIfy75EflVtmg) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Moment of Silence](https://open.spotify.com/album/60M9flmWaOCcYKU0HEP1Fu) | 2:46 | 2021-05-07 | 2022-04-14 |

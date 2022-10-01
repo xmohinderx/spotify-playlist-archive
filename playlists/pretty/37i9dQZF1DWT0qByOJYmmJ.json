@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 552902,
+  "num_followers": 553223,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMDU4OGI4NjQyNDZhMWEwOGQxMzEyMGY5N2E3MjQ3NTY4",
+  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMGExZjcxM2JlMjEzNGJiZWZlN2FhNWFhYmFmZDZhOTdj",
   "tracks": [
     {
       "added_at": "2022-09-09 23:42:18",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
+        "name": "Solo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/32MvLXV6Lv1q5zXHz2OAdF"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 182966,
+      "name": "Solo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6QwGCWKdDAfj6MSslFhfiw"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
-        "name": "Solo Aqu\u00ed",
-        "url": "https://open.spotify.com/album/32MvLXV6Lv1q5zXHz2OAdF"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 182966,
-      "name": "Solo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6QwGCWKdDAfj6MSslFhfiw"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
         "name": "Amar",
         "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 199936,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "C\u00d3MO RESPIRAR???",
         "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
         "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
         "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Si Nos Dejan",
-        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Hacer Bien",
         "url": "https://open.spotify.com/album/05soUjUMNTaITz1z2NtLjt"
       },
@@ -1319,22 +1299,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Despedida",
-        "url": "https://open.spotify.com/album/3SDScjJ7O8Vt3lXEf4JwSS"
-      },
-      "artists": [
-        {
-          "name": "Champ Jr.",
-          "url": "https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "Despedida",
-      "url": "https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -1347,6 +1311,42 @@
       "duration_ms": 202146,
       "name": "lejos",
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "Adi\u00f3s Amor",
+        "url": "https://open.spotify.com/album/0XDiT3wvemIhWDfuBvAJWo"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 227407,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/5rpQcu6N5omwxP8ai4UYmO"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

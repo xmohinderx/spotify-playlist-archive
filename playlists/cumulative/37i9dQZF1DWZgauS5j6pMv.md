@@ -2,9 +2,9 @@
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: Brooklyn Funk Essentials
+> The best of today's funk\. Cover: Louis Cole
 
-219 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+221 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,10 +54,11 @@
 | [Coming Around](https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Vermillion Sands](https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx) | 3:59 | 2022-04-29 |  |
 | [Coming Back Around](https://open.spotify.com/track/3uHYh9Fou12jo5JAEt6S6V) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Coming Back Around](https://open.spotify.com/album/1JxYrg1tPFOpv85nPNrmg4) | 4:08 | 2021-01-15 | 2022-05-20 |
 | [common sense](https://open.spotify.com/track/2hypebb8hlTmlR011pxf7k) | [d.r.w.s.](https://open.spotify.com/artist/1M7hE1Aey8aOROKiJg847K), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [common sense](https://open.spotify.com/album/0dsFIldaIJMwx0eGeXE7N2) | 3:34 | 2021-02-19 | 2022-01-29 |
-| [Crisis](https://open.spotify.com/track/6kDUK6LFD04adKc2ol3Cve) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Crisis](https://open.spotify.com/album/2Gvg1yrzvA3rZJNtzoYykI) | 4:17 | 2022-04-15 |  |
+| [Crisis](https://open.spotify.com/track/6kDUK6LFD04adKc2ol3Cve) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Crisis](https://open.spotify.com/album/2Gvg1yrzvA3rZJNtzoYykI) | 4:17 | 2022-04-15 | 2022-10-01 |
 | [D.T.Y.O.B.](https://open.spotify.com/track/41iBqPWpC2imF7c7AV3ssN) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy) | [Little House](https://open.spotify.com/album/1j3MxHfoULsrj2vRZ0KZxE) | 3:22 | 2022-02-11 |  |
 | [Dance](https://open.spotify.com/track/0MkeWj9a2eIdyEspwnCm1U) | [Numb Tongues](https://open.spotify.com/artist/4GjV45j15wL0sHVDNt3MO7), [Alexandra Willett](https://open.spotify.com/artist/2Ch4UuvEp3AOtdISvdHjFX) | [Dance](https://open.spotify.com/album/5PZqmQFWD4UjHcBk27jA06) | 4:25 | 2022-05-13 | 2022-07-16 |
 | [Dangerous](https://open.spotify.com/track/5jyOnbGplNA8CXczAERKZq) | [Miss Mojo](https://open.spotify.com/artist/0gOgTykHtej65Q5SOV7xpV) | [Dangerous](https://open.spotify.com/album/4SBEvfxXZnMjzcUr5hi7ir) | 4:09 | 2020-11-20 | 2022-04-09 |
+| [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-30 |  |
 | [Do Your Thang](https://open.spotify.com/track/2QHKyQgP6WQasHjufqOfbX) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Apollo](https://open.spotify.com/album/6f0A1F9M21dIgLIGLgZUKO) | 3:54 | 2020-11-20 | 2022-04-09 |
 | [Doin' My Best](https://open.spotify.com/track/3JfYs7pXBsrEd9jWfCTXpS) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Doin' My Best](https://open.spotify.com/album/2wgalAS3PY5I629Zq3qIYd) | 3:33 | 2020-12-08 | 2022-04-09 |
 | [Don't Blame It on the Timing](https://open.spotify.com/track/70uSL3jEqP1yOGgq8nNDTJ) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Don't Blame It on the Timing](https://open.spotify.com/album/3QNADEr51LFBbTpvHYTFxf) | 3:53 | 2020-11-20 | 2022-04-09 |
@@ -101,12 +102,13 @@
 | [Heartbeat](https://open.spotify.com/track/1sDuoXz1FxkzA9o6IHJLK8) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Heartbeat](https://open.spotify.com/album/2slGdJqZbiCstg2fNNbNtC) | 4:06 | 2022-01-07 |  |
 | [henny & patron](https://open.spotify.com/track/4M2V3bNCMeOAgTCpAQckP5) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [henny & patron](https://open.spotify.com/album/6vHrw5zCi73swThT9N4EIP) | 2:18 | 2022-01-28 |  |
 | [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-01-28 |  |
-| [Hide](https://open.spotify.com/track/48m0yIOWPyLYQHXEKnMJ12) | [Alton Allen](https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq), [Niteppl](https://open.spotify.com/artist/5jQWZiaRwd5OXJ08MdyJ5D) | [Hide](https://open.spotify.com/album/35CDn6fdaAWVNFg6YN6K4J) | 4:18 | 2022-04-22 |  |
+| [Hide](https://open.spotify.com/track/48m0yIOWPyLYQHXEKnMJ12) | [Alton Allen](https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq), [Niteppl](https://open.spotify.com/artist/5jQWZiaRwd5OXJ08MdyJ5D) | [Hide](https://open.spotify.com/album/35CDn6fdaAWVNFg6YN6K4J) | 4:18 | 2022-04-22 | 2022-10-01 |
 | [Highly Compatible](https://open.spotify.com/track/3FMZsyg0weeAzesHLC0sdU) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Highly Compatible](https://open.spotify.com/album/2JD2i0URkUYRzaO1zMVKAK) | 6:05 | 2020-11-20 | 2022-04-09 |
 | [HIT 'EM WITH THE FUNK](https://open.spotify.com/track/4wT7296bGxKURlz4mwTYTm) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/73ftN0Cki1TUv81OKKItdm) | 3:56 | 2021-10-15 | 2022-07-23 |
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-15 |  |
 | [How Hard](https://open.spotify.com/track/0lolsWqQe1StrLfvEtlLlt) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [How Hard](https://open.spotify.com/album/0QxwUc3t7AWzTvTXzFdq7Y) | 4:11 | 2022-06-03 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-06-18 | 2022-01-29 |
+| [I Ain't Perfect](https://open.spotify.com/track/5aFmPqvtEPF8qYOJQZJ1Er) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [FALL](https://open.spotify.com/album/7z0evm6hjFVuDzigZkB33b) | 3:18 | 2022-09-30 |  |
 | [I Did It For You](https://open.spotify.com/track/4xWLo3R0jjTVOdmtjC5MKI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:01 | 2020-11-20 | 2022-04-09 |
 | [I Found You \(feat\. Benjamin Ingrosso\) \- Dimitri From Paris Remix](https://open.spotify.com/track/08Cws0E0tiHfm18dQINYvZ) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [I Found You \(feat\. Benjamin Ingrosso\) \[Dimitri From Paris Remix\]](https://open.spotify.com/album/4QWCCbdhcZkFc8627LOVXX) | 2:43 | 2021-09-17 | 2022-09-17 |
 | [I Won't Do U Like That](https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Call Collect 8](https://open.spotify.com/album/5WKe6hq1b2Ywo2wpn1o2fD) | 2:35 | 2021-09-03 |  |

@@ -1930,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
+      },
+      "artists": [
+        {
+          "name": "Perera Elsewhere",
+          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237999,
+      "name": "Travel Lite",
+      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
+    },
+    {
+      "album": {
         "name": "Trececerotres",
         "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },

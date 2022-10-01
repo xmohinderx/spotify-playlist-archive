@@ -4,7 +4,7 @@
 
 > Esos éxitos que todavía quieres seguir escuchando\. Foto: J Balvin & Bad Bunny
 
-295 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/6ENxT1J0ltTig8PeynE97H)
+296 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/6ENxT1J0ltTig8PeynE97H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2021-12-10 |  |
 | [La Vecinita](https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Los Bandoleros Reloaded](https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R) | 4:25 | 2021-12-10 |  |
 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 | 2022-03-31 |  |
+| [Madura](https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Madura](https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t) | 3:10 | 2022-08-17 |  |
 | [Madura \(feat\. Bad Bunny\)](https://open.spotify.com/track/0r9d60ZYPAlFHq8qnUtkXN) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Madura \(feat\. Bad Bunny\)](https://open.spotify.com/album/23gojwaJJ5vJxFiAQtiTsQ) | 3:10 | 2021-12-10 | 2022-09-15 |
 | [MALA](https://open.spotify.com/track/4epHhc2lvhFYzMlKA23O3G) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY](https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd) | 3:26 | 2022-03-31 |  |
 | [MALA](https://open.spotify.com/track/6AuTg5HcKndQ4baqOSBE2I) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY](https://open.spotify.com/album/4f8pX9Vjs9uU5aKjqDNcDO) | 3:26 | 2022-03-31 | 2022-04-20 |
@@ -267,7 +268,7 @@
 | [Tak Tiki Tak](https://open.spotify.com/track/0aCTSZQTlmnjQucALTF00s) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/7dKHcB3ZLB4fxbSs3Y2Y3O) | 3:32 | 2021-12-10 | 2022-07-12 |
 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 | 2022-03-31 |  |
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2021-12-10 |  |
-| [Tattoo](https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Tattoo](https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV) | 3:22 | 2021-12-10 |  |
+| [Tattoo](https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Tattoo](https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV) | 3:22 | 2021-12-10 | 2022-10-01 |
 | [Te Boté \- Remix](https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Boté \(Remix\)](https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL) | 6:57 | 2022-03-31 |  |
 | [Te busco \(feat\. Nicky Jam\)](https://open.spotify.com/track/6wHm04cn5HxK6pE2ITEdUS) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Blanco Perla](https://open.spotify.com/album/0y77c5Ryg56J7fou9DHaec) | 3:53 | 2021-12-10 | 2022-07-29 |
 | [Te Quemaste](https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:19 | 2021-12-10 |  |

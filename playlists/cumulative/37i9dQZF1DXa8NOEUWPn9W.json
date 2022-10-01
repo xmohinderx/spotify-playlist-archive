@@ -4252,6 +4252,36 @@
     },
     {
       "album": {
+        "name": "Let You Do This",
+        "url": "https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Buy Now",
+          "url": "https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202281,
+      "name": "Let You Do This (with Buy Now)",
+      "url": "https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO"
+    },
+    {
+      "album": {
         "name": "Let's Get Down",
         "url": "https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6"
       },
@@ -5973,7 +6003,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 198387,
       "name": "Power",
       "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
@@ -6594,6 +6624,32 @@
     },
     {
       "album": {
+        "name": "Show Me Some Love (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "Show Me Some Love (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj"
+    },
+    {
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -7169,7 +7225,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 160645,
       "name": "Tamo Loco",
       "url": "https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0"

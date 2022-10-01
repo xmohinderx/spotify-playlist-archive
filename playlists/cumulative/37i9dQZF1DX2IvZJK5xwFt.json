@@ -952,6 +952,32 @@
     },
     {
       "album": {
+        "name": "find my way",
+        "url": "https://open.spotify.com/album/3Z33HPLgGhnOdPIxMf07NX"
+      },
+      "artists": [
+        {
+          "name": "mididuck",
+          "url": "https://open.spotify.com/artist/6mpI54w7dPsRHzMAvXPe5W"
+        },
+        {
+          "name": "blindboy",
+          "url": "https://open.spotify.com/artist/4iU4uZYn7WL00OQ23Ikj6t"
+        },
+        {
+          "name": "Sofuu",
+          "url": "https://open.spotify.com/artist/11cmY8UiaG76EOdH7d37Mo"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "find my way",
+      "url": "https://open.spotify.com/track/3c522rqTXOm2gSK2OrxsTh"
+    },
+    {
+      "album": {
         "name": "Fire It Up",
         "url": "https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF"
       },

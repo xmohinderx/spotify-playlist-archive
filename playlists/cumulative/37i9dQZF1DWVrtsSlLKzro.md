@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-218 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+219 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Sometimes](https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Sometimes](https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK) | 3:17 | 2022-02-11 |  |
 | [SRY](https://open.spotify.com/track/0liqgDxxKqACG9kponhjfn) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [SRY](https://open.spotify.com/album/1n0DHsZ1cJbiAwlqHnmz5Q) | 3:43 | 2021-12-03 |  |
 | [Starbright](https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 4:03 | 2021-12-03 |  |
+| [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K) | 4:52 | 2022-09-30 |  |
 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 | 2021-12-03 |  |
 | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi) | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/album/78cHKcaJ2agjy5arczangj) | 3:33 | 2021-12-03 |  |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-11 |  |

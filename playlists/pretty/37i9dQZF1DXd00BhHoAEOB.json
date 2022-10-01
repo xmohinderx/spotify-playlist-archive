@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 32940,
+  "num_followers": 33004,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMGM1MWEyODA4NTRiMDBiNjU5Zjg1MzU0YWM3Yjk5NjZk",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMGE2ZDI0ZGJhZmVmZTgyMzNhN2JiZGVhZTMzYmJjYTRj",
   "tracks": [
     {
       "added_at": "2022-04-20 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
         "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 197000,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Chavela Vargas: 30 Exitos",
-        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 204617,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "Amores Ajenos",
         "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 258993,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Chavela Vargas: 30 Exitos",
+        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/3qE7rUCJAOIpPfIoxb9Iaz"
     },
     {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
+    },
+    {
       "added_at": "2022-04-08 18:59:44",
       "album": {
         "name": "Mis No Lugares",
@@ -1171,22 +1187,6 @@
       "duration_ms": 211444,
       "name": "A\u00f1os Luz",
       "url": "https://open.spotify.com/track/1F8CnJrb4vjJHU8MDj7XIf"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
-        "name": "Homenaje a una Grande",
-        "url": "https://open.spotify.com/album/22B1O50wYuPXDH1vnWAa2Q"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/0anotjq0eIK4DsolmSaofp"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+        "name": "Homenaje a una Grande",
+        "url": "https://open.spotify.com/album/22B1O50wYuPXDH1vnWAa2Q"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
         }
       ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
+      "duration_ms": 196000,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/0anotjq0eIK4DsolmSaofp"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "Madre",
         "url": "https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 223921,
       "name": "Lagrim\u00f3n",
       "url": "https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1465,42 +1465,6 @@
       "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
     },
     {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
-        "name": "Eso",
-        "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        },
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 242944,
-      "name": "Eso",
-      "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
-        "name": "Sauce",
-        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 168549,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
-    },
-    {
       "added_at": "2022-03-09 15:08:51",
       "album": {
         "name": "Sol Redondo",
@@ -1523,6 +1487,42 @@
       "duration_ms": 225365,
       "name": "Sol Redondo",
       "url": "https://open.spotify.com/track/765Av5qJo9j2Tm1ABwxByG"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Sauce",
+        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 168549,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Eso",
+        "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 242944,
+      "name": "Eso",
+      "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
     },
     {
       "added_at": "2022-03-04 16:51:15",

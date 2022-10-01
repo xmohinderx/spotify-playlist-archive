@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-114 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
+115 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [God Moves on the Water](https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 3:01 | 2022-06-14 | 2022-07-25 |
 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 | 2022-05-27 |  |
 | [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 | 2022-05-27 |  |
+| [Heart of Stone](https://open.spotify.com/track/6lPmuDm7kvUcdK2omu6B38) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:25 | 2022-09-30 |  |
 | [Heavy Load](https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load](https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1) | 7:18 | 2022-05-25 | 2022-07-29 |
 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 | 2022-07-08 |  |
 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 | 2022-07-08 |  |
@@ -64,7 +65,7 @@
 | [I'm In the Mood](https://open.spotify.com/track/5PheG3ZH6bMxxHic2PWPUT) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hook 'Em \- Best of John Lee Hooker](https://open.spotify.com/album/7ppgYbEN4BblWFbiy0b3HG) | 2:44 | 2022-05-25 | 2022-07-29 |
 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 | 2022-07-08 |  |
 | [I'm Ready](https://open.spotify.com/track/4QM6qrv9YWRW4RoXzKlE1X) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/2WAU3S7XbRV3DPSaC00woq) | 2:17 | 2022-05-27 | 2022-07-28 |
-| [I'm Ready](https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 2:17 | 2022-09-20 |  |
+| [I'm Ready](https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 2:17 | 2022-09-20 | 2022-10-01 |
 | [I'm Satisfied](https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 2:55 | 2022-05-25 |  |
 | [I'm So Lonely](https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY) | 4:40 | 2022-09-20 |  |
 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 | 2022-09-20 |  |

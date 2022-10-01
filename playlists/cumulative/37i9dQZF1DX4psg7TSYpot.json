@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/6D68MZE4nzfnCWthRH8cHz"
+      },
+      "artists": [
+        {
+          "name": "Music Travel Love",
+          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181717,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2OYFqslHF3y0JgNGrb9Prw"
+    },
+    {
+      "album": {
         "name": "Back For Good",
         "url": "https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD"
       },
@@ -909,7 +927,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 232500,
       "name": "I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic",
       "url": "https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB"

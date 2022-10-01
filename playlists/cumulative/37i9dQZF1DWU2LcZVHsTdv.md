@@ -2,9 +2,9 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Ian Munsick
+> The country way of testifying\. Cover: Zach Williams
 
-146 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+148 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [In Christ Alone](https://open.spotify.com/track/4nZLgB1NYxEjfStRRPZBWE) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [In Christ Alone](https://open.spotify.com/album/5v36cGV6Gk6cA4l79cMImt) | 4:11 | 2022-04-15 |  |
 | [In Jesus Name \(God of Possible\) \(feat.Cheyenne Mitchell\)](https://open.spotify.com/track/4pTaWYq66mOLpjGkqTpjsF) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [In Jesus Name \(God of Possible\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/5ttyBlOTlDg70uUEVeW7tE) | 3:37 | 2022-08-05 |  |
 | [In Our Blood](https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [In Our Blood](https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX) | 2:53 | 2022-05-13 |  |
+| [Jesus' Fault](https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [A Hundred Highways](https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi) | 3:34 | 2022-09-30 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Just a Closer Walk with Thee](https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Just a Closer Walk with Thee](https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g) | 3:40 | 2022-01-28 |  |
 | [Less Than Whole](https://open.spotify.com/track/3OzqxGvLzW00YOet2P78sD) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:44 | 2021-12-10 |  |
@@ -93,6 +94,7 @@
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2021-12-10 |  |
 | [Nearer My God To Thee](https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Nearer My God To Thee](https://open.spotify.com/album/5ANnfvCCSn3tNujhrGxPIg) | 4:10 | 2021-12-10 | 2022-07-29 |
 | [Nearer My God to Thee](https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gospel](https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv) | 4:10 | 2022-07-15 |  |
+| [Ol' Church Hymn](https://open.spotify.com/track/6YlQYcJCm0XLkpA3flcbaD) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Ol' Church Hymn](https://open.spotify.com/album/0WNfWSVgvNxqD2OYbWdOvA) | 3:31 | 2022-09-30 |  |
 | [One More Hallelujah](https://open.spotify.com/track/6HnxFNElDrHCClUAofO62l) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [One More Hallelujah](https://open.spotify.com/album/2rdif8xIfOoZxACrvrvCy3) | 4:12 | 2021-12-10 |  |
 | [Outskirts of Heaven](https://open.spotify.com/track/2B8a2NDUrIGYzrb1JbhBdk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Outskirts of Heaven](https://open.spotify.com/album/01h48bHLP7QXPSUcpUdj1z) | 4:04 | 2021-12-10 | 2022-07-29 |
 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 | 2022-07-15 |  |

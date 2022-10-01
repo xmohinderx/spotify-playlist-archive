@@ -8686,6 +8686,28 @@
     },
     {
       "album": {
+        "name": "Fool Me",
+        "url": "https://open.spotify.com/album/0Ad3MJqhBA1acgeWLp4YNw"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Oceans",
+          "url": "https://open.spotify.com/artist/6fUGQU8tAq01xMG7Qzjy8O"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134516,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/6MYzyVOT8sxgwYhCJZYPpp"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5h6gjwZYluJ0h4miC4Re5K"
       },
@@ -23308,6 +23330,32 @@
     },
     {
       "album": {
+        "name": "Stay The Night",
+        "url": "https://open.spotify.com/album/3y2DiOiede28yZNvqLF0uS"
+      },
+      "artists": [
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Colone",
+          "url": "https://open.spotify.com/artist/0pQGruzS2qDKZKC2brjxA9"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150266,
+      "name": "Stay The Night",
+      "url": "https://open.spotify.com/track/6IXJVJ5W109zQcQw2U0pUG"
+    },
+    {
+      "album": {
         "name": "Stay the Night",
         "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
@@ -23323,7 +23371,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
@@ -24493,7 +24541,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 213571,
       "name": "Temper Temper (feat. ONR)",
       "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"

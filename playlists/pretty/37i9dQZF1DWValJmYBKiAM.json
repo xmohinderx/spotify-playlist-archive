@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 57817,
+  "num_followers": 57985,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDEyNSwwMDAwMDAwMGNkOWI2NTYxYmFhM2Q2ZDE1MGNjMDhmZDgyOTA0NDFm",
+  "snapshot_id": "MTY2MTkzMDEyNSwwMDAwMDAwMDViY2UzNDk3OGZmOWNiYTgwZDY0NDgyYWY0MzkwMDJi",
   "tracks": [
     {
       "added_at": "2022-08-31 07:15:25",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Amor del Bueno",
+      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
+    },
+    {
+      "added_at": "2022-08-31 07:15:25",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -135,22 +151,6 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Amor del Bueno",
-      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
-    },
-    {
-      "added_at": "2022-08-31 07:15:25",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
-    },
-    {
-      "added_at": "2022-08-31 07:15:25",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+    },
+    {
+      "added_at": "2022-08-31 07:15:25",
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2022-08-31 07:15:25",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Duele (Crazy)",
-      "url": "https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U"
-    },
-    {
-      "added_at": "2022-08-31 07:15:25",
-      "album": {
         "name": "Revoluci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 264599,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
+    },
+    {
+      "added_at": "2022-08-31 07:15:25",
+      "album": {
+        "name": "Negroklaro",
+        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Duele (Crazy)",
+      "url": "https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U"
     },
     {
       "added_at": "2022-08-31 07:15:25",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "M\u00e1s De Mi Alma",
-        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi"
-    },
-    {
-      "added_at": "2022-08-31 07:15:25",
-      "album": {
         "name": "Flamingos",
         "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+        "name": "M\u00e1s De Mi Alma",
+        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 285226,
-      "name": "Todav\u00eda Me Amas",
-      "url": "https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732"
+      "duration_ms": 287626,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi"
     },
     {
       "added_at": "2022-08-31 07:15:25",
@@ -1071,6 +1055,22 @@
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+    },
+    {
+      "added_at": "2022-08-31 07:15:25",
+      "album": {
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 285226,
+      "name": "Todav\u00eda Me Amas",
+      "url": "https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732"
     },
     {
       "added_at": "2022-08-31 07:15:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "Pet Shop Mundo C\u00e3o",
-        "url": "https://open.spotify.com/album/4H4LNYMi3NTbHGgsUWdR8g"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Telegrama",
-      "url": "https://open.spotify.com/track/7xpDGoUGbtaquk5xMvzwTh"
-    },
-    {
-      "added_at": "2022-08-31 07:15:25",
-      "album": {
         "name": "Quiz\u00e1s",
         "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 251186,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
+    },
+    {
+      "added_at": "2022-08-31 07:15:25",
+      "album": {
+        "name": "Pet Shop Mundo C\u00e3o",
+        "url": "https://open.spotify.com/album/4H4LNYMi3NTbHGgsUWdR8g"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Telegrama",
+      "url": "https://open.spotify.com/track/7xpDGoUGbtaquk5xMvzwTh"
     },
     {
       "added_at": "2022-08-31 07:15:25",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p"
+        "name": "Amar es Combatir",
+        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 259399,
-      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
+      "duration_ms": 296493,
+      "name": "Ojal\u00e1 Pudiera Borrarte",
+      "url": "https://open.spotify.com/track/3PfE0RGeID7Vqs9DygY9RM"
     },
     {
       "added_at": "2022-08-31 07:15:25",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-08-31 07:15:25",
       "album": {
-        "name": "Amar es Combatir",
-        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
+        "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 296493,
-      "name": "Ojal\u00e1 Pudiera Borrarte",
-      "url": "https://open.spotify.com/track/3PfE0RGeID7Vqs9DygY9RM"
+      "duration_ms": 259399,
+      "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
     },
     {
       "added_at": "2022-08-31 07:15:25",

@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-158 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+159 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 | 2022-02-17 |  |
 | [Sweet Ever After \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:31 | 2022-02-17 | 2022-08-27 |
 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 | 2022-04-29 |  |
+| [Take You At Your Word \(with Benjamin William Hastings\) \- Live](https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [God Is Good! \(Live\)](https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH) | 5:16 | 2022-09-30 |  |
 | [Tell My Fight](https://open.spotify.com/track/5MwI2G7ftBxbpqi7HOq2o0) | [Ascent Project](https://open.spotify.com/artist/4r1FGzKdQcTiDDPesf9x7Z), [Matthew McGinley](https://open.spotify.com/artist/7lxa2m03JME8HxOMP6Aaq5) | [Tell My Fight](https://open.spotify.com/album/2C0ge2m9mJm35iCvS8a9XT) | 3:53 | 2022-02-17 | 2022-08-27 |
 | [Tempo](https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Tempo](https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh) | 2:58 | 2022-02-17 |  |
 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 | 2022-07-01 |  |

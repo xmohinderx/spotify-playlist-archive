@@ -4,11 +4,12 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-116 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+118 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Country Girl Can Survive](https://open.spotify.com/track/4KAXqEF9LkQKEgSNMmxDHJ) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [A Country Girl Can Survive](https://open.spotify.com/album/3lPzSJhe2dcc94oMqRMnSe) | 2:53 | 2022-04-15 |  |
+| [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM) | 2:47 | 2022-09-30 |  |
 | [AutoPilot](https://open.spotify.com/track/4P9Ubi9gxlFNNR27g3ML1t) | [DurtE](https://open.spotify.com/artist/6VZRx4elqkf5cXo3nrc8y7), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [AutoPilot](https://open.spotify.com/album/5PlAnlR9c9kuwFRAde1cwp) | 3:40 | 2021-07-23 |  |
 | [Back to Them Backroads](https://open.spotify.com/track/6lzl1UeETmlBNWzC7PHOcR) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 3:11 | 2021-05-21 |  |
 | [Backroads Life \(feat\. The Lacs\)](https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Hog Heaven](https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf) | 4:42 | 2021-05-21 |  |
@@ -56,6 +57,7 @@
 | [Honky Tonkin'](https://open.spotify.com/track/27SlfCkQ5pxaGz7XnomXuM) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Honky Tonkin'](https://open.spotify.com/album/3hBSgothWjIatYA6E9JZvf) | 3:44 | 2021-06-25 |  |
 | [Hood](https://open.spotify.com/track/4QJpdcOcFubTS0VEWu5Guj) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Keys To The Country](https://open.spotify.com/album/42iTDTqmKABTGUfrOKk5YZ) | 3:09 | 2021-11-05 |  |
 | [I'm Still Me](https://open.spotify.com/track/35T4rqTGxHPv5fDfOLsjrx) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 2:52 | 2021-05-21 |  |
+| [If She Ain't Country \- Remix](https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [If She Ain't Country \(Remix\)](https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr) | 2:56 | 2022-09-30 |  |
 | [If That Ain't Country](https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN) | [Jessta James](https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK) | [Time to Get Right](https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB) | 4:15 | 2021-05-21 |  |
 | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru) | [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd) | 3:30 | 2022-02-04 |  |
 | [It Ain't Over Yet](https://open.spotify.com/track/1I3jpw3JLC1reCHuUHjNLT) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Mud Digger 8](https://open.spotify.com/album/2weteiUe1r6MNppMZmDwqk) | 2:50 | 2021-05-21 | 2022-08-21 |

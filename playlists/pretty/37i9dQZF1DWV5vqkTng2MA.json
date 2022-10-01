@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Pokey LaFarge",
-  "num_followers": 332857,
+  "num_followers": 332967,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDgyM2MwNmI3ODY1MmRlMzcyNWYxMjdhZDllOGQwYmI5",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDk5NDVkNWZmMjI3MjJkNDAxM2FiNGVjY2QxN2M1YjE0",
   "tracks": [
     {
       "added_at": "2022-08-02 19:57:54",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "For the Time Being",
-        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
-      },
-      "artists": [
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        },
-        {
-          "name": "Will Leet",
-          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "For the Time Being",
-      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 299719,
       "name": "Sugaree",
       "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "For the Time Being",
+        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        },
+        {
+          "name": "Will Leet",
+          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "For the Time Being",
+      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "The Very Last Day",
-      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "The Very Last Day",
+      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
         "name": "Out Of Style",
         "url": "https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 193066,
       "name": "How Bad We Need Each Other",
       "url": "https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "duration_ms": 265106,
+      "name": "Good Lady",
+      "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 250414,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7n2xBCtl9qFMVnbKjWOvH4"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Manic Revelations",
         "url": "https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA"
       },
@@ -1079,34 +1079,18 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Sir Woman",
-        "url": "https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H"
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
       },
       "artists": [
         {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
         }
       ],
-      "duration_ms": 265106,
-      "name": "Good Lady",
-      "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Irene",
-      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
+      "duration_ms": 250414,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7n2xBCtl9qFMVnbKjWOvH4"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1123,6 +1107,22 @@
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Irene",
+      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "The Muse",
-        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
-      },
-      "artists": [
-        {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Wastin' My Mind",
-      "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Witness",
         "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 234273,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "The Muse",
+        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Wastin' My Mind",
+      "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
     },
     {
       "added_at": "2022-08-02 19:57:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,749 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,786 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 21 | [Khoroto \(Gultrah Sound System\)](https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 4:02 |
 | 22 | [Quest For Eternity](https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:46 |
 | 23 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 |
-| 24 | [Kahf Alkhulood](https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ) | [Narjahanam](https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy) | [Wa Ma Khufiya Kana A'atham](https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38) | 5:11 |
-| 25 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
+| 24 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
+| 25 | [Kahf Alkhulood](https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ) | [Narjahanam](https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy) | [Wa Ma Khufiya Kana A'atham](https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38) | 5:11 |
 | 26 | [Hayati](https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1) | [Arkan](https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH) | [Sofia](https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN) | 4:53 |
 | 27 | [Gnawi](https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el) | [Al\-Qasar](https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r) | [Gnawi](https://open.spotify.com/album/41p0qWCRG9MT7Rtirx1y2B) | 5:57 |
 | 28 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |
 | 29 | [The Gambit](https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 8:04 |
 | 30 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
 
-Snapshot ID: `MTYzNDE5OTM2NywwMDAwMDAwMGQ3NTc0NjMxZjZkM2VhM2VkZTQ3ODI5MmMyZjhlM2Nj`
+Snapshot ID: `MTYzNDE5OTM2NywwMDAwMDAwMDdiY2E2Zjk2YWE5NzIzYzkzZjkwY2U2MzkwODcyZTY5`

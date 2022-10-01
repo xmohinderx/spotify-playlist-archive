@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-849 songs - 1 day 22 hr 4 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+850 songs - 1 day 22 hr 8 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Down](https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/3sUfbClZ6oRx9KtOLdzqTf) | 3:04 | 2020-05-28 | 2022-04-21 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-07-07 |  |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-01-12 | 2022-07-29 |
+| [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 | 2022-09-29 |  |
 | [Drop Dead](https://open.spotify.com/track/3i4CFXy3ezQZEt8V0GA7Uh) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Drop Dead](https://open.spotify.com/album/2WxwbxrV7YRjWfM64hXbNR) | 2:57 | 2020-08-14 | 2021-01-08 |
 | [Drunk Enough To](https://open.spotify.com/track/1cgvB6KaL16ibyrJHhZeG0) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:18 | 2020-06-13 | 2021-01-08 |
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-02-17 | 2022-04-26 |
@@ -546,7 +547,7 @@
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2020-06-12 | 2021-03-19 |
 | [nobody else](https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:17 | 2020-10-02 | 2022-07-29 |
 | [Nobody Likes Moving On](https://open.spotify.com/track/5vcfdnzelPCIZHg8dOkagP) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Nobody Likes Moving On](https://open.spotify.com/album/7LirGgcMQw6UvbM6wQeqwS) | 2:46 | 2020-05-28 | 2021-01-08 |
-| [Nobody's Love](https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:31 | 2022-07-07 |  |
+| [Nobody's Love](https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:31 | 2022-07-07 | 2022-10-01 |
 | [Nobody's Love](https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Nobody's Love](https://open.spotify.com/album/2cDt5R89HP8ZCXhNAmZs27) | 3:31 | 2020-07-24 | 2022-07-29 |
 | [Nobody's Lover \(feat\. Lord Siva\)](https://open.spotify.com/track/7tQopHpdCWF7LWCUgMWVmw) | [Clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Nobody's Lover \(feat\. Lord Siva\)](https://open.spotify.com/album/6bPQpoR8v32yUBpvStHDq1) | 3:32 | 2020-06-12 | 2021-04-22 |
 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 | 2019-10-25 | 2020-01-04 |

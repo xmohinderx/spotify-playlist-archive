@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 58 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 58 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 18 | [Movimento Africano \(Africa Ii\) \- Ao Vivo](https://open.spotify.com/track/17eUPdplHPmzoMJsdyfc68) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 7:35 |
 | 19 | [Fé Inabalável](https://open.spotify.com/track/70DVcAR6igMVrRfBU1GJoM) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Hélio Bentes](https://open.spotify.com/artist/6MyzqGUoZwnmflUnI360kp) | [Marginal](https://open.spotify.com/album/69vbtr2KuRwE14nK8LJfEZ) | 3:11 |
 | 20 | [MALUNGOFORTE.](https://open.spotify.com/track/2v3z1JTUBw1UpsLRa3H6Cm) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 2:08 |
-| 21 | [Vila Isabel \- Ao Vivo](https://open.spotify.com/track/3cT0DDyPdYholSzngXTOrw) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 6:08 |
-| 22 | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Dimme Roots](https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ) | 5:27 |
+| 21 | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Dimme Roots](https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Tempos de Escola \(feat\. Ponto De Equilíbrio\)](https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ) | 5:27 |
+| 22 | [Vila Isabel \- Ao Vivo](https://open.spotify.com/track/3cT0DDyPdYholSzngXTOrw) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 6:08 |
 | 23 | [Eu](https://open.spotify.com/track/6zBYSYwjKloI2pyFq28fUg) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 3:28 |
 | 24 | [Vou Me Tacar](https://open.spotify.com/track/30drSvFpGQLk20Ixd0rTkG) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:30 |
 | 25 | [Ame Sua Missão](https://open.spotify.com/track/0jERDLXffwCjTU5Td5zIXK) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:23 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 57 | [Bob Rei](https://open.spotify.com/track/7kE6fG2ts21dvE5bnBNR2s) | [Diamba](https://open.spotify.com/artist/0LyH0e5DGvDiJTRCwi6EE7), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Fraternidade Musical Diamba](https://open.spotify.com/album/6Kjfm3aWl9mvxQnN3Bnc5M) | 4:28 |
 | 58 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `Mjc3NDE3MjQsMDAwMDAwMDBlYzVhMmE4NDA5NjI1MmY1ODU2NWQ5ODU0NDczNmRhMg==`
+Snapshot ID: `Mjc3NDMxNjQsMDAwMDAwMDA4NmQ0MjVmMjVhNWFlYzU1ZDE3ZTM4NWFhMjYxZjllNw==`

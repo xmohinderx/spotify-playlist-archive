@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Matt Guy
 
-261 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+262 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blue](https://open.spotify.com/track/30jjLOdrqdV4DhUuvI0IX9) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Blue](https://open.spotify.com/album/1gN7dIn5dTHKt8W56lGuAX) | 3:35 | 2022-06-09 | 2022-07-08 |
 | [Body](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body](https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp) | 2:43 | 2022-06-09 |  |
 | [Body Like](https://open.spotify.com/track/6GmbYNqTarohnbNM99pA0f) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd), [sid tipton](https://open.spotify.com/artist/1LgF3q7qslhLt5qb6fAtNA) | [Body Like](https://open.spotify.com/album/0WYC0hppSJt5QmfWFfcX0F) | 3:09 | 2022-08-25 |  |
+| [Break The Silence](https://open.spotify.com/track/7sRQpJTP2b8jRde8IsaPWm) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Break The Silence](https://open.spotify.com/album/36VWkKMQrDQoY4PAiBXFBq) | 2:31 | 2022-09-30 |  |
 | [Breathe Deep](https://open.spotify.com/track/0slNopMRaXiqHfi1RHepYW) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Breathe Deep](https://open.spotify.com/album/4hcbjbhpg9sfBkNlS0QHF5) | 3:11 | 2022-06-09 | 2022-07-29 |
 | [Buggin' Out](https://open.spotify.com/track/1QrFMYZoTSoU0w82ezQHbb) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Buggin' Out](https://open.spotify.com/album/7rK19oalxBBZ9Vnlanc4m8) | 3:28 | 2022-06-23 | 2022-08-18 |
 | [Careless](https://open.spotify.com/track/6m4bdAPUg12BXw71Xbj1Fz) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Careless](https://open.spotify.com/album/4caNry14PWQzUjxfzHckws) | 3:03 | 2022-06-09 | 2022-07-22 |

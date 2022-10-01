@@ -2,9 +2,9 @@
 
 ### [Sludge](https://open.spotify.com/playlist/37i9dQZF1DXaWgNWdGsjlE)
 
-> make a mess of it\. Cover: POORSTACY
+> make a mess of it\. Cover: DeathbyRomy
 
-137 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+138 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1\-800\-CLOSE\-UR\-EYES](https://open.spotify.com/track/7aO4r1tWlxaJCsq2f8tPCR) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [1\-800\-CLOSE\-UR\-EYES](https://open.spotify.com/album/4RWQdABMRwPtFCelCgEExV) | 2:13 | 2022-04-08 |  |
 | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [L'exquisite Douleur](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH) | 3:08 | 2022-04-29 |  |
 | [AI](https://open.spotify.com/track/4OcxBd349UIgErVz81V2TY) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [AI](https://open.spotify.com/album/2bqMK2GcB02ezyvBJhW7Uy) | 2:54 | 2022-04-08 |  |
+| [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If) | 2:21 | 2022-09-30 |  |
 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 | 2022-04-08 | 2022-04-29 |
 | [Appetite](https://open.spotify.com/track/34O6gpg1ljVP1NNvAJIOJQ) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Appetite](https://open.spotify.com/album/3OrNjBTvDML7u22UGc5MMc) | 2:41 | 2022-04-08 | 2022-07-02 |
 | [As Above, So Below](https://open.spotify.com/track/0CxrhLohV65mdYOlGX4Zw4) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [As Above, So Below / Hunting Grounds / The In\-Between](https://open.spotify.com/album/2pQDdTHDG50tBGQvF58RuK) | 4:09 | 2022-04-08 | 2022-07-29 |
@@ -27,7 +28,7 @@
 | [Brainfreeze](https://open.spotify.com/track/4Eb3gMQ7N2dpPNJM3g0BQf) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/7eEbep8JcpiguccrgdNcms) | 4:16 | 2022-04-08 | 2022-07-29 |
 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 | 2022-07-01 |  |
 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2022-04-08 |  |
-| [CANNOT GET ANY BETTER](https://open.spotify.com/track/5M4r4rrjc3mXTRLIDH9qcG) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [CANNOT GET ANY BETTER](https://open.spotify.com/album/4C8JSXX0gamv4pllZ55XQV) | 2:24 | 2022-04-08 |  |
+| [CANNOT GET ANY BETTER](https://open.spotify.com/track/5M4r4rrjc3mXTRLIDH9qcG) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [CANNOT GET ANY BETTER](https://open.spotify.com/album/4C8JSXX0gamv4pllZ55XQV) | 2:24 | 2022-04-08 | 2022-10-01 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-04-08 |  |
 | [Choke](https://open.spotify.com/track/3CCPPygZiu0tBGHDzVcQWk) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Choke](https://open.spotify.com/album/1TtnJkq4DKJMSKu2D5EFL7) | 4:02 | 2022-04-08 | 2022-07-29 |
 | [Choke](https://open.spotify.com/track/7BWyFa7hnm2D31CVydyUMl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Choke](https://open.spotify.com/album/5butUAMQEYVZAeQEFuhG3J) | 4:02 | 2022-07-01 |  |

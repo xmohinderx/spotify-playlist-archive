@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-293 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
+294 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [The Future](https://open.spotify.com/track/2OVqYcvadhEjes5Rql8vvt) | [Anna Barnett](https://open.spotify.com/artist/2ah0mxguVUG73HhXLiOP8O) | [EP](https://open.spotify.com/album/64NIyNjVtVFBy23uL5PV87) | 5:57 | 2019-09-30 | 2022-02-01 |
 | [The Girl I Haven't Met](https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm) | [Nate Richert](https://open.spotify.com/artist/6ldgbkFgkKxOTa5caCyUDl) | [Halogen Moon](https://open.spotify.com/album/5PkIwmxoxW1qDDw18qjrS2) | 2:59 | 2019-09-30 | 2022-07-25 |
 | [The Light](https://open.spotify.com/track/3eGvRSX0XawoZCjNtQXbsk) | [Roanoke](https://open.spotify.com/artist/3DiJ8FDytuRHd8ayygyN8x) | [Roanoke](https://open.spotify.com/album/2KeY338WlVKaynZURz2O6F) | 3:01 | 2019-09-29\* | 2022-07-29 |
-| [The One You Love](https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Kate Miller Heidke](https://open.spotify.com/artist/1ChKcTlKCWZxWAvmyUhB3t) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:02 | 2022-02-14 |  |
+| [The One You Love](https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Kate Miller Heidke](https://open.spotify.com/artist/1ChKcTlKCWZxWAvmyUhB3t) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:02 | 2022-02-14 | 2022-10-01 |
 | [The One You love \(feat\. Kate Miller Heidke\)](https://open.spotify.com/track/7w4aYP7Jgk0jpgaa2xPXw4) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Flight of the Crow](https://open.spotify.com/album/044T1Gl8vTkvmDKhsFX5Qr) | 3:02 | 2020-06-12 | 2022-07-28 |
 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 | 2019-09-29\* | 2022-07-29 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2020-02-03 |  |
@@ -261,6 +261,7 @@
 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 | 2022-02-14 |  |
 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 | 2019-09-29\* | 2022-07-29 |
 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/6rKfnpSyHhdVrukCPZT3hK) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6ke1877tfbBGWSlHFwxomE) | 3:02 | 2019-09-29\* | 2022-07-28 |
+| [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 | 2022-02-14 |  |
 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 | 2022-02-14 |  |
 | [Two of Us on the Run](https://open.spotify.com/track/25FoplCa9QqSc8ohE6gzAs) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Deluxe Edition\)](https://open.spotify.com/album/3FbnUTejfWegwYtIS8SRql) | 4:35 | 2021-02-18 | 2022-07-29 |
 | [Untamed](https://open.spotify.com/track/1TDKNDMFsFCWJneWAmjLRm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3ZETz7pyrQ5MrbC8lM1Yek) | 3:58 | 2019-09-29\* | 2022-07-09 |

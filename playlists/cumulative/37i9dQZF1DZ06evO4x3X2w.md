@@ -4,11 +4,11 @@
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-54 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/65vGzS1ON2m6lDNe2X9Aua)
+55 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/65vGzS1ON2m6lDNe2X9Aua)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't That A Bitch](https://open.spotify.com/track/5BYs1MzSOtId1t2itGmHh2) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 5:25 | 2022-09-17 | 2022-09-30 |
+| [Ain't That A Bitch](https://open.spotify.com/track/5BYs1MzSOtId1t2itGmHh2) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 5:25 | 2022-09-17 |  |
 | [Amazing](https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:56 | 2022-09-17 |  |
 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 | 2022-09-17 |  |
 | [Back In the Saddle](https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:40 | 2022-09-17 |  |
@@ -28,7 +28,7 @@
 | [Fly Away From Here](https://open.spotify.com/track/4QB2cdh2v5zeRD1khGF9A5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 5:01 | 2022-09-17 |  |
 | [Full Circle](https://open.spotify.com/track/3J36VgHD5KvlNR7NinNph5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 5:00 | 2022-09-17 |  |
 | [Girls of Summer](https://open.spotify.com/track/5hmZHlQiPUMUKBtYmtZqAt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/6qVrPDFldH0jxhALHppFQU) | 3:13 | 2022-09-17 |  |
-| [Hangman Jury](https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:33 | 2022-09-20 | 2022-09-29 |
+| [Hangman Jury](https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:33 | 2022-09-20 |  |
 | [Hole In My Soul](https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 6:10 | 2022-09-17 |  |
 | [Home Tonight](https://open.spotify.com/track/5btAcDEgNCJDrfmINA4Qrn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 3:16 | 2022-09-17 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-09-17 |  |
@@ -46,11 +46,12 @@
 | [No More No More](https://open.spotify.com/track/1oN1BiBoHTmiXRfuSgDMRd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-09-20 |  |
 | [Pink](https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:55 | 2022-09-17 |  |
 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2022-09-17 |  |
-| [Reefer Head Woman](https://open.spotify.com/track/58wkIWSCm3QXa5xlND4gl9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 5:37 | 2022-09-17 |  |
+| [Reefer Head Woman](https://open.spotify.com/track/58wkIWSCm3QXa5xlND4gl9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 5:37 | 2022-09-17 | 2022-10-01 |
+| [Remember \(Walking In The Sand\)](https://open.spotify.com/track/4AFHB8laVETw8ruPZscDbe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Night In The Ruts](https://open.spotify.com/album/19MVMst4XtFfzLy0z2aKUF) | 4:04 | 2022-09-30 |  |
 | [Same Old Song and Dance](https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq) | 3:53 | 2022-09-17 |  |
 | [Shut Up And Dance](https://open.spotify.com/track/3BbWOytu8sLDD2pgU5z5xz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:55 | 2022-09-17 |  |
-| [Sick As A Dog](https://open.spotify.com/track/2R1HDqY6bSdb7G5mYbcItD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:11 | 2022-09-17 |  |
-| [Somebody](https://open.spotify.com/track/5fcoCOuTYvAm1ap7d1zfB1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 4:35 | 2022-09-17 |  |
+| [Sick As A Dog](https://open.spotify.com/track/2R1HDqY6bSdb7G5mYbcItD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:11 | 2022-09-17 | 2022-10-01 |
+| [Somebody](https://open.spotify.com/track/5fcoCOuTYvAm1ap7d1zfB1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 4:35 | 2022-09-17 | 2022-10-01 |
 | [Stop Messin' Around](https://open.spotify.com/track/0D156dFOpliyPmemyptIzJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Honkin' On Bobo](https://open.spotify.com/album/2BAMyErzVjBJ7kvQWBJmbT) | 4:29 | 2022-09-17 |  |
 | [Sunshine](https://open.spotify.com/track/4tQnVmMQBfOPax9jZeiwvD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 3:37 | 2022-09-17 |  |
 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-09-17 |  |

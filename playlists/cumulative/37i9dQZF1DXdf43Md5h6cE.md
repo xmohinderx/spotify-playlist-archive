@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-92 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+93 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2022-05-19 |  |
 | [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 | 2022-05-19 |  |
 | [Horizon](https://open.spotify.com/track/5WgwDJDSy2nxuV3iHlMXS4) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Compassberg](https://open.spotify.com/album/3r8FRtio1GfcpTW70YDt97) | 4:05 | 2022-05-19 |  |
+| [illusions](https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [illusions](https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5) | 3:43 | 2022-09-30 |  |
 | [in motion](https://open.spotify.com/track/1SJAJFXAh3qMeVcMfRXrWa) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [wander into](https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21) | 3:57 | 2022-05-19 |  |
 | [Inner Illumination](https://open.spotify.com/track/5QEIM4Ut4qiu2cRlqzT1xR) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inner Illumination](https://open.spotify.com/album/6t2Gp4obISbu6ji2svw4Wb) | 3:42 | 2022-09-23 |  |
 | [Inner Space](https://open.spotify.com/track/7HkAMBIhGt1LszaMZqIfNf) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR), [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn) | [Inner Space](https://open.spotify.com/album/5W1vYzWtA5v7qCBnWTg9rL) | 2:16 | 2022-05-19 |  |

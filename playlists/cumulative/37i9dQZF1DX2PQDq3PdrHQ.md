@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-342 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+343 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Lost In The Woods](https://open.spotify.com/track/0JaOvwTpEqTo5c28HiEAmg) | [Remizid](https://open.spotify.com/artist/7m4jP3wjMZToVAWAaLUDmA) | [Lost In The Woods](https://open.spotify.com/album/5Gn1a4kRwO4QjcahzNp9gv) | 2:12 | 2022-07-15 | 2022-08-13 |
 | [lost my color](https://open.spotify.com/track/0z7i8XntrHsfZvkRdJ6EMY) | [Sleepy Numbat](https://open.spotify.com/artist/56NwFpEtEcw83To4Cdzp3v) | [lost my color](https://open.spotify.com/album/1l3LL90YUxY40jZfmHKtNh) | 1:25 | 2022-09-02 |  |
 | [Low Tide](https://open.spotify.com/track/2AYtdz8to1h6ZAOUaG0BaU) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Low Tide](https://open.spotify.com/album/3TQI5JVPLXrw7cdrSNdqPz) | 2:37 | 2022-07-15 |  |
+| [Lucid Night](https://open.spotify.com/track/7qNraMvsidWQNfHDdqxa0v) | [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [Sleepless Nights, Vol\. 1](https://open.spotify.com/album/6qnl9xdLZvudzu2FyMgByj) | 2:35 | 2022-09-30 |  |
 | [luna](https://open.spotify.com/track/6P4kfnlY3xItmwLsgLYSTv) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Jisatsu](https://open.spotify.com/artist/0T1Ope3kfLPZQ6l715wc34) | [luna](https://open.spotify.com/album/7axXxsf3tBqirUSV4WmAtr) | 2:24 | 2022-05-20 |  |
 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 | 2022-09-16 |  |
 | [Lustrous](https://open.spotify.com/track/7wm5VRPlO06uFdn3DMcLbB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Lustrous](https://open.spotify.com/album/18vznKPczlDc1jadJ8fB3u) | 2:27 | 2022-07-22 |  |

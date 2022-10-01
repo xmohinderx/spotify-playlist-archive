@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,431 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,499 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 14 | [Hermoso Cariño](https://open.spotify.com/track/1HBDEruKxQkb9nZnp2QE5B) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:12 |
 | 15 | [En Mi Viejo San Juan \- En Vivo en Puerto Rico \- Teatro Bellas Artes /2000](https://open.spotify.com/track/4VelAw3TjuAW0hlL9Gr8ei) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Vivo](https://open.spotify.com/album/2B6NtQv1oRA1uVD8qQC0k6) | 4:18 |
 | 16 | [Homenaje a Lola \(Popurrí\) \- En Vivo](https://open.spotify.com/track/1jAuWENO3fqVV95sZRyKGQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Celebrando 25 Años De Juan Gabriel En El Palacio De Bellas Artes](https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH) | 8:44 |
-| 17 | [Perfume de Gardenias \(feat\. Mariachi Vargas de Tecatitlán\) \- En Vivo](https://open.spotify.com/track/7xVYUYqCGbsEoxfVHrZQqU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi, Voces y Cuerdas \(Concierto En Vivo\)](https://open.spotify.com/album/4uMlrzJ7CVJIRtHEzPK5sb) | 3:45 |
-| 18 | [Hasta Que Te Conocí \- En Vivo](https://open.spotify.com/track/3lknjujNXrpUqab4Drj7Nm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:44 |
+| 17 | [Hasta Que Te Conocí \- En Vivo](https://open.spotify.com/track/3lknjujNXrpUqab4Drj7Nm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:44 |
+| 18 | [Perfume de Gardenias \(feat\. Mariachi Vargas de Tecatitlán\) \- En Vivo](https://open.spotify.com/track/7xVYUYqCGbsEoxfVHrZQqU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi, Voces y Cuerdas \(Concierto En Vivo\)](https://open.spotify.com/album/4uMlrzJ7CVJIRtHEzPK5sb) | 3:45 |
 | 19 | [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 |
 | 20 | [A Pesar de Todo \- \(En Vivo\)](https://open.spotify.com/track/69iSRnP0MHzihN1T00cRel) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:41 |
 | 21 | [Tu A Mi No Me Hundes \- En Vivo Desde Bellas Artes, México/ 2013](https://open.spotify.com/track/6fl2z7exv5Y8NybcTtYpkJ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis 40 En Bellas Artes \(En Vivo Desde Bellas Artes, México/ 2013\)](https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMGRmYWU3ZGMyMzg1MjdjNGRjOTk4MWEwZGJlNjRlNTk0`
+Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMGVjZDQ0ZWRlNWJiYTliM2U3ZTJmMmZlYjI2OWMyM2Uw`

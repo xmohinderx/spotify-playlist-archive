@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhruv Vikram
 
-198 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+199 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Aye Pulla \- From "Think Indie"](https://open.spotify.com/track/0F1Qx6kQmYRWWBfJlD43H0) | [Kiran Surath](https://open.spotify.com/artist/2T89YvLTTAhpXoN1cPdTcH), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Aye Pulla \(From "Think Indie"\)](https://open.spotify.com/album/07PaDk11ysuPYWDa1uK50R) | 3:26 | 2022-08-23 |  |
 | [Azhagaai](https://open.spotify.com/track/1MIPmljysSLID51OCYEVK2) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY) | [Azhagaai](https://open.spotify.com/album/6h0Gms0Q7pWShPRYUEZJI7) | 3:54 | 2022-08-05 |  |
 | [Baby Nee Sugar](https://open.spotify.com/track/4nCkx9c5ctpOimGvXRHKDH) | [Osho Venkat](https://open.spotify.com/artist/4z1Pb5nNxIT4c9nEr66523) | [Baby Nee Sugar](https://open.spotify.com/album/0JBO23CAuzr2iNN5X9knik) | 3:53 | 2022-03-31 |  |
+| [Badhil Adi](https://open.spotify.com/track/3ICLwSAqpt75ypmWlBJyLf) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Hemanth Kumar](https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF), [Vrusha Balu](https://open.spotify.com/artist/0GNSRY7lJdxsHKgQqiPI9u) | [Badhil Adi](https://open.spotify.com/album/5bfvG6VTedMpRIn77eixDn) | 2:52 | 2022-09-30 |  |
 | [Bandaid](https://open.spotify.com/track/3UQt4q2ewvcmpA4C95SO0s) | [Akash Rapstar](https://open.spotify.com/artist/4LPgkuqq513xgsAHQZoEsE), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Bandaid](https://open.spotify.com/album/5GRbMklkEaJY3cKjmjPnR1) | 2:52 | 2022-06-15 | 2022-07-15 |
 | [Bathroom Song](https://open.spotify.com/track/4vxEs5Y1BFE94bbGqjLdyt) | [Madan Gowri](https://open.spotify.com/artist/1DQwmtd7RayreNlWcJVCgn), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe) | [Bathroom Song](https://open.spotify.com/album/6MKgjmSZmF8FEuMPtpkmS6) | 3:11 | 2021-12-01 |  |
 | [Bodhai Neeye](https://open.spotify.com/track/1F7zl2SM8Ckqjsyf3OBVG3) | [Praveen Powers](https://open.spotify.com/artist/2n0JRtQVAdOos5ROmEX6c3), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Bodhai Neeye](https://open.spotify.com/album/6LejRIejmqPBhLqpOA5Xlx) | 5:22 | 2022-02-14 | 2022-05-31 |

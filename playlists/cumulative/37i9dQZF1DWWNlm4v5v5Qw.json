@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "DMV music breaking waves. Cover: AL-DOMS",
+  "description": "DMV music breaking waves. Cover: 3OHBLACK",
   "name": "Ripple Effect: DMV",
   "published_playlist_ids": [
     "6nQJck6sZVUzsd3csrIbig"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 149231,
       "name": "Ain't Going Back",
       "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/14DO8oPrgLc7gcfF6MbFnH"
+      },
+      "artists": [
+        {
+          "name": "Bandhunta Izzy",
+          "url": "https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187258,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/1DexvXGmsZu6mWElq4XRp4"
+    },
+    {
+      "album": {
         "name": "CANCER BABY",
         "url": "https://open.spotify.com/album/4AB65PNSlnXCMwaQoIyb2F"
       },
@@ -963,6 +981,24 @@
       "duration_ms": 172800,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/0L8bf6ph4kDnHtKRnY95aH"
+    },
+    {
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4"
+      },
+      "artists": [
+        {
+          "name": "3ohBlack",
+          "url": "https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134383,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ"
     },
     {
       "album": {
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/25vP1c6ZkWsR4ejonbGFDF"
@@ -1809,7 +1845,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 107991,
       "name": "Giig",
       "url": "https://open.spotify.com/track/6kQR8k8HQmWggsb0f07Xet"
@@ -1849,6 +1885,24 @@
       "duration_ms": 210939,
       "name": "Gotsta Get Paid",
       "url": "https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c"
+    },
+    {
+      "album": {
+        "name": "Gratuity",
+        "url": "https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e"
+      },
+      "artists": [
+        {
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217043,
+      "name": "Gratuity",
+      "url": "https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9"
     },
     {
       "album": {
@@ -1915,6 +1969,32 @@
       "duration_ms": 200493,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4eK8QL4amHv3o8f4lNtce8"
+    },
+    {
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "HEAD TO HADES",
+      "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
     },
     {
       "album": {
@@ -2110,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "If You Must Go",
+        "url": "https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr"
+      },
+      "artists": [
+        {
+          "name": "S\u00e6kyi",
+          "url": "https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196122,
+      "name": "If You Must Go",
+      "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
+    },
+    {
+      "album": {
         "name": "Iffy",
         "url": "https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR"
       },
@@ -2223,7 +2321,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 46215,
       "name": "Jersey Anniversary (Sample)",
       "url": "https://open.spotify.com/track/4HgB4trNaESJ6RB6K5zsaV"
@@ -2775,7 +2873,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 99765,
       "name": "Matte Black",
       "url": "https://open.spotify.com/track/4ngAE5MFWuzqteZbM4Ugy4"
@@ -2837,6 +2935,24 @@
       "duration_ms": 233069,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
+    },
+    {
+      "album": {
+        "name": "PRELUDE I: LAX",
+        "url": "https://open.spotify.com/album/7w8UM4aYEzINYR6b9NZWWF"
+      },
+      "artists": [
+        {
+          "name": "BADGER",
+          "url": "https://open.spotify.com/artist/3cYU0MrWiLukHpUTuwfH7W"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151249,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/7u7t615DZLnFj4ezYtLms8"
     },
     {
       "album": {
@@ -3055,7 +3171,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 199941,
       "name": "My Level",
       "url": "https://open.spotify.com/track/1Z9rBDVCdQSnL8ExSU79L3"
@@ -3843,7 +3959,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 140643,
       "name": "Roll Call",
       "url": "https://open.spotify.com/track/1wbV2uV4n4J3hOkrksI15A"
@@ -4148,6 +4264,28 @@
     },
     {
       "album": {
+        "name": "Something To Talk About",
+        "url": "https://open.spotify.com/album/4MaSCgUF7hMjc7QCdIBsb0"
+      },
+      "artists": [
+        {
+          "name": "Until The Very End",
+          "url": "https://open.spotify.com/artist/5Jv5Lpg9AV9WJK9kfnZAX0"
+        },
+        {
+          "name": "FNSHLINE",
+          "url": "https://open.spotify.com/artist/2BveIQx5v3GG0w8aI7zFUE"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217777,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/7hKWeVTJDVKf9Ogd21RmpB"
+    },
+    {
+      "album": {
         "name": "Spankin \u2018Em",
         "url": "https://open.spotify.com/album/2PCCyQH3NC2FmJS76AicNu"
       },
@@ -4207,6 +4345,24 @@
       "duration_ms": 152424,
       "name": "Still Lit",
       "url": "https://open.spotify.com/track/1dj72SPFE1W1bNraqVs7oq"
+    },
+    {
+      "album": {
+        "name": "Streets",
+        "url": "https://open.spotify.com/album/0JRGXtHtaXzYM4fEhtXJw3"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144321,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/1TYByBVUgkH7lndO0YRmbl"
     },
     {
       "album": {
@@ -4421,6 +4577,24 @@
       "duration_ms": 197304,
       "name": "Tits & Grits",
       "url": "https://open.spotify.com/track/6oJ3ps7hZPibXhDJMHs7dK"
+    },
+    {
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/4j5NRsZgbL7ZvFzfuhPh7D"
+      },
+      "artists": [
+        {
+          "name": "Dada444l",
+          "url": "https://open.spotify.com/artist/4dVmDpC6DBlSBwxvQkT21C"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128063,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/1MtqVeaNkhWE2W0dOvfKOf"
     },
     {
       "album": {

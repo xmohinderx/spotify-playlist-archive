@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mỹ Mỹ; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Nie; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,804 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,841 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 2 | [Thật Khó Để Nói “Tôi Yêu Em“](https://open.spotify.com/track/6EOxi2lJ3J8PgDXNulCrhx) | [Huỳnh Đức](https://open.spotify.com/artist/66MCxQvUl5GOX5fJJbbSSY), [Luân Mía](https://open.spotify.com/artist/3DUWlprIU27RiyvwYTCmrF), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [Thật Khó Để Nói “Tôi Yêu Em“](https://open.spotify.com/album/4xzgG0RnNMROKworCo1sKh) | 3:21 |
 | 3 | [Gửi Ngàn Lời Yêu](https://open.spotify.com/track/64iWUlgGOEmsKUZSCXHfl4) | [Hồng Dương](https://open.spotify.com/artist/6xDaSKkOUfOxR5HCf6Gmq7) | [Gửi Ngàn Lời Yêu](https://open.spotify.com/album/63z0Dd3bhfhNkBF788J5GV) | 4:19 |
 | 4 | [Giá Như Ta](https://open.spotify.com/track/7uOIMT5ZUuMR706rfUhx51) | [Starry Night](https://open.spotify.com/artist/3eIwGWU86iuKq4HoUoZl6P) | [Giá Như Ta](https://open.spotify.com/album/0S8sY3wJa8JwPRxdFHnQdm) | 3:45 |
-| 5 | [Ngại Ngùng](https://open.spotify.com/track/26c7o6WHqYWBSvL8kJ1z0J) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [MC Wiz](https://open.spotify.com/artist/4sukkkUXTLXloBgZPRUEad) | [Ngại Ngùng](https://open.spotify.com/album/2KJmh3930S2eDbuJT42HQs) | 3:00 |
-| 6 | [Trong Mơ](https://open.spotify.com/track/0dB37hMEPsmepXDGbi1Fpc) | [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm) | [Trong Mơ](https://open.spotify.com/album/4o5WmaUAMlYajQQE9IXFwI) | 3:59 |
-| 7 | [Có Hay Từ Bao Giờ?](https://open.spotify.com/track/3QXSennQGgTqhrQ0saHyN8) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Ed.Hast](https://open.spotify.com/artist/6tKesL0hlachfddWwq0Tzm), [KEI](https://open.spotify.com/artist/3TLujYTRHGq5M1Hh11vLYv) | [Có Hay Từ Bao Giờ?](https://open.spotify.com/album/6ogBJt0FJtE63RxCCtTI2Q) | 4:09 |
+| 5 | [Có Hay Từ Bao Giờ?](https://open.spotify.com/track/3QXSennQGgTqhrQ0saHyN8) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Ed.Hast](https://open.spotify.com/artist/6tKesL0hlachfddWwq0Tzm), [KEI](https://open.spotify.com/artist/3TLujYTRHGq5M1Hh11vLYv) | [Có Hay Từ Bao Giờ?](https://open.spotify.com/album/6ogBJt0FJtE63RxCCtTI2Q) | 4:09 |
+| 6 | [Ngại Ngùng](https://open.spotify.com/track/26c7o6WHqYWBSvL8kJ1z0J) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [MC Wiz](https://open.spotify.com/artist/4sukkkUXTLXloBgZPRUEad) | [Ngại Ngùng](https://open.spotify.com/album/2KJmh3930S2eDbuJT42HQs) | 3:00 |
+| 7 | [Trong Mơ](https://open.spotify.com/track/0dB37hMEPsmepXDGbi1Fpc) | [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm) | [Trong Mơ](https://open.spotify.com/album/4o5WmaUAMlYajQQE9IXFwI) | 3:59 |
 | 8 | [Duyên Duyên Số Số](https://open.spotify.com/track/3kFCxdOwl9n0nbSB3ZLJlT) | [DuUyen](https://open.spotify.com/artist/5qezoIN1LR4ePe08Bz8H0Q) | [Duyên Duyên Số Số](https://open.spotify.com/album/3dvJswkdZ3EoPvGlO81lGz) | 5:21 |
 | 9 | [biet iu 1 nguoi](https://open.spotify.com/track/1g81KcA7tjoHug3WE9GhC5) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [biet iu 1 nguoi](https://open.spotify.com/album/7uKuy9aMQmqvQkpVx8927F) | 3:00 |
 | 10 | [Tình Yêu Lofi](https://open.spotify.com/track/3vbGVpoTPFjPPUCm4127GO) | [DawnG](https://open.spotify.com/artist/76FtV3J5Mr7TIAOCp4iKec), [kim](https://open.spotify.com/artist/3vHCYbpC0mr2ITEYz1CnrE), [Chill Mal](https://open.spotify.com/artist/1p6TbwOK6fMNSAWRDjoYEu) | [Tình Yêu Lofi](https://open.spotify.com/album/0PhXWWBBvuMCgAQDOZtXNx) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [COMETHRU](https://open.spotify.com/track/4vbcZrRsrQXgx1moiV0Saz) | [ka1](https://open.spotify.com/artist/25HcPXDI6EfLESc2fBRFNo) | [COMETHRU](https://open.spotify.com/album/04bQvXNTIyDWX8PgWRFtS6) | 3:33 |
 | 100 | [Giấc Mơ Rất Thơ](https://open.spotify.com/track/0xMIMrT7Vmwsejznw8LJAE) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [thaison!](https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz) | [Giấc Mơ Rất Thơ](https://open.spotify.com/album/0Enf631SjxZSfjAHGPgpIU) | 2:52 |
 
-Snapshot ID: `MTY2NDQ0OTg5NSwwMDAwMDAwMDBhMmQ2N2QyNmMxNWJiNTNhNzhkYjg2ZDVmZWUyZWEx`
+Snapshot ID: `MTY2NDUxNDk4NCwwMDAwMDAwMGRjYmM0YmNmMjk3ZGY0ZjlhYmMwYzViYTFlOGI4ZDk2`

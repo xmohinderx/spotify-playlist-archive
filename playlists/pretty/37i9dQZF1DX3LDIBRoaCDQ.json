@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1425177,
+  "num_followers": 1425447,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMDBkNjFmMDJjNjUwYjkyNWUzNDQwNDMwMDVhNzQxZTUx",
+  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMGE0MmQ1NGQyMGE4NGY2OWVhOTYyMDNhNDU2ZDczMWUz",
   "tracks": [
     {
       "added_at": "2022-06-21 19:07:54",
@@ -319,22 +319,18 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 279520,
-      "name": "I'm Waiting For The Man",
-      "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
+      "duration_ms": 207040,
+      "name": "California Uber Alles",
+      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -355,18 +351,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
       "artists": [
         {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
         }
       ],
-      "duration_ms": 207040,
-      "name": "California Uber Alles",
-      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+      "duration_ms": 279520,
+      "name": "I'm Waiting For The Man",
+      "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Marquee Moon",
         "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 638426,
       "name": "Marquee Moon",
       "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 100333,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Pink Flag",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
       "artists": [
         {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Mannequin - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -707,6 +691,22 @@
       "duration_ms": 116440,
       "name": "White Riot - Remastered",
       "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Pink Flag",
+        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
+      },
+      "artists": [
+        {
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Mannequin - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Double Nickels on the Dime",
         "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
       },
@@ -823,22 +807,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 102106,
       "name": "Knowledge - 2007 Remaster",
       "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 120333,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
-        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
         }
       ],
-      "duration_ms": 280826,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
+      "duration_ms": 155960,
+      "name": "Suspect Device",
+      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1111,34 +1111,18 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
       },
       "artists": [
         {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 155960,
-      "name": "Suspect Device",
-      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Damned Damned Damned",
-        "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
-      },
-      "artists": [
-        {
-          "name": "The Damned",
-          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Neat Neat Neat",
-      "url": "https://open.spotify.com/track/7abNwHdN34BP9q4tKfKeMg"
+      "duration_ms": 280826,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1155,6 +1139,22 @@
       "duration_ms": 211200,
       "name": "TV Party",
       "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
+      },
+      "artists": [
+        {
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+        }
+      ],
+      "duration_ms": 161573,
+      "name": "Neat Neat Neat",
+      "url": "https://open.spotify.com/track/7abNwHdN34BP9q4tKfKeMg"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "The Crack",
-        "url": "https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq"
-      },
-      "artists": [
-        {
-          "name": "The Ruts",
-          "url": "https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3"
-        }
-      ],
-      "duration_ms": 155186,
-      "name": "Babylon's Burning",
-      "url": "https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Marquee Moon",
         "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "The Crack",
+        "url": "https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq"
+      },
+      "artists": [
+        {
+          "name": "The Ruts",
+          "url": "https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3"
+        }
+      ],
+      "duration_ms": 155186,
+      "name": "Babylon's Burning",
+      "url": "https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Death Rides A Pale Cow: The Ultimate Collection",
         "url": "https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 107866,
       "name": "Dean's Dream",
       "url": "https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "All This and More",
+      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1575,34 +1575,18 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+        "name": "Raw Power (Legacy Edition)",
+        "url": "https://open.spotify.com/album/6vHqopioDuXtXTDoJhQZls"
       },
       "artists": [
         {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
         }
       ],
-      "duration_ms": 167400,
-      "name": "All This and More",
-      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "This Is The Modern World",
-        "url": "https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 150626,
-      "name": "The Modern World",
-      "url": "https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe"
+      "duration_ms": 206040,
+      "name": "Search and Destroy - Bowie Mix",
+      "url": "https://open.spotify.com/track/4vhTm7eeqJAW4Iq3grUutI"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1619,6 +1603,22 @@
       "duration_ms": 114133,
       "name": "Anarchy Burger (Hold the Government)",
       "url": "https://open.spotify.com/track/6rbCaKnfikjHo6RxEDAre9"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "This Is The Modern World",
+        "url": "https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 150626,
+      "name": "The Modern World",
+      "url": "https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe"
     }
   ],
   "unique_name": "Classic Punk",

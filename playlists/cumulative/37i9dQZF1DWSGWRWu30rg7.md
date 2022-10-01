@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aruma Artwork: Isu Kim.
 
-1,120 songs - 2 day 20 hr 44 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+1,123 songs - 2 day 20 hr 57 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [2020](https://open.spotify.com/track/0HcfDC0Gx2k0sItTO96UAw) | [Ga Ga Grand](https://open.spotify.com/artist/2JKtLNLaJhvQvMtzWbEubD) | [2020](https://open.spotify.com/album/5yqEG1Ti0P1mWH6RC35b2s) | 3:52 | 2022-02-03 | 2022-02-18 |
 | [23.22](https://open.spotify.com/track/2A6hr5RtEkDAu06wL87rjj) | [Nuelo](https://open.spotify.com/artist/0St5cBAcEnnjcUW9muoYWM) | [23.22](https://open.spotify.com/album/7o2yvPkrw5Fp38aHjAIvRL) | 4:53 | 2022-01-27 | 2022-02-11 |
 | [24](https://open.spotify.com/track/1kGdmYglB6zVHnlnDuq9WW) | [Raracellina](https://open.spotify.com/artist/4c35lGsLbwUTvQzGZxb2iI) | [24](https://open.spotify.com/album/34oqgpbFPJtlgJLAEV8nw5) | 3:36 | 2022-04-14 | 2022-05-06 |
-| [25](https://open.spotify.com/track/2oMDJDOgeFeoBhTVBcHd8m) | [Han Yoo](https://open.spotify.com/artist/04H52JZF46RiQ0UEoQujnS) | [25](https://open.spotify.com/album/5XGgrZP8vR3cWJuerKDEdT) | 5:08 | 2022-09-29 |  |
+| [25](https://open.spotify.com/track/0sDSEPNqHVuLmz00yGGtnJ) | [Han Yoo](https://open.spotify.com/artist/04H52JZF46RiQ0UEoQujnS) | [25](https://open.spotify.com/album/0aZouDmdtJL6XX0IL1eLw7) | 5:08 | 2022-09-29 |  |
+| [25](https://open.spotify.com/track/2oMDJDOgeFeoBhTVBcHd8m) | [Han Yoo](https://open.spotify.com/artist/04H52JZF46RiQ0UEoQujnS) | [25](https://open.spotify.com/album/5XGgrZP8vR3cWJuerKDEdT) | 5:08 | 2022-09-29 | 2022-10-01 |
 | [30](https://open.spotify.com/track/6eCpybcWp36ELYRTNngxPT) | [Langsam](https://open.spotify.com/artist/1VWYP0OGD37n48O2kmbMpu) | [30](https://open.spotify.com/album/5R8Pbe0yL7BiaWOQxdAgnH) | 4:45 | 2022-09-29 |  |
 | [3am She Calls](https://open.spotify.com/track/5P54KQ9Lqwnmu8Vmq4PzMI) | [Axel Farden](https://open.spotify.com/artist/3zHN9rvZ75jIZyXircCo2e) | [This Isn't Love](https://open.spotify.com/album/6CFztGYeudvmFJXKvk9D72) | 3:21 | 2022-08-26 | 2022-09-09 |
 | [3rd Universe](https://open.spotify.com/track/48hJhBw0oM71gETyLsITaE) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB) | [3rd Universe](https://open.spotify.com/album/4ehhKBsodQh9sd9rMAwDzH) | 4:49 | 2022-01-13 | 2022-01-28 |
@@ -99,6 +100,7 @@
 | [Barang Langka](https://open.spotify.com/track/4MM2YeiTbMIyfyQ4a4UgxU) | [Mufatan](https://open.spotify.com/artist/3m9cOpoHzYcpIOq2ilndg9), [WhiskyRose](https://open.spotify.com/artist/6WD3BB7d0C4RMq76d2fQyI) | [Barang Langka](https://open.spotify.com/album/5l06m8uxFzQoMr53s5QowP) | 2:57 | 2022-03-17 | 2022-04-01 |
 | [Batavia Paranoia](https://open.spotify.com/track/2wtLojoWegDzEeCe0lYyXq) | [Camlann](https://open.spotify.com/artist/3rGQvGgLMAJW4Zz17bcpGZ) | [Train to 86th Street](https://open.spotify.com/album/0iR7L4Fvg0CRbZUdYYAOKI) | 3:26 | 2022-05-05 | 2022-05-20 |
 | [Bay](https://open.spotify.com/track/1pySonEHioL6xefVaMOvYr) | [Visiun](https://open.spotify.com/artist/6qqgKFc4hGR6f3P05uRAmx) | [Bay](https://open.spotify.com/album/4diR9IvzJNodateNao5AYp) | 3:00 | 2022-07-28 | 2022-08-12 |
+| [Be Mine](https://open.spotify.com/track/6zwz5zWYJu3rW4mFYCZqht) | [Ariel Dewantoro](https://open.spotify.com/artist/4rGBJRcgRvGUzqnADqLcmF) | [Be Mine](https://open.spotify.com/album/7hkYM3v441voxr8EAJ4LtC) | 3:59 | 2022-09-29 |  |
 | [Be Mine](https://open.spotify.com/track/71Y9P2qGmOCSLLSHKe21PV) | [Farhan Dinata](https://open.spotify.com/artist/1PkNmAGvQLJWoOHFfj6xom) | [Be Mine](https://open.spotify.com/album/49Ky6Nz8oj3isRFuW5LDI3) | 4:17 | 2022-05-12 | 2022-05-27 |
 | [Be The One](https://open.spotify.com/track/5EWyMsRY6gR64EkSnjgc6V) | [Lunarways](https://open.spotify.com/artist/6AWZXBmWfcahTpjzyx6UKJ) | [SUN/DAZE](https://open.spotify.com/album/70C8Laa96y2Wtls7CVIRfx) | 3:32 | 2022-05-26 | 2022-06-17 |
 | [Be True](https://open.spotify.com/track/3q9NFocXwywAhqCOlPC0lY) | [Neona](https://open.spotify.com/artist/1VOUbr2qeHgk36EXMkWaZH) | [Be True](https://open.spotify.com/album/5k24D0QTHhoBasxU0cYRCr) | 2:57 | 2022-03-17 | 2022-04-01 |
@@ -499,6 +501,7 @@
 | [Kamillionaire](https://open.spotify.com/track/1sOA9SpyWny4iEQu9bc6Fc) | [axbry](https://open.spotify.com/artist/42zAoP6oH0z5HTaMvTH1CO) | [Kamillionaire](https://open.spotify.com/album/43jqbYGTdVIef2y9q9cia6) | 1:42 | 2022-05-05 | 2022-05-20 |
 | [Kamu](https://open.spotify.com/track/6Vqa2zdWZkSdIyCuu0L3Js) | [Angela July](https://open.spotify.com/artist/4fxYLwMcvTJTSugZXEJ6Ve) | [Kamu](https://open.spotify.com/album/3mLnHIOusXhp3Y1hddsV3E) | 3:44 | 2022-03-10 | 2022-03-25 |
 | [Kamu Bukan Sejarah](https://open.spotify.com/track/5LTGlsCCafTKZG63PilswE) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Kamu Bukan Sejarah](https://open.spotify.com/album/7DIO74wT2ae00HTvNHYVHd) | 3:10 | 2022-08-11 | 2022-09-02 |
+| [Kandas](https://open.spotify.com/track/6CuhYpacIuYPpw8baHP1Oq) | [Dito Khalibran](https://open.spotify.com/artist/6LlYfKS2s8nXNXxHKL3m6H) | [Kandas](https://open.spotify.com/album/4TtqcVInhP7xWYp7Gk1JcD) | 3:49 | 2022-09-29 |  |
 | [Kangen Kamu](https://open.spotify.com/track/3RoBgsX170hPvCSOalsV1w) | [Southern A.M](https://open.spotify.com/artist/5nhUyDE4REekujDfKNo7Aj) | [Kangen Kamu](https://open.spotify.com/album/4PAIOBJfnqMts1rbGeg7UN) | 2:48 | 2022-02-17 | 2022-03-05 |
 | [Kaqotun](https://open.spotify.com/track/4Go5gWOhnFCqn6RpEjZmm7) | [Sillas](https://open.spotify.com/artist/1DGiCzaCRZdqGyOC3c2Z6y) | [Kaqotun](https://open.spotify.com/album/2mqq8dZc8acR395hXcXVhL) | 5:13 | 2022-09-29 |  |
 | [Karena Orang Ketiga](https://open.spotify.com/track/4xgvYt5CaKSY4jE0Qk8sqC) | [DiaRkis](https://open.spotify.com/artist/6SczBIH5H5RrIrPz5qI0dU) | [Karena Orang Ketiga](https://open.spotify.com/album/4NtvI4ppLNHfPcel9M1qwo) | 4:02 | 2022-01-27 | 2022-02-11 |

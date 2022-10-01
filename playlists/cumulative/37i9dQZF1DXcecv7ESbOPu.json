@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "18",
+      "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
+    },
+    {
+      "album": {
         "name": "Paranoid Optimist",
         "url": "https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl"
       },
@@ -1339,6 +1357,54 @@
       "duration_ms": 181496,
       "name": "9 lives",
       "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
+    },
+    {
+      "album": {
+        "name": "It's Not Me It's You",
+        "url": "https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "9 Lives (feat. Polo G & NLE Choppa)",
+      "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
+    },
+    {
+      "album": {
+        "name": "90 Proof (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208269,
+      "name": "90 Proof (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
     },
     {
       "album": {
@@ -15944,6 +16010,36 @@
     },
     {
       "album": {
+        "name": "Conga",
+        "url": "https://open.spotify.com/album/39DG1QAm3KtNkQMAZDzrm5"
+      },
+      "artists": [
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "Mastik Lickers",
+          "url": "https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN"
+        },
+        {
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
+        },
+        {
+          "name": "Audiosonik & Scarlett",
+          "url": "https://open.spotify.com/artist/4ADVlGYWIVnkXsXw88ZhnZ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Conga",
+      "url": "https://open.spotify.com/track/4uYQIfG7I2a2215Xdlf4iT"
+    },
+    {
+      "album": {
         "name": "Congrats",
         "url": "https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL"
       },
@@ -23606,6 +23702,28 @@
     },
     {
       "album": {
+        "name": "The Last Whip II",
+        "url": "https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215342,
+      "name": "Extra Sleeve",
+      "url": "https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB"
+    },
+    {
+      "album": {
         "name": "Extra Sleeve",
         "url": "https://open.spotify.com/album/3SgZstFhPHihoLds0UsqrR"
       },
@@ -23621,7 +23739,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 215342,
       "name": "Extra Sleeve",
       "url": "https://open.spotify.com/track/4nvmstGgWKuMG93FJOi9mt"
@@ -28508,6 +28626,28 @@
     },
     {
       "album": {
+        "name": "GET GET DOWN",
+        "url": "https://open.spotify.com/album/59ViUAFNUzjSUHeM5Dmg1F"
+      },
+      "artists": [
+        {
+          "name": "CRISPIE",
+          "url": "https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL"
+        },
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "GET GET DOWN",
+      "url": "https://open.spotify.com/track/1lrfnDcU9fm3fEcp6uLtjF"
+    },
+    {
+      "album": {
         "name": "Get Goofy",
         "url": "https://open.spotify.com/album/2lmYyqXqd4xzMvsBuaYc4f"
       },
@@ -32929,10 +33069,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 156460,
       "name": "Hell & Back",
       "url": "https://open.spotify.com/track/0oOTe6ptLXzlgpDjMHEcwg"
+    },
+    {
+      "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/02uRxMoYdYlXUVjRWNE2cy"
+      },
+      "artists": [
+        {
+          "name": "PRETTY YOUNG",
+          "url": "https://open.spotify.com/artist/3OYs1ddotHRvkUDETp3ICh"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156460,
+      "name": "Hell & Back",
+      "url": "https://open.spotify.com/track/51HUjhAtJzFShsuKWEqk7Q"
     },
     {
       "album": {
@@ -34225,6 +34383,28 @@
       "duration_ms": 203549,
       "name": "hollaback bitch (with Shygirl & Channel Tres)",
       "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245446,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK"
     },
     {
       "album": {
@@ -37811,7 +37991,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 148639,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/2SIfQ3zJERPHwKUX0xRSmS"
@@ -41791,6 +41971,28 @@
       "duration_ms": 155123,
       "name": "Kiss Face",
       "url": "https://open.spotify.com/track/41dnfaWIa5at38F5ANOZr3"
+    },
+    {
+      "album": {
+        "name": "Kiss It Better",
+        "url": "https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257055,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
     },
     {
       "album": {
@@ -55098,6 +55300,28 @@
     },
     {
       "album": {
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
+    },
+    {
+      "album": {
         "name": "Nothing Even Matters",
         "url": "https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0"
       },
@@ -58143,6 +58367,28 @@
       "duration_ms": 195000,
       "name": "Pages",
       "url": "https://open.spotify.com/track/4GZgln2CDUEQ0JVuPFaQK2"
+    },
+    {
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157639,
+      "name": "Pain & Strife (feat. Offset)",
+      "url": "https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1"
     },
     {
       "album": {
@@ -64568,6 +64814,28 @@
     },
     {
       "album": {
+        "name": "Elements (Deluxe)",
+        "url": "https://open.spotify.com/album/26sxU2CplXqpmaogJJkb2Y"
+      },
+      "artists": [
+        {
+          "name": "Jada",
+          "url": "https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226365,
+      "name": "Saturn Return (feat. M\u00d8)",
+      "url": "https://open.spotify.com/track/4peaIG36xD0mcEIyJcJF1P"
+    },
+    {
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
@@ -70771,6 +71039,24 @@
       "duration_ms": 180705,
       "name": "Stone Rolling",
       "url": "https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF"
+    },
+    {
+      "album": {
+        "name": "Stop Breathing",
+        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110706,
+      "name": "Stop Breathing",
+      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
     },
     {
       "album": {

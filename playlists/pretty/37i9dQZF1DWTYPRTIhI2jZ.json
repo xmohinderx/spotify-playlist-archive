@@ -1,15 +1,39 @@
 {
   "description": "<a href=\"spotify:artist:0XfQBWgzisaS9ltDV9bXAS\">Honey Dijon</a>'s favorite tracks. Updated regularly. Curated by Honey Dijon. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 57835,
+  "num_followers": 57846,
   "original_name": "Honey Dijon's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE1NzE5MywwMDAwMDAwMDJhYzFjYmQ1MWFmMTE5ODMwZTAxNGU0YjU4ZDM1YTg5",
+  "snapshot_id": "MTY2NDU1NzQyNiwwMDAwMDAwMDQ2MDk2NDUwOTA5NzJkMmYwMDNmOGMwMjU5OWM3MTkx",
   "tracks": [
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
+      "album": {
+        "name": "Show Me Some Love (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Show Me Some Love (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj"
+    },
+    {
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Sound Asleep",
         "url": "https://open.spotify.com/album/4GevvYdWEW7MLtoon4VQ7w"
@@ -25,7 +49,7 @@
       "url": "https://open.spotify.com/track/6efhu95h9yVTg62BAoRUUj"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Music People EP",
         "url": "https://open.spotify.com/album/0qSZG5TZkFCPKvcIpnPZcO"
@@ -41,7 +65,7 @@
       "url": "https://open.spotify.com/track/7ElyTT5wYXt0JtBRjoE4Oz"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
@@ -57,7 +81,7 @@
       "url": "https://open.spotify.com/track/42vGWSOjLteNhlySwoXrcK"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Secret of a Pimp - EP",
         "url": "https://open.spotify.com/album/3eRV31igOYuPmWE71yfJx7"
@@ -73,7 +97,7 @@
       "url": "https://open.spotify.com/track/0cqqhqdw63jNi3zojIFd18"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -89,7 +113,7 @@
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "I.K.U.K.",
         "url": "https://open.spotify.com/album/44ocLaVzBmtdzkoBUyopi8"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/4XJ7OBj8sDRRCVIDeJnD4q"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Borderline (Jamie Jones Remix)",
         "url": "https://open.spotify.com/album/5FayQLLrcOWtWWffJtdAOg"
@@ -125,7 +149,7 @@
       "url": "https://open.spotify.com/track/2Las46WkGHm2lSuzqXVw3i"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Roy Layers",
         "url": "https://open.spotify.com/album/6MbugfgS9LmUmzq36otjFL"
@@ -145,7 +169,7 @@
       "url": "https://open.spotify.com/track/2xcRFfaqwoucDbRyNrdFiT"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Let It Go / Suitcase In A Box",
         "url": "https://open.spotify.com/album/5yMinBjpwtBewRXEUngusC"
@@ -165,7 +189,7 @@
       "url": "https://open.spotify.com/track/51VvHv5b6IZQvZE4tZLDs5"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Purple Planet",
         "url": "https://open.spotify.com/album/6qv6hIPggiItYOVNSMcs7c"
@@ -181,7 +205,7 @@
       "url": "https://open.spotify.com/track/6jm98tVTld0ynxrVeJApdP"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Expansions In The NYC",
         "url": "https://open.spotify.com/album/1Y0PpDiBUW7cUkynsYAzZq"
@@ -201,7 +225,7 @@
       "url": "https://open.spotify.com/track/6EZAn1Xsd6x15qvEcGI1oE"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Someone To Love Me",
         "url": "https://open.spotify.com/album/6GAuT526r9aGcGyk5AA38T"
@@ -217,7 +241,7 @@
       "url": "https://open.spotify.com/track/6p8i9A3hkXzgk5DMcJyEWg"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Angels By My Side (feat. Pauline Taylor) [Floorplan Remix]",
         "url": "https://open.spotify.com/album/7kCqPj81tgi7V4ANrOM8K4"
@@ -241,7 +265,7 @@
       "url": "https://open.spotify.com/track/42IvMk6Ivc5MDu3eCAVkWv"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Marina Ocarina",
         "url": "https://open.spotify.com/album/0uBLSbcp791kfMLWYWzk93"
@@ -257,7 +281,7 @@
       "url": "https://open.spotify.com/track/3lwFbmouvhQgCW81n4WtGW"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Acts of Love Mixtape: Act Three",
         "url": "https://open.spotify.com/album/0OqijRECTTuYyHnpz59QoX"
@@ -273,7 +297,7 @@
       "url": "https://open.spotify.com/track/1uICRkHuDOhCi3J9gVJqMT"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Sauce (Manoo Remixes)",
         "url": "https://open.spotify.com/album/2NcBxxI4KSaaBZ4rifx1hT"
@@ -309,7 +333,7 @@
       "url": "https://open.spotify.com/track/6Ye8UVCEGyZm2tvNkGE2tx"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "blah blah blahs (feat. Ki\u00e9la Adira)",
         "url": "https://open.spotify.com/album/3TViEls6ZkPMYErrmuHeI4"
@@ -329,7 +353,7 @@
       "url": "https://open.spotify.com/track/6cGu86LLLK03HpX3ERgiBk"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Wurk",
         "url": "https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8"
@@ -353,7 +377,7 @@
       "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Stress Relief (Vogue Down For Mama Stacey Mix)",
         "url": "https://open.spotify.com/album/5SUA14eHocT0yo6MUpRgDu"
@@ -373,7 +397,7 @@
       "url": "https://open.spotify.com/track/4ghKL3Mgor4ldaWk40S72w"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Woman-Hood Chapter 1 EP",
         "url": "https://open.spotify.com/album/1ZdVzluYo79Nd2mE7W4z1s"
@@ -389,7 +413,7 @@
       "url": "https://open.spotify.com/track/4CQzv0PS56QeObidW3EnXf"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Virgo's Victory / Soul Fed",
         "url": "https://open.spotify.com/album/78HMlEQW4ELyT1rjR11VBN"
@@ -405,7 +429,7 @@
       "url": "https://open.spotify.com/track/790sFZH3iYe3D4x1u8QPlf"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Daytime (Session Victim Remix)",
         "url": "https://open.spotify.com/album/7CxWQmoI3boEXWeh1G2jVv"
@@ -425,7 +449,7 @@
       "url": "https://open.spotify.com/track/13grsmUXaulKEQbmhYxzfh"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "90 Discomania",
         "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
@@ -441,7 +465,7 @@
       "url": "https://open.spotify.com/track/3r16sPVtLDSNt25CEhIRdX"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Random / Get Over It",
         "url": "https://open.spotify.com/album/3zlmKPw9wyDW3tnDatVz4G"
@@ -457,7 +481,7 @@
       "url": "https://open.spotify.com/track/3VfGpDM0GzjEA0qpnuM6zq"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Dance Vault Mixes - Queen Of The Night",
         "url": "https://open.spotify.com/album/2UhTTYK82jM1cX80cv3cNo"
@@ -477,7 +501,7 @@
       "url": "https://open.spotify.com/track/5gh3cyv4ljizkkAwdJOzp3"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "See A Light",
         "url": "https://open.spotify.com/album/2yARmHfRk3WkCuDSvwXSqN"
@@ -493,7 +517,7 @@
       "url": "https://open.spotify.com/track/5XjyfCIJpSmWVCJpyFAcAk"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Tourism",
         "url": "https://open.spotify.com/album/1KSuviqPb3xFjO2dGnvgYh"
@@ -509,7 +533,7 @@
       "url": "https://open.spotify.com/track/49Pu4A1CXBaOZUoSxL6Cf1"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Boys for Pele (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ"
@@ -529,7 +553,7 @@
       "url": "https://open.spotify.com/track/0MT7RXj7XwkyvA0e05fgo6"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/18JBpOIceZJGCryQXiv98d"
@@ -553,7 +577,7 @@
       "url": "https://open.spotify.com/track/3E3i9HPozXn5JS0yw6AJJR"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Take My Time EP",
         "url": "https://open.spotify.com/album/0LYuKO41Ow3YNdHAadX8W1"
@@ -569,7 +593,7 @@
       "url": "https://open.spotify.com/track/79Fpv3pwLG6fM6N53ncl3m"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Waltz Darling",
         "url": "https://open.spotify.com/album/1T6VXkSGLyGwJ1l0555IBb"
@@ -597,7 +621,7 @@
       "url": "https://open.spotify.com/track/5cuAVhV0nGjImPZXBy9Tvt"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
@@ -617,7 +641,7 @@
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Good Fruit",
         "url": "https://open.spotify.com/album/6er8gruMsQlDjv3ICkVkH2"
@@ -633,7 +657,7 @@
       "url": "https://open.spotify.com/track/2Ifg03RHgt5TrQqzDeptak"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "One Black Water (feat. Ann Saunderson) [Full Strings Vocal Mix]",
         "url": "https://open.spotify.com/album/4Ju4z6OA25j2MuR94WgwgJ"
@@ -649,7 +673,7 @@
       "url": "https://open.spotify.com/track/3829oHimRwuUHePcD2Jj7S"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Stop Space Return (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0qbOLcrwhleEUBu3OpEVyy"
@@ -665,7 +689,7 @@
       "url": "https://open.spotify.com/track/6Bpxv5xnrvR4O0NNyKnFNL"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Secure the Bag",
         "url": "https://open.spotify.com/album/5Hy3N4N8sUWeI23ksUR2Q7"
@@ -685,7 +709,7 @@
       "url": "https://open.spotify.com/track/0N4wR3gRwTfPM0XFazyRAA"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "If I Could Only Be Sure EP",
         "url": "https://open.spotify.com/album/2tD7O24rVCtgy4kb4uiQxo"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/73u3N5QHRwsBE8XBYk1l1s"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Limbo Sessions",
         "url": "https://open.spotify.com/album/0aKLpqvIXJMXbpVGIFLhpZ"
@@ -721,7 +745,7 @@
       "url": "https://open.spotify.com/track/1L7588Rq7oVuIEbxrBAuoP"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "A Lost Era in NYC 1987 - 1992",
         "url": "https://open.spotify.com/album/0yyM3vkmFtkOkLKzz44qnC"
@@ -741,7 +765,7 @@
       "url": "https://open.spotify.com/track/5Z5EEo1RFb3lLkCMxz7vW9"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Get My Mansion Ready / Out Of Control",
         "url": "https://open.spotify.com/album/1QNVFPS5uxSlxdyfcyWJch"
@@ -757,7 +781,7 @@
       "url": "https://open.spotify.com/track/2Y4pNJouHZPhcClDm8YeIR"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/2tnp4E6kHfsp6IPajpOH2b"
@@ -777,7 +801,7 @@
       "url": "https://open.spotify.com/track/0POKb9bRtYVqGBsN0LkitJ"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
@@ -793,7 +817,7 @@
       "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "The Tribal - EP (Remixes)",
         "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
@@ -813,7 +837,7 @@
       "url": "https://open.spotify.com/track/7qXmRFFi7159jJus33SGaC"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "King of My Castle (Nicola Fasano & Steve Forest Mixes)",
         "url": "https://open.spotify.com/album/6eByIeUUsFaJwFk2ZSAp1v"
@@ -829,7 +853,7 @@
       "url": "https://open.spotify.com/track/0cLqR666PxqdsD67Ac5eoU"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Osunlade presents Beats De Los Muertos",
         "url": "https://open.spotify.com/album/5uZLuYaXfbhFibuNd8qVkP"
@@ -845,7 +869,7 @@
       "url": "https://open.spotify.com/track/1IQr1rYJhYOlPFEPNScRil"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Sanctuary (Ray Mang Remixes)",
         "url": "https://open.spotify.com/album/5m4s0tahx35ixA0gBVtlFr"
@@ -869,7 +893,7 @@
       "url": "https://open.spotify.com/track/2qCAGgYyAMiP2QN5R6f8F1"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "010A1",
         "url": "https://open.spotify.com/album/7a1mNBO9s2XfdvWegs9yep"
@@ -885,7 +909,7 @@
       "url": "https://open.spotify.com/track/5iaEvAQRKNE2AFB9i767bs"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "Acts of Love Mixtape: Act Three",
         "url": "https://open.spotify.com/album/0OqijRECTTuYyHnpz59QoX"
@@ -905,7 +929,7 @@
       "url": "https://open.spotify.com/track/2EECRc7ChquXKilHETQ4Ju"
     },
     {
-      "added_at": "2022-09-14 12:06:33",
+      "added_at": "2022-09-30 17:03:25",
       "album": {
         "name": "A Love Trilogy",
         "url": "https://open.spotify.com/album/1PvqIQwJDmGRElkPMQtbTr"

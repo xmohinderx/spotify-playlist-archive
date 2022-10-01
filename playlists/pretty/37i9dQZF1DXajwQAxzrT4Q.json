@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 22111,
+  "num_followers": 22155,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGRiMjJlZGZjNWU2OTc4OGM0N2M5ZWIwNGUxZDMxNmU4",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDQzZmY5NTM5NmY5MTNhMzMwMjE0ZWViY2ZjYjZkNTVi",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Club Soda, Vol. 2",
+        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "POZZ",
         "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 128776,
       "name": "POZZ",
       "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Club Soda, Vol. 2",
-        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Dream (Jersey Club)",
+        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
+      },
+      "artists": [
+        {
+          "name": "DJ T Marq",
+          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
+        }
+      ],
+      "duration_ms": 123271,
+      "name": "Dream (Jersey Club)",
+      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "My Back (Jersey Club)",
         "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 127503,
       "name": "My Back (Jersey Club)",
       "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Dream (Jersey Club)",
-        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
-      },
-      "artists": [
-        {
-          "name": "DJ T Marq",
-          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
-        }
-      ],
-      "duration_ms": 123271,
-      "name": "Dream (Jersey Club)",
-      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Ayo (Jersey Club) [feat. DJ Bake]",
-        "url": "https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
-        }
-      ],
-      "duration_ms": 123480,
-      "name": "Ayo (Jersey Club) [feat. DJ Bake]",
-      "url": "https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Back Up On It (Jasmine)",
         "url": "https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 200869,
       "name": "Back Up On It (Jasmine)",
       "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Ayo (Jersey Club) [feat. DJ Bake]",
+        "url": "https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "duration_ms": 123480,
+      "name": "Ayo (Jersey Club) [feat. DJ Bake]",
+      "url": "https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Need Your Body",
-        "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
-      },
-      "artists": [
-        {
-          "name": "Jaeo Draftpick",
-          "url": "https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq"
-        },
-        {
-          "name": "DJ Scenario",
-          "url": "https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Need Your Body",
-      "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
         "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 148833,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
       "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Need Your Body",
+        "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
+      },
+      "artists": [
+        {
+          "name": "Jaeo Draftpick",
+          "url": "https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq"
+        },
+        {
+          "name": "DJ Scenario",
+          "url": "https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Need Your Body",
+      "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Don't Say I Didn't Warn You (Jersey Club Remixes)",
-        "url": "https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a"
+        "name": "My Heart Freestyle",
+        "url": "https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp"
       },
       "artists": [
         {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        },
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+          "name": "Prvnci",
+          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
         }
       ],
-      "duration_ms": 115680,
-      "name": "Beautiful Lies (Jersey Club Remix)",
-      "url": "https://open.spotify.com/track/6fTCqSo22XjfvbLCeVfbD0"
+      "duration_ms": 147307,
+      "name": "My Heart Freestyle",
+      "url": "https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1447,6 +1443,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Don't Say I Didn't Warn You (Jersey Club Remixes)",
+        "url": "https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        },
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Beautiful Lies (Jersey Club Remix)",
+      "url": "https://open.spotify.com/track/6fTCqSo22XjfvbLCeVfbD0"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "XENOWRLD",
         "url": "https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd"
       },
@@ -1463,18 +1479,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "My Heart Freestyle",
-        "url": "https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp"
+        "name": "SLIME PROTOCOL",
+        "url": "https://open.spotify.com/album/7HEIOXw6lP2GKuJnYxQvgb"
       },
       "artists": [
+        {
+          "name": "Koi the Alchemist",
+          "url": "https://open.spotify.com/artist/4QaIOY2A21dfP0E6UN5Y7A"
+        },
         {
           "name": "Prvnci",
           "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
         }
       ],
-      "duration_ms": 147307,
-      "name": "My Heart Freestyle",
-      "url": "https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q"
+      "duration_ms": 149747,
+      "name": "SLIME PROTOCOL",
+      "url": "https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1511,26 +1531,6 @@
       "duration_ms": 144000,
       "name": "Crowd Pleaser",
       "url": "https://open.spotify.com/track/0BkkC24F3nWKAS2NyHYsME"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "SLIME PROTOCOL",
-        "url": "https://open.spotify.com/album/7HEIOXw6lP2GKuJnYxQvgb"
-      },
-      "artists": [
-        {
-          "name": "Koi the Alchemist",
-          "url": "https://open.spotify.com/artist/4QaIOY2A21dfP0E6UN5Y7A"
-        },
-        {
-          "name": "Prvnci",
-          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
-        }
-      ],
-      "duration_ms": 149747,
-      "name": "SLIME PROTOCOL",
-      "url": "https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Dancin' On My Own",
-        "url": "https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR"
-      },
-      "artists": [
-        {
-          "name": "Michael Mayo",
-          "url": "https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p"
-        }
-      ],
-      "duration_ms": 99910,
-      "name": "Dancin' On My Own",
-      "url": "https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/3nae8nex8etjw0c1zY0L7Y"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 130080,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/7tLXo5YmfBoyCYSNG62hJZ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Dancin' On My Own",
+        "url": "https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR"
+      },
+      "artists": [
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p"
+        }
+      ],
+      "duration_ms": 99910,
+      "name": "Dancin' On My Own",
+      "url": "https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Glitchy Gal",
-        "url": "https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx"
-      },
-      "artists": [
-        {
-          "name": "Dj Super Will",
-          "url": "https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "Glitchy Gal",
-      "url": "https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "STAND BACK (RELOADED)",
         "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 157714,
       "name": "STAND BACK (RELOADED)",
       "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Glitchy Gal",
+        "url": "https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx"
+      },
+      "artists": [
+        {
+          "name": "Dj Super Will",
+          "url": "https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "Glitchy Gal",
+      "url": "https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76"
     },
     {
       "added_at": "2022-09-16 04:00:00",

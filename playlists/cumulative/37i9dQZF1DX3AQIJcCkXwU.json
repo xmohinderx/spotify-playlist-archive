@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Conscious Journey",
+        "url": "https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136039,
+      "name": "Conscious Journey",
+      "url": "https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW"
+    },
+    {
+      "album": {
         "name": "Bansuri - The Bamboo Flute of India",
         "url": "https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI"
       },
@@ -820,6 +838,24 @@
     },
     {
       "album": {
+        "name": "Bamboo Flute Music for Pranayama",
+        "url": "https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN"
+      },
+      "artists": [
+        {
+          "name": "Bapu Padmanabha",
+          "url": "https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438400,
+      "name": "Kapla Bhati",
+      "url": "https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS"
+    },
+    {
+      "album": {
         "name": "The Sitar Lounge Experience",
         "url": "https://open.spotify.com/album/0OILgZSp5RbtJszUSJXNog"
       },
@@ -1145,7 +1181,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 207881,
       "name": "Nani",
       "url": "https://open.spotify.com/track/3bqXrL2BwTK9sI2tjVF7FL"

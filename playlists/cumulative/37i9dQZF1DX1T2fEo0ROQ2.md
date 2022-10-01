@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-332 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+338 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 | 2022-05-26 |  |
 | [After the Storm](https://open.spotify.com/track/20RvtdICuVLxbtHs179hxA) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Anfang](https://open.spotify.com/album/1NTR3MPOBNHQfOLFdtlYlN) | 2:38 | 2022-05-26 |  |
 | [Afterlight](https://open.spotify.com/track/5AUHJrmEjIQmILBzNYm9kk) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Afterlight](https://open.spotify.com/album/1c5EcxSFk9Fok943GTAwFn) | 4:26 | 2022-05-26 |  |
+| [Al Vanda](https://open.spotify.com/track/157498zKslcWTRJGqzx3ad) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Al Vanda](https://open.spotify.com/album/184oRUumTGWbZjRSM6EV7C) | 2:27 | 2022-09-30 |  |
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2022-05-26 |  |
 | [Amygdala](https://open.spotify.com/track/5921nMZXq52f54Jv57BE80) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Soulythical](https://open.spotify.com/album/30Vh9X9ijMHyg7lcpoejNK) | 3:38 | 2022-05-26 |  |
 | [Andare Lentamente](https://open.spotify.com/track/5foXZOVwYZ9Xs0P61JHHqF) | [Spacious Minds](https://open.spotify.com/artist/1Whq2mxIJ5AjZWxQY19S7V) | [Andare Lentamente](https://open.spotify.com/album/0fjDEGWTfCMf9B9mnjgENQ) | 2:26 | 2022-05-26 |  |
@@ -79,6 +80,7 @@
 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 | 2022-07-22 |  |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2022-05-26 |  |
 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 | 2022-05-26 |  |
+| [Delicate Silence](https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Alternatives](https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk) | 2:46 | 2022-09-30 |  |
 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 | 2022-05-26 |  |
 | [Desvelarse](https://open.spotify.com/track/000brQJEvEDAHPZjWyv6wx) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Desvelarse](https://open.spotify.com/album/4ppaCepGfWngD1kQ8BJxZA) | 3:44 | 2022-05-26 |  |
 | [Dim Lights](https://open.spotify.com/track/5V1A08ndUqkUZ7i2PjUecW) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Dim Lights](https://open.spotify.com/album/4x0c00HaqVpymv8lTIYKhH) | 3:05 | 2022-05-26 |  |
@@ -113,6 +115,7 @@
 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2022-05-26 |  |
 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 | 2022-05-26 |  |
 | [Fjords](https://open.spotify.com/track/0un2LnKNOVlm3SOyqM2gTM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Fjords](https://open.spotify.com/album/0QlljBesjW5xU2bYMz1oux) | 3:33 | 2022-05-26 |  |
+| [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-09-30 |  |
 | [Flower](https://open.spotify.com/track/3aGgKoB5mIx7L00cPwBHSN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Analogue Nature](https://open.spotify.com/album/5nw0R73IOsPK4ihhJzYvbV) | 4:38 | 2022-05-26 |  |
 | [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 | 2022-07-22 |  |
 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 | 2022-05-26 | 2022-07-29 |
@@ -274,8 +277,10 @@
 | [Slumbers](https://open.spotify.com/track/3BSKxVvda7WjfYIm3rhOgY) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Ring Revolutions](https://open.spotify.com/album/23B8w3QuiaMhX0r5OFWeIu) | 3:31 | 2022-05-26 |  |
 | [Solar Eclipse](https://open.spotify.com/track/4pcp7p5lioqQ6996nyjdd5) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Eclipse](https://open.spotify.com/album/7BrTQS2tjIaezPAYB9Gmp6) | 4:01 | 2022-05-26 |  |
 | [Solitary minds](https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Solitary minds](https://open.spotify.com/album/3uQisjl6dSY4WnxXxv4GLF) | 3:59 | 2022-05-26 |  |
+| [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Somewhere Else](https://open.spotify.com/track/5pE4svRKo7XAXlxclmO9t1) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Somewhere Else](https://open.spotify.com/album/0mHXN4UA7yTQj976qxyBnr) | 3:40 | 2022-05-26 |  |
 | [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2022-05-26 |  |
+| [Soothing You](https://open.spotify.com/track/1D0CY5Zv9PW1ELhyppJtSK) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [The Sleepers](https://open.spotify.com/album/0TavgJey3rSIHxqw3y3tm3) | 3:15 | 2022-09-30 |  |
 | [Spaces](https://open.spotify.com/track/0Ycl08JD5MBn28OPznygwz) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:27 | 2022-05-26 |  |
 | [Spring](https://open.spotify.com/track/7f8Hk18yQg1l3oNsrKIkvO) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Clarity](https://open.spotify.com/album/4gwIzFYM5sKgPPeLIG5AP9) | 3:15 | 2022-05-26 |  |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-26 |  |
@@ -297,6 +302,7 @@
 | [Symbols](https://open.spotify.com/track/1SZWIusKczJ8vloqRTAgsz) | [Rosa Cania](https://open.spotify.com/artist/0SgmJ4Q0guH8jer9mWvCOS) | [Symbols](https://open.spotify.com/album/34XGG9k1scNUzUAOR12PAW) | 4:00 | 2022-05-26 |  |
 | [Sálvora](https://open.spotify.com/track/4DQQVW7EsOWJKd4OMRBB0x) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sálvora](https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb) | 2:53 | 2022-05-26 |  |
 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 | 2022-08-15 |  |
+| [Tambo](https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Tambo](https://open.spotify.com/album/2IBgAMSclg0n79MbD8a6sr) | 3:12 | 2022-09-30 |  |
 | [Tempered Moon](https://open.spotify.com/track/5cK8BiZ9mdqO4gQbdb4ZzM) | [Brent Dockery](https://open.spotify.com/artist/08G5ITlau5oxxn5DnIGhQ2) | [Tempered Moon](https://open.spotify.com/album/1tUhnUIDFje9mfl2IxGU0Y) | 3:40 | 2022-05-26 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Deep Blue](https://open.spotify.com/track/3fPDwXNYVnj3ROLieCtOGR) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Distant Winds](https://open.spotify.com/album/1EhONt6PrP5KjE3ngU23kb) | 3:16 | 2022-05-26 |  |

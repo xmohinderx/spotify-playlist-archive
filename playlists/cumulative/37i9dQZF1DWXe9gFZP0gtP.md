@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-292 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+296 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2021-12-17 |  |
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2021-12-17 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-17 |  |
+| [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 | 2022-09-30 |  |
 | [Crépuscule](https://open.spotify.com/track/4FE9jhuatcOZZYoHdBDN8T) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Crépuscule](https://open.spotify.com/album/4XWPYDTAaQvjhDSKWbsHP9) | 4:05 | 2021-12-17 |  |
 | [Cwtch](https://open.spotify.com/track/7ljE0RT8coNsbBYAhGOilP) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwtch](https://open.spotify.com/album/3AQOCwhGHVw8pfKTn8ZBNt) | 2:31 | 2021-12-17 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-11 |  |
@@ -139,6 +140,7 @@
 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 | 2021-12-17 |  |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-01 |  |
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2021-12-17 |  |
+| [Invicta](https://open.spotify.com/track/6dp53x1hi7iUSHsBI8oPMz) | [Ella Wass](https://open.spotify.com/artist/3eZTGNMGlHLHDZ5tSMsM2K) | [Somnium](https://open.spotify.com/album/5aty9Xj6OISEIv5Tn6Ik14) | 4:09 | 2022-09-30 |  |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |
 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-12-17 | 2022-04-22 |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2021-12-17 |  |
@@ -268,6 +270,7 @@
 | [Swear on this Life](https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux) | [Fabienne Willis](https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9) | [Swear on this Life](https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw) | 2:12 | 2021-12-17 | 2022-04-22 |
 | [Sweet Dreams](https://open.spotify.com/track/5awXJ7gr2qnEBIUmWieewJ) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Sunset Beach](https://open.spotify.com/album/49ipMMgFH1ge5cIPqKZmwv) | 2:53 | 2022-09-13 |  |
 | [Swerving](https://open.spotify.com/track/67sHA0PewCor6HdDer5Nxv) | [Kinship Networks](https://open.spotify.com/artist/6JKJopFXDFKfLkA6rrgQQh) | [Swerving](https://open.spotify.com/album/1nwBBL77j2FBEip4k2fI4G) | 2:43 | 2021-12-17 |  |
+| [Tambo](https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Tambo](https://open.spotify.com/album/2IBgAMSclg0n79MbD8a6sr) | 3:12 | 2022-09-30 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 | 2022-07-15 |  |
 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 | 2021-12-17 | 2022-09-03 |
@@ -282,6 +285,7 @@
 | [True Nature](https://open.spotify.com/track/0BlqzRjRBPENOWus0io6Pt) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Meaning](https://open.spotify.com/album/2pmu77y9s1ou2j6iLPCim5) | 2:41 | 2021-12-17 | 2022-09-03 |
 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 | 2021-12-17 |  |
 | [Tárvotur](https://open.spotify.com/track/6T0m8sQSWphNq6gUjN8BSi) | [Atli Einarsdóttir](https://open.spotify.com/artist/213t12SUo7qH5ZsE6Uvz1a) | [Tárvotur](https://open.spotify.com/album/4ke954jKmKZUkxcabOeQFf) | 1:51 | 2022-01-05 |  |
+| [Unforgettable Moments](https://open.spotify.com/track/5lSPw2NndV5W0jQ4TeM3Z4) | [Garda Eulyssos](https://open.spotify.com/artist/0wYXxRlJDi8Z3wrQXwirlb) | [Unforgettable Moments](https://open.spotify.com/album/2cqml9Iy0nvwzcr51ys3YC) | 2:59 | 2022-09-30 |  |
 | [Uspavan](https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO) | [Sasja Lekko](https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF) | [Uspavan](https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg) | 2:33 | 2022-04-21 |  |
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2021-12-17 |  |
 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 | 2021-12-17 |  |

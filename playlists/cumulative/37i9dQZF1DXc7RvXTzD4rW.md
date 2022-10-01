@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 鬼頭明里
 
-119 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
+120 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [adrenaline!!! \- TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/track/6O0yjUbqWb4SOjH8VDcab5) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/album/40AJJY1WOjKdjSf3P9fzgh) | 4:35 | 2022-08-30 |  |
 | [AGARISM](https://open.spotify.com/track/5K1P3emj5y1CKNWHnZfE1g) | [江口拓也](https://open.spotify.com/artist/7M4999xcRPjRunHN5lu9Oj) | [EGURand](https://open.spotify.com/album/5hT3Df6xhY1A9NEeNC4t3j) | 2:44 | 2022-05-31 | 2022-09-23 |
 | [ALRIGHT!](https://open.spotify.com/track/0V4AQZP769SHFH513BNqsZ) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/6tfuzGK6gBxZlZgM0PUmWV) | 4:27 | 2022-08-05 | 2022-08-31 |
-| [Anohino Kotoba](https://open.spotify.com/track/4moDgpmTBcPRgnjlIsl06x) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Anohino Kotoba / Growing](https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ) | 4:26 | 2022-07-13 |  |
+| [Anohino Kotoba](https://open.spotify.com/track/4moDgpmTBcPRgnjlIsl06x) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Anohino Kotoba / Growing](https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ) | 4:26 | 2022-07-13 | 2022-10-01 |
+| [Anohino Kotoba](https://open.spotify.com/track/2LmURPmnlTJCHIMBRMCqON) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 4:27 | 2022-09-22 |  |
 | [Balancing Journey](https://open.spotify.com/track/107RMsLmjx9FnzjqASJMW3) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [Balancing Journey](https://open.spotify.com/album/4SutUtj3aibooPa7eTVPrA) | 4:38 | 2022-05-31 | 2022-06-24 |
 | [Believe like Singing.](https://open.spotify.com/track/4ZEM3UVwAeCwgUnSvHbSE6) | [ヒーラーガールズ](https://open.spotify.com/artist/1HuPt90wb4ycLPW6YijtWC) | [Feel You, Heal You / Believe like Singing.](https://open.spotify.com/album/4TOTSqfdXDVgTdGjbUGY03) | 4:21 | 2022-05-31 |  |
 | [BRAVE MAKER](https://open.spotify.com/track/3lAS7UmRdhO1WWQ5JeTf7e) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [BRAVE MAKER](https://open.spotify.com/album/0q6OWDdl3GH2dJKhPfWG20) | 3:38 | 2022-05-31 | 2022-06-24 |

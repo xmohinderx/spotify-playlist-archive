@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/>! غلاف: ابو الانوار
 
-100 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+101 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Feeha La Khfeeha](https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Feeha La Khfeeha](https://open.spotify.com/album/3bIEOYEgi9eKH6mXNosRsg) | 3:09 | 2022-05-10 | 2022-08-24 |
 | [Fish Wa2t](https://open.spotify.com/track/5CARpixYK1xzYkfTl1cvOJ) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Fish Wa2t](https://open.spotify.com/album/5dI5JMzymMU1ZAbXT12hOn) | 2:36 | 2022-08-23 |  |
 | [Freedom Music: Scene Cypher 2](https://open.spotify.com/track/2WGsTI0dM1DsHsi3y1svgp) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [Lil Baba](https://open.spotify.com/artist/16m87d8FV11gipfSu03k0Y) | [Freedom Music: Scene Cypher 2](https://open.spotify.com/album/0IpOZAQTWlE2pn9sw2LiVb) | 5:08 | 2022-05-10 | 2022-05-18 |
+| [Ha3](https://open.spotify.com/track/0XDa7oQORZ84HOwEaVViTk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ha3](https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r) | 2:11 | 2022-09-30 |  |
 | [Hanfantazook](https://open.spotify.com/track/1BACFcabFp5jRKgXeBDqY3) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Hanfantazook](https://open.spotify.com/album/1v1IZilOvTvNVY78mYz0d4) | 3:13 | 2022-05-10 | 2022-06-18 |
 | [Haram](https://open.spotify.com/track/7qFJ6AZ2sxHP2YTzaI71mh) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo EL Anwar](https://open.spotify.com/artist/2SGKZx9TN8xmObKgFyjK4t), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Mextape](https://open.spotify.com/album/52X9QBMjLUbdIOLzOyvTKC) | 3:05 | 2022-06-20 |  |
 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 | 2022-05-10 |  |
@@ -76,7 +77,7 @@
 | [Star](https://open.spotify.com/track/1jYpuALqMGpGhbFkPxU8no) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Star](https://open.spotify.com/album/5Q4Je1QV2U4aSOlNTYkdOf) | 3:19 | 2022-05-10 |  |
 | [Stop \- Magnolia](https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sonseyat](https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL) | 2:41 | 2022-06-06 |  |
 | [Sutra](https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ) | 2:53 | 2022-07-25 |  |
-| [Tag](https://open.spotify.com/track/27Fxvok5kB2BaWIpKIxiwz) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Tag](https://open.spotify.com/album/3U8toDaI9YJuSyw6rgoF9y) | 3:49 | 2022-06-20 |  |
+| [Tag](https://open.spotify.com/track/27Fxvok5kB2BaWIpKIxiwz) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Tag](https://open.spotify.com/album/3U8toDaI9YJuSyw6rgoF9y) | 3:49 | 2022-06-20 | 2022-10-01 |
 | [Tarantino](https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:02 | 2022-09-27 |  |
 | [TEENA](https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TEENA](https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr) | 2:50 | 2022-05-10 | 2022-06-15 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-05-10 |  |

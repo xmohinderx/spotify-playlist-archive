@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192927,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
@@ -1569,6 +1569,24 @@
       "duration_ms": 168354,
       "name": "Into The Mystic",
       "url": "https://open.spotify.com/track/5YyEXkW5W3XBDmTYdvKfTE"
+    },
+    {
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "album": {

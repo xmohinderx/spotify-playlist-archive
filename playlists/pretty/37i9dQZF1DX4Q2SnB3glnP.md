@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,939 likes - 208 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,990 likes - 208 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 |
-| 2 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 |
-| 3 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 |
-| 4 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 |
-| 5 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 |
-| 6 | [Savannah](https://open.spotify.com/track/1GfkDco09y8iruC25beFMz) | [Nath Lue](https://open.spotify.com/artist/1kInNb813DsqBOR40Sg1Ih) | [Auspicious](https://open.spotify.com/album/2DJAMZ46NRFHgC1O9icft6) | 3:26 |
-| 7 | [Receding Waves](https://open.spotify.com/track/5nkdxgonAeVjxg8NCptsuj) | [Tales from Jupiter](https://open.spotify.com/artist/0kY9PVjCD1q3Vfhp1Jjzzh) | [Adelaide](https://open.spotify.com/album/0yROHeSwgFi2suADVfGxvT) | 3:46 |
-| 8 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 |
-| 9 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
+| 1 | [Semper Fidelis](https://open.spotify.com/track/554NJ5Ny6aTx4UqUG07BsW) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 3:18 |
+| 2 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 |
+| 3 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 |
+| 4 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 |
+| 5 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 |
+| 6 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 |
+| 7 | [Savannah](https://open.spotify.com/track/1GfkDco09y8iruC25beFMz) | [Nath Lue](https://open.spotify.com/artist/1kInNb813DsqBOR40Sg1Ih) | [Auspicious](https://open.spotify.com/album/2DJAMZ46NRFHgC1O9icft6) | 3:26 |
+| 8 | [Receding Waves](https://open.spotify.com/track/5nkdxgonAeVjxg8NCptsuj) | [Tales from Jupiter](https://open.spotify.com/artist/0kY9PVjCD1q3Vfhp1Jjzzh) | [Adelaide](https://open.spotify.com/album/0yROHeSwgFi2suADVfGxvT) | 3:46 |
+| 9 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 |
 | 10 | [Lemuria](https://open.spotify.com/track/3U10BbfZtZxMmiaEVuievr) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Awaken](https://open.spotify.com/album/39Ip3deSTOqNZzSRc8kSsm) | 2:47 |
 | 11 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 |
 | 12 | [Peaceful Patterns \- Yoga Version](https://open.spotify.com/track/5LvTXUwvXcq348o5LdAVZJ) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns \- Yoga Version](https://open.spotify.com/album/5Ac4LwtFRHKe9j4qHJf9Gk) | 2:49 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 207 | [Blanket of Peace](https://open.spotify.com/track/2PvRoKLmB0Q211nKNw8vmS) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 2:53 |
 | 208 | [The Tower of Embellion](https://open.spotify.com/track/1JT0EGMCr3SCUumDC4JIlx) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:56 |
 
-Snapshot ID: `MTY2MzA3OTkyNywwMDAwMDAwMGI0NjJhMjQzMGYwZWVmZjc1NTZkZjlkZTYyMTBlMmU1`
+Snapshot ID: `MTY2NDU2MjQxOSwwMDAwMDAwMGU5ZjdiYTM4NjQ5MmZiYWQyZDgwNmQ5YTFkYzhlN2Yw`

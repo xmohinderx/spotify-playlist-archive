@@ -396,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Split Personalities",
+        "url": "https://open.spotify.com/album/2PPaRI14CWFpW8XLVHLMkn"
+      },
+      "artists": [
+        {
+          "name": "Eazy Mac",
+          "url": "https://open.spotify.com/artist/1qHkWv9sHlhqmNdPbMU5tN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "Admit It",
+      "url": "https://open.spotify.com/track/0wDaLiq64AHTy1Mq5dV4wi"
+    },
+    {
+      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe"
       },
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
@@ -3101,6 +3119,24 @@
       "duration_ms": 234666,
       "name": "Entanglement (feat. Golde London)",
       "url": "https://open.spotify.com/track/6cI5MfOblwRlwAOhCF8pET"
+    },
+    {
+      "album": {
+        "name": "ESSENTIAL",
+        "url": "https://open.spotify.com/album/39uRyDgwJjQzlzdTv2Ndjh"
+      },
+      "artists": [
+        {
+          "name": "Jordan Fall",
+          "url": "https://open.spotify.com/artist/4BcBNqTmb9El9HdujCnN3K"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167735,
+      "name": "ESSENTIAL",
+      "url": "https://open.spotify.com/track/6cWSJ8WkMezMMsMGLxBV1x"
     },
     {
       "album": {
@@ -4243,7 +4279,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 152275,
       "name": "Gwapanese (Just Stop It) (feat. BabyTron)",
       "url": "https://open.spotify.com/track/3pYzJhcDPdQv2GoidBBlVv"
@@ -6720,6 +6756,46 @@
     },
     {
       "album": {
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/1vwwdgPA1VqoM8JCcucNY4"
+      },
+      "artists": [
+        {
+          "name": "Riicch",
+          "url": "https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114125,
+      "name": "No Cap",
+      "url": "https://open.spotify.com/track/6EZXMmEysujaTFU9r8wdct"
+    },
+    {
+      "album": {
+        "name": "No Chill Dill",
+        "url": "https://open.spotify.com/album/5zncamnpZWAJ8cJWeqxgjX"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "No Chill Dill",
+      "url": "https://open.spotify.com/track/2y0ZqxOzlQkMro3D6qtLrA"
+    },
+    {
+      "album": {
         "name": "No Distractions",
         "url": "https://open.spotify.com/album/37ZnBbRaQboKuEapumouQE"
       },
@@ -8257,7 +8333,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 171103,
       "name": "Ric Flair Flo",
       "url": "https://open.spotify.com/track/4TbWunQP478kjcIlK4U3fP"
@@ -8453,6 +8529,28 @@
       "duration_ms": 172584,
       "name": "RUN",
       "url": "https://open.spotify.com/track/7aE1nL39i7jMQls2EUTovZ"
+    },
+    {
+      "album": {
+        "name": "Run My Shit Remix",
+        "url": "https://open.spotify.com/album/5Oqb3wbgzKePnsNnksxozu"
+      },
+      "artists": [
+        {
+          "name": "Mindflip",
+          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+        },
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Run My Shit Remix",
+      "url": "https://open.spotify.com/track/0Eg2hkbMCRb5DGK0FNeL1q"
     },
     {
       "album": {
@@ -8657,7 +8755,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 143624,
       "name": "Servers",
       "url": "https://open.spotify.com/track/17F3NPVq4nzF0zje57WIna"
@@ -8951,7 +9049,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 191428,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN"
@@ -10602,6 +10700,28 @@
     },
     {
       "album": {
+        "name": "Who!? What!?",
+        "url": "https://open.spotify.com/album/7mdrOcnyTtp8jr1DL6U4ja"
+      },
+      "artists": [
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "Who!? What!?",
+      "url": "https://open.spotify.com/track/1YTzKEfWyUaptahtWr7jmQ"
+    },
+    {
+      "album": {
         "name": "Who's Next?",
         "url": "https://open.spotify.com/album/1rjt9AZqGls1Y9ICZisepz"
       },
@@ -10915,7 +11035,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 160637,
       "name": "Yea Man",
       "url": "https://open.spotify.com/track/4uV0YlcOLvzrqnzKQ0oXUB"

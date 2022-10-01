@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-752 songs - 1 day 17 hr 50 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+753 songs - 1 day 17 hr 54 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Cap's Promise](https://open.spotify.com/track/29oY8ptMAWdMjPVjYK0wVj) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: Civil War \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RjfqRZ2wDniTD5ahkbOgo) | 3:45 | 2019-09-29\* | 2021-03-14 |
 | [Captured](https://open.spotify.com/track/03yPeSLBLH4RJm0ogylftz) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [Abyssinia](https://open.spotify.com/album/0U85lkewUM9HMYT4H6jlDj) | 4:16 | 2019-09-29\* | 2021-03-14 |
 | [Catch You Again](https://open.spotify.com/track/2hsncKh3byc2c5CHuXTuTH) | [Daven](https://open.spotify.com/artist/4GYIIO926bKxfNYmOyuYzg) | [Catch You Again](https://open.spotify.com/album/2lKKtYEUr3QVlpcML8o4f6) | 2:58 | 2021-03-14 | 2021-12-11 |
+| [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-09-30 |  |
 | [Change](https://open.spotify.com/track/7l0kSGrXkowieK0HFraLF2) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Change](https://open.spotify.com/album/6Ll6j8EdQra1VjV6SBnEto) | 3:35 | 2022-04-20 | 2022-04-28 |
 | [Change My Clothes](https://open.spotify.com/track/4mnjwMLCk3JZkhkok3u5g1) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Change My Clothes](https://open.spotify.com/album/2Y5WftWX9ZA7a01NYaBX4L) | 3:06 | 2022-05-11 | 2022-07-24 |
 | [Change Of Coast](https://open.spotify.com/track/4Zehi1XQ5vKkIxMoqZ1L38) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 3:12 | 2021-03-16 | 2021-03-23 |

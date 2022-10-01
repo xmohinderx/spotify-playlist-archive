@@ -4,7 +4,7 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-135 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/220Sx5aDDrrVs33TO5unGx)
+136 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/220Sx5aDDrrVs33TO5unGx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/5LUlXoQuBZDHPTA9uhdvMp) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Koop](https://open.spotify.com/artist/14NPkkAvH5KHqZhqFpuJEg) | [Luaka Bop Remix](https://open.spotify.com/album/7uNWWbWA8GKZBky6KYxIvT) | 2:46 | 2022-01-11 | 2022-07-29 |
 | [Aguacate](https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 3:08 | 2020-05-28 |  |
 | [Aguacate](https://open.spotify.com/track/6AerfqsL2ISs64dixwrfM5) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9) | 3:08 | 2020-05-28 | 2022-07-29 |
+| [Agüita de Manantial](https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 4:06 | 2022-09-30 |  |
 | [Allo Mambo](https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx) | [Karl Zéro](https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M) | [Songs for Moonlight Swim and Otros Tipos de Ocupaciones](https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni) | 2:45 | 2020-05-28 |  |
 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 | 2022-01-11 |  |
 | [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 | 2022-01-11 |  |
@@ -52,7 +53,7 @@
 | [El Estuche](https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Dirty Dancing: Havana Nights](https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm) | 3:23 | 2022-01-11 |  |
 | [El Manicero](https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [La Historia del Mambo, Vol\. 2](https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n) | 2:39 | 2020-05-28 |  |
 | [El Panadero](https://open.spotify.com/track/6IjAh2dTUyoCeLy0KrmdVl) | [Tintan](https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4) | [15 Éxitos](https://open.spotify.com/album/4JLsT6tXhYeLyCoLergAbL) | 1:33 | 2022-08-03 |  |
-| [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 | 2022-01-11 |  |
+| [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 | 2022-01-11 | 2022-10-01 |
 | [El Tilingo Lingo](https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW) | [Grupo Chalchihuecan De Los Hermanos Ochoa](https://open.spotify.com/artist/5RFvZYPAx7hxnO37mR6e2G) | [Veracruz Y Su Música \- 14 Sones Jarochos](https://open.spotify.com/album/5CsXZNeVHigNfNKuUUeoMo) | 2:46 | 2022-01-11 |  |
 | [Fina Estampa](https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Mujeres con Cajones](https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz) | 2:51 | 2022-01-11 |  |
 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 | 2022-01-11 |  |

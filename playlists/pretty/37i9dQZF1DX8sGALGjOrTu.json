@@ -1,12 +1,12 @@
 {
   "description": "When emo and hardcore fell hard for each other.",
-  "num_followers": 330597,
+  "num_followers": 330888,
   "original_name": "2000s Screamo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjUzMSwwMDAwMDAwMDc0ZTU4ODc3MTY2MzZjZjdhOTczZmIzY2VkZWI5OGNl",
+  "snapshot_id": "MTY1MDkxNjUzMSwwMDAwMDAwMDMyOWZkNTBiNjI3ZTMzZjFjMWQxZDY4MDQxZTE0MmNl",
   "tracks": [
     {
       "added_at": "2021-12-07 15:50:41",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
       "artists": [
         {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 149640,
-      "name": "False Pretense",
-      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -443,6 +427,22 @@
       "duration_ms": 279226,
       "name": "Not The American Average",
       "url": "https://open.spotify.com/track/17C4oPQ3sTpF11pi9yvGcs"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "False Pretense",
+      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -543,38 +543,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Discovering The Waterfront",
-        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Smile In Your Sleep",
-      "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
-        "name": "In Keeping Secrets Of Silent Earth: 3",
-        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "A Favor House Atlantic",
-      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "Stand Up And Scream",
         "url": "https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y"
       },
@@ -591,6 +559,22 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
+        "name": "Discovering The Waterfront",
+        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Smile In Your Sleep",
+      "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 238053,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "In Keeping Secrets Of Silent Earth: 3",
+        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "A Favor House Atlantic",
+      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Let's Cheers To This",
-        "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Do It Now Remember It Later",
-      "url": "https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "In Love and Death",
         "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 230426,
       "name": "All That I've Got",
       "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Do It Now Remember It Later",
+      "url": "https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Seven Years",
-      "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 242133,
       "name": "Buried Myself Alive",
       "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Seven Years",
+      "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Scream Aim Fire",
-        "url": "https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "Waking the Demon",
-      "url": "https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "The Silence In Black And White (Re-Issue)",
         "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 239520,
       "name": "Niki Fm",
       "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Scream Aim Fire",
+        "url": "https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "Waking the Demon",
+      "url": "https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Buried a Lie",
-      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "Wildlife",
         "url": "https://open.spotify.com/album/1zAMnOQUqSq3xCMgeBS6i2"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 414925,
       "name": "King Park",
       "url": "https://open.spotify.com/track/7MeUFHaHTgcLqz56vSyvIh"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Stare At The Sun",
-      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "Relativity",
         "url": "https://open.spotify.com/album/42QT0gBnEJbmo10gAL1m32"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 273653,
       "name": "The Past Should Stay Dead",
       "url": "https://open.spotify.com/track/3ybttms1Zl5kfsSl2QxIbP"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
+        "name": "Emarosa",
+        "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "A Toast to the future kids!",
+      "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL"
       },
@@ -1391,38 +1407,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "His Last Walk",
-        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Guys Like You Make Us Look Bad",
-      "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
-        "name": "Emarosa",
-        "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "A Toast to the future kids!",
-      "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "New Medicines",
         "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Reach",
-        "url": "https://open.spotify.com/album/3My1QtxFQLJHo71ruUpH6Z"
+        "name": "His Last Walk",
+        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
       "artists": [
         {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
         }
       ],
-      "duration_ms": 244786,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/5taNBboRgg6Bzqyj0Ymofo"
+      "duration_ms": 235640,
+      "name": "Guys Like You Make Us Look Bad",
+      "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1467,6 +1451,22 @@
       "duration_ms": 247426,
       "name": "Roses for the Dead",
       "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "Reach",
+        "url": "https://open.spotify.com/album/3My1QtxFQLJHo71ruUpH6Z"
+      },
+      "artists": [
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/5taNBboRgg6Bzqyj0Ymofo"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "War All The Time",
-        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "War All The Time",
-      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
-    },
-    {
-      "added_at": "2021-12-07 15:50:41",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 303093,
       "name": "Ape Dos Mil",
       "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
+    },
+    {
+      "added_at": "2021-12-07 15:50:41",
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "War All The Time",
+      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
     },
     {
       "added_at": "2021-12-07 15:50:41",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2021-12-07 15:50:41",
       "album": {
-        "name": "Nightmare Anatomy",
-        "url": "https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB"
+        "name": "Suicide Notes And Butterfly Kisses",
+        "url": "https://open.spotify.com/album/79HGVVOO9FbAATZXIk73Nc"
       },
       "artists": [
         {
-          "name": "Aiden",
-          "url": "https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 220786,
-      "name": "Die Romantic",
-      "url": "https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc"
+      "duration_ms": 304613,
+      "name": "Lip Gloss And Black",
+      "url": "https://open.spotify.com/track/2Hy81a71pPf5lPWTq1o8ub"
     }
   ],
   "unique_name": "2000s Screamo",

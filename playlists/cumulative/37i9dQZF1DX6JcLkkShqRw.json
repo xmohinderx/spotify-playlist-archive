@@ -4449,7 +4449,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 174315,
       "name": "Experimento 01",
       "url": "https://open.spotify.com/track/25yOopxmGC67836N4POHBg"
@@ -5735,7 +5735,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 137732,
       "name": "Huella Letal",
       "url": "https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv"
@@ -6261,6 +6261,28 @@
       "duration_ms": 152126,
       "name": "Karamelo",
       "url": "https://open.spotify.com/track/2CJN5xnTzZlW3Gc2OEkIch"
+    },
+    {
+      "album": {
+        "name": "KAWAII",
+        "url": "https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198247,
+      "name": "KAWAII",
+      "url": "https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN"
     },
     {
       "album": {
@@ -10526,6 +10548,28 @@
     },
     {
       "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+    },
+    {
+      "album": {
         "name": "Pasan las Horas",
         "url": "https://open.spotify.com/album/4fnSR3wekbp5mmGxWQhTzX"
       },
@@ -12305,10 +12349,28 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 201640,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/0KlXfxDmQqz4ajLc4cksyy"
+    },
+    {
+      "album": {
+        "name": "SE ENDIABLA",
+        "url": "https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "SE ENDIABLA",
+      "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
     },
     {
       "album": {

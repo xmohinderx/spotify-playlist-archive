@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 121721,
+  "num_followers": 121801,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMGYxNTc0NzU3NTMxNDFmODcwMzhlNDBiNjE3MzM3OTMw",
+  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMDBjNThiZjEyZDEzZTcyMzZhMjhkZDY3ZDA2Y2Q2ZGUz",
   "tracks": [
     {
       "added_at": "2022-09-29 15:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "VARIETY (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 295453,
+      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
+      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "SEPTEMBER",
         "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 176919,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "VARIETY (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 295453,
-      "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6 - 12\" Original Length ReMix",
-      "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
+        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
+        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
+      "duration_ms": 235325,
+      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
+      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
-        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
       "artists": [
         {
-          "name": "LAYRUS LOOP",
-          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 235325,
-      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
-      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
+      "duration_ms": 197500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 225529,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -787,22 +787,26 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
+        "name": "Watching Over You",
+        "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+          "name": "Peach & Apricot",
+          "url": "https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX"
         },
         {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        },
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
-      "duration_ms": 209620,
-      "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
+      "duration_ms": 297444,
+      "name": "Watching Over You",
+      "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -827,26 +831,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Watching Over You",
-        "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
       },
       "artists": [
         {
-          "name": "Peach & Apricot",
-          "url": "https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
         },
         {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        },
-        {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
         }
       ],
-      "duration_ms": 297444,
-      "name": "Watching Over You",
-      "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+      "duration_ms": 209620,
+      "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "dance",
-        "url": "https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 199024,
-      "name": "dance",
-      "url": "https://open.spotify.com/track/4vURlCR65nymieanZFI26k"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "TICKETS",
         "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "dance",
+        "url": "https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 199024,
+      "name": "dance",
+      "url": "https://open.spotify.com/track/4vURlCR65nymieanZFI26k"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "Music Restaurant Royal Host",
+        "url": "https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3"
+      },
+      "artists": [
+        {
+          "name": "Takashi Fujii",
+          "url": "https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12"
+        }
+      ],
+      "duration_ms": 189359,
+      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30a2\u30c9\u30d0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/3XHcVhqyMCnAOO0lHaaBXo"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "Perfect Vacation",
         "url": "https://open.spotify.com/album/1L0htF6OHaxrzp46hIlt7n"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 234936,
       "name": "\u3053\u306e\u307e\u307e\u5922\u3067 feat. AAAMYYY",
       "url": "https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "Music Restaurant Royal Host",
-        "url": "https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3"
-      },
-      "artists": [
-        {
-          "name": "Takashi Fujii",
-          "url": "https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12"
-        }
-      ],
-      "duration_ms": 189359,
-      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30a2\u30c9\u30d0\u30a4\u30b9",
-      "url": "https://open.spotify.com/track/3XHcVhqyMCnAOO0lHaaBXo"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Moonset with KozyPop",
-        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        },
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Moonset",
-      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "MAO",
         "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
       },
@@ -1239,18 +1219,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Capsule",
-        "url": "https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb"
+        "name": "Moonset with KozyPop",
+        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
       },
       "artists": [
         {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
         }
       ],
-      "duration_ms": 220600,
-      "name": "Capsule",
-      "url": "https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7"
+      "duration_ms": 226933,
+      "name": "Moonset",
+      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "Capsule",
+        "url": "https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb"
+      },
+      "artists": [
+        {
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Capsule",
+      "url": "https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ"
       },
@@ -1299,26 +1299,6 @@
       "duration_ms": 235700,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "SANDIE",
-        "url": "https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        },
-        {
-          "name": "Yu Sakai",
-          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
-        }
-      ],
-      "duration_ms": 287569,
-      "name": "SANDIE",
-      "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "SANDIE",
+        "url": "https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        },
+        {
+          "name": "Yu Sakai",
+          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
+        }
+      ],
+      "duration_ms": 287569,
+      "name": "SANDIE",
+      "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Signpost",
-        "url": "https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 212418,
-      "name": "Signpost",
-      "url": "https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 222464,
       "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
       "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "Signpost",
+        "url": "https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 212418,
+      "name": "Signpost",
+      "url": "https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4"
-      },
-      "artists": [
-        {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
-        }
-      ],
-      "duration_ms": 244358,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "BITTER!",
         "url": "https://open.spotify.com/album/0BSd8vQJG03o2NHVMA7kA5"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4"
+      },
+      "artists": [
+        {
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+        }
+      ],
+      "duration_ms": 244358,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1555,54 +1555,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u541b\u306f1000%",
-        "url": "https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr"
-      },
-      "artists": [
-        {
-          "name": "Philosophy no Dance",
-          "url": "https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA"
-        }
-      ],
-      "duration_ms": 257083,
-      "name": "\u541b\u306f1000%",
-      "url": "https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "Just be Blue",
-        "url": "https://open.spotify.com/album/778O7vFyhlYuGXeQjpDfhV"
-      },
-      "artists": [
-        {
-          "name": "THREE1989",
-          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
-        }
-      ],
-      "duration_ms": 241450,
-      "name": "Just be Blue",
-      "url": "https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "\u697d\u5712",
-        "url": "https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 239300,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "Step in Step in",
         "url": "https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4"
       },
@@ -1623,6 +1575,70 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "\u697d\u5712",
+        "url": "https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 239300,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "Just be Blue",
+        "url": "https://open.spotify.com/album/778O7vFyhlYuGXeQjpDfhV"
+      },
+      "artists": [
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        }
+      ],
+      "duration_ms": 241450,
+      "name": "Just be Blue",
+      "url": "https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "\u541b\u306f1000%",
+        "url": "https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr"
+      },
+      "artists": [
+        {
+          "name": "Philosophy no Dance",
+          "url": "https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA"
+        }
+      ],
+      "duration_ms": 257083,
+      "name": "\u541b\u306f1000%",
+      "url": "https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        }
+      ],
+      "duration_ms": 267575,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "\u6a39\u5f71",
         "url": "https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye"
       },
@@ -1635,6 +1651,22 @@
       "duration_ms": 209147,
       "name": "Almond",
       "url": "https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "Little Woman",
+        "url": "https://open.spotify.com/album/4MOwIbt4OSBrLRGw4Bmhu6"
+      },
+      "artists": [
+        {
+          "name": "Mizuki Ohira",
+          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
+        }
+      ],
+      "duration_ms": 257276,
+      "name": "33\u6b73\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1659,18 +1691,18 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Little Woman",
-        "url": "https://open.spotify.com/album/4MOwIbt4OSBrLRGw4Bmhu6"
+        "name": "\u96e8\u306e\u30ea\u30b0\u30ec\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/0hKGVTJz57q8FOwKalb0sj"
       },
       "artists": [
         {
-          "name": "Mizuki Ohira",
-          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
+          "name": "Chikuzen sato",
+          "url": "https://open.spotify.com/artist/7xK7fPe7SjHrGS54CvUoer"
         }
       ],
-      "duration_ms": 257276,
-      "name": "33\u6b73\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX"
+      "duration_ms": 277200,
+      "name": "\u96e8\u306e\u30ea\u30b0\u30ec\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/1vGLybuIsoMevv7DXNnW1c"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1687,38 +1719,6 @@
       "duration_ms": 224177,
       "name": "Rhythm of Your Heart",
       "url": "https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "\u96e8",
-        "url": "https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1"
-      },
-      "artists": [
-        {
-          "name": "Keishi Tanaka",
-          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
-        }
-      ],
-      "duration_ms": 267575,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "\u96e8\u306e\u30ea\u30b0\u30ec\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/0hKGVTJz57q8FOwKalb0sj"
-      },
-      "artists": [
-        {
-          "name": "Chikuzen sato",
-          "url": "https://open.spotify.com/artist/7xK7fPe7SjHrGS54CvUoer"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "\u96e8\u306e\u30ea\u30b0\u30ec\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/1vGLybuIsoMevv7DXNnW1c"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

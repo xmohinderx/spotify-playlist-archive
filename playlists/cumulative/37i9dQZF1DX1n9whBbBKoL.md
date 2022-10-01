@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-165 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+166 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 | 2022-03-17 |  |
 | [As Seen In Silver Halide](https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Jibba](https://open.spotify.com/album/2kB2T6v3qDTxkK1mSxJhsY) | 3:16 | 2021-11-10 |  |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 |  |
+| [Astral Distance](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Astral Distance](https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N) | 2:05 | 2022-09-30 |  |
 | [Aurora](https://open.spotify.com/track/6B5LtVE6Nlvmr9iJRMu2O9) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Aurora](https://open.spotify.com/album/7898KcnclYbvNAdYWnwZW1) | 3:13 | 2021-11-10 |  |
 | [Awakened](https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ) | [The Deep Sleep Scientists](https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR) | [Awakened](https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV) | 3:00 | 2022-09-23 |  |
 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 | 2021-11-10 |  |
@@ -111,7 +112,7 @@
 | [Norrbotten](https://open.spotify.com/track/5ardBAnHzOgVgwbC7lUeoj) | [Lugnet före stormen](https://open.spotify.com/artist/6dr0I7Dag5o0aCFKKglKSH) | [Norrbotten](https://open.spotify.com/album/39pxK7nI9nT3Vo3XQ4MJQK) | 2:36 | 2021-11-10 |  |
 | [Oblivion](https://open.spotify.com/track/676cCislDJ6X51j2mai6xD) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Oblivion](https://open.spotify.com/album/03PoUSzMmhA5FYH7yU0BGO) | 3:08 | 2021-11-10 | 2022-08-13 |
 | [Occuring Birds](https://open.spotify.com/track/5tXw2CCHvtbUKaS3lnt2Df) | [Silent Remedies](https://open.spotify.com/artist/4NJWqCRTPzxsi7mO67m54U) | [Occuring Birds](https://open.spotify.com/album/6o13cVOcpbtIxvUbA1Ks94) | 3:44 | 2021-11-10 | 2022-04-22 |
-| [Ongoing](https://open.spotify.com/track/6ICoijQw5AmAB9OWQu0EqR) | [Joseph Martins](https://open.spotify.com/artist/3MR09XZH0Q5cRnennqCE2z) | [Leaf Warbler](https://open.spotify.com/album/7IBOqgbQH8Y3eu1K9M75Hv) | 3:40 | 2021-11-10 |  |
+| [Ongoing](https://open.spotify.com/track/6ICoijQw5AmAB9OWQu0EqR) | [Joseph Martins](https://open.spotify.com/artist/3MR09XZH0Q5cRnennqCE2z) | [Leaf Warbler](https://open.spotify.com/album/7IBOqgbQH8Y3eu1K9M75Hv) | 3:40 | 2021-11-10 | 2022-10-01 |
 | [Onomatopoeia](https://open.spotify.com/track/6gJbOl8YQDqK4MZyNy4hDj) | [Caleb Huber](https://open.spotify.com/artist/3gEu2oKuCuCY3HcbVLHlNW) | [Onomatopoeia](https://open.spotify.com/album/4kzn5aeKooUIqJI5PC5qMn) | 3:20 | 2021-11-10 |  |
 | [Oscitancy](https://open.spotify.com/track/64CajkmsGoNAefmvK8pYpY) | [Didio Carrión](https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw) | [Oscitancy](https://open.spotify.com/album/4h2imOOg6ILMwmTmGiKZp5) | 3:47 | 2021-11-10 |  |
 | [Pace Tua](https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1) | [Celeste Soma](https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz) | [Pace tua](https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA) | 2:24 | 2021-11-10 |  |

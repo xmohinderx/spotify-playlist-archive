@@ -4,7 +4,7 @@
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-171 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/3SYauXGHMGALNz6T4c3c5m)
+172 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/3SYauXGHMGALNz6T4c3c5m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Rocky Mountain High](https://open.spotify.com/track/5tlyFGagMcqqpbqo2jYKU5) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [Mike Taylor](https://open.spotify.com/artist/46JtIzqxtxDz0ID3fLoqpQ) | [Rocky Mountain High](https://open.spotify.com/album/26puZuYaa7mdM2Q24lBZ1s) | 4:43 | 2021-12-07 | 2022-07-29 |
 | [Ruby Tuesday](https://open.spotify.com/track/59XmHUquo2SrCkiopxQBed) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [GRRR! \(Deluxe Version\)](https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt) | 3:14 | 2021-12-07 | 2022-07-29 |
 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 | 2022-05-27 |  |
-| [San Francisco Days](https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [San Francisco Days](https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov) | 2:58 | 2022-05-27 |  |
+| [San Francisco Days](https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [San Francisco Days](https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov) | 2:58 | 2022-05-27 | 2022-10-01 |
 | [San Francisco Days](https://open.spotify.com/track/5FSVXWpXro9U8FAuFvmine) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best of Chris Isaak \(Remastered\)](https://open.spotify.com/album/15WGW9fyEuS2cWp8aZkNpZ) | 2:59 | 2021-12-07 | 2022-07-29 |
 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 | 2021-12-07 |  |
 | [She's Leaving Home \- Remastered](https://open.spotify.com/track/1Ipl1kvks5s6GKn6oqgzeY) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/1PULmKbHeOqlkIwcDMNwD4) | 3:35 | 2021-12-07 | 2022-07-29 |
@@ -137,6 +137,7 @@
 | [Souvenirs](https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:42 | 2021-12-07 | 2022-07-29 |
 | [Strangers](https://open.spotify.com/track/28RJeUDuT4tSx3zfk4iPVC) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Money\-Go\-Round, Pt\. 1](https://open.spotify.com/album/2CgMbcGBEyFj1LTUHDoN51) | 3:18 | 2021-12-07 | 2022-07-29 |
 | [Strangers](https://open.spotify.com/track/7obb4s6A7gf0Lc2AGxodMy) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:18 | 2022-05-27 | 2022-09-04 |
+| [Strangers \- 2020 Stereo Remaster](https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 3:21 | 2022-05-27 |  |
 | [Stuck In The Middle With You](https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:23 | 2021-12-07 |  |
 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 | 2021-12-07 |  |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2021-12-07 |  |

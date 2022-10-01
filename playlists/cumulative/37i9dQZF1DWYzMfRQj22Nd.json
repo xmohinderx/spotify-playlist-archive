@@ -1006,6 +1006,32 @@
     },
     {
       "album": {
+        "name": "Speed Of Light",
+        "url": "https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Akylla",
+          "url": "https://open.spotify.com/artist/5Ad8YPmqQf2tay2SZ8NxWY"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213488,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV"
+    },
+    {
+      "album": {
         "name": "Bring Me The Light",
         "url": "https://open.spotify.com/album/6kiSqXyG4fpBPxnqmXoCUF"
       },
@@ -2505,7 +2531,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 265371,
       "name": "Follow Me - Blanke Remix",
       "url": "https://open.spotify.com/track/7H5GF7ufsRpIPtvupChNyf"
@@ -5559,7 +5585,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 249655,
       "name": "Recombine",
       "url": "https://open.spotify.com/track/2GZ3TAxyasEWv08Ajcypii"
@@ -5771,6 +5797,24 @@
       "duration_ms": 272840,
       "name": "Rock It (Wilkinson Remix)",
       "url": "https://open.spotify.com/track/7aYilD8vBLICtiJ7Pt6XLY"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Rude Boy 22 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
     },
     {
       "album": {

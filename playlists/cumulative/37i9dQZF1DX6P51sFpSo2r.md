@@ -4,12 +4,13 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Parkway Drive
 
-60 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+61 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Death](https://open.spotify.com/track/6MVGo38XGhUJ2RUznCK9xm) | [Misery Signals](https://open.spotify.com/artist/0OSABE1yGiZK2ALQDJ0SeO) | [Controller](https://open.spotify.com/album/6Ii1G4koVfmBZpywrjnsqg) | 3:25 | 2022-01-17 |  |
-| [A Port In Any Storm](https://open.spotify.com/track/4wVXaAKzc6sh2jkcgOba1d) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [Sirens](https://open.spotify.com/album/1HAvhnvSbJ3wdyOtj6Jtcl) | 3:14 | 2022-01-17 |  |
+| [A Port In Any Storm](https://open.spotify.com/track/46Zdq2HrcAtolMCkXUwsEu) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [Sirens](https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy) | 3:14 | 2022-01-17 |  |
+| [A Port In Any Storm](https://open.spotify.com/track/4wVXaAKzc6sh2jkcgOba1d) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [Sirens](https://open.spotify.com/album/1HAvhnvSbJ3wdyOtj6Jtcl) | 3:14 | 2022-01-17 | 2022-10-01 |
 | [At the End of August](https://open.spotify.com/track/7sjCYW3D73C7lxdbVifWPn) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [A Snow Capped Romance](https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9) | 3:58 | 2022-01-17 |  |
 | [Born To Lose](https://open.spotify.com/track/4WsQCb1Atrhbb2I78hHCNG) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Dead Throne](https://open.spotify.com/album/4iYkAfmG9mB9whqxDEPgfI) | 3:04 | 2022-01-17 |  |
 | [Born To Lose](https://open.spotify.com/track/6clSq0mAWWyBxJ41J4fUnw) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Dead Throne](https://open.spotify.com/album/4aJCOyKPoo44BNCMbA5bP2) | 3:04 | 2022-01-17 | 2022-07-29 |

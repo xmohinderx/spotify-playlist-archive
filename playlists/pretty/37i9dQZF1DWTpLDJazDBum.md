@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 
 > Find your flow with these trap and lofi beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,803 likes - 122 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,010 likes - 122 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 | 121 | [Escape](https://open.spotify.com/track/6PWv11SoxcweLVpUetusTO) | [RudeLies](https://open.spotify.com/artist/6u2hgxrLYevPlPhOfcgVW8) | [Escape](https://open.spotify.com/album/3YluATDG7yRXXm5VlYPnF0) | 3:12 |
 | 122 | [Dirt Rhode](https://open.spotify.com/track/0OjrqFG58yjrB01lDkVjJL) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Dirt Rhode](https://open.spotify.com/album/61uS0CiEDftWmp0hjdXwgm) | 3:05 |
 
-Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMDg3NWE0YzM1YWRiOTcwNzFiOGVjMGUxYzY3Yzk5NjRh`
+Snapshot ID: `MTY2NDUzNDc1NSwwMDAwMDAwMGQ1MzI5NmY4ZDdmNmIwOGU1OGVkM2NiOTlkZGRmODAx`

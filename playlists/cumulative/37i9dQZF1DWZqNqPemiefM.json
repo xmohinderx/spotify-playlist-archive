@@ -2183,7 +2183,7 @@
     {
       "album": {
         "name": "Forgetful Angel",
-        "url": "https://open.spotify.com/album/4W16Uthzgh95U97862c8bg"
+        "url": "https://open.spotify.com/album/0wzOZrYgU9wrndydzgYOPX"
       },
       "artists": [
         {
@@ -2194,6 +2194,24 @@
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Forgetful Angel",
+      "url": "https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP"
+    },
+    {
+      "album": {
+        "name": "Forgetful Angel",
+        "url": "https://open.spotify.com/album/4W16Uthzgh95U97862c8bg"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
       "duration_ms": 177600,
       "name": "Forgetful Angel",
       "url": "https://open.spotify.com/track/3pMfNMfmGNlkYmjilGEtci"

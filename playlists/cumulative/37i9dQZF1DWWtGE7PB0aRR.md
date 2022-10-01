@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-110 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
+111 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [It's Only Love](https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Pigthology](https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli) | 3:22 | 2021-04-22 |  |
 | [It's Only Love \- 2006 Remaster](https://open.spotify.com/track/2wMxAVkpqT4t7oNtxgoX94) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Ahead Rings Out \(2006 Remaster\)](https://open.spotify.com/album/380B7eXtpYM732cslvhVNt) | 3:23 | 2021-04-22 | 2022-07-29 |
 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 | 2021-04-22 |  |
-| [Junior's Wailing \- 21st Century Version](https://open.spotify.com/track/2VR6NdQzzmcpvJIOBRdPeF) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Junior's Wailing \(21st Century Version\)](https://open.spotify.com/album/0SFYMVa6tj5Lu9nm1lIeOj) | 3:59 | 2022-09-09 |  |
+| [Junior's Wailing \- 21st Century Version](https://open.spotify.com/track/2VR6NdQzzmcpvJIOBRdPeF) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Junior's Wailing \(21st Century Version\)](https://open.spotify.com/album/0SFYMVa6tj5Lu9nm1lIeOj) | 3:59 | 2022-09-09 | 2022-10-01 |
+| [Junior's Wailing \- 21st Century Version](https://open.spotify.com/track/7IUA28oFz78kpRUx8rDK49) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Wailing Again](https://open.spotify.com/album/7uNZi23dwmDzuvyXw0tiL2) | 3:59 | 2022-09-09 |  |
 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 | 2021-04-22 |  |
 | [Little By Little \- Mono Version](https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:39 | 2021-04-22 |  |
 | [Little Red Rooster \- Mono Version](https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones, Now!](https://open.spotify.com/album/592dKHbXtiglWyt8AEet23) | 3:05 | 2021-04-22 |  |

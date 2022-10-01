@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127206,
+  "num_followers": 127202,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY1MCwzMjBmMjQwZmEzNmI3YmUxODMyMTdiZTdiNWNiYWVmNmYxMjhiNjEy",
+  "snapshot_id": "MzY1NSw0ZjQzMWI1YjcwZGJiZjhjYjRjYmM0OGFiNjM1OGY1MmU5OWM0NjYz",
   "tracks": [
+    {
+      "added_at": "2022-09-30 16:43:34",
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/686cBsfdo35oMwrVgu6g19"
+      },
+      "artists": [
+        {
+          "name": "Hoaprox",
+          "url": "https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT"
+    },
+    {
+      "added_at": "2022-09-30 16:42:53",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Luke Coulson",
+          "url": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/7moYWZMEBBi9JgO1vbmPU4"
+    },
     {
       "added_at": "2022-09-29 17:42:24",
       "album": {
@@ -1063,58 +1103,6 @@
       "duration_ms": 210000,
       "name": "Over The Water",
       "url": "https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ"
-    },
-    {
-      "added_at": "2022-07-21 16:58:24",
-      "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA"
-      },
-      "artists": [
-        {
-          "name": "Grant",
-          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
-        },
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
-        }
-      ],
-      "duration_ms": 166486,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc"
-    },
-    {
-      "added_at": "2022-07-20 16:44:11",
-      "album": {
-        "name": "Only Wide Open Space And Me",
-        "url": "https://open.spotify.com/album/1wGPEIf0MeTsULFOwbT9zx"
-      },
-      "artists": [
-        {
-          "name": "Andromedha",
-          "url": "https://open.spotify.com/artist/1naIVJt93vo4NJ3UHT6O8q"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Only Wide Open Space And Me",
-      "url": "https://open.spotify.com/track/3g2vHR1LE5Buctsm2pLQdb"
-    },
-    {
-      "added_at": "2022-07-19 16:53:42",
-      "album": {
-        "name": "see str8",
-        "url": "https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "see str8",
-      "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

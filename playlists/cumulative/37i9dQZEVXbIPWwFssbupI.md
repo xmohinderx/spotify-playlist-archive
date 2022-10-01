@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-941 songs - 2 day 2 hr 44 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+942 songs - 2 day 2 hr 48 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Château noir](https://open.spotify.com/track/7CAZp2oaUNJ47vtAZDfKn6) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Château Noir](https://open.spotify.com/album/1L0CWMCgCAqe4IUNgVDCk6) | 3:29 | 2021-03-27\* | 2021-03-27 |
 | [Civilisation](https://open.spotify.com/track/12C6Cy0B1fH7k5Ex0DreRS) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:05 | 2021-11-21 | 2021-12-05 |
 | [Clap Your Hands](https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:09 | 2022-04-03 | 2022-09-13 |
-| [Clic clic pan pan](https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Pays des merveilles](https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe) | 2:43 | 2022-02-08 |  |
+| [Clic clic pan pan](https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Pays des merveilles](https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe) | 2:43 | 2022-02-08 | 2022-10-01 |
 | [Coffre](https://open.spotify.com/track/46RYTjAbDQAqnGWus2SF1N) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:32 | 2021-11-14 | 2021-11-17 |
 | [Coffre plein](https://open.spotify.com/track/70pkwEEG7nDTXBFqoGQkH0) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zed](https://open.spotify.com/artist/0mmk05vTtGGG2jYwLxRHwy) | [Détail](https://open.spotify.com/album/1Ua6yrySqTar5FiX0DnlFz) | 3:40 | 2021-04-06 | 2021-04-26 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2022-05-01 | 2022-09-06 |
@@ -338,6 +338,7 @@
 | [G\-shock](https://open.spotify.com/track/4AXFgAmNoHv9dxu9d35MQP) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:14 | 2021-06-27 | 2021-06-28 |
 | [Galerie](https://open.spotify.com/track/2SSCtasL6H9ckzCJAlBcgW) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:45 | 2021-11-14 | 2021-11-28 |
 | [Galerie](https://open.spotify.com/track/2hsEYpnAtMH7CbZJajUU5C) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Galerie](https://open.spotify.com/album/3wzW6OkUdpj8RFn8UCCNF3) | 2:45 | 2021-11-12 | 2021-11-14 |
+| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 |  |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2021-08-29 | 2022-05-22 |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-05-28 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |

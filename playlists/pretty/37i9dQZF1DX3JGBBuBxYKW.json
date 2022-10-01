@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Soledad, Lali & Natalia Oreiro.",
-  "num_followers": 75071,
+  "num_followers": 75105,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDM2ZWE3OTkyNWE0YmEzYWRhOWEwZTBhMzNjYmZmZTE5",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGIyNTMyNmI2MjBiNDBmODY5Mjk4MWJmNTFjNWU2MTQw",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -391,6 +391,26 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
+      },
+      "artists": [
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "20 TropiExitos",
         "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
       },
@@ -403,22 +423,6 @@
       "duration_ms": 218333,
       "name": "La Cantaleta",
       "url": "https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Por Amor A La M\u00fasica",
-        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Y Que De M\u00ed",
-      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -439,6 +443,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Por Amor A La M\u00fasica",
+        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Y Que De M\u00ed",
+      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "De Mi Barrio Con Pasi\u00f3n",
         "url": "https://open.spotify.com/album/6qfu3pbFZPTpftQEr7qBNp"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 166138,
       "name": "Qui\u00e9n la Juna",
       "url": "https://open.spotify.com/track/1SRB1DWfs5AQgnYrzRYY93"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
-      },
-      "artists": [
-        {
-          "name": "Leslie Shaw",
-          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Encanto Tropical",
-        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
+        "name": "Si hay alguien en tu vida",
+        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478"
+      "duration_ms": 231280,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Si hay alguien en tu vida",
-        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
+        "name": "Encanto Tropical",
+        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         }
       ],
-      "duration_ms": 231280,
-      "name": "Si Tu Te Vas",
-      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
+      "duration_ms": 233973,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Lo Que Fui para Ti",
+      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Pecados Tropicales",
         "url": "https://open.spotify.com/album/29OwNUnlUMYVINlpdnLHHx"
       },
@@ -903,26 +919,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Dos Infieles",
-        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
-      },
-      "artists": [
-        {
-          "name": "Lumila",
-          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Dos Infieles",
-      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -935,22 +931,6 @@
       "duration_ms": 222361,
       "name": "No Te Ir\u00e1s",
       "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Lo Que Fui para Ti",
-      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -983,6 +963,26 @@
       "duration_ms": 238561,
       "name": "Lo Que Me Hizo Usted",
       "url": "https://open.spotify.com/track/7gKptykHNsZC1MHIF7wOJv"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Dos Infieles",
+        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
+      },
+      "artists": [
+        {
+          "name": "Lumila",
+          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Dos Infieles",
+      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Tiembla",
-        "url": "https://open.spotify.com/album/0m9W2jEAwSNQm1WifE0jid"
+        "name": "Sigo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
         }
       ],
-      "duration_ms": 237480,
-      "name": "Tiembla",
-      "url": "https://open.spotify.com/track/4h3wVKjCwSefpn9XTDBgRV"
+      "duration_ms": 240015,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Sigo Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
+        "name": "Tiembla",
+        "url": "https://open.spotify.com/album/0m9W2jEAwSNQm1WifE0jid"
       },
       "artists": [
         {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 240015,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
+      "duration_ms": 237480,
+      "name": "Tiembla",
+      "url": "https://open.spotify.com/track/4h3wVKjCwSefpn9XTDBgRV"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Las Solteras",
-        "url": "https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF"
+        "name": "Ayer Pedi",
+        "url": "https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o"
       },
       "artists": [
         {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
         }
       ],
-      "duration_ms": 200286,
-      "name": "Las Solteras",
-      "url": "https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1"
+      "duration_ms": 205032,
+      "name": "Ayer Pedi",
+      "url": "https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI"
     }
   ],
   "unique_name": "Cumbieras",

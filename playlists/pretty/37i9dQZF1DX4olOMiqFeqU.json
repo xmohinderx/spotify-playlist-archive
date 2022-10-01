@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2293115,
+  "num_followers": 2293615,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDU2NDYyM2VjZDQyYTQzYTljOGU5YTZkNWVlZjZkYWMx",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDc5ZjBkNzZhN2Q3NzYxY2EyMzZlYmM4NGU1ZjkzNmQ1",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Romantico",
+        "url": "https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR"
+      },
+      "artists": [
+        {
+          "name": "Kamikazee",
+          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Huling Sayaw",
+      "url": "https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Titig",
         "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
-        "name": "Romantico",
-        "url": "https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR"
-      },
-      "artists": [
-        {
-          "name": "Kamikazee",
-          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
-        }
-      ],
-      "duration_ms": 295413,
-      "name": "Huling Sayaw",
-      "url": "https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "G9",
-        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
-      },
-      "artists": [
-        {
-          "name": "Gloc 9",
-          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "Simpleng Tao",
-      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
         "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 260599,
       "name": "Di Na Muli",
       "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "G9",
+        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+      },
+      "artists": [
+        {
+          "name": "Gloc 9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Simpleng Tao",
+      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
     },
     {
       "added_at": "2022-09-20 08:13:43",

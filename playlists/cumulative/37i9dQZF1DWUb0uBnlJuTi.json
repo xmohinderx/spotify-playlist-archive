@@ -103,7 +103,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 563200,
       "name": "Afrodesia",
       "url": "https://open.spotify.com/track/2h10K0zxg9tgIoSWbPNRUS"
@@ -2354,6 +2354,24 @@
     },
     {
       "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294959,
+      "name": "Mean Green",
+      "url": "https://open.spotify.com/track/4ABDChCwUR9D600e1Me2Tt"
+    },
+    {
+      "album": {
         "name": "Influencias Latinas",
         "url": "https://open.spotify.com/album/21OBXWjYU6CPzncXXHjCKk"
       },
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 221790,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3"
@@ -3513,7 +3531,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 113785,
       "name": "Spoon (Mike Casey Remix) [No Sax]",
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"

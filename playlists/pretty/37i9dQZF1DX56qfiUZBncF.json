@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373692,
+  "num_followers": 373698,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMGM0NWRhNjg3ZDQ5ZjYwMjNhNTQ4Mjc0OTg4ODNhY2Uy",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDFlNjUwOTIyNWJiODc5OWJhOWY3NjYzNDdkMjdkOGZj",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Superdream",
+        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 218940,
+      "name": "Purple Sand (My Home)",
+      "url": "https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Superdream",
-        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 218940,
-      "name": "Purple Sand (My Home)",
-      "url": "https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Why Do We Shake In The Cold?",
+        "url": "https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Back To My Bed",
+      "url": "https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Wild Girl",
         "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 194088,
       "name": "Wild Girl",
       "url": "https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Why Do We Shake In The Cold?",
-        "url": "https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Back To My Bed",
-      "url": "https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -503,26 +503,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "The Juicebox",
-        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 177409,
-      "name": "Bonafide (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 224113,
       "name": "Together",
       "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 177409,
+      "name": "Bonafide (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -615,6 +615,26 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Chewing Cotton Wool",
+        "url": "https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        },
+        {
+          "name": "Justin Vernon",
+          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
+        }
+      ],
+      "duration_ms": 284578,
+      "name": "Dionne (feat. Justin Vernon)",
+      "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 260866,
       "name": "Surprise Yourself",
       "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Chewing Cotton Wool",
-        "url": "https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        },
-        {
-          "name": "Justin Vernon",
-          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
-        }
-      ],
-      "duration_ms": 284578,
-      "name": "Dionne (feat. Justin Vernon)",
-      "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "LP (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
-      },
-      "artists": [
-        {
-          "name": "Discovery",
-          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Swing Tree",
-      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4AHH4Ekn7AoYTJNxocY2Qg"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 185480,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/15SeSt7NAugpbYquPhF5dD"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "LP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
+      },
+      "artists": [
+        {
+          "name": "Discovery",
+          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Swing Tree",
+      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 266036,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
-      },
-      "artists": [
-        {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
       },
       "artists": [
         {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+          "name": "RKCB",
+          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
         }
       ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
+      "duration_ms": 213250,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1151,6 +1135,22 @@
       "duration_ms": 219483,
       "name": "Old T-Shirt (feat. koby)",
       "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "ACT ONE (The Complete Collection)",
-        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Friend Goals",
         "url": "https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 207499,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "ACT ONE (The Complete Collection)",
+        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Gold (Flume Re-Work)",
-        "url": "https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 267231,
-      "name": "Gold - Flume Re-Work",
-      "url": "https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "September Come",
         "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 240131,
       "name": "September Come",
       "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Gold (Flume Re-Work)",
+        "url": "https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 267231,
+      "name": "Gold - Flume Re-Work",
+      "url": "https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
-      },
-      "artists": [
-        {
-          "name": "Oceanic",
-          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "One & Only",
         "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 246750,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
+      },
+      "artists": [
+        {
+          "name": "Oceanic",
+          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
-      },
-      "artists": [
-        {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
-        }
-      ],
-      "duration_ms": 173375,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "River's Song",
         "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 248946,
       "name": "River's Song",
       "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 173375,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl"
     },
     {
       "added_at": "2022-04-29 23:01:28",

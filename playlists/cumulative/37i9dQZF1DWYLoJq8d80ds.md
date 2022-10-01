@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera
 
-127 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+128 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Mundo](https://open.spotify.com/track/2jL5pH60kWWSNEyoxENRol) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mundo](https://open.spotify.com/album/3irWZcLfE9HCACenWfVp3E) | 3:42 | 2021-12-31 |  |
 | [Nada \- REMIX](https://open.spotify.com/track/2TjYOCmxd4HTjcZxtjoj1c) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Nada \(REMIX\)](https://open.spotify.com/album/5CHPMtTMwLIL2vK6GnDjMM) | 3:31 | 2022-08-26 |  |
 | [Navidad y Año Nuevo](https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Navidad y Año Nuevo](https://open.spotify.com/album/1HRNGUWQDfazHryTekdgpN) | 2:24 | 2021-12-31 | 2022-07-02 |
+| [No Somos Nada](https://open.spotify.com/track/7JAven4KfvzBPbKyxE99OJ) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/39j7YWFfBTmt99FUy55DRs) | 3:17 | 2022-09-30 |  |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
 | [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 | 2022-08-19 |  |

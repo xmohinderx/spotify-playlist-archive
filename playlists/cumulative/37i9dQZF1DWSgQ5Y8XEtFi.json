@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
@@ -3053,6 +3053,24 @@
       "duration_ms": 227373,
       "name": "SUMO | ZUMO",
       "url": "https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z"
+    },
+    {
+      "album": {
+        "name": "SUPERCALAFRAGIVICIOUS",
+        "url": "https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106046,
+      "name": "SUPERCALAFRAGIVICIOUS",
+      "url": "https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Las rolas para escuchar mientras trabajas.
 
-242 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/0EA1ma3y7TyXq1lGwanjjw)
+243 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/0EA1ma3y7TyXq1lGwanjjw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Borracho de Cochera](https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Borracho de Cochera](https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky) | 3:06 | 2022-05-05 | 2022-07-28 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2022-05-05 |  |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2022-05-05 |  |
+| [Cabrón Yo Puedo](https://open.spotify.com/track/2HsBez6K2kkqzkxHQqRusL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Cabrón Yo Puedo](https://open.spotify.com/album/48FTvOrTDP6bQb5gTIkDbN) | 3:07 | 2022-09-23 |  |
 | [Casi Perfecta](https://open.spotify.com/track/11LsnRtCKFgqhQGqnAekFA) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Mane de la Parra](https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck) | [Casi Perfecta](https://open.spotify.com/album/7pcJSHA6dzjmoUZVoyVuen) | 2:47 | 2022-05-05 | 2022-07-29 |
 | [Cedí](https://open.spotify.com/track/0C5u9cvJGDP4YpIbUyzJW4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cedí](https://open.spotify.com/album/6Tez8YETehXZ8GS6Q9yh4j) | 3:13 | 2022-05-05 | 2022-09-24 |
 | [Cerrando Ciclos](https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:15 | 2022-05-05 |  |
@@ -72,7 +73,7 @@
 | [El Buho](https://open.spotify.com/track/6IK6ltyraU1WrC586feemA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/72wSPGXB1FyNGm8ASPwd7b) | 2:56 | 2022-05-05 | 2022-07-29 |
 | [El Buho](https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:57 | 2022-05-05 | 2022-09-24 |
 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 | 2022-05-05 |  |
-| [El Callado](https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Callado](https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9) | 2:58 | 2022-09-23 |  |
+| [El Callado](https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Callado](https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9) | 2:58 | 2022-09-23 | 2022-10-01 |
 | [El Centenario](https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [15 Primeros Exitos Vol\. 1](https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq) | 2:36 | 2022-05-05 | 2022-09-24 |
 | [El Circo](https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:17 | 2022-05-05 |  |
 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 | 2022-05-05 |  |

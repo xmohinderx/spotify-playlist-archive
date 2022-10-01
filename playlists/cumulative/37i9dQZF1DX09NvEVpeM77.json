@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 188083,
       "name": "Dance the Night Away - 2015 Remaster",
       "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
@@ -441,6 +441,24 @@
       "duration_ms": 204653,
       "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
       "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
+    },
+    {
+      "album": {
+        "name": "Do I Love You (Indeed I Do)",
+        "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
     },
     {
       "album": {
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 254733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 249040,
       "name": "Jet - Remastered 2010",
       "url": "https://open.spotify.com/track/0fl1fDzh0kk3ikaoofO4Dg"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-108 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/26pgehX1ipT0qyKlAqJXDp)
+109 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/26pgehX1ipT0qyKlAqJXDp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Sauce \- Manoo Buzzin Vocal](https://open.spotify.com/track/6Ye8UVCEGyZm2tvNkGE2tx) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf), [Manoo](https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz) | [Sauce \(Manoo Remixes\)](https://open.spotify.com/album/2NcBxxI4KSaaBZ4rifx1hT) | 3:28 | 2022-03-24 |  |
 | [Scat Dub](https://open.spotify.com/track/73u3N5QHRwsBE8XBYk1l1s) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Gavin Holligan](https://open.spotify.com/artist/0EfVhAv1nX6p0gQg7a3fD3) | [If I Could Only Be Sure EP](https://open.spotify.com/album/2tD7O24rVCtgy4kb4uiQxo) | 4:26 | 2021-12-20 |  |
 | [See A Light](https://open.spotify.com/track/5XjyfCIJpSmWVCJpyFAcAk) | [Roy Jazz Grant](https://open.spotify.com/artist/0EVNPTDQGP4ocTzr6ZlhGj) | [See A Light](https://open.spotify.com/album/2yARmHfRk3WkCuDSvwXSqN) | 6:13 | 2022-07-29 |  |
+| [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 | 2022-09-30 |  |
 | [Situation \- Dub Mix](https://open.spotify.com/track/6j2cSuBWl5aQ8LxPYVYIFp) | [Yaz](https://open.spotify.com/artist/1XSKLwRyT1GttGP7fqr5o5) | [Situation](https://open.spotify.com/album/6XyN4us9O9PbKcfytfSFha) | 5:46 | 2022-05-27 | 2022-07-30 |
 | [Situation \- US Dub; 2008 Remastered Version](https://open.spotify.com/track/0gHMcWG1AsY8gAEX8lCg5A) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU), [Francois K](https://open.spotify.com/artist/2Y9THkKdfe8FfoHAyOY4Tv) | [In Your Room](https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v) | 5:46 | 2021-12-20 | 2022-07-29 |
 | [Someday \- New 12" House](https://open.spotify.com/track/6XtCgNKqDdbQvS2Tgc2434) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Someday EP](https://open.spotify.com/album/5QjBEb1GwmxGjEaJLfuVWX) | 6:52 | 2021-12-20 | 2022-07-30 |

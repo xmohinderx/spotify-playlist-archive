@@ -4,7 +4,7 @@
 
 > Enhance your focus with classical music.
 
-182 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/6BDzYfBiwlGx1TmWE2kQyn)
+183 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/6BDzYfBiwlGx1TmWE2kQyn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Violin Concerto in D Major, Op\. 61: 3\. Rondo](https://open.spotify.com/track/4I1Yo2bxDB9ynjvhyaytjC) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Frank Peter Zimmermann](https://open.spotify.com/artist/5hZj6cPZx2lFYtS7p234B2), [Shanghai Symphony Orchestra](https://open.spotify.com/artist/5axjIS5grj9EJYzXJW10IY), [Long Yu](https://open.spotify.com/artist/6PDtLxf4LD0rK9J055kocq) | [Great Recordings \(Vol\. 2\)](https://open.spotify.com/album/5n7380BCLmfU1WwKQ6U6jk) | 9:30 | 2022-02-04 | 2022-06-20 |
 | [Von fremden Ländern und Menschen \(From "Kinderszenen", Op\. 15\)](https://open.spotify.com/track/6aA88vbDLLQeid1AA8VOSp) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Van Bach tot Bernstein \- Spelenderwijs Leren Luisteren](https://open.spotify.com/album/1sUA5taIJalQVHk4KA64UG) | 1:30 | 2022-02-04 | 2022-07-29 |
 | [Waltz in C Minor \(Only for Piano\)](https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Blind Film](https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC) | 3:48 | 2022-02-04 | 2022-09-01 |
+| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-09-30 |  |
 | [Where Life and Death May Dwell \(Icelandic Folk Song\) \- Upright Piano](https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl) | [Snorri Sigfús Birgisson](https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Birgisson: Where Life and Death May Dwell \(Icelandic Folk Song\)](https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ) | 1:45 | 2022-09-02 |  |
 | [« Dolly », 6 pièces pour piano à 4 mains, Op\. 56: Berceuse](https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Jean\-Claude Vanden Eynden](https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg), [Pierre\-Alain Volondat](https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn) | [Musique française pour deux pianos et piano à quatre mains: Debussy, Fauré, Milhaud & Ravel](https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf) | 2:33 | 2022-02-04 |  |
 | [Études, Op\. 10: Etude No\. 6 in E\-Flat Minor, Op\. 10, No\. 6](https://open.spotify.com/track/0INQsl5MqK2Fv8bufKLVKn) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Etudes, Opp\. 10 and 25](https://open.spotify.com/album/095fZ5OxNshH9dLaE60dJq) | 3:35 | 2022-02-04 | 2022-07-29 |

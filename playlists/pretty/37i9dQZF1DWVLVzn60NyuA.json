@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe.",
-  "num_followers": 216743,
+  "num_followers": 216803,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODgwMCwwMDAwMDAwMGIzODQ1ZTBhNDc4ZDE5MjYyM2E3YTlhNDY0ODQ5YTk0",
+  "snapshot_id": "MTY2NDQ4ODgwMCwwMDAwMDAwMGRiOTJkMWMxODk1Nzc1MzBiZDNjYmU0OGE5NTdjM2Rj",
   "tracks": [
     {
       "added_at": "2022-09-29 22:00:00",
@@ -107,18 +107,26 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
+        "name": "Enoc",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 159357,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
+      "duration_ms": 230693,
+      "name": "Una Locura",
+      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -143,26 +151,18 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Enoc",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Una Locura",
-      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+      "duration_ms": 159357,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -247,6 +247,30 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Enoc",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "M\u00e1s Negro Que Rojo",
         "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
@@ -287,6 +311,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Buga (Lo Lo Lo)",
         "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
       },
@@ -303,46 +343,6 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Enoc",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 185898,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -475,38 +491,18 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+        "name": "N'y pense plus",
+        "url": "https://open.spotify.com/album/6OZw1o9TZEgHLnggVYmqLS"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 185898,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+      "duration_ms": 212006,
+      "name": "N'y pense plus",
+      "url": "https://open.spotify.com/track/5KCH6zWcx5qUYbmp0uaaE7"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -523,6 +519,22 @@
       "duration_ms": 129964,
       "name": "Calling My Name",
       "url": "https://open.spotify.com/track/7sT7kZEYd1MrmzLLIRVZas"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -547,6 +559,26 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
@@ -559,22 +591,6 @@
       "duration_ms": 158400,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "N'y pense plus",
-        "url": "https://open.spotify.com/album/6OZw1o9TZEgHLnggVYmqLS"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 212006,
-      "name": "N'y pense plus",
-      "url": "https://open.spotify.com/track/5KCH6zWcx5qUYbmp0uaaE7"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -595,22 +611,6 @@
       "duration_ms": 171764,
       "name": "Infinity (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Never Find / Armagidion",
-        "url": "https://open.spotify.com/album/2L9yHTn8KvFuPKvMvPGAET"
-      },
-      "artists": [
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        }
-      ],
-      "duration_ms": 205069,
-      "name": "Never Find",
-      "url": "https://open.spotify.com/track/3XdmxkGq16K3L1VcKChi57"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Parts Of The Puzzle",
         "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 220464,
       "name": "Stay So",
       "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Never Find / Armagidion",
+        "url": "https://open.spotify.com/album/2L9yHTn8KvFuPKvMvPGAET"
+      },
+      "artists": [
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        }
+      ],
+      "duration_ms": 205069,
+      "name": "Never Find",
+      "url": "https://open.spotify.com/track/3XdmxkGq16K3L1VcKChi57"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2263,30 +2263,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "No Fear (feat. Damian Marley & Nicky Jam)",
-        "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "No Fear (feat. Damian Marley & Nicky Jam)",
-      "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
       },
@@ -2307,6 +2283,30 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "No Fear (feat. Damian Marley & Nicky Jam)",
+        "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "No Fear (feat. Damian Marley & Nicky Jam)",
+      "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2351,18 +2351,26 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Gonn Do",
-        "url": "https://open.spotify.com/album/2D1tNgnOi8Xr6n76niPqPb"
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
       },
       "artists": [
         {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
         }
       ],
-      "duration_ms": 152523,
-      "name": "Gonn Do",
-      "url": "https://open.spotify.com/track/2U15IErwpwD0ZXSAOwOpJc"
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2387,26 +2395,18 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+        "name": "Gonn Do",
+        "url": "https://open.spotify.com/album/2D1tNgnOi8Xr6n76niPqPb"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
         }
       ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+      "duration_ms": 152523,
+      "name": "Gonn Do",
+      "url": "https://open.spotify.com/track/2U15IErwpwD0ZXSAOwOpJc"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2475,6 +2475,26 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Pelikula",
+        "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "duration_ms": 193543,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -2535,26 +2555,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Hybrid",
-        "url": "https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 188136,
-      "name": "Bounce It (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/0H6vpbW0UOtVpm3RgiwSkx"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Damages",
         "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
       },
@@ -2571,22 +2571,38 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Pelikula",
-        "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/28sIFh62xbvrc7n27GKFnS"
       },
       "artists": [
         {
           "name": "Ir Sais",
           "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
         }
       ],
-      "duration_ms": 193543,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
+      "duration_ms": 152967,
+      "name": "Tropical",
+      "url": "https://open.spotify.com/track/11Hq9IduxlW65vxVEzqyIr"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 188136,
+      "name": "Bounce It (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0H6vpbW0UOtVpm3RgiwSkx"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2667,6 +2683,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB"
+      },
+      "artists": [
+        {
+          "name": "Wauve",
+          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
+        }
+      ],
+      "duration_ms": 202549,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -2687,22 +2719,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB"
-      },
-      "artists": [
-        {
-          "name": "Wauve",
-          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
-        }
-      ],
-      "duration_ms": 202549,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Yahoo Boy",
         "url": "https://open.spotify.com/album/5xuTeLzxHqw4s15EM0ep22"
       },
@@ -2715,22 +2731,6 @@
       "duration_ms": 174172,
       "name": "Yahoo Boy",
       "url": "https://open.spotify.com/track/5HlLiMUciWPEGG2c3Xu0cu"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Skilahmatic",
-        "url": "https://open.spotify.com/album/7MZVojSUyO9HNyq4nBMS2D"
-      },
-      "artists": [
-        {
-          "name": "Ketchup",
-          "url": "https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/0bwggp9wrFlopQffgG4Rhb"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2755,18 +2755,42 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/28sIFh62xbvrc7n27GKFnS"
+        "name": "Flauta",
+        "url": "https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g"
       },
       "artists": [
         {
           "name": "Ir Sais",
           "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 152967,
-      "name": "Tropical",
-      "url": "https://open.spotify.com/track/11Hq9IduxlW65vxVEzqyIr"
+      "duration_ms": 189000,
+      "name": "Flauta",
+      "url": "https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Skilahmatic",
+        "url": "https://open.spotify.com/album/7MZVojSUyO9HNyq4nBMS2D"
+      },
+      "artists": [
+        {
+          "name": "Ketchup",
+          "url": "https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/0bwggp9wrFlopQffgG4Rhb"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2791,22 +2815,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Quarantime: The Lost Files",
-        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
-      },
-      "artists": [
-        {
-          "name": "Yxng Bane",
-          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Table For Two",
-      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Lagrimas",
         "url": "https://open.spotify.com/album/5RxpXMJneQXaCAWXZwrxRa"
       },
@@ -2823,26 +2831,18 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Jiggle",
-        "url": "https://open.spotify.com/album/51rfhvpTi6fhMYpkq3ci4o"
+        "name": "Quarantime: The Lost Files",
+        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
       },
       "artists": [
         {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        },
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        },
-        {
-          "name": "Meeka",
-          "url": "https://open.spotify.com/artist/3x1abDAAJYxgkeV9MRLlbn"
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
         }
       ],
-      "duration_ms": 132815,
-      "name": "Jiggle",
-      "url": "https://open.spotify.com/track/0F245o4yDaGy2leKy2l2Ae"
+      "duration_ms": 154374,
+      "name": "Table For Two",
+      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2871,26 +2871,26 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Flauta",
-        "url": "https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g"
+        "name": "Jiggle",
+        "url": "https://open.spotify.com/album/51rfhvpTi6fhMYpkq3ci4o"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         },
         {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
         },
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Meeka",
+          "url": "https://open.spotify.com/artist/3x1abDAAJYxgkeV9MRLlbn"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Flauta",
-      "url": "https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5"
+      "duration_ms": 132815,
+      "name": "Jiggle",
+      "url": "https://open.spotify.com/track/0F245o4yDaGy2leKy2l2Ae"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -3043,26 +3043,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Handle It",
-        "url": "https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 203001,
-      "name": "Handle It",
-      "url": "https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Ravin'",
         "url": "https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ"
       },
@@ -3083,6 +3063,26 @@
       "duration_ms": 198120,
       "name": "Ravin'",
       "url": "https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Handle It",
+        "url": "https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 203001,
+      "name": "Handle It",
+      "url": "https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -3207,26 +3207,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "To Di Bank",
-        "url": "https://open.spotify.com/album/1FQfLyzhszdLyJxN3LaBaT"
-      },
-      "artists": [
-        {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        }
-      ],
-      "duration_ms": 181301,
-      "name": "To Di Bank",
-      "url": "https://open.spotify.com/track/6GsyJi2vXpo9oAqKGrGBvK"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Ram Pam",
         "url": "https://open.spotify.com/album/2XJXTSgrnZtTK8MoAuY05D"
       },
@@ -3251,6 +3231,26 @@
       "duration_ms": 141030,
       "name": "Ram Pam",
       "url": "https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "To Di Bank",
+        "url": "https://open.spotify.com/album/1FQfLyzhszdLyJxN3LaBaT"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        }
+      ],
+      "duration_ms": 181301,
+      "name": "To Di Bank",
+      "url": "https://open.spotify.com/track/6GsyJi2vXpo9oAqKGrGBvK"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -3491,22 +3491,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Yeno Ntem",
-        "url": "https://open.spotify.com/album/54nBW1hsP1KWx2yxvYnHeg"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Yeno Ntem",
-      "url": "https://open.spotify.com/track/32YnFyOGhRmqXXuuGcf4yp"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Nobody Like You",
         "url": "https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC"
       },
@@ -3519,6 +3503,22 @@
       "duration_ms": 185081,
       "name": "Nobody Like You",
       "url": "https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Yeno Ntem",
+        "url": "https://open.spotify.com/album/54nBW1hsP1KWx2yxvYnHeg"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Yeno Ntem",
+      "url": "https://open.spotify.com/track/32YnFyOGhRmqXXuuGcf4yp"
     }
   ],
   "unique_name": "Summer Vibes",

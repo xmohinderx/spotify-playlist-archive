@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-150 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+152 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2022-03-21 |  |
 | [Sioux](https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:06 | 2022-03-21 |  |
 | [Skipping Rocks](https://open.spotify.com/track/6ZGM0mFQi4mJSqTNqruU7s) | [Kitt River](https://open.spotify.com/artist/79CdA7sDrqRL3FJymXgjM8) | [Skipping Rocks](https://open.spotify.com/album/4x6dhgo8hBSxaL24XC4fKP) | 2:13 | 2022-03-21 |  |
+| [Sleep Quiz](https://open.spotify.com/track/4EzwRp1nDzCe7LeQI3cNmu) | [Emma\-Lo Larsson](https://open.spotify.com/artist/5DoFMnoAqaEr0JNHLVfrWa) | [Serene](https://open.spotify.com/album/278aTIaFGFBK5GbNtgzAlR) | 3:35 | 2022-09-30 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-03-21 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2022-03-21 | 2022-08-13 |
 | [Somewhere In Between](https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq) | [Wandercole](https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4) | [Somewhere In Between](https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y) | 3:49 | 2022-06-24 |  |
@@ -154,6 +155,7 @@
 | [Watching Traffic](https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Compositions for Piano](https://open.spotify.com/album/5Sx8y2k3MGCYhic1Dwe3dc) | 2:50 | 2022-03-21 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-03-21 |  |
 | [Way Home](https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Way Home](https://open.spotify.com/album/2JOXFsxulNevoTsBvMmeKS) | 2:28 | 2022-03-21 |  |
+| [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-09-30 |  |
 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 | 2022-03-21 |  |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2022-03-21 | 2022-08-13 |
 | [With Hope](https://open.spotify.com/track/5ROmMRpdkiYdBM26Xt9ea4) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [With Hope](https://open.spotify.com/album/7GQddjmAKOMZBFHdKFIKnA) | 2:25 | 2022-03-21 |  |

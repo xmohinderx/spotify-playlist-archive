@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Snoop Dogg & Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,463 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,013 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 13 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
 | 14 | [Check Yo Self \- Remix](https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Bootlegs And B\-Sides](https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo) | 4:33 |
 | 15 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
-| 16 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 |
-| 17 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 |
+| 16 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 |
+| 17 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 |
 | 18 | [The Ghetto](https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 5:02 |
 | 19 | [How I Could Just Kill a Man](https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Cypress Hill](https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM) | 4:12 |
 | 20 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 |
-| 21 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
+| 21 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
 | 22 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
-| 23 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
+| 23 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 | 24 | [No Vaseline](https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 5:13 |
 | 25 | [Hood Took Me Under](https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [Music To Driveby](https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS) | 3:39 |
 | 26 | [Just Another Day](https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 7:21 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 33 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 34 | [The Nigga Ya Love To Hate](https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [AmeriKKKa's Most Wanted](https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc) | 3:13 |
 | 35 | [Straight Up Menace](https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO) | [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [The Best of MC Eiht](https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB) | 4:34 |
-| 36 | [Dusted 'N' Disgusted \(feat\. 2Pac, Mac Mall & Spice 1\)](https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mac Mall](https://open.spotify.com/artist/2xVnNKRPvS7YqG7C28H8e7), [Spice 1](https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:29 |
-| 37 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
+| 36 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
+| 37 | [Dusted 'N' Disgusted \(feat\. 2Pac, Mac Mall & Spice 1\)](https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mac Mall](https://open.spotify.com/artist/2xVnNKRPvS7YqG7C28H8e7), [Spice 1](https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:29 |
 | 38 | [Otha Fish](https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:21 |
 | 39 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 40 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 47 | [Same Song \- Edit Version](https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Hi\-Five: Digital Underground](https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8) | 3:57 |
 | 48 | [Back in the Day \- Remix](https://open.spotify.com/track/5gUVdjfPWoaKoRiEMHBX6P) | [Ahmad Lewis](https://open.spotify.com/artist/4X3nIh5dynzfAQmy1Z5hXI) | [Ahmad](https://open.spotify.com/album/1oRFXTDboyfWXB0c1z6QiT) | 5:03 |
 | 49 | [Born and Raised In Compton](https://open.spotify.com/track/23trPalTVGb4H4CzyHrQ9W) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 3:25 |
-| 50 | [More Than A Player](https://open.spotify.com/track/3dEOHQ7KHzgBSStXvj6Df1) | [2nd II None](https://open.spotify.com/artist/1rlHVdoyfG6pQkzcMWI4dr) | [2nd II None](https://open.spotify.com/album/0xwxoALWTPNBxB6Xq9Fy66) | 3:16 |
+| 50 | [Gangsta's Paradise \- Rerecorded](https://open.spotify.com/track/18kwQvQ49ORXsoVFvOUGT3) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [Greatest Hits](https://open.spotify.com/album/7BeDynSPyJdyQ5JCYHpXal) | 4:03 |
 
-Snapshot ID: `MTY1NzAwNTE1NiwwMDAwMDAwMDI2NmI1MDVhYWZhNWNkY2QzYTZkNmRhZDc2ZWE0N2Vm`
+Snapshot ID: `MTY1NzAwNTE1NiwwMDAwMDAwMDlmOTY0NTNmY2Y5NWZhNjY5YmYwYzk0NTliMTY0ODcx`

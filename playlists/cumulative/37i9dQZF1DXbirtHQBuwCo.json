@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
@@ -1130,6 +1130,28 @@
     },
     {
       "album": {
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "album": {
         "name": "American Gothic",
         "url": "https://open.spotify.com/album/6e7McZxhV5in98Ai5gTfnJ"
       },
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 184493,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
@@ -3691,7 +3713,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 132727,
       "name": "i got you",
       "url": "https://open.spotify.com/track/20gAOYKYQ7aFRVRg6LvrLW"
@@ -5596,6 +5618,28 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Once (feat. J.O.Y)",
+      "url": "https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L"
+    },
+    {
+      "album": {
         "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
       },
@@ -6329,6 +6373,24 @@
       "duration_ms": 206413,
       "name": "Right Back (Feat. Tabber)",
       "url": "https://open.spotify.com/track/5w0UlB7OxmoBF5kpT6uFKw"
+    },
+    {
+      "album": {
+        "name": "right now",
+        "url": "https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs"
+      },
+      "artists": [
+        {
+          "name": "RIPLEY",
+          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "right now",
+      "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
     },
     {
       "album": {
@@ -7755,7 +7817,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
@@ -8257,6 +8319,24 @@
       "duration_ms": 182645,
       "name": "you won't be there for me",
       "url": "https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR"
+    },
+    {
+      "album": {
+        "name": "Love ep",
+        "url": "https://open.spotify.com/album/2UZD6YpSTR3IjnH0ZAOASC"
+      },
+      "artists": [
+        {
+          "name": "Levan",
+          "url": "https://open.spotify.com/artist/5ekGw6osLNVUmBtl6ktHa6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209431,
+      "name": "You're beautiful",
+      "url": "https://open.spotify.com/track/7rMttyxNQjIJPT0DvzwOV6"
     },
     {
       "album": {

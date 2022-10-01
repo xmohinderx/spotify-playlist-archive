@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 788456,
+  "num_followers": 788508,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1NDcxMSwwMDAwMDAwMGNlNzc2MWM0N2M1N2Y0NDdiNDkxODczMDhmOWRmY2M1",
+  "snapshot_id": "MTY2MDc1NDcxMSwwMDAwMDAwMDkyYTI5MWRhYzVkODQ4ZWMxOGFmZDBhY2FlOWU4MjNk",
   "tracks": [
     {
       "added_at": "2022-05-20 03:03:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-05-20 03:03:00",
       "album": {
-        "name": "Se Prepara 2",
-        "url": "https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        }
-      ],
-      "duration_ms": 147335,
-      "name": "Se Prepara 2",
-      "url": "https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D"
-    },
-    {
-      "added_at": "2022-05-20 03:03:00",
-      "album": {
         "name": "Bumbum granada",
         "url": "https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 187461,
       "name": "Bumbum granada",
       "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
+    },
+    {
+      "added_at": "2022-05-20 03:03:00",
+      "album": {
+        "name": "Se Prepara 2",
+        "url": "https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        }
+      ],
+      "duration_ms": 147335,
+      "name": "Se Prepara 2",
+      "url": "https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D"
     },
     {
       "added_at": "2022-05-20 03:03:00",

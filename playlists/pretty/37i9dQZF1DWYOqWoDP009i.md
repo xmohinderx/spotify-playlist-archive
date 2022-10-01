@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,492 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,590 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 2 | [Why Did You Do It \- Remastered](https://open.spotify.com/track/38DAUnVJ0zqOdRuW7RG3sl) | [Stretch](https://open.spotify.com/artist/61oNrjLV0SUliHTOXUgCXg) | [Elastique \(Remastered\)](https://open.spotify.com/album/3tzMsfGTrNMJ7h1SRYQUs4) | 3:31 |
 | 3 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 |
 | 4 | [A Real Mother For Ya](https://open.spotify.com/track/27QTVCKEfq41PjPKQVa7vW) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [A Real Mother For Ya](https://open.spotify.com/album/6VXm9FkSL27WhRo8pyc8hr) | 5:04 |
-| 5 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
-| 6 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
+| 5 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
+| 6 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
 | 7 | [Galaxy](https://open.spotify.com/track/1SbA3jg6wqrUcmvSk4Fw7x) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Galaxy](https://open.spotify.com/album/2xdXcf10v4Y9mZfoHpOOsz) | 8:14 |
 | 8 | [Get Up I Feel Like Being A Sex Machine \- Pt\. 1 / Single Version](https://open.spotify.com/track/3udSPEU7YavOTRlYqOTvEz) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Singles Vol\. 7: 1970\-1972](https://open.spotify.com/album/4BbrCN77JWFYdtx0OYKAcJ) | 2:49 |
 | 9 | [Pass The Peas](https://open.spotify.com/track/62rSpnxXl2lXDevp1z583x) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/5ytMVOR2Moy8hu7Tx1hee2) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MTY1OTYwNDE4MywwMDAwMDAwMGE2ZjM4MjI3NDE2YWRlZmJmNjk4NDkxODViMzMxNjMx`
+Snapshot ID: `MTY2NDUzMzQ5OSwwMDAwMDAwMDI5YWRhMjNhNGJhZDBiYzk2YmE1MWM1ZmU2MzVkMjM2`

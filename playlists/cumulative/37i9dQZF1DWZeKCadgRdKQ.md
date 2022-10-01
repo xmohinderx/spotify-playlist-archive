@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-476 songs - 1 day 3 hr 29 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+478 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Mount Soul](https://open.spotify.com/track/5M2Tj8w6F5dYuCeakcwZ9D) | [Nova Explora](https://open.spotify.com/artist/4GRyo16j0MxwX8OrJ3k1bl) | [Mount Soul](https://open.spotify.com/album/2uH2pDawJtIGnS9A0nZC8W) | 2:27 | 2021-12-22 |  |
 | [My World Is Changing](https://open.spotify.com/track/3tlfW4oTd2nNQVD6SNMc91) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [My World Is Changing](https://open.spotify.com/album/4cugHOMPDn5NlDijNiSXCf) | 2:51 | 2019-06-19\* | 2021-09-14 |
 | [Mývatn](https://open.spotify.com/track/4BLroGG5pTJwGui3vurqql) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Hvítserkur](https://open.spotify.com/album/5yEeoWMXD3Z1GNC6ADnhO6) | 2:39 | 2022-03-24 |  |
+| [nameless wonder](https://open.spotify.com/track/745ZrIG7sLyZniaQBAgIdg) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [nameless wonder](https://open.spotify.com/album/5zNDRUqXMkfhDI4G2ESJSs) | 2:40 | 2022-09-30 |  |
 | [Narrowed Eyes](https://open.spotify.com/track/6PQ5MG7nZpZRpSi19qb02l) | [Mattia Cupelli](https://open.spotify.com/artist/7aMMDRtoKETQscQlRZ7IFp) | [Narrowed Eyes](https://open.spotify.com/album/1O6kizJdIQbKb0TIqn4lUz) | 2:33 | 2019-06-19\* | 2019-08-13 |
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2019-05-26\* | 2020-08-07 |
 | [neck of the woods](https://open.spotify.com/track/5SSvRUwuAGPz7vDEIcq4LA) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [neck of the woods](https://open.spotify.com/album/6bb1mYSKI8PPihbDKOR6yu) | 2:26 | 2022-08-23 |  |
@@ -406,6 +407,7 @@
 | [The Outlook](https://open.spotify.com/track/58BB8I0IO8pxDkwuwWyEdw) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [The Outlook](https://open.spotify.com/album/4hoEgPCfFsv0fr9F5gkZ3t) | 2:58 | 2021-12-22 |  |
 | [The Plains of Dover](https://open.spotify.com/track/3ExU31i7Fh2vbhB1DzM1Gr) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [The Plains of Dover](https://open.spotify.com/album/0aA4oMl9Ggfh4ZyvjM2fMM) | 3:11 | 2019-05-26\* | 2020-08-07 |
 | [The Powers Of The Universe](https://open.spotify.com/track/15sQ657gDj93yUN2MTl0qU) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 3:58 | 2019-05-26\* | 2020-08-07 |
+| [The Quest](https://open.spotify.com/track/5FGMMbjDUWrfwyP1w2ac0K) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [The Quest](https://open.spotify.com/album/13r5QlPS0HZLAJSShDGZcX) | 2:06 | 2022-09-30 |  |
 | [The Red Truth](https://open.spotify.com/track/1YifzovUWtHqLAKlme4Iav) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Caesura](https://open.spotify.com/album/5fPb6Ef7P5uPSmVIyNRvhj) | 4:38 | 2019-05-26\* | 2019-06-27 |
 | [The Return Home](https://open.spotify.com/track/2oBeDHORDq9ZeQnuygW7jZ) | [Daniel Kadawatha](https://open.spotify.com/artist/2eDGCAUPtznGnGKQ2uP3GZ) | [Through Changing Forms](https://open.spotify.com/album/119PlPHpuUWF8DYrQrjVHe) | 2:48 | 2019-06-19\* | 2021-09-03 |
 | [The Road to Life](https://open.spotify.com/track/5IQzw8udPzrhEA5FPB0MaU) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [The Road To Life](https://open.spotify.com/album/7f3YtaV0jn4XUYwMtLtG3o) | 3:51 | 2019-06-19\* | 2020-01-03 |

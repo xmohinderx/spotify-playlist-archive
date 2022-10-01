@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Kid Cudi\)
 
-742 songs - 1 day 14 hr 3 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+743 songs - 1 day 14 hr 5 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 | 2022-02-10 | 2022-03-04 |
 | [Still Here \(feat\. Cordae\)](https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Still Here \(feat\. Cordae\)](https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b) | 3:16 | 2022-03-03 | 2022-03-18 |
 | [Still Me \(Feat\. Dok2, GEMINI\)](https://open.spotify.com/track/5as8yn2iLczb2dSJH3VT81) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:36 | 2022-07-14 | 2022-08-26 |
+| [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-09-29 |  |
 | [Straight Back to It](https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:16 | 2022-02-24 | 2022-03-18 |
 | [Straight To It \(feat\. Fivio Foreign\)](https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:58 | 2022-03-03 | 2022-04-01 |
 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 | 2022-08-11 | 2022-09-30 |

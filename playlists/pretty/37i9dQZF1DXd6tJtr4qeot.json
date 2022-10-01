@@ -1,12 +1,12 @@
 {
   "description": "Punk rock from the 90s and 00s that you need in your life. Cover: Rancid",
-  "num_followers": 833886,
+  "num_followers": 834068,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3MjE1NiwwMDAwMDAwMDdhYWJjOGVhMmZiMGU5MTc4NGM2Mzg3ZDI2MzQ5ZWNk",
+  "snapshot_id": "MTY2MTk3MjE1NiwwMDAwMDAwMDg2OTA1ODQ2ZGM3YTI0NzdhMjVjNjkyMzkyMTc2MTlj",
   "tracks": [
     {
       "added_at": "2022-08-31 18:55:56",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-31 18:55:56",
       "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
-    },
-    {
-      "added_at": "2022-08-31 18:55:56",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 258266,
       "name": "The Best Of Me",
       "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2022-08-31 18:55:56",
+      "album": {
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2022-08-31 18:55:56",

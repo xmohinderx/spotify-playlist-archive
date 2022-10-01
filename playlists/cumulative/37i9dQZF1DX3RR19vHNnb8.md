@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-56 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/0NmCUpF97NtmMySiEDhh8m)
+57 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/0NmCUpF97NtmMySiEDhh8m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,10 +59,11 @@
 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [System \(feat\. WizKid\)](https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM) | 3:01 | 2021-07-23 |  |
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-22 | 2022-08-30 |
 | [Unload](https://open.spotify.com/track/0be1HYcKx12wNtKMV8u9RE) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Unload](https://open.spotify.com/album/7iY32OXu7HCehUpG7lC7jP) | 3:50 | 2022-07-28 |  |
-| [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2022-09-09 |  |
+| [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2022-09-09 | 2022-10-01 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-10-01 |  |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2021-09-17 |  |
 | [Wid It](https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Wid It](https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM) | 3:01 | 2021-08-20 |  |
 | [Worst Day](https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Worst Day](https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT) | 3:04 | 2022-02-11 |  |
+| [Yenda](https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo) | [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr), [MEDIKAL](https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE), [Qv](https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8) | [Yenda](https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp) | 3:51 | 2022-10-01 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

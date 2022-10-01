@@ -4,7 +4,7 @@
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-168 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/5boFF0xUKGFIqrQ0wirWdC)
+169 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/5boFF0xUKGFIqrQ0wirWdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/track/4MoW6zhYoCABj2dGcep01s) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Dân Ca Cực Dễ Thương Và Duyên Dáng](https://open.spotify.com/album/6WmiDUadCF0futHoJew07i) | 4:45 | 2022-03-11 | 2022-07-26 |
 | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/track/6Kju3c7MNva9FJgi0NqY0t) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Điệu Buồn Lục Tỉnh](https://open.spotify.com/album/7eT0iZ0tW8rNJSF8TkfKXr) | 4:47 | 2022-03-11 |  |
 | [Chuyện Tình Lan Và Điệp](https://open.spotify.com/track/0H63IHW909FPUWWKpNpOd8) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Xin Trả Tôi Về](https://open.spotify.com/album/6kdSqWIpa70QrM9eojYdVS) | 6:02 | 2022-03-11 | 2022-07-29 |
+| [Chuyện Tình Lan Và Điệp \(feat\. Duy Luân\)](https://open.spotify.com/track/026XNgFJNHNPmojQIE5yhy) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x), [Duy Luân](https://open.spotify.com/artist/2sRxSNsEpwhHEeUw2HJO6h) | [Xin Trả Tôi Về](https://open.spotify.com/album/1r5OrgvrLx5yR89oBSA3Y8) | 6:02 | 2022-03-11 |  |
 | [Chuyện Tình Người Đan Áo](https://open.spotify.com/track/3Q8AfOEUAuE5b0K6J1TI4t) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Chuyện Tình Người Đan Áo](https://open.spotify.com/album/4DTfk0pByjgs7lznB9daS0) | 5:55 | 2022-03-11 | 2022-07-23 |
 | [Con Đường Mang Tên Em](https://open.spotify.com/track/4q05G2c353QJokNYedwHYK) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Friday With Bolero](https://open.spotify.com/album/7GT9HYxTsnzp2au7FTnqec) | 4:01 | 2022-03-11 | 2022-07-26 |
 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 | 2022-03-11 |  |
@@ -150,7 +151,7 @@
 | [Tấm Ảnh Không Hồn](https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF), [Mai Hường](https://open.spotify.com/artist/7yeWh1ciKSvzybVTa10djW) | [Hẹn Hò \(Khúc Tình Xưa 5\)](https://open.spotify.com/album/3LTDAw02F8S3HjkaDHnvZV) | 4:04 | 2022-03-11 |  |
 | [Vùng Lá Me Bay](https://open.spotify.com/track/5WL2NwqPmiHVJFzHQH9lk6) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Liên Khúc Bolero Tình Yêu](https://open.spotify.com/album/0Bqx0nT0B5STIzdfPGtyQv) | 4:22 | 2022-03-11 | 2022-07-29 |
 | [Vùng Lá Me Bay](https://open.spotify.com/track/6FGmCnAfdtRxXvvD7MLBN1) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Lạ Giường](https://open.spotify.com/album/2NSxPDtElksuXKVRfkaYYf) | 5:19 | 2022-03-11 |  |
-| [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/0HJ3DgU82FaR4XuihYeTAb) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS) | 4:23 | 2022-03-11 |  |
+| [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/0HJ3DgU82FaR4XuihYeTAb) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS) | 4:23 | 2022-03-11 | 2022-10-01 |
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/1WCix14XoBrfdopN3BRYMJ) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5iARlHWbiqMDnGbF9CAVv1) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [Về đâu mái tóc người thương](https://open.spotify.com/track/7k6LqKjAXIZCB25smEGjpK) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [LiveShow Duyên phận](https://open.spotify.com/album/0pASS53YcZ5uYXIDhtdrgX) | 4:43 | 2022-03-11 | 2022-07-29 |
 | [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 | 2022-03-11 | 2022-08-14 |

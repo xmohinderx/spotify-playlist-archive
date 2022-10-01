@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "18",
+      "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
+    },
+    {
+      "album": {
         "name": "21 Days",
         "url": "https://open.spotify.com/album/2nfbP4RNeTZQNfcD6qgqa2"
       },
@@ -41,6 +59,24 @@
       "duration_ms": 186586,
       "name": "21 Days",
       "url": "https://open.spotify.com/track/0KChbh9zPLQNOxkG20cWTN"
+    },
+    {
+      "album": {
+        "name": "4045",
+        "url": "https://open.spotify.com/album/2McpGRmdq0KRfDOfASZf2F"
+      },
+      "artists": [
+        {
+          "name": "Ethan Surman",
+          "url": "https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241166,
+      "name": "4045",
+      "url": "https://open.spotify.com/track/0dDXbcBI2DJW12FSWpSjgq"
     },
     {
       "album": {
@@ -712,6 +748,24 @@
     },
     {
       "album": {
+        "name": "We're Getting Older",
+        "url": "https://open.spotify.com/album/0m3K3323vCX8dMauAGd4Ch"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162292,
+      "name": "Believe It When I See It",
+      "url": "https://open.spotify.com/track/33YWjVRW1hiipua8g6eTjV"
+    },
+    {
+      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -932,6 +986,24 @@
     },
     {
       "album": {
+        "name": "debbie downer",
+        "url": "https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184543,
+      "name": "boohoo",
+      "url": "https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV"
+    },
+    {
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -951,6 +1023,28 @@
       "duration_ms": 172324,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
+    },
+    {
+      "album": {
+        "name": "Box in a Heart (with renforshort)",
+        "url": "https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Box in a Heart (with renforshort)",
+      "url": "https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3"
     },
     {
       "album": {
@@ -1439,7 +1533,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 179076,
       "name": "Confessions",
       "url": "https://open.spotify.com/track/1vW6daDWuHrfyNw5K5t5EJ"
@@ -2765,7 +2859,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180500,
       "name": "Happier",
       "url": "https://open.spotify.com/track/50YBK8OKWYxD4eBNRwT7Qz"
@@ -2895,6 +2989,24 @@
       "duration_ms": 183804,
       "name": "Hawa\u00ef",
       "url": "https://open.spotify.com/track/384bcP4iK4dp3t6DgYMZ5w"
+    },
+    {
+      "album": {
+        "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140443,
+      "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz"
     },
     {
       "album": {
@@ -3425,7 +3537,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 172072,
       "name": "I Give Everything",
       "url": "https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ"
@@ -3515,7 +3627,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 301066,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/072QqxZxkYBiyCYwIlKu22"
@@ -4021,7 +4133,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 208422,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/2Bt7na3WTuKepNlGw5WM9y"
@@ -4806,6 +4918,24 @@
     },
     {
       "album": {
+        "name": "Moment / \u00c7a ira",
+        "url": "https://open.spotify.com/album/2vw8q1BYFjh4GCJnJQpgeD"
+      },
+      "artists": [
+        {
+          "name": "Jeanick Fournier",
+          "url": "https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201013,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/0YfodzD2Am4MMsr7LyFEmE"
+    },
+    {
+      "album": {
         "name": "Mr. Forgettable",
         "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
       },
@@ -5189,7 +5319,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192636,
       "name": "On My Way (Marry Me)",
       "url": "https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA"
@@ -5427,6 +5557,24 @@
       "duration_ms": 168061,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf"
+    },
+    {
+      "album": {
+        "name": "Perfectly Broken",
+        "url": "https://open.spotify.com/album/5DGzH5tTCp8qWkR0trpPSZ"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "Perfectly Broken",
+      "url": "https://open.spotify.com/track/3Xx9gfUF7fd9tlffUrhxNi"
     },
     {
       "album": {
@@ -7053,7 +7201,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 177168,
       "name": "Waves Break",
       "url": "https://open.spotify.com/track/6mUS9fWrw2KZ1xbHSemUVi"
@@ -7341,7 +7489,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 213335,
       "name": "Where Do We Go from Here?",
       "url": "https://open.spotify.com/track/0ntWxuqiNx7ShbLGzfmnOD"
@@ -7492,6 +7640,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141648,
+      "name": "WTF - Spotify Singles",
+      "url": "https://open.spotify.com/track/1tef7JF2U9w7Z02GOgXLKN"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4"
       },
@@ -7539,7 +7705,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 202693,
       "name": "You Might Not Like Her",
       "url": "https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf"

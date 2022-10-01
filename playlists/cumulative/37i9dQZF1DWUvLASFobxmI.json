@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 179226,
       "name": "Cuando Me Besas",
       "url": "https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 223360,
       "name": "Diviertete",
       "url": "https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 174272,
       "name": "El Fat Tony",
       "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 248219,
       "name": "El Invierno Pasado",
       "url": "https://open.spotify.com/track/68tZC61FSDP2WgdQAoImQG"
@@ -1250,6 +1250,28 @@
     },
     {
       "album": {
+        "name": "Fuimos Un Fracaso",
+        "url": "https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198661,
+      "name": "Fuimos Un Fracaso",
+      "url": "https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh"
+    },
+    {
+      "album": {
         "name": "Gato de Madrugada",
         "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
       },
@@ -1543,7 +1565,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 156595,
       "name": "La \u00daltima y Nos Vamos",
       "url": "https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb"
@@ -1868,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "Corridos De Alto Calibre (Vol. II)",
+        "url": "https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168280,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/7jwqJhuyPK50TcltlkI7NF"
+    },
+    {
+      "album": {
         "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
         "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
       },
@@ -2107,6 +2147,28 @@
       "duration_ms": 237080,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/6xm3alDZWkbYrbw7S7oYvm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180511,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2CzSKCAXACfxe2WwO3ApRU"
     },
     {
       "album": {
@@ -2403,7 +2465,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 181681,
       "name": "San Juditas",
       "url": "https://open.spotify.com/track/5WqylHMUJGQ1Me46J2trNh"
@@ -2595,6 +2657,24 @@
       "duration_ms": 233812,
       "name": "Siempre Estoy Pa\u00b4Ti",
       "url": "https://open.spotify.com/track/7tdu9DVtHAxWapgPtnuZkM"
+    },
+    {
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172546,
+      "name": "Sin Explicaciones",
+      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
     },
     {
       "album": {
@@ -2883,10 +2963,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192626,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/41bThbXGVhiFwHa5hX6jaD"
+    },
+    {
+      "album": {
+        "name": "Volv\u00ed a Creer",
+        "url": "https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC"
+      },
+      "artists": [
+        {
+          "name": "Los Caliz",
+          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190624,
+      "name": "Volv\u00ed a Creer",
+      "url": "https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI"
     },
     {
       "album": {

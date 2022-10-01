@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:Vaundy
 
-480 songs - 1 day 5 hr 59 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+481 songs - 1 day 6 hr 3 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Suki](https://open.spotify.com/track/4EwFfgL6ljn9ihPw82uENo) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Suki](https://open.spotify.com/album/4FSCl70qEsQocSVjyuvE6v) | 2:52 | 2022-07-31 | 2022-08-22 |
 | [Superpower](https://open.spotify.com/track/5lw4VMEvXNCpHNSRpxmkTC) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Superpower](https://open.spotify.com/album/0ARB46NXMft2bVDQkOsgKp) | 3:22 | 2022-03-13 | 2022-04-18 |
 | [Sushi](https://open.spotify.com/track/6OpMRIjVFIAMC6T63wvFrP) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [Deech](https://open.spotify.com/artist/4TNIbTL8IpTGjM86BDHHV7) | [We Comin' \(f\*\*k dat s\*\*t\)](https://open.spotify.com/album/0Xj5HT1p3FjsoJdcXhQvGP) | 2:44 | 2022-02-27 | 2022-03-07 |
+| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 |  |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-14 | 2022-09-05 |
 | [SWITCH](https://open.spotify.com/track/3qDohuK6Lkke03J9t3csWZ) | [BLOOM VASE](https://open.spotify.com/artist/3jpPlA4ASvE9TlObazOIee) | [SWITCH](https://open.spotify.com/album/0xp4pmEaaOqqRoHRWx3rOE) | 3:23 | 2022-07-17 | 2022-08-01 |
 | [Talking Box \(Dirty Pop Remix\)](https://open.spotify.com/track/5mqucSnaCVI1kW6ewrXYE2) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\)](https://open.spotify.com/album/0c4X7Zmx1pPBQkY9snWLZX) | 2:08 | 2022-03-21 | 2022-04-04 |
@@ -267,7 +268,7 @@
 | [さよならプラスティックワールド](https://open.spotify.com/track/6vZ4hrC5DhkS1Rl21dhhdD) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [さよならプラスティックワールド](https://open.spotify.com/album/1I60vBDEnELSoyCn3eSxdS) | 3:56 | 2022-05-01 | 2022-05-16 |
 | [しよっか。\(feat.meiyo\)](https://open.spotify.com/track/207l3jD5YPS0ndm3UZDakF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [しよっか。\(feat.meiyo\)](https://open.spotify.com/album/3lvj2EyFe7SZJi0dbraD12) | 3:00 | 2022-05-29 | 2022-06-28 |
 | [しわくちゃな雲を抱いて](https://open.spotify.com/track/2wTP562D8SY3ZHPVMivgHp) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [しわくちゃな雲を抱いて](https://open.spotify.com/album/1iJ5EnMJPZB2nWBzmFCooh) | 3:55 | 2022-07-17 | 2022-09-26 |
-| [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 | 2022-09-29 |  |
+| [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 | 2022-09-29 | 2022-10-01 |
 | [そのままの冷たさで](https://open.spotify.com/track/7Ax2Yq6Bu8kmj2CxhEpUY6) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [そのままの冷たさで](https://open.spotify.com/album/078vAuHwhFvs5yeifLsrJB) | 4:15 | 2022-08-21 | 2022-09-05 |
 | [たぶんMaybe明治 feat\. あ、たぎれんたろう](https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [あ、たぎれんたろう](https://open.spotify.com/artist/5HT55SPkrxr8N49KCsDrFC) | [レキシチ](https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4) | 3:31 | 2022-04-24 | 2022-06-13 |
 | [たましいの居場所](https://open.spotify.com/track/5D16E22MJJyKesh9PrJf2L) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [たましいの居場所](https://open.spotify.com/album/7Gy6jvTXkSgx5oEbaWBt1l) | 3:21 | 2022-06-19 | 2022-08-15 |

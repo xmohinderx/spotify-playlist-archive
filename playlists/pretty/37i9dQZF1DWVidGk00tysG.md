@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,409 likes - 90 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,444 likes - 90 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 79 | [Prélude in C\-Sharp Minor, Op\. 45: Sostenuto](https://open.spotify.com/track/4xmasQRHJjEzGrDMOjThNN) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Ivo Pogorelich](https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r) | [Chopin: Piano Sonata No.2; Prélude; Scherzo; Nocturne; Etudes](https://open.spotify.com/album/5shSOLSkhYRFAixtsgn2zG) | 6:12 |
 | 80 | [Nocturne in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/17A3zj6XllYLQJZvRdehFd) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Feltsman](https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM) | [Chopin: Complete Noctures, Barcarolle, Berceuse](https://open.spotify.com/album/5hWRkuxBnUvjSIQex2SLKn) | 5:44 |
 | 81 | [12 Etudes, Op\. 10: No\. 1 in C Major "Waterfall"](https://open.spotify.com/track/6Uctr2eBhLmAmm1PuBxcbo) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Études](https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN) | 2:04 |
-| 82 | [Fantaisie\-Impromptu In C\-Sharp Minor, Op\. 66](https://open.spotify.com/track/4oowGH3baaetOYlEVUglhU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Chopin For The Brain](https://open.spotify.com/album/4P9b9qml5eZOxgkbUckn4E) | 5:36 |
+| 82 | [Fantaisie\-Impromptu In C\-Sharp Minor, Op\. 66](https://open.spotify.com/track/7qaiBIj12OG3QVgjLeYarr) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [A Classical Dawn: Chopin](https://open.spotify.com/album/4Ouklb2EeWeNks67IVqGQb) | 5:36 |
 | 83 | [Prelude N°20 In C Minor: Op.28, Largo](https://open.spotify.com/track/3WuS2T1NocPtTUngzCNZ5p) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Laure Favre\-Kahn](https://open.spotify.com/artist/0SisGbXTlo7miIX1UAQBu7) | [Chopin: 24 Preludes, 2 Polonaises](https://open.spotify.com/album/1tsN0js5fInbnTaCoQ8S7F) | 1:52 |
 | 84 | [Tarantelle, Op\. 43](https://open.spotify.com/track/49p2bQxoUynn6BFSzv11r7) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Waltzes \(Complete\)](https://open.spotify.com/album/2T3nLB2fOmHzoN8nDKbHWl) | 2:58 |
 | 85 | [Chopin: Impromptu No\. 1 in A\-Flat Major, Op\. 29](https://open.spotify.com/track/3wnR4FIaT8Ok3gJjStIkyV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Horizons](https://open.spotify.com/album/3hbzaXtCS7aksmbCJx1J9k) | 3:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 89 | [Fantasia on Polish National Airs Op\. 13](https://open.spotify.com/track/4XCmNP6ZrjKxCg5Hmj2cml) | [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Garrick Ohlsson](https://open.spotify.com/artist/6OZmjtuzO1FCcPQ6kdPF5x), [Jerzy Maksymiuk](https://open.spotify.com/artist/2EGK18Dwe9ylcNRgGr56mX) | [Chopin: Piano Concertos etc](https://open.spotify.com/album/5wytXYxCQidUtaXTzpAgqe) | 14:20 |
 | 90 | [24 Preludes, Op\. 28: Prelude No\. 1 in C Major, Op\. 28, No\. 1](https://open.spotify.com/track/6Pz4ZJ0zxXZbhgjKvwnTU3) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Preludes](https://open.spotify.com/album/0MmVW48OnJ7IRXiH5VicBg) | 0:41 |
 
-Snapshot ID: `MTY2MDkwMjk4NSwwMDAwMDAwMDY1NjdkMTg4YTI4ZGUzMjVlYmU3NTc2NmI3MzgzNTY1`
+Snapshot ID: `MTY2MDkwMjk4NSwwMDAwMDAwMGNhMjcyNmY4NWYyYWU0ZDMxMjk3OTI1MWE0YjBiNjlh`

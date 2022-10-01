@@ -4,10 +4,11 @@
 
 > A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.
 
-97 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/0wz6julsTeg1QhgoYDFPGm)
+98 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/0wz6julsTeg1QhgoYDFPGm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [18 Morceaux pour piano seul, Op\. 72: II\. Berceuse\. Andante mosso](https://open.spotify.com/track/0HKMiBxYee7wul5QcKcdlf) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Nuron Mukumi](https://open.spotify.com/artist/3MmQ9i4bHeVJPklqoMLwhA) | [18 Morceaux pour piano seul, Op\. 72: II\. Berceuse\. Andante mosso](https://open.spotify.com/album/6QAzHXucmcn4IchgqEjJw0) | 6:48 | 2022-09-30 |  |
 | [Eugene Onegin \(continued\) \(Act 3\): Polonaise](https://open.spotify.com/track/0A7pQ1JF9ptuPWcQQfh8ql) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Sofia Festival Orchestra](https://open.spotify.com/artist/6ABbnVBXuFZ6Yn2LBZzC6O), [Emil Tchakarov](https://open.spotify.com/artist/2RNqh4BiqEfr33OzVilDXC) | [Tchaikovsky: Eugene Onegin](https://open.spotify.com/album/2AJXUmeyc5FV6LeAlnAUD9) | 4:29 | 2021-06-18 |  |
 | [Eugene Onegin \(Lyrical scenes in three acts\) \(Act 1\): Introduction](https://open.spotify.com/track/3vYhiBnAnCGL26yDB1QDQG) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Emil Tchakarov](https://open.spotify.com/artist/2RNqh4BiqEfr33OzVilDXC), [Sofia Festival Orchestra](https://open.spotify.com/artist/6ABbnVBXuFZ6Yn2LBZzC6O) | [Tchaikovsky: Eugene Onegin](https://open.spotify.com/album/2AJXUmeyc5FV6LeAlnAUD9) | 2:21 | 2021-06-18 |  |
 | [Eugene Onegin, Op\. 24, TH 5 / Act 1: Letter Scene\. "Puskai pogibnu ya, no prezde"](https://open.spotify.com/track/59E2sIS6Je5iXQe03EKR8H) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Anna Netrebko](https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL), [Mariinsky Orchestra](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6), [Valery Gergiev](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) | [Tchaikovsky: The Essentials](https://open.spotify.com/album/5oePA2oil3repMrLgzdVEA) | 4:09 | 2021-06-18 |  |

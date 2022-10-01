@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-213 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+215 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [CRY](https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [CRY](https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-01-28 |  |
 | [Dance Monkey](https://open.spotify.com/track/4W3UeFjutmOG80XCTgioWT) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Dance Monkey](https://open.spotify.com/album/1uUxV8oH2qs8wRApyp62Rn) | 3:33 | 2021-12-17 | 2022-08-01 |
+| [Dark Roses \(Live From Sunset Sound\)](https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Wreckage, Vol\. 2 \(Live\)](https://open.spotify.com/album/3TtOISH2vi1m9vR3xYlLS6) | 3:30 | 2022-09-30 |  |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2021-12-17 |  |
 | [Don't Let the Devil Ride](https://open.spotify.com/track/5RUJ4EFMAaWdtvso1j8kLT) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels in Heaven Done Signed My Name](https://open.spotify.com/album/5qiokBP05cRxwpCLqocWn7) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Don't Let The Devil Ride](https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels In Heaven Done Signed My Name](https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa) | 2:45 | 2022-01-28 |  |
@@ -71,7 +72,7 @@
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-17 |  |
 | [Grass Is Greener](https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 4:14 | 2022-01-28 |  |
 | [Grass Is Greener](https://open.spotify.com/track/5ugEkJcLbQrAkCN2kH7j8S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 4:14 | 2021-12-17 | 2022-07-28 |
-| [Gullah Geechee](https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:35 | 2022-08-19 |  |
+| [Gullah Geechee](https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:35 | 2022-08-19 | 2022-10-01 |
 | [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 | 2022-09-23 |  |
 | [Hard Learned](https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Shake the Roots](https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd) | 3:37 | 2022-09-09 |  |
 | [Hard to Stay Cool](https://open.spotify.com/track/1sA5P8waghOeBj5nc1S4XZ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hard to Stay Cool](https://open.spotify.com/album/3fpTOEGSvGIhVtLMZ44w8t) | 5:34 | 2021-12-17 | 2022-07-29 |
@@ -119,6 +120,7 @@
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-01-28 |  |
 | [Love Again](https://open.spotify.com/track/3OKBGV9o5uVZ5Z8BZUkznb) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Love Again](https://open.spotify.com/album/54pG43tDpcI7ViKYSKSuPk) | 3:43 | 2021-12-17 | 2022-07-25 |
 | [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 | 2021-12-17 |  |
+| [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 |  |
 | [Lovesick Blues](https://open.spotify.com/track/6orPIRUBKPWsi7awg7UPTY) | [Annie Keating](https://open.spotify.com/artist/2xKlrRpBoX4Vgas5prEf1n) | [Lovesick Blues](https://open.spotify.com/album/0Fm9l5ccn4T7xYOiyx6Ul9) | 3:33 | 2022-09-16 | 2022-09-24 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2021-12-17 |  |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-12-17 |  |
@@ -185,7 +187,7 @@
 | [Take Me In](https://open.spotify.com/track/4AAFd6yIz0UwjxKsmStjrR) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Take Me In](https://open.spotify.com/album/1rIO1N6XbLqEbh5hgUgf8Z) | 3:47 | 2021-12-17 | 2022-06-11 |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 |  |
 | [The Battle of Atlanta](https://open.spotify.com/track/6vwDgv1N8Iyv8YyMDpuUqx) | [Lee Bains + The Glory Fires](https://open.spotify.com/artist/1oTNCl6SRphYGb9NQ0toVE) | [The Battle of Atlanta](https://open.spotify.com/album/3UmdOo3j5KVnz4KBCtzu9K) | 5:16 | 2022-08-05 | 2022-08-13 |
-| [The Breeze](https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Breeze](https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH) | 2:36 | 2022-09-02 |  |
+| [The Breeze](https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Breeze](https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH) | 2:36 | 2022-09-02 | 2022-10-01 |
 | [The Fifth of June](https://open.spotify.com/track/2qx6g41H1pK7yP0G1wo3MY) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [The Fifth of June](https://open.spotify.com/album/6VRdWjagHR5bwoq8iI7uYF) | 3:12 | 2022-06-10 | 2022-07-27 |
 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-03-11 | 2022-07-29 |
 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 | 2021-12-17 |  |

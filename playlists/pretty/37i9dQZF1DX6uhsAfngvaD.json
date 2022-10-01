@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 265498,
+  "num_followers": 265539,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDQ1ZGQyNjRkNjU4OWU1MmUxMTg1Mjg3ODBmNTAxZjFh",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGI0NjRkYjIzYTUwZGUxNzhjYzA3OTlmZDdlMTY4NzYw",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -699,26 +699,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "George Clanton and Nick Hexum",
-        "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
-      },
-      "artists": [
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        },
-        {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
-        }
-      ],
-      "duration_ms": 217939,
-      "name": "Driving in My Car",
-      "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Jay II",
         "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 205225,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "George Clanton and Nick Hexum",
+        "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
+      },
+      "artists": [
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        },
+        {
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
+        }
+      ],
+      "duration_ms": 217939,
+      "name": "Driving in My Car",
+      "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE"
+        "name": "never had a place",
+        "url": "https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Jadu Jadu",
+          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
         }
       ],
-      "duration_ms": 190720,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh"
+      "duration_ms": 173774,
+      "name": "never had a place",
+      "url": "https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "never had a place",
-        "url": "https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE"
       },
       "artists": [
         {
-          "name": "Jadu Jadu",
-          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 173774,
-      "name": "never had a place",
-      "url": "https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL"
+      "duration_ms": 190720,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Seems Like Forever",
+        "url": "https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Rae",
+          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
+        }
+      ],
+      "duration_ms": 318612,
+      "name": "Seems Like Forever",
+      "url": "https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Hyper-normal",
         "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Seems Like Forever",
-        "url": "https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Rae",
-          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
-        }
-      ],
-      "duration_ms": 318612,
-      "name": "Seems Like Forever",
-      "url": "https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Leviosa",
         "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 196985,
       "name": "De ma Tour",
       "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "House Of Mirrors",
-        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191072,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1291,22 +1275,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "All We've Ever Known",
-        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 241499,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "What We Left Behind",
         "url": "https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5"
       },
@@ -1319,6 +1287,38 @@
       "duration_ms": 235462,
       "name": "What We Left Behind",
       "url": "https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "House Of Mirrors",
+        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191072,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
     },
     {
       "added_at": "2022-07-06 15:18:34",

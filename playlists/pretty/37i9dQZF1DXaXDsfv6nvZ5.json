@@ -1,13 +1,53 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 715340,
+  "num_followers": 715521,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNjAxOSwwMDAwMDAwMDViN2E3NGQxOTYwNjBhZTdkMzhlOTk0OWE5MTVkNjRk",
+  "snapshot_id": "MTY2NDUxMDgxNywwMDAwMDAwMDk3YmIxNzdlZDMwM2EyMjMzYjZiMWFlYjYxYWMyYzY3",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2022-09-30 04:06:57",
+      "album": {
+        "name": "Make Me Say It Again, Girl",
+        "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
+      },
+      "artists": [
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 314424,
+      "name": "Make Me Say It Again, Girl",
+      "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
+    },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
@@ -27,6 +67,22 @@
     {
       "added_at": "2022-09-09 04:08:19",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 254319,
+      "name": "PLASTIC OFF THE SOFA",
+      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
         "name": "age/sex/location",
         "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
@@ -41,36 +97,24 @@
       "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 254319,
-      "name": "PLASTIC OFF THE SOFA",
-      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
     },
     {
       "added_at": "2022-09-23 04:06:59",
@@ -95,22 +139,50 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+        "name": "Division",
+        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
+      "duration_ms": 176760,
+      "name": "Baby Powder",
+      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
+    },
+    {
+      "added_at": "2022-09-30 04:06:57",
+      "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z"
+      },
+      "artists": [
+        {
+          "name": "Secily",
+          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -135,34 +207,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Division",
-        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 176760,
-      "name": "Baby Powder",
-      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2022-08-26 04:46:22",
@@ -183,38 +239,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "004DAISY",
-        "url": "https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e"
-      },
-      "artists": [
-        {
-          "name": "DIXSON",
-          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "ONLY-1",
-      "url": "https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -229,20 +253,32 @@
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
-      "added_at": "2022-09-23 04:06:59",
+      "added_at": "2022-09-30 04:06:57",
       "album": {
-        "name": "Hurt A Little",
-        "url": "https://open.spotify.com/album/41ycEl7mRF6vZJIbAZRuBz"
+        "name": "Make Me Say It Again, Girl",
+        "url": "https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj"
       },
       "artists": [
         {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        },
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "El DeBarge",
+          "url": "https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD"
         }
       ],
-      "duration_ms": 237259,
-      "name": "Hurt A Little",
-      "url": "https://open.spotify.com/track/34ICFY39nLDN42fbDCRJ1g"
+      "duration_ms": 329090,
+      "name": "There'll Never Be",
+      "url": "https://open.spotify.com/track/0AhfJf1WvL61ipcVsL8Xs8"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -261,6 +297,22 @@
       "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "004DAISY",
+        "url": "https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e"
+      },
+      "artists": [
+        {
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "ONLY-1",
+      "url": "https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Spotify Singles",
@@ -277,20 +329,20 @@
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2022-09-23 04:06:59",
       "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
+        "name": "Hurt A Little",
+        "url": "https://open.spotify.com/album/41ycEl7mRF6vZJIbAZRuBz"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
         }
       ],
-      "duration_ms": 250506,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
+      "duration_ms": 237259,
+      "name": "Hurt A Little",
+      "url": "https://open.spotify.com/track/34ICFY39nLDN42fbDCRJ1g"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -313,6 +365,22 @@
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Brown Sugar",
@@ -327,22 +395,6 @@
       "duration_ms": 346266,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "a tree planted by water",
-        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 189185,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -379,6 +431,22 @@
       "duration_ms": 280760,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "a tree planted by water",
+        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 189185,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -473,6 +541,22 @@
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
     },
     {
+      "added_at": "2022-09-23 04:06:59",
+      "album": {
+        "name": "Stereo Driver",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Stereo Driver",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Bittersweet (Radio Edit)",
@@ -507,22 +591,6 @@
       "duration_ms": 192064,
       "name": "Nice & Slow - Ryan James Carr Remake",
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
-    },
-    {
-      "added_at": "2022-09-23 04:06:59",
-      "album": {
-        "name": "Stereo Driver",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Stereo Driver",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2022-08-26 04:46:22",
@@ -651,22 +719,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Good Morning Gorgeous",
-        "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 174728,
-      "name": "Good Morning Gorgeous",
-      "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -691,6 +743,22 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Good Morning Gorgeous",
+        "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 174728,
+      "name": "Good Morning Gorgeous",
+      "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -763,6 +831,22 @@
     {
       "added_at": "2022-09-09 04:08:19",
       "album": {
+        "name": "Angels & Queens",
+        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
         "name": "Of Another Kind (feat. Milan Ring & Jerome Farah)",
         "url": "https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc"
       },
@@ -803,22 +887,6 @@
       "duration_ms": 244620,
       "name": "How Deep Is Your Love - Acoustic Version",
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1123,22 +1191,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Stay Where You Are",
-        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 209205,
-      "name": "Stay Where You Are",
-      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Rare Changes",
         "url": "https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8"
       },
@@ -1167,6 +1219,22 @@
       "duration_ms": 195817,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Stay Where You Are",
+        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 209205,
+      "name": "Stay Where You Are",
+      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1267,58 +1335,6 @@
       "duration_ms": 182000,
       "name": "Brown Angel",
       "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "One More Kiss",
-        "url": "https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Whalum",
-          "url": "https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16"
-        }
-      ],
-      "duration_ms": 226629,
-      "name": "One More Kiss",
-      "url": "https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Addicted (Acoustic)",
-        "url": "https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 185129,
-      "name": "Addicted (Acoustic)",
-      "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Take Me Away (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Take Me Away (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
     }
   ],
   "unique_name": "Soul Coffee",

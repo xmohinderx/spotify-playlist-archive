@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
 
-156 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+157 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-02-16 | 2022-08-13 |
 | [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-02-17 | 2022-08-13 |
 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 | 2022-06-02 |  |
+| [Lail EL Mefarag](https://open.spotify.com/track/2jr8YIesCQsPzjLpjwJx20) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Lail EL Mefarag](https://open.spotify.com/album/4lHyB1fOo2GPI34u47qwSD) | 4:34 | 2022-09-30 |  |
 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 | 2022-05-01 |  |
 | [Leeh Men Ndarah](https://open.spotify.com/track/0qnufWFALNHUnpcjHKmPrF) | [Mohamed Al Qahtani](https://open.spotify.com/artist/2mJ3asAxEwBkG0pbZJERAm) | [Leeh Men Ndarah](https://open.spotify.com/album/3LeYvuYO097cAJp0g8JXlF) | 4:07 | 2022-06-20 | 2022-06-23 |
 | [Leh Rajee](https://open.spotify.com/track/2rTe08BVkNA9S8xaC4ZqTD) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Leh Rajee](https://open.spotify.com/album/2CiC0SU1r3W3MPcoHuFMyr) | 3:43 | 2022-05-13 |  |

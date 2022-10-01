@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-411 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+418 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-07-23 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2021-07-01 |  |
 | [Acércate](https://open.spotify.com/track/6cCJLQydZi0hOugxKQPZUZ) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Acércate](https://open.spotify.com/album/3eukHG5mbRadhylbLUSHU9) | 3:13 | 2020-11-19 | 2022-03-25 |
+| [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2022-09-30 |  |
 | [Aerofoil](https://open.spotify.com/track/0nqtOf7OZfOIKgv2ejTb6P) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Aerofoil](https://open.spotify.com/album/3tQSbtuExjx2FLk0iNq7Dw) | 3:19 | 2020-10-27 | 2022-08-13 |
 | [Aevitas](https://open.spotify.com/track/5Y3ePUhdXzPDI8nSCIe7bb) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Neoterikoi](https://open.spotify.com/album/4VWwAEVZ3wnjDt9yy12o5h) | 2:20 | 2022-01-28 |  |
 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 | 2021-05-05 |  |
@@ -196,6 +197,7 @@
 | [Le Doux](https://open.spotify.com/track/7pMX0cXGVn2zhWUm2UM8SY) | [Somnia Terra](https://open.spotify.com/artist/1ik9VBhOvg5HDwhLjLB3B1) | [Le Doux](https://open.spotify.com/album/16x9see46svEoEgyGrnhnp) | 3:09 | 2021-11-26 |  |
 | [legacy](https://open.spotify.com/track/4EWCM7S4DAtpSJ0BOiM9LK) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [legacy](https://open.spotify.com/album/6BCFck8IVatMnjeOIDjP3T) | 4:09 | 2020-09-30\* | 2021-07-14 |
 | [Legend Of Zea](https://open.spotify.com/track/3tzNYs0IcqBBy0eSvyAwB6) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 3:14 | 2020-09-30\* | 2021-06-16 |
+| [Lejano](https://open.spotify.com/track/0MhfZWXe9tMrtB80z974QY) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Lejano](https://open.spotify.com/album/6phKUl6l43TpUOvbcsbcPn) | 3:20 | 2022-09-30 |  |
 | [Leniter](https://open.spotify.com/track/6TsWlVkbmD6PUVFNuNrzmw) | [Mente](https://open.spotify.com/artist/0s44CtxQI8KCHmf9R9kwtQ) | [Leniter](https://open.spotify.com/album/0lKpz8qThCynvYNgB6EAgN) | 2:55 | 2022-06-16 |  |
 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 | 2021-03-10 |  |
 | [Léas](https://open.spotify.com/track/58VrQRlGE6ZmTMhOtIGPct) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Léas](https://open.spotify.com/album/4GosHKu9fNJyJDXUS3zaj5) | 3:43 | 2020-09-30\* | 2021-10-27 |
@@ -233,6 +235,7 @@
 | [Morze Bałtyckie](https://open.spotify.com/track/1cpOnZ05SwPJ2uy2vIAqy4) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Morze Bałtyckie](https://open.spotify.com/album/0BBQJZf1gXSob0ie1QzSr8) | 3:01 | 2021-10-06 |  |
 | [Moving Silence](https://open.spotify.com/track/08Mk6wrJu3giNbV2oy6Vv8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW) | 2:05 | 2020-09-30\* | 2022-03-25 |
 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 | 2020-12-24 | 2021-11-19 |
+| [Muladhara](https://open.spotify.com/track/3pOIvvzAM9nj0ipjmGGhRs) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 4:53 | 2022-09-30 |  |
 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 | 2020-09-30\* |  |
 | [Nature](https://open.spotify.com/track/2hNvIVkTOLl86RJ2i3C72n) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Forest Wisdom](https://open.spotify.com/album/6hZoc7bZWQxSUg0DyPMYIa) | 3:18 | 2020-09-30\* | 2021-09-14 |
 | [Nebula](https://open.spotify.com/track/3Iy6ZS7a2MYK90Z9Cmmfjp) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:53 | 2020-09-30\* | 2021-07-14 |
@@ -269,7 +272,7 @@
 | [Passage](https://open.spotify.com/track/7p5F5sN8xdUSxMjUw8Kyk2) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Passage](https://open.spotify.com/album/6lO2gCJPT56elqfM5JXpXM) | 2:57 | 2022-01-11 |  |
 | [Pathways](https://open.spotify.com/track/67hrn4W0iAgUWwkVpmplTW) | [Chime Dolma](https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo) | [Pathways](https://open.spotify.com/album/0Vs8OpWzBEXUQ3ImjwQKZ7) | 2:00 | 2020-09-30\* | 2021-07-14 |
 | [Patiently](https://open.spotify.com/track/5oHQkijiGG8oxR1FlyfNE1) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Patiently](https://open.spotify.com/album/3fOMieWSJiSkpXlM5l4vgm) | 2:59 | 2021-11-10 |  |
-| [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 | 2020-09-30\* |  |
+| [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 | 2020-09-30\* | 2022-10-01 |
 | [Peaceful Patterns \- Yoga Version](https://open.spotify.com/track/5LvTXUwvXcq348o5LdAVZJ) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns \- Yoga Version](https://open.spotify.com/album/5Ac4LwtFRHKe9j4qHJf9Gk) | 2:49 | 2022-09-13 |  |
 | [Pegasus](https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Pegasus](https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul) | 3:31 | 2020-09-30\* | 2021-10-21 |
 | [Perfecta paz](https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK) | [Che Milk](https://open.spotify.com/artist/27eOiRby6feQRgULqf0V8Q) | [Perfecta paz](https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN) | 2:59 | 2022-02-09 |  |
@@ -300,6 +303,7 @@
 | [Relaksohuni](https://open.spotify.com/track/2iXFZRMJCWCkLd8hrm8GmO) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Relaksohuni](https://open.spotify.com/album/0067doxs6tNJaqwtweBdrQ) | 3:02 | 2021-10-27 |  |
 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 | 2020-09-30\* | 2021-07-14 |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2021-07-30 |  |
+| [Reminiscence](https://open.spotify.com/track/1eUdYgWAsWxbv4CphVBkHp) | [Docia Cappa](https://open.spotify.com/artist/0Bg5U4Xpj3NFpY028wjhsP) | [Reminiscence](https://open.spotify.com/album/07HWjtqad8ah6r2q2tViN2) | 3:10 | 2022-09-30 |  |
 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 | 2020-09-30\* | 2022-08-13 |
 | [Reverie](https://open.spotify.com/track/7fLwX9QXiSgBSxQXmaSO6Y) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Reverie](https://open.spotify.com/album/11pRFzgN1thRcxE0PmbZn2) | 3:59 | 2021-11-10 |  |
 | [Rivers](https://open.spotify.com/track/5ymF1YOLVmBCuu4sl7lgNF) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Into The Unknown](https://open.spotify.com/album/11mE08XW63xZM1ZI7nEkxQ) | 3:22 | 2020-10-27 |  |
@@ -338,7 +342,9 @@
 | [Small But Nice](https://open.spotify.com/track/4JW3xordKSyyseY0508GrZ) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:18 | 2020-09-30\* | 2022-08-13 |
 | [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 | 2020-09-30\* |  |
 | [Solitude](https://open.spotify.com/track/1aGU4nNNTtbEFPakvzYN2Y) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Presence](https://open.spotify.com/album/6IgFlUlufatumAUT9b9w3l) | 2:58 | 2020-09-30\* | 2021-09-14 |
+| [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Sombra Clara](https://open.spotify.com/track/4qIlrFzUxyegdhZRy7oN7E) | [Chiara Nieves](https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc) | [Sombra Clara](https://open.spotify.com/album/0YWqay7Mzi95ZWYGXOANkP) | 3:32 | 2022-05-05 |  |
+| [Somnolente](https://open.spotify.com/track/3jnupMmEH5htGamP01T0PB) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Somnolente](https://open.spotify.com/album/0gsvnIxyfAJl24pFzFrBtj) | 2:49 | 2022-09-30 |  |
 | [Sólarupprás](https://open.spotify.com/track/48rbuSnk3BZz6wp97B6zOx) | [Einingu](https://open.spotify.com/artist/0fiP3M4LPNPJxvfTDizIbw) | [Sólarupprás](https://open.spotify.com/album/6rHowKpjL5ZD53oPJXznIk) | 3:44 | 2021-01-18 | 2022-03-25 |
 | [St Germain 54](https://open.spotify.com/track/21TG8QkajgXY6rWjIK5dFO) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 2:54 | 2020-09-30\* | 2021-09-14 |
 | [Stillness](https://open.spotify.com/track/6cn3ydXeMViI9FKbvU5yC6) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Stillness](https://open.spotify.com/album/1tFhGEgEpA4bkmdYp2zYQ3) | 2:30 | 2020-12-03 |  |
@@ -360,6 +366,7 @@
 | [Susurrus](https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Susurrus](https://open.spotify.com/album/0m0uWRNgIyjjTrZGJAlnAJ) | 2:15 | 2022-08-23 |  |
 | [Sylarna](https://open.spotify.com/track/3qbZGh0o76ZCq2dI32cF9o) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 4:04 | 2020-09-30\* | 2021-10-21 |
 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 | 2022-08-15 |  |
+| [Taking Time](https://open.spotify.com/track/37updGaTNZIoTOOm0hbN0s) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Taking Time](https://open.spotify.com/album/1diYOWjBNtWohya2oTxB2e) | 2:31 | 2022-09-30 |  |
 | [Tawelwch](https://open.spotify.com/track/3dQv95YPj2n9tesVZKN4FT) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Tawelwch](https://open.spotify.com/album/0QlsWt0H3rYHW0nTmuvzIR) | 2:50 | 2022-01-28 |  |
 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 | 2021-04-02 |  |
 | [Teach me](https://open.spotify.com/track/1yie0sbCLfoPN3NJq7oASy) | [Kalea Jeffery](https://open.spotify.com/artist/4BsTLYWkgv4es56L2gwWFc) | [Teach me](https://open.spotify.com/album/0y1G3ChN0LOlznWJcvbVMI) | 3:06 | 2020-12-24 |  |

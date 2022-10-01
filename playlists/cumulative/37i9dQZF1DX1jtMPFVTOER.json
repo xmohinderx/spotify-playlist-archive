@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 213285,
       "name": "CEREAL",
       "url": "https://open.spotify.com/track/6DY9y5dsU06YuZUY3j07fd"
@@ -3813,7 +3813,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 199155,
       "name": "Money",
       "url": "https://open.spotify.com/track/1esSsvske6kym5IbfBmPQZ"
@@ -4980,6 +4980,28 @@
     },
     {
       "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/5B0i9bLgYapWqaPy4i4KiJ"
+      },
+      "artists": [
+        {
+          "name": "Natalie Renoir",
+          "url": "https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87"
+        },
+        {
+          "name": "Stella Starlight Trio",
+          "url": "https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150672,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1QZ0trnp5lBt5rEvGX1kNk"
+    },
+    {
+      "album": {
         "name": "Same Way Home",
         "url": "https://open.spotify.com/album/1eILjZ56N473iKzo6Tlnyb"
       },
@@ -5984,6 +6006,32 @@
     },
     {
       "album": {
+        "name": "Ibio-Ibio",
+        "url": "https://open.spotify.com/album/0qIUtII533DzbMMVXmvGuC"
+      },
+      "artists": [
+        {
+          "name": "Camilla George",
+          "url": "https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH"
+        },
+        {
+          "name": "SANITY",
+          "url": "https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8"
+        },
+        {
+          "name": "Daru Jones",
+          "url": "https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273940,
+      "name": "The Long Juju Slave Route of Arochokwu",
+      "url": "https://open.spotify.com/track/2DvCrMyz3oq1xCmBGofrWG"
+    },
+    {
+      "album": {
         "name": "The Merchant of Flatbush",
         "url": "https://open.spotify.com/album/4gJbIqbZAFiSZxDbDpEGPW"
       },
@@ -6177,7 +6225,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 286080,
       "name": "TO BE WE (feat. Jill Scott)",
       "url": "https://open.spotify.com/track/7E9Wkj81UFn20qDWhRn0ee"
@@ -6737,7 +6785,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 231933,
       "name": "Window Thoughts",
       "url": "https://open.spotify.com/track/17oVAtOSqFo1Dh7RKkR2ao"
@@ -6811,6 +6859,24 @@
       "duration_ms": 205116,
       "name": "Wouldn't Even Notice",
       "url": "https://open.spotify.com/track/2IKICTRcYfmS9ZW7LsbTwK"
+    },
+    {
+      "album": {
+        "name": "You Make Me Feel So Good",
+        "url": "https://open.spotify.com/album/1aTswqm0IddXx54iXrPpSQ"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "You Make Me Feel So Good",
+      "url": "https://open.spotify.com/track/52ZUwYOfSHJB2aJ4nfz9ic"
     },
     {
       "album": {

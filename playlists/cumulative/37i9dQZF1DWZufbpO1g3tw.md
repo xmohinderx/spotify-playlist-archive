@@ -4,7 +4,7 @@
 
 > ¡Trompetas, piano y timbal para darle sazón a tu mediodía!
 
-97 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
+98 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 | 2021-10-20 |  |
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 |  |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-20 | 2022-07-25 |
-| [¡Ay, Mi Corazón!](https://open.spotify.com/track/1D8664oUPv5el6VLBkzi7e) | [Lusaí](https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB) | [¡Ay, Mi Corazón!](https://open.spotify.com/album/3SYeXGtFmXnwVQ10k0fRJ5) | 3:55 | 2022-04-20 |  |
+| [¡Ay, Mi Corazón!](https://open.spotify.com/track/0GausS98RDplDHbITzyRMJ) | [Lusaí](https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB) | [¡Ay, Mi Corazón!](https://open.spotify.com/album/3qSj9um4kvtXA0ghXomqQw) | 3:55 | 2022-04-20 |  |
+| [¡Ay, Mi Corazón!](https://open.spotify.com/track/1D8664oUPv5el6VLBkzi7e) | [Lusaí](https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB) | [¡Ay, Mi Corazón!](https://open.spotify.com/album/3SYeXGtFmXnwVQ10k0fRJ5) | 3:55 | 2022-04-20 | 2022-10-01 |
 | [¿Dónde estabas tú?](https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:43 | 2021-10-20 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

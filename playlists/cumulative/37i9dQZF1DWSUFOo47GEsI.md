@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-294 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+299 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2021-11-10 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-08 |  |
 | [A Solid State](https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [A Solid State](https://open.spotify.com/album/31b43Zr4Eb7nNEnsX6GywM) | 2:53 | 2021-11-10 |  |
+| [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2022-09-30 |  |
 | [Aestate Nocte](https://open.spotify.com/track/33kX0nz5uT0zqq3EYWvUjf) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Aestate Nocte](https://open.spotify.com/album/586nVYFWjCLPKqroTU1dVq) | 3:24 | 2021-11-10 |  |
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2021-11-10 |  |
 | [Allt finns kvar](https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Allt finns kvar](https://open.spotify.com/album/4peQko6d1eFGavCfFHJGT3) | 3:59 | 2021-11-10 |  |
@@ -66,6 +67,7 @@
 | [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 | 2021-11-10 |  |
 | [Cloudology](https://open.spotify.com/track/6NGbBlz6b95e6zDDSDvf8J) | [Moomu](https://open.spotify.com/artist/2eZRi0tR0RmIwq6lx3TEZt) | [Aguatic](https://open.spotify.com/album/1WSU1HlUTsOoa051MqIP6u) | 3:07 | 2021-11-10 |  |
 | [Compassion](https://open.spotify.com/track/2mejNtx8hB6M56m4hs0bAh) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Rebirth](https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV) | 3:32 | 2021-11-10 |  |
+| [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2022-09-30 |  |
 | [Contemplation](https://open.spotify.com/track/7J9wquS6KYMs8xStcEYoGr) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Contemplation](https://open.spotify.com/album/2kk849IDiM7iBiDv3KVF35) | 2:56 | 2021-11-10 |  |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2021-11-10 |  |
 | [Cool Air](https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl) | [Lily Augustadt](https://open.spotify.com/artist/1Jl25mzgeWgkMQmfvpH4p6) | [Cool Air](https://open.spotify.com/album/24ERw8DNZYHnejbmdTCjXA) | 3:06 | 2021-11-10 | 2022-08-16 |
@@ -112,6 +114,7 @@
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2021-11-10 |  |
 | [Finding Z](https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Finding Z](https://open.spotify.com/album/52Q1HU0Kr1n2gxElmS2zNA) | 3:37 | 2021-11-10 |  |
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2021-11-10 |  |
+| [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-09-30 |  |
 | [For You Always](https://open.spotify.com/track/2DsYcmzLobaT4BLM6qoeds) | [Local Monocle](https://open.spotify.com/artist/0qa5B4ML0R0hNETkHLlar9) | [For You Always](https://open.spotify.com/album/4842rhAalZUOP83xfkhvpd) | 3:11 | 2021-11-10 |  |
 | [Forest Night](https://open.spotify.com/track/3GPHBNaJEtE7cB2XvTes0o) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Forest Night](https://open.spotify.com/album/2J6U4M4eojgtfsah2x4tNb) | 2:12 | 2021-11-10 |  |
 | [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 | 2021-11-10 |  |
@@ -217,6 +220,7 @@
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-11-10 |  |
 | [Redamancy](https://open.spotify.com/track/2iWt83ffEevRHEPJiz6nJN) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Redamancy](https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ) | 3:39 | 2022-09-13 |  |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2021-11-10 |  |
+| [Reminiscence](https://open.spotify.com/track/1eUdYgWAsWxbv4CphVBkHp) | [Docia Cappa](https://open.spotify.com/artist/0Bg5U4Xpj3NFpY028wjhsP) | [Reminiscence](https://open.spotify.com/album/07HWjtqad8ah6r2q2tViN2) | 3:10 | 2022-09-30 |  |
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 |  |
 | [Resting Peace](https://open.spotify.com/track/0BWqXtl5RSRWEDfoL2HdV9) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Ambioso](https://open.spotify.com/album/6WrK1ZkwCjDKfY8LrAbpt8) | 3:29 | 2021-11-10 |  |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2021-11-10 |  |
@@ -298,6 +302,7 @@
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2021-11-10 |  |
 | [Warszawa](https://open.spotify.com/track/7hwGHD71FJFBXu1iUDYTYf) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Warszawa](https://open.spotify.com/album/6PPYEFKKva6PMGl5XJWFIB) | 2:50 | 2021-11-10 |  |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2021-11-10 |  |
+| [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2022-09-30 |  |
 | [Window To My Mind](https://open.spotify.com/track/1wE9HgRDTAlL5zsw1V3ThR) | [Konradism](https://open.spotify.com/artist/4uA8U0JA9Wg48FEmhekfFk) | [Window To My Mind](https://open.spotify.com/album/5nO2GGiIIYGRR4ZvnxsMXB) | 2:47 | 2021-11-10 |  |
 | [Within the Light](https://open.spotify.com/track/6Di2mEmryP7AAak4VZMLVJ) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light \(Ambient Version\)](https://open.spotify.com/album/4qJ6aOT7ZWniQnKQVbIDK8) | 2:29 | 2021-11-10 |  |
 | [zomerochtend](https://open.spotify.com/track/3cYVVPJoyBsDdr5v4GR5wZ) | [Gülay de Wind](https://open.spotify.com/artist/5D0qIsPOnyaBwKc6ICi5A0) | [zomerochtend](https://open.spotify.com/album/1IxIICJCdrCyPJxRITquke) | 3:40 | 2021-11-10 |  |

@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: IVE
 
-370 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+371 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [angel \(Prod\. GRAY\) \(Japanese ver.\)](https://open.spotify.com/track/63qTCzek2KaXkg7x1Y3ax9) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [OnlyOneOf JAPAN BEST ALBUM](https://open.spotify.com/album/3XZCzoFsBYFSGxW4Wil9GA) | 3:32 | 2022-01-18 | 2022-02-09 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2021-12-23 | 2022-03-21 |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 |  |
+| [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 | 2022-09-30 |  |
 | [Ascension](https://open.spotify.com/track/0ZabC2gf38O0lQsPs00irH) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. IV\. Dann](https://open.spotify.com/album/28FMfifUwgR7vNCGjuAzBy) | 3:44 | 2022-03-31 | 2022-06-21 |
 | [ATHLETIC GIRL](https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [ATHLETIC GIRL](https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ) | 3:32 | 2022-01-06 | 2022-03-18 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-15 |  |
@@ -325,7 +326,7 @@
 | [Trauma \- Japanese ver.](https://open.spotify.com/track/43SlfBxQYLok9kDveezSvg) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE BEST \~Dear Fantasy\~](https://open.spotify.com/album/4q3eFS7zlv7ko0k5MjmM7P) | 3:22 | 2022-06-28 | 2022-08-12 |
 | [U](https://open.spotify.com/track/0Qk13Xgp0glz8I875TuJRl) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/3xHLRJDP7M05Gnt4VE1TwT) | 2:46 | 2022-03-29 | 2022-06-29 |
 | [U&Iverse](https://open.spotify.com/track/67VGnMGkTYQu0eGhvcEXuS) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [U&Iverse](https://open.spotify.com/album/13QtsOvK9KOmQBQglnbsQo) | 3:24 | 2022-07-22 | 2022-09-21 |
-| [Umbrella](https://open.spotify.com/track/4p25h8uVkSoSsq5Vl5NeJ3) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Umbrella](https://open.spotify.com/album/6m3fEmldriKRNaxcCooP7T) | 3:38 | 2022-08-09 |  |
+| [Umbrella](https://open.spotify.com/track/4p25h8uVkSoSsq5Vl5NeJ3) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Umbrella](https://open.spotify.com/album/6m3fEmldriKRNaxcCooP7T) | 3:38 | 2022-08-09 | 2022-10-01 |
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/6mMaK2MTTnJR1vug1ykPig) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/4yC8CrziY3rJMkTKVM6lIG) | 2:45 | 2022-03-03 | 2022-03-11 |
 | [Undercover \- Japanese ver.](https://open.spotify.com/track/3JezulRWDYGqfjzq6PK65L) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Undercover \(Japanese ver.\)](https://open.spotify.com/album/2qTRlCOArOeI8JfBYk4eMF) | 3:08 | 2022-06-07 | 2022-07-19 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/11bKMtXv6SRHY4paHR6qhz) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/1yG3aJf5tQz4D9pCosjn3f) | 3:51 | 2021-12-23 | 2022-03-02 |

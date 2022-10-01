@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 194450,
+  "num_followers": 194453,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNzE0NywwMDAwMDAwMGQ4ZjU1N2M3OGI5OTMzNDFhNjY5OWUyYmY5YWY2MTUz",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDkyOGU2ODIyYjQ5NjlmOGMxNzBiNWI2ZTIwOTAyNGEx",
   "tracks": [
     {
       "added_at": "2022-09-23 04:25:47",
@@ -649,6 +649,26 @@
       "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
     },
     {
+      "added_at": "2022-10-01 01:52:38",
+      "album": {
+        "name": "Ashley McBryde Presents: Lindeville",
+        "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 207064,
+      "name": "Play Ball",
+      "url": "https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml"
+    },
+    {
       "added_at": "2022-09-23 04:25:47",
       "album": {
         "name": "HIXTAPE: Vol. 1",
@@ -727,22 +747,6 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Five More Minutes",
-      "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -755,6 +759,22 @@
       "duration_ms": 249613,
       "name": "Where I Find God",
       "url": "https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa"
+    },
+    {
+      "added_at": "2022-09-23 04:25:47",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Five More Minutes",
+      "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -887,22 +907,6 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 228653,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BaAxwS4VoeCYk9TuXQs7f"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
         "name": "Here's To The Good Times",
         "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
@@ -915,6 +919,22 @@
       "duration_ms": 215120,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX"
+    },
+    {
+      "added_at": "2022-09-23 04:25:47",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 228653,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BaAxwS4VoeCYk9TuXQs7f"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1019,22 +1039,6 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Home Sweet",
-        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Home Sweet",
-      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
         "name": "Can't Say I Ain't Country",
         "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
       },
@@ -1047,6 +1051,22 @@
       "duration_ms": 198520,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY"
+    },
+    {
+      "added_at": "2022-09-23 04:25:47",
+      "album": {
+        "name": "Home Sweet",
+        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Home Sweet",
+      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1099,22 +1119,6 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Halfway To Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "Kick It In The Sticks",
-      "url": "https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
         "name": "Anything Goes",
         "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
       },
@@ -1127,6 +1131,22 @@
       "duration_ms": 230586,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
+    },
+    {
+      "added_at": "2022-09-23 04:25:47",
+      "album": {
+        "name": "Halfway To Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "Kick It In The Sticks",
+      "url": "https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1227,18 +1247,18 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Playlist: The Very Best Of Lonestar",
-        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
+        "name": "Halfway To Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 223573,
-      "name": "My Front Porch Looking In",
-      "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
+      "duration_ms": 214826,
+      "name": "Country Must Be Country Wide",
+      "url": "https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1259,18 +1279,18 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Halfway To Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
+        "name": "Playlist: The Very Best Of Lonestar",
+        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
         }
       ],
-      "duration_ms": 214826,
-      "name": "Country Must Be Country Wide",
-      "url": "https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA"
+      "duration_ms": 223573,
+      "name": "My Front Porch Looking In",
+      "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1359,18 +1379,34 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Grew Up On That (Quarantine Edition)",
-        "url": "https://open.spotify.com/album/6OaqgRfFDDPBbEdXvTmUxZ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 172066,
-      "name": "Grew Up On That",
-      "url": "https://open.spotify.com/track/1dwYdVvxMwMllDgwQuXMGs"
+      "duration_ms": 273000,
+      "name": "John Deere Green",
+      "url": "https://open.spotify.com/track/2ZXsvL9DO2MPv43Ay1IxgR"
+    },
+    {
+      "added_at": "2022-09-23 04:25:47",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1391,18 +1427,18 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+        "name": "Grew Up On That (Quarantine Edition)",
+        "url": "https://open.spotify.com/album/6OaqgRfFDDPBbEdXvTmUxZ"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
         }
       ],
-      "duration_ms": 273000,
-      "name": "John Deere Green",
-      "url": "https://open.spotify.com/track/2ZXsvL9DO2MPv43Ay1IxgR"
+      "duration_ms": 172066,
+      "name": "Grew Up On That",
+      "url": "https://open.spotify.com/track/1dwYdVvxMwMllDgwQuXMGs"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1443,22 +1479,6 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -1471,6 +1491,22 @@
       "duration_ms": 246453,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
+    },
+    {
+      "added_at": "2022-09-23 04:25:47",
+      "album": {
+        "name": "Me And You",
+        "url": "https://open.spotify.com/album/5aG9PNqK9jLLJoehlNXlwW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 236826,
+      "name": "Back Where I Come From",
+      "url": "https://open.spotify.com/track/4BbwjVS27IuC7bvN7qzAvS"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1495,18 +1531,18 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Me And You",
-        "url": "https://open.spotify.com/album/5aG9PNqK9jLLJoehlNXlwW"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 236826,
-      "name": "Back Where I Come From",
-      "url": "https://open.spotify.com/track/4BbwjVS27IuC7bvN7qzAvS"
+      "duration_ms": 260346,
+      "name": "Red Dirt Road",
+      "url": "https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1523,22 +1559,6 @@
       "duration_ms": 219920,
       "name": "We Were Cowboys",
       "url": "https://open.spotify.com/track/5Nbq6BNkf5gedpzWeNIH8e"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Red Dirt Road",
-      "url": "https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1591,22 +1611,6 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Something To Be Proud Of: Best Of 1999-2005",
-        "url": "https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 285586,
-      "name": "My Town",
-      "url": "https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
         "name": "Greatest Hits II",
         "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
       },
@@ -1619,6 +1623,22 @@
       "duration_ms": 206226,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/30ZGbfPsjDNCgL21Qzciuj"
+    },
+    {
+      "added_at": "2022-09-23 04:25:47",
+      "album": {
+        "name": "Here On Earth",
+        "url": "https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Called Mama",
+      "url": "https://open.spotify.com/track/2oWuBmQtYMx3LEgahIsJvs"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1639,18 +1659,18 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Here On Earth",
-        "url": "https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM"
+        "name": "Something To Be Proud Of: Best Of 1999-2005",
+        "url": "https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 212146,
-      "name": "I Called Mama",
-      "url": "https://open.spotify.com/track/2oWuBmQtYMx3LEgahIsJvs"
+      "duration_ms": 285586,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD"
     },
     {
       "added_at": "2022-09-23 04:25:47",
@@ -1699,22 +1719,6 @@
       "duration_ms": 236426,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2RnEMVSTAG2BQh3LHXS9te"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
-        "name": "It's America",
-        "url": "https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 213786,
-      "name": "It\u2019s America",
-      "url": "https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd"
     }
   ],
   "unique_name": "Heartland Country",

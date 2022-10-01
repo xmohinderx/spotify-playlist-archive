@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-86 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
+89 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,18 +18,21 @@
 | [By Nightfall \- 2Hz Delta Waves](https://open.spotify.com/track/7HEb0RAKvRXBmSeSKczqBz) | [Jijivisha](https://open.spotify.com/artist/0W3mFGcxXtnwkpgphwjYxk) | [By Nightfall \- 2Hz Delta Waves](https://open.spotify.com/album/4fMBn3FQMaPxe6CPOuIUCu) | 5:52 | 2022-05-13 |  |
 | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/track/6rNmdoYbDXjqnslT2NbJTK) | [CALMING & PEACEFUL VIBES](https://open.spotify.com/artist/0Kzexs0X9tAOobFWG68J7x) | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/album/2X1JJ00htpKDWqWNCMPN1N) | 4:21 | 2022-05-13 |  |
 | [Chote Hiran](https://open.spotify.com/track/6FTbsYAksvLXAvNf3hQ2JR) | [Kapila Upsani](https://open.spotify.com/artist/1I8JjaC5qvXYmY4vRT3x1W) | [Chote Hiran](https://open.spotify.com/album/5Ks9dlzmU0BGfoqZYDP7gc) | 5:00 | 2022-05-13 |  |
+| [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-05-13 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-05-13 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2022-05-13 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2022-05-13 |  |
 | [Dhinchak](https://open.spotify.com/track/0WJ9kpcHXyVBPeMiKsou01) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Dhinchak](https://open.spotify.com/album/0Qg98DxDTVhdw3yT5imxHN) | 3:32 | 2022-07-14 |  |
 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 | 2022-05-13 |  |
+| [Dreamlike](https://open.spotify.com/track/1wBtIlZCG7Y40MNKaklcxe) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Dreamlike](https://open.spotify.com/album/4NBNmYGPv5YK3a8paxryDu) | 3:15 | 2022-09-30 |  |
 | [Dunagiri](https://open.spotify.com/track/7f6Qq4dxlcIhvkZFa4HL5o) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [Dunagiri](https://open.spotify.com/album/5Um8qhDnnbS8AVUcowu02b) | 3:08 | 2022-07-14 |  |
 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 |  |
 | [Fly On A Moonbeam](https://open.spotify.com/track/5gmWEw49oWPrVMbmz6cU21) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Quietly Floating](https://open.spotify.com/album/0FKe3yn57VfwLfe170ZFeB) | 3:16 | 2022-09-06 |  |
 | [Golden Night](https://open.spotify.com/track/6mJfau3oJvpYztXxW1fxKi) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Raat ki Hawa](https://open.spotify.com/album/2M9KRROg3X52wfBWWDlkmu) | 3:18 | 2022-05-13 |  |
 | [Hansadhwani Flute Meditation](https://open.spotify.com/track/4BWaGsqpk4J1BtF8yCdQgH) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Hansadhwani Flute Meditation](https://open.spotify.com/album/2LtYdTh9JEqYk1QJ6E6JEp) | 2:37 | 2022-05-13 |  |
 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 | 2022-05-13 |  |
+| [Healing Water](https://open.spotify.com/track/61AViX47CvGaOYvZ7qneDi) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Healing Water](https://open.spotify.com/album/3yXp26mMmx5RVPHgGtZTsG) | 3:06 | 2022-09-30 |  |
 | [Himalaya](https://open.spotify.com/track/5bx1gFT0aKeBgKnDSEzvwo) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Himalaya](https://open.spotify.com/album/7aL5MzV1V51hQ7lNdNBRXj) | 3:34 | 2022-08-10 |  |
 | [indriya](https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu) | [Dhani Bhagat](https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6) | [phir milenge](https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL) | 3:20 | 2022-07-14 |  |
 | [Jijivisha](https://open.spotify.com/track/4zBb2qVZPBPIGHyVgigcgX) | [Nima Aurora](https://open.spotify.com/artist/1UQGA6jKplD3UepAJH3W0o) | [Jijivisha](https://open.spotify.com/album/57GQpNtXgfP9I0cezGPr0o) | 3:42 | 2022-07-14 |  |

@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285354,
+      "name": "Fugue in D minor - Spotify Singles",
+      "url": "https://open.spotify.com/track/08ooPV5h25QXuoC6oerVuJ"
+    },
+    {
+      "album": {
         "name": "Virtual Self",
         "url": "https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG"
       },
@@ -703,6 +721,24 @@
       "duration_ms": 210017,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
+    },
+    {
+      "album": {
+        "name": "inhuman",
+        "url": "https://open.spotify.com/album/565EAf3SEil3VUEvBeqdvz"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "inhuman",
+      "url": "https://open.spotify.com/track/72sLsJ5XELHGuV1J6ntJoZ"
     },
     {
       "album": {
@@ -1136,6 +1172,24 @@
     },
     {
       "album": {
+        "name": "Roll",
+        "url": "https://open.spotify.com/album/1zXKcwZZIyG2ojmJV6s35T"
+      },
+      "artists": [
+        {
+          "name": "ZABO",
+          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259350,
+      "name": "Roll",
+      "url": "https://open.spotify.com/track/7tCfEp99eUv6d3yfaL3TdP"
+    },
+    {
+      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -1225,6 +1279,42 @@
       "duration_ms": 192000,
       "name": "Sell Out",
       "url": "https://open.spotify.com/track/0e9yz3Fz7Nn6I5E4XBP8no"
+    },
+    {
+      "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131254,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
+    },
+    {
+      "album": {
+        "name": "SLASH",
+        "url": "https://open.spotify.com/album/5ml9nZdFPLJdUdWT8nf0Dx"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "SLASH",
+      "url": "https://open.spotify.com/track/6fYk1h3xgXatisxwR5G77O"
     },
     {
       "album": {

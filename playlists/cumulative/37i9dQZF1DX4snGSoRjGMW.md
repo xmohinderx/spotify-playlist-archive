@@ -4,12 +4,13 @@
 
 > Soul meets blues\. Cover: Bettye LaVette
 
-80 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/4x3y9tbJcqa6IgGXE6xIIK)
+81 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/4x3y9tbJcqa6IgGXE6xIIK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Won't Be\) Coming Home](https://open.spotify.com/track/12xd9vbV1Z2ZHkezUQnusF) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Nothin But Love](https://open.spotify.com/album/3lYuG4Yn0zfvoZjSm1BfNL) | 4:52 | 2020-12-01 |  |
 | [\[Won't Be\] Coming Home](https://open.spotify.com/track/1Ng2K6WjE2FxzbFzpu2gVc) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Nothin But Love](https://open.spotify.com/album/2asharE8GAbw3uW4J02WmK) | 4:52 | 2020-12-01 | 2022-07-29 |
+| [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 | 2022-09-30 |  |
 | [All The Way Down](https://open.spotify.com/track/353BumIgA33r4FzY84JCaF) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 4:02 | 2020-12-01 | 2022-07-29 |
 | [Baby I Will](https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 4:29 | 2020-12-01 |  |
 | [Betcha Didn't Know](https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/5tAKD9toNUPBnDi7DJJ8c3) | 4:17 | 2020-12-01 | 2022-07-27 |
@@ -41,7 +42,7 @@
 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 | 2020-12-01 |  |
 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/2wB9CDJ3AlpGxau0KF3Xy7) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 5:19 | 2020-12-01 |  |
 | [I'm So Proud](https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:48 | 2020-12-01 |  |
-| [In Your Arms Again](https://open.spotify.com/track/669EMLj2E0nvm68Y95XBbr) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 5:08 | 2020-12-01 |  |
+| [In Your Arms Again](https://open.spotify.com/track/669EMLj2E0nvm68Y95XBbr) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 5:08 | 2020-12-01 | 2022-10-01 |
 | [It Ain't The Same Thing](https://open.spotify.com/track/0t1AarE0wigd1nKtNJ6yng) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:12 | 2020-12-01 |  |
 | [It's Harder Now \- Remix](https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [It Ain't Easy: Essential Recordings](https://open.spotify.com/album/3OtKfYKnLZbmqdrBNCbkNU) | 3:42 | 2020-12-01 |  |
 | [Joy](https://open.spotify.com/track/4HzTglAWhVCUmRdhpYwDGw) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [I've Got My Own Hell To Raise](https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC) | 3:55 | 2020-12-01 |  |

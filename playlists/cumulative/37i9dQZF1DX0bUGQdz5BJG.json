@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 199793,
       "name": "7 and 70",
       "url": "https://open.spotify.com/track/3dVrqZdrC3ocZSU92kWPzx"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 193561,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/3yl7YwoNy3hzbjQV4Ae4xO"
@@ -1392,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/11S4FX9upaqdyrMG6IvsSC"
+      },
+      "artists": [
+        {
+          "name": "Easton Corbin",
+          "url": "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "Between You and Me",
+      "url": "https://open.spotify.com/track/6zwhdilvFhS3oHnUlCgBn5"
+    },
+    {
+      "album": {
         "name": "Where You Come From",
         "url": "https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF"
       },
@@ -1810,6 +1828,46 @@
     },
     {
       "album": {
+        "name": "Burnin Out (with Kidd G)",
+        "url": "https://open.spotify.com/album/7GmfbBkyz1QPKCEeP4rS1k"
+      },
+      "artists": [
+        {
+          "name": "Logan Michael",
+          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
+        },
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191361,
+      "name": "Burnin Out (with Kidd G)",
+      "url": "https://open.spotify.com/track/4hBdwjBitxiznEvmH5GuDW"
+    },
+    {
+      "album": {
+        "name": "Busy",
+        "url": "https://open.spotify.com/album/7zjGOaSSo3TpQhA1R956gW"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/7f96cOAkzyaN9QxvJhjyMk"
+    },
+    {
+      "album": {
         "name": "Give You Mine",
         "url": "https://open.spotify.com/album/3KWGK2FXXhiey4QbDSQTZY"
       },
@@ -1897,7 +1955,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 203772,
       "name": "Can't Nobody",
       "url": "https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy"
@@ -3129,7 +3187,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 216626,
       "name": "Don't It Feel Like Rain",
       "url": "https://open.spotify.com/track/354HsVzN2ikyLwPk8KKdnF"
@@ -4094,6 +4152,24 @@
     },
     {
       "album": {
+        "name": "Born in July (The Album)",
+        "url": "https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163643,
+      "name": "First Time I Was Drunk",
+      "url": "https://open.spotify.com/track/043QcuwNRjElvO4aQ1zl7i"
+    },
+    {
+      "album": {
         "name": "Fishin' On A River",
         "url": "https://open.spotify.com/album/6oeOfzSNcr3hlzuYqhqLAt"
       },
@@ -4141,7 +4217,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 214692,
       "name": "Float",
       "url": "https://open.spotify.com/track/79X3dUeEnrYoJMQM3I8ZTG"
@@ -4203,6 +4279,24 @@
       "duration_ms": 182057,
       "name": "For the Boys",
       "url": "https://open.spotify.com/track/3G9Bc7ksQTskClSEIVH8tZ"
+    },
+    {
+      "album": {
+        "name": "For the Weekend",
+        "url": "https://open.spotify.com/album/3pZkwSHxO3vuZ2TxdEcwrW"
+      },
+      "artists": [
+        {
+          "name": "Gray Robinson",
+          "url": "https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224975,
+      "name": "For the Weekend",
+      "url": "https://open.spotify.com/track/6FRaLXFeCAzfkJtxZ7jCbk"
     },
     {
       "album": {
@@ -5562,6 +5656,24 @@
     },
     {
       "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
+    },
+    {
+      "album": {
         "name": "Hell Of A Way To Go",
         "url": "https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf"
       },
@@ -5627,7 +5739,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 189918,
       "name": "Her On Out",
       "url": "https://open.spotify.com/track/2zP9v1DeorQeZx1Z3EA3pu"
@@ -5865,7 +5977,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 190155,
       "name": "Hitting Your Friends Up",
       "url": "https://open.spotify.com/track/5uMFM4LAGy1rcgS9YrVTgq"
@@ -6301,7 +6413,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 175133,
       "name": "I Could Go On",
       "url": "https://open.spotify.com/track/4T4D7GunjxKuczHftwwGif"
@@ -6319,7 +6431,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185546,
       "name": "I Could Use A Drink",
       "url": "https://open.spotify.com/track/26754eQNqDxCnQWwLoqFoD"
@@ -6694,6 +6806,24 @@
     },
     {
       "album": {
+        "name": "I'm Feelin' Good (Steve Miller Band)",
+        "url": "https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0"
+      },
+      "artists": [
+        {
+          "name": "King Calaway",
+          "url": "https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161826,
+      "name": "I'm Feelin' Good (Steve Miller Band)",
+      "url": "https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt"
+    },
+    {
+      "album": {
         "name": "I'm Gonna Let Her",
         "url": "https://open.spotify.com/album/2Ief9TGkBjEaOD1soie5NC"
       },
@@ -6921,7 +7051,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 166035,
       "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
       "url": "https://open.spotify.com/track/6KryVEgkMGOWZHQLwTbU7E"
@@ -6975,7 +7105,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 174946,
       "name": "Imma",
       "url": "https://open.spotify.com/track/62F0GlumkjqJPAJMLTI2ci"
@@ -8504,6 +8634,24 @@
     },
     {
       "album": {
+        "name": "Made 4",
+        "url": "https://open.spotify.com/album/0Wjel1zCGyyNdt1ofyi4OL"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169628,
+      "name": "Made 4",
+      "url": "https://open.spotify.com/track/4D3ncJSklJygckj0iLb5q7"
+    },
+    {
+      "album": {
         "name": "Josh Logan",
         "url": "https://open.spotify.com/album/476cOOLP2v04PcUR0A0Vc9"
       },
@@ -8868,6 +9016,28 @@
     },
     {
       "album": {
+        "name": "Midnight Crisis",
+        "url": "https://open.spotify.com/album/640Piuf9BkOLph0xUd98tc"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203807,
+      "name": "Midnight Crisis",
+      "url": "https://open.spotify.com/track/7xIfvgLl8E4UGE8BAt0oA3"
+    },
+    {
+      "album": {
         "name": "Midnight On A Map Dot",
         "url": "https://open.spotify.com/album/3WXWicIsTxzGytDUE4nEnT"
       },
@@ -9135,7 +9305,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 261032,
       "name": "Morning In New Orleans",
       "url": "https://open.spotify.com/track/58ecPv0XoQ0nO0Fh9ZEp8N"
@@ -9434,6 +9604,24 @@
     },
     {
       "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/5r5RO7LnMB8Dn32qN2xKNG"
+      },
+      "artists": [
+        {
+          "name": "Garrett Biggs",
+          "url": "https://open.spotify.com/artist/1uAjXKpS4W1YD9PYcFvSj5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182860,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/4rJbJYBoyz9uJlhaeIfRaY"
+    },
+    {
+      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/7okh01uYgCUb6VxU5k4CR3"
       },
@@ -9705,6 +9893,24 @@
       "duration_ms": 222653,
       "name": "Not Like Me",
       "url": "https://open.spotify.com/track/0riLwYzcixemWmj3vYiWil"
+    },
+    {
+      "album": {
+        "name": "Not Meant to Be",
+        "url": "https://open.spotify.com/album/4qki8EgvxYpYfq4rQjGYxT"
+      },
+      "artists": [
+        {
+          "name": "Zack Dyer",
+          "url": "https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166149,
+      "name": "Not Meant to Be",
+      "url": "https://open.spotify.com/track/0lhxcgI9o6oSHMuOYj4Y8Z"
     },
     {
       "album": {
@@ -10202,6 +10408,24 @@
     },
     {
       "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/23xj6FVIi4bGBMevFQWQn8"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/4G1i8QJ2htH4Syo2vDeqSt"
+    },
+    {
+      "album": {
         "name": "One, Too",
         "url": "https://open.spotify.com/album/5yUPtSW75ZsOKRWkLD3zGe"
       },
@@ -10343,6 +10567,24 @@
       "duration_ms": 221733,
       "name": "Over Now",
       "url": "https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/4hSLuspiCA3goZOF5j1kYb"
+      },
+      "artists": [
+        {
+          "name": "Blake Henderson",
+          "url": "https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208491,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/3vHjXYGFc6CbDOTvfYWGqS"
     },
     {
       "album": {
@@ -10526,6 +10768,46 @@
     },
     {
       "album": {
+        "name": "Placeholder",
+        "url": "https://open.spotify.com/album/3yGAGNTHVCEND1cNiIPZZr"
+      },
+      "artists": [
+        {
+          "name": "Kaylin Roberson",
+          "url": "https://open.spotify.com/artist/0AywuUmKBjTTsU4ZrVf7JS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224594,
+      "name": "Placeholder",
+      "url": "https://open.spotify.com/track/3aoa7CcYtxfOPlpQXYgEni"
+    },
+    {
+      "album": {
+        "name": "Ashley McBryde Presents: Lindeville",
+        "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207064,
+      "name": "Play Ball",
+      "url": "https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml"
+    },
+    {
+      "album": {
         "name": "Port City",
         "url": "https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz"
       },
@@ -10685,7 +10967,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 179901,
       "name": "Project",
       "url": "https://open.spotify.com/track/1UT47W7TfolzxAIjOcB8A8"
@@ -10909,7 +11191,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 160773,
       "name": "Real Good Country Song",
       "url": "https://open.spotify.com/track/1kFXMz2grEVILLlI0rEVL4"
@@ -10967,6 +11249,24 @@
       "duration_ms": 175606,
       "name": "Red Round Here",
       "url": "https://open.spotify.com/track/0R5Jp9c0sYcCfu42Q1VPXC"
+    },
+    {
+      "album": {
+        "name": "Red Wine or Whiskey",
+        "url": "https://open.spotify.com/album/1MLP0riAL9BNkMSXEGlPE2"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Red Wine or Whiskey",
+      "url": "https://open.spotify.com/track/5nVQCQ14ix5jS2N8AESjWM"
     },
     {
       "album": {
@@ -11335,7 +11635,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 181498,
       "name": "See You There",
       "url": "https://open.spotify.com/track/4Rq0NZOK37DF6m6YuKH3d8"
@@ -11638,6 +11938,24 @@
     },
     {
       "album": {
+        "name": "Side of the Stage",
+        "url": "https://open.spotify.com/album/5SCeMhZFEaAAabYI2JI3s2"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184778,
+      "name": "Side of the Stage",
+      "url": "https://open.spotify.com/track/73acPCpqy3OtWRvdwV8AOj"
+    },
+    {
+      "album": {
         "name": "Silver and Gold",
         "url": "https://open.spotify.com/album/0GBj1HypmJhYiHysIm27rK"
       },
@@ -11761,7 +12079,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 232333,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/37cgzhQTxeh0qWnuE5y3iu"
@@ -12155,7 +12473,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 196053,
       "name": "Sounds Like Something",
       "url": "https://open.spotify.com/track/2VCIP4lMIUjZLYvEzWUbvu"
@@ -12663,7 +12981,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 189189,
       "name": "Take It Fast",
       "url": "https://open.spotify.com/track/7oyAVU27YImzKonzOyEO4x"
@@ -12843,7 +13161,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 238177,
       "name": "Tears the Size of Texas",
       "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
@@ -13200,6 +13518,24 @@
     },
     {
       "album": {
+        "name": "The Lost Years",
+        "url": "https://open.spotify.com/album/21teEebBdNLbFdS4vlwmC9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Quayle",
+          "url": "https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262243,
+      "name": "The Lost Years",
+      "url": "https://open.spotify.com/track/6toobTgUpnIqiY6HbFLWtM"
+    },
+    {
+      "album": {
         "name": "The Lucky Ones",
         "url": "https://open.spotify.com/album/6LXdTKNH3C07ScRy6nwgBH"
       },
@@ -13546,6 +13882,24 @@
     },
     {
       "album": {
+        "name": "Things That Matter",
+        "url": "https://open.spotify.com/album/4wc9lCB0OlOhcIxkQZdN4R"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Things That Matter",
+      "url": "https://open.spotify.com/track/6CZN0bIk5Ij3s4BsZCJZG8"
+    },
+    {
+      "album": {
         "name": "Things You Can't Live Without (with Travis Tritt)",
         "url": "https://open.spotify.com/album/2CqH8nKS2YzxNgJwwmB03b"
       },
@@ -13767,7 +14121,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 236990,
       "name": "Told You I Could Drink (feat. Lady A)",
       "url": "https://open.spotify.com/track/1Jx6yQQ8g0MyBR8KlviCr0"
@@ -14308,6 +14662,24 @@
     },
     {
       "album": {
+        "name": "Through The Madness Vol. 2",
+        "url": "https://open.spotify.com/album/5s1S4QUVIVFRg9gLOz9ves"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173853,
+      "name": "Watching Love Leave",
+      "url": "https://open.spotify.com/track/1z5QUZOpc54HaX6jvm6W2y"
+    },
+    {
+      "album": {
         "name": "Way Back When",
         "url": "https://open.spotify.com/album/3odtz2hIY64Uw91dVne7PG"
       },
@@ -14449,6 +14821,24 @@
       "duration_ms": 204500,
       "name": "We\u2019ve Never Danced",
       "url": "https://open.spotify.com/track/0kHAc1CqVguXkbxhEXZpaa"
+    },
+    {
+      "album": {
+        "name": "What Colour You Drive",
+        "url": "https://open.spotify.com/album/0pcnBEavBIxMwpz7Oi46Ro"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228929,
+      "name": "What Colour You Drive",
+      "url": "https://open.spotify.com/track/5Zp4gbFOTHdzuTCdiTbRdn"
     },
     {
       "album": {
@@ -14647,7 +15037,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 193417,
       "name": "When I Get Home",
       "url": "https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww"
@@ -15437,7 +15827,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 178658,
       "name": "World Before You",
       "url": "https://open.spotify.com/track/2GMyhPdyEg0SjA6dAjlYso"
@@ -15721,6 +16111,24 @@
       "duration_ms": 182165,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/7jydBWPQZZEioR4dSbntvP"
+    },
+    {
+      "album": {
+        "name": "You Got The Wrong Guy",
+        "url": "https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180615,
+      "name": "You Got The Wrong Guy",
+      "url": "https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sensual silky sounds for the sheets.",
-  "num_followers": 387436,
+  "num_followers": 387554,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjQ4MywwMDAwMDAwMDkwNGMyMDM0ZjljY2ZmNzU4YmZlYzk3NDFlN2JhM2I5",
+  "snapshot_id": "MTY2MjY5NjQ4MywwMDAwMDAwMDE3Y2ZkMTVhOGM4ODNiYTUwOWM2ZDdkYTYzMjRjZjI0",
   "tracks": [
     {
       "added_at": "2022-04-04 17:42:53",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-03-25 04:00:00",
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
         "name": "Teen Scene feat. Buddy",
         "url": "https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 250362,
       "name": "Teen Scene feat. Buddy",
       "url": "https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -871,18 +871,22 @@
     {
       "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG"
+        "name": "Glitter Ain't Gold",
+        "url": "https://open.spotify.com/album/2KYBKrXIlbnajS0P6UoQ2c"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Jay Lewn",
+          "url": "https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
         }
       ],
-      "duration_ms": 228648,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr"
+      "duration_ms": 221762,
+      "name": "Glitter Ain't Gold",
+      "url": "https://open.spotify.com/track/0XrKhZ9Ob6yqxpqcalNMFN"
     }
   ],
   "unique_name": "Silk Sheets",

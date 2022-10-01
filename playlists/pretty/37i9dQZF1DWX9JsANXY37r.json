@@ -1,12 +1,12 @@
 {
   "description": "Conforto para beber gin t\u00f4nica, mojito ou caipirinha sem precisar levantar do sof\u00e1.",
-  "num_followers": 106191,
+  "num_followers": 106197,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MTk2OSwwMDAwMDAwMGZmNWNhM2E2ODkyYjYwOWFiMjMwYzkxODliZWY1MzY5",
+  "snapshot_id": "MTY2Mzc4MTk2OSwwMDAwMDAwMDVjNjQ4ODNhNGMzYTc5YzBiOGRhNGFhY2JhYzVhZWE4",
   "tracks": [
     {
       "added_at": "2022-09-21 17:39:29",
@@ -787,6 +787,26 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 279773,
+      "name": "Fragments of Time (feat. Todd Edwards)",
+      "url": "https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "Random Access Memories",
-        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 279773,
-      "name": "Fragments of Time (feat. Todd Edwards)",
-      "url": "https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn"
     },
     {
       "added_at": "2022-09-21 17:39:29",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 196138,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
         "name": "Acid Dreams",
         "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
       },
@@ -975,6 +991,22 @@
     {
       "added_at": "2022-09-21 17:39:29",
       "album": {
+        "name": "I Don't Want It At All",
+        "url": "https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 250615,
+      "name": "I Don't Want It At All",
+      "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
+    },
+    {
+      "added_at": "2022-09-21 17:39:29",
+      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -991,38 +1023,6 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 196138,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ"
-    },
-    {
-      "added_at": "2022-09-21 17:39:29",
-      "album": {
-        "name": "I Don't Want It At All",
-        "url": "https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 250615,
-      "name": "I Don't Want It At All",
-      "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
     },
     {
       "added_at": "2022-09-21 17:39:29",

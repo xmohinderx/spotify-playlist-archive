@@ -2214,6 +2214,28 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/12kWRxspXnd2ISMbXPMPcp"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166189,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3YLIRe9P2UreZ3XKv8DJKm"
+    },
+    {
+      "album": {
         "name": "brokenhearted (together)",
         "url": "https://open.spotify.com/album/7EQo6zfVoU9iJuIDo9xAW7"
       },
@@ -4965,6 +4987,24 @@
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
+    },
+    {
+      "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
     },
     {
       "album": {
@@ -9983,7 +10023,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 227046,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q"
@@ -11624,6 +11664,28 @@
     },
     {
       "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/42Gzn1gSMgMGXAKCO8yzIN"
+      },
+      "artists": [
+        {
+          "name": "Amber Ais",
+          "url": "https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle"
+        },
+        {
+          "name": "Amir Rivera",
+          "url": "https://open.spotify.com/artist/4CciIhIEuvx2bGZhWovEXo"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208549,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/3tTvqSzvPjjWu1MZB8eL0p"
+    },
+    {
+      "album": {
         "name": "Missing You Today",
         "url": "https://open.spotify.com/album/5QWuQRtI7d96CMTOO2zlya"
       },
@@ -11671,7 +11733,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
@@ -13223,7 +13285,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"

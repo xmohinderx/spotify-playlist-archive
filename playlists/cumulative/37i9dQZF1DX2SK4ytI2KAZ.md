@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-393 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+394 songs - 22 hr 4 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Permission Slip](https://open.spotify.com/track/5lmX9ai11jjsabltxj32kb) | [Mainland](https://open.spotify.com/artist/1glS4fPaSC5EgMTnOsiXif) | [Permission Slip](https://open.spotify.com/album/7LCWfQDbxUl1RSYTn8fXaP) | 3:29 | 2022-03-11 | 2022-04-20 |
 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-07-29 |  |
 | [PIERCED ARROWS](https://open.spotify.com/track/3PjN0os4YRSKt3hefJq14b) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [PIERCED ARROWS](https://open.spotify.com/album/3Rug10AExjdT3hz3gFcJsH) | 4:02 | 2022-03-11 | 2022-04-18 |
+| [Play Along](https://open.spotify.com/track/0vcaM5lVTdNaLagTWiuJqe) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 3:11 | 2022-08-12 |  |
 | [Play Along](https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Play Along](https://open.spotify.com/album/4D9Fx7V3jOlawbQW9Svcf9) | 3:11 | 2022-03-09 | 2022-07-29 |
 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2022-07-29 |  |
 | [Preach](https://open.spotify.com/track/2mAlil0VCzglcu4t1dALfN) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Preach](https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe) | 3:04 | 2021-03-10 | 2022-05-28 |
@@ -271,7 +272,7 @@
 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-06-27 |  |
 | [Pretty Way to Fight](https://open.spotify.com/track/1IqCYpT2uKyCEfH76Re2rr) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [Pretty Way to Fight](https://open.spotify.com/album/1kMQDvVlFdDjQZjy2b0vQ9) | 3:23 | 2021-03-10 | 2022-07-29 |
 | [Pretty Way to Fight](https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [The Heights](https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV) | 3:23 | 2022-06-27 |  |
-| [Problematic](https://open.spotify.com/track/19Thkk14i1aKLVYyosk0lx) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [Problematic](https://open.spotify.com/album/1VnsCdPvjuIlEdPmUTLPCR) | 2:44 | 2021-03-10 |  |
+| [Problematic](https://open.spotify.com/track/19Thkk14i1aKLVYyosk0lx) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [Problematic](https://open.spotify.com/album/1VnsCdPvjuIlEdPmUTLPCR) | 2:44 | 2021-03-10 | 2022-10-01 |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-27 |  |
 | [Quiet Little Voices](https://open.spotify.com/track/3zniSx8DVtUSuJ0WAToZUy) | [We Were Promised Jetpacks](https://open.spotify.com/artist/3gnrmLahFhVXRI9DA1MImH) | [These Four Walls](https://open.spotify.com/album/5RzT4Ypfjk6i1xLQpXXZFI) | 4:21 | 2022-03-11 | 2022-04-17 |
 | [Ready For More](https://open.spotify.com/track/0DSHQkFL8ppNiYJgFaOq6r) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Ready For More](https://open.spotify.com/album/1cd2rHNaFkLMVXcYyuqo5D) | 3:26 | 2021-03-10 | 2022-04-19 |

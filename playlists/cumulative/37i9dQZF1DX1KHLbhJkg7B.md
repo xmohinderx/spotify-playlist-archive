@@ -2,9 +2,9 @@
 
 ### [Country Covers](https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B)
 
-> Unique versions of hit songs by other artists\. Cover: Ashley McBryde
+> Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-260 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+261 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Desperado](https://open.spotify.com/track/3nkxbitSWz9zZrE7WDvNzE) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Desperado](https://open.spotify.com/album/1lC4GfcSMniIqTx9BckSFb) | 3:17 | 2021-12-10 | 2022-07-29 |
 | [Desperate Man](https://open.spotify.com/track/7aGILHwGlI1uZ1VTxAWPPf) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 4:53 | 2022-03-25 | 2022-04-21 |
 | [Die a Happy Man](https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Die a Happy Man](https://open.spotify.com/album/2HL3GgGShK9spfzvhGcHM4) | 3:34 | 2022-01-07 |  |
-| [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-12-10 |  |
+| [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-12-10 | 2022-10-01 |
 | [Don't Start Now](https://open.spotify.com/track/1ECEifqCUHDgaNKgtu1a4L) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Don't Start Now](https://open.spotify.com/album/5vhFIgwblQZlHDvTOAS3OX) | 2:55 | 2022-02-04 | 2022-04-19 |
 | [Don’t Close Your Eyes](https://open.spotify.com/track/1mVj1KuhN6lXr1RDBfYG99) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [An Old Memory](https://open.spotify.com/album/3pIknS5vS0oVvRcPY7lojR) | 4:19 | 2021-12-10 | 2022-07-29 |
 | [Dreaming My Dreams With You](https://open.spotify.com/track/5ypmJxIJxZl7L6Ez3yOnFu) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Dreaming My Dreams With You](https://open.spotify.com/album/33xpBrWhJV2rSmPv6s4sN4) | 3:39 | 2022-03-25 | 2022-04-21 |
@@ -233,6 +233,7 @@
 | [This Is How We Roll](https://open.spotify.com/track/3skFJXP6IJK5VCHudwJFoB) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Down Home Sessions IV](https://open.spotify.com/album/63rAymY7yBFTCXWamkAO7U) | 3:36 | 2022-03-11 | 2022-04-19 |
 | [This Land Is Your Land](https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [This Land Is Your Land \(From Bright: The Album\)](https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS) | 2:34 | 2021-12-10 |  |
 | [Three Times A Lady](https://open.spotify.com/track/4kNaVprADQDfWl18mCXxh7) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [After Dark](https://open.spotify.com/album/35bKt6TLADU51iQ6Z3Of5S) | 3:52 | 2022-03-25 | 2022-09-10 |
+| [Three Wooden Crosses \- The Bootlegger Sessions](https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Three Wooden Crosses \(The Bootlegger Sessions\)](https://open.spotify.com/album/29Zi5oXaoj4XnTKw4gvE1d) | 3:14 | 2022-09-30 |  |
 | [Through The Years](https://open.spotify.com/track/4IF4gdjiml2hVIJSqC4cYV) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 4:09 | 2021-12-10 | 2022-07-26 |
 | [Till I Get It Right](https://open.spotify.com/track/0EOBoPMSZEbgrR4BtIKsKi) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/1FReBhpmD1xZ8wzgWun0dj) | 4:05 | 2022-01-21 | 2022-07-25 |
 | [Time Marches On \- The Bootlegger Sessions](https://open.spotify.com/track/51KtRR2OILi7YGatm53jxV) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Time Marches On \(The Bootlegger Sessions\)](https://open.spotify.com/album/5AhrX2VP17pnblF2ocPkgY) | 2:42 | 2022-09-09 | 2022-09-11 |

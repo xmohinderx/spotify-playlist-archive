@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44350,
+  "num_followers": 44347,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTkzNCxkYzQxNzhjMzg1YmQzN2ViYTQ1YTUxZDZiOGU1OTUxMmZiNDY0Y2U1",
+  "snapshot_id": "NTkzNyw0OTliZmUyNmU0MzMyNDczYTZiZjUyYTQ5MGMxYWEyZTI0NTM5ODNm",
   "tracks": [
+    {
+      "added_at": "2022-09-30 17:49:02",
+      "album": {
+        "name": "Tuxedo (feat. 24hrs)",
+        "url": "https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 166696,
+      "name": "Tuxedo (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0"
+    },
     {
       "added_at": "2022-09-27 19:56:29",
       "album": {
@@ -971,22 +991,6 @@
       "duration_ms": 182903,
       "name": "Such A Fool",
       "url": "https://open.spotify.com/track/0X3byZemxzyGTIIA7A2WGS"
-    },
-    {
-      "added_at": "2022-09-27 19:56:29",
-      "album": {
-        "name": "DROP",
-        "url": "https://open.spotify.com/album/18V8UhRyjkIdJJ6giY7J9F"
-      },
-      "artists": [
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        }
-      ],
-      "duration_ms": 169654,
-      "name": "DROP",
-      "url": "https://open.spotify.com/track/7xN35VVLctNoKT3A4khKqE"
     },
     {
       "added_at": "2022-09-27 19:56:29",

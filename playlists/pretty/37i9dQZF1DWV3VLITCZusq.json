@@ -1,12 +1,12 @@
 {
   "description": "A pop rock running mix.",
-  "num_followers": 155017,
+  "num_followers": 155233,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMTcyNiwwMDAwMDAwMDBkNDUzZmEyYzZkYjljZmUxOTg5ODhjYTMwMzU0MDRm",
+  "snapshot_id": "MTY2MDMwMTcyNiwwMDAwMDAwMDRiYjU3OTA2MGZmOWVhN2M3NjVjZTJhMzI4MTg0MWFh",
   "tracks": [
     {
       "added_at": "2022-08-12 10:55:26",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-08-12 10:55:26",
       "album": {
-        "name": "For Your Entertainment",
-        "url": "https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 227320,
-      "name": "Whataya Want from Me",
-      "url": "https://open.spotify.com/track/2rDwdvBma1O1eLzo29p2cr"
-    },
-    {
-      "added_at": "2022-08-12 10:55:26",
-      "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 229106,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
+    },
+    {
+      "added_at": "2022-08-12 10:55:26",
+      "album": {
+        "name": "For Your Entertainment",
+        "url": "https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "Whataya Want from Me",
+      "url": "https://open.spotify.com/track/2rDwdvBma1O1eLzo29p2cr"
     },
     {
       "added_at": "2022-08-12 10:55:26",

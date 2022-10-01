@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 141 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 141 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 117 | [Red Garter](https://open.spotify.com/track/4poGN4gbrb9WQwH8nBF2ds) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Milestones of Jazz Legends \- Duke Ellington and the His Vocalists, Vol\. 10](https://open.spotify.com/album/2kiemIGmKT7UaAgeSjXAP2) | 3:40 |
 | 118 | [Congo Square](https://open.spotify.com/track/6VyjJ9aklXIyIdYuNr9vMc) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Laika](https://open.spotify.com/artist/1x7QlgJUVrLv1SSyeknnJq) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:47 |
 | 119 | [Pentonsilic](https://open.spotify.com/track/4z6uEbBkt5mV4YXqykCrSV) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 11:56 |
-| 120 | [Love Has Passed Me By Again](https://open.spotify.com/track/7nvFlRf2uHSzdcfLaM6Hg4) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 |
-| 121 | [Le Sacre Supreme](https://open.spotify.com/track/1FTLzpRiRE8IEet0DSxXMt) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 |
+| 120 | [Le Sacre Supreme](https://open.spotify.com/track/1FTLzpRiRE8IEet0DSxXMt) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 |
+| 121 | [Love Has Passed Me By Again](https://open.spotify.com/track/7nvFlRf2uHSzdcfLaM6Hg4) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 |
 | 122 | [Ballet of the Flyin' Saucers](https://open.spotify.com/track/6vRq5rh1qGnRLyTTEbtFRh) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 4:48 |
 | 123 | [Bagatelle](https://open.spotify.com/track/0kcLxUVQkwb4qbBhj5KwHh) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:01 |
 | 124 | [Portrait of a Silk Thread](https://open.spotify.com/track/1ZgsLi4iqANiYLTRxevUmv) | [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/3Omjs5bBjpbgzCDK8v44e0) | 4:43 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 140 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 141 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjc3NDE3MjEsMDAwMDAwMDBmYTczZmQ4NjI5MWMyZGFmNGNlYjBlZmMzNmUwY2QwNg==`
+Snapshot ID: `Mjc3NDMxNjEsMDAwMDAwMDBmNzNhN2VhOTdkZjllZTM5OTYyMjBjOWM4ZWUyNmFlYg==`

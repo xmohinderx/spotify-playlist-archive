@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 68201,
+  "num_followers": 68345,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwNDQxOSwwMDAwMDAwMGNlZDQ3OTNmODIyNTllOTU3NTNjMzJjMjgxM2QxZjcw",
+  "snapshot_id": "MTY2NDIwNDQxOSwwMDAwMDAwMGNmYzIwMjdiMGJmMDc5N2JiN2M1M2Y3MDk0NTFjNjJi",
   "tracks": [
     {
       "added_at": "2022-09-26 15:00:19",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Reckless Tongue",
-        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
-      },
-      "artists": [
-        {
-          "name": "Airways",
-          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
-        }
-      ],
-      "duration_ms": 178795,
-      "name": "Reckless Tongue",
-      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Relationship Of Command",
         "url": "https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 260306,
       "name": "One Armed Scissor",
       "url": "https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Reckless Tongue",
+        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
+      },
+      "artists": [
+        {
+          "name": "Airways",
+          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
+        }
+      ],
+      "duration_ms": 178795,
+      "name": "Reckless Tongue",
+      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Buds",
-        "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 97543,
-      "name": "Baby Shea",
-      "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Abstract Figures in the Dark",
         "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 246005,
       "name": "Control",
       "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Buds",
+        "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 97543,
+      "name": "Baby Shea",
+      "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Anymore",
-        "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Come Down",
-      "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Keep Telling Myself It's Alright",
         "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 229080,
       "name": "The Stone",
       "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "The New Vice EP",
-        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
-      },
-      "artists": [
-        {
-          "name": "Otherkin",
-          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Yeah, I Know",
-      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Promise Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 222040,
       "name": "Aquasun",
       "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "The New Vice EP",
+        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
+      },
+      "artists": [
+        {
+          "name": "Otherkin",
+          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Yeah, I Know",
+      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "For Your Own Special Sweetheart",
-        "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
-      },
-      "artists": [
-        {
-          "name": "Jawbox",
-          "url": "https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Savory",
-      "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Four of Arrows",
         "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Asymmetry (Deluxe)",
-        "url": "https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37"
+        "name": "For Your Own Special Sweetheart",
+        "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
       },
       "artists": [
         {
-          "name": "Mallory Knox",
-          "url": "https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ"
+          "name": "Jawbox",
+          "url": "https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP"
         }
       ],
-      "duration_ms": 216160,
-      "name": "Ghost in the Mirror",
-      "url": "https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1"
+      "duration_ms": 279266,
+      "name": "Savory",
+      "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -903,6 +887,22 @@
       "duration_ms": 200912,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Asymmetry (Deluxe)",
+        "url": "https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37"
+      },
+      "artists": [
+        {
+          "name": "Mallory Knox",
+          "url": "https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Ghost in the Mirror",
+      "url": "https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Workbook",
-        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
       },
       "artists": [
         {
-          "name": "Bob Mould",
-          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
         }
       ],
-      "duration_ms": 212066,
-      "name": "See A Little Light",
-      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1095,6 +1079,22 @@
       "duration_ms": 273200,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Workbook",
+        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+      },
+      "artists": [
+        {
+          "name": "Bob Mould",
+          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "See A Little Light",
+      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Pushing the Senses",
-        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Pushing The Senses",
-      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "United By Fate",
         "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
       },
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Ride The Fader",
-        "url": "https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2"
-      },
-      "artists": [
-        {
-          "name": "Chavez",
-          "url": "https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "Unreal Is Here",
-      "url": "https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -1243,6 +1211,38 @@
       "duration_ms": 259266,
       "name": "Driving Nowhere",
       "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Pushing the Senses",
+        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Pushing The Senses",
+      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Ride The Fader",
+        "url": "https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2"
+      },
+      "artists": [
+        {
+          "name": "Chavez",
+          "url": "https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS"
+        }
+      ],
+      "duration_ms": 151706,
+      "name": "Unreal Is Here",
+      "url": "https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
+        "name": "United By Fate",
+        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
       },
       "artists": [
         {
-          "name": "Pist.On",
-          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
         }
       ],
-      "duration_ms": 237893,
-      "name": "Grey Flap",
-      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
+      "duration_ms": 167400,
+      "name": "Travel By Telephone",
+      "url": "https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Amusement Parks On Fire",
-        "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
       },
       "artists": [
         {
-          "name": "Amusement Parks On Fire",
-          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+          "name": "Pist.On",
+          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
         }
       ],
-      "duration_ms": 251293,
-      "name": "Smokescreen",
-      "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
+      "duration_ms": 237893,
+      "name": "Grey Flap",
+      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
+        "name": "Amusement Parks On Fire",
+        "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
+      },
+      "artists": [
+        {
+          "name": "Amusement Parks On Fire",
+          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Smokescreen",
+      "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/6ueu2LGKB7iuUZ6Gyz44CX"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 247360,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/704NoIIW2Jo98WFUViSqk1"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
-        "name": "United By Fate",
-        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
-      },
-      "artists": [
-        {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "Travel By Telephone",
-      "url": "https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Everything Is A-OK",
-        "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
+        "name": "Effloresce",
+        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
       },
       "artists": [
         {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+          "name": "Oceansize",
+          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
         }
       ],
-      "duration_ms": 268519,
-      "name": "Vacation Forever",
-      "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
+      "duration_ms": 400680,
+      "name": "Catalyst - Remastered",
+      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Effloresce",
-        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
       },
       "artists": [
         {
-          "name": "Oceansize",
-          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 400680,
-      "name": "Catalyst - Remastered",
-      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
+      "duration_ms": 268519,
+      "name": "Vacation Forever",
+      "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "All I Could Find Was You",
-        "url": "https://open.spotify.com/album/7AfAYOFV5QNrQksCTayutI"
-      },
-      "artists": [
-        {
-          "name": "Dowsing",
-          "url": "https://open.spotify.com/artist/0VvySnLLgB17dDSn0i4LVC"
-        }
-      ],
-      "duration_ms": 126621,
-      "name": "Amateur Cartography",
-      "url": "https://open.spotify.com/track/1sS7YyG4IEz0WjCuTmz224"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "A Song to Ruin",
         "url": "https://open.spotify.com/album/7xF7HQIu6FriHp6yPkE2Kv"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 175253,
       "name": "Smiling at Strangers on Trains",
       "url": "https://open.spotify.com/track/0F54dvs9C0v0snW9m6dSE1"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Forever Whatever",
+        "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
+      },
+      "artists": [
+        {
+          "name": "October Drift",
+          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
+        }
+      ],
+      "duration_ms": 238345,
+      "name": "Losing My Touch",
+      "url": "https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q"
     },
     {
       "added_at": "2022-09-26 15:00:19",

@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 262893,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 434960,
       "name": "Cameras / Good Ones Go Interlude - Medley",
       "url": "https://open.spotify.com/track/2FbGlEPAjNhWvrVvlentVq"
@@ -874,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
+    },
+    {
+      "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
@@ -1063,6 +1081,24 @@
       "duration_ms": 219847,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/77GOTBYCjJHCEJsZUdVcV1"
+    },
+    {
+      "album": {
+        "name": "The Blueprint 2 The Gift & The Curse",
+        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281240,
+      "name": "Excuse Me Miss",
+      "url": "https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5"
     },
     {
       "album": {
@@ -2021,7 +2057,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 187005,
       "name": "I'm Gonna Be (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/16C6yAxcA3GCtoXbq3dUYl"
@@ -2177,7 +2213,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 223093,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
@@ -3106,6 +3142,24 @@
     },
     {
       "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257959,
+      "name": "Steelo",
+      "url": "https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG"
+    },
+    {
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
       },
@@ -3117,7 +3171,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 203440,
       "name": "Suga Honey Iced Tea",
       "url": "https://open.spotify.com/track/6HjzGcCtnFNfzA3N1ftR2v"
@@ -3226,6 +3280,24 @@
     },
     {
       "album": {
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+    },
+    {
+      "album": {
         "name": "REDR\u00dcM",
         "url": "https://open.spotify.com/album/6OZfa3qYKpGQxi94t2aNPS"
       },
@@ -3317,6 +3389,28 @@
       "duration_ms": 254493,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+    },
+    {
+      "album": {
+        "name": "There's Something About Remy-Based On A True Story (Explicit)",
+        "url": "https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO"
+      },
+      "artists": [
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/1OL69uK0I7fWTIzDtKBmHP"
     },
     {
       "album": {

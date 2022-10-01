@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,230 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364,450 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 102 | [When Will I Learn](https://open.spotify.com/track/4fhDUKvSmbTtK4yrwV29Q2) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [A Force Majeure](https://open.spotify.com/album/3JQs8Qu80vtIekyP8JIrDH) | 2:49 |
 | 103 | [Slipping Away](https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:55 |
 | 104 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
-| 105 | [Love and Hate in a Different Time](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 |
+| 105 | [Love and Hate in a Different Time \- Demo](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 |
 | 106 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 |
 | 107 | [Queen of Paisley](https://open.spotify.com/track/2YwDDVHflNhUKgu70WR7OH) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [Queen of Paisley](https://open.spotify.com/album/68YvD3abQk3tHk3blTVnRF) | 4:04 |
 | 108 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 |

@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-94 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+99 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Geometric \- Version 2](https://open.spotify.com/track/5SnPJfIBhEMN8V8a5hyBJi) | [Atmoda](https://open.spotify.com/artist/09MhmAWoBHWYVo2RyKlcYw) | [Geometric](https://open.spotify.com/album/6L1cljzvurPjMM11yhel01) | 2:57 | 2022-08-19 |  |
 | [Havasu](https://open.spotify.com/track/66V97mH6dRUB1O4KsK328B) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Havasu](https://open.spotify.com/album/51OEnFQxXRMJBemtp0qSLV) | 3:12 | 2022-08-05 |  |
 | [Ikigai](https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN) | [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Ikigai](https://open.spotify.com/album/1O3jxw1VI6uYIT7BRrLpBi) | 4:55 | 2022-08-05 |  |
+| [illusions](https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [illusions](https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5) | 3:43 | 2022-09-30 |  |
 | [Interstellar Ruins](https://open.spotify.com/track/6d5wz6VzwcpMlFENLAF0Az) | [Sensitizer](https://open.spotify.com/artist/5FSgpmqkFLPCQCHEYOIddp), [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [Interstellar Ruins](https://open.spotify.com/album/5eoCvr5AkvNTR3wS9O58HS) | 4:58 | 2022-08-05 |  |
 | [Iridescent Path](https://open.spotify.com/track/4tHjZx4Z77XSC64Zhai6MG) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Somnolent](https://open.spotify.com/album/7mtYE21I5eKozv4spdgauR) | 5:51 | 2022-08-05 |  |
 | [Isolation Horizon](https://open.spotify.com/track/5jPLFbehCOcUgkD0rZT2en) | [Alonefold](https://open.spotify.com/artist/1QUEqlh17KdAgKrkMuakMp) | [Remote Textures](https://open.spotify.com/album/2Ac2UuDsnSC90hooCxxQkD) | 8:52 | 2022-08-05 |  |
@@ -62,6 +63,8 @@
 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 | 2022-08-05 |  |
 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob) | 5:08 | 2022-08-05 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-09-08 |  |
+| [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
+| [Midnight Stargazer](https://open.spotify.com/track/6Out5GTmU6YqaQ8R2l6P4F) | [Relief](https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx) | [Music for Commuters](https://open.spotify.com/album/4T7mM7FaVFCPOGrvrxAWy2) | 3:32 | 2022-09-30 |  |
 | [Name Of The Call](https://open.spotify.com/track/1uAvCdU0SqENVeE7YychPF) | [Severard](https://open.spotify.com/artist/6vjU9QfC9H7ZvCrve6fC0E) | [Name Of The Call](https://open.spotify.com/album/4n0A10P0pDw8bIHED77Xfn) | 4:03 | 2022-08-05 |  |
 | [Night Shineth As the Day](https://open.spotify.com/track/48RJ1YNLNeqMlPtFkHcHRm) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [zakè](https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF) | 5:28 | 2022-08-05 |  |
 | [Novae](https://open.spotify.com/track/7sYaDAxaJiY7e0HALJOG2e) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Novae](https://open.spotify.com/album/2GjP1BHQaHhTz9mimNqiEf) | 3:37 | 2022-08-05 |  |
@@ -69,7 +72,9 @@
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-09-08 |  |
 | [Old Beginnings](https://open.spotify.com/track/3WqjDcsXXyTMB5TGOP0a1o) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8) | [Old Beginnings](https://open.spotify.com/album/5BKi1W9OrABRnoNptnq5Xy) | 3:09 | 2022-08-05 |  |
 | [Origins](https://open.spotify.com/track/3hzCjWGnOEMYXPILE79w77) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Origins](https://open.spotify.com/album/5jqwLg6aGv8kcVFejF3K9x) | 5:00 | 2022-08-05 |  |
+| [otsukimi \(moon viewing\)](https://open.spotify.com/track/4b2oGauzFfbbsCmsS4ehxK) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [otsukimi \(moon viewing\)](https://open.spotify.com/album/4w8BVPuYdZtKyGkQJqhlxh) | 3:21 | 2022-09-30 |  |
 | [Out of Space](https://open.spotify.com/track/06zuEMpJ8wXtgaYNMM6dvF) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [Comfort in Ignorance](https://open.spotify.com/album/3JC9H1wm2xeOIf2ZkOK7LO) | 5:46 | 2022-08-05 |  |
+| [Pacific Dreams](https://open.spotify.com/track/13wWc3pKPzBVmpX6YinHXe) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Pacific Dreams](https://open.spotify.com/album/3ulMrPlS5JtEWM0LVR3L58) | 3:17 | 2022-09-30 |  |
 | [Permafrost](https://open.spotify.com/track/45PBjkgUpbwfK4ffF3yOOE) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Dead Air](https://open.spotify.com/album/24Aqg4RHtwrkml6eQwG7u7) | 4:07 | 2022-08-19 |  |
 | [Pléiades](https://open.spotify.com/track/2GqEEY3T2Oevy0hc9XVVsX) | [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [Pléiades](https://open.spotify.com/album/7ijZlAget4sYjZtSk1Wt59) | 4:02 | 2022-08-05 |  |
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-130 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
+131 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Take My Name](https://open.spotify.com/track/50fXFVykkwS6Om9eqjTK44) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Songs from 'For You'](https://open.spotify.com/album/01z0MEI8EPxiAl1GvgRovl) | 2:37 | 2021-11-05 | 2022-07-29 |
 | [Take My Name \- Wedding Version](https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z) | 2:54 | 2022-05-20 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2021-09-17 |  |
-| [That's Why](https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5) | 3:01 | 2022-03-25 |  |
+| [That's Why](https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5) | 3:01 | 2022-03-25 | 2022-10-01 |
+| [That's Why](https://open.spotify.com/track/5o9OzeMgVLS1TPOp0fS5Y6) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/6aj6PTILn9jvGP22OHye06) | 3:01 | 2022-05-23 |  |
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2021-09-17 | 2022-07-29 |
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2022-05-23 |  |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-09-17 |  |

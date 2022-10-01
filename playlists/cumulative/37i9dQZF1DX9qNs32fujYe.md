@@ -2,7 +2,7 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Disturbed
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Ghost
 
 655 songs - 2 day 0 hr 53 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 

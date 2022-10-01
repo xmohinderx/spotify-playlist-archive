@@ -1,12 +1,12 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7793,
+  "num_followers": 7794,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MTkxNSwxY2Y4NDZlZGFmNTM5Y2ZmYzE5NTY4ZDQwYTgzZTE3YmNjOTgzNGNj",
+  "snapshot_id": "MTkxOCw4NWE1NGE3OGEyZWZiNTkxM2YwOGNmYWM0ODE1NmJjOWY5OTljMGUx",
   "tracks": [
     {
       "added_at": "2022-08-26 13:44:59",
@@ -71,6 +71,30 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2022-09-30 13:41:02",
+      "album": {
+        "name": "It's Not Me It's You",
+        "url": "https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "9 Lives (feat. Polo G & NLE Choppa)",
+      "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
     },
     {
       "added_at": "2022-09-16 13:34:39",
@@ -963,26 +987,6 @@
       "duration_ms": 198670,
       "name": "CUFFIN (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
-    },
-    {
-      "added_at": "2021-12-17 16:08:46",
-      "album": {
-        "name": "Feeling Myself (feat. DJ Drama)",
-        "url": "https://open.spotify.com/album/78vPH1YGbwtqZuF0sFcFv7"
-      },
-      "artists": [
-        {
-          "name": "Poundside Pop",
-          "url": "https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 143573,
-      "name": "Feeling Myself (feat. DJ Drama)",
-      "url": "https://open.spotify.com/track/4c9fF18rZHbsA8X8apjuRd"
     },
     {
       "added_at": "2022-06-10 13:36:37",

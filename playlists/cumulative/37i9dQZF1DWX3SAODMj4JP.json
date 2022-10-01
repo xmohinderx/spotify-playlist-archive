@@ -436,6 +436,28 @@
     },
     {
       "album": {
+        "name": "Ele Far\u00e1",
+        "url": "https://open.spotify.com/album/24Mg0aXWn9UAUFRBbd7jlx"
+      },
+      "artists": [
+        {
+          "name": "Tiago Duarte",
+          "url": "https://open.spotify.com/artist/4YvseyTTL4ReKpJvATPCc5"
+        },
+        {
+          "name": "Joyce Carnassale",
+          "url": "https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211416,
+      "name": "Ele Far\u00e1",
+      "url": "https://open.spotify.com/track/5RI306qvVfFeOrc0Gly2Zr"
+    },
+    {
+      "album": {
         "name": "Ent\u00e3o Vem",
         "url": "https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d"
       },
@@ -1263,7 +1285,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 279367,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/5n9hgqQ5qkHLaoR4Cxwd1c"

@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-238 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+239 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Euphrosyne](https://open.spotify.com/track/7arWoSrPeW1uiCGbCu0Igm) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Euphrosyne](https://open.spotify.com/album/7BlXg4aB6bpzIsYP5wqrVT) | 2:39 | 2021-12-08 |  |
 | [Evolving](https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR) | [Sidney Ashenhurst](https://open.spotify.com/artist/6pnBX8wymywCxqY7FiXEsN) | [Evolving](https://open.spotify.com/album/2g0MPVqI9fbAVrn64n3YmI) | 2:03 | 2021-12-08 |  |
 | [Fading Out](https://open.spotify.com/track/1GG2rqEQi9OyH1pA8A7qGl) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Integrating](https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi) | 4:07 | 2021-12-08 |  |
-| [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2021-12-08 |  |
+| [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2021-12-08 | 2022-10-01 |
 | [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 | 2021-12-08 |  |
 | [Felidae](https://open.spotify.com/track/7H5oDBhgS4ZKeHGUgD0jpo) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [Felidae](https://open.spotify.com/album/4P3ktQbRMauYGxulDJd2ai) | 3:07 | 2021-12-08 |  |
 | [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2021-12-08 |  |
@@ -183,6 +183,7 @@
 | [Secret Water](https://open.spotify.com/track/4SWn136gXYwVYOQDta5dw6) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Secret Water](https://open.spotify.com/album/3YgnlQBSQIqMXWjFNXSSke) | 3:44 | 2021-12-08 |  |
 | [Self Disintegrator](https://open.spotify.com/track/53p4YtXM09rYmXAtcpccfh) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Yet Undiscovered](https://open.spotify.com/album/5DKtUx5YIWfeT0LKsrCY2R) | 4:00 | 2021-12-08 | 2022-08-24 |
 | [Self\-Reflection](https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Self\-Reflection](https://open.spotify.com/album/10khRZPxXlxObbjZGHWLpV) | 2:50 | 2021-12-08 |  |
+| [Semper Fidelis](https://open.spotify.com/track/554NJ5Ny6aTx4UqUG07BsW) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 3:18 | 2022-09-30 |  |
 | [Separated](https://open.spotify.com/track/24Q4s34r5lTO9bCkdZnNaO) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Separated](https://open.spotify.com/album/3PGOAxYU1IJgQgwTY0ddSQ) | 2:37 | 2021-12-08 |  |
 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 | 2021-12-08 |  |
 | [Serenity of Touch](https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Serenity of Touch](https://open.spotify.com/album/3xyRep7OzHkL9laLeiB6Ci) | 2:20 | 2021-12-08 |  |

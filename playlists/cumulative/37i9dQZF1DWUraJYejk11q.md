@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-189 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+190 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,13 +126,14 @@
 | [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2021-10-15 | 2022-04-23 |
 | [Persuasion System](https://open.spotify.com/track/12RJmMBPv5onWiQosLJ6ZI) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Persuasion System](https://open.spotify.com/album/2Takb3WbmLXRVvXiFfnjnk) | 3:49 | 2021-10-15 | 2022-03-31 |
 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 | 2022-08-03 |  |
+| [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-10-01 |  |
 | [Prometheus](https://open.spotify.com/track/2qNqhFlOdwEA5OMheOrome) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Prometheus](https://open.spotify.com/album/5yiLeekDCLQVR5cx53snW2) | 4:47 | 2021-10-15 | 2022-02-10 |
 | [Promise You'll Haunt Me](https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 6:33 | 2021-10-15 | 2022-01-20 |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-25 | 2022-01-12 |
 | [Raw Cutz](https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC) | [Tim Sean\-Lee](https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I) | [Octo](https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ) | 4:49 | 2022-03-09 | 2022-08-04 |
 | [Re\-Wild \(Breaka Remix\)](https://open.spotify.com/track/2aaEMU2r1cZxD5Yw9wH3rg) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Inner Song Remix Series](https://open.spotify.com/album/3cBnpVzF3oRpBqtvoEVvbA) | 5:16 | 2021-10-15 | 2022-02-10 |
 | [Rhino](https://open.spotify.com/track/2HzRf22923yy1kTNNuE7kC) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu) | 3:03 | 2021-10-15 | 2022-02-10 |
-| [Right to Riot](https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Right to Riot](https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT) | 5:00 | 2022-09-28 |  |
+| [Right to Riot](https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Right to Riot](https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT) | 5:00 | 2022-09-27 |  |
 | [Rockledge 3A](https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak) | 4:36 | 2021-10-15 | 2022-07-29 |
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2021-10-15 | 2022-02-01 |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-07-15 |  |
@@ -163,7 +164,7 @@
 | [Talaria](https://open.spotify.com/track/2OAPybo0X5gpwyMAEnkJFA) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Talaria](https://open.spotify.com/album/6kZQMVK65YS2g3UuKZF1N2) | 5:15 | 2022-01-13 | 2022-07-16 |
 | [Talk to Me](https://open.spotify.com/track/2bfLkpwxog2kK4QeJf6I3T) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 3:42 | 2021-10-15 | 2022-01-20 |
 | [Tapestry \- Edit](https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn) | [Dainty](https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr) | [Tapestry](https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84) | 3:42 | 2022-08-13 |  |
-| [Taurus](https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G) | 4:42 | 2022-01-14 |  |
+| [Taurus](https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G) | 4:42 | 2022-01-14 | 2022-10-01 |
 | [TEMPERATE](https://open.spotify.com/track/0Km1rOj3tEaZKGjIbHDfd0) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 4:19 | 2022-01-11 | 2022-08-25 |
 | [The Accident](https://open.spotify.com/track/41Ff5UlYl58MBR4hpLSHSl) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Accident](https://open.spotify.com/album/42msjp6Mvx8xMtBANlKuT9) | 4:36 | 2021-10-15 | 2022-02-10 |
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-10-15 | 2022-01-06 |

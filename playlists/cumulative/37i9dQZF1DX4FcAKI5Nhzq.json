@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: Crush",
+  "description": "Future K-Pop hits! Cover: BIBI",
   "name": "K-Pop Rising",
   "published_playlist_ids": [
     "365X6AQFdYqkXtDjWksHVf"
@@ -587,6 +587,24 @@
       "duration_ms": 181280,
       "name": "ANI(feat.SOYEON ((G)I-DLE))",
       "url": "https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs"
+    },
+    {
+      "album": {
+        "name": "Animal Farm",
+        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203945,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
     },
     {
       "album": {
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 190889,
       "name": "Boogie Woogie",
       "url": "https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP"
@@ -1499,6 +1517,24 @@
       "duration_ms": 208480,
       "name": "BRAIN",
       "url": "https://open.spotify.com/track/4lAToXJW9Lvc8etF42IcoF"
+    },
+    {
+      "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "album": {
@@ -4715,7 +4751,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 158213,
       "name": "Honey Drop (Feat. Lil Cherry)",
       "url": "https://open.spotify.com/track/6oDLaTN3k2g8n74Cyup2FO"
@@ -6338,6 +6374,24 @@
     },
     {
       "album": {
+        "name": "Adorable REbirth",
+        "url": "https://open.spotify.com/album/6ZbPQ1lNnDy2Xad9BGJcNa"
+      },
+      "artists": [
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211746,
+      "name": "Magical Symphony",
+      "url": "https://open.spotify.com/track/2BxWLZH5trnKhJruqWfCxy"
+    },
+    {
+      "album": {
         "name": "\u56de:Walpurgis Night",
         "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
       },
@@ -7879,6 +7933,24 @@
       "duration_ms": 195333,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy"
+    },
+    {
+      "album": {
+        "name": "NEW WAVE",
+        "url": "https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184533,
+      "name": "PARTY ROCK",
+      "url": "https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y"
     },
     {
       "album": {
@@ -9681,7 +9753,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 195653,
       "name": "Stay This Way",
       "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
@@ -10997,7 +11069,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192026,
       "name": "Up!",
       "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"

@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Kim Scott
 
-273 songs - 19 hr 20 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
+274 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Gift to the World](https://open.spotify.com/track/7dmEXRsuWBSi4gsbjA4f4S) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Gift to the World](https://open.spotify.com/album/0AiFnIPpeIMFWpCBZJmX8y) | 4:04 | 2021-06-04 | 2022-07-29 |
 | [Give Me Your Love](https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7) | [Mark Allen Felton](https://open.spotify.com/artist/3WnIsv9TaH1unkErOs83GK) | [Give Me Your Love](https://open.spotify.com/album/76rdABxCKq6lEAVTWvjU3n) | 3:52 | 2022-02-25 | 2022-07-25 |
 | [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 | 2022-05-20 |  |
+| [H.A.D\. \(featuring Chieli Minucci\)](https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [H.A.D.](https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ) | 4:13 | 2022-10-01 |  |
 | [Hear At Last](https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu) | [Mark Jaimes](https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E) | [Hear at Last](https://open.spotify.com/album/3QWI2FECarl04d4WF2COUe) | 3:56 | 2021-07-23 | 2022-07-24 |
 | [Heart To Heart](https://open.spotify.com/track/3BB10qk3KvJ5dfUYpIG3yU) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 4:11 | 2020-10-30 | 2022-03-18 |
 | [Heat](https://open.spotify.com/track/3a7zmPCdfzu6JKwTpPPoNP) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Heat](https://open.spotify.com/album/6rFoUDFCO3v0HqXUlxlsGB) | 3:53 | 2021-01-08 | 2022-03-18 |
@@ -257,7 +258,7 @@
 | [The Weekend](https://open.spotify.com/track/4ZRJKcvq2NKpw1wHP5MwqS) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [The Weekend](https://open.spotify.com/album/1AuE8kvj5qqMFcV53Um7tw) | 3:59 | 2020-10-30 | 2022-03-18 |
 | [The Winds of Change](https://open.spotify.com/track/4BwFSH3jSwvqx5SOP9Fxhr) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Fahir Atakoglu](https://open.spotify.com/artist/4zbXSXn32mW4u8p3sDFYc4) | [The Winds of Change](https://open.spotify.com/album/4PTqWXV53JV7KXwrqdIrzf) | 3:35 | 2021-05-21 | 2022-03-07 |
 | [There's Always Tomorrow](https://open.spotify.com/track/3NsKujm7IIHMpcjJ2Qtmo1) | [Darryl Williams](https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM) | [There's Always Tomorrow](https://open.spotify.com/album/0QmjDjJ3diT2GD3dBth8uK) | 4:09 | 2020-10-30 | 2022-03-15 |
-| [Think Critically](https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st) | [Think Critically](https://open.spotify.com/album/3yqlMgLOD7vcIr709YGGt5) | 4:11 | 2022-02-18 |  |
+| [Think Critically](https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st) | [Think Critically](https://open.spotify.com/album/3yqlMgLOD7vcIr709YGGt5) | 4:11 | 2022-02-18 | 2022-10-01 |
 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 | 2022-04-29 |  |
 | [Tonic](https://open.spotify.com/track/6cgKf3UVdiMaFqDSaNDwnA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 4:17 | 2020-10-30 | 2022-03-18 |
 | [Tribute](https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tribute](https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl) | 4:05 | 2022-08-26 |  |

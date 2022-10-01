@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,652 likes - 65 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,766 likes - 65 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 |
 | 2 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 |
-| 3 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 |
+| 3 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 |
 | 4 | [Favela Sinistra](https://open.spotify.com/track/3G8gF1ClzlQBV66fz6S6JB) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Us Fracu Num Tem Veiz](https://open.spotify.com/album/0biw33bgZqGqmrxjGp0e3b) | 3:35 |
 | 5 | [Ucê Lembra](https://open.spotify.com/track/04KQ5fhrzEdfGB2L3OJJSv) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Ester Mello](https://open.spotify.com/artist/30DjiOaSbDvlqJQGkJAQZo), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI) | [Ucê Lembra](https://open.spotify.com/album/5UfHBBQWL96CR6saMUKmUz) | 5:24 |
 | 6 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [A Arte Do Barulho](https://open.spotify.com/album/5ZfSz6IVs85lm5zRxlvAZi) | 2:55 |

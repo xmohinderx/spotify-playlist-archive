@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Casting Crowns
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,505 likes - 104 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,571 likes - 104 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 61 | [Friend](https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Friend](https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D) | 3:48 |
 | 62 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 | 63 | [Our Eyes Are on You \(feat\. Elle Limebear\) \- Radio Edit](https://open.spotify.com/track/0oZhJWU3KrgOMIMulgQauu) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are on You \(feat\. Elle Limebear\) \[Radio Edit\]](https://open.spotify.com/album/5NRfD3h5nnigXlXZRojIeH) | 4:24 |
-| 64 | [Narrow Road](https://open.spotify.com/track/2aslD8gmcu8uHxBXaIQUtF) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [I See The Light](https://open.spotify.com/album/2dHaMmJsjwdJeWx1M356ER) | 4:05 |
+| 64 | [Narrow Road](https://open.spotify.com/track/0bk6K6OtdTVQownDeQRoEo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 4:05 |
 | 65 | [Take Shelter](https://open.spotify.com/track/6FWu5yUk5TlhKDpzVZ5wpF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Take Shelter](https://open.spotify.com/album/3xj8iUGTuFURWMEp07yJNq) | 4:19 |
 | 66 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 |
 | 67 | [Joy In The Morning](https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:36 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 103 | [Getting Started \- Radio Version](https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Getting Started \(Radio Version\)](https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a) | 3:39 |
 | 104 | [Sunday Sermons](https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:20 |
 
-Snapshot ID: `MTY2MTUwOTM3MywwMDAwMDAwMDI2Mzk3M2ViOThiOWY5OWI5MjMxMTkzYWJkZDU2MzZi`
+Snapshot ID: `MTY2MTUwOTM3MywwMDAwMDAwMGMwN2M2NjdjNmJlNjExZjliZWZlZmY1MTljMjk5Mjhh`

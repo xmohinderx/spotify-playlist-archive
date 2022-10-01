@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-207 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
+208 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [isolation](https://open.spotify.com/track/4KZkW8LH1lwJDkVkzStUaH) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:45 | 2022-01-12 | 2022-06-29 |
 | [Journey Within \(432hz\)](https://open.spotify.com/track/7KdB7kgzKuPpgEKVagZcwE) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Journey Within \(432hz](https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4) | 4:00 | 2022-01-12 | 2022-07-29 |
 | [Journey Within \(432hz\) \- Without Ambience](https://open.spotify.com/track/4Y3z3qQRb6cwQouwqD8UoM) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Journey Within \(432hz](https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4) | 4:00 | 2022-01-12 | 2022-04-22 |
-| [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2022-01-12 |  |
+| [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2022-01-12 | 2022-10-01 |
 | [Kama](https://open.spotify.com/track/1SCV472JdWgdTVieHOEale) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Kama](https://open.spotify.com/album/5NNGEQOYsonnzf3fwEiwj3) | 3:40 | 2022-04-13 | 2022-09-19 |
 | [Kissing the Ambience](https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Kissing the Ambience](https://open.spotify.com/album/5POHqBiKAdGSvvLtIE8AZP) | 3:06 | 2022-01-12 |  |
 | [Lago de Atitlán](https://open.spotify.com/track/08KQZAu0iL2E4CHwwmUIjS) | [Scarlet Becker](https://open.spotify.com/artist/2yLkuHA25r5rTMKZI6iLUN) | [Lago de Atitlán](https://open.spotify.com/album/2wd9XA2cXAZO4L6Wn6qNo2) | 3:12 | 2022-01-12 |  |
@@ -179,6 +179,7 @@
 | [Silent Whispers](https://open.spotify.com/track/4zXfPzjyYjS59WBpaBJSbs) | [Mutant Melodies](https://open.spotify.com/artist/6O0e9FFocYLN5RQV3fwWXw) | [Distant Memories Of You](https://open.spotify.com/album/49AtpvtKhANqidVRLFIgTK) | 2:24 | 2022-01-12 |  |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-15 |  |
 | [Slumber](https://open.spotify.com/track/2kLz6daV1GOseCfsNcpRWV) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Slumber](https://open.spotify.com/album/7uuEvVQ919w5vDNPCIiPfz) | 3:08 | 2022-01-12 |  |
+| [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-30 |  |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2022-01-12 |  |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-01-12 |  |
 | [Spiritual Pressure](https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Somniac](https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX) | 2:50 | 2022-01-12 | 2022-07-27 |

@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 227504,
       "name": "got you",
       "url": "https://open.spotify.com/track/5JIUkZ1YiJXZXg4Se2fE3R"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 240805,
       "name": "I Guess We'll Never Know",
       "url": "https://open.spotify.com/track/4KlPLWfN7kFhDYBZBidfGE"
@@ -2302,6 +2320,24 @@
     },
     {
       "album": {
+        "name": "Angels & Queens - Part I",
+        "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252135,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
+    },
+    {
+      "album": {
         "name": "Songs Like These",
         "url": "https://open.spotify.com/album/6CyBHWNGfph10i6q4cRysI"
       },
@@ -2375,7 +2411,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 217800,
       "name": "Just for the Day",
       "url": "https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd"
@@ -4187,7 +4223,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 177982,
       "name": "Slow Dance In The Morning",
       "url": "https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa"
@@ -4223,7 +4259,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 216200,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1"
@@ -5069,7 +5105,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 197746,
       "name": "Why Don't You Touch Me",
       "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"

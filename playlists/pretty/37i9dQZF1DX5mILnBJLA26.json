@@ -1,13 +1,33 @@
 {
   "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=4uFZWx8kRsKUgoGaPtB92Q\">Pabi Cooper</a>",
-  "num_followers": 343568,
+  "num_followers": 344240,
   "original_name": "AmaPiano Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMGY5NzEzYTE4NmZiMDgwMzc2OWQwM2U4NTUyOTI4NjJj",
+  "snapshot_id": "MTY2NDU0OTYyMSwwMDAwMDAwMGVlOGQ2NTk3YjhiMmY0NzQzYWRkZmJjYjNjMWU2OTNm",
   "tracks": [
+    {
+      "added_at": "2022-09-30 14:53:41",
+      "album": {
+        "name": "Waga Bietjie",
+        "url": "https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48"
+      },
+      "artists": [
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "Waga Bietjie",
+      "url": "https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr"
+    },
     {
       "added_at": "2022-09-01 21:59:00",
       "album": {

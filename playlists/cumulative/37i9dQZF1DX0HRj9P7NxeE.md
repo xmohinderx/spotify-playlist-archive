@@ -4,7 +4,7 @@
 
 > Get your body right with this workout twerkout
 
-151 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
+152 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Fuck Fame](https://open.spotify.com/track/1xbkxWYM5Th6jOBBhWkzQL) | [SkyLar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1) | [Fuck Fame](https://open.spotify.com/album/3JxqimBHEPJW26KvtCl3YW) | 2:35 | 2022-02-11 | 2022-03-12 |
 | [Fuck It Up](https://open.spotify.com/track/0DFKrmx5uIo71gPm6VtPgq) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [BALIPRINT](https://open.spotify.com/album/7h9NtyH8tMRvzRCWSJeDTE) | 2:12 | 2022-07-15 | 2022-09-24 |
 | [Fuck It Up](https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Fuck It Up](https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX) | 2:12 | 2022-02-04 | 2022-07-29 |
-| [Gas You Up](https://open.spotify.com/track/2gX4yskSvJ8cjb5AolS0gT) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Gas You Up](https://open.spotify.com/album/5f8xhT86BR8tW1Fmaqey6A) | 2:37 | 2022-05-13 |  |
+| [Gas You Up](https://open.spotify.com/track/2gX4yskSvJ8cjb5AolS0gT) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Gas You Up](https://open.spotify.com/album/5f8xhT86BR8tW1Fmaqey6A) | 2:37 | 2022-05-13 | 2022-10-01 |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2021-09-03 |  |
 | [Get It Girl](https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Get It Girl](https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS) | 2:45 | 2022-03-18 |  |
 | [Gimme Head](https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Gimme Head](https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2) | 2:59 | 2022-06-17 | 2022-07-09 |
@@ -96,6 +96,7 @@
 | [Only Fans](https://open.spotify.com/track/30rFgno7XHikw8uS7t3pFN) | [T.O Green](https://open.spotify.com/artist/0iBJLwyU8STB6WkgQus20B), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Only Fans](https://open.spotify.com/album/0qldWIS3MjVcRBY1F9N0kd) | 2:34 | 2022-03-25 | 2022-04-16 |
 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 | 2022-02-25 | 2022-03-18 |
 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 | 2022-02-25 | 2022-04-23 |
+| [Perfect](https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:52 | 2022-09-30 |  |
 | [Period Pooh](https://open.spotify.com/track/5fD2CAbxz7EYzGV8jFWcBe) | [Asianae](https://open.spotify.com/artist/0TjFDv09c7EAXTEkqNHRuE) | [Period Pooh](https://open.spotify.com/album/6Fjm17aKGFPbSWhU804xiJ) | 2:37 | 2022-02-04 | 2022-03-12 |
 | [Pop Dat](https://open.spotify.com/track/69IaTU22g3APresMDbF4g9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 2:06 | 2022-06-17 |  |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-02-04 | 2022-06-18 |

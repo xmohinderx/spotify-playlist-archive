@@ -1,13 +1,29 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 488896,
+  "num_followers": 488941,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDUyOTBlNTM1NDNiMDQ1NmQwMDIzOWJiMjNkNjVlNGRh",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDE1YTg1ZDkzZGY5NjAyZDYxNmZmNmUwNGQzZjJlYmZk",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Angels & Queens - Part I",
+        "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 252135,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
+    },
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
@@ -25,84 +41,20 @@
       "url": "https://open.spotify.com/track/008QeRP6MiaUbAYC5lVl6b"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Just for the Day",
-        "url": "https://open.spotify.com/album/3DTiE4gQOSaKuMTVvc5amh"
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
       },
       "artists": [
         {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
         }
       ],
-      "duration_ms": 217800,
-      "name": "Just for the Day",
-      "url": "https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Kinda Not Really",
-        "url": "https://open.spotify.com/album/1ZbaZDxWapi9AT2uA9zPGX"
-      },
-      "artists": [
-        {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
-        }
-      ],
-      "duration_ms": 240805,
-      "name": "I Guess We'll Never Know",
-      "url": "https://open.spotify.com/track/4KlPLWfN7kFhDYBZBidfGE"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Slow Dance In The Morning",
-        "url": "https://open.spotify.com/album/5fntL2bwIaX4rZhK7IZgBb"
-      },
-      "artists": [
-        {
-          "name": "Jesse Gold",
-          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
-        }
-      ],
-      "duration_ms": 177982,
-      "name": "Slow Dance In The Morning",
-      "url": "https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "got you",
-        "url": "https://open.spotify.com/album/4LyOxAiCtqlroaqVRFugB5"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lauren Callihan",
-          "url": "https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2"
-        }
-      ],
-      "duration_ms": 227504,
-      "name": "got you",
-      "url": "https://open.spotify.com/track/5JIUkZ1YiJXZXg4Se2fE3R"
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -119,6 +71,22 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -401,22 +369,6 @@
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
@@ -439,6 +391,22 @@
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -489,22 +457,6 @@
       "url": "https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "duration_ms": 197867,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "Weed Garden",
@@ -519,6 +471,22 @@
       "duration_ms": 195200,
       "name": "Autumn Town Leaves",
       "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "duration_ms": 197867,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -609,22 +577,6 @@
       "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Ivory",
@@ -639,6 +591,22 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -741,22 +709,6 @@
       "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "After All",
-        "url": "https://open.spotify.com/album/24gkn5s8FRrzke3fjt2GmK"
-      },
-      "artists": [
-        {
-          "name": "Rob Baird",
-          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Hello World",
@@ -771,6 +723,22 @@
       "duration_ms": 159345,
       "name": "Sky is the Limit",
       "url": "https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/24gkn5s8FRrzke3fjt2GmK"
+      },
+      "artists": [
+        {
+          "name": "Rob Baird",
+          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -879,22 +847,6 @@
     {
       "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 111710,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
@@ -923,6 +875,22 @@
       "duration_ms": 153693,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 111710,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
     },
     {
       "added_at": "2021-11-19 05:01:00",
@@ -961,22 +929,6 @@
       "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Purple Haze",
@@ -991,6 +943,22 @@
       "duration_ms": 205395,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -1117,22 +1085,6 @@
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "once in a moon",
-        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 245175,
-      "name": "once in a moon",
-      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
-    },
-    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Growth",
@@ -1167,6 +1119,22 @@
       "duration_ms": 175413,
       "name": "(Wish I Didn't Have to) Lie [feat. JORDY]",
       "url": "https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "once in a moon",
+        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 245175,
+      "name": "once in a moon",
+      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -1211,6 +1179,38 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Why Don't You Touch Me",
+        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Why Don't You Touch Me",
+      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Fun Machine: The Sequel",
+        "url": "https://open.spotify.com/album/5O41WrYns4BBDOtvVx1JFM"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1"
     }
   ],
   "unique_name": "Mellow Morning",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: CKay \ud83c\uddf3\ud83c\uddec ",
+  "description": "Inspired by African drums. Cover: Ayra Starr, Kelly Rowland \ud83c\uddf3\ud83c\uddec \ud83c\uddfa\ud83c\uddf8",
   "name": "Crxss Current",
   "published_playlist_ids": [
     "3Nva1foeKA4kN9RYANT1NX"
@@ -456,6 +456,32 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/7r7JMmXSL78LgTwpCb0RA9"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        },
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133535,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3x8vHQ7puLfFcifPHlnf5I"
+    },
+    {
+      "album": {
         "name": "Big Business",
         "url": "https://open.spotify.com/album/0A5jkPBv9CHh422XJJQVGi"
       },
@@ -681,6 +707,28 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
+    },
+    {
+      "album": {
+        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
+        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
+      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
       "album": {
@@ -1434,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "Three Rocks and a Slingshot",
+        "url": "https://open.spotify.com/album/0ruEs6gcbL2jDvNsyVV5oF"
+      },
+      "artists": [
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164902,
+      "name": "Fool Fool Gyal",
+      "url": "https://open.spotify.com/track/5vFGWNDVKfmdFEezT74Nbt"
+    },
+    {
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -1569,7 +1635,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 224000,
       "name": "Gettin' Hot",
       "url": "https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ"
@@ -1825,7 +1891,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 207611,
       "name": "Henny-Piano",
       "url": "https://open.spotify.com/track/2ZcTMjds03ptgGIvLKp2gc"
@@ -3582,6 +3648,58 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4BqJguRA6wWDFVwRxdQJHB"
+      },
+      "artists": [
+        {
+          "name": "Ras Kwame",
+          "url": "https://open.spotify.com/artist/2MRzffryTGR8dsCLSl5owg"
+        },
+        {
+          "name": "Myx Quest",
+          "url": "https://open.spotify.com/artist/6JmBU7YwghMOJWV31Su7Ra"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3ExMrqRmSf7KYz4DYehvFj"
+    },
+    {
+      "album": {
+        "name": "Pumpum",
+        "url": "https://open.spotify.com/album/7GqkmPXULtO3vxtRVxMQ8k"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Pumpum",
+      "url": "https://open.spotify.com/track/6gsuZ3e7vnKJhvbHLmXQqA"
+    },
+    {
+      "album": {
         "name": "Pusana",
         "url": "https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD"
       },
@@ -3619,7 +3737,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 110304,
       "name": "Rain (with Skillibeng)",
       "url": "https://open.spotify.com/track/72B58POFUOTpDKP9QJWke3"
@@ -3805,7 +3923,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 134400,
       "name": "Section",
       "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
@@ -4265,7 +4383,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 170789,
       "name": "TAPE MEASURE",
       "url": "https://open.spotify.com/track/1cplEBWw9Vft6ibCPSFCxp"
@@ -4331,7 +4449,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 167497,
       "name": "Teknique (Bum Bum Bum)",
       "url": "https://open.spotify.com/track/3W9MGc2oEzk2EBP5v803SW"
@@ -4935,6 +5053,28 @@
       "duration_ms": 213840,
       "name": "WiFi",
       "url": "https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ"
+    },
+    {
+      "album": {
+        "name": "Without You (feat. Queen Naija)",
+        "url": "https://open.spotify.com/album/6dLmF5YH9mUjQb3XlGchlD"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205248,
+      "name": "Without You (feat. Queen Naija)",
+      "url": "https://open.spotify.com/track/3QGkF5RRFR9RWTJciGTMf2"
     },
     {
       "album": {

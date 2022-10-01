@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Lo mejor de la nueva. Foto: paopao",
+  "description": "Lo mejor de la nueva. Foto: Alu Mix, Yoss Bones",
   "name": "Academia Reggaet\u00f3n",
   "published_playlist_ids": [
     "3ZGG1JOi7RasWn3HYxETEa"
@@ -235,6 +235,28 @@
       "duration_ms": 220133,
       "name": "Cambumbeo",
       "url": "https://open.spotify.com/track/67yoTcCOwAROr45LtoPirZ"
+    },
+    {
+      "album": {
+        "name": "Perrea Con Delivery",
+        "url": "https://open.spotify.com/album/43G8xNvKvMAl0QU9sWASah"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219757,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/7k0CT9uAIYQ5weaguKxize"
     },
     {
       "album": {
@@ -1163,7 +1185,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 190285,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95"

@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
 
-288 songs - 19 hr 36 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+289 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/3cpv2bUnUzSZPaSVACXzdJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Jesus Christ 2005 God Bless America](https://open.spotify.com/album/5h2gHGAvkdm3sf2mtAE4Ub) | 4:24 | 2020-04-03 | 2022-05-03 |
 | [Jim Cain](https://open.spotify.com/track/7pVAdbWP9gQZvnOIqBL6Cl) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam) | 4:39 | 2019-09-29\* | 2020-10-15 |
 | [June](https://open.spotify.com/track/72dRWaOscV2Na5ziGXKimh) | [Jeremy Warmsley](https://open.spotify.com/artist/2Ddbiob3SC6OHFY0kLusix) | [June](https://open.spotify.com/album/5NzyFxtiJ4MphK4IOeJ3vE) | 3:37 | 2019-09-29\* | 2019-10-26 |
+| [Kill Her Freak Out](https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Kill Her Freak Out](https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1) | 4:20 | 2022-09-30 |  |
 | [Kissability \(Album Version\)](https://open.spotify.com/track/3j6doU2buJ5WmhnKVEnXDI) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Remastered Original Album\)](https://open.spotify.com/album/3BYlBcND6PeKoW6ZODjZO3) | 3:07 | 2020-08-30 | 2020-09-11 |
 | [Kyoto \(Copycat Killer Version\)](https://open.spotify.com/track/0WBKHgEvlu1JLTOYk7Axlr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25) | [Kyoto \(Copycat Killer Version\)](https://open.spotify.com/album/6RdU2daoKUizcKEOkliDoh) | 3:01 | 2022-07-15 | 2022-08-27 |
 | [Kyoto \(Copycat Killer Version\)](https://open.spotify.com/track/363sTxk8gw4vnCVBtEsBCP) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25) | [Kyoto \(Copycat Killer Version\)](https://open.spotify.com/album/3WTmNHBl3EJ8iLg5vggo2M) | 3:01 | 2020-11-16 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,625,406 likes - 88 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,625,578 likes - 88 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 | 82 | [All I Want](https://open.spotify.com/track/40ydUI6moZMoOd65wbf6oz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Stonefox](https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu) | [All I Want](https://open.spotify.com/album/09daeFM7AXK0INoZ00lTeD) | 2:39 |
 | 83 | [Big Jet Plane](https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Big Jet Plane](https://open.spotify.com/album/35i6JrOJDOFIUuyQDtMjbA) | 3:02 |
 | 84 | [This City](https://open.spotify.com/track/3mggb9ShBvXJBXCY2RfCUs) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Stonefox](https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu) | [Alok Presents Brazilian Bass: Pt\. 1](https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z) | 3:39 |
-| 85 | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 |
+| 85 | [Hear Me Now](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 |
 | 86 | [Byob](https://open.spotify.com/track/7uF4XVBeZeWsjhioGUhI47) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Byob](https://open.spotify.com/album/1LrjVxiPQecTh1LugY8jPm) | 4:19 |
 | 87 | [That's My Way \- Alok Remix](https://open.spotify.com/track/2SeevfUUQlLq6HNaJ07Vda) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [That's My Way \(Alok Remix\)](https://open.spotify.com/album/4fL78NnjnPLQ7K2Qeo8OEY) | 4:55 |
 | 88 | [Me & You \(feat\. IRO\)](https://open.spotify.com/track/2WTCoQLkQ9FPdvThkf8nN1) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [XOXO \(Music from the Netflix Original Film\)](https://open.spotify.com/album/7GII7KZDArYqZ14xcyshb4) | 5:27 |

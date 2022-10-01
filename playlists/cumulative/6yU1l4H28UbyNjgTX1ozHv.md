@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-130 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+131 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD) | [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Foundations Acoustic](https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei) | 3:25 | 2019-10-13 |  |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/0u9jiSe6t4MLdkpTvg3Kdv) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [You Make My Dreams \(Acoustic\)](https://open.spotify.com/album/3rWfZ8M7iIGKFybwCIXZTk) | 2:34 | 2021-05-28 |  |
 | [You're Gonna Live Forever in Me](https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:10 | 2019-10-13 |  |
+| [You're My Best Friend \- Acoustic](https://open.spotify.com/track/4HcNBjBC8a6DVd2pwh0B8R) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [You're My Best Friend \(Acoustic\)](https://open.spotify.com/album/4HUf5kBKh15Y3LviPVSDX2) | 2:27 | 2022-09-30 |  |
 | [You're So Vain \- Acoustic](https://open.spotify.com/track/6tIj648abzmT84fdY7eTRW) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [You're So Vain \(Acoustic\)](https://open.spotify.com/album/431NQmwLYw1PA5fSmTcKD2) | 3:04 | 2022-07-15 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-583 songs - 1 day 15 hr 10 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+584 songs - 1 day 15 hr 14 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [TOP \-Japanese ver.\-](https://open.spotify.com/track/4pDvFXWbdFiQVpdZd0Z59u) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [TOP \-Japanese ver.\-](https://open.spotify.com/album/4DiIuRcvcMhDcPQqHc3NT4) | 3:08 | 2022-06-07 | 2022-07-27 |
 | [TOP \-Japanese ver.\-](https://open.spotify.com/track/6tuhGVjqfYYs0MYxapWibK) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:08 | 2022-06-07 |  |
 | [Torch of Liberty](https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Torch of Liberty](https://open.spotify.com/album/0VFSyJsFrGdo3wbnswIjCy) | 3:05 | 2022-06-07 |  |
+| [Tot Musica](https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:15 | 2022-08-11 |  |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-11 | 2022-09-29 |
 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 | 2022-06-07 |  |
 | [Touch off](https://open.spotify.com/track/40qyjzGdWia4KfBR95ciwP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Touch off](https://open.spotify.com/album/4e4sHXvEuCk5fBF7D5Ia7s) | 4:20 | 2022-06-07 | 2022-07-29 |
@@ -469,7 +470,7 @@
 | [君の知らない物語 \- from CrosSing](https://open.spotify.com/track/3pSJglKtcxEpbmoVP3Q7jX) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [君の知らない物語 \- from CrosSing](https://open.spotify.com/album/3GTdxviF6BBIIF7VbRtDca) | 5:42 | 2022-06-07 | 2022-07-27 |
 | [命の灯火](https://open.spotify.com/track/5AH3OpbMYGS983Yj5BlhTQ) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「ディープインサニティ ザ・ロストチャイルド」オープニングテーマ「命の灯火」](https://open.spotify.com/album/2K4f6h2Qh4Fgd30C944ivW) | 3:42 | 2022-06-07 | 2022-07-15 |
 | [命ノ証](https://open.spotify.com/track/2siPX9kyOPMaMUZAGtCfPK) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [命ノ証](https://open.spotify.com/album/2ycCJObN5Df1kYvEnGAATW) | 3:18 | 2022-06-07 | 2022-07-28 |
-| [咲かせや咲かせ](https://open.spotify.com/track/6Qn2DEvR2t1iNyLSmghWxr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 3:24 | 2022-08-11 |  |
+| [咲かせや咲かせ](https://open.spotify.com/track/6Qn2DEvR2t1iNyLSmghWxr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 3:24 | 2022-08-11 | 2022-10-01 |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-06-07 | 2022-07-29 |
 | [嘘](https://open.spotify.com/track/0ODOmKxO0CKv4DzoP3HHIC) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/4fQMNtjSYRHT1HarzAnqNy) | 3:25 | 2022-06-07 |  |
 | [嘘じゃない](https://open.spotify.com/track/47Old3TEOc2v4eOOv5pA6H) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [嘘じゃない \-Special Edition\-](https://open.spotify.com/album/1HGI3Yom7WAIwFJQMS65OV) | 4:19 | 2022-06-07 | 2022-07-29 |

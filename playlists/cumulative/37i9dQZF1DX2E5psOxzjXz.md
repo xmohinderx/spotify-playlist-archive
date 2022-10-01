@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Cover: Taha G
 
-128 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+129 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Andhere Mein](https://open.spotify.com/track/134oyq7shwFhszVjvhN8XY) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Andhere Mein](https://open.spotify.com/album/2HtdxEULBFqcHLKGTnMjZJ) | 3:54 | 2021-12-06 |  |
 | [Anjani Waja](https://open.spotify.com/track/4mP0j0Lg4SKGUgrFNGvGTQ) | [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG) | [Anjani Waja](https://open.spotify.com/album/6MGoq918TPAjWdSGTedPYV) | 2:07 | 2021-12-06 |  |
 | [Baadal](https://open.spotify.com/track/76z5E8tOiy1U6JfJJxfEzC) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq), [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O) | [Baadal](https://open.spotify.com/album/6pV7SixHdbbMZiDhoV6fA8) | 4:58 | 2021-12-06 |  |
-| [Baarish](https://open.spotify.com/track/4hQshoxfKBJlGeYTqnv3U2) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/1JtpXFR4FHt5L93LNv0F1Z) | 3:58 | 2021-12-06 |  |
+| [Baarish](https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/64osvBWt6Mk8l1NECygF2d) | 3:58 | 2022-09-26 |  |
+| [Baarish](https://open.spotify.com/track/4hQshoxfKBJlGeYTqnv3U2) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/1JtpXFR4FHt5L93LNv0F1Z) | 3:58 | 2021-12-06 | 2022-10-01 |
 | [Bachi Patakhi](https://open.spotify.com/track/7h0YOhIsuPAf3SPh6n1N3Z) | [Yung Pakei](https://open.spotify.com/artist/1oXF5VeAEmTvXK4OwDLWdA) | [Bachi Patakhi](https://open.spotify.com/album/6yuIow8n4wJBOsgLYAuH1w) | 2:47 | 2021-12-06 | 2022-09-06 |
 | [Bachpan](https://open.spotify.com/track/1FWjCuVn0NslGCQdFXqCyH) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Bachpan](https://open.spotify.com/album/3aqdbJB0cwbGzxuYvwoc4U) | 3:35 | 2021-12-06 |  |
 | [Bad](https://open.spotify.com/track/6M9vyiF3atXtfdYLHCYmx4) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bad](https://open.spotify.com/album/2N9Mjygl1Va2746JAslIqL) | 3:22 | 2021-12-06 | 2022-03-05 |

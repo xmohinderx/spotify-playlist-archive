@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Tania Dominguez en portada.",
+  "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle Maciel en portada.",
   "name": "La Nueva Ola: M\u00fasica Mexicana",
   "published_playlist_ids": [
     "20A5pNUH5lOcBuXoAP4e1k"
@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Ando Bien \u00dc",
+        "url": "https://open.spotify.com/album/0HdJEOLEX1nw0XEaFNsmST"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164457,
+      "name": "Ando Bien \u00dc",
+      "url": "https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8"
+    },
+    {
+      "album": {
         "name": "Artista Independiente",
         "url": "https://open.spotify.com/album/5f4Uf0IvK5gHPZzcoyJ4Gm"
       },
@@ -291,7 +309,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 146692,
       "name": "Bella Mujer",
       "url": "https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
@@ -1303,6 +1321,28 @@
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
+    },
+    {
+      "album": {
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
     },
     {
       "album": {
@@ -1896,6 +1936,24 @@
     },
     {
       "album": {
+        "name": "Santa Mota",
+        "url": "https://open.spotify.com/album/4gZDZx4fVRYgUCnpJVBl9o"
+      },
+      "artists": [
+        {
+          "name": "Alto Linaje",
+          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253170,
+      "name": "Santa Mota",
+      "url": "https://open.spotify.com/track/3nUoQgpEy0q2e01FvVa7IW"
+    },
+    {
+      "album": {
         "name": "Se Chambiar",
         "url": "https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF"
       },
@@ -1977,7 +2035,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 197133,
       "name": "Sin Tus Besos",
       "url": "https://open.spotify.com/track/5cwNVUuCDliHKLXfD12i7z"
@@ -2013,7 +2071,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 186709,
       "name": "Solo Me Dejaste",
       "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
@@ -2260,6 +2318,24 @@
     },
     {
       "album": {
+        "name": "Volv\u00ed a Creer",
+        "url": "https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC"
+      },
+      "artists": [
+        {
+          "name": "Los Caliz",
+          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190624,
+      "name": "Volv\u00ed a Creer",
+      "url": "https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI"
+    },
+    {
+      "album": {
         "name": "Vuela y Vuela",
         "url": "https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l"
       },
@@ -2362,6 +2438,24 @@
     },
     {
       "album": {
+        "name": "Yo No Me Rajo",
+        "url": "https://open.spotify.com/album/6KvRJthG8uP4lYGsMjZEzU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150880,
+      "name": "Yo No Me Rajo",
+      "url": "https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz"
+    },
+    {
+      "album": {
         "name": "Yo Soy el Bueno",
         "url": "https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW"
       },
@@ -2439,7 +2533,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 201600,
       "name": "Yo Vengo de Abajo",
       "url": "https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover:  Eva Under Fire",
+  "description": "The hardest songs, loud. Very loud. Cover: Pop Evil",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -539,6 +539,24 @@
       "duration_ms": 169381,
       "name": "Baptize",
       "url": "https://open.spotify.com/track/68RUydoqlDT60rsirSIJWR"
+    },
+    {
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253346,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
     },
     {
       "album": {
@@ -2420,6 +2438,28 @@
     },
     {
       "album": {
+        "name": "Ego Death (feat. Steve Vai)",
+        "url": "https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350085,
+      "name": "Ego Death (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r"
+    },
+    {
+      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/6LYx5a9siqqFpj7ztRGLxv"
       },
@@ -2739,6 +2779,24 @@
       "duration_ms": 306212,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/56nQ0EwaDX0X1TFGrDVC0b"
+    },
+    {
+      "album": {
+        "name": "Fight Alone",
+        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
+      },
+      "artists": [
+        {
+          "name": "Motive Black",
+          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Fight Alone",
+      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
     },
     {
       "album": {
@@ -3355,7 +3413,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 210748,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd"
@@ -3871,6 +3929,24 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "album": {
+        "name": "JACK",
+        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
     },
     {
       "album": {
@@ -4922,6 +4998,28 @@
     },
     {
       "album": {
+        "name": "Motherlode",
+        "url": "https://open.spotify.com/album/1uMPUDzADwngjGfHFUCuf8"
+      },
+      "artists": [
+        {
+          "name": "The Standstills",
+          "url": "https://open.spotify.com/artist/2OCAyLpPne0X14kjvE535s"
+        },
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182444,
+      "name": "Motherlode",
+      "url": "https://open.spotify.com/track/50lNoDOWVxhdWbmgvecuXa"
+    },
+    {
+      "album": {
         "name": "My Own Device",
         "url": "https://open.spotify.com/album/6V035P8rKn8whAVj0DDbEs"
       },
@@ -5387,6 +5485,42 @@
       "duration_ms": 225640,
       "name": "Outcasts vs Everyone",
       "url": "https://open.spotify.com/track/4GPyVNFRDepnBPhJczVXGQ"
+    },
+    {
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218936,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
+    },
+    {
+      "album": {
+        "name": "Paranoid (Crash & Burn)",
+        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235736,
+      "name": "Paranoid (Crash & Burn)",
+      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
     },
     {
       "album": {
@@ -5885,7 +6019,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 168311,
       "name": "Ramon Ayala",
       "url": "https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz"
@@ -7144,6 +7278,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220839,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
+    },
+    {
+      "album": {
         "name": "Surviving The Game",
         "url": "https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj"
       },
@@ -7383,7 +7535,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 259173,
       "name": "Temple Of Ekur",
       "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"

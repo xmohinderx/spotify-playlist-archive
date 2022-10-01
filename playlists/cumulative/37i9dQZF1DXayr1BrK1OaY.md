@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-174 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
+175 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2021-04-02 |  |
 | [Aquiver](https://open.spotify.com/track/0n7Qqb6srcdrfJcaI69vkp) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Aquiver](https://open.spotify.com/album/3xujpBmJMxRVBlHFehFOhT) | 4:27 | 2021-05-29 | 2022-07-29 |
 | [Be Someone](https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 3:24 | 2021-04-16 |  |
-| [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 | 2021-08-14 |  |
+| [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 | 2021-08-14 | 2022-10-01 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2021-04-02 |  |
 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 | 2022-07-15 |  |
 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 | 2021-04-02 | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Real Groove \(Studio 2054 Remix\)](https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm) | 4:22 | 2021-04-02 | 2022-04-10 |
 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 | 2021-04-02 |  |
 | [Release](https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Release](https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC) | 3:13 | 2022-04-22 |  |
+| [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-09-23 |  |
 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 | 2021-04-02 | 2022-04-13 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2021-10-22 |  |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-22 | 2022-07-29 |

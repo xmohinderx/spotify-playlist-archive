@@ -2,9 +2,9 @@
 
 ### [Mujeres del Indie](https://open.spotify.com/playlist/37i9dQZF1DXdHPp93Fnfds)
 
-> Son jóvenes, guerreras y cool\. Foto: Delfina Campos
+> Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-436 songs - 1 day 1 hr 18 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+438 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ancla](https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ancla](https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU) | 3:32 | 2022-05-20 | 2022-07-21 |
 | [Antes](https://open.spotify.com/track/1pnE4Unmn63LONQ52SEmHe) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Antes \(de florecer\)](https://open.spotify.com/album/3sj339uXFqdnEWUiTb96nE) | 3:20 | 2022-02-11 | 2022-04-21 |
 | [Aprendí](https://open.spotify.com/track/6dmkQyR2K1ACuKCpi9XeLq) | [Cata Torres](https://open.spotify.com/artist/1i4RvIEPT6l7f6gzmwi1QH) | [Aprendí](https://open.spotify.com/album/5OXtmT402TOZVx9zFtwDje) | 3:06 | 2022-04-01 | 2022-04-17 |
+| [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-30 |  |
 | [Aquiles](https://open.spotify.com/track/2y2qqW1F0SqIpdXy9lV2Xy) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH) | [Aquiles](https://open.spotify.com/album/4aM9vvvIr65K0m1C9PPKai) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Aquí Te Espero](https://open.spotify.com/track/39gD4hF7Ny92twfFgRaRxh) | [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [Aquí Te Espero](https://open.spotify.com/album/2ByaS2Wz8YcTgjXDxrdpqa) | 2:54 | 2022-04-01 | 2022-04-29 |
 | [Arquitecturas Extrañas](https://open.spotify.com/track/29wftzCXRFo2NLspyl5Ykg) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:10 | 2022-01-21 | 2022-07-03 |
@@ -48,7 +49,7 @@
 | [ay tentación](https://open.spotify.com/track/36aqyvgi0LDv23pZNYTbFH) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [ay tentación](https://open.spotify.com/album/4WClPjVnjq3q5FwHpX8cg9) | 3:31 | 2022-01-14 | 2022-07-29 |
 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 | 2022-01-14 |  |
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-07-15 | 2022-07-28 |
-| [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 | 2022-01-21 |  |
+| [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 | 2022-01-21 | 2022-10-01 |
 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 | 2022-01-14 |  |
 | [Blusito](https://open.spotify.com/track/5uaQ2JqKFUbku7ssEgWjte) | [Lulioli](https://open.spotify.com/artist/1sBDWlxYFLnrmmbrgKI4O4) | [Blusito](https://open.spotify.com/album/4WQpIrBMxLjRKcrkluurb3) | 5:17 | 2022-04-01 | 2022-06-29 |
 | [Bossa de Amor](https://open.spotify.com/track/5CisJ1wCJc8iaPDuNJgfpo) | [Emilia Borlone](https://open.spotify.com/artist/3qUX6iGtY5Lbyj8vduC4Oc), [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Bossa de Amor](https://open.spotify.com/album/2fZjv0DbDkiIC03R6xJrGJ) | 3:22 | 2022-03-09 | 2022-07-19 |
@@ -238,6 +239,7 @@
 | [Me da igual](https://open.spotify.com/track/49C9I2GoMwUrHtHDJQJdKr) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [Me da igual](https://open.spotify.com/album/3LGQ7fg8WVtykIfFpD3RiA) | 3:21 | 2022-01-21 | 2022-07-22 |
 | [Me Eleva](https://open.spotify.com/track/2864zSXTUZO8fshzyBkT63) | [Manuela de las Casas](https://open.spotify.com/artist/4cWiT1v3NOdTagAExiLRAZ) | [Halare](https://open.spotify.com/album/2xdqR3r3zZuIlEc3fLOMtX) | 3:37 | 2022-01-21 | 2022-07-21 |
 | [Me Fuí a Caminar](https://open.spotify.com/track/6B7HKwT2sPj2XxmsslLbaS) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb) | 3:59 | 2022-01-21 | 2022-07-28 |
+| [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 | 2022-09-30 |  |
 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 | 2022-05-06 | 2022-05-09 |
 | [Me Voy](https://open.spotify.com/track/7i7muHdNcm4rHNv1SDVjoD) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:31 | 2022-01-14 |  |
 | [Mentira](https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Mentira](https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7) | 3:35 | 2022-01-14 |  |
@@ -351,7 +353,7 @@
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-01 | 2022-04-28 |
 | [Se Veía Venir](https://open.spotify.com/track/66beGFF4xXL7U8cwJASEj0) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Se Veía Venir](https://open.spotify.com/album/7hWv3HzsI7iGsCnDjo9Ovb) | 3:00 | 2022-01-21 | 2022-07-26 |
 | [Secretos](https://open.spotify.com/track/1NdnraK92SRP3xp54zJbum) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Amala](https://open.spotify.com/album/3yiIXKQwT5SN7RmOP2Xnkn) | 6:43 | 2022-04-01 | 2022-07-05 |
-| [Secretos](https://open.spotify.com/track/4tQzhgtJQavorNg6lJx2ah) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Secretos](https://open.spotify.com/album/07RmkrXUnFNGoGIeuJ6APP) | 3:21 | 2022-07-29 |  |
+| [Secretos](https://open.spotify.com/track/4tQzhgtJQavorNg6lJx2ah) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Secretos](https://open.spotify.com/album/07RmkrXUnFNGoGIeuJ6APP) | 3:21 | 2022-07-29 | 2022-10-01 |
 | [Selección Natural](https://open.spotify.com/track/6BJuwN3jo7RftHfq4GEutD) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Selección Natural](https://open.spotify.com/album/5fOpP7Qql2WT27lQ31jfxd) | 5:32 | 2022-01-21 | 2022-07-28 |
 | [Selva Negra](https://open.spotify.com/track/05554ATgymiSkXHLdpGl5d) | [Grace Caracol](https://open.spotify.com/artist/0OGNY2wV1dPmSv01JKrpoL) | [Selva Negra](https://open.spotify.com/album/3JNSwB2kvBmxzlEAk08HJU) | 3:05 | 2022-04-01 | 2022-04-29 |
 | [Serenidad](https://open.spotify.com/track/1ZVI0MOeSErPZcGmeTCA7C) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/0lqj2DO9dGyRG4QQ5AQdci) | 3:28 | 2022-01-21 | 2022-07-26 |

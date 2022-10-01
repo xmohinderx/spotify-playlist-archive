@@ -2244,6 +2244,24 @@
     },
     {
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277239,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/5yiLeekDCLQVR5cx53snW2"
       },
@@ -2365,7 +2383,7 @@
           "url": "https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW"
         }
       ],
-      "date_added": "2022-09-28",
+      "date_added": "2022-09-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 300392,
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 282091,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV"

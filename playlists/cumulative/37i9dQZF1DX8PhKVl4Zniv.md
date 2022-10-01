@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-64 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+65 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Parusha](https://open.spotify.com/track/2w84sKh0yf9v8iQHfIORJJ) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Passport](https://open.spotify.com/album/3qOYOM60FMN6fO2vgiPnC1) | 4:16 | 2022-06-01 |  |
 | [Past and Future](https://open.spotify.com/track/2UQLLdosLGV1Pzq8KxVrBJ) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Stanley Jordan](https://open.spotify.com/artist/2mBoEYescv3YHDG5rH6uKd) | [Groove and More](https://open.spotify.com/album/3Trvid1UyXXXrrec9w7kl9) | 4:42 | 2022-06-01 |  |
 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 | 2022-06-01 |  |
+| [Pineapple](https://open.spotify.com/track/5Oi47usa5zPxOQNukvKcZ6) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:56 | 2022-09-30 |  |
 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 | 2022-06-01 |  |
 | [Rat Race](https://open.spotify.com/track/1n7F3VHwutsmLtIJkvApGF) | [Steve Gadd Band](https://open.spotify.com/artist/6fkgidiemSuq1JH28K50Mm), [Walt Fowler](https://open.spotify.com/artist/0zaC6HTwesZn36o2dLFo8p), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Steve Gadd Band](https://open.spotify.com/album/5obQrSfICxA2t8evZPrrax) | 6:35 | 2022-06-01 |  |
 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 | 2022-06-01 |  |

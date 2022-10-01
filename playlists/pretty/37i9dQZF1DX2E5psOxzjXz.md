@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Cover: Taha G
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,282 likes - 82 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,295 likes - 82 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 46 | [Dil Sitara](https://open.spotify.com/track/6E49Dj1VZYHjtLNbiBlJ7H) | [KMRN](https://open.spotify.com/artist/6qilOLk8soI4DjjM2wZlO1), [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt) | [Dil Sitara](https://open.spotify.com/album/2Eiz0dpcqqtCfV4upVEe3Y) | 3:16 |
 | 47 | [Preacher](https://open.spotify.com/track/2H3Uj8S1v8doc5xKmzBSNQ) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Preacher](https://open.spotify.com/album/503g4DFFEgdkPgW0O9RUon) | 3:17 |
 | 48 | [Choro](https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Choro](https://open.spotify.com/album/47LlbY7qhYsG5aPXflzG69) | 3:52 |
-| 49 | [Baarish](https://open.spotify.com/track/4hQshoxfKBJlGeYTqnv3U2) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/1JtpXFR4FHt5L93LNv0F1Z) | 3:58 |
+| 49 | [Baarish](https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/64osvBWt6Mk8l1NECygF2d) | 3:58 |
 | 50 | [Khwaab](https://open.spotify.com/track/2gVuB5FLzYU46N3CPmBRyN) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt) | [Khwaab](https://open.spotify.com/album/653VDLcUT6H1wGtxdEd8Bl) | 5:27 |
 | 51 | [Pukaar](https://open.spotify.com/track/0R6PVr0THSFcyEqlNTJ9Bp) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [SHE](https://open.spotify.com/album/21Yinw1VwU6Ych11YSruxC) | 3:46 |
 | 52 | [lost](https://open.spotify.com/track/0R7rIsxEpTq1V0vqniFXzr) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [lost](https://open.spotify.com/album/2HWfMyHEtgfQ0Aug0qFq5g) | 3:11 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 81 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 |
 | 82 | [Tum Kaafi Ho](https://open.spotify.com/track/05JZF9BFosGhj1VEOwBQPX) | [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Tum Kaafi Ho](https://open.spotify.com/album/3RSad5lC4GUToepucxTIca) | 2:44 |
 
-Snapshot ID: `MTY2NDE4NTgzMiwwMDAwMDAwMDhmY2EyNjAzOTBiMzYxM2JhY2M1MTFkNDgzMjQ1ZWYx`
+Snapshot ID: `MTY2NDE4NTgzMiwwMDAwMDAwMDEzNTkwZGE3YzdkY2JiY2Q5MzgwZjQ2ODg3NjcxNTQ4`

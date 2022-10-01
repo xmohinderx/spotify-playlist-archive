@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > the 🌽 table + emma chamberlain + architectural digest = ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,205 likes - 604 songs - 1 day 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,696 likes - 604 songs - 1 day 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

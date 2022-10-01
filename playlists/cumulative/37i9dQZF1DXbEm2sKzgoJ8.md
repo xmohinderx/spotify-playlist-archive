@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-246 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
+248 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-13 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-07 | 2022-07-29 |
+| [I See Red](https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh) | [Everybody Loves an Outlaw](https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW) | [I See Red](https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY) | 3:50 | 2022-09-30 |  |
 | [i wanna be your girlfriend](https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH) | 5:11 | 2021-12-10 | 2022-07-29 |
 | [I'm in It](https://open.spotify.com/track/6paAqzQNi3EQJUAZjaRXh0) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 3:30 | 2022-07-01 | 2022-07-03 |
 | [I.F.L.Y.](https://open.spotify.com/track/4R9ATNRRl1uth17i5qDCc0) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I.F.L.Y.](https://open.spotify.com/album/5Q4g8NWSgDf0AEE0Vy7bz9) | 2:45 | 2021-12-10 | 2022-07-28 |
@@ -157,7 +158,7 @@
 | [Off The Drugs](https://open.spotify.com/track/4YQl3QhsruxI4JABhRL5pN) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK) | [Off The Drugs](https://open.spotify.com/album/5b1nUTXxIuHDPmvrb1FEf5) | 2:49 | 2021-12-10 | 2022-07-29 |
 | [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/3U62bHMhP7bKAFYMkn3fNx) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:20 | 2021-12-10 | 2022-09-17 |
 | [One In A Million](https://open.spotify.com/track/24BkSXV9D9YYJU47EGFKCY) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [One In A Million](https://open.spotify.com/album/0K8IkWqXMpb0gMo8gkbVYw) | 2:58 | 2021-12-10 | 2022-07-29 |
-| [One In A Million](https://open.spotify.com/track/6m6Xew8uyUBkVqQ0EbJNSN) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Stupid Hours](https://open.spotify.com/album/2SAYtYY5yjQD9bi6Nq4Vne) | 2:58 | 2022-09-16 |  |
+| [One In A Million](https://open.spotify.com/track/6m6Xew8uyUBkVqQ0EbJNSN) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Stupid Hours](https://open.spotify.com/album/2SAYtYY5yjQD9bi6Nq4Vne) | 2:58 | 2022-09-16 | 2022-10-01 |
 | [One More](https://open.spotify.com/track/0HTnLvSyKpRgRXtiEX4bVZ) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [One More](https://open.spotify.com/album/2dj0bLZmleAnuRNRzH7a04) | 2:33 | 2021-12-10 | 2022-07-26 |
 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 | 2022-09-16 |  |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 | 2022-08-12 |
@@ -173,7 +174,7 @@
 | [Purple](https://open.spotify.com/track/0FrZlv2YeaeNoegY6ZwWJ3) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Purple](https://open.spotify.com/album/1ACYwKV5Eo6IGA0NAcUnAN) | 4:10 | 2021-12-10 | 2022-07-28 |
 | [Purple Emoji \(feat\. J\. Cole\)](https://open.spotify.com/track/3OJ4LEE50iFELaHiZ09zif) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Purple Emoji \(feat\. J Cole\)](https://open.spotify.com/album/5tcLbrane4ipoQy0liSuNH) | 2:43 | 2021-12-24 | 2022-04-21 |
 | [Put On Repeat](https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Put On Repeat](https://open.spotify.com/album/7fkVD3CHttaBT4rnyEZiCN) | 3:05 | 2022-01-26 | 2022-07-29 |
-| [raw](https://open.spotify.com/track/2G3cF0Gc6SFGwzOxa9QOxC) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:06 | 2022-05-17 |  |
+| [raw](https://open.spotify.com/track/2G3cF0Gc6SFGwzOxa9QOxC) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:06 | 2022-05-17 | 2022-10-01 |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2021-12-10 | 2022-05-18 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-26 | 2022-01-29 |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-07-13 |  |
@@ -187,6 +188,7 @@
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-06-17 |  |
 | [Shaggy Dynamite](https://open.spotify.com/track/60cgAlsz2BbdJF2pWEStlg) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Shaggy Dynamite](https://open.spotify.com/album/04t1CRjivMRFCu7h1cNyvk) | 2:39 | 2021-12-24 | 2022-07-06 |
 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 | 2022-06-17 |  |
+| [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-30 |  |
 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/0XPlSuCVQ1nOhzTpFgnDSz) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/album/0iHBfyXdfH9Fpeh8BPsVJP) | 3:14 | 2021-12-10 | 2022-04-20 |
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2022-01-28 |  |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-07-29 |

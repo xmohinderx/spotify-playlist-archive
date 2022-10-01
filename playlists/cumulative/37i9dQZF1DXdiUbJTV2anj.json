@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Burying Brightness",
+        "url": "https://open.spotify.com/album/4B4bNthhcQ9ph657TTYsbG"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207815,
+      "name": "Burying Brightness",
+      "url": "https://open.spotify.com/track/3nyfxtCg9RD30h3aTnbVFW"
+    },
+    {
+      "album": {
         "name": "BUST IT",
         "url": "https://open.spotify.com/album/1JaVsCab59Ls8hIjSMg6Eg"
       },
@@ -542,6 +560,24 @@
     },
     {
       "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "album": {
         "name": "Rakshak",
         "url": "https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q"
       },
@@ -769,7 +805,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 221153,
       "name": "Lust",
       "url": "https://open.spotify.com/track/0g9rKVt9lXwne5bhy0ptbU"
@@ -1087,7 +1123,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 229599,
       "name": "Rock Bottom (Is a Stepping Stone)",
       "url": "https://open.spotify.com/track/6Evx0j5rPXT2QDihyAYBvZ"
@@ -1109,7 +1145,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 553880,
       "name": "R\u014dnin",
       "url": "https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G"
@@ -1145,7 +1181,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180990,
       "name": "Servant",
       "url": "https://open.spotify.com/track/3FG2lpxvJulguHUn7G5f2V"
@@ -1365,7 +1401,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 225853,
       "name": "The End",
       "url": "https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML"

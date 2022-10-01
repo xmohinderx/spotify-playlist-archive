@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-275 songs - 1 day 0 hr 3 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
+276 songs - 1 day 0 hr 8 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Arduous Clarity](https://open.spotify.com/track/5wdu4FMMyYgXLpu7pvxEJ6) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4) | [Peripeteia](https://open.spotify.com/album/3OkEU4t40LBZ1rirI95ofp) | 4:28 | 2021-10-06 | 2022-07-28 |
 | [Arrival](https://open.spotify.com/track/1ksUOjyVdbWPIbZaG5X7hB) | [Multicast Dynamics](https://open.spotify.com/artist/3anB00L5lBa7PYHwVOW389) | [Lost World](https://open.spotify.com/album/6oIKOdH3qPkeYaeSdZc9yG) | 4:00 | 2021-10-06 | 2022-07-27 |
 | [Arrival](https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 9:26 | 2021-10-06 | 2022-07-11 |
+| [Asteria \- Alva Noto Remodel](https://open.spotify.com/track/4wZi1G6Kh8aBDRO2HcjbcJ) | [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q), [Ben Corrigan](https://open.spotify.com/artist/41iwCsBEJGM67mo0ud1yaQ), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Asteria \(Alva Noto Remodel\)](https://open.spotify.com/album/3HcFJKqZKuYRpmLLLJkqzJ) | 5:11 | 2022-09-30 |  |
 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 | 2022-08-31 |  |
 | [Back to Hastings](https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Hotel Hastings \(Music by Alejandro Morse for a Book by Eduardo Padilla\)](https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0) | 3:55 | 2021-10-06 | 2022-07-29 |
 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 | 2021-10-06 |  |
@@ -215,7 +216,7 @@
 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2021-10-06 | 2022-07-28 |
 | [Snowflakes](https://open.spotify.com/track/3PryCUaKSzRhMB0D1xr1Tt) | [Zabala](https://open.spotify.com/artist/1XsGvEIqRwfXb3iZ8Jq5cr) | [Vik](https://open.spotify.com/album/09VRYoZ63rZQujaRMwJO1w) | 2:54 | 2021-10-06 | 2022-07-22 |
 | [Solidarity Theme \(Release\)](https://open.spotify.com/track/1Qf5pKkuNCXCRz4OfHK5Ll) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/3YbEtVUAk5nfY4ZVSpdjJ6) | 3:25 | 2021-10-06 | 2022-07-25 |
-| [Solidarity Theme \(Release\)](https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD) | 3:25 | 2021-10-06 |  |
+| [Solidarity Theme \(Release\)](https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD) | 3:25 | 2021-10-06 | 2022-10-01 |
 | [Solidit](https://open.spotify.com/track/1nfZXgLSdbR188vL2P7vrF) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Solidit](https://open.spotify.com/album/4Iu295PX9PaSbEpgcjdTAb) | 3:50 | 2021-10-06 | 2022-07-28 |
 | [Spirit](https://open.spotify.com/track/5ju6xqK60MEA8mxAnGQGFR) | [Tomas Nordmark](https://open.spotify.com/artist/0TBCJYEeBoQspLmeXE6Ixy) | [Spirit](https://open.spotify.com/album/6OefUdFlXkiUdNlh2QYJLG) | 6:22 | 2021-10-06 | 2022-07-29 |
 | [Spopolatore](https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI) | [Valerio Tricoli](https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD) | [Say Goodbye To The Wind](https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ) | 25:44 | 2022-09-03 |  |

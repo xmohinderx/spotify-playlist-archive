@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "18",
+      "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
+    },
+    {
+      "album": {
         "name": "My Thoughts on You",
         "url": "https://open.spotify.com/album/6cSlODoo4uSPxXfyGwcY9I"
       },
@@ -1047,6 +1065,24 @@
       "duration_ms": 225312,
       "name": "By Design [Evel Knievel]",
       "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
+    },
+    {
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0p20xcCVQ3DN1LFtfRw3s2"
+      },
+      "artists": [
+        {
+          "name": "Jamie Grey",
+          "url": "https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194413,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2vF2v8sdg86grSyhrgC4Nd"
     },
     {
       "album": {
@@ -2398,6 +2434,24 @@
     },
     {
       "album": {
+        "name": "get over you",
+        "url": "https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "get over you",
+      "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
+    },
+    {
+      "album": {
         "name": "Get Real High",
         "url": "https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz"
       },
@@ -2687,7 +2741,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 191435,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1k1mZ9B1CzAMEIEp6uUk5p"
@@ -3278,6 +3332,24 @@
     },
     {
       "album": {
+        "name": "i don't wanna ruin ur party",
+        "url": "https://open.spotify.com/album/38ZS3InIKSDLYcKZpfm09m"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "i don't wanna ruin ur party",
+      "url": "https://open.spotify.com/track/1mYEAoHFaq4I5gJV0MvhSa"
+    },
+    {
+      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -3361,7 +3433,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 181942,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0KEJPuUHG7rKPwGgoIEOJt"
@@ -3422,6 +3494,24 @@
     },
     {
       "album": {
+        "name": "i hope you're happy",
+        "url": "https://open.spotify.com/album/1kR8ROs5klKibWulbjWjxa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165940,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/7l5jZiuwClTKk2Xyf5mc69"
+    },
+    {
+      "album": {
         "name": "I'm Just Different",
         "url": "https://open.spotify.com/album/1QFrmiudz1En19qv1CU9cb"
       },
@@ -3433,7 +3523,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 233401,
       "name": "I'm Just Different",
       "url": "https://open.spotify.com/track/7AQvPSWHH5pc4PxptRpfk4"
@@ -4003,6 +4093,24 @@
       "duration_ms": 182125,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX"
+    },
+    {
+      "album": {
+        "name": "Three Hearts EP",
+        "url": "https://open.spotify.com/album/0MOHV5KGzS52SVjmqxI1nC"
+      },
+      "artists": [
+        {
+          "name": "PUBLIC",
+          "url": "https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214944,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2R8IG9E83Yqm3GQRLsE0xv"
     },
     {
       "album": {
@@ -5649,7 +5757,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180248,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
@@ -5725,6 +5833,24 @@
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
+    },
+    {
+      "album": {
+        "name": "Say Nothing",
+        "url": "https://open.spotify.com/album/2OixTZdPDO4URwO5fIEqQt"
+      },
+      "artists": [
+        {
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209327,
+      "name": "Say Nothing",
+      "url": "https://open.spotify.com/track/7tp8PseJKWDiYBk9PLwawt"
     },
     {
       "album": {
@@ -5999,6 +6125,24 @@
       "duration_ms": 222466,
       "name": "Somebody's Nobody",
       "url": "https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC"
+    },
+    {
+      "album": {
+        "name": "Someone Who Loved You",
+        "url": "https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177930,
+      "name": "Someone Who Loved You",
+      "url": "https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0"
     },
     {
       "album": {
@@ -6921,7 +7065,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 253308,
       "name": "Vanilla Sky",
       "url": "https://open.spotify.com/track/6z1yCeOuf5m0fUdzFnnHnC"
@@ -7137,7 +7281,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 225946,
       "name": "Western Wind",
       "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
@@ -7263,7 +7407,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 198693,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
@@ -7477,7 +7621,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 165801,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"

@@ -4,13 +4,14 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-89 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
+90 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I'm Your\) Hoochie Coochie Man](https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1947 To 1956 \- The Chess 50th Anniversary Collection \(Reissue\)](https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f) | 2:50 | 2022-06-14 | 2022-07-19 |
 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 | 2022-05-25 |  |
 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 | 2022-07-08 |  |
+| [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 | 2022-09-30 |  |
 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 | 2022-05-25 |  |
 | [Armadillo Shuffle](https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Larry Luddecke](https://open.spotify.com/artist/4i6n9Ol2aduAd7XVCnaYOx) | [Moods 'n' Blues](https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU) | 2:01 | 2022-05-25 | 2022-07-14 |
 | [Ball and Chain](https://open.spotify.com/track/5JrKfqQFOTwksNVdAUSF4b) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 5:47 | 2022-07-08 |  |
@@ -70,7 +71,7 @@
 | [Purple](https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 7:08 | 2022-05-25 |  |
 | [Reconsider Baby](https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Hung Down Head](https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV) | 3:09 | 2022-07-08 |  |
 | [Reconsider Baby](https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Reconsider Baby](https://open.spotify.com/album/4A8C7S4wtpKwwNVdFDnEyL) | 3:10 | 2022-05-25 | 2022-07-28 |
-| [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 | 2022-05-25 |  |
+| [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 | 2022-05-25 | 2022-10-01 |
 | [She's Crazy](https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT) | [JT Coldfire](https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j) | [Crazy Sun](https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE) | 5:23 | 2022-07-08 |  |
 | [Sitting At Home Alone](https://open.spotify.com/track/1rjhzTMKG8NdgkNKRFnFmi) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Sitting At Home Alone](https://open.spotify.com/album/77MTWaEpZrh3vjitwDfsdC) | 4:35 | 2022-05-25 | 2022-07-29 |
 | [Slightly Hung Over](https://open.spotify.com/track/6I8EbSSjimK98wiDCMtnBQ) | [Blues Delight](https://open.spotify.com/artist/3t7lCLDraWpcK4U5TWUUdA) | [Rock Island Line](https://open.spotify.com/album/3WoHYiJLkjJ0ZsDKVG9NPh) | 4:45 | 2022-05-25 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-95 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+96 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 |  |
 | [Don't Wanna Wait \- VIP Mix](https://open.spotify.com/track/6BRq5B5uUrcP5cRtgX5cuk) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Don’t Wanna Wait \(VIP Mix\)](https://open.spotify.com/album/1WtzNNAKtES4PqaVQrtZ8d) | 2:37 | 2022-05-06 | 2022-07-28 |
 | [Donk Alert](https://open.spotify.com/track/5xvGFPucysPs9keOdFnz6B) | [TYEGUYS](https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F), [BEL AIR WITCH](https://open.spotify.com/artist/5ehyiszRBoCkewPb1mTN6x) | [Donk Alert](https://open.spotify.com/album/0MIp9mtloeM1hfWXuVCHr9) | 3:34 | 2022-05-06 | 2022-08-03 |
-| [DROP](https://open.spotify.com/track/7xN35VVLctNoKT3A4khKqE) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [DROP](https://open.spotify.com/album/18V8UhRyjkIdJJ6giY7J9F) | 2:49 | 2022-05-06 |  |
+| [DROP](https://open.spotify.com/track/7xN35VVLctNoKT3A4khKqE) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [DROP](https://open.spotify.com/album/18V8UhRyjkIdJJ6giY7J9F) | 2:49 | 2022-05-06 | 2022-10-01 |
 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 | 2022-05-06 | 2022-08-27 |
 | [End Of The World](https://open.spotify.com/track/25tekS8txsCQov85px1xm2) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [End Of The World](https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs) | 3:45 | 2022-05-06 | 2022-08-18 |
 | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/track/4sDBG6YWfUcWd6Cev8fWUJ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Alix Robson](https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT) | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/album/15ShC3FREY48amM8OYEP0E) | 3:43 | 2022-05-06 |  |
@@ -92,6 +92,7 @@
 | [Tempest](https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:15 | 2022-08-12 |  |
 | [The Whistle](https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [The Whistle](https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR) | 2:11 | 2022-08-05 |  |
 | [Time](https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Time](https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv) | 2:36 | 2022-09-02 |  |
+| [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk) | 2:46 | 2022-09-30 |  |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 |  |
 | [Vamos a Beber](https://open.spotify.com/track/6mc1TOxoCF9H4q7nvxjGyd) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Vamos a Beber](https://open.spotify.com/album/1wNNIHN5hLmdxWIPUkoffz) | 3:14 | 2022-07-15 |  |
 | [Villainy \(feat\. Gold & Mikey Rotten\)](https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Dr\. Ozi](https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H), [Mikey Rotten](https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m) | [Villainy \(feat\. Gold & Mikey Rotten\)](https://open.spotify.com/album/7I439tCjMMzzWE1bauLG06) | 2:43 | 2022-08-05 |  |

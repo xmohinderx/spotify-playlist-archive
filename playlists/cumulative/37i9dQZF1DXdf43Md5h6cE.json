@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "illusions",
+        "url": "https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223582,
+      "name": "illusions",
+      "url": "https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM"
+    },
+    {
+      "album": {
         "name": "wander into",
         "url": "https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21"
       },

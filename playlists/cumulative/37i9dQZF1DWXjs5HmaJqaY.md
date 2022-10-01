@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-71 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
+72 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Andromeda Mission](https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 7:55 | 2022-09-16 |  |
 | [Are Am Eye? \- Roger Shah & Cores Short Edit](https://open.spotify.com/track/6SoOlvrcw4GhmQoq9araKD) | [Commander Tom](https://open.spotify.com/artist/1mlDy7thi2GGZ5ybFxjnmd), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M), [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI) | [Are Am Eye? Roger Shah & Cores Remix](https://open.spotify.com/album/1sdYiS8ZuS0NmT6o9uyezT) | 3:32 | 2022-09-16 |  |
 | [Astronautin \- Boris Brejcha Remix](https://open.spotify.com/track/4Z9JnhS9cd1Qd0BJ7nii4D) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 8:15 | 2022-09-16 |  |
-| [Be The Change](https://open.spotify.com/track/4aibXK1Ions27oyqdJLkVf) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Be The Change](https://open.spotify.com/album/2p5EwIEGE8bKVGqr2QcdWC) | 4:01 | 2022-09-16 |  |
+| [Be The Change](https://open.spotify.com/track/4aibXK1Ions27oyqdJLkVf) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Be The Change](https://open.spotify.com/album/2p5EwIEGE8bKVGqr2QcdWC) | 4:01 | 2022-09-16 | 2022-10-01 |
 | [Bending The End](https://open.spotify.com/track/78Bj94zrq8DgvjcZffBNS7) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Bending the End](https://open.spotify.com/album/07SvgpFWSvAEreX8Zq3GqX) | 7:47 | 2022-09-16 |  |
 | [Black Ice \- Boris Brejcha Remix](https://open.spotify.com/track/4oKpdNCActjFU2kDbY3iLi) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Black Ice \(Boris Brejcha Remix\)](https://open.spotify.com/album/75COllS7axLZDroQCGWCFb) | 8:23 | 2022-09-16 |  |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 | 2022-09-16 |  |
@@ -47,6 +47,7 @@
 | [Massive Bells](https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD) | [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M), [Marco Zaffarano](https://open.spotify.com/artist/52bAOymZ9bKSEuyiNMLXjY) | [Massive Bells](https://open.spotify.com/album/5cqpAi3BPkcNuUWbRzsgoT) | 3:48 | 2022-09-23 |  |
 | [Mesopotamia](https://open.spotify.com/track/24wkID8UHARIJLeKAkcjq6) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Mesopotamia](https://open.spotify.com/album/1bJJ1flQQjW6hWPGSjG4b6) | 3:20 | 2022-09-16 |  |
 | [Message from Beyond \- Spotify Edit](https://open.spotify.com/track/0FiafMTU21n3y0cwMOH9av) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M) | [Message from Beyond](https://open.spotify.com/album/5h2TsgSBUppCzU3h4xBTtU) | 3:39 | 2022-09-16 | 2022-09-24 |
+| [Nahar](https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Nahar](https://open.spotify.com/album/49UofVTgrdjTpAW931oCix) | 3:28 | 2022-09-30 |  |
 | [Now Here No Where](https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [While Waiting For Something To Care About / Now Here No Where](https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU) | 5:46 | 2022-09-16 |  |
 | [OK](https://open.spotify.com/track/6FaOYioHDoL3Tt1c1Zn9EZ) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [OK, OK](https://open.spotify.com/album/0TERygqKJpDLNi8zwfyCzZ) | 5:46 | 2022-09-16 |  |
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2022-09-16 |  |

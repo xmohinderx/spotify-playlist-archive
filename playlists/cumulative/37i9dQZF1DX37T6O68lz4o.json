@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New England music breaking waves. Cover, Van Buren Records",
+  "description": "New England music breaking waves. Cover, Stefan Thev",
   "name": "Ripple Effect: New England",
   "published_playlist_ids": [
     "00m3TONAbF60v2PgKEF6G2"
@@ -588,6 +588,24 @@
     },
     {
       "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/2SFtO9DqVuZuK7X0znR1pm"
+      },
+      "artists": [
+        {
+          "name": "Najee Janey",
+          "url": "https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/29bVVMiVYtBoDhV56nQuyR"
+    },
+    {
+      "album": {
         "name": "Can't Help It",
         "url": "https://open.spotify.com/album/3iaBnL7KWbEQXI651JhlGe"
       },
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 160496,
       "name": "CASH IN THE CLUB",
       "url": "https://open.spotify.com/track/5yPVWR0GMvNNBezPQTuYs4"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 210245,
       "name": "Dying To Save Yourself",
       "url": "https://open.spotify.com/track/4lblRcSPFaeSX62IzQJuJ4"
@@ -2162,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "Lord Flow",
+        "url": "https://open.spotify.com/album/4dAIVG07ZNhZvlt6ToMgWU"
+      },
+      "artists": [
+        {
+          "name": "King OSF",
+          "url": "https://open.spotify.com/artist/5VYWaw1z5luk9NZqMIX2fh"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163343,
+      "name": "Lord Flow",
+      "url": "https://open.spotify.com/track/5me40Wxw2M3Ubpcac1w8Mo"
+    },
+    {
+      "album": {
         "name": "FOOL:Fruits of Our Labor",
         "url": "https://open.spotify.com/album/30TLMdZga9iCWddq3CfuoY"
       },
@@ -2582,6 +2618,24 @@
     },
     {
       "album": {
+        "name": "Petty Shit / Bother Me",
+        "url": "https://open.spotify.com/album/4e97L2Hh6nJx1QpZdzpMKF"
+      },
+      "artists": [
+        {
+          "name": "Donald Grunge",
+          "url": "https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "Petty Shit / Bother Me",
+      "url": "https://open.spotify.com/track/6T96oWcKjP6gXUfSgS6DZ0"
+    },
+    {
+      "album": {
         "name": "Pink Lemonade",
         "url": "https://open.spotify.com/album/4o7gh7g5sGeQjEV9mz7ahB"
       },
@@ -2858,6 +2912,24 @@
     },
     {
       "album": {
+        "name": "Rey Mysterio",
+        "url": "https://open.spotify.com/album/06qkxi5dRtOx8Wtzu0XSc5"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146628,
+      "name": "Rey Mysterio",
+      "url": "https://open.spotify.com/track/5lMANswgAGvs6C8lUIQHxH"
+    },
+    {
+      "album": {
         "name": "Ride with It",
         "url": "https://open.spotify.com/album/4Gel07KlTobHtai7UYKEWy"
       },
@@ -2895,7 +2967,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 125217,
       "name": "RIGHT NOW",
       "url": "https://open.spotify.com/track/1ncAOdlSZhWskM5NwFAeSj"
@@ -3546,6 +3618,24 @@
     },
     {
       "album": {
+        "name": "PORTAL",
+        "url": "https://open.spotify.com/album/5NB9B6DnDWSfr4VOSueGH6"
+      },
+      "artists": [
+        {
+          "name": "JORD4NEVERDIED",
+          "url": "https://open.spotify.com/artist/2UPrUSRrUq2ZNSN7kiQFD6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135524,
+      "name": "THINK ITS TIME!",
+      "url": "https://open.spotify.com/track/0oeE4Pu2wThxPH8TCyuFa4"
+    },
+    {
+      "album": {
         "name": "MOMMA i MAKE ART: SEE YOUR BOY IS NOT A LOSER!",
         "url": "https://open.spotify.com/album/6uDLjfr1RrtYJOxkivdSFs"
       },
@@ -3889,7 +3979,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 117600,
       "name": "YAMI YUGI MOTO",
       "url": "https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft"
@@ -4023,7 +4113,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 173714,
       "name": "\ud835\ude20\ud835\ude1a\ud835\ude13",
       "url": "https://open.spotify.com/track/5xhea33YpfmgdBwTypOyIb"

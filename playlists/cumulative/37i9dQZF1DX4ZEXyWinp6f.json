@@ -352,6 +352,24 @@
     },
     {
       "album": {
+        "name": "05-10",
+        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251200,
+      "name": "Autumn Linn",
+      "url": "https://open.spotify.com/track/2itquu15gAnReyWqLfsrnL"
+    },
+    {
+      "album": {
         "name": "Grosses Wasser",
         "url": "https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv"
       },
@@ -417,7 +435,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 282680,
       "name": "Barcarolle",
       "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
@@ -555,6 +573,24 @@
       "duration_ms": 293373,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3"
+    },
+    {
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1622575,
+      "name": "Briefly",
+      "url": "https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily"
     },
     {
       "album": {
@@ -3043,7 +3079,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 339954,
       "name": "Mono No Aware 1.1",
       "url": "https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS"
@@ -3791,6 +3827,24 @@
       "duration_ms": 308000,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251188,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/4fu26fz7aafZXnU0SlSU15"
     },
     {
       "album": {
@@ -4591,7 +4645,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 215415,
       "name": "The Runaround",
       "url": "https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU"

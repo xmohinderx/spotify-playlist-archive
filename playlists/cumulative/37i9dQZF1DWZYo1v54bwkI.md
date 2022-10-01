@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-163 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+168 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 | 2022-07-15 |  |
 | [Glittering Tide](https://open.spotify.com/track/7GJuxyNKKWmuSMWFfvVLGx) | [Sine Eins](https://open.spotify.com/artist/6FXJATkFcpQfzxQN4uAccz) | [Sun Walker](https://open.spotify.com/album/7d4JftYo1y9nBSnRe30iDI) | 2:31 | 2022-07-15 |  |
 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 | 2022-07-15 |  |
+| [Heart](https://open.spotify.com/track/6Ju1cRnaWq0PU3NDFuUths) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:32 | 2022-09-30 |  |
 | [Heaven Sent](https://open.spotify.com/track/2vy7Y6HaIB2zeVdxk4HyMP) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:24 | 2022-07-15 |  |
 | [Hiatus](https://open.spotify.com/track/7ykoFQqjGcAOutbeVmg7O6) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Hiatus](https://open.spotify.com/album/3s7MgBDyYwcGV1dJqhgnQT) | 3:23 | 2022-07-15 |  |
 | [Hidden Lotus](https://open.spotify.com/track/2GT3QE7CaEISpaRl9GmgXG) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Hidden Lotus](https://open.spotify.com/album/5TMotCnHIeHXI5gz2Tfugq) | 2:55 | 2022-07-15 |  |
@@ -96,6 +97,7 @@
 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 | 2022-07-15 |  |
 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2022-07-15 |  |
 | [Mantra](https://open.spotify.com/track/0mhg4wkvEjgVUu3P0vBlyA) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Mantra](https://open.spotify.com/album/3yj63MjABGbwMgVP8Az0oK) | 3:45 | 2022-07-15 |  |
+| [Memento Vivere](https://open.spotify.com/track/2Vs8AIlAGaEyhh5y7vR7x7) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:37 | 2022-09-30 |  |
 | [Memorising Breaths](https://open.spotify.com/track/5VO4Whju6O7GuB28o8yaFN) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Memorising Breaths](https://open.spotify.com/album/05JPbUArv7MlJNtfuUEasr) | 3:01 | 2022-07-15 |  |
 | [Morning Breeze](https://open.spotify.com/track/3n0oenkKLS8SyJtd4fUkak) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 1:59 | 2022-07-15 |  |
 | [Morning Energy](https://open.spotify.com/track/43lvXJ34YtEwW2GWkFM8wT) | [santini perotti](https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L) | [Morning Energy](https://open.spotify.com/album/5rLZ4RJAIE2rGWMp6aFsf0) | 1:30 | 2022-07-15 |  |
@@ -149,10 +151,13 @@
 | [Sol](https://open.spotify.com/track/7AbWodkJgM2N9Ak9BWynyx) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Sol](https://open.spotify.com/album/5dRowdaNxlPyESIG6ZSSig) | 3:30 | 2022-07-15 |  |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Moon Dreaming](https://open.spotify.com/artist/4nJRn0hxXlJXyP9heK1nj2) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2022-07-15 |  |
 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 | 2022-07-15 |  |
+| [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
+| [Somnolente](https://open.spotify.com/track/3jnupMmEH5htGamP01T0PB) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Somnolente](https://open.spotify.com/album/0gsvnIxyfAJl24pFzFrBtj) | 2:49 | 2022-09-30 |  |
 | [Sonno scintillante](https://open.spotify.com/track/5tmH0bmkkk5haZdbvWLzAk) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Sonno scintillante](https://open.spotify.com/album/2BRhy7AI0W4k4sUNjxhL4z) | 2:03 | 2022-07-15 |  |
 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 | 2022-07-15 |  |
 | [Spiritus](https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Spiritus](https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm) | 2:27 | 2022-09-13 |  |
 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 | 2022-07-15 |  |
+| [Svävar Fritt](https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Svävar Fritt](https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu) | 3:04 | 2022-09-30 |  |
 | [Svítání](https://open.spotify.com/track/0uA3VsjMlOtOD805k4hdZw) | [Lois Haas](https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5) | [Svítání](https://open.spotify.com/album/5cT9er9WCaNLhMllt5D1SJ) | 3:13 | 2022-07-15 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 | 2022-07-15 |  |

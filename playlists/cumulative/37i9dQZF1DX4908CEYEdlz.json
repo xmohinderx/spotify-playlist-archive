@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Nickelback",
+  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Godsmack",
   "name": "Volume M\u00e1ximo",
   "published_playlist_ids": [
     "7obgySRmTZymfPOzhJ5T39"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -1396,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315906,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
+    },
+    {
+      "album": {
         "name": "Hole In The Sky (2021 Remaster)",
         "url": "https://open.spotify.com/album/5eEPEJT9ESdOm1oQyjoIe8"
       },
@@ -1787,6 +1805,28 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+    },
+    {
+      "album": {
+        "name": "Maquiagem",
+        "url": "https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1"
+      },
+      "artists": [
+        {
+          "name": "Ani Belle",
+          "url": "https://open.spotify.com/artist/0YyO7b5QpE2BfJxHlM6K2b"
+        },
+        {
+          "name": "Andr\u00e9 Perucci",
+          "url": "https://open.spotify.com/artist/1Oa1N664mb9Hh4BFWvn4yk"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184941,
+      "name": "Maquiagem",
+      "url": "https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde"
     },
     {
       "album": {
@@ -2323,7 +2363,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 200016,
       "name": "Roses For You",
       "url": "https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t"
@@ -2510,6 +2550,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220839,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
+    },
+    {
+      "album": {
         "name": "Heaven in Hiding",
         "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
       },
@@ -2627,7 +2685,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 254906,
       "name": "Take What You Want",
       "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"

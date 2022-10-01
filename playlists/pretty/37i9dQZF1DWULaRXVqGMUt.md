@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,037 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,095 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 23 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
 | 24 | [Roll 'Em](https://open.spotify.com/track/0HTkU7FYXrtuBJnbh6MJvb) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 2:53 |
 | 25 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
-| 26 | [Mac's Boogie](https://open.spotify.com/track/2foLnOSkNrOT27RjE0LygE) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Dr\. John Plays Mac Rebennack The Legendary Sessions V\. 1](https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF) | 4:01 |
-| 27 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 |
+| 26 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 |
+| 27 | [Mac's Boogie](https://open.spotify.com/track/2foLnOSkNrOT27RjE0LygE) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Dr\. John Plays Mac Rebennack The Legendary Sessions V\. 1](https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF) | 4:01 |
 | 28 | [The House of Blue Lights](https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA) | [Ella Mae Morse](https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v), [Freddie Slack And His Orchestra](https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw), [Don Raye](https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X) | [Capitol Collectors Series](https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V) | 2:53 |
 | 29 | [Boogie Woogie Baby](https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Blues Kingpin](https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3) | 2:19 |
 | 30 | [Honky Tonk Train Blues](https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 49 | [Rocket Boogie "88" \(Pt\. 1\)](https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7), [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ) | [Tell Me Pretty Baby](https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk) | 2:50 |
 | 50 | [Five Stacked High](https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:14 |
 
-Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMGU1OWY0NWJjMTVlOGYyZmZjNDI5MDk5OWY3MjQwNDY4`
+Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMGEwZTc0MGMyZmY4YzQ3OTNmNWU0YzdjOGY5ZWJmNzQ2`

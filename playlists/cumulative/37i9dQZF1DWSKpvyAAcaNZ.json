@@ -2324,6 +2324,24 @@
     },
     {
       "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
+    },
+    {
+      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
@@ -3187,7 +3205,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 273866,
       "name": "Smoke Rising",
       "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"

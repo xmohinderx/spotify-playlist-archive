@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best in alt, folk, and indie rock. Cover: Caamp\n",
+  "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: All Them Witches\n",
   "name": "Rockin' Vibes",
   "published_playlist_ids": [
     "0rsiUCSpnpRaY4LTurJ99p"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 187676,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS"
@@ -791,6 +791,24 @@
       "duration_ms": 219333,
       "name": "Did You Say Such A Thing (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP"
+    },
+    {
+      "album": {
+        "name": "Do I Love You (Indeed I Do)",
+        "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
     },
     {
       "album": {
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 214054,
       "name": "Highest Bidder",
       "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
@@ -1535,6 +1553,24 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
+    },
+    {
+      "album": {
+        "name": "Butch Walker as... Glenn",
+        "url": "https://open.spotify.com/album/0FIk2aeXbMu4MmSJ8x0upW"
+      },
+      "artists": [
+        {
+          "name": "Butch Walker",
+          "url": "https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202776,
+      "name": "Holy Water Hangover",
+      "url": "https://open.spotify.com/track/6tWOtdZTtlZuGW1CEy9Xhh"
     },
     {
       "album": {
@@ -1625,6 +1661,24 @@
       "duration_ms": 192840,
       "name": "How High",
       "url": "https://open.spotify.com/track/1ifHcMs6Cm7LaSwIokxzzQ"
+    },
+    {
+      "album": {
+        "name": "Human Crime",
+        "url": "https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187956,
+      "name": "Human Crime",
+      "url": "https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4"
     },
     {
       "album": {
@@ -1737,7 +1791,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 193000,
       "name": "It's Depression (feat. Middle Part)",
       "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
@@ -1755,7 +1809,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 241093,
       "name": "Jackie Down The Line",
       "url": "https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A"
@@ -2314,6 +2368,24 @@
     },
     {
       "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2QBXaoVHGTe1R88O3aO1XI"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/32dbM6sFlQmbl4y7nVy9cS"
+    },
+    {
+      "album": {
         "name": "A Pretty Place to Fall Apart",
         "url": "https://open.spotify.com/album/277q9Arz8WB6wq9b1vRuxD"
       },
@@ -2332,6 +2404,32 @@
     },
     {
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        },
+        {
+          "name": "Jake Clemons",
+          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Nowhere To Go",
+      "url": "https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR"
+    },
+    {
+      "album": {
         "name": "Anniversary II",
         "url": "https://open.spotify.com/album/1fOUybYJNec1lhpwWIln83"
       },
@@ -2347,7 +2445,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 202758,
       "name": "Ohio Forever",
       "url": "https://open.spotify.com/track/2DPTXclMay45uBj9bKEq9B"
@@ -2365,7 +2463,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 265107,
       "name": "Out the Neighbourhood",
       "url": "https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6"
@@ -2405,7 +2503,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 210662,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej"
@@ -2992,6 +3090,24 @@
     },
     {
       "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
+    },
+    {
+      "album": {
         "name": "See Where The Night Goes",
         "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
       },
@@ -3025,6 +3141,24 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9"
+    },
+    {
+      "album": {
+        "name": "Jersey Girl",
+        "url": "https://open.spotify.com/album/5iB2B0iDgHikV3eeBo5dzk"
+      },
+      "artists": [
+        {
+          "name": "Jessie Baylin",
+          "url": "https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Strange Diamonds",
+      "url": "https://open.spotify.com/track/57nlJv1i24h7KMcNod0dyZ"
     },
     {
       "album": {
@@ -3504,6 +3638,24 @@
     },
     {
       "album": {
+        "name": "Tour Death Song",
+        "url": "https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297471,
+      "name": "Tour Death Song",
+      "url": "https://open.spotify.com/track/0aQpkTdFY2WYJSbdyGlHHO"
+    },
+    {
+      "album": {
         "name": "Truck Songs",
         "url": "https://open.spotify.com/album/4P65HHtKkH46q5YuYWq9ck"
       },
@@ -3875,7 +4027,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 210280,
       "name": "Your Song Saved My Life - From Sing 2",
       "url": "https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob"

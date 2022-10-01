@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-295 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
+297 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,11 +243,13 @@
 | [Skyline](https://open.spotify.com/track/7D3YyaNpoUpEhDMlqSgSMr) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Drones](https://open.spotify.com/album/0aB0sdg1xr6Yr8K2AVhaYy) | 3:21 | 2022-07-05 |  |
 | [Sleep Cycle](https://open.spotify.com/track/36r3L1AiFPuwH20GumGMjs) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Sleep Cycle](https://open.spotify.com/album/43bAtT08bt66oXewEoDIav) | 2:53 | 2022-07-05 |  |
 | [Sleep Cycle](https://open.spotify.com/track/60j53jLRN3evEIp22FtwsQ) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Sleep Cycle](https://open.spotify.com/album/0k9IhCoXlVmYJUAZGJ3mEc) | 2:53 | 2022-07-05 | 2022-07-29 |
+| [Sleeping Moons](https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:11 | 2022-09-30 |  |
 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 | 2022-07-05 |  |
 | [Softness](https://open.spotify.com/track/4Ph8ixycBuZIqhY9vfKjNf) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Softness](https://open.spotify.com/album/2RRGo8KbdsjYicoP3l3pZy) | 2:34 | 2022-07-05 | 2022-07-29 |
 | [Softness](https://open.spotify.com/track/4bUPUoSgMRSRrUJTXEkvOk) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Softness](https://open.spotify.com/album/59POBHkbmazBWdgaaO2XuS) | 2:34 | 2022-07-05 |  |
 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2022-07-05 |  |
 | [Solaris](https://open.spotify.com/track/5vhW2jwyTXXJUiujWBZMSQ) | [OD Lark](https://open.spotify.com/artist/20vUXXQpEmqcgEIP6Q4QCE) | [Solaris](https://open.spotify.com/album/1tRU9fkO0PYQpFKDXCMHnU) | 3:48 | 2022-07-05 |  |
+| [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Something Sends Me to Sleep](https://open.spotify.com/track/0yBUFL9DZRhhg18XuaaJ3S) | [Aquarium Haze](https://open.spotify.com/artist/2F5h2SNluMoGRPAeBh2068) | [Something Sends Me to Sleep](https://open.spotify.com/album/4CfXMmmghsc1QOFPKwGIGL) | 2:12 | 2022-07-05 | 2022-07-29 |
 | [Something Sends Me to Sleep](https://open.spotify.com/track/1I2tHQMHfV5KtBMC9dTnDt) | [Aquarium Haze](https://open.spotify.com/artist/2F5h2SNluMoGRPAeBh2068) | [Something Sends Me to Sleep](https://open.spotify.com/album/311TXrzxWXdItV2U9EWX6d) | 2:12 | 2022-07-05 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2022-07-05 |  |

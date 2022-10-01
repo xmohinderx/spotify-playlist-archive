@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157139,
+  "num_followers": 157133,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDMyYjUyNTg2YzliYjEyNDBiN2M2YjVlYmExNDVmMTc5",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDM2NzlmZmZmZjEzZDdiNzg2M2UwOWVmMGM3MjljNTNj",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
-      },
-      "artists": [
-        {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Family (Remixes)",
         "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 185813,
       "name": "Family - Frank Walker Remix",
       "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Bass Goes Down",
+        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
+      },
+      "artists": [
+        {
+          "name": "MOLOW",
+          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
+        },
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        }
+      ],
+      "duration_ms": 144449,
+      "name": "Bass Goes Down",
+      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
-      },
-      "artists": [
-        {
-          "name": "Steerner",
-          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
-        },
-        {
-          "name": "Buster Moe",
-          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Wanna Go",
         "url": "https://open.spotify.com/album/2XrgEnXG5bxZhEpAItTzm4"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 148200,
       "name": "Wanna Go",
       "url": "https://open.spotify.com/track/40L4n2A2AkMZGrTcEmS10x"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
+      },
+      "artists": [
+        {
+          "name": "Steerner",
+          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
+        },
+        {
+          "name": "Buster Moe",
+          "url": "https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Tell Me I'm Pretty (Icona Pop Remix)",
+        "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
+      },
+      "artists": [
+        {
+          "name": "Brynn Elliott",
+          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 159425,
+      "name": "Tell Me I'm Pretty - Icona Pop Remix",
+      "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Always Feels Like (MOTi Remix)",
         "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 139922,
       "name": "Always Feels Like - MOTi Remix",
       "url": "https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Tell Me I'm Pretty (Icona Pop Remix)",
-        "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
-      },
-      "artists": [
-        {
-          "name": "Brynn Elliott",
-          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 159425,
-      "name": "Tell Me I'm Pretty - Icona Pop Remix",
-      "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
     },
     {
       "added_at": "2022-07-15 14:10:44",

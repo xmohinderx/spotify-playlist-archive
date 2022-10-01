@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,347 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,387 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 39 | [South of the Border \(feat\. Camila Cabello\) \- Acoustic](https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [South of the Border \(feat\. Camila Cabello\) \[Acoustic\]](https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT) | 3:14 |
 | 40 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
 | 41 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
-| 42 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 |
-| 43 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
+| 42 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
+| 43 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 |
 | 44 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
 | 45 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 |
 | 46 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 71 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 |
 | 72 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 |
 | 73 | [I'm Yours](https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Verão Acústico](https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE) | 4:02 |
-| 74 | [What A Shame \- Acoustic](https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:11 |
-| 75 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 |
+| 74 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 |
+| 75 | [What A Shame \- Acoustic](https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:11 |
 | 76 | [Rest Your Love \- Acoustic Version](https://open.spotify.com/track/2cWap35x6l2kXcjtOGYHqL) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Acoustic by Connor](https://open.spotify.com/album/4yKCxARipHPZ92wNy3HCyb) | 3:18 |
 | 77 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 |
 | 78 | [Blame It On Me \- Acoustic](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 80 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7) | 4:07 |
 | 81 | [We Don't Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [We Don´t Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95) | 3:06 |
 | 82 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 |
-| 83 | [Malleable](https://open.spotify.com/track/0z5b3yTwZYaoRfx4E9nmQX) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable EP](https://open.spotify.com/album/1q3md4eSASxxwiseXoJw8H) | 2:48 |
-| 84 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/6HZnBUYzLfIjejP2dBSrMk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:18 |
+| 83 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/6HZnBUYzLfIjejP2dBSrMk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:18 |
+| 84 | [Malleable](https://open.spotify.com/track/0z5b3yTwZYaoRfx4E9nmQX) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable EP](https://open.spotify.com/album/1q3md4eSASxxwiseXoJw8H) | 2:48 |
 | 85 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 |
 | 86 | [One Kiss](https://open.spotify.com/track/5oBopn3BpWNSWcYJ7SKhb6) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [One Kiss](https://open.spotify.com/album/40p2egHm3WhR8Awxv9UMh9) | 3:37 |
 | 87 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [Say Something \- Acoustic](https://open.spotify.com/track/0TxB4c8V3dsLsqmoHDWd7Z) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Say Something \(Acoustic\)](https://open.spotify.com/album/0gQ9WKsH6Om8X3lEjI1anY) | 3:15 |
 | 90 | [Você é Um Perigo \(Acústico no Studio F\)](https://open.spotify.com/track/0eIL5KQ45Cz36a6bEPzDRB) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você é Um Perigo \(Acústico no Studio F\)](https://open.spotify.com/album/0u2FT7gPhP5DeEBNS2vV0K) | 3:04 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMGNhMDkyN2EwMjkyNTNmYjE4NGZmMzBiZmJlOTllY2U3`
+Snapshot ID: `MTY2NDUwNjgwMCwwMDAwMDAwMDY5NDQ2YmEwNjFkZTZiYTYyNjg3YTkzY2I4MjBmOTM2`

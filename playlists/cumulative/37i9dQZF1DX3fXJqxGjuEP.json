@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 207686,
       "name": "Amores Pasajeros",
       "url": "https://open.spotify.com/track/30jKRzjsGEAGqrdHytq2jf"
@@ -1925,7 +1925,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 212821,
       "name": "Comadre",
       "url": "https://open.spotify.com/track/6KZnvozLmnxxOEzHaH404F"
@@ -1986,6 +1986,28 @@
     },
     {
       "album": {
+        "name": "El \u00c1lbum de las Ilusiones",
+        "url": "https://open.spotify.com/album/7wTHrCoUQJNtkhQRFreDiW"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261786,
+      "name": "Conectar",
+      "url": "https://open.spotify.com/track/4w95fyTD2dawHjWZCnV7Vk"
+    },
+    {
+      "album": {
         "name": "Tierra",
         "url": "https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J"
       },
@@ -2027,6 +2049,28 @@
       "duration_ms": 197053,
       "name": "Constelaci\u00f3n",
       "url": "https://open.spotify.com/track/0kFH3rp87T7JQe84FmSBgU"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Usado",
+        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Isabel Aladro",
+          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232241,
+      "name": "Coraz\u00f3n Usado",
+      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
     },
     {
       "album": {
@@ -2219,7 +2263,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 320000,
       "name": "Dame Tu Wasap",
       "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
@@ -3071,7 +3115,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
@@ -3137,6 +3181,28 @@
       "duration_ms": 367861,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI"
+    },
+    {
+      "album": {
+        "name": "Fu Manch\u00fa",
+        "url": "https://open.spotify.com/album/7wFkUkAQzKKUn0ZArwa0Qb"
+      },
+      "artists": [
+        {
+          "name": "Achilifunk Sound System",
+          "url": "https://open.spotify.com/artist/4yizsieShlGiLVWStpSt5t"
+        },
+        {
+          "name": "The Oldians",
+          "url": "https://open.spotify.com/artist/4B6xk9HVjlWYmJRJoBhTAx"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Fu Manch\u00fa",
+      "url": "https://open.spotify.com/track/24IaEbKousVV3Rip3o5BQk"
     },
     {
       "album": {
@@ -3633,7 +3699,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 212693,
       "name": "Hoy Es Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif"
@@ -4111,6 +4177,28 @@
       "duration_ms": 200373,
       "name": "La Yarar\u00e1",
       "url": "https://open.spotify.com/track/4rpNuGWK8BQSzjQyN5mrP8"
+    },
+    {
+      "album": {
+        "name": "Piratas, Pero Rom\u00e1nticos (Con Ritmos Chidos)",
+        "url": "https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "David Palacio",
+          "url": "https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200366,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN"
     },
     {
       "album": {
@@ -4917,7 +5005,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 206284,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
@@ -6098,6 +6186,24 @@
     },
     {
       "album": {
+        "name": "Post Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188320,
+      "name": "Post Qu\u00edmica",
+      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
+    },
+    {
+      "album": {
         "name": "Shika Shika / Botanas, Vol. 15",
         "url": "https://open.spotify.com/album/1C6ozZe6bRxeTeGgB6C5Vk"
       },
@@ -6511,6 +6617,24 @@
       "duration_ms": 196925,
       "name": "Reacciona",
       "url": "https://open.spotify.com/track/42EwHBXrkR2U7RAgPIIRZO"
+    },
+    {
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/3QU8u1UHOFtEn1H8loolP7"
+      },
+      "artists": [
+        {
+          "name": "Lusa\u00ed",
+          "url": "https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214694,
+      "name": "Regresa",
+      "url": "https://open.spotify.com/track/0VUYbviBDSWSVZU0V6qtgl"
     },
     {
       "album": {

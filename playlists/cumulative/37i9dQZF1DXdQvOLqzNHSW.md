@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-384 songs - 1 day 0 hr 11 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+386 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [DAYDREAM](https://open.spotify.com/track/2BVeeIDSD2dCnkNMhGDYK4) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 8:39 | 2022-07-20 | 2022-07-29 |
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2020-12-21 | 2022-04-17 |
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2022-01-12 |  |
+| [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 | 2022-09-30 |  |
 | [Did I Get It Wrong](https://open.spotify.com/track/2hEFAHjkgjUJSbSWrB6uad) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Did I Get It Wrong](https://open.spotify.com/album/49IL3XMqHP7DSW39GffMgY) | 3:05 | 2021-05-01 | 2022-07-29 |
 | [Didn't Know What I Was in For](https://open.spotify.com/track/0PYdiBzO9IvWc6Y3wO1j7m) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj) | 4:03 | 2020-12-21 | 2022-04-20 |
 | [dimeback](https://open.spotify.com/track/3WIjTtXpbu1dViSMQYfID5) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [A Museum Of Contradiction](https://open.spotify.com/album/3m0PIFv2mh0ytlTroWklbd) | 3:18 | 2020-12-21 | 2022-09-20 |
@@ -140,6 +141,7 @@
 | [Get Me Back in the Game](https://open.spotify.com/track/4K9n5qyCUGYBtfuJAgh23X) | [LL Burns](https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS) | [Get Me Back in the Game](https://open.spotify.com/album/2ZmCrPaswCSKEy1yIfgJ5W) | 4:32 | 2020-12-21 | 2022-04-21 |
 | [Giving Up](https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Giving Up](https://open.spotify.com/album/07Bsd2TfdTUXq6DBtKdDuY) | 3:10 | 2020-12-21 | 2022-04-03 |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-06-25 | 2022-07-21 |
+| [Glass House \(with DLG.\)](https://open.spotify.com/track/5FULv6bbjwbqX1JQ2NaW5C) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Glass House \(with DLG.\)](https://open.spotify.com/album/0ky7rRyyKVz2bLv69NFYQK) | 3:25 | 2022-09-30 |  |
 | [Go](https://open.spotify.com/track/0SCtV9YQhnsY0m277xlmxg) | [Yowler](https://open.spotify.com/artist/5CS14R1ytSX7XfXD0m5FAj) | [The Offer](https://open.spotify.com/album/65AieGRQ5nDKMU67c595Sx) | 3:33 | 2020-12-21 | 2022-04-21 |
 | [Go With It \- feat\. MNDR](https://open.spotify.com/track/6dw1umZXGNbAixRtJaK0UB) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Go With It](https://open.spotify.com/album/0WiOcdlXbS2Rb0ZomxOOpP) | 4:26 | 2020-12-21 | 2022-04-21 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-05-01 | 2022-07-09 |
@@ -319,7 +321,7 @@
 | [Stay Safe](https://open.spotify.com/track/2s4z1J7yMhMYtSLgRxzQwq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 4:52 | 2020-12-21 | 2022-04-18 |
 | [Stayback](https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stayback](https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk) | 2:39 | 2020-12-21 | 2022-07-21 |
 | [Still Beating](https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:01 | 2020-12-21 | 2022-07-29 |
-| [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 | 2022-07-22 |  |
+| [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 | 2022-07-22 | 2022-10-01 |
 | [Stop Selling Her Drugs \(feat\. Dominic Fike\)](https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 2:53 | 2020-12-21 | 2022-07-12 |
 | [Strange Darling](https://open.spotify.com/track/3pGTGFLKTGFOLArMq3H9jE) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling](https://open.spotify.com/album/6JvrwcEWOwBDRR9MgqD35Z) | 3:42 | 2020-12-21 | 2022-04-21 |
 | [Stranger Still \(Daniel T Remix\)](https://open.spotify.com/track/6wZnVO1mipek72VQfS36tY) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Stranger Still \(Daniel T Remix\) \- Single](https://open.spotify.com/album/12OCK0NAh1NIWGB5LyodAH) | 6:06 | 2020-12-21 | 2022-04-18 |
@@ -368,7 +370,7 @@
 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 | 2022-07-22 |  |
 | [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 2:15 | 2020-12-21 | 2022-04-17 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-22 |  |
-| [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2020-12-21 |  |
+| [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2020-12-21 | 2022-10-01 |
 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 | 2022-07-08 | 2022-08-27 |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2020-12-21 |  |
 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 | 2022-07-22 |  |

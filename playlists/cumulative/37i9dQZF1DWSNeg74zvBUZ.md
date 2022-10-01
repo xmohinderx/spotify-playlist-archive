@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-126 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
+127 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [8pm Crickets](https://open.spotify.com/track/5XM3Wo4pLH9jrwUu9l4bPw) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [11pm Sudden Thunderstorm](https://open.spotify.com/album/53sR9a0cJYLkTbhRRDS9nY) | 6:22 | 2021-09-10 | 2022-07-29 |
 | [A New Day](https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [A New Day](https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M) | 2:58 | 2021-09-10 |  |
 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 | 2021-09-10 |  |
-| [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 | 2022-02-18 |  |
+| [acceptances](https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 3:18 | 2022-09-30 |  |
+| [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 | 2022-02-18 | 2022-10-01 |
 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 | 2021-09-10 |  |
 | [Altar of Tammy](https://open.spotify.com/track/0vY8f5mk1hJJ9qVWqYy0pU) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Altar of Tammy](https://open.spotify.com/album/0X4MaivNbTViISJ5anYIbc) | 7:58 | 2022-03-30 | 2022-07-28 |
 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 | 2021-09-10 |  |

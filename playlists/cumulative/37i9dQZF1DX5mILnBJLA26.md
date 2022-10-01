@@ -4,7 +4,7 @@
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=4uFZWx8kRsKUgoGaPtB92Q">Pabi Cooper</a>
 
-626 songs - 2 day 16 hr 19 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
+627 songs - 2 day 16 hr 23 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Vika](https://open.spotify.com/track/4vEXq4heG2b6bElpvXp3h7) | [EmoAfrika](https://open.spotify.com/artist/2MsLJAbYq5VW7U2SAlnjs7), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX) | [Vika](https://open.spotify.com/album/4y5WpJOPhkCZ2rddxeqaoj) | 6:05 | 2022-09-13 | 2022-09-27 |
 | [Vum Vum](https://open.spotify.com/track/3p2DXbzwbhFVMyr4PXZ4s8) | [Rethabile Khumalo](https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV), [Tycoon](https://open.spotify.com/artist/6QCX4dw3138zvY1fUOBwJ7) | [THE LEGACY](https://open.spotify.com/album/0sgnMXiIfgqtmcUkLdwcYV) | 5:14 | 2022-04-28 | 2022-05-06 |
 | [Vumani](https://open.spotify.com/track/42Vzi0h1xVtqQ6HZD9QJz6) | [Dj Musique](https://open.spotify.com/artist/6aG3c5aKt9awWPU2QHt8vi), [Baba KaSimba](https://open.spotify.com/artist/2NezpaqBRDLiAPkOQmojuF), [Benson Straxx](https://open.spotify.com/artist/3gAHq30LuPVcl9cd6KSbhY), [Pitiza](https://open.spotify.com/artist/5oXX2tXfrHG3cDWglqSmiL) | [Vumani](https://open.spotify.com/album/7JGPvOBOpNHq70kSKhOuGK) | 5:35 | 2022-03-31 | 2022-04-15 |
+| [Waga Bietjie](https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Waga Bietjie](https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48) | 4:51 | 2022-09-30 |  |
 | [Wandy](https://open.spotify.com/track/6UpI9YLzjN1aeHTZky6SwP) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Sibusiso ISO Makhoba](https://open.spotify.com/artist/7z8nvVhVkCpeGXFS26dG5S) | [Wandy](https://open.spotify.com/album/5Rrfu4A11gMzKJrokb10Mh) | 7:51 | 2022-03-03 | 2022-04-01 |
 | [Want](https://open.spotify.com/track/6vcL12JWIzSjpxxqFPmh9L) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Want](https://open.spotify.com/album/46ZtJ3n0Z1Ux2BhcaGqfKQ) | 2:59 | 2022-06-09 | 2022-07-01 |
 | [Want You](https://open.spotify.com/track/00uzgka5rnAJ5WK20LSzKx) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3), [Nandi Madida](https://open.spotify.com/artist/60vMFIPFnhdegF2moUlgBG) | [Want You](https://open.spotify.com/album/6PCgJiMmcBVpzORuuk8LLy) | 3:37 | 2022-08-18 | 2022-09-10 |

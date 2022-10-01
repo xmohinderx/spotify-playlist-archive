@@ -1121,7 +1121,7 @@
           "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
         },
         {
-          "name": "Nitti Gritti",
+          "name": "Nitti",
           "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
         }
       ],
@@ -2453,7 +2453,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 146197,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/14PyY68X7D0J6i2xtdajEo"
@@ -2803,6 +2803,28 @@
       "duration_ms": 274285,
       "name": "It's Not Too Late",
       "url": "https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186052,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507"
     },
     {
       "album": {
@@ -3765,7 +3787,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 152824,
       "name": "PART OF ME",
       "url": "https://open.spotify.com/track/1Hn4Yt7ByliodvxeanCQkS"
@@ -3937,7 +3959,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 187792,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3kouAggxGgCP6xqAsztwrA"
@@ -4703,6 +4725,28 @@
       "duration_ms": 232000,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/1hiNxftJnpiiOgHEi1hMRu"
+    },
+    {
+      "album": {
+        "name": "Stop Thinking (feat. Lights)",
+        "url": "https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292633,
+      "name": "Stop Thinking (feat. Lights)",
+      "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
     },
     {
       "album": {
@@ -5695,7 +5739,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 266470,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/4OecGYEp7UPOrhrt2IhQ0o"

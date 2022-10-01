@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-315 songs - 4 day 20 hr 3 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
+320 songs - 4 day 21 hr 47 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Occam River II](https://open.spotify.com/track/7AM44RzCn6Eybd7OOdDkkU) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh), [Silvia Tarozzi](https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb), [Deborah Walker](https://open.spotify.com/artist/1QUhMEo7HTSdWgzaOxxd2E) | [Éliane Radigue: Occam Ocean Vol\. 3](https://open.spotify.com/album/6Enyd6EAZj6GQlGWg6CrYC) | 23:38 | 2022-05-25 |  |
 | [Ocean](https://open.spotify.com/track/0CkEs6b5zvKwNT0WHguMg3) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Oceanic Space](https://open.spotify.com/album/3OCJ1HpvrobzQpIsT4fMjo) | 28:40 | 2022-05-25 |  |
 | [Of The Sea And Shore Part 1](https://open.spotify.com/track/309z3cOyeJ9SWZsTZu19vD) | [Gareth Hardwick](https://open.spotify.com/artist/48CEmXE2udfW3NEC2wqYSO) | [Of The Sea And Shore](https://open.spotify.com/album/2YZf4xDGKoPYb5Ot674rPO) | 18:23 | 2022-05-25 |  |
+| [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 | 2022-09-30 |  |
 | [Old Tape Loops](https://open.spotify.com/track/6hKt5UPaTcbPVHs2AVKwPB) | [Rest You Sleeping Giant](https://open.spotify.com/artist/527tM0glHTJaBcb7UxNeX0) | [Songs for a Sad Guitar](https://open.spotify.com/album/6ly6dRdIvkRWTilqoKwkhP) | 20:32 | 2022-05-25 |  |
 | [On a Shattered Shell Beach](https://open.spotify.com/track/255C4p9eZAJD1hNf4xjk7y) | [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7) | [In Immobile Air](https://open.spotify.com/album/7cYshrWMa1tEd4S9wLu4rR) | 11:09 | 2022-07-15 |  |
 | [On A Shattered Shell Beach](https://open.spotify.com/track/6TOnON3mFkM9NHjaa1zSnR) | [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7) | [In Immobile Air](https://open.spotify.com/album/2Yd7IoYM1AVnHrssdQlaRp) | 11:10 | 2022-05-25 | 2022-07-29 |
@@ -246,10 +247,13 @@
 | [Songs and Views from the Magnetic Garden: Songs and Views from the Magnetic Garden: II.](https://open.spotify.com/track/3eNaCqjTBSmrk7AZb9eulb) | [Alvin Curran](https://open.spotify.com/artist/6ywzDJKoA3PbCiD16Vh1hI) | [Alvin Curran: Solo Works \- The '70s](https://open.spotify.com/album/3eWKZX4ER6EEiDA2CSwJQC) | 23:13 | 2022-05-25 |  |
 | [Sorry](https://open.spotify.com/track/1VOsiZYiNHAUisapZtXpKh) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/4ltdtRBUlN4xym6T6Isnng) | 17:40 | 2022-05-25 | 2022-07-29 |
 | [Sorry](https://open.spotify.com/track/70wiCLAuAs2yjRQHkPuMN7) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/3jwdZ5aqNto6V6XY2ob6Vv) | 17:40 | 2022-07-15 |  |
+| [SOTRS](https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS) | 9:30 | 2022-09-30 |  |
 | [Souffle d'un petit Dieu distrait](https://open.spotify.com/track/5sA8u6ktVldrgmgnikx4zj) | [Beatriz Ferreyra](https://open.spotify.com/artist/0OPtaxS6whUvvhElm7AMLL) | [Sonic Circuits V](https://open.spotify.com/album/6LFMcZAHDGQqyRHRp0j6BO) | 13:23 | 2022-05-25 |  |
 | [South Pacific Migration Party](https://open.spotify.com/track/39KPDqrQsNr1OPfq4xvSCV) | [Peter Zinovieff](https://open.spotify.com/artist/7AtS4LGRPdZi6hQpQS3Mq4) | [South Pacific Migration Party](https://open.spotify.com/album/6leN7nV6VqTPNQhygn0NqY) | 30:03 | 2022-05-25 |  |
 | [Space 8](https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 17:32 | 2022-05-25 |  |
 | [Spangle \- Autechre Remix](https://open.spotify.com/track/0rHnnaxK2XcY4HSkSnQmOF) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f), [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Spangle \(Autechre Remix\)](https://open.spotify.com/album/6F9UWEuOW0BYKNiYr2JFdX) | 12:17 | 2022-05-25 |  |
+| [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-09-30 |  |
+| [Structures from Silence](https://open.spotify.com/track/6fWQiphelkd7NF3CoPegB1) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 28:33 | 2022-09-30 |  |
 | [Summer Light, Pt\. 4](https://open.spotify.com/track/3HMc33y7p4LB0ncUemTP8h) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Summer Light](https://open.spotify.com/album/16yJnP6QLSsR5TbroOhL08) | 23:02 | 2022-05-25 |  |
 | [Summer, Pt\. II](https://open.spotify.com/track/6Z6TCcIBYEtVMNK96YtE0B) | [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3) | [Seasons Greetings \(Summer\)](https://open.spotify.com/album/6uhCR8f58q0nIbHozgNhfl) | 14:54 | 2022-05-25 |  |
 | [Sun](https://open.spotify.com/track/5wL0hCZliz4NsDMZxoF8Ye) | [mafmadmaf](https://open.spotify.com/artist/5LiVBsDhCO16vnfqrAZXV6), [Marc Méan](https://open.spotify.com/artist/27i9mSlvBU2zduOZK2yvYz) | [Far](https://open.spotify.com/album/1uTJg9r4rmrl2wkCR4lhKF) | 10:52 | 2022-05-25 |  |
@@ -303,6 +307,7 @@
 | [V](https://open.spotify.com/track/64l0z9THXodrnf9wPrgxbF) | [SOLINCE](https://open.spotify.com/artist/4RwxWWmlIEhKmqjZSRCRwc) | [V](https://open.spotify.com/album/1auBsUFex4vvE8mhBTSk7u) | 34:06 | 2022-05-25 |  |
 | [Vanda](https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 10:17 | 2022-05-25 |  |
 | [Variable Speeds](https://open.spotify.com/track/72nBHcM5RRyoPiIC1a6OPj) | [Growing](https://open.spotify.com/artist/57SlFijfkLdoiN09FSueTI) | [Diptych](https://open.spotify.com/album/4lBXHWloSIxSNoGsoj92zq) | 21:45 | 2022-05-25 |  |
+| [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2022-09-30 |  |
 | [Vernal Equinox](https://open.spotify.com/track/3EIv3TZlRfeTpmXS7uoRFq) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 21:54 | 2022-05-25 |  |
 | [Vibrant color](https://open.spotify.com/track/74FsBoeYeAcdNHzkAIDt47) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg), [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [It is, it isn't](https://open.spotify.com/album/3brHNTZApou6FaM7xzBTsf) | 23:24 | 2022-05-25 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-05-25 |  |

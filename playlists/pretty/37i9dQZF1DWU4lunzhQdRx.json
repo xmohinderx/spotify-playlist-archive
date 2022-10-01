@@ -1,12 +1,12 @@
 {
   "description": "cry just a little",
-  "num_followers": 25228,
+  "num_followers": 25379,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAzMDMwNSwwMDAwMDAwMDcyNDQzOTIzNmM2M2QyZWE3NjAwNDQzNTNhMjkyM2E5",
+  "snapshot_id": "MTY2MzAzMDMwNSwwMDAwMDAwMDE3NDYwZjVmY2Y5MWVjYmY5YjE3ODFmNGZlMDZkZGY1",
   "tracks": [
     {
       "added_at": "2022-09-13 00:51:45",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-09-13 00:51:45",
       "album": {
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "I Hate This",
+      "url": "https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3"
+    },
+    {
+      "added_at": "2022-09-13 00:51:45",
+      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 236333,
       "name": "Whiskey And You",
       "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
-    },
-    {
-      "added_at": "2022-09-13 00:51:45",
-      "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "I Hate This",
-      "url": "https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3"
     },
     {
       "added_at": "2022-09-13 00:51:45",

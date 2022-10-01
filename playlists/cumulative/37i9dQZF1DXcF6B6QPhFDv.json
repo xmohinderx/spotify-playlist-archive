@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "The latest from The Smashing Pumpkins along with the Rock songs you need to hear today.",
+  "description": "The latest from Paramore along with the Rock songs you need to hear today.",
   "name": "Rock This",
   "published_playlist_ids": [
     "6Fsj2Im6Dv5sgOMEKd4oVV"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 137052,
       "name": "10 for 10",
       "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
@@ -1323,6 +1323,24 @@
       "duration_ms": 173665,
       "name": "HELL TO HAVE YOU",
       "url": "https://open.spotify.com/track/75IgEto7grPuLZpqr1L1kQ"
+    },
+    {
+      "album": {
+        "name": "Asphalt Meadows",
+        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226320,
+      "name": "Here to Forever",
+      "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
     },
     {
       "album": {
@@ -3057,7 +3075,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 160441,
       "name": "SUBSTANCE",
       "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
@@ -3841,6 +3859,24 @@
       "duration_ms": 244004,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283786,
+      "name": "Yen",
+      "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
     },
     {
       "album": {

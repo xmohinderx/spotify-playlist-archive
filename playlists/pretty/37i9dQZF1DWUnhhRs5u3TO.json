@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
-  "num_followers": 315524,
+  "num_followers": 315748,
   "original_name": "10s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjQzMSwwMDAwMDAwMDkxNWY4NTk3ZjY5MzU1NGEwMDdlMzliY2E4M2FjNmUz",
+  "snapshot_id": "MTY2MDI0NjQzMSwwMDAwMDAwMGI3MzQyNDgxZjE4YjU5MjlmYzIxYzljZjM2MzIzYTgy",
   "tracks": [
     {
       "added_at": "2022-07-25 22:20:28",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "The Concrete Confessional",
-        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Looking Down the Barrel of Today",
-      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "The Last Stand",
         "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 235840,
       "name": "The Last Stand",
       "url": "https://open.spotify.com/track/0bUgTRe5st6TMbRCEjKezX"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "The Concrete Confessional",
+        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Looking Down the Barrel of Today",
+      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Deadweight",
-        "url": "https://open.spotify.com/album/0c4JrJyBCQHU0Pq3td483f"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 205986,
-      "name": "Stitch",
-      "url": "https://open.spotify.com/track/0Pl5XX0MbdQ5E702GBhnUn"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 268746,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Deadweight",
+        "url": "https://open.spotify.com/album/0c4JrJyBCQHU0Pq3td483f"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 205986,
+      "name": "Stitch",
+      "url": "https://open.spotify.com/track/0Pl5XX0MbdQ5E702GBhnUn"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -855,6 +855,22 @@
       "duration_ms": 201386,
       "name": "Army of the Night",
       "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Infestissumam (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 350186,
+      "name": "Year Zero",
+      "url": "https://open.spotify.com/track/1YBf7Tq9bpcVwvnlP8YbQS"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -935,38 +951,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "The Black Crown",
-        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Infestissumam (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 350186,
-      "name": "Year Zero",
-      "url": "https://open.spotify.com/track/1YBf7Tq9bpcVwvnlP8YbQS"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 302466,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "The Black Crown",
+        "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
+        "name": "1000hp",
+        "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "1000hp",
+      "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
         "name": "Koi No Yokan",
         "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 191331,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "1000hp",
-        "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "1000hp",
-      "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk"
     },
     {
-      "added_at": "2022-07-13 14:26:52",
-      "album": {
-        "name": "The Great War",
-        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Seven Pillars of Wisdom",
-      "url": "https://open.spotify.com/track/6kiASFX63DwJ7grwKG2HUX"
-    },
-    {
       "added_at": "2022-04-24 22:00:00",
       "album": {
         "name": "Imaginaerum",
@@ -1363,6 +1347,22 @@
       "duration_ms": 322280,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS"
+    },
+    {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
+        "name": "The Great War",
+        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Seven Pillars of Wisdom",
+      "url": "https://open.spotify.com/track/6kiASFX63DwJ7grwKG2HUX"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
+        "name": "Blood of the Nations",
+        "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 324746,
+      "name": "Beat the Bastards",
+      "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
         "name": "Winter Kills (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P"
       },
@@ -1499,34 +1515,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Blood of the Nations",
-        "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
+        "name": "Restoring Force",
+        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
       },
       "artists": [
         {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         }
       ],
-      "duration_ms": 324746,
-      "name": "Beat the Bastards",
-      "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "Shadows Inside",
-        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 236549,
-      "name": "Shadows Inside",
-      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
+      "duration_ms": 255693,
+      "name": "Bones Exposed",
+      "url": "https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Restoring Force",
-        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
+        "name": "Shadows Inside",
+        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
         }
       ],
-      "duration_ms": 255693,
-      "name": "Bones Exposed",
-      "url": "https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo"
+      "duration_ms": 236549,
+      "name": "Shadows Inside",
+      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Scream (Expanded Edition)",
-        "url": "https://open.spotify.com/album/72OTYgFKqc6ALaGfXZQUWM"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Let Me Hear You Scream",
-      "url": "https://open.spotify.com/track/36WNQJFVjYhDRZ6vJhYXEh"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 299106,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Scream (Expanded Edition)",
+        "url": "https://open.spotify.com/album/72OTYgFKqc6ALaGfXZQUWM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Let Me Hear You Scream",
+      "url": "https://open.spotify.com/track/36WNQJFVjYhDRZ6vJhYXEh"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Brotherhood of the Snake",
-        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 253988,
-      "name": "Brotherhood of the Snake",
-      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Our Endless War",
         "url": "https://open.spotify.com/album/4ldi4wEpZSlSw9DGE2Sx85"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 267613,
       "name": "The Saw Is the Law",
       "url": "https://open.spotify.com/track/6rLEeo9rNT87t2xHry8xUl"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Brotherhood of the Snake",
+        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 253988,
+      "name": "Brotherhood of the Snake",
+      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "For We Are Many",
         "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 238306,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/47fPXkWBYmYLcRCGrXgoYq"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Eat The Elephant",
-        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 281626,
-      "name": "The Doomed",
-      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "The Phantom Agony (Expanded Edition)",
         "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 289306,
       "name": "Sensorium",
       "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Eat The Elephant",
+        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 281626,
+      "name": "The Doomed",
+      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Defy",
-        "url": "https://open.spotify.com/album/78yMb0lsPLAEuugaeLeLL0"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/15TC83LO1QAu0BZLRdHw01"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Conspiracy",
         "url": "https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 253000,
       "name": "Fleur de lis",
       "url": "https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Defy",
+        "url": "https://open.spotify.com/album/78yMb0lsPLAEuugaeLeLL0"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/15TC83LO1QAu0BZLRdHw01"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -2241,22 +2241,6 @@
       "url": "https://open.spotify.com/track/1ZR4QAYsiO9zPsGaMPW2OI"
     },
     {
-      "added_at": "2022-07-13 14:26:52",
-      "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 315360,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g"
-    },
-    {
       "added_at": "2022-04-24 22:00:00",
       "album": {
         "name": "Resolution (Exclusive Edition)",
@@ -2271,6 +2255,22 @@
       "duration_ms": 270693,
       "name": "Ghost Walking",
       "url": "https://open.spotify.com/track/6pej2azEjNp6pEFpYPmCNi"
+    },
+    {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 315360,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -2401,22 +2401,6 @@
       "url": "https://open.spotify.com/track/0Q4zzvZA2anhHTs0zjwQhy"
     },
     {
-      "added_at": "2022-07-13 14:26:52",
-      "album": {
-        "name": "The Nexus",
-        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Electroheart",
-      "url": "https://open.spotify.com/track/36KH2r0JLzix1WKHURR2MY"
-    },
-    {
       "added_at": "2022-04-24 22:00:00",
       "album": {
         "name": "The Legacy of Shi",
@@ -2431,6 +2415,22 @@
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4"
+    },
+    {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
+        "name": "The Nexus",
+        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Electroheart",
+      "url": "https://open.spotify.com/track/36KH2r0JLzix1WKHURR2MY"
     }
   ],
   "unique_name": "10s Metal Classics",

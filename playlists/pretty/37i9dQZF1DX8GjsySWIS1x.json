@@ -1,13 +1,29 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 982259,
+  "num_followers": 982357,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2NjgyOCwwMDAwMDAwMDU2Y2NkOTgwOTRhMWFlMzVlMzJkODBiOWRlZjdhNDRj",
+  "snapshot_id": "MTY2NDUxNjA0MCwwMDAwMDAwMGJhYzQxNGY5NWNhYzg2ZDgxNjI0NjNhNGJiN2VjN2Vm",
   "tracks": [
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
     {
       "added_at": "2022-09-29 15:51:46",
       "album": {

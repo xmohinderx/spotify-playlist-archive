@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 217400,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
@@ -221,6 +221,24 @@
       "duration_ms": 371533,
       "name": "Every Grain of Sand",
       "url": "https://open.spotify.com/track/6MfOFYmw1TD9QDFSu0TEN1"
+    },
+    {
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360013,
+      "name": "False Prophet",
+      "url": "https://open.spotify.com/track/0JBFlDivbkrskU7oYnjdIU"
     },
     {
       "album": {
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 195693,
       "name": "From a Buick 6",
       "url": "https://open.spotify.com/track/6txGFpco4cfgG1sA1MxLCp"
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 253853,
       "name": "Goodbye Jimmy Reed",
       "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 318013,
       "name": "House of the Risin' Sun",
       "url": "https://open.spotify.com/track/3yFRbFaSj8MeNuYaN21HIu"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 271360,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 292440,
       "name": "One of Us Must Know (Sooner or Later)",
       "url": "https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 344333,
       "name": "Romance in Durango",
       "url": "https://open.spotify.com/track/1OT1G66Lt9EpKFWkwK8i9z"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 160000,
       "name": "Song to Woody",
       "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"

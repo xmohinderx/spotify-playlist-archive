@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 36154,
+  "num_followers": 36556,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2NzEyOCwwMDAwMDAwMDMyZmI0MzFjOTczYWNmOWMyMTNiYTM1NDQzMWVkMWY4",
+  "snapshot_id": "MTY2NDI2NzEyOCwwMDAwMDAwMGY2OWJmMzQ2ZWJmZDAxMWU4ZTQxNTNjOWRhZjNjOWVi",
   "tracks": [
     {
       "added_at": "2022-09-21 12:47:48",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 217843,
-      "name": "Una Mas",
-      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 242073,
       "name": "Sky Watcher",
       "url": "https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Fuzzy Logic",
-        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
-      },
-      "artists": [
-        {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
-        }
-      ],
-      "duration_ms": 291520,
-      "name": "You Read My Mind",
-      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 256295,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Fuzzy Logic",
+        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
+      },
+      "artists": [
+        {
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+        }
+      ],
+      "duration_ms": 291520,
+      "name": "You Read My Mind",
+      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Seduction",
-        "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 272480,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/7uHtZIoR7GnrvKrupnSICf"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "After The Storm",
         "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 314506,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 272480,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/7uHtZIoR7GnrvKrupnSICf"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "West Coast Coolin'",
-        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 270840,
-      "name": "West Coast Coolin'",
-      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Cool Covers - Smooth Jazz Plays The Hits!",
         "url": "https://open.spotify.com/album/2ho5Kw38AAzxTUnH56CYA1"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 303106,
       "name": "Ocean Way",
       "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "West Coast Coolin'",
+        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "West Coast Coolin'",
+      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Just Chillin'",
         "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 261866,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 325373,
-      "name": "Night Calls",
-      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 263960,
       "name": "Pop's Cool Groove",
       "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 325373,
+      "name": "Night Calls",
+      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Another Door Opens",
         "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 284200,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/7HNTBKiVNU2MBWJ0WnJDez"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 340280,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/2vNbXqk8usOSYRlH9OfTHH"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "White Sand",
         "url": "https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8"
       },
@@ -1163,6 +1147,58 @@
       "duration_ms": 279880,
       "name": "More Or Less Paul",
       "url": "https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "Mr. Groove",
+      "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/7HNTBKiVNU2MBWJ0WnJDez"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 340280,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/2vNbXqk8usOSYRlH9OfTHH"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Two of a Kind (feat. Chuck Loeb)",
+      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1195,42 +1231,6 @@
       "duration_ms": 265466,
       "name": "To The Max",
       "url": "https://open.spotify.com/track/5fZWvZlO3SddhtKE6p57b4"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 301240,
-      "name": "Mr. Groove",
-      "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Two of a Kind (feat. Chuck Loeb)",
-      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1279,6 +1279,22 @@
       "duration_ms": 233666,
       "name": "Straight to the Heart",
       "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 269573,
-      "name": "Vinyl",
-      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+      "duration_ms": 297493,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1403,22 +1419,6 @@
       "duration_ms": 291626,
       "name": "I'll Tell You What",
       "url": "https://open.spotify.com/track/7m85ef6chzSPAyhx9Nc3qD"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Influences",
-        "url": "https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "When You Love Somebody",
-      "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
@@ -1519,18 +1503,34 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "In The Name Of Love",
-        "url": "https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW"
+        "name": "Influences",
+        "url": "https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 301933,
-      "name": "Tell Me So",
-      "url": "https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE"
+      "duration_ms": 264440,
+      "name": "When You Love Somebody",
+      "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+      },
+      "artists": [
+        {
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Always There (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
+        "name": "In The Name Of Love",
+        "url": "https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "Tell Me So",
+      "url": "https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 329346,
       "name": "Rozil",
       "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Always There (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "If You New",
-      "url": "https://open.spotify.com/track/4YTjvImG7MPjIOKTPI6P3X"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 325800,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "If You New",
+      "url": "https://open.spotify.com/track/4YTjvImG7MPjIOKTPI6P3X"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+        "name": "Jazzmasters: The Greatest Hits",
+        "url": "https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Midnight At The Oasis",
-      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
+      "duration_ms": 251973,
+      "name": "London Chimes",
+      "url": "https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Jazzmasters: The Greatest Hits",
-        "url": "https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "London Chimes",
-      "url": "https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
       },
@@ -1727,22 +1711,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 414834,
-      "name": "Squeeze Me",
-      "url": "https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Smooth Creations the Album, Pt. 1",
         "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
       },
@@ -1755,6 +1723,38 @@
       "duration_ms": 376000,
       "name": "Let's Get It Started",
       "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Midnight At The Oasis",
+      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 414834,
+      "name": "Squeeze Me",
+      "url": "https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C"
     },
     {
       "added_at": "2022-09-21 12:47:48",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-09-21 12:47:48",
       "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 328866,
-      "name": "The Gift",
-      "url": "https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6"
-    },
-    {
-      "added_at": "2022-09-21 12:47:48",
-      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 253815,
       "name": "Just One Wish",
       "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
+    },
+    {
+      "added_at": "2022-09-21 12:47:48",
+      "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 328866,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6"
     },
     {
       "added_at": "2022-09-21 12:47:48",

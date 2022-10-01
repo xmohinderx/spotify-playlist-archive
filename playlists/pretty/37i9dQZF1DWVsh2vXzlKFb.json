@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 265272,
+  "num_followers": 265256,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGNmNDNjMDRlMjY2NDQ1NGVjMDAwNTU4MWE3ZWVjODY0",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGE1YThhMGJjOGUyMzFhMmJlYzc2MDFmZWU5MTA1ZjE1",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Bad Dream Baby",
+        "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 178150,
+      "name": "Bad Dream Baby",
+      "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 157817,
       "name": "OTT",
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Bad Dream Baby",
-        "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 178150,
-      "name": "Bad Dream Baby",
-      "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "You Stupid Bitch",
-        "url": "https://open.spotify.com/album/4oBhZqwpWAUsKobnZ9zb9W"
+        "name": "Not High On Drugz",
+        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
         }
       ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF"
+      "duration_ms": 252372,
+      "name": "Not High On Drugz",
+      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Not High On Drugz",
-        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
+        "name": "You Stupid Bitch",
+        "url": "https://open.spotify.com/album/4oBhZqwpWAUsKobnZ9zb9W"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 252372,
-      "name": "Not High On Drugz",
-      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI"
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 263658,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw"
+      "duration_ms": 204391,
+      "name": "You Lose!",
+      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
     }
   ],
   "unique_name": "Summer Indie",

@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 140684,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1k4mn7Rb1DeNxWBs6fmanW"
@@ -2033,6 +2033,28 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
+    },
+    {
+      "album": {
+        "name": "Legit",
+        "url": "https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH"
+      },
+      "artists": [
+        {
+          "name": "Erlandsson",
+          "url": "https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm"
+        },
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Legit",
+      "url": "https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz"
     },
     {
       "album": {

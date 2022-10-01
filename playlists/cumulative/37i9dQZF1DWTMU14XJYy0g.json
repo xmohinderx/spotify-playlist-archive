@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Estelares.",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Indio Solari.",
   "name": "Rock Nacional",
   "published_playlist_ids": [
     "1BEgfZL9U1ltwJb00J2hJ4"
@@ -359,6 +359,28 @@
       "duration_ms": 215717,
       "name": "CULPA",
       "url": "https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8"
+    },
+    {
+      "album": {
+        "name": "De las Ventajas de Caminar Dormida",
+        "url": "https://open.spotify.com/album/2xXNK36mEbfYTVdUO5G1Vz"
+      },
+      "artists": [
+        {
+          "name": "El Mister y Los Marsupiales Extintos",
+          "url": "https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228478,
+      "name": "De las Ventajas de Caminar Dormida",
+      "url": "https://open.spotify.com/track/4j4zS5Kk3gMLv83QegL9DU"
     },
     {
       "album": {
@@ -884,6 +906,24 @@
     },
     {
       "album": {
+        "name": "Ind\u00f3mito Sentir",
+        "url": "https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249438,
+      "name": "Ind\u00f3mito Sentir",
+      "url": "https://open.spotify.com/track/0ldljvvUw0ApIcnVdzrupm"
+    },
+    {
+      "album": {
         "name": "Inmediatez",
         "url": "https://open.spotify.com/album/6LoA2hbjy7lPdLBh46l2M8"
       },
@@ -957,6 +997,28 @@
       "duration_ms": 192480,
       "name": "Jugando Con Fuego",
       "url": "https://open.spotify.com/track/1Ts0sHzGfkg5VO96NWaqcA"
+    },
+    {
+      "album": {
+        "name": "Ken Kesey (scherzo)",
+        "url": "https://open.spotify.com/album/77Hia84RuOXF6hQ9YixTul"
+      },
+      "artists": [
+        {
+          "name": "El Mister y Los Marsupiales Extintos",
+          "url": "https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270772,
+      "name": "Ken Kesey (scherzo)",
+      "url": "https://open.spotify.com/track/3QdjStCd2S66h1DYU7rO7h"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Everything Broadway-adjacent. Cover: Julie Benko",
+  "description": "Everything Broadway-adjacent. Cover: The Sanderson Sisters",
   "name": "Off Broadway",
   "published_playlist_ids": [
     "3a6QDi9Fpx4195yiMPoXKx"
@@ -69,7 +69,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 213750,
       "name": "4 Stars",
       "url": "https://open.spotify.com/track/1JbUwOG4KMiDg7ag6iNzlx"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 291286,
       "name": "Don't Lose Ur Head",
       "url": "https://open.spotify.com/track/1rUexwfDLRGzOyX1VGwaoq"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 242867,
       "name": "Perfection - from Lempicka - Original Cast Recording",
       "url": "https://open.spotify.com/track/4QN3fPHmA4HUluObAil9WE"
@@ -1559,7 +1559,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 195586,
       "name": "Sing Again",
       "url": "https://open.spotify.com/track/0YZWgQPHHh5Hq2br0nMg1C"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 202226,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
@@ -1811,6 +1811,32 @@
       "duration_ms": 317693,
       "name": "The Phantom Of The Opera Symphonic Suite - Pt.1",
       "url": "https://open.spotify.com/track/1KgJrBJv7nxhpPunJOXXgt"
+    },
+    {
+      "album": {
+        "name": "Hocus Pocus 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        },
+        {
+          "name": "Sarah Jessica Parker",
+          "url": "https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH"
+        },
+        {
+          "name": "Kathy Najimy",
+          "url": "https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104339,
+      "name": "The Witches Are Back",
+      "url": "https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3"
     },
     {
       "album": {
@@ -1931,7 +1957,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 235971,
       "name": "Waving Through A Window - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/4TNCHOtNo3n6u66RYaJRzK"

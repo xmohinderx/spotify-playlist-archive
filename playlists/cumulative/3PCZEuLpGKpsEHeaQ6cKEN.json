@@ -466,6 +466,28 @@
     },
     {
       "album": {
+        "name": "Break The Silence",
+        "url": "https://open.spotify.com/album/36VWkKMQrDQoY4PAiBXFBq"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151004,
+      "name": "Break The Silence",
+      "url": "https://open.spotify.com/track/7sRQpJTP2b8jRde8IsaPWm"
+    },
+    {
+      "album": {
         "name": "Breathe Deep",
         "url": "https://open.spotify.com/album/4hcbjbhpg9sfBkNlS0QHF5"
       },

@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=0FitoAV0TlikCEZmOSnlsg" > Ayra Starr </a>  and <a href="https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB?si=3UjT\-tueQkqS39KEoK6dGA" > Kelly Rowland</a>
 
-225 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
+226 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Peru \- R3HAB Remix](https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Peru \(R3HAB Remix\)](https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4) | 2:29 | 2022-03-03 | 2022-03-11 |
 | [Peru \- Remix](https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Peru \(Remix\)](https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md) | 3:06 | 2022-02-11 | 2022-05-27 |
 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 | 2021-10-08 |  |
+| [Podcast](https://open.spotify.com/track/7j0kFL8uQ1quCKihQRScZE) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Podcast](https://open.spotify.com/album/3zE8liYYIGutz1qLXwySz1) | 2:52 | 2022-09-29 |  |
 | [Poppin'](https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM) | [Django23](https://open.spotify.com/artist/6idAEKryH3ywILH6WYFWZ9), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Poppin'](https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG) | 3:01 | 2022-05-26 | 2022-07-29 |
 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 | 2022-09-08 |  |
 | [Pray 2 The East \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Pray 2 The East](https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR) | 2:58 | 2022-05-19 | 2022-09-16 |

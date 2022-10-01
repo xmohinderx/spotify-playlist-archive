@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-157 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+159 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aerif Ealam](https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Aerif Ealam](https://open.spotify.com/album/6fEb4CMn6M8uqu9SxwFNi3) | 3:12 | 2022-06-07 |  |
 | [Ah Yani](https://open.spotify.com/track/0vMD3NFvruMSROWEhm8756) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ah Yani](https://open.spotify.com/album/2743kDzwDOEBBeTrSn6h5H) | 3:19 | 2021-12-23 | 2022-05-14 |
 | [Akh Minh Kalbi](https://open.spotify.com/track/7COIIuYoJ9FiJymfwHepVA) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW), [Ahmed Kareem](https://open.spotify.com/artist/11cbelfgXLsGBki28YqWsX) | [Akh Minh Kalbi](https://open.spotify.com/album/0jLnrjSo3NZqhF168RzD9j) | 3:06 | 2021-12-23 | 2022-03-15 |
+| [Al Farasha](https://open.spotify.com/track/7MsVIDqNpBdHtDD5BmMZHL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Al Farasha](https://open.spotify.com/album/3Q8tXahgguSwK5uQYXZ7hF) | 3:11 | 2022-09-30 |  |
 | [Al Hob Ihtmam](https://open.spotify.com/track/7qj9jTyc59xB1JmhsFohA0) | [Adnan Braysem](https://open.spotify.com/artist/6tCa22NbsZWw3dmQF0Ac08) | [Al Hob Ihtmam](https://open.spotify.com/album/2q7wM4nFdJAGK2Yxv5pm9E) | 3:03 | 2022-02-11 | 2022-06-09 |
 | [Al Kaaen Al Khyali](https://open.spotify.com/track/0EMIL4R3HQyZkCnIw8DT07) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Al Kaaen Al Khyali](https://open.spotify.com/album/2V5GC1ERTCwPPxcvkZEqHl) | 2:37 | 2022-05-13 |  |
 | [Al Lahja \- اللهجة](https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Al Lahja \(اللهجة\)](https://open.spotify.com/album/3V0G68ATxV8w7Zs5eOKEqi) | 2:38 | 2022-06-30 |  |
@@ -70,6 +71,7 @@
 | [Elk Nathir](https://open.spotify.com/track/0wgEd2trLis21up4IPj6hs) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Elk Nathir](https://open.spotify.com/album/4Tg7ogpzAMwVlVhrOPhVBx) | 4:17 | 2022-08-10 |  |
 | [Endi Rooh](https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Endi Rooh](https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9) | 3:41 | 2022-03-30 | 2022-06-14 |
 | [Enta Gheir](https://open.spotify.com/track/54FelQ6xi1QjP3PcsKB8Eb) | [Ali Leo](https://open.spotify.com/artist/3syttYlmeD3RTKBv0dGrcf) | [Enta Gheir](https://open.spotify.com/album/3QYmHo0ILA2kXnVlNBg1vO) | 3:33 | 2021-12-23 | 2022-02-18 |
+| [Enta W Thamrak](https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta W Thamrak](https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z) | 3:46 | 2022-09-30 |  |
 | [Er7am 7ali](https://open.spotify.com/track/6SgEZAjgJCjqunDi1bKJfR) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Er7am 7ali](https://open.spotify.com/album/7bzq1yir1DHiQSS8E2B5hX) | 4:31 | 2022-06-09 |  |
 | [Erjaa Habibi](https://open.spotify.com/track/1xiIRisLA9xvJgEK3w64Ft) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Erjaa Habibi](https://open.spotify.com/album/1ek4BlMt0gZxkXoyjln3RJ) | 3:27 | 2021-12-23 | 2022-05-14 |
 | [Ethkart](https://open.spotify.com/track/22g7S2odtoInanZZMAP4Dx) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Ethkart](https://open.spotify.com/album/5gNs2z7e2NbM76jZN9WOs4) | 3:15 | 2022-06-07 |  |

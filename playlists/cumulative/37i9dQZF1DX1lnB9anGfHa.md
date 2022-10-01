@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-127 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+128 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Tommy](https://open.spotify.com/track/5DIDBpv8X1eDO9v5b5IJn1) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/5c5i8rgLzFHNI5Y3Wc1C39) | 2:42 | 2020-10-20 |  |
 | [Tongues](https://open.spotify.com/track/3Jq8Aw4T4XZa4ieAbJ40qX) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/5rRSnfldLLZWYeksxKwHYP) | 3:22 | 2021-10-01 | 2022-07-29 |
 | [Tongues](https://open.spotify.com/track/4cdatGZQkKpBKZOiXptz5I) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:22 | 2021-10-01 |  |
+| [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 | 2022-09-30 |  |
 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 | 2022-09-19 |  |
 | [TWELVE](https://open.spotify.com/track/7MWrJXBSoTq6L7BvIsdFJp) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:32 | 2020-11-20 |  |
 | [Twist](https://open.spotify.com/track/1bIO8oWeMRyLUHUIUsTcTY) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 7:03 | 2020-10-20 |  |

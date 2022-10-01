@@ -4,10 +4,11 @@
 
 > Lounge sounds for SPA.
 
-91 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
+96 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/0Kdl62ocyyHzJyFfuwmMFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [528 Hz Dreaming](https://open.spotify.com/track/03ZyHNqFcZF8aiW4QvUM5K) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [528 Hz Dreaming](https://open.spotify.com/album/0PzmVcnQ8iM7GCjRF4Yjhs) | 1:42 | 2022-09-30 |  |
 | [A New Life Awaits](https://open.spotify.com/track/1gFkZFfUqtcImJLh932LUc) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:17 | 2022-09-02 |  |
 | [A Prayer](https://open.spotify.com/track/45YjrCMISpBx7chzkelNaR) | [River Bells](https://open.spotify.com/artist/7tjgFuQTvF34bRoYAiPvVv) | [Temple Meditation](https://open.spotify.com/album/6s1mXif0gMVAqtWeVC65Rx) | 3:19 | 2022-09-02 |  |
 | [Adrift](https://open.spotify.com/track/4omXz2PI3nVWBWo8QfUIrk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Adrift](https://open.spotify.com/album/7rxtpynRElW9XYlujynm5c) | 4:31 | 2022-09-02 |  |
@@ -23,6 +24,7 @@
 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2022-09-02 |  |
 | [Choshi or Shirabe](https://open.spotify.com/track/0dvWqDcjdP8SIXLRuaYuA6) | [Stan Richardson](https://open.spotify.com/artist/3hCNzCde5ddHVbysLGnImt) | [Shakuhachi Meditation Music](https://open.spotify.com/album/5WQCyENQ8DSX6Eqs952moH) | 4:52 | 2022-09-02 |  |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2022-09-02 |  |
+| [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2022-09-02 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-09-02 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-09-02 |  |
@@ -53,9 +55,11 @@
 | [Lustre and Mist](https://open.spotify.com/track/2tCQYWs43KyIximDIklg7z) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 4:26 | 2022-09-02 |  |
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-09-02 |  |
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2022-09-02 |  |
+| [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 | 2022-09-30 |  |
 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 | 2022-09-02 |  |
 | [Midnight Contemplation](https://open.spotify.com/track/4KXotHNLAns9Egx4uLDGaN) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Calmly: Peaceful Instrumental Ambient Music to Fall Asleep and Sleep Better](https://open.spotify.com/album/0v5cAuHvYSbdRX2ecxkFl3) | 3:31 | 2022-09-20 |  |
 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-13 |  |
+| [Music For Relaxation](https://open.spotify.com/track/3KilichjWZDdaMOlTALwGc) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5) | [Deep Sleep Dreams](https://open.spotify.com/album/1uBhdfgyP19ksI8kwtBD6o) | 1:10 | 2022-09-30 |  |
 | [My Quiet Place](https://open.spotify.com/track/1OntsKRQKkQaQNfOyRl0Ne) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [My Quiet Place](https://open.spotify.com/album/6hhNZktOa9U68TnlzXdMH8) | 3:30 | 2022-09-02 |  |
 | [Mystery Sound](https://open.spotify.com/track/0fEfKoG2qS0tsNHJg6ZEf7) | [Axiom](https://open.spotify.com/artist/76n5v6R1q993SAL6mTMmv1) | [Hammam Spirit](https://open.spotify.com/album/0UI1FidROVrq8SVzYAzjXt) | 4:36 | 2022-09-02 |  |
 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 | 2022-09-02 |  |
@@ -80,6 +84,7 @@
 | [Sacred Spirit](https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Beyond My Senses](https://open.spotify.com/album/61mwT5YHs6Eig5XDeTeuu2) | 3:12 | 2022-09-02 |  |
 | [Seiza](https://open.spotify.com/track/3LthWqBoIUpReucHmhf4Zr) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Singing Bowls And Music Meditation](https://open.spotify.com/album/039njQFCznTzhINn5jN1aa) | 2:22 | 2022-09-02 |  |
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2022-09-02 |  |
+| [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 | 2022-09-30 |  |
 | [Solitary minds](https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Solitary minds](https://open.spotify.com/album/3uQisjl6dSY4WnxXxv4GLF) | 3:59 | 2022-09-02 |  |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-09-02 |  |
 | [Soon my dear](https://open.spotify.com/track/5g7NMH1xXhjZsjqz268Vny) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Soon my dear](https://open.spotify.com/album/5iZNSYBVqRXKoa5oAhhZlD) | 3:13 | 2022-09-02 |  |

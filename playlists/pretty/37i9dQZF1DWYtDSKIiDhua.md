@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: KSI
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,111 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,181 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 5 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L) | 3:39 |
 | 6 | [Obvious \(feat\. Muni Long\)](https://open.spotify.com/track/2HXb9BYC7dPcrmcJi18GrZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:39 |
 | 7 | [We'll Be Alright](https://open.spotify.com/track/1QfVxmp3h9ZSVOc0756RJE) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du), [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [We'll Be Alright](https://open.spotify.com/album/23dY24TcGLlLmqZIcnWWAr) | 3:13 |
-| 8 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 |
+| 8 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 |
 | 9 | [All for U](https://open.spotify.com/track/4k2dxVydbkJdf9qSuVRKuf) | [mikebie](https://open.spotify.com/artist/6bSCTKZdt76wAmSy1zwJY5) | [All for U](https://open.spotify.com/album/0JDL0dcrSc1pFtH2EwErMZ) | 3:49 |
 | 10 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 |
 | 11 | [Let Your Head Down](https://open.spotify.com/track/0axDavMhGrmGUyiA2LeLQt) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Let Your Head Down](https://open.spotify.com/album/3shuAUmYWBLRGtvuwAHZet) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 74 | [boyfriend material](https://open.spotify.com/track/4Ef7cEjeHhh7vYBzmPq4oE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:30 |
 | 75 | [You're Almost There](https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [You're Almost There](https://open.spotify.com/album/7vA1tbXdEHvPftDO7jEsKj) | 3:06 |
 
-Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMDEyZDg2NTViNWNmNjlhMzUwOWI2MDA3ZTlmYmJhNDZh`
+Snapshot ID: `MTY2NDUwOTY3NCwwMDAwMDAwMGQ0MmJlNDE5MWRhZjRhMjc3MTllYmRkY2JhYzMyMWE0`

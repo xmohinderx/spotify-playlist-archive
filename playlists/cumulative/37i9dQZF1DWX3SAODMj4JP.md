@@ -4,7 +4,7 @@
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-70 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
+71 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 | 2022-09-02 |  |
 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 | 2022-09-02 |  |
 | [Deus sabe, Deus ouve, Deus vê](https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [sentido](https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH) | 4:49 | 2022-09-02 |  |
+| [Ele Fará](https://open.spotify.com/track/5RI306qvVfFeOrc0Gly2Zr) | [Tiago Duarte](https://open.spotify.com/artist/4YvseyTTL4ReKpJvATPCc5), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Ele Fará](https://open.spotify.com/album/24Mg0aXWn9UAUFRBbd7jlx) | 3:31 | 2022-10-01 |  |
 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 | 2022-09-02 |  |
 | [Estou Com Você \- Ao Vivo](https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Estou Com Você \(Ao Vivo\)](https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB) | 4:31 | 2022-09-02 |  |
 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 | 2022-09-02 |  |
@@ -72,7 +73,7 @@
 | [Te Agradeço](https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cânticos I](https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm) | 4:26 | 2022-09-02 |  |
 | [Todo Medo](https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco) | [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Ocideia](https://open.spotify.com/album/0z4207UV2U8qFqxDEYhwPy) | 4:23 | 2022-09-02 |  |
 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 | 2022-09-02 |  |
-| [Tu És Rei](https://open.spotify.com/track/5n9hgqQ5qkHLaoR4Cxwd1c) | [Rafael Bicudo](https://open.spotify.com/artist/61H5aPzbcBerqUNoHrckTC) | [Tu És Rei](https://open.spotify.com/album/5XfvKq7LQV3Cyhvmdtpm21) | 4:39 | 2022-09-02 |  |
+| [Tu És Rei](https://open.spotify.com/track/5n9hgqQ5qkHLaoR4Cxwd1c) | [Rafael Bicudo](https://open.spotify.com/artist/61H5aPzbcBerqUNoHrckTC) | [Tu És Rei](https://open.spotify.com/album/5XfvKq7LQV3Cyhvmdtpm21) | 4:39 | 2022-09-02 | 2022-10-01 |
 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 | 2022-09-02 |  |
 | [Tá Chorando Por Quê?](https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tá Chorando Por Quê?](https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5) | 3:34 | 2022-09-02 |  |
 | [Upper Room \- Acoustic/Live](https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Awake \(Deluxe\)](https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0) | 3:54 | 2022-09-02 |  |

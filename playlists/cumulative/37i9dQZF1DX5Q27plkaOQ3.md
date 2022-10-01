@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Zeds Dead
 
-239 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+240 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 |  |
 | [Dead Man Walking](https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Dead Man Walking Pt\. 1](https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD) | 4:47 | 2022-07-22 |  |
 | [Death's Parade](https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG) | [Outcry](https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Death's Parade](https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg) | 3:31 | 2021-12-17 | 2022-08-07 |
-| [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 |  |
+| [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 | 2022-10-01 |
 | [Demisaur](https://open.spotify.com/track/6cY37yS9qRbBNgkt52z86V) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Demisaur](https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF) | 3:32 | 2021-12-17 | 2022-05-07 |
 | [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-07-22 |  |
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-06-10 |  |
@@ -114,6 +114,7 @@
 | [I Can Feel It](https://open.spotify.com/track/4FZ4SAkkCrIqzaRqh7EVvM) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [I Can Feel It](https://open.spotify.com/album/1MPcz9Fd6Rce6zUV17Vwxe) | 3:28 | 2021-12-17 | 2022-09-11 |
 | [I Don't Care](https://open.spotify.com/track/73RKddd2yIFya9TZRFCd6r) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [I Don't Care](https://open.spotify.com/album/5ssIl7ho6aXkqoQ7CssRBw) | 3:55 | 2021-12-17 |  |
 | [I Know](https://open.spotify.com/track/5oslaeVoAfbVvtDtB91wVC) | [Kozah](https://open.spotify.com/artist/0g6PJw04eyN85JxQAGGdF4), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [I Know](https://open.spotify.com/album/4BpSGPmqlm2WRAWeFoAOgl) | 3:26 | 2022-08-05 | 2022-09-15 |
+| [I'm Delighted](https://open.spotify.com/track/3N6B80cmfOnaQGG7KWppyb) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [I'm Delighted](https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h) | 5:39 | 2022-09-30 |  |
 | [Ice Scream \- Carbin Remix](https://open.spotify.com/track/1Eh9S6rhwBWY58yhEeoANK) | [Shizz Lo](https://open.spotify.com/artist/2jrgjupkBfW8QzFQonRZVG), [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d) | [Ice Scream \(Carbin Remix\)](https://open.spotify.com/album/6uEYlcb3ezK7bLWjxuQBq2) | 3:31 | 2021-12-17 | 2022-03-12 |
 | [Ill](https://open.spotify.com/track/1jVCWMCgfWibathFUQbGq7) | [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d) | [Ill](https://open.spotify.com/album/2MLdBaNeanemnRDQYLhmw4) | 4:16 | 2021-12-17 | 2022-03-12 |
 | [Infernal Noise](https://open.spotify.com/track/2KL8TfyaV4ZWHSEKhay9ue) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Infernal Noises](https://open.spotify.com/album/2XN6XrW387IKmiFzcdBLTb) | 2:40 | 2022-07-08 | 2022-07-29 |

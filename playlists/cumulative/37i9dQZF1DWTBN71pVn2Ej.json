@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "War Boys - EP",
+        "url": "https://open.spotify.com/album/27cHXHny5VwZZndOEskS4s"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226514,
+      "name": "All Dressed Up For Nothing",
+      "url": "https://open.spotify.com/track/2MHkWrU8EtiU6mANOCVO5t"
+    },
+    {
+      "album": {
         "name": "All of the Best",
         "url": "https://open.spotify.com/album/6QVraQbSZHo4S7XtEV6092"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 157653,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5fZ5F3Qj5PJ5yYKzgzB6oY"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180154,
       "name": "Bash Out",
       "url": "https://open.spotify.com/track/1eEi76zQSIuNYTw2Zc62ZO"
@@ -387,6 +405,24 @@
       "duration_ms": 208985,
       "name": "Billow",
       "url": "https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66"
+    },
+    {
+      "album": {
+        "name": "Black Sky",
+        "url": "https://open.spotify.com/album/4lWTlSRJQ3ldM7o0qGqJGZ"
+      },
+      "artists": [
+        {
+          "name": "Healing",
+          "url": "https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225806,
+      "name": "Black Sky",
+      "url": "https://open.spotify.com/track/3NGnjrnNzqOOEQ0sHV2KAp"
     },
     {
       "album": {
@@ -660,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Can't Deny It",
+        "url": "https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF"
+      },
+      "artists": [
+        {
+          "name": "Honeycub",
+          "url": "https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238563,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw"
+    },
+    {
+      "album": {
         "name": "Driving In The Dark",
         "url": "https://open.spotify.com/album/44szdul4P7C2lcdgyscfcR"
       },
@@ -833,7 +887,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 254571,
       "name": "Clean Hands",
       "url": "https://open.spotify.com/track/5u4RZp5KS6Kbl70xPtJYCv"
@@ -945,6 +999,24 @@
       "duration_ms": 268399,
       "name": "Core",
       "url": "https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td"
+    },
+    {
+      "album": {
+        "name": "Sick Moon",
+        "url": "https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd"
+      },
+      "artists": [
+        {
+          "name": "False Heads",
+          "url": "https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238240,
+      "name": "Cottonmouth",
+      "url": "https://open.spotify.com/track/2I1mqyexg7275tAoJWtjYm"
     },
     {
       "album": {
@@ -1716,6 +1788,42 @@
     },
     {
       "album": {
+        "name": "The Warring Twenties",
+        "url": "https://open.spotify.com/album/4773GkUhoAhblhtYXxX9Sb"
+      },
+      "artists": [
+        {
+          "name": "LostAlone",
+          "url": "https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "I Don't Need a Rocket to Find My Own Space",
+      "url": "https://open.spotify.com/track/0WeFSW2vxAJ94y0EXWcTkt"
+    },
+    {
+      "album": {
+        "name": "I'm Feelin Alive",
+        "url": "https://open.spotify.com/album/2O9h13JUQR9Rl9y3lSutU9"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129147,
+      "name": "I'm Feelin Alive",
+      "url": "https://open.spotify.com/track/0ZdHUrfHYZpkmztomaDnIn"
+    },
+    {
+      "album": {
         "name": "i've got more than i need (and i don\u2019t have much)",
         "url": "https://open.spotify.com/album/7MrpFQHsePcwjjWRfTsz8d"
       },
@@ -1955,7 +2063,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 210712,
       "name": "Laugh",
       "url": "https://open.spotify.com/track/2adbCG7wkQRHHvVZIe5bLN"
@@ -2207,7 +2315,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 142586,
       "name": "Mind over Matter",
       "url": "https://open.spotify.com/track/2lLIr0cbqeirkMBnl586eD"
@@ -2578,6 +2686,24 @@
     },
     {
       "album": {
+        "name": "Out of the Dark and Into the Light",
+        "url": "https://open.spotify.com/album/03wqT0b3aui6059tTnSqqs"
+      },
+      "artists": [
+        {
+          "name": "Himalayas",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179746,
+      "name": "Out Of the Dark and into the Light",
+      "url": "https://open.spotify.com/track/2M01sUTKph6pqR7J5j79Er"
+    },
+    {
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/6gfFQPIQNXGT5RpPGZWewa"
       },
@@ -2607,7 +2733,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 209643,
       "name": "Peach",
       "url": "https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8"
@@ -2737,6 +2863,24 @@
       "duration_ms": 193770,
       "name": "Queen",
       "url": "https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I"
+    },
+    {
+      "album": {
+        "name": "Reality Cheques",
+        "url": "https://open.spotify.com/album/67DsYDB31JTEUZfuY2xv5s"
+      },
+      "artists": [
+        {
+          "name": "Pulled Apart By Horses",
+          "url": "https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/4nfqM6p3jcMF8ZLq91kywq"
     },
     {
       "album": {
@@ -2895,7 +3039,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 236826,
       "name": "Scared Together",
       "url": "https://open.spotify.com/track/44KmH8YZX9kypWnxcQwkw5"
@@ -3623,7 +3767,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 189397,
       "name": "War Boys",
       "url": "https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku"

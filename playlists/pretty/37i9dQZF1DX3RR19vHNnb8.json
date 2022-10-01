@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 4100,
+  "num_followers": 4112,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNDc0MywwMDAwMDAwMDUwOWI5NjY5YzYzY2UzMWVmNDQwZjMxY2QyZmNjNzRh",
+  "snapshot_id": "MTY2NDUzNDU4MiwwMDAwMDAwMDA1YjlhNWQ5OGJiZTQwZWNlMTUwNjcwYzc5ZTY5NzVl",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -83,26 +83,6 @@
       "duration_ms": 190557,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
-    },
-    {
-      "added_at": "2022-09-09 09:19:32",
-      "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/2W90ihxyThRpceuy94iejV"
-      },
-      "artists": [
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -213,6 +193,26 @@
       "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
     },
     {
+      "added_at": "2022-01-27 23:00:00",
+      "album": {
+        "name": "Rumors (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 185855,
+      "name": "Rumors (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
+    },
+    {
       "added_at": "2021-07-09 00:00:00",
       "album": {
         "name": "Clash (feat. Stormzy)",
@@ -231,6 +231,26 @@
       "duration_ms": 251733,
       "name": "Clash (feat. Stormzy)",
       "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
+    },
+    {
+      "added_at": "2021-09-09 23:00:00",
+      "album": {
+        "name": "Lonely (with Lil Wayne)",
+        "url": "https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 154432,
+      "name": "Lonely (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -255,46 +275,6 @@
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
-    },
-    {
-      "added_at": "2022-01-27 23:00:00",
-      "album": {
-        "name": "Rumors (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 185855,
-      "name": "Rumors (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
-    },
-    {
-      "added_at": "2021-09-09 23:00:00",
-      "album": {
-        "name": "Lonely (with Lil Wayne)",
-        "url": "https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 154432,
-      "name": "Lonely (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR"
     },
     {
       "added_at": "2021-07-09 00:00:00",
@@ -357,28 +337,44 @@
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
-      "added_at": "2022-06-23 23:09:00",
+      "added_at": "2022-10-01 01:49:18",
       "album": {
-        "name": "Montega",
-        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
+        "name": "Yenda",
+        "url": "https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Kay T",
+          "url": "https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr"
         },
         {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          "name": "MEDIKAL",
+          "url": "https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE"
         },
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Qv",
+          "url": "https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8"
         }
       ],
-      "duration_ms": 227096,
-      "name": "Keep It Real",
-      "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
+      "duration_ms": 231500,
+      "name": "Yenda",
+      "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"
+    },
+    {
+      "added_at": "2022-02-11 00:00:00",
+      "album": {
+        "name": "Worst Day",
+        "url": "https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Worst Day",
+      "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
     },
     {
       "added_at": "2021-08-13 00:00:00",
@@ -401,20 +397,28 @@
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
-      "added_at": "2022-02-11 00:00:00",
+      "added_at": "2022-06-23 23:09:00",
       "album": {
-        "name": "Worst Day",
-        "url": "https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT"
+        "name": "Montega",
+        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Worst Day",
-      "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
+      "duration_ms": 227096,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
     },
     {
       "added_at": "2021-08-20 00:00:00",
@@ -497,26 +501,6 @@
       "url": "https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7"
     },
     {
-      "added_at": "2021-06-07 14:17:55",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
-    },
-    {
       "added_at": "2021-10-01 05:37:36",
       "album": {
         "name": "Want It All (feat. Polo G)",
@@ -555,6 +539,26 @@
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "added_at": "2021-06-07 14:17:55",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
       "added_at": "2022-02-11 00:00:00",

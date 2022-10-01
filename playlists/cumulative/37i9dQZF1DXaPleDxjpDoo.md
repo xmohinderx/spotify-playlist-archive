@@ -4,13 +4,14 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-62 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
+67 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1JVIPhfXNBVJ46NAgYD6DU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 | 2022-09-15 |  |
 | [Above The Trees](https://open.spotify.com/track/6vUWjoUSF92bxEXheAQwPg) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Above The Trees](https://open.spotify.com/album/5A02FmfjCW12ChMUxc3PXn) | 3:16 | 2022-09-15 |  |
 | [Alleviation \(Sound Bath\)](https://open.spotify.com/track/0NTIQy3ISe4CoWGoMTUOL8) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation \(Sound Bath\)](https://open.spotify.com/album/7nYnglb5XofsK3mTfvfZQk) | 3:32 | 2022-09-15 |  |
+| [Alpha Sound Bath](https://open.spotify.com/track/1o2AMc7LXyell5edk3rpYG) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Chromabaths](https://open.spotify.com/album/3COfB16rn7vwZ49mNj6Puk) | 2:20 | 2022-09-30 |  |
 | [Ancient Rainforest](https://open.spotify.com/track/6MjrUU71pjTyp1khZr0ZVh) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Ancient Rainforest](https://open.spotify.com/album/00rkvNXq3KIytVhbEVWIpY) | 2:00 | 2022-09-15 |  |
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2022-09-15 |  |
 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2022-09-15 |  |
@@ -49,11 +50,14 @@
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-09-15 |  |
 | [My Pace](https://open.spotify.com/track/0IsnhN1xPrCDCl0m5rSW39) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 2:45 | 2022-09-15 |  |
 | [My Pace \- Remix](https://open.spotify.com/track/14q3zVXljoHZ7DqDyF3kQl) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [My Pace \(Remix\)](https://open.spotify.com/album/3NmlnEt8dF1oGVuEsBUe8j) | 2:22 | 2022-09-15 |  |
+| [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 | 2022-09-15 |  |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2022-09-15 |  |
 | [Paddling](https://open.spotify.com/track/6ArermgdPUH5Iu4ZXG9QgN) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Paddling](https://open.spotify.com/album/51MINJirySns0EC825x26Y) | 4:01 | 2022-09-15 |  |
+| [Part 5, Dawn Chorus Promenade](https://open.spotify.com/track/018IBzMQ9x0xR6nC3sld9Z) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 1:24 | 2022-09-30 |  |
 | [Paterson's Curse](https://open.spotify.com/track/5OWfVkHNd4tMTMZPXfk9wv) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Forest Sleep](https://open.spotify.com/album/6sNHszYiVNe3hLvWC7f5HN) | 4:38 | 2022-09-15 |  |
 | [Peaceful Forest](https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:58 | 2022-09-15 |  |
+| [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 |  |
 | [Secrets of the Forest](https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Secrets of the Forest](https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433) | 2:55 | 2022-09-15 |  |
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
@@ -61,6 +65,7 @@
 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 | 2022-09-15 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-09-15 |  |
 | [Song for Milkweed \(asclepias, a genus of herbaceous, perennial, flowering plants\)](https://open.spotify.com/track/6kiL320opeuGmB8d4O7a3c) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w), [D\. Field Recording Co.](https://open.spotify.com/artist/5hdo68ZZKXYHWBu21odRQi) | [Song for Milkweed \(asclepias, a genus of herbaceous, perennial, flowering plants\)](https://open.spotify.com/album/3QnE3ye7yScDPQLdjN9UGr) | 2:21 | 2022-09-15 |  |
+| [Spacious \(Forest Version\)](https://open.spotify.com/track/34JC7pSpTBs2vIcracU2ED) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Spacious](https://open.spotify.com/album/105C3Mcfk9K94SliSGOJTh) | 2:41 | 2022-09-30 |  |
 | [Spiritual Being \- Loopable with No Fade](https://open.spotify.com/track/1NLsqHq8E9ATTvTvrGgLOy) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:57 | 2022-09-15 |  |
 | [The Bird's World](https://open.spotify.com/track/44sYTwlTFZ9R9V2dGmfd4v) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [The Bird's World](https://open.spotify.com/album/0ojjQ4QirOH5kQbtbOzLdW) | 3:16 | 2022-09-15 |  |
 | [The Chilled Forest](https://open.spotify.com/track/54rhDr2tqu5HGEJxTbn8d7) | [Harmonius Amicabel](https://open.spotify.com/artist/6vDWRDxbU6fMkbjwSW67gd) | [The Chilled Forest](https://open.spotify.com/album/2Fg4b6c1Qk8xWjJBKrT9P1) | 2:43 | 2022-09-15 |  |

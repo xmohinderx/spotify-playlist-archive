@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 134682,
+  "num_followers": 134757,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMGEwOTJhMDE4Yjc4YjBjYWYyNWY4MjY3ODFiMzI4MzZj",
+  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMDYyZWQ0ODMxYzZlMmQxNDE5OWJjOGY0M2M3MGNmN2U2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:05:05",
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "It's Five O'Clock Somewhere",
-      "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "It's Five O'Clock Somewhere",
+      "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Dates In Pickup Trucks",
-        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "Dates In Pickup Trucks",
-      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "747",
         "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 198266,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Chillin' It",
+      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+        "name": "Dates In Pickup Trucks",
+        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Chillin' It",
-      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+      "duration_ms": 165520,
+      "name": "Dates In Pickup Trucks",
+      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/659uBz3TUG2ZjxQUYFeuEH"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/5sE5w8lzxAg5fNeXbSWIOw"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 175229,
       "name": "YOU'RE DRUNK, GO HOME",
       "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/659uBz3TUG2ZjxQUYFeuEH"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5sE5w8lzxAg5fNeXbSWIOw"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Daryle Singletary",
-        "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
-      },
-      "artists": [
-        {
-          "name": "Daryle Singletary",
-          "url": "https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Too Much Fun",
-      "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Telling All My Secrets",
         "url": "https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 186600,
       "name": "Alcohol You Later",
       "url": "https://open.spotify.com/track/5SO7pvSFiXwU0e1z7C4X7H"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Daryle Singletary",
+        "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
+      },
+      "artists": [
+        {
+          "name": "Daryle Singletary",
+          "url": "https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Too Much Fun",
+      "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
     },
     {
       "added_at": "2022-09-23 04:05:05",

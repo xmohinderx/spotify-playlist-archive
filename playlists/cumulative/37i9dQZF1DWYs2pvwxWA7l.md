@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M?si=BEGDhINTSzmhE8dCRynjQg"> Zuchu  </a>  and  <a href="https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=bKmM6nVLQwWkC34r4BQjNQ"> Adekunle Gold  </a>
 
-205 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
+206 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 | 2022-03-11 | 2022-08-10 |
 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 | 2022-01-20 | 2022-07-29 |
 | [Messiah \(feat\. Madumane\)](https://open.spotify.com/track/17HZGE8gBixZdPEXye4sEX) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [Messiah \(feat\. Madumane\)](https://open.spotify.com/album/6lAOFvkYT2cc3WmIUFCO27) | 3:37 | 2022-07-07 | 2022-07-22 |
-| [mmadu](https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [mmadu](https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT) | 3:16 | 2022-09-23 |  |
+| [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 |  |
+| [mmadu](https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [mmadu](https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT) | 3:16 | 2022-09-23 | 2022-10-01 |
 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/0DTEFwaPFY812t6uUH5i7P) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Multitude](https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex) | 3:07 | 2022-07-28 | 2022-08-23 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-05-19 |  |
 | [Mood \(feat\. Buju\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2021-09-27 | 2022-06-03 |

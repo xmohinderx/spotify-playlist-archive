@@ -2290,6 +2290,32 @@
     },
     {
       "album": {
+        "name": "Vivaldi: Concerti per violino X 'Intorno a Pisendel'",
+        "url": "https://open.spotify.com/album/1Sc75vXz2hN81GAfJ2y6kF"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Julien Chauvin",
+          "url": "https://open.spotify.com/artist/0f4NQpXWIbD4ulV9KPctcS"
+        },
+        {
+          "name": "Le Concert de la Loge",
+          "url": "https://open.spotify.com/artist/4A6IKOWIPjQ2m8SpMtWqZn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249226,
+      "name": "Violin Concerto in B-Flat Major, RV 369: III. Allegro",
+      "url": "https://open.spotify.com/track/5IK3ZZzWhHxx715qGbnLkd"
+    },
+    {
+      "album": {
         "name": "Vivaldi: Dresden Concertos, Vol. 2",
         "url": "https://open.spotify.com/album/0MNXpa9ZlTiBsjR8U8oegw"
       },

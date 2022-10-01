@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  Perfume
 
-511 songs - 1 day 6 hr 22 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
+512 songs - 1 day 6 hr 26 min - [published](https://open.spotify.com/playlist/41lFKfewPWEL5zWVowuASC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Comme des Garçons \(Like The Boys\)](https://open.spotify.com/track/2ECuq7NAthE5xFrOAiYtzx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:01 | 2022-02-01 | 2022-03-08 |
 | [CONMAN](https://open.spotify.com/track/3A4xPOxlnfb4QfaNSLzEMv) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [Sumire](https://open.spotify.com/artist/3ie7Kl4oUITfThdgrDSHFS) | [CONMAN](https://open.spotify.com/album/3K9mZFUwEV5ABwo93sDjK3) | 3:12 | 2022-05-31 | 2022-07-06 |
 | [Crush Style](https://open.spotify.com/track/5t4Y3IWiYiguDDPe7zW02z) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Crush Style](https://open.spotify.com/album/4iF42sLoBZy1xqC0Ssgvah) | 2:52 | 2022-02-01 | 2022-03-08 |
-| [de messiah](https://open.spotify.com/track/3KnUNThgGLUcGMTiOtyPYl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Anohino Kotoba / Growing](https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ) | 3:48 | 2022-09-06 |  |
+| [de messiah](https://open.spotify.com/track/5HPkVEqdGS65rqvX4a5UFo) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 3:47 | 2022-09-06 |  |
+| [de messiah](https://open.spotify.com/track/3KnUNThgGLUcGMTiOtyPYl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Anohino Kotoba / Growing](https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ) | 3:48 | 2022-09-06 | 2022-10-01 |
 | [Dead in GUSTO](https://open.spotify.com/track/1P1h2W0VovGgrjf2izzaL0) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Dead in GUSTO](https://open.spotify.com/album/5O9kFuuuE7LLPe4WsgDZkW) | 4:02 | 2022-05-04 | 2022-06-01 |
 | [Depression](https://open.spotify.com/track/4OAvJIfhXN0BWUhPDHJZSR) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Depression](https://open.spotify.com/album/4y5PJyIluqS3hiw0SOu2Ce) | 2:53 | 2022-03-07 | 2022-04-06 |
 | [DESIRE](https://open.spotify.com/track/2ravTxFpwFgqXzDmQru4H3) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [TIME TO SHINE](https://open.spotify.com/album/7wOxANTRpk4rz0M6KSt3wK) | 3:08 | 2022-01-04 | 2022-07-29 |

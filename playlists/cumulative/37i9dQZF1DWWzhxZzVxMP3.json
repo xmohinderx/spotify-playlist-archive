@@ -404,6 +404,28 @@
     },
     {
       "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b"
+      },
+      "artists": [
+        {
+          "name": "Luiz Mur\u00e1",
+          "url": "https://open.spotify.com/artist/5os4puXkeFYMsBpyN55oHQ"
+        },
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246374,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN"
+    },
+    {
+      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6"
       },

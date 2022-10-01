@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Meghan Trainor",
+  "description": "Featuring that new vintage. Cover: Sarah Kang",
   "name": "Retro Pop",
   "published_playlist_ids": [
     "3Icin3X1CyEouQNp33mzQK"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 152613,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 284870,
       "name": "Blast Off",
       "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 174906,
       "name": "Breaking Myself",
       "url": "https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 275817,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 207722,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 228117,
       "name": "Church (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/6SzbbQUOx85hxpqsesoMfx"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 243769,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 406186,
       "name": "Don't Lose Sight (Acoustic)",
       "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
@@ -1160,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+    },
+    {
+      "album": {
         "name": "Everybody",
         "url": "https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ"
       },
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 216866,
       "name": "Face The River",
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
@@ -2095,7 +2113,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 194418,
       "name": "If It's Love",
       "url": "https://open.spotify.com/track/1aK2wrsldTVOR0C1wMj3sR"
@@ -2135,6 +2153,24 @@
       "duration_ms": 206163,
       "name": "If You Need Me, Don't",
       "url": "https://open.spotify.com/track/7KkMAQjDSxPFH9VY4XL6ow"
+    },
+    {
+      "album": {
+        "name": "Angels & Queens - Part I",
+        "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252135,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
     },
     {
       "album": {
@@ -2651,7 +2687,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 403044,
       "name": "Love Is A Game",
       "url": "https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J"
@@ -2723,7 +2759,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 224638,
       "name": "Madison",
       "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
@@ -3379,7 +3415,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 189135,
       "name": "Poems",
       "url": "https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip"
@@ -4137,7 +4173,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 208106,
       "name": "Sweet Chamomile",
       "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
@@ -4173,7 +4209,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
@@ -4281,7 +4317,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 152066,
       "name": "The Two of Us",
       "url": "https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc"
@@ -4357,7 +4393,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
@@ -4379,7 +4415,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
@@ -4521,7 +4557,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 230101,
       "name": "Where the Light Is",
       "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
@@ -4543,6 +4579,24 @@
       "duration_ms": 240557,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/31RMjIWGSWCuj6S3CaaBu8"
+    },
+    {
+      "album": {
+        "name": "Adi Oasis",
+        "url": "https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241057,
+      "name": "Whisper My Name",
+      "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
     },
     {
       "album": {

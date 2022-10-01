@@ -52,6 +52,32 @@
     },
     {
       "album": {
+        "name": "A Tua Palavra",
+        "url": "https://open.spotify.com/album/4JHsst96lbZNhGmltVN0XO"
+      },
+      "artists": [
+        {
+          "name": "Flavio Rufino",
+          "url": "https://open.spotify.com/artist/2l2hZgZ0Iju7baPMds2cS5"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "A Tua Palavra",
+      "url": "https://open.spotify.com/track/4iFW0bjZQ5ZRvm8ny8YDvx"
+    },
+    {
+      "album": {
         "name": "A Verdade Liberta",
         "url": "https://open.spotify.com/album/4fEAswHgT41nIulijzo9WD"
       },
@@ -337,7 +363,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 200565,
       "name": "Baptizo",
       "url": "https://open.spotify.com/track/0pV4StfIqMhVAKccs3DD9n"
@@ -522,6 +548,28 @@
     },
     {
       "album": {
+        "name": "CULTURA (feat. Heddy Beats)",
+        "url": "https://open.spotify.com/album/3yGZtdvWzrqwAD1wBiyaGD"
+      },
+      "artists": [
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88333,
+      "name": "CULTURA (feat. Heddy Beats)",
+      "url": "https://open.spotify.com/track/6P0NHhm01puldJ1V2qTkZO"
+    },
+    {
+      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi"
       },
@@ -688,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Ef\u00eamero Atemporal",
+        "url": "https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV"
+      },
+      "artists": [
+        {
+          "name": "Pregador Luo",
+          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213922,
+      "name": "Ef\u00eamero Atemporal",
+      "url": "https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA"
+    },
+    {
+      "album": {
         "name": "Eia! Tudonovo Dinovo",
         "url": "https://open.spotify.com/album/64LQmeX15V0zZea3gy6DFb"
       },
@@ -839,7 +905,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 140089,
       "name": "Escola do Crime",
       "url": "https://open.spotify.com/track/3E9gQR89YBL51q3o0jqnR3"
@@ -869,6 +935,32 @@
       "duration_ms": 230831,
       "name": "Esperan\u00e7a para o Perdido",
       "url": "https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP"
+    },
+    {
+      "album": {
+        "name": "Eu Sou",
+        "url": "https://open.spotify.com/album/3A59tNKNF1ZUVBWIegUSFJ"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168148,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/5nNBTKt7DwBtrvjeX21i3X"
     },
     {
       "album": {
@@ -1099,7 +1191,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 224584,
       "name": "Gospel Playground",
       "url": "https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic"
@@ -1661,7 +1753,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 282000,
       "name": "O Pecado Te Prometeu",
       "url": "https://open.spotify.com/track/5y7B1Wc64S5ezzFYHEyxAI"
@@ -1679,7 +1771,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 163902,
       "name": "O \u00danico",
       "url": "https://open.spotify.com/track/0ahTUkq5B6miJJFEAb02uU"
@@ -1807,6 +1899,28 @@
       "duration_ms": 221341,
       "name": "Porto Seguro",
       "url": "https://open.spotify.com/track/5G1bwrm1nYFnrqsN6cafWi"
+    },
+    {
+      "album": {
+        "name": "Possivel \u00c9",
+        "url": "https://open.spotify.com/album/0Bz5jyWKCtu3bcQQF3AoBo"
+      },
+      "artists": [
+        {
+          "name": "KJ",
+          "url": "https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c"
+        },
+        {
+          "name": "Dj Alle mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Possivel \u00c9",
+      "url": "https://open.spotify.com/track/7Gn9M2Gt4wcjzW9Se0esmO"
     },
     {
       "album": {
@@ -2040,6 +2154,28 @@
     },
     {
       "album": {
+        "name": "Se Cair",
+        "url": "https://open.spotify.com/album/7M8bKWCmVtrUK3hrk3NSSQ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Gui Souz MSC",
+          "url": "https://open.spotify.com/artist/4JsEcRRMcKUPDgIeUuEvJ9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216034,
+      "name": "Se Cair",
+      "url": "https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh"
+    },
+    {
+      "album": {
         "name": "Se P\u00e1",
         "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
       },
@@ -2147,7 +2283,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 171754,
       "name": "Sodoma e Gomorra",
       "url": "https://open.spotify.com/track/1HR8Ed0DWikLbG8IUzBPFI"

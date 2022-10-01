@@ -1,13 +1,37 @@
 {
-  "description": "New music breaking waves.  Cover: Ice Spice",
-  "num_followers": 19300,
+  "description": "New music breaking waves.  Cover: MAVI",
+  "num_followers": 19334,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNzE5MiwwMDAwMDAwMDIyYzA2ZGRjYjM5YWM0MzFjNmY2MmI2YzBhNTE3NTJj",
+  "snapshot_id": "MTY2NDUxMDgyNiwwMDAwMDAwMGI3OGRkZDM1MjAxNTIxZmYzZmVmYjUzMTZlZmJmZGMy",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "HEAD TO HADES",
+      "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
+    },
     {
       "added_at": "2022-09-16 23:12:18",
       "album": {
@@ -25,20 +49,68 @@
       "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
     },
     {
-      "added_at": "2022-09-23 07:13:12",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Longwood Legends",
-        "url": "https://open.spotify.com/album/7yB6Yw9gzbtYsCOMpMfvQv"
+        "name": "Gratuity",
+        "url": "https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e"
       },
       "artists": [
         {
-          "name": "OTR CHAZ",
-          "url": "https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx"
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
         }
       ],
-      "duration_ms": 156055,
-      "name": "1722",
-      "url": "https://open.spotify.com/track/3LZ4y6jNGLW5PiSxxqmWSI"
+      "duration_ms": 217043,
+      "name": "Gratuity",
+      "url": "https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/4DlnZNLw1HqckLprf9a9hW"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/7jnLqCgzOAwW3p8g90p4Rk"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "If You Must Go",
+        "url": "https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr"
+      },
+      "artists": [
+        {
+          "name": "S\u00e6kyi",
+          "url": "https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB"
+        }
+      ],
+      "duration_ms": 196122,
+      "name": "If You Must Go",
+      "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        }
+      ],
+      "duration_ms": 163601,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy"
     },
     {
       "added_at": "2022-09-16 23:12:18",
@@ -59,6 +131,22 @@
       "duration_ms": 201923,
       "name": "NO PLACE TO GO",
       "url": "https://open.spotify.com/track/6aBMG5bq5CsCsVg7O1UJ6L"
+    },
+    {
+      "added_at": "2022-09-23 07:13:12",
+      "album": {
+        "name": "Longwood Legends",
+        "url": "https://open.spotify.com/album/7yB6Yw9gzbtYsCOMpMfvQv"
+      },
+      "artists": [
+        {
+          "name": "OTR CHAZ",
+          "url": "https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "1722",
+      "url": "https://open.spotify.com/track/3LZ4y6jNGLW5PiSxxqmWSI"
     },
     {
       "added_at": "2022-09-23 07:13:12",
@@ -99,22 +187,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Munch (Feelin\u2019 U)",
-        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 104819,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "DSM",
         "url": "https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol"
       },
@@ -139,6 +211,22 @@
       "duration_ms": 185806,
       "name": "How To Kill A Narcissist",
       "url": "https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
       "added_at": "2022-09-23 07:13:12",
@@ -795,106 +883,6 @@
       "duration_ms": 132505,
       "name": "FINALLY",
       "url": "https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr"
-    },
-    {
-      "added_at": "2022-06-07 21:28:03",
-      "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/1kHBliQUJxk2xzoJmrCvcJ"
-      },
-      "artists": [
-        {
-          "name": "Sainte",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 162964,
-      "name": "East",
-      "url": "https://open.spotify.com/track/6XZFzfW1WpmA9L0dJ47FxF"
-    },
-    {
-      "added_at": "2022-06-07 21:28:03",
-      "album": {
-        "name": "Most Wanted (Deluxe)",
-        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
-      },
-      "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2022-06-07 21:28:03",
-      "album": {
-        "name": "$hook",
-        "url": "https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM"
-      },
-      "artists": [
-        {
-          "name": "Tre' Amani",
-          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
-        },
-        {
-          "name": "Rodney Hollywood",
-          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
-        }
-      ],
-      "duration_ms": 148118,
-      "name": "lo$t kid.",
-      "url": "https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI"
-    },
-    {
-      "added_at": "2022-06-07 21:28:03",
-      "album": {
-        "name": "Independent Like Webbie",
-        "url": "https://open.spotify.com/album/12FfrxRL65gxdnVeI5JQSB"
-      },
-      "artists": [
-        {
-          "name": "Foggieraw",
-          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
-        },
-        {
-          "name": "YungManny",
-          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
-        }
-      ],
-      "duration_ms": 97671,
-      "name": "Independent Like Webbie",
-      "url": "https://open.spotify.com/track/4Lp6mBPRk5IaPM8Bg8J3fu"
-    },
-    {
-      "added_at": "2022-05-06 04:15:57",
-      "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     }
   ],
   "unique_name": "Ripple Effect",

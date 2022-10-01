@@ -1,13 +1,33 @@
 {
-  "description": "Midwest music breaking waves. Cover, Midwxst",
-  "num_followers": 2322,
+  "description": "Midwest music breaking waves. Cover, Freddie Gibbs",
+  "num_followers": 2324,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk5MzQzNywwMDAwMDAwMGYyNzZlNDRiZDA5ZmQyZTI4N2U3MDIyNDc1MWYxNDk3",
+  "snapshot_id": "MTY2NDU3ODI1OCwwMDAwMDAwMGUyMDAwNDk2ZTY0Y2FhMzQ5MjJhNmE4M2Q5YTE3ZWM2",
   "tracks": [
+    {
+      "added_at": "2022-09-30 22:50:58",
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "DJ Paul",
+          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
+        }
+      ],
+      "duration_ms": 168963,
+      "name": "PYS (feat. DJ Paul)",
+      "url": "https://open.spotify.com/track/7kAyuqFCU2iYqeUao2cO21"
+    },
     {
       "added_at": "2022-09-24 04:23:57",
       "album": {
@@ -75,6 +95,26 @@
       "duration_ms": 184925,
       "name": "KEEP GOING (feat. Lil Durk, 21 Savage & Roddy Ricch)",
       "url": "https://open.spotify.com/track/1oSh0SKc4MwmXSGiTtqSXp"
+    },
+    {
+      "added_at": "2022-09-30 22:50:58",
+      "album": {
+        "name": "90 Proof (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 208269,
+      "name": "90 Proof (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
     },
     {
       "added_at": "2022-08-19 19:57:18",
@@ -153,6 +193,26 @@
       "url": "https://open.spotify.com/track/2opW6xGI3lD8wlc8j3EGtd"
     },
     {
+      "added_at": "2022-09-30 22:50:58",
+      "album": {
+        "name": "FLAWLESS LIKE ME",
+        "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "KAPITOL DENIM",
+      "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
+    },
+    {
       "added_at": "2022-08-01 14:28:10",
       "album": {
         "name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
@@ -189,24 +249,28 @@
       "url": "https://open.spotify.com/track/5NZtLC1p5RPFUPGmPq96zl"
     },
     {
-      "added_at": "2022-09-02 20:08:40",
+      "added_at": "2022-09-30 22:50:58",
       "album": {
-        "name": "Too Much (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
+        "name": "It's Not Me It's You",
+        "url": "https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 188869,
-      "name": "Too Much (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
+      "duration_ms": 228000,
+      "name": "9 Lives (feat. Polo G & NLE Choppa)",
+      "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -337,26 +401,6 @@
       "url": "https://open.spotify.com/track/4i1LWSslhvIyS9IKBWcxl5"
     },
     {
-      "added_at": "2022-08-12 17:16:26",
-      "album": {
-        "name": "2k in tha Soda (feat. LUCKI)",
-        "url": "https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 119069,
-      "name": "2k in tha Soda (feat. LUCKI)",
-      "url": "https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y"
-    },
-    {
       "added_at": "2022-07-18 21:46:49",
       "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
@@ -401,20 +445,20 @@
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
     },
     {
-      "added_at": "2022-09-24 04:23:57",
+      "added_at": "2022-09-30 22:50:58",
       "album": {
-        "name": "They Can't FWM",
-        "url": "https://open.spotify.com/album/2BJj5biozfIQuwBXr1xhaW"
+        "name": "Life With Louie",
+        "url": "https://open.spotify.com/album/5kAaXStugIdObdBjHrdciQ"
       },
       "artists": [
         {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+          "name": "King Louie",
+          "url": "https://open.spotify.com/artist/7yd1ITel4z3jXwEFinWmGN"
         }
       ],
-      "duration_ms": 146796,
-      "name": "They Can't FWM",
-      "url": "https://open.spotify.com/track/6PPsAQKwX6lqH3ODT9xF35"
+      "duration_ms": 162638,
+      "name": "Mind Yo Business",
+      "url": "https://open.spotify.com/track/37mqlmt33GvxbQYUEIgg2W"
     },
     {
       "added_at": "2022-09-16 21:09:29",
@@ -527,6 +571,22 @@
       "duration_ms": 255609,
       "name": "The Highs & The Lows",
       "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
+    },
+    {
+      "added_at": "2022-09-30 22:50:58",
+      "album": {
+        "name": "Phone Static",
+        "url": "https://open.spotify.com/album/411vVjpFLMiyash5GTxUxE"
+      },
+      "artists": [
+        {
+          "name": "Ebony Loren",
+          "url": "https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY"
+        }
+      ],
+      "duration_ms": 182507,
+      "name": "Phone Static",
+      "url": "https://open.spotify.com/track/5NZP8Sh5HsVVO83uxLfZkA"
     },
     {
       "added_at": "2022-09-24 04:23:57",
@@ -709,6 +769,22 @@
       "url": "https://open.spotify.com/track/7opxatMp7hibegdRc3Vnid"
     },
     {
+      "added_at": "2022-09-30 22:50:58",
+      "album": {
+        "name": "Stay For The Night (Rockstar Energy Studios Freestyle)",
+        "url": "https://open.spotify.com/album/6rXwSvhYin9RrkzOF6Dbb9"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 207407,
+      "name": "Stay For The Night - Rockstar Energy Studios Freestyle",
+      "url": "https://open.spotify.com/track/50j5nljPjPXXHp4jRtdqSJ"
+    },
+    {
       "added_at": "2022-09-16 21:09:29",
       "album": {
         "name": "Game Over (with Queen Naija)",
@@ -743,30 +819,6 @@
       "duration_ms": 176000,
       "name": "Keisha",
       "url": "https://open.spotify.com/track/4jpKsFGFIFPgq5gxZ4FAMA"
-    },
-    {
-      "added_at": "2022-07-01 03:55:56",
-      "album": {
-        "name": "MORE BLACK SUPERHEROES",
-        "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 196294,
-      "name": "CAN'T GET OVER YOU (feat. Smino & Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/0u0Wg5JO7Aza12fQJMIZ6Q"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -889,6 +941,26 @@
       "url": "https://open.spotify.com/track/0vRhfvw60myrUaWEOqt6kB"
     },
     {
+      "added_at": "2022-09-30 22:50:58",
+      "album": {
+        "name": "FYD",
+        "url": "https://open.spotify.com/album/24iMwkCOV0iqxtGo41eH4a"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 146987,
+      "name": "FYD",
+      "url": "https://open.spotify.com/track/3EUCsRolJekwxGt5id8kww"
+    },
+    {
       "added_at": "2022-08-26 19:10:56",
       "album": {
         "name": "Wait A Minute",
@@ -909,22 +981,6 @@
       "url": "https://open.spotify.com/track/5iqshVJZ5mWUZo0be4tnJS"
     },
     {
-      "added_at": "2022-08-26 19:10:56",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/19Qv9xanuldEBh5GEXgAJY"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3l",
-          "url": "https://open.spotify.com/artist/4I6xMOQQaCrWV5yQ8qzlF7"
-        }
-      ],
-      "duration_ms": 237913,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/3GhxkACruFtLxRNlivQfET"
-    },
-    {
       "added_at": "2022-09-16 21:09:29",
       "album": {
         "name": "Dance",
@@ -939,50 +995,6 @@
       "duration_ms": 120048,
       "name": "Dance",
       "url": "https://open.spotify.com/track/6lQIvzV8RmhUeIEjmNeSgK"
-    },
-    {
-      "added_at": "2022-09-09 18:58:22",
-      "album": {
-        "name": "Black Heart",
-        "url": "https://open.spotify.com/album/2csQIiTU3v9xEQKsKIfv1z"
-      },
-      "artists": [
-        {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 202325,
-      "name": "Step Alone (feat. Joey Bada$$)",
-      "url": "https://open.spotify.com/track/5amg9B9k21LslaY7Eb50l7"
-    },
-    {
-      "added_at": "2022-08-12 17:16:26",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/7DtDowNbgFYIyDYnp3ZfA0"
-      },
-      "artists": [
-        {
-          "name": "Maurice Moore",
-          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
-        },
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        },
-        {
-          "name": "Jermaine Elliott",
-          "url": "https://open.spotify.com/artist/60jDnkxR5FyCUAGUX4zDNv"
-        }
-      ],
-      "duration_ms": 221938,
-      "name": "22",
-      "url": "https://open.spotify.com/track/4U6yLrVw2BrPIzDQ5cDiEk"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -1107,26 +1119,6 @@
       "duration_ms": 235346,
       "name": "Nothing For Free",
       "url": "https://open.spotify.com/track/4tfmH97RvIxvgqwvuwcs3l"
-    },
-    {
-      "added_at": "2022-07-01 03:55:56",
-      "album": {
-        "name": "Only Us (feat. Babyface Ray)",
-        "url": "https://open.spotify.com/album/70JVltVkQblqp2cuoCfeMV"
-      },
-      "artists": [
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Only Us (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw"
     },
     {
       "added_at": "2022-07-18 21:46:49",

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/1YcrrT5zuAkzJx0ztbwdsV"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186810,
+      "name": "001",
+      "url": "https://open.spotify.com/track/4E9FiSTNbDe7bPjwuKvhxc"
+    },
+    {
+      "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
@@ -591,7 +609,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 142823,
       "name": "Bad Energy",
       "url": "https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 175743,
       "name": "Better",
       "url": "https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf"
@@ -1133,6 +1151,24 @@
       "duration_ms": 153826,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/6ZexyQkQ67npzgscQyxqI7"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "album": {
@@ -1527,7 +1563,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 177483,
       "name": "day to day",
       "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
@@ -1776,6 +1812,28 @@
     },
     {
       "album": {
+        "name": "Don't Cry",
+        "url": "https://open.spotify.com/album/5fP4Ys7OD25Tn0fKmGXFbV"
+      },
+      "artists": [
+        {
+          "name": "LODATO",
+          "url": "https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv"
+        },
+        {
+          "name": "Ally Ahern",
+          "url": "https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191132,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/5X107YxNbBbQBn6ofr7OPR"
+    },
+    {
+      "album": {
         "name": "Don't Forget My Love",
         "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
       },
@@ -2019,6 +2077,28 @@
       "duration_ms": 202213,
       "name": "Explosive",
       "url": "https://open.spotify.com/track/2eAekdkZ8Dbtkv1dmXWQWT"
+    },
+    {
+      "album": {
+        "name": "Extremes",
+        "url": "https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Extremes",
+      "url": "https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM"
     },
     {
       "album": {
@@ -3189,7 +3269,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 191428,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/5eVafnPnRDMN5ouLEX48Gn"
@@ -3405,7 +3485,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 175724,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/7nvwVMGojdHqrSRCaxMFv9"
@@ -3511,7 +3591,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 166893,
       "name": "Less I Know",
       "url": "https://open.spotify.com/track/1piIGIhnGRiXQ360hhh8Mr"
@@ -4816,6 +4896,24 @@
     },
     {
       "album": {
+        "name": "PCH (Pretty Cold Heart)",
+        "url": "https://open.spotify.com/album/2oGlz1scWCU0uehlNA8fJv"
+      },
+      "artists": [
+        {
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167571,
+      "name": "PCH (Pretty Cold Heart)",
+      "url": "https://open.spotify.com/track/0atvEjBXJ87W2ets3Lkdrh"
+    },
+    {
+      "album": {
         "name": "Perfect Love (feat. Mila Falls)",
         "url": "https://open.spotify.com/album/2hBjckThyUfbVmY56mtdBF"
       },
@@ -4897,7 +4995,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 207360,
       "name": "pogo",
       "url": "https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f"
@@ -5257,6 +5355,24 @@
       "duration_ms": 174858,
       "name": "Rockstar Baby (feat. Mougleta)",
       "url": "https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p"
+    },
+    {
+      "album": {
+        "name": "Rode All Night",
+        "url": "https://open.spotify.com/album/24LZ8MlgAfuhYnvSQOG3Uj"
+      },
+      "artists": [
+        {
+          "name": "L'FREAQ",
+          "url": "https://open.spotify.com/artist/6yIxwhGx8Mq6i1WwgRSfkQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245449,
+      "name": "Rode All Night",
+      "url": "https://open.spotify.com/track/0SEwBkIleqbxCNKqwsbTMF"
     },
     {
       "album": {
@@ -6509,7 +6625,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 132417,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
@@ -6561,7 +6677,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 203061,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX"
@@ -6641,7 +6757,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 133333,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh"
@@ -7051,7 +7167,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 276562,
       "name": "What Is Real - Edit",
       "url": "https://open.spotify.com/track/1t5qLStBx9Jx3j1x7D4k4K"

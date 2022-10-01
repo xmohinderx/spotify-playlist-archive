@@ -1,13 +1,141 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Q",
-  "num_followers": 1328173,
+  "description": "Genre-less. Quality first always. Cover: Shygirl",
+  "num_followers": 1328105,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDkzMzZkOGRiZDk3MzY3MjUyMDA5NTVjYWE3Yjc2ZjRl",
+  "snapshot_id": "MTY2NDU2OTc5NSwwMDAwMDAwMDVhYTFhNDNlNTVjMzY3MjYxNmJjZTJhMWRmODYxMDEy",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Shlut",
+        "url": "https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 132625,
+      "name": "Shlut",
+      "url": "https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "90 Proof (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 208269,
+      "name": "90 Proof (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Reapers",
+        "url": "https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f"
+      },
+      "artists": [
+        {
+          "name": "LYAM",
+          "url": "https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "The Reapers",
+      "url": "https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "MK 3.5: f1 racer & locked in | Zone 1 (24 Hours)",
+        "url": "https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Dom Maker",
+          "url": "https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 146720,
+      "name": "f1 racer",
+      "url": "https://open.spotify.com/track/0Ume2ALqcG0LDPecFmNgAV"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Stereo Driver",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Stereo Driver",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2022-09-30 15:56:08",
+      "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 152558,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
+    },
+    {
+      "added_at": "2022-09-30 20:29:55",
+      "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2rbSlNYTYboHHWelF0xSAQ"
+    },
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
@@ -27,6 +155,38 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Lonely One",
+        "url": "https://open.spotify.com/album/1qDhZO24bweGR7zKze2xMZ"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Lonely One",
+      "url": "https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/4DlnZNLw1HqckLprf9a9hW"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/7jnLqCgzOAwW3p8g90p4Rk"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "KILL DEM",
         "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
       },
@@ -41,20 +201,72 @@
       "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Stereo Driver",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+        "name": "001",
+        "url": "https://open.spotify.com/album/1YcrrT5zuAkzJx0ztbwdsV"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 231533,
-      "name": "Stereo Driver",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+      "duration_ms": 186810,
+      "name": "001",
+      "url": "https://open.spotify.com/track/4E9FiSTNbDe7bPjwuKvhxc"
+    },
+    {
+      "added_at": "2022-07-12 15:00:31",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        }
+      ],
+      "duration_ms": 192010,
+      "name": "ADDICTIONS (FEAT. Tre' Amani)",
+      "url": "https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "rest",
+        "url": "https://open.spotify.com/album/4FjESddwuVDtpbQGYVwxOV"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "duration_ms": 146152,
+      "name": "rest",
+      "url": "https://open.spotify.com/track/7jVIHU3PXfJOmMltbH6lGM"
     },
     {
       "added_at": "2022-09-14 21:36:23",
@@ -91,22 +303,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Lonely One",
-        "url": "https://open.spotify.com/album/1qDhZO24bweGR7zKze2xMZ"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Lonely One",
-      "url": "https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/6i1qZmImwap5d77yJ8J9pn"
       },
@@ -119,26 +315,6 @@
       "duration_ms": 106447,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/4bHFmySw6Wdybzjxz10Yle"
-    },
-    {
-      "added_at": "2022-07-12 15:00:31",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Tre' Amani",
-          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "ADDICTIONS (FEAT. Tre' Amani)",
-      "url": "https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -175,22 +351,6 @@
       "duration_ms": 129535,
       "name": "HAHA (feat. Pusha T)",
       "url": "https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -407,22 +567,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YP4EV0q1HiZjXkvWteHky"
-      },
-      "artists": [
-        {
-          "name": "DavidTheTragic",
-          "url": "https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "19",
-      "url": "https://open.spotify.com/track/0OG1XZqBMSZNuKoNx1NEgu"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Impostor Syndrome",
         "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
       },
@@ -463,26 +607,6 @@
       "duration_ms": 268237,
       "name": "Quiet Corners Of My Mind",
       "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 122617,
-      "name": "up all week (with slowthai)",
-      "url": "https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1131,22 +1255,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "C BOTH SIDES",
-        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "CYCLOPS",
-      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "FUN (yun\u00e8 pinku Remix)",
         "url": "https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo"
       },
@@ -1195,38 +1303,6 @@
       "duration_ms": 213381,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "I'm Pressed",
-        "url": "https://open.spotify.com/album/6YrhUIZvO1zL3MN7d2tFZl"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 181009,
-      "name": "I'm Pressed",
-      "url": "https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Cry Sugar",
-        "url": "https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU"
-      },
-      "artists": [
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 140013,
-      "name": "Behold",
-      "url": "https://open.spotify.com/track/6EGELxGGOmmYJ6kOJfdX9V"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1504,37 +1580,21 @@
       },
       "artists": [
         {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        },
-        {
           "name": "piri",
           "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         },
         {
           "name": "Tommy Villiers",
           "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
       "duration_ms": 135013,
       "name": "on & on",
       "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Go\u00fbter",
-        "url": "https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 195395,
-      "name": "solitude/martini on mars",
-      "url": "https://open.spotify.com/track/7oCmZ0X7rg3CXh2YcpW4GQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1567,6 +1627,22 @@
       "duration_ms": 225890,
       "name": "Jewels in the Night",
       "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Go\u00fbter",
+        "url": "https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 195395,
+      "name": "solitude/martini on mars",
+      "url": "https://open.spotify.com/track/7oCmZ0X7rg3CXh2YcpW4GQ"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1603,58 +1679,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "didn't I",
-        "url": "https://open.spotify.com/album/71cwvQjSGLluxn0M4GUTqF"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 107784,
-      "name": "didn't I",
-      "url": "https://open.spotify.com/track/4mIHBM6Ozh1gBITjA6EZ47"
-    },
-    {
-      "added_at": "2022-07-08 04:01:22",
-      "album": {
-        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 264412,
-      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
-    },
-    {
-      "added_at": "2022-07-01 05:42:11",
-      "album": {
-        "name": "NBPQ (Topless)",
-        "url": "https://open.spotify.com/album/2XsxdMGqw3mGeH1T1JS1gb"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "NBPQ (Topless)",
-      "url": "https://open.spotify.com/track/0mMxlFoIq8qrknTmyIbxO5"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Sunshine (feat. Foushe\u00e9)",
         "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
       },
@@ -1671,22 +1695,6 @@
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "quinn",
-        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 186485,
-      "name": "two door tiffany",
-      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1707,22 +1715,6 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf"
-    },
-    {
-      "added_at": "2022-07-01 05:42:11",
-      "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "added_at": "2022-07-08 04:01:22",

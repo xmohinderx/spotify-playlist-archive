@@ -1,12 +1,12 @@
 {
   "description": "Screaming, crying, throwing up! Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Sam Smith & Kim Petras",
-  "num_followers": 34142,
+  "num_followers": 34214,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE0MjY4MiwwMDAwMDAwMGJjMjkyMGExZGI2ODAzYjUzZGYwNzMyYzZhODkzN2Vi",
+  "snapshot_id": "MTY2NDU1MTczMiwwMDAwMDAwMDUzZjU1ODM0ZTNmMDFhZWE1ZWFhMjEyOTRmZDY0Mzcw",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -29,6 +29,126 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Summer Really Hurt Us",
+        "url": "https://open.spotify.com/album/2GidwkbzGUKWKITSkCEJxD"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "duration_ms": 168076,
+      "name": "Summer Really Hurt Us",
+      "url": "https://open.spotify.com/track/2JUvLynhFJsuEDZdJarBBH"
+    },
+    {
+      "added_at": "2022-09-30 04:13:16",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+    },
+    {
+      "added_at": "2022-09-30 04:07:12",
+      "album": {
+        "name": "Fool Me",
+        "url": "https://open.spotify.com/album/0Ad3MJqhBA1acgeWLp4YNw"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Oceans",
+          "url": "https://open.spotify.com/artist/6fUGQU8tAq01xMG7Qzjy8O"
+        }
+      ],
+      "duration_ms": 134516,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/6MYzyVOT8sxgwYhCJZYPpp"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 192072,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF"
+    },
+    {
+      "added_at": "2022-09-30 04:13:16",
+      "album": {
+        "name": "Prettier Than You",
+        "url": "https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 202093,
+      "name": "Prettier Than You",
+      "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Talking to Yourself",
+        "url": "https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Talking to Yourself",
+      "url": "https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "I'm Good (Blue)",
@@ -49,100 +169,36 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-30 15:28:52",
       "album": {
-        "name": "Summer Really Hurt Us",
-        "url": "https://open.spotify.com/album/2GidwkbzGUKWKITSkCEJxD"
+        "name": "IBTC",
+        "url": "https://open.spotify.com/album/7JG6V3mLxuQX0mPJlI6Kie"
       },
       "artists": [
         {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
         }
       ],
-      "duration_ms": 168076,
-      "name": "Summer Really Hurt Us",
-      "url": "https://open.spotify.com/track/2JUvLynhFJsuEDZdJarBBH"
+      "duration_ms": 143124,
+      "name": "IBTC",
+      "url": "https://open.spotify.com/track/4HAonty9m9FAvorRkSAiof"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-30 13:28:11",
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/3iShY0nkuliVn2PiAjySC2"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
         }
       ],
-      "duration_ms": 192072,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF"
-    },
-    {
-      "added_at": "2022-09-25 21:51:22",
-      "album": {
-        "name": "Shot a friend",
-        "url": "https://open.spotify.com/album/18n1CRVP0aQYIPKZdzjhlI"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 129836,
-      "name": "Shot a friend",
-      "url": "https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Million Dollar Baby",
-        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Million Dollar Baby",
-      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Girl Of My Dreams",
-        "url": "https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Guess We Lied...",
-      "url": "https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT"
+      "duration_ms": 127262,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/6CxNuPyJT0eqePcocLEoHa"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -161,20 +217,84 @@
       "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Talking to Yourself",
-        "url": "https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4"
+        "name": "BRAND NEW BITCH",
+        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 173200,
-      "name": "Talking to Yourself",
-      "url": "https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf"
+      "duration_ms": 196000,
+      "name": "BRAND NEW BITCH",
+      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+    },
+    {
+      "added_at": "2022-09-25 21:51:22",
+      "album": {
+        "name": "Shot a friend",
+        "url": "https://open.spotify.com/album/18n1CRVP0aQYIPKZdzjhlI"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "Shot a friend",
+      "url": "https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Girl Of My Dreams",
+        "url": "https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Guess We Lied...",
+      "url": "https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT"
+    },
+    {
+      "added_at": "2022-09-30 04:07:12",
+      "album": {
+        "name": "Amour, Haine et Danger",
+        "url": "https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Amour, Haine et Danger",
+      "url": "https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -207,22 +327,6 @@
       "duration_ms": 228813,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6VxAoD31HVp9iOAlAjYwX6"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "BRAND NEW BITCH",
-        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "BRAND NEW BITCH",
-      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1431,22 +1535,6 @@
       "duration_ms": 118392,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/51NYFGDXYKS4FkRqkw98hx"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Nonante-Cinq",
-        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 228211,
-      "name": "Bruxelles je t\u2019aime",
-      "url": "https://open.spotify.com/track/0iqk44gA8PaId0Fwa6eesN"
     }
   ],
   "unique_name": "OBSESSED",

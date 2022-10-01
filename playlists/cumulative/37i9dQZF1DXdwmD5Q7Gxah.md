@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: maya hawke
 
-1,861 songs - 4 day 3 hr 36 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,866 songs - 4 day 3 hr 50 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,6 +1088,7 @@
 | [Moi](https://open.spotify.com/track/22B3g2WSeEFcIH6ieZ0SKz) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [High Highs to Low Lows](https://open.spotify.com/album/1zYV9ByVJ4JURQ1f2q9Rnf) | 3:12 | 2019-07-30\* | 2019-09-06 |
 | [Molang](https://open.spotify.com/track/0Mg5oWo54uPg9GBJGHBD8p) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [P.U.K.E Tapes, Vol\. 1](https://open.spotify.com/album/7BYvwszB1kPrpgn8kLxqvk) | 2:36 | 2020-07-21 | 2020-12-31 |
 | [Molasses](https://open.spotify.com/track/2m6knc5tEfzVYwGY6GlCPm) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:49 | 2021-01-15 | 2021-01-23 |
+| [Molly](https://open.spotify.com/track/5Bxlchum7dWVpR60j6BMrT) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Molly](https://open.spotify.com/album/1I8Nu2RsxFcZBfSfaYrbGt) | 2:41 | 2022-09-30 |  |
 | [moment](https://open.spotify.com/track/2JKIYl8KaAMzOR1dIzEO5f) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4X2vOIggOwcX7BFIH0xqng) | 2:09 | 2020-10-30 | 2020-12-04 |
 | [Moment of Silence](https://open.spotify.com/track/1qE3Yen80w8CRKp9Xe8jgl) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Curses! Pt\. 2](https://open.spotify.com/album/4XsgXbAaIplkV4kHFl4EJ4) | 2:43 | 2022-05-11 | 2022-05-28 |
 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 | 2020-08-14 | 2020-12-04 |
@@ -1279,6 +1280,7 @@
 | [Plans](https://open.spotify.com/track/21gFBttZdo6RJySWtwPbf5) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Plans](https://open.spotify.com/album/4899tf9GNQcdopoBMs4RsW) | 3:11 | 2019-10-10 | 2020-01-17 |
 | [Plans](https://open.spotify.com/track/7JLWTXue6w1uDMMP4VOwGi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick EP](https://open.spotify.com/album/4FnuxJYVZgYBwPMgxgwDJN) | 3:11 | 2021-02-06 | 2021-02-13 |
 | [Plastered](https://open.spotify.com/track/2f4zAnj43xheWJqwUs88n9) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Plastered](https://open.spotify.com/album/6n2IkCkMutHCF8CPkeYCVf) | 2:07 | 2021-12-03 | 2022-01-08 |
+| [Play Pretend \(feat\. spill tab\)](https://open.spotify.com/track/5ik2LWJMCmr7BGtHvXxPzw) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Play Pretend \(feat\. spill tab\)](https://open.spotify.com/album/1TQYlfvFr9wSSM4p05wFP0) | 2:29 | 2022-09-30 |  |
 | [play the part](https://open.spotify.com/track/3DiRnA7UDlUPrGDOF9Zb4u) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [play the part](https://open.spotify.com/album/0MqiRHUnLxKrXTTCF0ST7L) | 3:12 | 2019-07-30\* | 2019-09-14 |
 | [Playground Love \(With Gordon Tracks\)](https://open.spotify.com/track/5iGf8QFnltrfTCxT5u6YI4) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Virgin Suicides](https://open.spotify.com/album/6pJSkIvinycPLXlH8BG8lS) | 3:32 | 2022-03-28 | 2022-04-23 |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 | 2022-04-28 |
@@ -1374,6 +1376,7 @@
 | [Ryd](https://open.spotify.com/track/3I8yVFjvJoOBM9tX4ZpxEL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/47DbvIExnHbqAhIuzBAO9W) | 2:20 | 2020-08-20 | 2020-09-04 |
 | [Sabotage](https://open.spotify.com/track/1Y7hYtpgid6k0jiMVCXqA1) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Sabotage](https://open.spotify.com/album/3rXM0G4Y0XI9jnglHN1ShB) | 2:44 | 2020-08-07 | 2020-09-15 |
 | [Sad](https://open.spotify.com/track/5Ybp65SomeSJEj8xmUARdA) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Sad](https://open.spotify.com/album/35aISWjjpmBH3K1zZ8ZTYP) | 2:43 | 2019-07-30\* | 2020-02-20 |
+| [sad](https://open.spotify.com/track/5kIfQKgQeFcLaQ3BYvpbDI) | [georgee](https://open.spotify.com/artist/27RSBwbjahAvMQOP2aoqSs) | [sad](https://open.spotify.com/album/6XcchJ2jRgI28zFKMUulO9) | 2:20 | 2022-09-30 |  |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-03 | 2022-09-10 |
 | [Sailor](https://open.spotify.com/track/2cHuQV2Iag6phx3viexosw) | [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [Sailor](https://open.spotify.com/album/190liWGIaL7xOYYz08ikgd) | 3:48 | 2019-09-21 | 2020-01-10 |
 | [Sandals](https://open.spotify.com/track/08mbmCSc6wEUNlMvi0Ukzu) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM) | 2:40 | 2019-10-11 | 2020-02-05 |
@@ -1406,6 +1409,7 @@
 | [See You Later](https://open.spotify.com/track/4OHXUCTieg7Ba4My21pFz8) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [See You Later](https://open.spotify.com/album/1mdcunvWOgYgFxGk2BH67i) | 2:42 | 2019-10-11 | 2019-10-29 |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-04-29 | 2022-07-07 |
 | [Seeds](https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Seeds](https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q) | 3:39 | 2022-02-11 | 2022-04-09 |
+| [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2022-09-30 |  |
 | [Selfish](https://open.spotify.com/track/4v9dyadSlrEcPmUgLrm6As) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Selfish](https://open.spotify.com/album/4MWURbEd6SKiaUFerThEX9) | 4:18 | 2020-03-13 | 2020-04-18 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-23 | 2022-06-22 |
 | [Selfluv](https://open.spotify.com/track/2IDLUO7LuKyTiLZLIEVvoG) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7), [GUS](https://open.spotify.com/artist/4ZZpN3SBlgpAT8SqIJ74nv) | [Selfluv](https://open.spotify.com/album/7yVjwaU7hkPOoP41OZhmkf) | 4:33 | 2020-03-13 | 2020-05-07 |
@@ -1490,6 +1494,7 @@
 | [Something Good](https://open.spotify.com/track/3xqxETvPg43KWP0HOGiOmu) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:37 | 2021-12-22 | 2022-03-18 |
 | [Something Has Changed](https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/7ydFVsXLNeGlXhoG6YLTAL) | 2:58 | 2020-12-04 | 2021-03-06 |
 | [Something Has to Change](https://open.spotify.com/track/7LuM3Sd4C9X7OC1VmS20lE) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Something Has to Change](https://open.spotify.com/album/5Bzl8KUmOrlQmbDYFDqjaV) | 3:11 | 2019-10-03 | 2020-02-20 |
+| [Something In The Way](https://open.spotify.com/track/3T1MROShKLQerTSz89ykGL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Something In The Way](https://open.spotify.com/album/5FaKpeU9tSUUq0XCnToxjG) | 2:59 | 2022-09-30 |  |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-07 | 2022-05-07 |
 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 | 2022-06-03 | 2022-06-16 |
 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 | 2020-07-31 | 2020-08-21 |

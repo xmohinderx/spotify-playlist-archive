@@ -153,6 +153,24 @@
     {
       "album": {
         "name": "Angel",
+        "url": "https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK"
+      },
+      "artists": [
+        {
+          "name": "Adrien de la Salle",
+          "url": "https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151397,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW"
+    },
+    {
+      "album": {
+        "name": "Angel",
         "url": "https://open.spotify.com/album/5cIGSAUXb0LAjseafd3s0V"
       },
       "artists": [
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 203169,
       "name": "No\u00ebl c'est toi",
       "url": "https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY"

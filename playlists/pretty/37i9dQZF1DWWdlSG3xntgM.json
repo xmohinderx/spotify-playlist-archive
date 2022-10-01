@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 31487,
+  "num_followers": 31496,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMDkzMDBmNWUzYWIwMWNkZmRmNDM1MjdjMjlhODYxZjY4",
+  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMGEwZDM5ZTdkZDUxMThlNWYxMjVmNGZmZWFmNGFiY2E0",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:33",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "Hoa Trinh N\u1eef (The Best Of Ch\u1ebf Linh 1)",
-        "url": "https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0"
-      },
-      "artists": [
-        {
-          "name": "Che Linh",
-          "url": "https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "Hoa Trinh N\u1eef",
-      "url": "https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp"
-    },
-    {
-      "added_at": "2022-03-11 05:02:33",
-      "album": {
         "name": "\u0110i\u1ec7u Bu\u1ed3n L\u1ee5c T\u1ec9nh",
         "url": "https://open.spotify.com/album/7eT0iZ0tW8rNJSF8TkfKXr"
       },
@@ -847,18 +831,38 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS"
+        "name": "Hoa Trinh N\u1eef (The Best Of Ch\u1ebf Linh 1)",
+        "url": "https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0"
       },
       "artists": [
         {
-          "name": "Ho\u00e0i L\u00e2m",
-          "url": "https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW"
+          "name": "Che Linh",
+          "url": "https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi"
         }
       ],
-      "duration_ms": 263400,
-      "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/0HJ3DgU82FaR4XuihYeTAb"
+      "duration_ms": 329800,
+      "name": "Hoa Trinh N\u1eef",
+      "url": "https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp"
+    },
+    {
+      "added_at": "2022-03-11 05:02:33",
+      "album": {
+        "name": "Xin Tr\u1ea3 T\u00f4i V\u1ec1",
+        "url": "https://open.spotify.com/album/1r5OrgvrLx5yR89oBSA3Y8"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 V\u00e2n",
+          "url": "https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x"
+        },
+        {
+          "name": "Duy Lu\u00e2n",
+          "url": "https://open.spotify.com/artist/2sRxSNsEpwhHEeUw2HJO6h"
+        }
+      ],
+      "duration_ms": 362040,
+      "name": "Chuy\u1ec7n T\u00ecnh Lan V\u00e0 \u0110i\u1ec7p (feat. Duy Lu\u00e2n)",
+      "url": "https://open.spotify.com/track/026XNgFJNHNPmojQIE5yhy"
     },
     {
       "added_at": "2022-03-11 05:02:33",

@@ -1,12 +1,12 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 119122,
+  "num_followers": 119349,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI3ODUyNCwwMDAwMDAwMDk5MTcwMTA2Y2FmZmRiYTEyZWZjOGQyOTE3ZmE4YzM1",
+  "snapshot_id": "MTY2NDI3ODUyNCwwMDAwMDAwMDFmZTQ2NmZkOTdhNzA5ZDNkOWU1YmNlYmU4MWU3MWNi",
   "tracks": [
     {
       "added_at": "2022-09-27 11:35:24",
@@ -1303,7 +1303,7 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet (Expanded Edition)",
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
       "artists": [
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
+        "name": "Motions & Emotions",
+        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "Eleanor Rigby - Remastered",
+      "url": "https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB"
+    },
+    {
+      "added_at": "2022-09-27 11:35:24",
+      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 291840,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6"
-    },
-    {
-      "added_at": "2022-09-27 11:35:24",
-      "album": {
-        "name": "Motions & Emotions",
-        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "Eleanor Rigby - Remastered",
-      "url": "https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB"
     },
     {
       "added_at": "2022-09-27 11:35:24",

@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: KSI
 
-200 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
+201 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [WKM](https://open.spotify.com/track/6ySbWMKVdRBOVI8WTErZZV) | [HIMALAYA](https://open.spotify.com/artist/2Ho4YWSnkNlVV0pvZQF8eU), [Sergy Mariano](https://open.spotify.com/artist/5PHlZZNDY1rC5hbU6kpkBn) | [WKM](https://open.spotify.com/album/6O9djLl2dKetj5Oye4Vhce) | 3:18 | 2022-06-08 | 2022-06-17 |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-08 |  |
 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-01 |  |
-| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-09-22 |  |
+| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-09-22 | 2022-10-01 |
+| [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-09-30 |  |
 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 | 2022-06-16 | 2022-06-24 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-06-08 | 2022-09-23 |
 | [You're Almost There](https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [You're Almost There](https://open.spotify.com/album/7vA1tbXdEHvPftDO7jEsKj) | 3:06 | 2022-06-08 |  |

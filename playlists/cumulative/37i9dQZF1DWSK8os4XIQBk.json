@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Shania Twain",
+  "description": "Nothing but the best modern country music. Cover: Dean Brody",
   "name": "All About Country",
   "published_playlist_ids": [
     "2VWEcpbjTChxEwyaD5k1kM"
@@ -608,6 +608,24 @@
     },
     {
       "album": {
+        "name": "Busy",
+        "url": "https://open.spotify.com/album/7zjGOaSSo3TpQhA1R956gW"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/7f96cOAkzyaN9QxvJhjyMk"
+    },
+    {
+      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 157991,
       "name": "Dark Night - 717 Tapes",
       "url": "https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q"
@@ -1937,6 +1955,24 @@
       "duration_ms": 187016,
       "name": "HEARTFIRST",
       "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
+    },
+    {
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
     },
     {
       "album": {
@@ -4013,7 +4049,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185427,
       "name": "Say It",
       "url": "https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o"
@@ -5417,7 +5453,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 174322,
       "name": "Where'd You Learn How To Do That",
       "url": "https://open.spotify.com/track/4Do7NhvafmOQENTNAus874"
@@ -5735,6 +5771,24 @@
       "duration_ms": 225813,
       "name": "You Didn\u2019t",
       "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
+    },
+    {
+      "album": {
+        "name": "You Got The Wrong Guy",
+        "url": "https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180615,
+      "name": "You Got The Wrong Guy",
+      "url": "https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs"
     },
     {
       "album": {

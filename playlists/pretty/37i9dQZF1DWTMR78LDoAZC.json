@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQQIA+ artists. Cover: serpentwithfeet",
-  "num_followers": 106184,
+  "num_followers": 106187,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMGM4ZmRmNTQzMDYyZmUxNWFhMTk3YzkyNzJmMmE0OGZk",
+  "snapshot_id": "MTY2MDIzOTI2MSwwMDAwMDAwMDJkYjY3ODIyNmI0MmFkMTZlODAzNGZlYmI5YTg3OWU0",
   "tracks": [
     {
       "added_at": "2022-06-06 14:47:44",
@@ -597,20 +597,20 @@
       "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
     },
     {
-      "added_at": "2022-06-08 23:02:27",
+      "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
+        "name": "Good At Falling",
+        "url": "https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
+      "duration_ms": 218935,
+      "name": "Maybe You're the Reason",
+      "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -629,20 +629,20 @@
       "url": "https://open.spotify.com/track/6agThDCDlPNwJL6lvU5iYX"
     },
     {
-      "added_at": "2022-06-06 14:47:44",
+      "added_at": "2022-06-08 23:02:27",
       "album": {
-        "name": "Good At Falling",
-        "url": "https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ"
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 218935,
-      "name": "Maybe You're the Reason",
-      "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
+      "duration_ms": 224000,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 144592,
-      "name": "Self Love",
-      "url": "https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 241097,
       "name": "Tenderness",
       "url": "https://open.spotify.com/track/2HsKkeVWys5Ts20z3e5lT0"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 144592,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "How Many Times Have You Driven By",
-        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 164169,
-      "name": "Crying on the Subway",
-      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "How Many Times Have You Driven By",
+        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 164169,
+      "name": "Crying on the Subway",
+      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "Pretty Girl hi!",
-        "url": "https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 112413,
-      "name": "Pretty Girl hi!",
-      "url": "https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "My Friend Mica",
         "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "Pretty Girl hi!",
+        "url": "https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 112413,
+      "name": "Pretty Girl hi!",
+      "url": "https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj"
     },
     {
       "added_at": "2022-06-06 14:47:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-06-06 14:47:44",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0"
-      },
-      "artists": [
-        {
-          "name": "Lo Knowles",
-          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
-        }
-      ],
-      "duration_ms": 237165,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
-    },
-    {
-      "added_at": "2022-06-06 14:47:44",
-      "album": {
         "name": "First Time In A Long Time: The Reprise Recordings",
         "url": "https://open.spotify.com/album/2BkEkcphy0liqTVRSBEEpC"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 245800,
       "name": "Ain't That Peculiar",
       "url": "https://open.spotify.com/track/4RAS6QT974bl5blsapzVGq"
+    },
+    {
+      "added_at": "2022-06-06 14:47:44",
+      "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0"
+      },
+      "artists": [
+        {
+          "name": "Lo Knowles",
+          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
+        }
+      ],
+      "duration_ms": 237165,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
     },
     {
       "added_at": "2022-06-06 14:47:44",

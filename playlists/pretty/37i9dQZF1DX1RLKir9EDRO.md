@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Eve Dönüş Yok Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,119 likes - 73 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,117 likes - 73 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,6 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 70 | [Öyle Bir Aptalım](https://open.spotify.com/track/47ifCTuB4XVpLpPUYTnpYE) | [Turuncu Gökyüzü](https://open.spotify.com/artist/16d4nPQ35sMW1Y8s9NjjlG) | [Öyle Bir Aptalım](https://open.spotify.com/album/7FDgVFxiYG6Wj8lOYvmZ9B) | 3:35 |
 | 71 | [Anxiety 1](https://open.spotify.com/track/2rL61rr0UhAJnLyE4F1yai) | [İdil Acim](https://open.spotify.com/artist/27o9Q2aMglknrVr2ToSmXf) | [Anxiety 1](https://open.spotify.com/album/5y8ztwllGu3486at1v39vI) | 2:53 |
 | 72 | [Yanıma Gel](https://open.spotify.com/track/56ZhDycDkv0gjmW4qPIWkH) | [Vaktimiz Varken](https://open.spotify.com/artist/0WL4ePSSwsNDzRW5KdBWNq) | [Yanıma Gel](https://open.spotify.com/album/4Z2rpWRw6D6YBrrmhWrK57) | 3:25 |
-| 73 | [Hiç](https://open.spotify.com/track/7tPhHk1amwXmnZgVTYRSVr) | [Gomeisa](https://open.spotify.com/artist/6eSz2ZOZNvS6Y5fxnFbUiQ) | [Hiç](https://open.spotify.com/album/40ZKNfFQhoPRTPXvobdfJ4) | 3:48 |
+| 73 | [Hiç](https://open.spotify.com/track/2HESkfktMQjThje1ulp58b) | [Gomeisa](https://open.spotify.com/artist/6eSz2ZOZNvS6Y5fxnFbUiQ) | [Hiç](https://open.spotify.com/album/4V1jYr9MUtps5qPAscz7zb) | 3:48 |
 
-Snapshot ID: `MTY2MzcwNzYwMCwwMDAwMDAwMDc1NTNjMTk0MDE3N2I5MDE5MmE4Y2UwYzE3ZDkwMzA0`
+Snapshot ID: `MTY2MzcwNzYwMCwwMDAwMDAwMGI0Mzg1Mzk0NTc4M2Q3N2RhOGY0MDEwYzVlMGFmYWE5`

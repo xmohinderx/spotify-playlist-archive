@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199426,
+  "num_followers": 199432,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDA0ZDg1ODA3NjY4ZGUxMzhkMDYzMDhhM2ZjNWJkMDEw",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDNiMWQyOWM3YTE1ZjU2NWEwMjE2NGM3YzQzNDJhODJl",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Los Tres Unplugged 20 A\u00f1os",
-        "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 285430,
-      "name": "Amor Violento",
-      "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "With M\u00fasica Is Mejor",
         "url": "https://open.spotify.com/album/3ieLtvTOc3wl6Q0wgNswzH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 215002,
       "name": "Maldito Traidor",
       "url": "https://open.spotify.com/track/1LAgSJyjXxSXQrUjpu4aDS"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Los Tres Unplugged 20 A\u00f1os",
+        "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 285430,
+      "name": "Amor Violento",
+      "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
-      },
-      "artists": [
-        {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Resiste M\u00e1s Que Yo",
         "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Sin Mentir",
-        "url": "https://open.spotify.com/album/3NBnKd8IO2Ba7AMebrICry"
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
       "artists": [
         {
-          "name": "El Cruce",
-          "url": "https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK"
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
         }
       ],
-      "duration_ms": 185416,
-      "name": "Se Nos Fue el Amor",
-      "url": "https://open.spotify.com/track/1E9rLfNTizWr2zORB4HM6C"
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 187759,
       "name": "M\u00e1gico",
       "url": "https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Sin Mentir",
+        "url": "https://open.spotify.com/album/3NBnKd8IO2Ba7AMebrICry"
+      },
+      "artists": [
+        {
+          "name": "El Cruce",
+          "url": "https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK"
+        }
+      ],
+      "duration_ms": 185416,
+      "name": "Se Nos Fue el Amor",
+      "url": "https://open.spotify.com/track/1E9rLfNTizWr2zORB4HM6C"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Ases Falsos En El Coliseo",
-        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 243270,
-      "name": "Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Te Mueres",
         "url": "https://open.spotify.com/album/03sxKGrSIHyjp9S5EXtcub"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 406546,
       "name": "Te Mueres - En Vivo",
       "url": "https://open.spotify.com/track/29bbukCrs2vjeeUwhHBR14"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Ases Falsos En El Coliseo",
+        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 243270,
+      "name": "Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Lo Que Haces",
+      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Lo Comido y Lo Bailado",
         "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 189568,
       "name": "El Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Lo Que Haces",
-      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "La Manera Correcta",
-        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Ya\u00f1ez",
-          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "La Manera Correcta",
-      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Rebeli\u00f3n del Rock",
         "url": "https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 220616,
       "name": "Rebeli\u00f3n del Rock",
       "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "La Manera Correcta",
+        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "La Manera Correcta",
+      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
     },
     {
       "added_at": "2022-09-23 04:00:00",

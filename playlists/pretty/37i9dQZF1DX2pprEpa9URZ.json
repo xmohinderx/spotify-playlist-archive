@@ -1,29 +1,13 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 645477,
+  "num_followers": 645731,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDAwZTQxYzYzODExNjRkNjMwODYyYTMyNjNmZmQ4Mjc3",
+  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMGZmYWRiMmUwOGY3YTVjOTdhNjFhYzJiZWYyZDI0MDI0",
   "tracks": [
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
-    },
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
@@ -55,26 +39,6 @@
       "duration_ms": 297918,
       "name": "Sumeru",
       "url": "https://open.spotify.com/track/2gL3yeSrVcdgYUgebT6TKN"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Aye Aye",
-        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Cameron Jack",
-          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
-        }
-      ],
-      "duration_ms": 240144,
-      "name": "Aye Aye",
-      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -239,22 +203,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Amazon",
-        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
-      },
-      "artists": [
-        {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
-        }
-      ],
-      "duration_ms": 544182,
-      "name": "Amazon",
-      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Maasai (Doctor Flake Remix)",
         "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
       },
@@ -271,6 +219,38 @@
       "duration_ms": 470837,
       "name": "Maasai - Doctor Flake Remix",
       "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
+    },
+    {
+      "added_at": "2022-10-01 01:48:01",
+      "album": {
+        "name": "Sayo EP",
+        "url": "https://open.spotify.com/album/0PnS7YDXmt2qRdLU1RbdSV"
+      },
+      "artists": [
+        {
+          "name": "Dandara",
+          "url": "https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4"
+        }
+      ],
+      "duration_ms": 426752,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/54niOPlsyPmDmEBEJJyTU5"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Amazon",
+        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
+      },
+      "artists": [
+        {
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+        }
+      ],
+      "duration_ms": 544182,
+      "name": "Amazon",
+      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -291,6 +271,22 @@
       "duration_ms": 193278,
       "name": "Milambi",
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
+    },
+    {
+      "added_at": "2022-10-01 01:48:01",
+      "album": {
+        "name": "Kinana",
+        "url": "https://open.spotify.com/album/4XDWNwgH9XzcSs3dauolyV"
+      },
+      "artists": [
+        {
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+        }
+      ],
+      "duration_ms": 376551,
+      "name": "Kinana",
+      "url": "https://open.spotify.com/track/7I2EDiR6JcLhHtt54bpSRh"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -361,6 +357,22 @@
       "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
+      "added_at": "2022-10-01 01:48:01",
+      "album": {
+        "name": "Citaro",
+        "url": "https://open.spotify.com/album/3iyjWU3JoS62LmjWfHn1M3"
+      },
+      "artists": [
+        {
+          "name": "Qalander",
+          "url": "https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Citaro",
+      "url": "https://open.spotify.com/track/2e2eg2gqeutT0wmdNEAOsq"
+    },
+    {
       "added_at": "2022-09-09 16:00:00",
       "album": {
         "name": "Mesta",
@@ -415,6 +427,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -435,22 +463,6 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -543,18 +555,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Star Tripper",
-        "url": "https://open.spotify.com/album/4bil9t1emZ5tMxChSU364V"
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "Victor Norman",
+          "url": "https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9"
         }
       ],
-      "duration_ms": 293888,
-      "name": "Star Tripper",
-      "url": "https://open.spotify.com/track/17httCRML11JQcFn0ng40I"
+      "duration_ms": 468767,
+      "name": "Showdown",
+      "url": "https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -571,6 +583,22 @@
       "duration_ms": 520042,
       "name": "Forlorn Hope",
       "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Star Tripper",
+        "url": "https://open.spotify.com/album/4bil9t1emZ5tMxChSU364V"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Star Tripper",
+      "url": "https://open.spotify.com/track/17httCRML11JQcFn0ng40I"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -631,22 +659,6 @@
       "duration_ms": 469335,
       "name": "State the Obvious",
       "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Stateless",
-        "url": "https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm"
-      },
-      "artists": [
-        {
-          "name": "Victor Norman",
-          "url": "https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9"
-        }
-      ],
-      "duration_ms": 468767,
-      "name": "Showdown",
-      "url": "https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -887,22 +899,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
@@ -955,34 +951,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/6XbjotcFUn4IhsYqqYm47B"
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
       "artists": [
         {
-          "name": "Sam Shure",
-          "url": "https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN"
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
         }
       ],
-      "duration_ms": 388477,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/79HMJ5AO1qCA4JLZAsrM5j"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Beli",
-        "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
-      },
-      "artists": [
-        {
-          "name": "Rialians on Earth",
-          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
-        }
-      ],
-      "duration_ms": 367636,
-      "name": "Novicani",
-      "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1007,6 +987,22 @@
       "duration_ms": 637455,
       "name": "Voodoo Guitar - Timboletti Remix",
       "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Beli",
+        "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
+      },
+      "artists": [
+        {
+          "name": "Rialians on Earth",
+          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
+        }
+      ],
+      "duration_ms": 367636,
+      "name": "Novicani",
+      "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1051,6 +1047,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Minimuzikhol Benefit Compilation",
+        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
+      },
+      "artists": [
+        {
+          "name": "TUTAN",
+          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
+        }
+      ],
+      "duration_ms": 366886,
+      "name": "Mazbata",
+      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -1087,22 +1099,6 @@
       "duration_ms": 286392,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Minimuzikhol Benefit Compilation",
-        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
-      },
-      "artists": [
-        {
-          "name": "TUTAN",
-          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
-        }
-      ],
-      "duration_ms": 366886,
-      "name": "Mazbata",
-      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
     }
   ],
   "unique_name": "Org\u00e1nica",

@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-92 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
+93 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Break Up](https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Break Up](https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01) | 2:37 | 2022-09-15 |  |
 | [Breathe](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Breathe](https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ) | 2:48 | 2022-09-29 |  |
 | [Can't Let You Go](https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Can't Let You Go](https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF) | 3:22 | 2022-09-29 |  |
-| [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 |  |
+| [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 | 2022-10-01 |
 | [Come Along](https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Come Along](https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY) | 2:44 | 2022-09-15 |  |
 | [Crazy](https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Crazy](https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA) | 3:40 | 2022-09-15 |  |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-09-15 |  |
@@ -95,6 +95,7 @@
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-09-15 |  |
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-09-15 |  |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-09-15 | 2022-09-30 |
+| [Toxic](https://open.spotify.com/track/15DlPYUnP84cvA4zC2zMDa) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Toxic](https://open.spotify.com/album/2pcgvMdOZHUHVWT5JAC6gA) | 3:17 | 2022-09-29 |  |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2022-09-15 |  |
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 |  |
 | [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 |  |

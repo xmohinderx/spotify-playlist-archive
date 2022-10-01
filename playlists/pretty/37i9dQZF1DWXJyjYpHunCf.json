@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 785437,
+  "num_followers": 785514,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDE1YjNiOGQ5MWRjMDE2YTI3ZjRmNjJmZTFiMTI5MmZk",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDg2OWZlZThiODQ0ZjhjNDFiMzAwYjM0N2I2MWY4ZmRh",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
-      },
-      "artists": [
-        {
-          "name": "Hugo Barriol",
-          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Our Kingdom",
-      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
+      },
+      "artists": [
+        {
+          "name": "Hugo Barriol",
+          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "Our Kingdom",
+      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136378,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "If My Wife New I\u2019d Be Dead",
         "url": "https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136378,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "This Could Be Good",
-      "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "We Still Move on Dance Floors",
         "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "This Could Be Good",
+      "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Some Kind Of Love",
         "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+        "name": "All But The Sun",
+        "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
       },
       "artists": [
         {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+          "name": "Winterbourne",
+          "url": "https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty"
         }
       ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
+      "duration_ms": 266397,
+      "name": "Steady My Bones",
+      "url": "https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "All But The Sun",
-        "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
+        "name": "These Cold Nights",
+        "url": "https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9"
       },
       "artists": [
         {
-          "name": "Winterbourne",
-          "url": "https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty"
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
         }
       ],
-      "duration_ms": 266397,
-      "name": "Steady My Bones",
-      "url": "https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd"
+      "duration_ms": 216066,
+      "name": "These Cold Nights",
+      "url": "https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "These Cold Nights",
-        "url": "https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9"
-      },
-      "artists": [
-        {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "These Cold Nights",
-      "url": "https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "L-Train",
-        "url": "https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 227053,
-      "name": "L-Train",
-      "url": "https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Kairos",
         "url": "https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "L-Train",
+        "url": "https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 227053,
+      "name": "L-Train",
+      "url": "https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Break Me Open",
         "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 183026,
       "name": "Break Me Open",
       "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 207400,
       "name": "Ten Steps Back",
       "url": "https://open.spotify.com/track/2isLKMPLn2TziEALHXsruK"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+        "name": "Left With The Wolves",
+        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
       },
       "artists": [
         {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+          "name": "Nathan Hawes",
+          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn"
+      "duration_ms": 229334,
+      "name": "Left With The Wolves",
+      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
     }
   ],
   "unique_name": "Folk Pop",

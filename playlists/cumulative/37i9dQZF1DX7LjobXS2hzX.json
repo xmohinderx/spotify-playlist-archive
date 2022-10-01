@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment. Photo: Roxane Bruneau",
+  "description": "Voici les hits du moment. Photo: Tayc",
   "name": "La Hit Liste",
   "published_playlist_ids": [
     "2nCUfA3MhQxNQozCiwBfG4"
@@ -172,6 +172,24 @@
     },
     {
       "album": {
+        "name": "Amour, Haine et Danger",
+        "url": "https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Amour, Haine et Danger",
+      "url": "https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -445,6 +463,28 @@
       "duration_ms": 227171,
       "name": "Clandestina",
       "url": "https://open.spotify.com/track/5bDhpwMTqfX1rKBn65btBr"
+    },
+    {
+      "album": {
+        "name": "CNQDL",
+        "url": "https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei"
+      },
+      "artists": [
+        {
+          "name": "Clay and Friends",
+          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220856,
+      "name": "CNQDL",
+      "url": "https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99"
     },
     {
       "album": {
@@ -1277,7 +1317,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 188093,
       "name": "J'entends tout ce qui joue ( dans ta t\u00eate )",
       "url": "https://open.spotify.com/track/2o50mKgFk37SMPVXKYWiR4"
@@ -1295,7 +1335,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
@@ -1553,6 +1593,24 @@
       "duration_ms": 217493,
       "name": "Meaningless",
       "url": "https://open.spotify.com/track/2w8OmA0tz54P74o8kLMcfb"
+    },
+    {
+      "album": {
+        "name": "Molle Twist Vanille-Vanille",
+        "url": "https://open.spotify.com/album/1wk0ZW3FAXjV95BM11YQlB"
+      },
+      "artists": [
+        {
+          "name": "Bleu Jeans Bleu",
+          "url": "https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162357,
+      "name": "Molle Twist Vanille-Vanille",
+      "url": "https://open.spotify.com/track/1ZYsc0atLLow4S6f6ugxLZ"
     },
     {
       "album": {

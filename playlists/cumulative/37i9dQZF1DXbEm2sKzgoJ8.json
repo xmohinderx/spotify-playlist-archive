@@ -1928,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "I See Red",
+        "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
+      },
+      "artists": [
+        {
+          "name": "Everybody Loves an Outlaw",
+          "url": "https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230613,
+      "name": "I See Red",
+      "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
+    },
+    {
+      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH"
       },
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 178635,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/6m6Xew8uyUBkVqQ0EbJNSN"
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 186432,
       "name": "raw",
       "url": "https://open.spotify.com/track/2G3cF0Gc6SFGwzOxa9QOxC"
@@ -3519,6 +3537,24 @@
       "duration_ms": 362653,
       "name": "She",
       "url": "https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs"
+    },
+    {
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "Shinunoga E-Wa",
+      "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
     },
     {
       "album": {

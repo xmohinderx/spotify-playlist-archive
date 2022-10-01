@@ -4,7 +4,7 @@
 
 > no\-clip out of <a href="https://en.wikipedia.org/wiki/The\_Backrooms">reality</a>.
 
-73 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
+74 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,13 +53,14 @@
 | [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 | 2022-08-22 |  |
 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 | 2022-08-22 |  |
 | [Nimbasa CORE](https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9) | [plasterbrain](https://open.spotify.com/artist/2MtWgdVxiYNJaqMKd32f0l) | [Nimbasa CORE](https://open.spotify.com/album/5tgnntLDXDjrQKDS4vBGjN) | 2:43 | 2022-08-22 | 2022-08-24 |
+| [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 | 2022-09-30 |  |
 | [Nocturne in E\-flat Major, Op\. 9: No\. 2](https://open.spotify.com/track/0SXimxdL7qJcnzv3mAEPPT) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bo](https://open.spotify.com/artist/7hlTtVz10Vlmp9oDPHwjUE) | [Nocturne in E\-flat Major, Op\. 9: No\. 2](https://open.spotify.com/album/4rJGCE3Njwhqf2eoR2uTgG) | 0:52 | 2022-08-22 |  |
 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 | 2022-08-22 | 2022-08-24 |
 | [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 | 2022-08-22 |  |
 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 | 2022-08-22 |  |
 | [Out of Her Head \(Outerlude\) \[From The Film Possibly in Michigan\]](https://open.spotify.com/track/0iFjAUqWSCw4y2qeO22dnu) | [Korban Baxter](https://open.spotify.com/artist/03MfTqIibYLPqj5JLUJvPn) | [Impure Aesthetic \(Deluxe\)](https://open.spotify.com/album/6vFG81DvXFOz4Wwn5ISIuV) | 1:34 | 2022-08-22 |  |
 | [Outro](https://open.spotify.com/track/21NW7Xx9N01FEqcKZzcmCT) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Henry Nowhere](https://open.spotify.com/album/5ayz7Qdd4R5OASJ7NE0doo) | 1:02 | 2022-08-26 |  |
-| [overpopulation at the end of everything is less of a worry, haha](https://open.spotify.com/track/0NPajRRbTvnXppqfEU8qaW) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 1:23 | 2022-08-22 |  |
+| [overpopulation at the end of everything is less of a worry, haha \('a letter to you' from mother 3\)](https://open.spotify.com/track/0NPajRRbTvnXppqfEU8qaW) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 1:23 | 2022-08-22 |  |
 | [Reflections](https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:10 | 2022-08-22 |  |
 | [School Rooftop \- Slowed Down Version](https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Slowed Down Version\)](https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ) | 3:13 | 2022-08-22 |  |
 | [Six Forty Seven](https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Six Forty Seven](https://open.spotify.com/album/0FawTVuFbmS9KLWA8TAtau) | 1:59 | 2022-08-22 |  |

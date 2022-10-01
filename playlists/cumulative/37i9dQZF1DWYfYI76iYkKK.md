@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-152 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+153 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Twisted](https://open.spotify.com/track/3Qg03Ze6ifmmAGznwr1Xm5) | [Electrico](https://open.spotify.com/artist/4DxELhGCnHXSqYwq6fbcmv) | [Twisted](https://open.spotify.com/album/6T13N7kZpv449TROnEk40y) | 3:17 | 2022-06-16 | 2022-06-23 |
 | [What if..?](https://open.spotify.com/track/4Bia9GoL6kHh0By80gxB6k) | [MiLK](https://open.spotify.com/artist/0NgRZYjBqL5GG9NVxiYLKS) | [What if..? \(Side A\)](https://open.spotify.com/album/7G6FUjpT0xLFIaiZHLQR63) | 5:15 | 2022-07-15 | 2022-07-21 |
 | [一年後的故事](https://open.spotify.com/track/0Cr52aceiNO1ssiC3v1PMx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Present](https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr) | 4:22 | 2022-06-02 | 2022-07-08 |
-| [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 |  |
+| [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 | 2022-10-01 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2022-07-28 |  |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/7KAhj1obJrK5Avezca7YVL) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/4q7WSRlVNR02cyiCrCj2bo) | 4:00 | 2022-06-02 | 2022-07-29 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/5QGgJpeO4EHR1KTa0L8yKK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/7xBe5EKRxZk4icCZw91SMM) | 3:41 | 2022-06-02 | 2022-07-29 |
@@ -64,6 +64,7 @@
 | [天蠍座\-日光版](https://open.spotify.com/track/1kqaTLA5cwwSL2z4CrU0wD) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [天蠍座\-日光版](https://open.spotify.com/album/4ucntO6s4JhRPCqr7a7lde) | 4:30 | 2022-07-15 | 2022-07-28 |
 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 | 2022-06-02 |  |
 | [好好](https://open.spotify.com/track/1wI4WM504xW0N7PTQeu6LA) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [好好](https://open.spotify.com/album/6FacBzWHBXqpz4kICD7qD8) | 3:11 | 2022-06-02 | 2022-07-29 |
+| [好好對待她](https://open.spotify.com/track/0ZnmSyvulI0c8a3YLXrvdO) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/3qAC5nzZ2eeyS3VqOoQ3Sj) | 4:38 | 2022-09-29 |  |
 | [好強](https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [相反的是](https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw) | 4:07 | 2022-07-28 |  |
 | [如果可以 \(Acapella\) \- 電影"月老"主題曲](https://open.spotify.com/track/0y1TIod7QyhmY4RG0Ett2k) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(Acapella\) \[電影"月老"主題曲\]](https://open.spotify.com/album/4FWQixx35g3MU4pWdEHKnq) | 4:32 | 2022-06-10 | 2022-07-29 |
 | [如果海能夠 \(電影《東經北緯》主題曲\)](https://open.spotify.com/track/2YL8coVYOOF3qdO68P4z5T) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [如果海能夠 \(電影《東經北緯》主題曲\)](https://open.spotify.com/album/3DcCKjb5UcM4HNNFxVgP2r) | 4:54 | 2022-06-02 | 2022-07-12 |

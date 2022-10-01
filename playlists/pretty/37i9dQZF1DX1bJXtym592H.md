@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,829 likes - 127 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,197 likes - 127 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 126 | [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 |
 | 127 | [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 |
 
-Snapshot ID: `MTY2MzMzNjQ0MCwwMDAwMDAwMGVhZDUxMmZmMDgxYTdlNjU4MTNkZTMxNzFjYzQ5NDIy`
+Snapshot ID: `MTY2NDUzNDc1NSwwMDAwMDAwMGZlMjRmNWFmOGI2NGJmNjUyNzYzNTMwNmJjMzYyZmUy`

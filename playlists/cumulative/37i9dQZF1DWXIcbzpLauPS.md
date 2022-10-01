@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: Motionless In White
+> This is the new Core at its finest\. Cover: Lorna Shore
 
-581 songs - 1 day 12 hr 36 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+582 songs - 1 day 12 hr 42 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |
 | [NO HELP](https://open.spotify.com/track/2yxjtF4f1Yw2GpKELclHw3) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [NO HELP](https://open.spotify.com/album/65SYISbipzVUmmoeAzsYtP) | 2:53 | 2022-04-15 | 2022-05-21 |
 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 | 2022-07-08 |  |
-| [No King Rules Forever](https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [No King Rules Forever](https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI) | 3:12 | 2022-06-17 |  |
+| [No King Rules Forever](https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [No King Rules Forever](https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI) | 3:12 | 2022-06-17 | 2022-10-01 |
 | [No One's Above](https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [No One's Above](https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH) | 3:33 | 2022-07-13 | 2022-07-23 |
 | [No Time To Suffer](https://open.spotify.com/track/3a4afK7qfkQyhZbjxHHuXE) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [No Time To Suffer](https://open.spotify.com/album/0cIFoaXSemx7TYiqC6EI9n) | 3:55 | 2022-07-13 | 2022-07-16 |
 | [No Vacancy](https://open.spotify.com/track/1kQCufzKsVuA4mcFhBRMWG) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [No Vacancy](https://open.spotify.com/album/0RQf8be7RCvMrRCL9aVYJ2) | 3:23 | 2022-01-07 | 2022-07-23 |
@@ -386,6 +386,7 @@
 | [Overlord](https://open.spotify.com/track/1Tg8yTnIA7lNC2aQPbuQHd) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Overlord](https://open.spotify.com/album/4IYXhSQyH18f8kceUIHn9m) | 3:10 | 2022-07-13 | 2022-07-17 |
 | [Overthrown](https://open.spotify.com/track/6PR8h4YuG6DmBlE7MEalYD) | [Balance Breach](https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK) | [Overthrown](https://open.spotify.com/album/3Ra4pbA7pf3fM4kZlyG8tx) | 3:38 | 2021-12-17 | 2022-03-18 |
 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 | 2022-09-16 |  |
+| [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/album/7s8v300WVzKUhsATpx692e) | 5:36 | 2022-09-30 |  |
 | [Pale Tongue](https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Pale Tongue](https://open.spotify.com/album/6pgxhNnusTdUnOOuhiJKEK) | 3:36 | 2021-12-17 | 2022-03-18 |
 | [Pandora](https://open.spotify.com/track/4d9LsaHESzctVq4PcfZh24) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Pandora](https://open.spotify.com/album/2OiGgonTvEC5CHNZg5R0xW) | 4:36 | 2022-07-13 | 2022-07-23 |
 | [Paradigm](https://open.spotify.com/track/5dEyjGoDvm4anASD9kAXEZ) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:56 | 2022-07-13 | 2022-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,316 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,339 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 40 | [Kill Me Slow](https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [New Rave](https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml) | 3:28 |
 | 41 | [Tremor \- Sensation 2014 Anthem](https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:54 |
 | 42 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 |
-| 43 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 |
-| 44 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
+| 43 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
+| 44 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 |
 | 45 | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Strange Fruits Music](https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP) | 2:13 |
 | 46 | [Physical \- Alok Remix](https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Physical \(Alok Remix\)](https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh) | 3:09 |
 | 47 | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy) | 2:34 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 77 | [River](https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [River](https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl) | 3:20 |
 | 78 | [Bang](https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL) | [Bang](https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8) | 2:56 |
 | 79 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 |
-| 80 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 |
-| 81 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 |
+| 80 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 |
+| 81 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 |
 | 82 | [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 |
 | 83 | [Dished \(Male Stripper\)](https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Dished \(Male Stripper\)](https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4) | 4:13 |
 | 84 | [Turn Me Up \- ViP Mix](https://open.spotify.com/track/4VO1K5TsBbx8Zzu8052slF) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Nabiha](https://open.spotify.com/artist/0nYStwwY321ISCu6BGJq98) | [Turn Me Up \(ViP Mix\)](https://open.spotify.com/album/4Tfc2KHRIGjni2b18RgkM7) | 4:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [El Bass](https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [El Bass](https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX) | 3:10 |
 | 90 | [Light Me Up](https://open.spotify.com/track/6xfT4ubp1ETiqfDtUbdYHI) | [SNO](https://open.spotify.com/artist/3qTRZI4zjqH8jPXvmUNu10) | [Light Me Up](https://open.spotify.com/album/4EohvRPYKOWpgugn2n3DTi) | 3:04 |
 
-Snapshot ID: `MTY2MjM1NzQyNCwwMDAwMDAwMDg3NGE0ZGVmNzc1ZjU1NjZmYWM2ZGQ1MDUxZmYyYmM0`
+Snapshot ID: `MTY2MjM1NzQyNCwwMDAwMDAwMDM0NGY3NGQ4MjliMzJmZmIyOTQ4MWQ1NzE3MTNjNDc5`

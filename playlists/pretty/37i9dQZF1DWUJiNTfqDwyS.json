@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 187404,
+  "num_followers": 187675,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMGFlMjM0NmU3ZDkwZGVmNTUxNDY2ZTNhZTEwZjNlZWVi",
+  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMDAwNjdlZDkxNDVjYzAwZTI1MjM1YzA2NDBmNzBlNzdj",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Necropolis",
-        "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
-      },
-      "artists": [
-        {
-          "name": "Vader",
-          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
-        },
-        {
-          "name": "Maciej Taff",
-          "url": "https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Fight Fire With Fire",
-      "url": "https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Gimme Shelter",
         "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
       },
@@ -459,22 +439,6 @@
       "duration_ms": 238317,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -495,18 +459,38 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+        "name": "Necropolis",
+        "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Vader",
+          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
+        },
+        {
+          "name": "Maciej Taff",
+          "url": "https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml"
         }
       ],
-      "duration_ms": 211973,
-      "name": "Message in a Bottle",
-      "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
+      "duration_ms": 245853,
+      "name": "Fight Fire With Fire",
+      "url": "https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -523,6 +507,22 @@
       "duration_ms": 223200,
       "name": "Drowning in the Sound",
       "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Message in a Bottle",
+      "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Looking for You",
         "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 233472,
       "name": "Lay All Your Love on Me",
       "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+        "name": "Human (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
         }
       ],
-      "duration_ms": 207453,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
+      "duration_ms": 240693,
+      "name": "God of Thunder",
+      "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -807,18 +807,34 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Human (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc"
+        "name": "Riddles, Ruins & Revelations",
+        "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
       },
       "artists": [
         {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+          "name": "Sirenia",
+          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
         }
       ],
-      "duration_ms": 240693,
-      "name": "God of Thunder",
-      "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
+      "duration_ms": 258564,
+      "name": "Voyage Voyage",
+      "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -835,22 +851,6 @@
       "duration_ms": 208533,
       "name": "TNT",
       "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Riddles, Ruins & Revelations",
-        "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
-      },
-      "artists": [
-        {
-          "name": "Sirenia",
-          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
-        }
-      ],
-      "duration_ms": 258564,
-      "name": "Voyage Voyage",
-      "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Nativity In Black: A Tribute To Black Sabbath",
-        "url": "https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Children Of The Grave",
-      "url": "https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 208906,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Nativity In Black: A Tribute To Black Sabbath",
+        "url": "https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Children Of The Grave",
+      "url": "https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn"
     },
     {
       "added_at": "2022-06-13 06:46:14",

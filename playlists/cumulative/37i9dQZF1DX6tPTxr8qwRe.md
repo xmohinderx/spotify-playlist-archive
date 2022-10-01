@@ -4,7 +4,7 @@
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Zolita
 
-259 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+262 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-09-03 |
 | [Easier than Lying](https://open.spotify.com/track/7N1TIml2jRQRgXUrpXgXrk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:26 | 2022-03-18 | 2022-04-02 |
-| [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-01 |  |
+| [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-01 | 2022-10-01 |
 | [EVERYBODY'S GONNA DIE!](https://open.spotify.com/track/3YG44aJtUMUtT1OB85s4LK) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [EVERYBODY'S GONNA DIE!](https://open.spotify.com/album/23ZAsoQQ5Bjnxihm4sAsBm) | 2:25 | 2022-09-09 |  |
 | [Ew](https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Ew](https://open.spotify.com/album/3Q4uaS3TVjQg4dsX0fn8F6) | 2:35 | 2022-01-28 | 2022-04-29 |
 | [Ex's Side](https://open.spotify.com/track/4bmOMudg7SgJkoz5C0FTvj) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Ex's Side](https://open.spotify.com/album/5WlT8mcs04cM9ueyKTk78a) | 2:52 | 2021-12-03 | 2022-03-12 |
@@ -92,6 +92,7 @@
 | [Fuck Your Labels](https://open.spotify.com/track/6Y8TZ2mDCfVYE8O9VdGpaW) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Fuck Your Labels](https://open.spotify.com/album/1YNFjA7p3DvzILGOjW0mGW) | 2:57 | 2022-01-14 | 2022-03-18 |
 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 | 2022-02-25 | 2022-05-14 |
 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 | 2022-05-13 | 2022-07-16 |
+| [Get Off My](https://open.spotify.com/track/6YmV89ReuPTBeHGelmTbca) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Get Off My](https://open.spotify.com/album/2tsnxK9zuDDuch7E9pSnkj) | 3:04 | 2022-09-30 |  |
 | [Ghost You](https://open.spotify.com/track/7pDhnvTXaAdsvpytclWlZh) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Ghost You](https://open.spotify.com/album/0OUBOSEeADHrbzedRIaWCC) | 3:09 | 2022-09-16 |  |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 |  |
 | [Girls Can Do Anything](https://open.spotify.com/track/6heGVcEj4wAyvdM9vg81kF) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Girls Can Do Anything](https://open.spotify.com/album/21ZOZVvKJtmGn4OjW8f3wW) | 2:54 | 2022-03-11 | 2022-04-16 |
@@ -110,7 +111,7 @@
 | [headboard](https://open.spotify.com/track/45jIKjZDlMEarhjRTKYA9F) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [headboard](https://open.spotify.com/album/54j4T7LI023ozkTZ1VhvAn) | 2:40 | 2022-09-09 |  |
 | [High Enough](https://open.spotify.com/track/1D9HQactbJoUudf9B119Y5) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:51 | 2021-11-16 | 2022-02-19 |
 | [Hold Me Down](https://open.spotify.com/track/3nfC5ikuvw3mxDEE10c7EA) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Hold Me Down](https://open.spotify.com/album/2L7xcRtVXalWzgyT76W2Xj) | 2:42 | 2022-01-14 | 2022-03-18 |
-| [hold the applause](https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [hold the applause](https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1) | 2:29 | 2022-06-24 |  |
+| [hold the applause](https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [hold the applause](https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1) | 2:29 | 2022-06-24 | 2022-10-01 |
 | [Honestly I'm Disappointed](https://open.spotify.com/track/4XeELrZsC6BNUF9RjGdDx3) | [Kate Grahn](https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv) | [Honestly I'm Disappointed](https://open.spotify.com/album/4ueJumymqxktXKi8uSfzF1) | 2:19 | 2022-04-08 | 2022-09-10 |
 | [Hot Killer](https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hot Killer](https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy) | 2:18 | 2022-06-24 |  |
 | [how does your girlfriend feel about it](https://open.spotify.com/track/6Z1nBzbcsdCvoLF2G3Cl35) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [how does your girlfriend feel about it](https://open.spotify.com/album/5z3YYg8ZszvGO836MiYu1o) | 2:33 | 2022-04-01 | 2022-07-16 |
@@ -139,8 +140,9 @@
 | [lava](https://open.spotify.com/track/5wn3o3cfK1cq740KQFEN1n) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [lava](https://open.spotify.com/album/28svVdd3XPgkmtoy1UbL9j) | 2:18 | 2022-03-25 | 2022-05-28 |
 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 | 2022-05-27 |  |
 | [LEVITATE](https://open.spotify.com/track/1CTtPSqqZEGXOi42FFb736) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [LEVITATE](https://open.spotify.com/album/0D8oXXB0uBxGCsjUeLmkay) | 3:03 | 2022-01-14 | 2022-02-26 |
+| [Liar Liar](https://open.spotify.com/track/3Or3mHW0EXc2AyJyWKn5h0) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Liar Liar](https://open.spotify.com/album/6KZ3DtRuWlTlCY0SKsTRyR) | 2:48 | 2022-09-30 |  |
 | [Library Card](https://open.spotify.com/track/4zQiuvLmOFXI9lRxBEeb94) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Library Card](https://open.spotify.com/album/2F6Iz0xIZevO0WH1BwDSPn) | 3:26 | 2022-03-18 | 2022-08-06 |
-| [Life Sux](https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Life Sux](https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ) | 2:54 | 2022-07-29 |  |
+| [Life Sux](https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Life Sux](https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ) | 2:54 | 2022-07-29 | 2022-10-01 |
 | [Light Switch](https://open.spotify.com/track/5Lh7DFcEwboYBefjnDVGz5) | [Rain Paris](https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB) | [Light Switch](https://open.spotify.com/album/2867dAr71CyRHt6MMco7yk) | 3:04 | 2022-07-15 |  |
 | [Lilith](https://open.spotify.com/track/697u6iOThAZBF8mx2MhPSU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 2:47 | 2022-02-04 | 2022-03-18 |
 | [Liquorice](https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j) | [Elle Lexxa](https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve) | [Bubblegum](https://open.spotify.com/album/4dhOZl5rUI3oXRGLAFQfCc) | 2:22 | 2022-02-18 | 2022-05-14 |
@@ -162,6 +164,7 @@
 | [Midas](https://open.spotify.com/track/54hhLiIkQmKvoF3WtakcQk) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Midas](https://open.spotify.com/album/0ZVinMifIaIicM53K91vs7) | 2:35 | 2022-09-16 |  |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-02-25 | 2022-07-09 |
 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 | 2022-05-20 | 2022-09-17 |
+| [Monster](https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Monster](https://open.spotify.com/album/0ZNVOeu0n0XPdSkqRCfk6w) | 2:40 | 2022-09-30 |  |
 | [Mouthwash](https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Melancholia](https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi) | 2:54 | 2022-09-09 |  |
 | [my best friend's ex](https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [my best friend's ex](https://open.spotify.com/album/6FsEy3lKqjcJyZgLD7OQsF) | 2:55 | 2022-09-16 |  |
 | [Naked](https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Naked](https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj) | 2:13 | 2022-08-05 |  |

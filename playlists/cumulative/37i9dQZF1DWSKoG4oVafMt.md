@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-564 songs - 1 day 6 hr 31 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+567 songs - 1 day 6 hr 41 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Amanat](https://open.spotify.com/track/0TeUlCl92AjyCXdfdU5C4M) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ) | [Amanat](https://open.spotify.com/album/1B8j6mD6LY9wH13HJdWyEF) | 3:15 | 2022-02-04 | 2022-04-06 |
 | [Amber Nu Paudi](https://open.spotify.com/track/1Cgf1bIWS0oJtzHidStWtQ) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 4:23 | 2022-01-10 | 2022-01-15 |
 | [Apna Viah](https://open.spotify.com/track/0znBJ5J84AD5ykoOkauSdR) | [Advik](https://open.spotify.com/artist/4RnHjFdLJEfBqL9B4nQcLg), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Apna Viah](https://open.spotify.com/album/4SCjM3XgWj3vy2Bk8huEnm) | 3:24 | 2022-02-22 | 2022-03-11 |
+| [Attitude](https://open.spotify.com/track/1c69J5zh7bFdzuCskQ1nDM) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/album/3pcfgQjmTD9v9z2uq4Zoj4) | 2:49 | 2022-09-30 |  |
 | [Baah Fadke](https://open.spotify.com/track/1f9j80w1LF874X4kH0E3Yb) | [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X), [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Baah Fadke](https://open.spotify.com/album/22ErOFK02WfmSwsThMD1CA) | 2:29 | 2022-05-23 | 2022-07-06 |
 | [Bachalo](https://open.spotify.com/track/1v8NfOckFEnck9gp7iyetm) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Bachalo](https://open.spotify.com/album/3KSE24dHweGL1Ent5wkmYZ) | 2:45 | 2021-12-02 | 2022-04-06 |
 | [Bachcha](https://open.spotify.com/track/05gtSxG3Zpm0Hw3C0Eha0l) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI) | [Bachcha](https://open.spotify.com/album/6tyBcZsCCVccS62USi3rSO) | 4:07 | 2022-04-28 | 2022-05-11 |
@@ -184,6 +185,7 @@
 | [Hi Bye](https://open.spotify.com/track/2KhgkUOwNVBQUGSkeaNzW8) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Hi Bye](https://open.spotify.com/album/3kos90we5ZKsZeOPHJTFhY) | 3:02 | 2022-07-15 | 2022-08-18 |
 | [Hometown](https://open.spotify.com/track/4LvIeOXZ4b9duvPEDUogot) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:16 | 2022-01-17 | 2022-02-01 |
 | [Hon Ni Dena](https://open.spotify.com/track/1Zn3Je9Gain80ZPQwLZQUv) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq) | [Hon Ni Dena](https://open.spotify.com/album/3qp16rbNpjW8hyLebTMCDU) | 2:51 | 2022-06-28 | 2022-07-06 |
+| [I Wish](https://open.spotify.com/track/5gUNkD57jpcdjXv9ODiSmf) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [I Wish](https://open.spotify.com/album/3eQ91uxeqINSduxCL6zlba) | 3:13 | 2022-09-30 |  |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |
 | [Ikk Taara Tuta \- From "P.R."](https://open.spotify.com/track/0XpQ26NbTXPyqCRRCoZ9Zp) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Sabir Ali](https://open.spotify.com/artist/3tZ8wQquxUwLnS4yr7czym) | [Ikk Taara Tuta \(From "P.R."\)](https://open.spotify.com/album/3CiJDlIoqFmzcT4yaU1aTZ) | 8:29 | 2022-06-01 | 2022-07-06 |
@@ -205,6 +207,7 @@
 | [Jatta Ve](https://open.spotify.com/track/4quaGji0veFnE69rm9RUDi) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Jatta Ve](https://open.spotify.com/album/6Y6FuWImBPm7ySk9bdDe94) | 4:55 | 2022-02-04 | 2022-04-06 |
 | [Jattiye](https://open.spotify.com/track/3UxN9a4acByejDEgrrCNVT) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Jattiye](https://open.spotify.com/album/2k1AtVajNAci4hb6Omtqvs) | 2:43 | 2022-08-31 | 2022-09-03 |
 | [Jawab](https://open.spotify.com/track/3CEz56jBn8oUWU9kvQ8hAh) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [Jawab](https://open.spotify.com/album/3uDWcLtliW3y4zNy8mAwrT) | 2:21 | 2022-08-16 | 2022-09-01 |
+| [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/album/0NpT6q3W06PVHcCnE5Ifyl) | 3:55 | 2022-09-30 |  |
 | [Jhalleya Dila](https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jhalleya Dila](https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa) | 3:21 | 2022-01-12 | 2022-05-11 |
 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2022-08-04 |  |
 | [Jind Tere Naam](https://open.spotify.com/track/1FhvIkgpQ7XV57psmV1Doq) | [Raj Brar](https://open.spotify.com/artist/6ZBd1hRd7fSEEn7UM1UDCv) | [Jind Tere Naam](https://open.spotify.com/album/0gVTIRWykkCsotRRbtOBs0) | 3:01 | 2022-01-21 | 2022-02-05 |

@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul. ",
-  "num_followers": 30072,
+  "num_followers": 30152,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzMDU3NiwwMDAwMDAwMDVjZjZhNDE0MWJjNTE3YWU2YTZhOTZmMWE4NGI0YmRh",
+  "snapshot_id": "MTY2MDkzMDU3NiwwMDAwMDAwMDQzNjk5NjJiZWRhN2UyMjc1ZTk0NmM0ODUwZWE4YzM5",
   "tracks": [
     {
       "added_at": "2022-08-19 17:36:16",
@@ -699,22 +699,18 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "Willie's Blues",
-        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
+        "name": "Chicago Blues Session Volume 3",
+        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
       },
       "artists": [
         {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        },
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
+          "name": "Magic Slim & The Teardrops",
+          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
         }
       ],
-      "duration_ms": 203226,
-      "name": "Sittin' And Cryin' The Blues",
-      "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
+      "duration_ms": 442346,
+      "name": "So Easy To Love You",
+      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -755,18 +751,22 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "Chicago Blues Session Volume 3",
-        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
+        "name": "Willie's Blues",
+        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
       "artists": [
         {
-          "name": "Magic Slim & The Teardrops",
-          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        },
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
         }
       ],
-      "duration_ms": 442346,
-      "name": "So Easy To Love You",
-      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
+      "duration_ms": 203226,
+      "name": "Sittin' And Cryin' The Blues",
+      "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "The Little Red Rooster",
-      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
         "name": "Riding Out The Storm",
         "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 175133,
       "name": "I Got the Blues",
       "url": "https://open.spotify.com/track/67sHV5ccX8EreM66hq6cbv"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "The Little Red Rooster",
+      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
     },
     {
       "added_at": "2022-08-19 17:36:16",

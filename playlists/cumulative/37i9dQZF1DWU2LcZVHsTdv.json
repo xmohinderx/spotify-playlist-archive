@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The country way of testifying. Cover: Ian Munsick",
+  "description": "The country way of testifying. Cover: Zach Williams",
   "name": "Country by the Grace of God",
   "published_playlist_ids": [
     "6cE3SvtvS08f7zxJyG9uyM"
@@ -1324,6 +1324,28 @@
     },
     {
       "album": {
+        "name": "A Hundred Highways",
+        "url": "https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "Jesus' Fault",
+      "url": "https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj"
+    },
+    {
+      "album": {
         "name": "Jesus, Won't You Come By Here",
         "url": "https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm"
       },
@@ -1635,6 +1657,28 @@
       "duration_ms": 250760,
       "name": "Nearer My God to Thee",
       "url": "https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3"
+    },
+    {
+      "album": {
+        "name": "Ol' Church Hymn",
+        "url": "https://open.spotify.com/album/0WNfWSVgvNxqD2OYbWdOvA"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        },
+        {
+          "name": "Chapel Hart",
+          "url": "https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Ol' Church Hymn",
+      "url": "https://open.spotify.com/track/6YlQYcJCm0XLkpA3flcbaD"
     },
     {
       "album": {

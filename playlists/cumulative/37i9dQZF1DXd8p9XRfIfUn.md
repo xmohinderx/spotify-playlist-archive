@@ -2,9 +2,9 @@
 
 ### [Academia Reggaetón](https://open.spotify.com/playlist/37i9dQZF1DXd8p9XRfIfUn)
 
-> Lo mejor de la nueva\. Foto: paopao
+> Lo mejor de la nueva\. Foto: Alu Mix, Yoss Bones
 
-151 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/3ZGG1JOi7RasWn3HYxETEa)
+152 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/3ZGG1JOi7RasWn3HYxETEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Buena Que Está](https://open.spotify.com/track/33PNzjr5j4Ues4M5cbLwmS) | [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Buena Que Está](https://open.spotify.com/album/30OSvpOVtY9gw0mhoEnO2K) | 3:15 | 2022-05-13 | 2022-07-29 |
 | [Cada Vez](https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cada Vez](https://open.spotify.com/album/31SngBc9PCn2qDix3g745R) | 3:37 | 2022-05-13 | 2022-08-14 |
 | [Cambumbeo](https://open.spotify.com/track/67yoTcCOwAROr45LtoPirZ) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua) | [Cambumbeo](https://open.spotify.com/album/01G2aulEHyod28lfjovZ5C) | 3:40 | 2022-05-13 | 2022-07-28 |
+| [Caramelo](https://open.spotify.com/track/7k0CT9uAIYQ5weaguKxize) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Perrea Con Delivery](https://open.spotify.com/album/43G8xNvKvMAl0QU9sWASah) | 3:39 | 2022-09-30 |  |
 | [Casualidad](https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Casualidad](https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI) | 2:41 | 2022-05-13 | 2022-07-29 |
 | [Cocco](https://open.spotify.com/track/6nLaJqDyVmn4TucKxQSIcN) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Cocco](https://open.spotify.com/album/1QHELUBylohKxXjvZEk7zH) | 2:57 | 2022-07-01 | 2022-07-29 |
 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 | 2022-05-13 |  |
@@ -62,7 +63,7 @@
 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-05-13 | 2022-07-29 |
 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 | 2022-07-01 |  |
 | [Kiki](https://open.spotify.com/track/5qd9O3TogUZ6WTgyhpak1M) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Kiki](https://open.spotify.com/album/5vZahuP1wg8Kpt22NQOfhm) | 2:11 | 2022-05-13 | 2022-08-27 |
-| [La Botella](https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [La Botella](https://open.spotify.com/album/3mkTkvsJwApPfUAJQuTrOJ) | 3:10 | 2022-05-13 |  |
+| [La Botella](https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [La Botella](https://open.spotify.com/album/3mkTkvsJwApPfUAJQuTrOJ) | 3:10 | 2022-05-13 | 2022-10-01 |
 | [La Diferente](https://open.spotify.com/track/4Nivbcp45LZSLnPRjNrlBg) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Diferente](https://open.spotify.com/album/2S4Go2c9gl4qsGgQwAeBe2) | 3:07 | 2022-05-13 | 2022-09-02 |
 | [La Distancia](https://open.spotify.com/track/059qxIbLrwRYK8xRkks34E) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx), [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [La Distancia](https://open.spotify.com/album/338Alezy5J2zXSQuDHZnsQ) | 3:14 | 2022-05-13 | 2022-07-28 |
 | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF) | 4:20 | 2022-05-13 |  |

@@ -1326,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "Dreamy Days",
+        "url": "https://open.spotify.com/album/0mrp5JodYIw5JHNkszmJlj"
+      },
+      "artists": [
+        {
+          "name": "Moiki",
+          "url": "https://open.spotify.com/artist/0SbXVLqHl9UCKZ0YxDKWAq"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148695,
+      "name": "Dreamy Days",
+      "url": "https://open.spotify.com/track/383UHUBQYnyrnFnfY1n3b8"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/4y5HjVDtqHT41t9ST85f5c"
       },
@@ -4373,6 +4391,24 @@
       "duration_ms": 155880,
       "name": "Sol\u00ear",
       "url": "https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY"
+    },
+    {
+      "album": {
+        "name": "The Sleepers",
+        "url": "https://open.spotify.com/album/0TavgJey3rSIHxqw3y3tm3"
+      },
+      "artists": [
+        {
+          "name": "Freefall Forest",
+          "url": "https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227896,
+      "name": "Some Of The Best",
+      "url": "https://open.spotify.com/track/4zpLwv9T5KynW7NNrJH2RR"
     },
     {
       "album": {

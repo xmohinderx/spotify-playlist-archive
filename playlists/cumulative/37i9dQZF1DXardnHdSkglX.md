@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-157 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
+158 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Caminhos Cruzados](https://open.spotify.com/track/6hJ3NAOT0bcyVc71mxIwzH) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Caminhos Cruzados](https://open.spotify.com/album/19pmYlgZ2tfT3PFrEAilsH) | 4:21 | 2021-12-09 |  |
 | [Capital Letters \- Bossa Nova](https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Capital Letters \(Bossa Nova\)](https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski) | 3:45 | 2021-12-09 |  |
 | [Careless Whisper](https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:53 | 2021-12-09 |  |
+| [Chega de Saudade](https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN) | [Luiz Murá](https://open.spotify.com/artist/5os4puXkeFYMsBpyN55oHQ), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Chega de Saudade](https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b) | 4:06 | 2022-09-30 |  |
 | [China](https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [China](https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6) | 2:48 | 2021-12-09 |  |
 | [Cool Kids](https://open.spotify.com/track/2jyfbS6X9OmOHFXYdowj2V) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Cool Kids](https://open.spotify.com/album/0sy65ji8nJDfZOAfBzluDE) | 3:06 | 2021-12-09 |  |
 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 | 2021-12-09 |  |

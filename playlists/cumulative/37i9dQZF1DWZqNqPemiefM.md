@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-430 songs - 1 day 10 hr 42 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+431 songs - 1 day 10 hr 45 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Flowers](https://open.spotify.com/track/7f69rFN3ec1Qd6bqqgF2qo) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [Wrapped Death](https://open.spotify.com/album/73umIz3uf1q2OFFIsYm9iR) | 4:24 | 2022-08-18 |  |
 | [Flowing](https://open.spotify.com/track/3VSye7jZrMaYRpI3EA64Ru) | [evala](https://open.spotify.com/artist/6EewOOOCbXlmonZeSG5bbd) | [Acoustic Bend](https://open.spotify.com/album/5sUHb2FbgLxbpzpDHtgJZg) | 2:20 | 2022-04-07 | 2022-07-10 |
 | [Focus](https://open.spotify.com/track/0nYzTuQYAyHrjLGykDAOYv) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Towako's Diary \(「大豆田とわ子と三人の元夫」オリジナル・サウンドトラック\)](https://open.spotify.com/album/0X41ZR7MGRV5pJfHhdtbo4) | 2:44 | 2022-03-31 | 2022-07-29 |
-| [Forgetful Angel](https://open.spotify.com/track/3pMfNMfmGNlkYmjilGEtci) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/4W16Uthzgh95U97862c8bg) | 2:57 | 2022-09-29 |  |
+| [Forgetful Angel](https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/0wzOZrYgU9wrndydzgYOPX) | 2:57 | 2022-09-29 |  |
+| [Forgetful Angel](https://open.spotify.com/track/3pMfNMfmGNlkYmjilGEtci) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/4W16Uthzgh95U97862c8bg) | 2:57 | 2022-09-29 | 2022-10-01 |
 | [Forgotten River](https://open.spotify.com/track/1fXB8yow8kzrhjjwfypL7U) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [More Beautiful Than Silence](https://open.spotify.com/album/0wwDxX0rvd3PhjPzapZUFU) | 4:52 | 2022-03-31 | 2022-07-05 |
 | [FOSSIL OF FLAME/火の化石\~FIFTY BELL\-TREES/五十鈴](https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 8:31 | 2022-03-31 | 2022-07-04 |
 | [frame](https://open.spotify.com/track/1wDCny9Fsxj78bGAUc6Urn) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Frame](https://open.spotify.com/album/4VXrSbUbWpKjrOsUO97ttE) | 7:53 | 2022-04-07 | 2022-04-16 |

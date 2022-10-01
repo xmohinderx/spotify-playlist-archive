@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: BRELAND
 
-186 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
+187 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-12-17 |  |
 | [Trying Not To](https://open.spotify.com/track/5yxaMW0oneWyj2rso0BwZ5) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Trying Not To](https://open.spotify.com/album/74AUxh2czF7cU9qKIh6vXk) | 3:24 | 2021-12-17 | 2022-01-08 |
 | [Unfinished](https://open.spotify.com/track/7bw2GQq5ztnsqJVmEZlkNQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:53 | 2022-09-16 |  |
-| [Used To](https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Used To](https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk) | 3:03 | 2021-12-17 |  |
+| [Used To](https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Used To](https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk) | 3:03 | 2021-12-17 | 2022-10-01 |
 | [Used To Be](https://open.spotify.com/track/5a7eQFXt4Av6GJxLT9XArX) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Used To Be](https://open.spotify.com/album/0VzXIsQluGJGaSzpnj5Cnm) | 2:59 | 2021-12-17 | 2022-06-09 |
 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-05-06 |  |
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-06-24 |  |
@@ -188,6 +188,7 @@
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 |  |
 | [Who Cares](https://open.spotify.com/track/0AuyO2tufq60YvAFdVYhOn) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Who Cares](https://open.spotify.com/album/0nLAp17gWpv95J2yPdqSK9) | 2:58 | 2021-12-17 | 2022-07-29 |
 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 | 2021-12-17 | 2022-07-29 |
+| [Why Should We](https://open.spotify.com/track/6S0EUBIYewbisWgQKMvuzR) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 2:50 | 2022-09-30 |  |
 | [Why Should We](https://open.spotify.com/track/0h6qJZXkVGNUIoM4q8CrFH) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Why Should We](https://open.spotify.com/album/506ax7XUl3ogqAfdnxc3Ad) | 2:52 | 2021-12-17 | 2022-06-24 |
 | [Why Should We](https://open.spotify.com/track/39vy8nZzcfl8VWr4IIYUO1) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 2:52 | 2022-07-22 | 2022-09-11 |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-17 |  |

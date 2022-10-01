@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: GLAY
 
-340 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+341 songs - 22 hr 28 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Just Kids](https://open.spotify.com/track/1LesMz0NuPydkt6acRvbjG) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [Just Kids .ep](https://open.spotify.com/album/7r4IHmJNgqsvXGwJyNQsMY) | 2:57 | 2022-07-12 | 2022-08-04 |
 | [KABUKI](https://open.spotify.com/track/1kwYacRt7TdEyoWWIRdpbK) | [Jam Fuzz Kid](https://open.spotify.com/artist/6GQODml23klZ80TrKLUOfv) | [KABUKI](https://open.spotify.com/album/3ftXHTshutmnvZa20VSAjh) | 3:25 | 2022-06-14 | 2022-06-20 |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-31 |  |
+| [Kamakura On The Beach](https://open.spotify.com/track/5GLiyB0UfQfDgR5vUhUMVw) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [Kamakura On The Beach](https://open.spotify.com/album/0TwTRZ0RIDblGzTUePZ6iP) | 4:17 | 2022-09-29 |  |
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [SCOOBIE DO](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 | 2022-09-07 |
 | [LET JERRY ROLL](https://open.spotify.com/track/0JZktsU7GvVhhvbmmcqA7Y) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [LET JERRY ROLL](https://open.spotify.com/album/2p65OHZz45jCO2lTAhMlUE) | 3:23 | 2022-05-12 | 2022-07-26 |
@@ -341,7 +342,7 @@
 | [赤いタンバリン](https://open.spotify.com/track/4WGr7OwOGQJPuAHJEcH2sh) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [BiS DiVE into ROCKS](https://open.spotify.com/album/4qndLQ0EqS02sFkHPP5CRz) | 3:23 | 2022-05-19 | 2022-06-08 |
 | [運命、というかUFOに\(ドゥイ、ドゥイ\)](https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [飛行する君と僕のために/運命、というかUFOに\(ドゥイ、ドゥイ\)](https://open.spotify.com/album/1Y8hbSqsXHLtd8DWBAnSW3) | 3:37 | 2022-05-10 | 2022-06-30 |
 | [金目鯛の煮つけ](https://open.spotify.com/track/1y2DjR60Ca5ScsuASBY6ft) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [ごはん味噌汁海苔お漬物卵焼き feat\. 梅干し](https://open.spotify.com/album/0roC3AmoLtKFgxeldXmwBJ) | 3:47 | 2022-06-14 | 2022-06-27 |
-| [鎌倉 On The Beach](https://open.spotify.com/track/45vwX3MfenJhwt0W0D4vdK) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [鎌倉 On The Beach](https://open.spotify.com/album/4NA2AJQ9BrkoT5GrvlnHWB) | 4:17 | 2022-09-29 |  |
+| [鎌倉 On The Beach](https://open.spotify.com/track/45vwX3MfenJhwt0W0D4vdK) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [鎌倉 On The Beach](https://open.spotify.com/album/4NA2AJQ9BrkoT5GrvlnHWB) | 4:17 | 2022-09-29 | 2022-10-01 |
 | [閃光 \- English ver.](https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK) | 4:25 | 2022-05-12 |  |
 | [風を待って](https://open.spotify.com/track/0ZqcR6KOSVE575l3T9qvlC) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:35 | 2022-06-14 | 2022-06-24 |
 | [騙し愛](https://open.spotify.com/track/1cfuwNPkI3rGX4umV5dDSM) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [騙し愛](https://open.spotify.com/album/0JfEYJw8kt6cwARbRQ1Y2S) | 3:26 | 2022-05-12 | 2022-07-28 |

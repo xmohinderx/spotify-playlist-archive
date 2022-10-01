@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 196173,
       "name": "A Mighty Thing",
       "url": "https://open.spotify.com/track/66hsr6tH6ZfPybbs1Vs4Lc"
@@ -1588,6 +1588,24 @@
     },
     {
       "album": {
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/7LYMxGkmh3Ex3ioRrbBF5a"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223625,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/6jjtloIxVfU2xSyi96V5UT"
+    },
+    {
+      "album": {
         "name": "Arms of a Lover",
         "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
       },
@@ -2710,6 +2728,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2tKc36Hzn3cfE6beWfIZe6"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Mile",
+          "url": "https://open.spotify.com/artist/7ax4yYo9LU1BlwOIama074"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268500,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5L8F0sOnXfydj7ok9JWf7Y"
+    },
+    {
+      "album": {
         "name": "Honey Chile",
         "url": "https://open.spotify.com/album/3lQq46iProBNWmiadw2zRA"
       },
@@ -3007,7 +3043,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
@@ -3269,7 +3305,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 175466,
       "name": "John",
       "url": "https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC"
@@ -5552,6 +5588,48 @@
     },
     {
       "album": {
+        "name": "Bluegrass at the Crossroads",
+        "url": "https://open.spotify.com/album/2b5a0GsPj3Mn4jFLmySmMq"
+      },
+      "artists": [
+        {
+          "name": "Bluegrass at the Crossroads",
+          "url": "https://open.spotify.com/artist/0Uq1BgIpWuhlqiwEQaJcFY"
+        },
+        {
+          "name": "Kristin Scott Benson",
+          "url": "https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD"
+        },
+        {
+          "name": "Travis Book",
+          "url": "https://open.spotify.com/artist/2FC7bqjpZNeNzsf5PO9ZKZ"
+        },
+        {
+          "name": "Skip Cherryholmes",
+          "url": "https://open.spotify.com/artist/55NE1hINI2eIXJdVad8A9O"
+        },
+        {
+          "name": "Jeremy Garrett",
+          "url": "https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14"
+        },
+        {
+          "name": "Kevin Kehrberg",
+          "url": "https://open.spotify.com/artist/7hqc38P5ghX6n7V5q3jJB1"
+        },
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Start Walking Back",
+      "url": "https://open.spotify.com/track/2k6mdp1lISrRmor4pFVyOP"
+    },
+    {
+      "album": {
         "name": "Steampipe Coffee",
         "url": "https://open.spotify.com/album/1O9h3PMwdwJhis2pjgt2s7"
       },
@@ -6225,7 +6303,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 229120,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP"
@@ -6609,7 +6687,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 272509,
       "name": "Until Im Grey",
       "url": "https://open.spotify.com/track/31wdXEGbC6aPycv8pid4BW"

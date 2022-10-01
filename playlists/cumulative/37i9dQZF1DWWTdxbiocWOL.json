@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 288232,
       "name": "Aura Phase",
       "url": "https://open.spotify.com/track/0VjApV6NEpnFPDNbOAhbIP"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Stellar Frequencies Sessions",
+        "url": "https://open.spotify.com/album/1Sz7eNhtBzBrhpU1xE3061"
+      },
+      "artists": [
+        {
+          "name": "L'Effondras",
+          "url": "https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617897,
+      "name": "Ce que r\u00e9v\u00e8le l'\u00e9clipse",
+      "url": "https://open.spotify.com/track/32ALgQvmpOXfIIPMRDBXG9"
+    },
+    {
+      "album": {
         "name": "Colors In Stereo",
         "url": "https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx"
       },
@@ -221,6 +239,24 @@
       "duration_ms": 396106,
       "name": "Darkfield",
       "url": "https://open.spotify.com/track/2aovLXeN9SYnqKKs4LA8BK"
+    },
+    {
+      "album": {
+        "name": "De la Orqu\u00eddea y la Avispa",
+        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407449,
+      "name": "De la Orqu\u00eddea y la Avispa",
+      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
     },
     {
       "album": {
@@ -967,7 +1003,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 484532,
       "name": "Screen Shot",
       "url": "https://open.spotify.com/track/23cFxNXbwYcb6gfSOzL55H"
@@ -1147,7 +1183,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 339440,
       "name": "The Landlord Is Dead",
       "url": "https://open.spotify.com/track/6QXxmGsc0A2PG3alWT5bYi"
@@ -1187,6 +1223,24 @@
       "duration_ms": 280318,
       "name": "The Longest Journey",
       "url": "https://open.spotify.com/track/2rTLrieV0wgvqoMIE6p23B"
+    },
+    {
+      "album": {
+        "name": "The World I Remember",
+        "url": "https://open.spotify.com/album/4dc7dwhwBEpDajRO1PetWG"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331360,
+      "name": "The World I Remember",
+      "url": "https://open.spotify.com/track/1NKpRhBMGNEBK17cC3G3gx"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 112430,
+  "num_followers": 112520,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMGYyNDRjYTc0NmUyOTk0ZjNhYTE5MmRiYTA4OTVmNTc0",
+  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMGVmOWYxYWQwZGJjY2JmNWE1OTRmYmMxNzNkOGE2ZDZh",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Way Up!",
-        "url": "https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm"
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
       },
       "artists": [
         {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+          "name": "Tal Wilkenfeld",
+          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
         }
       ],
-      "duration_ms": 258360,
-      "name": "Get Down On It",
-      "url": "https://open.spotify.com/track/41BisXehQCshqh06t1is99"
+      "duration_ms": 381786,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Transformation",
-        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
+        "name": "Way Up!",
+        "url": "https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm"
       },
       "artists": [
         {
-          "name": "Tal Wilkenfeld",
-          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
         }
       ],
-      "duration_ms": 381786,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle"
+      "duration_ms": 258360,
+      "name": "Get Down On It",
+      "url": "https://open.spotify.com/track/41BisXehQCshqh06t1is99"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -419,18 +419,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx"
+        "name": "Pocket Fulla Nasty",
+        "url": "https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC"
       },
       "artists": [
         {
-          "name": "Derrick Hodge",
-          "url": "https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes"
+          "name": "Doug Johns",
+          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
         }
       ],
-      "duration_ms": 268280,
-      "name": "World Go Round",
-      "url": "https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs"
+      "duration_ms": 265946,
+      "name": "Chump Suey",
+      "url": "https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -451,18 +451,34 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Pocket Fulla Nasty",
-        "url": "https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC"
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
       },
       "artists": [
         {
-          "name": "Doug Johns",
-          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+          "name": "Tal Wilkenfeld",
+          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
         }
       ],
-      "duration_ms": 265946,
-      "name": "Chump Suey",
-      "url": "https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI"
+      "duration_ms": 385533,
+      "name": "Cosmic Joke",
+      "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx"
+      },
+      "artists": [
+        {
+          "name": "Derrick Hodge",
+          "url": "https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes"
+        }
+      ],
+      "duration_ms": 268280,
+      "name": "World Go Round",
+      "url": "https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -479,22 +495,6 @@
       "duration_ms": 397640,
       "name": "Cosmic Underground",
       "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Transformation",
-        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
-      },
-      "artists": [
-        {
-          "name": "Tal Wilkenfeld",
-          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
-        }
-      ],
-      "duration_ms": 385533,
-      "name": "Cosmic Joke",
-      "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "M2",
-        "url": "https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 275866,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Thicker Than Water",
         "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
       },
@@ -707,6 +691,38 @@
       "duration_ms": 335588,
       "name": "Is That the Best You Can Do?",
       "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "A Ray of Hope",
+        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "duration_ms": 279480,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "M2",
+        "url": "https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d"
+      },
+      "artists": [
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 275866,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -727,22 +743,6 @@
       "duration_ms": 246692,
       "name": "Sun Chaser",
       "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "A Ray of Hope",
-        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
-      },
-      "artists": [
-        {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
-        }
-      ],
-      "duration_ms": 279480,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -855,18 +855,34 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "That Was Then",
-        "url": "https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7"
+        "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
+        "url": "https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75"
       },
       "artists": [
         {
-          "name": "Darryl Williams",
-          "url": "https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM"
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Jon Cowherd",
+          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        },
+        {
+          "name": "Rogerio Boccato",
+          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
         }
       ],
-      "duration_ms": 104626,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG"
+      "duration_ms": 330969,
+      "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
+      "url": "https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR"
     }
   ],
   "unique_name": "Bottoms Up",

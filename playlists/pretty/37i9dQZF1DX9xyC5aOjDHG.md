@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,272 likes - 72 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,327 likes - 72 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 16 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 |
 | 17 | [No More Time Machine](https://open.spotify.com/track/3w87wrXLQsUSEaqVpp7aLQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:51 |
 | 18 | [セパレイト・ウェイズ](https://open.spotify.com/track/68FmEJGOAH3aPEMiIAZaAE) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-starlight\-](https://open.spotify.com/album/4koqulx259upSRxNzOx0RT) | 5:36 |
-| 19 | [Scar/let](https://open.spotify.com/track/4HvEFX6y1HctwbiuvRilat) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF) | 4:14 |
+| 19 | [Scar/let](https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:17 |
 | 20 | [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:08 |
 | 21 | [シルシ](https://open.spotify.com/track/6shqTPLADEpK31Qgi8LC7k) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:48 |
 | 22 | [ユメセカイ](https://open.spotify.com/track/1OvEX9vVeP0AlkQd3T0hHX) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:48 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 71 | [Rea\(s\)oN](https://open.spotify.com/track/7cXiUiPBBvJlrijfy1N0MS) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:27 |
 | 72 | [レプリカ](https://open.spotify.com/track/481leaQhnu88QWqsDEeIru) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 3:29 |
 
-Snapshot ID: `MTY0ODgwNzI4NSwwMDAwMDAwMDE0MmQ2MmYxM2NkZmU4MTRmNmNiYmJkM2NjNDRkODA2`
+Snapshot ID: `MTY0ODgwNzI4NSwwMDAwMDAwMDcyODQ5Y2ZkNTNjYjk1N2M1ODRiZjcyYTcwYTg5OWE2`

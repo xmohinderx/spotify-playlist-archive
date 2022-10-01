@@ -2,9 +2,9 @@
 
 ### [Rock Nacional](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares.
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Indio Solari.
 
-130 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+133 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 |  |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
+| [De las Ventajas de Caminar Dormida](https://open.spotify.com/track/4j4zS5Kk3gMLv83QegL9DU) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [De las Ventajas de Caminar Dormida](https://open.spotify.com/album/2xXNK36mEbfYTVdUO5G1Vz) | 3:48 | 2022-09-30 |  |
 | [De Nada Sirve](https://open.spotify.com/track/1U0Sdf0M4YoKDQiJwIO64m) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 7:36 | 2022-06-24 |  |
 | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/track/6Yp5cOsowqswSVrXxG3rCc) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Destruida Roll \(Versión 1989\)](https://open.spotify.com/album/1tJKMu9iIZaQy9G3NjRu2C) | 3:14 | 2022-06-24 |  |
 | [Diamante](https://open.spotify.com/track/1gz7RDz6Z6WroNWmGqYtaQ) | [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [odio](https://open.spotify.com/album/2lkLm5GrGISldCNW4VWZkV) | 2:34 | 2022-06-24 | 2022-09-03 |
@@ -54,10 +55,12 @@
 | [Goodbye Adiós](https://open.spotify.com/track/60Cohjy8lgh1jIkTpGz9S1) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Goodbye Adiós](https://open.spotify.com/album/72kYZH666UwSHVBTw0zL8f) | 3:31 | 2022-08-05 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 |  |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/2STyQeoTuCGp6iZ9TReQIB) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 |  |
+| [Indómito Sentir](https://open.spotify.com/track/0ldljvvUw0ApIcnVdzrupm) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Indómito Sentir](https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K) | 4:09 | 2022-09-30 |  |
 | [Inmediatez](https://open.spotify.com/track/54lymSICrfTr7Z0UeVPmRY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Germán Daffunchio](https://open.spotify.com/artist/3WFJJl01wqMrNjjiGSOyrJ) | [Inmediatez](https://open.spotify.com/album/6LoA2hbjy7lPdLBh46l2M8) | 3:54 | 2022-06-24 | 2022-07-02 |
 | [Intoxicarme](https://open.spotify.com/track/6d519FJTrTbeaTlG5pXWM9) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Intoxicarme](https://open.spotify.com/album/2pZiZAe9HInht6L56YwIif) | 3:01 | 2022-06-24 |  |
 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 | 2022-06-24 |  |
 | [Jugando Con Fuego](https://open.spotify.com/track/1Ts0sHzGfkg5VO96NWaqcA) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Jugando Con Fuego](https://open.spotify.com/album/0x3ULeWwEr8zHPRs88rZQh) | 3:12 | 2022-06-24 |  |
+| [Ken Kesey \(scherzo\)](https://open.spotify.com/track/3QdjStCd2S66h1DYU7rO7h) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Ken Kesey \(scherzo\)](https://open.spotify.com/album/77Hia84RuOXF6hQ9YixTul) | 4:30 | 2022-09-30 |  |
 | [Kiev](https://open.spotify.com/track/64Ty8b36mMxSHxMUzfM7GT) | [Baltasar Comotto](https://open.spotify.com/artist/0C9GmkE2ni3bXFaJbHw01b) | [Empezó La Cacería](https://open.spotify.com/album/4tKsJzkAaXeJiu71APumvq) | 3:30 | 2022-06-24 |  |
 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 | 2022-06-24 |  |
 | [La Ciudad Sin Alma](https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [La Ciudad Sin Alma](https://open.spotify.com/album/5fKFrKFHXp0ZDaGSZ2YgQx) | 3:51 | 2022-06-24 | 2022-07-09 |

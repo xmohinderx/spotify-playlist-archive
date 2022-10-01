@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-557 songs - 1 day 10 hr 8 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+558 songs - 1 day 10 hr 12 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Gidget](https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:39 | 2020-03-25\* | 2020-08-25 |
 | [Go](https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Go](https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b) | 4:12 | 2021-12-01 |  |
 | [Goddamn \- Nth Power Edit](https://open.spotify.com/track/7mI7TjfK1OSXqeIG8BtKAd) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [The Nth Power](https://open.spotify.com/artist/2bXPPuTujhUR51cpf670Ks) | [Goddamn \(Nth Power Edit\)](https://open.spotify.com/album/6P8mZIJQxnj4XcAruCR4Fc) | 2:59 | 2020-06-20 | 2020-07-18 |
-| [GOLDEN](https://open.spotify.com/track/189aZynRlL0tMI7pNwAmx5) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [GOLDEN](https://open.spotify.com/album/0BrNjftV3o3YmLSTirPJnz) | 3:06 | 2022-04-08 |  |
+| [GOLDEN](https://open.spotify.com/track/189aZynRlL0tMI7pNwAmx5) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [GOLDEN](https://open.spotify.com/album/0BrNjftV3o3YmLSTirPJnz) | 3:06 | 2022-04-08 | 2022-10-01 |
 | [Good](https://open.spotify.com/track/75zcXgUTmeV0jgih9HnmkG) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:02 | 2021-03-15 | 2021-10-29 |
 | [Good Good Good](https://open.spotify.com/track/6FcO64uFdevo392PvgRu4j) | [Michelle David & the Gospel Sessions](https://open.spotify.com/artist/2O2cy4YGu7HV9GwkvjIQCs) | [Good Good Good](https://open.spotify.com/album/3VUMdrRGd5y0TB2GaFF99T) | 3:10 | 2020-03-25\* | 2020-03-27 |
 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 | 2022-01-27 |  |
@@ -254,6 +254,7 @@
 | [June](https://open.spotify.com/track/1BVwzG4gamzvYVRljS1Z8n) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [June](https://open.spotify.com/album/5A4MJXAGdqWx6Kn08hZxVI) | 2:48 | 2020-03-25\* | 2020-11-20 |
 | [Junk Food](https://open.spotify.com/track/6GeOYkWj4UtdJTvYaWaGks) | [Seravince](https://open.spotify.com/artist/5krzClygw7uTipKY9eYhTU), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Junk Love](https://open.spotify.com/album/5NHG1BrDHT6rm8TIwsyutx) | 5:17 | 2020-03-25\* | 2020-04-24 |
 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 | 2020-03-27 | 2020-11-20 |
+| [Just for the Day](https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Just for the Day](https://open.spotify.com/album/3DTiE4gQOSaKuMTVvc5amh) | 3:37 | 2022-09-29 |  |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-09-22 |  |
 | [Kick It to Me](https://open.spotify.com/track/5omukHtcJduzkSfOlze4iB) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [The Good Life](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar) | 6:27 | 2021-03-06 | 2022-04-29 |
 | [Kiss Or Go Crazy](https://open.spotify.com/track/1fSuXOsllO02JXjcSsBw8A) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq) | [Kiss Or Go Crazy](https://open.spotify.com/album/5nCKVXSxUEHtQoUNLXMnBz) | 2:49 | 2022-02-03 | 2022-07-26 |

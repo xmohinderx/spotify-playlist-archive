@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-237 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+239 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [nijimu](https://open.spotify.com/track/6mSoV1VR4E0q7imROwCYw7) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [nijimusi](https://open.spotify.com/album/7HzdnY7KZwknO1dhQ9i5Wt) | 4:21 | 2021-11-12 | 2022-07-14 |
 | [Ninja Partisi](https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I) | [Lalalar](https://open.spotify.com/artist/6CWQ7KWveleaeFagKCz26T) | [Ninja Partisi](https://open.spotify.com/album/4onGiuk6cVH5MTREVJb2ZX) | 2:35 | 2021-11-12 | 2022-07-19 |
 | [No Me Conoces](https://open.spotify.com/track/2dluCYr9wx0vkzp9bwrHqT) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [No Me Conoces](https://open.spotify.com/album/4UP0FdMJwjCiJxXRZfONDN) | 3:06 | 2022-02-12 | 2022-07-18 |
+| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-30 |  |
 | [Nànnuflày](https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 5:03 | 2021-11-12 |  |
 | [Nànnuflày](https://open.spotify.com/track/3ufQJOCGyXCzoXIuGEAvpG) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Elwan](https://open.spotify.com/album/55iBUPoUCslfK6Wt1WKY2v) | 5:03 | 2021-11-12 | 2022-07-29 |
 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 | 2021-11-12 |  |
@@ -152,6 +153,7 @@
 | [Panic In Babylon](https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn) | 4:38 | 2021-11-12 |  |
 | [Panic In Babylon](https://open.spotify.com/track/6nh4bNcaY1DHZ2k6lQEcLi) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/63XqaziPkNvU0DgABaitR1) | 4:38 | 2021-11-12 | 2022-07-25 |
 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 | 2021-11-12 |  |
+| [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 | 2022-09-30 |  |
 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2021-11-12 | 2022-07-10 |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/6P3wuqOj57ljpXpSHOy8fH) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/30MHkRh4rQIwdFDopFGTbC) | 3:39 | 2021-11-12 | 2022-07-29 |
 | [Planet Caravan](https://open.spotify.com/track/0drFLipk0M6e8Oj9mSeiFx) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Planet Caravan](https://open.spotify.com/album/5sZzZ9CXT4b9dMBIvuVRji) | 9:11 | 2021-11-12 | 2022-07-29 |
@@ -178,7 +180,7 @@
 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 | 2021-11-12 |  |
 | [See](https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 4:25 | 2022-08-03 | 2022-09-26 |
 | [See You There](https://open.spotify.com/track/4I9nM23gQdVXJC4x3uR5rF) | [Psychic Ills](https://open.spotify.com/artist/0BdrIHWUDg179f9H7pjJMC) | [One Track Mind](https://open.spotify.com/album/62cOtP1qQXl7KdLHC4AO7R) | 5:03 | 2021-11-12 | 2022-07-06 |
-| [Seven Eight](https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [A Song For Paul](https://open.spotify.com/album/0w6knr7boQarN35qErXXeu) | 3:12 | 2021-11-12 |  |
+| [Seven Eight](https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [A Song For Paul](https://open.spotify.com/album/0w6knr7boQarN35qErXXeu) | 3:12 | 2021-11-12 | 2022-10-01 |
 | [Seven Eight](https://open.spotify.com/track/6ZWmdXphddI7g3FJqESxmw) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [Seven Eight](https://open.spotify.com/album/2Up9pGOglkRN9isg1phnVD) | 3:12 | 2021-11-12 | 2022-07-28 |
 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 | 2022-04-12 |  |
 | [Shell Island](https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:23 | 2021-11-12 |  |
@@ -196,7 +198,7 @@
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-22 | 2022-06-08 |
 | [Starlight](https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS) | [Chad VanGaalen](https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ) | [World's Most Stressed Out Gardener](https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43) | 3:59 | 2021-11-12 | 2022-07-26 |
 | [Station Europa](https://open.spotify.com/track/59jMq3TSZF3dhlCbbpNOtL) | [10 000 Russos](https://open.spotify.com/artist/2pkZFQGkxsNYlJK5jO4z3L) | [Station Europa](https://open.spotify.com/album/2spbDrHyznrc7jNtAJJp0j) | 5:18 | 2021-11-12 | 2022-07-14 |
-| [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 | 2022-08-03 |  |
+| [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 | 2022-08-03 | 2022-10-01 |
 | [String Theory](https://open.spotify.com/track/6kmzMsSKCFfx0lYQgospLN) | [Fabriccio De La Mora](https://open.spotify.com/artist/7pLfqIgR1knxojsSQmmONZ) | [Grand Unified Theories](https://open.spotify.com/album/4jrPtdrkLT5tz4OUcrHn4c) | 5:23 | 2022-06-29 | 2022-08-04 |
 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 | 2021-11-12 | 2022-07-20 |
 | [Tense Soup](https://open.spotify.com/track/73ghPgeqN9YLa2XJva3rS7) | [Modern Ruin](https://open.spotify.com/artist/4cKQl1wHAssze6XTKQwPJm) | [Unemployment Line Disco](https://open.spotify.com/album/00xfuXJwBODesUybW1GouI) | 5:24 | 2021-11-12 | 2022-07-22 |

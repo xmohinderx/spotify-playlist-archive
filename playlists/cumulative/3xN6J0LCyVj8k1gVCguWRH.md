@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,715 songs - 4 day 3 hr 36 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,718 songs - 4 day 3 hr 47 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [I Make My Own Sunshine \(John Fields Remix\)](https://open.spotify.com/track/7qIaFnLRS8GrA10pMCGQfA) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Love Hard](https://open.spotify.com/album/7FYrEqmCqgJi17USfJk59M) | 2:27 | 2021-12-17 | 2022-01-01 |
 | [I Miss You](https://open.spotify.com/track/7IK44rnVpvRHfwBKpqyEng) | [Bosh](https://open.spotify.com/artist/6de8caunnKVbsrHaKK5m0X) | [Thoughts I Collected](https://open.spotify.com/album/40hnBn80XzKQTLIooIwdT2) | 5:18 | 2020-08-02 | 2020-08-20 |
 | [I Need to Go Out](https://open.spotify.com/track/1RmBJ6iA86VfrGjsP8CQeE) | [Mikaela Stenmo](https://open.spotify.com/artist/2NkXWIUXqFVM1gnOIpoVZq) | [I Need to Go Out](https://open.spotify.com/album/2KBGzM3qUJ1CEH7JRF9YZ5) | 3:01 | 2021-05-21 | 2022-02-20 |
+| [I Should Just Shut Up](https://open.spotify.com/track/6pZrsI9D3WLhxzdCwhn0Di) | [Yana Rose](https://open.spotify.com/artist/5pC28dnohJ0RhlvlZkYJQ5) | [I Should Just Shut Up](https://open.spotify.com/album/3GT9ExaMu88YC2pL81fRU2) | 3:18 | 2022-09-30 |  |
 | [I Think I'm In Love](https://open.spotify.com/track/3JcUSSMKrJAxNFUWeJytqp) | [Logan Richard](https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o) | [I Think I'm In Love](https://open.spotify.com/album/55ClAWz6XhZFf450nOI3Cq) | 3:14 | 2021-01-01 | 2021-01-16 |
 | [I Wake Up](https://open.spotify.com/track/1pOZ52QrTLwBqIHRvouQyH) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ), [pixie liv](https://open.spotify.com/artist/480cziNK4HvJEWEozuQxyz) | [I Wake Up](https://open.spotify.com/album/6TFhIgiJn6OI7fIXuajthj) | 3:13 | 2021-07-24 | 2021-08-08 |
 | [I Want You To Be Mine](https://open.spotify.com/track/4HTPBlmHr68H96WaJZlVnH) | [The Famillian](https://open.spotify.com/artist/0xxeA8tQmQtYpCe2IHmi2a), [Calixte](https://open.spotify.com/artist/5PYXKU2PUFplxNjbE3pYU5) | [I Want You To Be Mine](https://open.spotify.com/album/6BjTaMnHYn6CXgoHVN2OJL) | 3:40 | 2021-02-06 | 2021-02-16 |
@@ -904,6 +905,7 @@
 | [Lost At Sea](https://open.spotify.com/track/7dA7FyvFPNGKqA92JP2Nlw) | [Darc Rama](https://open.spotify.com/artist/5WKCArnxI0JIuiSfQSWH3r) | [Lost At Sea](https://open.spotify.com/album/5a8noT2OwR7N292UJqmrQj) | 3:24 | 2021-11-27 | 2021-12-12 |
 | [Lost in Boston](https://open.spotify.com/track/33kT7w0qCdSY5EO1FFbW14) | [The Fall Line](https://open.spotify.com/artist/6agKrgUACfM2YJ0ahGBvfT) | [Original Sin](https://open.spotify.com/album/1yyDntL1rNSmGaRCgM2Yop) | 3:34 | 2019-12-15 | 2019-12-27 |
 | [Lost In My Mind](https://open.spotify.com/track/5DH3KoqLXjmvW9QVQKKk6d) | [Lola Coker](https://open.spotify.com/artist/4lur8moISLyua0JzmHpPrc) | [Lost In My Mind](https://open.spotify.com/album/6qOKvYVPUc6O6L8fPOIHUz) | 3:41 | 2021-12-31 | 2022-01-19 |
+| [Lost in Translation](https://open.spotify.com/track/3rjeMPJcJLw0OSS4Nk7o1e) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Lost in Translation](https://open.spotify.com/album/0avRCGXVbqOjPYPKifcYmS) | 3:58 | 2022-09-30 |  |
 | [Love Addict](https://open.spotify.com/track/03A6i622Lfu60Osve7cvqN) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Love Addict](https://open.spotify.com/album/7sUl8k8kZJ48CHNDaQ48tt) | 3:38 | 2022-01-21 | 2022-02-06 |
 | [Love Again](https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 4:18 | 2021-06-08 | 2021-07-07 |
 | [Love Again](https://open.spotify.com/track/127MjyeDtYD30SlIAueSqR) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV) | [Love Again](https://open.spotify.com/album/20jgrsYb5T5pXiNF8mggXw) | 2:47 | 2022-05-20 | 2022-06-26 |
@@ -1184,6 +1186,7 @@
 | [Promises](https://open.spotify.com/track/1odu54XH3moZFuZScdZ92D) | [Lujza](https://open.spotify.com/artist/14lUC6NbE64ObCIHsy5jQ6) | [Promises](https://open.spotify.com/album/6G0qB1NM36mVSSW20R4xgX) | 3:38 | 2022-02-10 | 2022-02-27 |
 | [Promises \- Radio Edit](https://open.spotify.com/track/04rVVz0D8JkqxUY13mW3A5) | [Jayloid](https://open.spotify.com/artist/4PmT0Z7ZBsJXA6kCyMsiHM) | [Promises \(Radio Edit\)](https://open.spotify.com/album/4nMewslQ0942XkLZ8uHVnW) | 4:16 | 2022-04-08 | 2022-04-24 |
 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 | 2021-02-12 | 2021-02-27 |
+| [Protoplasmic Prison Cell](https://open.spotify.com/track/4k4FyVnSYvzmENv5ixSF3g) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Protoplasmic Prison Cell](https://open.spotify.com/album/0W6PkxcCry3f06aB8Ix78c) | 3:33 | 2022-09-30 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-07 | 2022-06-01 |
 | [PSYCHOPOMP](https://open.spotify.com/track/2ywk95BR6xyLtgO8LwZkIR) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [PSYCHOPOMP](https://open.spotify.com/album/1DaW9c9spKh835Soabfg11) | 2:01 | 2022-09-23 |  |
 | [Pull Me Under](https://open.spotify.com/track/0zn3fYJWDNQSeczvT8YdIp) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Pull Me Under](https://open.spotify.com/album/1GCQ1N8wLN4zgo8sntuBFR) | 5:59 | 2020-05-22 | 2020-06-01 |

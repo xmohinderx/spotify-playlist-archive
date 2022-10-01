@@ -352,6 +352,32 @@
     },
     {
       "album": {
+        "name": "All My Love (feat. Olivera)",
+        "url": "https://open.spotify.com/album/4p875FDTzVTHQ3PGmxURJU"
+      },
+      "artists": [
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        },
+        {
+          "name": "NOVODOR",
+          "url": "https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY"
+        },
+        {
+          "name": "Olivera",
+          "url": "https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173148,
+      "name": "All My Love (feat. Olivera)",
+      "url": "https://open.spotify.com/track/4axALpFKrIPxwQRnYJ1Zmc"
+    },
+    {
+      "album": {
         "name": "In My House",
         "url": "https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF"
       },
@@ -839,6 +865,28 @@
       "duration_ms": 206228,
       "name": "Better Than Any Drug",
       "url": "https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz"
+    },
+    {
+      "album": {
+        "name": "Better Thangs",
+        "url": "https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214352,
+      "name": "Better Thangs (with Summer Walker)",
+      "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
     },
     {
       "album": {
@@ -1819,7 +1867,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 198750,
       "name": "cool water",
       "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
@@ -2102,6 +2150,24 @@
     },
     {
       "album": {
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187850,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S"
+    },
+    {
+      "album": {
         "name": "CROSSOVER (Deluxe)",
         "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
       },
@@ -2149,7 +2215,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 164533,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
@@ -3287,7 +3353,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 208906,
       "name": "Golden",
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
@@ -3555,6 +3621,24 @@
       "duration_ms": 191313,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/2KsSYX6ZqPrazLabrl6EA4"
+    },
+    {
+      "album": {
+        "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140443,
+      "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz"
     },
     {
       "album": {
@@ -4019,6 +4103,24 @@
       "duration_ms": 182658,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "album": {
@@ -4515,7 +4617,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
@@ -4873,7 +4975,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 157837,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v"
@@ -5420,6 +5522,24 @@
     },
     {
       "album": {
+        "name": "Moneymaker",
+        "url": "https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137850,
+      "name": "Moneymaker",
+      "url": "https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI"
+    },
+    {
+      "album": {
         "name": "Monte Carlo",
         "url": "https://open.spotify.com/album/5jZs0pEMbz0ZDdEqd0GmrI"
       },
@@ -5749,7 +5869,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 157000,
       "name": "NO HAY LEY",
       "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"

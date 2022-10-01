@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-419 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+421 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Blue But Free](https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8) | 4:47 | 2022-07-29 |  |
 | [Blue Day](https://open.spotify.com/track/19RHlkA9PM5Bw2DKPmPteh) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Nuances](https://open.spotify.com/album/3Vioqdh0ojprGuAMKScjQs) | 2:31 | 2022-03-16 | 2022-07-09 |
 | [Bob's Blues](https://open.spotify.com/track/2eep97s2NVaQGFkrLkiD3e) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 5:24 | 2022-07-29 |  |
+| [boom!!!](https://open.spotify.com/track/4S0bOkyqlnnRvnuzVJE3mP) | [swedish beatballs](https://open.spotify.com/artist/2eJN1cNXLWA4On1BUH5QUl) | [boom!!!](https://open.spotify.com/album/2tofbzHkP5c933se96KuSX) | 2:02 | 2022-10-01 |  |
 | [Born To Be Yours \- Chill Out Version](https://open.spotify.com/track/0Ib4RmPN4e8WmEYwtc94av) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/7gAsbwcqVhQJSDk7uypt8x) | 4:24 | 2022-07-29 |  |
 | [Born To Be Yours \- Chill Out Version](https://open.spotify.com/track/5n5DrY0ZIYiQ37sYnqbKPF) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm) | 4:24 | 2021-08-10 | 2022-07-29 |
 | [Botanist](https://open.spotify.com/track/6fgQ4P7VrKTwFwVJJNMadk) | [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Botanist](https://open.spotify.com/album/6ZWNZC3NNLOp7d0wnOaoPX) | 2:29 | 2022-03-16 | 2022-07-09 |
@@ -194,6 +195,7 @@
 | [La Lumière](https://open.spotify.com/track/1dz2zrpKL5NzlporGTGs9n) | [Lounge De Reveur](https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2) | [La Lumière](https://open.spotify.com/album/5FtfeKC9KKiCfTor3NHrRR) | 3:42 | 2022-07-29 |  |
 | [La Lumière](https://open.spotify.com/track/4ZIhBYi1nYMn5GDritycsU) | [Lounge De Reveur](https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2) | [La Lumière](https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej) | 3:42 | 2021-08-10 | 2022-07-29 |
 | [Late Night Kisses](https://open.spotify.com/track/50HuB1rHRDT0kH3pgHjBgw) | [Ambercity](https://open.spotify.com/artist/4AqHrBluK1rKimWq3D2J6K) | [Late Night Lovers Lounge \(Vol 2\)](https://open.spotify.com/album/6yG7GrbM9vLTTZRzshGAEj) | 4:16 | 2021-08-10 | 2022-07-29 |
+| [Laying on the sofa](https://open.spotify.com/track/76qnorICHxubSCjyt6KJmx) | [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Laying on the sofa](https://open.spotify.com/album/5TQJMuAnP0zQTaDVZ8Ev82) | 2:29 | 2022-10-01 |  |
 | [Lazy Afternoon](https://open.spotify.com/track/6Ys876iVTWMlV2Lr9b06ke) | [Jersy K](https://open.spotify.com/artist/7jTOgoEq9CR9usJbJHFgmD) | [Lazy Afternoon](https://open.spotify.com/album/7HhBg8OhWjmccdOEIfHZeb) | 2:01 | 2022-09-23 |  |
 | [Lazy Days](https://open.spotify.com/track/62JHhd8RJkdfVnUrdD5p7b) | [Uniq](https://open.spotify.com/artist/4bb4qHR1Nl65kHOqtK3unm), [A&J](https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/2leWLr9dNRyi1QBUak1QB6) | 3:38 | 2022-07-29 |  |
 | [Le Cadeau](https://open.spotify.com/track/3FtvZpfxzP5ZHp3qcTMWK7) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Chillout Bar Lounge 2018](https://open.spotify.com/album/5aWawUi1KRsV0dfdpL7dW0) | 2:48 | 2021-08-10 |  |

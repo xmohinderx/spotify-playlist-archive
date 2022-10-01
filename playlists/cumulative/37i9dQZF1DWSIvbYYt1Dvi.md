@@ -2,9 +2,9 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> l7 e tion wayne é AULAS
+> AULAS da bruta, da braba, da forte
 
-123 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
+124 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 | 2022-09-02 |  |
 | [Insônia 2](https://open.spotify.com/track/7tITqCiDuMqKfWhibaF8V7) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Insônia 2](https://open.spotify.com/album/5pOhKRO8Ul0eyBzMGviWHU) | 4:27 | 2022-04-01 |  |
 | [Kim N Kanye](https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Kim N Kanye](https://open.spotify.com/album/7gQ2aVBOespHG0nqvJGSwu) | 3:06 | 2022-08-26 |  |
+| [Levado](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
 | [Lewis Hamilton](https://open.spotify.com/track/19JbPeE8TCPrqWYBeFfSQx) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Lewis Hamilton](https://open.spotify.com/album/3ZRebktbeSPS9bTea8jc1B) | 2:56 | 2022-04-22 | 2022-05-28 |
 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 | 2022-03-25 |  |
 | [Linda e Doida](https://open.spotify.com/track/2YyXU2abqxPVHOLwHh82hw) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Jogador Caro](https://open.spotify.com/album/0f4FxrXUKmE3fW1ZpHodQ4) | 3:07 | 2022-01-14 | 2022-04-16 |
@@ -129,7 +130,7 @@
 | [Uva](https://open.spotify.com/track/4r4vZuM0uoQTAK9C5hrDcI) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:30 | 2022-01-14 | 2022-04-09 |
 | [Vegana](https://open.spotify.com/track/0b7uj4KMIlKCsV1sO2EAWB) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX) | [Cereja Hollywood](https://open.spotify.com/album/2qgahgUUb652yrlX3hqUuu) | 2:55 | 2022-03-04 |  |
 | [Vejo o bem](https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 2:48 | 2022-04-01 | 2022-04-26 |
-| [Vida Louca](https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Vida Louca](https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc) | 2:35 | 2022-01-14 |  |
+| [Vida Louca](https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Vida Louca](https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc) | 2:35 | 2022-01-14 | 2022-10-01 |
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-01-14 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Lupita Infante en portada.",
-  "num_followers": 95447,
+  "num_followers": 95510,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcxMTA3MiwwMDAwMDAwMGVhZWQ5OTcwMzcxNzIwZWYwNTNkMzRhYzMxMTE5NjQ0",
+  "snapshot_id": "MTY1NDcxMTA3MiwwMDAwMDAwMGMwMjBjNzIyYTQ0MDkyNGVkMGJlNTMwY2Y5MjMxMmI4",
   "tracks": [
     {
       "added_at": "2022-06-08 17:57:52",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Fruta Prohibida",
-        "url": "https://open.spotify.com/album/186sbJdKHVH7OM5MuBtdUv"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 208066,
       "name": "Qu\u00e9 Manera de Perder",
       "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Fruta Prohibida",
+        "url": "https://open.spotify.com/album/186sbJdKHVH7OM5MuBtdUv"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Despedida Con Mariachi",
+      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 203173,
       "name": "Mi Ego",
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Despedida Con Mariachi",
-      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Canciones de Mi Pueblo",
-        "url": "https://open.spotify.com/album/7ACSF32tvdNiJLp6bxxaZh"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 169866,
       "name": "Amor Ilegal",
       "url": "https://open.spotify.com/track/3ceovJ34rV8rdAW31Cpavk"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Alborada Ranchera",
+        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Alborada Ranchera",
-        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+        "name": "Canciones de Mi Pueblo",
+        "url": "https://open.spotify.com/album/7ACSF32tvdNiJLp6bxxaZh"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
         }
       ],
-      "duration_ms": 202160,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
+      "duration_ms": 195586,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "No Voy A Llorar",
-        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/4kCW29zMjnbmK9jUDtgCry"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Yolanda Del Rio",
+          "url": "https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC"
         }
       ],
-      "duration_ms": 197253,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+      "duration_ms": 151040,
+      "name": "Tus Maletas En La Puerta",
+      "url": "https://open.spotify.com/track/2aZhicClWLsJFQSkbLFMbL"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/4kCW29zMjnbmK9jUDtgCry"
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
       "artists": [
         {
-          "name": "Yolanda Del Rio",
-          "url": "https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 151040,
-      "name": "Tus Maletas En La Puerta",
-      "url": "https://open.spotify.com/track/2aZhicClWLsJFQSkbLFMbL"
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "15 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
+        "name": "15 \u00c9xitos 15",
+        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
       "artists": [
         {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+          "name": "Mercedes Castro",
+          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
         }
       ],
-      "duration_ms": 183193,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC"
+      "duration_ms": 208213,
+      "name": "Vengo A Verte",
+      "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "15 \u00c9xitos 15",
-        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
+        "name": "15 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
       },
       "artists": [
         {
-          "name": "Mercedes Castro",
-          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
         }
       ],
-      "duration_ms": 208213,
-      "name": "Vengo A Verte",
-      "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
+      "duration_ms": 183193,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 198102,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "T\u00fa Sigues Siendo El Mismo",
-        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
-      },
-      "artists": [
-        {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
-        }
-      ],
-      "duration_ms": 162829,
-      "name": "Con Mis Propias Manos",
-      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Por Amor A M\u00e9xico",
         "url": "https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 215026,
       "name": "Cielo Rojo - Duet Version",
       "url": "https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "T\u00fa Sigues Siendo El Mismo",
+        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
+      },
+      "artists": [
+        {
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+        }
+      ],
+      "duration_ms": 162829,
+      "name": "Con Mis Propias Manos",
+      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 224240,
-      "name": "No Entiendo",
-      "url": "https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm"
+      "duration_ms": 179106,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1552,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 179106,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
+      "duration_ms": 224240,
+      "name": "No Entiendo",
+      "url": "https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm"
     },
     {
       "added_at": "2022-06-08 17:57:52",

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent talents are here\. \(Cover: COOING\(쿠잉\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
+> Fresh new Korean independent talents are here\. \(Cover: Effie\(에피\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
 702 songs - 1 day 15 hr 48 min - [published](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
 

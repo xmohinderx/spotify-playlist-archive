@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-120 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/0mrd15aLOKr95KM1j8m6jV)
+121 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/0mrd15aLOKr95KM1j8m6jV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All Shook Up](https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [All Shook Up](https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR) | 1:44 | 2022-08-02 |  |
 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 | 2022-03-10 |  |
 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-06-03 |  |
+| [Baby](https://open.spotify.com/track/2OYFqslHF3y0JgNGrb9Prw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Baby](https://open.spotify.com/album/6D68MZE4nzfnCWthRH8cHz) | 3:01 | 2022-09-30 |  |
 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 | 2022-03-10 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-03-10 |  |
 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 | 2022-03-10 |  |
@@ -57,7 +58,7 @@
 | [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 | 2022-07-26 |  |
 | [Home / Dirty Paws](https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn) | 2:53 | 2022-05-05 | 2022-07-29 |
 | [I Don't Care \- Acoustic Version](https://open.spotify.com/track/6npKFnNEMN65CrS2BYf9nd) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Don't Care \(Acoustic Version\)](https://open.spotify.com/album/4Gn2Zma5G5bpVr8XlUCYzI) | 3:39 | 2022-03-10 |  |
-| [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 | 2022-03-10 |  |
+| [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 | 2022-03-10 | 2022-10-01 |
 | [I Love The Way You Love Me](https://open.spotify.com/track/1DcKLf37erdwo5A3rEw9qL) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Love The Way You Love Me](https://open.spotify.com/album/648cHrWoPorXBdwHNU3bzS) | 3:23 | 2022-03-10 |  |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:32 | 2022-03-10 | 2022-07-02 |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/4BC8rzvaaPoimewdFeOxcB) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [Covers](https://open.spotify.com/album/3LFPV69y8dm2843r0V7kyw) | 3:28 | 2022-06-03 |  |

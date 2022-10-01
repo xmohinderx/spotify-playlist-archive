@@ -832,6 +832,32 @@
     },
     {
       "album": {
+        "name": "Schubert: Gott ist mein Hirt, D. 706",
+        "url": "https://open.spotify.com/album/11KX6U2MRKJesln47RX4k2"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Ensemble Pygmalion",
+          "url": "https://open.spotify.com/artist/3iwUaQrP1mJFvC9waHuV4S"
+        },
+        {
+          "name": "Raphael Pichon",
+          "url": "https://open.spotify.com/artist/7ANQphrf7E3r6dwst8oMbr"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284920,
+      "name": "Gott ist mein Hirt, D. 706",
+      "url": "https://open.spotify.com/track/2gmuvqhU3bnoTnkaTq0eqY"
+    },
+    {
+      "album": {
         "name": "Schubert: Lied Edition 3 - Goethe, Vol. 1",
         "url": "https://open.spotify.com/album/5FvFHVkAhmQbmC5CL15Lq0"
       },

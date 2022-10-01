@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 139170,
+  "num_followers": 139248,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMGMyNzU2NTc3YTE4MjJhMmI0YTZjYzAxY2JjZDA0ZDJl",
+  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMGY1YWI2Y2FkNWJiYWVjMGE3ZjNiM2E2YTJmNTZiODEw",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -27,22 +27,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 260640,
-      "name": "No Guidance (feat. Drake)",
-      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -79,22 +79,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 260776,
+      "name": "Like I Want You",
+      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 260776,
-      "name": "Like I Want You",
-      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "The Lady in My Life",
-      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 240306,
-      "name": "This Woman's Work - Remastered 2021",
-      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
+      "duration_ms": 300106,
+      "name": "The Lady in My Life",
+      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -691,6 +675,22 @@
       "duration_ms": 292884,
       "name": "Roll Some Mo",
       "url": "https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "This Woman's Work - Remastered 2021",
+      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "From The Mint Factory",
-        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
       "artists": [
         {
-          "name": "Mint Condition",
-          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 314537,
-      "name": "U Send Me Swingin'",
-      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
+      "duration_ms": 382333,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1027,34 +1027,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+        "name": "From The Mint Factory",
+        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Mint Condition",
+          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
         }
       ],
-      "duration_ms": 382333,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Three for Love",
-        "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
-      },
-      "artists": [
-        {
-          "name": "Shalamar",
-          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "This Is for the Lover in You",
-      "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
+      "duration_ms": 314537,
+      "name": "U Send Me Swingin'",
+      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "ONCE UPON A TIME",
-        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
+        "name": "Three for Love",
+        "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
       },
       "artists": [
         {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+          "name": "Shalamar",
+          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
         }
       ],
-      "duration_ms": 130882,
-      "name": "CINDERELLA, Pt. 2",
-      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
+      "duration_ms": 304000,
+      "name": "This Is for the Lover in You",
+      "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1103,6 +1087,22 @@
       "duration_ms": 290933,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "ONCE UPON A TIME",
+        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 130882,
+      "name": "CINDERELLA, Pt. 2",
+      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
     },
     {
       "added_at": "2022-03-14 19:54:18",

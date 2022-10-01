@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 574498,
+  "num_followers": 574629,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMDYyOGU4ZjlhM2U2NjIwYjc4ODM5Yjc3NWYyMDljYjU2",
+  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMDEwOTUyYmUyZjEzZTRhMThlMjc4OWVhODJhMGZiODQ1",
   "tracks": [
     {
       "added_at": "2022-09-21 12:36:50",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
+        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 601000,
+      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
-        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 601000,
-      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
     },
     {
       "added_at": "2022-09-21 12:36:50",

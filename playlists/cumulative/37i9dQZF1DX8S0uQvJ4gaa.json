@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Parker McCollum",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Adam Doleac",
   "name": "New Boots",
   "published_playlist_ids": [
     "4GYziq6IZSItn9f84k0CzJ"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 204333,
       "name": "11 Beers (feat. Jake Owen)",
       "url": "https://open.spotify.com/track/6R7nxAdrHuQXHGRrDc9Rit"
@@ -2085,7 +2085,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 174200,
       "name": "Beers Got Drank",
       "url": "https://open.spotify.com/track/6A51ShFUIKS0XTUlDvwCul"
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 164600,
       "name": "Best Worst Ex",
       "url": "https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma"
@@ -3179,7 +3179,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 224985,
       "name": "Brown Eyes Baby",
       "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
@@ -4421,7 +4421,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 202626,
       "name": "Country'd Look Good On You",
       "url": "https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp"
@@ -5497,7 +5497,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 218806,
       "name": "Don't It Sound Alright",
       "url": "https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK"
@@ -8176,6 +8176,24 @@
     },
     {
       "album": {
+        "name": "Give You My All",
+        "url": "https://open.spotify.com/album/0gas9wev1EQn8BZ2Hb2vHj"
+      },
+      "artists": [
+        {
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "Give You My All",
+      "url": "https://open.spotify.com/track/1wbGNtxz7WcTpXxmsdMdpn"
+    },
+    {
+      "album": {
         "name": "Giving You Up",
         "url": "https://open.spotify.com/album/78JnUpxEE1rPwMn4GO4tXs"
       },
@@ -9104,6 +9122,24 @@
     },
     {
       "album": {
+        "name": "Grow Young With You",
+        "url": "https://open.spotify.com/album/6JJRmHFa9NvHxa6vm6NU93"
+      },
+      "artists": [
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188946,
+      "name": "Grow Young With You",
+      "url": "https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w"
+    },
+    {
+      "album": {
         "name": "Growing Old With You",
         "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
       },
@@ -9393,7 +9429,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 219333,
       "name": "Handle On You",
       "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
@@ -10087,7 +10123,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192386,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ"
@@ -12070,6 +12106,24 @@
     },
     {
       "album": {
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
+    },
+    {
+      "album": {
         "name": "Love Out of Time",
         "url": "https://open.spotify.com/album/7ERBgqePM9egKWkEnA8sFA"
       },
@@ -12591,6 +12645,24 @@
       "duration_ms": 189059,
       "name": "If You're Lucky",
       "url": "https://open.spotify.com/track/7BZM804U4rvBklGmZtxZOd"
+    },
+    {
+      "album": {
+        "name": "Imma",
+        "url": "https://open.spotify.com/album/2x64IH4wQpBBRO7UZNVrkX"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Imma",
+      "url": "https://open.spotify.com/track/62F0GlumkjqJPAJMLTI2ci"
     },
     {
       "album": {
@@ -14917,7 +14989,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185853,
       "name": "Man Made",
       "url": "https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU"
@@ -21398,6 +21470,24 @@
     },
     {
       "album": {
+        "name": "Drake Milligan - EP",
+        "url": "https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u"
+      },
+      "artists": [
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146778,
+      "name": "Sounds Like Something I'd Do",
+      "url": "https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd"
+    },
+    {
+      "album": {
         "name": "Only Truck In Town",
         "url": "https://open.spotify.com/album/4nmRIzUzFHMcnNtufRc22I"
       },
@@ -22468,6 +22558,24 @@
     },
     {
       "album": {
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
+      },
+      "artists": [
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238177,
+      "name": "Tears the Size of Texas",
+      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
+    },
+    {
+      "album": {
         "name": "Tell 'Em Why",
         "url": "https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER"
       },
@@ -22779,7 +22887,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 181220,
       "name": "That's Why",
       "url": "https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ"
@@ -23755,6 +23863,24 @@
       "duration_ms": 188936,
       "name": "Throw It Back (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
+    },
+    {
+      "album": {
+        "name": "Barstool Whiskey Wonderland",
+        "url": "https://open.spotify.com/album/7pQNyq4BKpuLhiTURjzR2a"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "Til Dawn Do Us Part",
+      "url": "https://open.spotify.com/track/4sfaT2rRLuWHtvm0bLDjZN"
     },
     {
       "album": {
@@ -26487,6 +26613,28 @@
       "duration_ms": 195199,
       "name": "Wild Horse",
       "url": "https://open.spotify.com/track/5IQkgdk6xQJQ5CYEtcFvxi"
+    },
+    {
+      "album": {
+        "name": "Wild Palomino",
+        "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198514,
+      "name": "Wild Palomino",
+      "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,573 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,597 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 41 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
 | 42 | [Histoire d'un amour](https://open.spotify.com/track/0GRKjWdbLYWnnts6LbUE43) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 3:05 |
 | 43 | [Aime\-moi encore](https://open.spotify.com/track/1Sft5kKO1SNO21kshqzIaz) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Acrophobie](https://open.spotify.com/album/6zBf71wZueuPdcCUq7FjzE) | 2:49 |
-| 44 | [Boum Boum Boum](https://open.spotify.com/track/0h1yRXb0VDMH64xCsXoxaj) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven \(Special Edition\)](https://open.spotify.com/album/4ILxyc4VA9ymZVC8o6MyiX) | 3:26 |
-| 45 | [Comme j'ai toujours envie d'aimer \(version 2001\)](https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55) | [Marc Hamilton](https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm) | [Comme j'ai toujours envie d'aimer](https://open.spotify.com/album/4zRTAGVOXT4kpqfEFjNcNH) | 3:17 |
-| 46 | [Aime\-moi](https://open.spotify.com/track/3Nx0tpFFwD0xdw424rhhfN) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Le pied dans ma bulle](https://open.spotify.com/album/7jRtfbizqVXGQzUplJzJ0r) | 3:16 |
-| 47 | [Je t'aimais, je t'aime et je t'aimerai](https://open.spotify.com/track/7Kw8uSGbshybOzw4fmosUx) | [Amandine Bourgeois](https://open.spotify.com/artist/5f2vuPQdfpjzhuIA0W9bNm) | [Au masculin](https://open.spotify.com/album/1UsDlpZBxnuZBo1xSyYax6) | 4:58 |
+| 44 | [Comme j'ai toujours envie d'aimer \(version 2001\)](https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55) | [Marc Hamilton](https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm) | [Comme j'ai toujours envie d'aimer](https://open.spotify.com/album/4zRTAGVOXT4kpqfEFjNcNH) | 3:17 |
+| 45 | [Boum Boum Boum](https://open.spotify.com/track/0h1yRXb0VDMH64xCsXoxaj) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven \(Special Edition\)](https://open.spotify.com/album/4ILxyc4VA9ymZVC8o6MyiX) | 3:26 |
+| 46 | [Je t'aimais, je t'aime et je t'aimerai](https://open.spotify.com/track/7Kw8uSGbshybOzw4fmosUx) | [Amandine Bourgeois](https://open.spotify.com/artist/5f2vuPQdfpjzhuIA0W9bNm) | [Au masculin](https://open.spotify.com/album/1UsDlpZBxnuZBo1xSyYax6) | 4:58 |
+| 47 | [Aime\-moi](https://open.spotify.com/track/3Nx0tpFFwD0xdw424rhhfN) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Le pied dans ma bulle](https://open.spotify.com/album/7jRtfbizqVXGQzUplJzJ0r) | 3:16 |
 | 48 | [Il me dit que je suis belle \(Version album\)](https://open.spotify.com/track/5oHLDVSTy3M5mXWNAgnzvF) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Je te dis vous](https://open.spotify.com/album/6IRWC0tQS54aZeL6ptB2TG) | 5:21 |
 | 49 | [Fous n'importe où](https://open.spotify.com/track/3Wav5Db2A0kdJDAK3mpajp) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Rêver Mieux](https://open.spotify.com/album/2KE8MT2BeZA1sQWlQam4ce) | 3:59 |
 | 50 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Jenny](https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G) | [Richard Desjardins](https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn) | [Kanasuta](https://open.spotify.com/album/44gXPii8rK7tAVoZqAQIPQ) | 3:37 |
 | 75 | [Debout](https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 3:14 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMGNkMmU1ZDZlZjY1MTU3OGE2YjVmNTU4ODFlZjMzM2Iz`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDJkYzk0NzhkMTVjNzdhZTU0MThhN2NlOTNmNTgyY2Q2`

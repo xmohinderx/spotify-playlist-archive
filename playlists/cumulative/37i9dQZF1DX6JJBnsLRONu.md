@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-71 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
+72 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Sunshowers](https://open.spotify.com/track/4SEVKw96zpkG3TOAcNq8Zn) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 4:14 | 2022-02-10 | 2022-07-29 |
 | [Swayfer Sandles](https://open.spotify.com/track/0g2Sexo4C8cIS5tmDUakjP) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [The Good Times](https://open.spotify.com/album/2M6pgY4xaIQcjpcMx8cFjP) | 2:39 | 2022-04-22 |  |
 | [Teek](https://open.spotify.com/track/5pbRRA6wZm1OtBDXQl464D) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV), [Ralph Farris](https://open.spotify.com/artist/7MqERo1Nx2kIaJJF9xjrUN) | [Modern Yesterdays](https://open.spotify.com/album/4pgnnkCEHdnCMzx2WS9tAI) | 4:31 | 2022-02-10 |  |
+| [The Fire This Time](https://open.spotify.com/track/5BIip1tjBoYcc4oE6zAvVM) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Still, Here](https://open.spotify.com/album/4VbsBmQarXq8y249LaqdGU) | 3:38 | 2022-09-30 |  |
 | [The Forgotten Edge](https://open.spotify.com/track/5ErCjGniLLcIWPXw2v9zFV) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [The Forgotten Edge](https://open.spotify.com/album/6KmxT68b5ApWxOHWKOwfeu) | 2:18 | 2022-02-10 | 2022-07-29 |
 | [The Forgotten Edge](https://open.spotify.com/track/6bcrgRF256yQ4gYd3dZXJN) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [The Forgotten Edge](https://open.spotify.com/album/5lcXZjNubYS7GEJOxRn9Xo) | 2:18 | 2022-04-22 |  |
 | [The Going Through](https://open.spotify.com/track/4zAdKEsF0LHCSVeWaAm0I1) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py), [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Understand](https://open.spotify.com/album/7kPbydEQtj9F6TW6NEwSdI) | 4:37 | 2022-02-10 |  |

@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-70 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+73 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [I Loved Another Woman](https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:56 | 2022-07-13 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 | 2022-07-13 |  |
 | [I'm So Lonely](https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY) | 4:40 | 2022-07-13 |  |
+| [I'm Too Far Gone \(To Turn Around\) \- Single Version](https://open.spotify.com/track/1Mg1MdaOkkR5QQz2Ue6T2v) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1) | 3:19 | 2022-09-30 |  |
 | [If Heartaches Were Nickels](https://open.spotify.com/track/5ka8BG03xRY5FHYOQChRwz) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:27 | 2022-07-13 |  |
 | [It Takes A Lot To Laugh, It Takes A Train To Cry](https://open.spotify.com/track/3ofvDyH9vvVzgG60cpPWj6) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:47 | 2022-07-13 |  |
 | [Jelly Whippin' Blues](https://open.spotify.com/track/0Fp1ihxJ07wzXnUJ6eOcui) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [Don’t Tampa With the Blues](https://open.spotify.com/album/2wN8IbaXBuRx7g6NpbryDs) | 3:51 | 2022-08-18 |  |
@@ -62,6 +63,7 @@
 | [Pawn Shop Blues](https://open.spotify.com/track/6TWskW6euFVTZoFkuh1fvJ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 5:51 | 2022-07-13 |  |
 | [Please, Please, Please](https://open.spotify.com/track/3erYQ0r5OosuqfvWu88lD5) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Greyhound](https://open.spotify.com/album/3Q8ppUn0zZWnFS7fyvLRuY) | 5:25 | 2022-07-13 |  |
 | [Rambling On My Mind](https://open.spotify.com/track/2xIe93Xlp05jX2rSvTY56i) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB) | [Nice And Warm](https://open.spotify.com/album/2Qswbfz2bk23yZwS546NoG) | 5:09 | 2022-07-13 |  |
+| [Rather Go Blind](https://open.spotify.com/track/2FzX5ewaaZyAm5oRZSyrNQ) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 5:36 | 2022-09-30 |  |
 | [Real Life Blues](https://open.spotify.com/track/6J9m94KdbEr2g8FyJWAeFy) | [Alvin Lee](https://open.spotify.com/artist/6R7WjUX7Fk4zHPEHSdqEkY) | [The Anthology](https://open.spotify.com/album/2wejQk7Ks4bwmFKN3bGiYw) | 4:35 | 2022-07-13 |  |
 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 | 2022-07-13 |  |
 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 | 2022-07-13 |  |
@@ -78,5 +80,6 @@
 | [Walking The Backstreets And Crying](https://open.spotify.com/track/5YU67a01EqyrZGlxqmVuCV) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Walkin' The Back Streets](https://open.spotify.com/album/2eePvHHhgO81Wqf19eyhC9) | 6:18 | 2022-07-13 |  |
 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 | 2022-07-13 |  |
 | [Worried Life Blues](https://open.spotify.com/track/1PK26pBnYQRIMx21xLbMY4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:25 | 2022-07-13 |  |
+| [You Know My Love](https://open.spotify.com/track/3ZzuD4WjSQMP9D9XvkrxSD) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Door To Door](https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP) | 2:40 | 2022-09-30 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

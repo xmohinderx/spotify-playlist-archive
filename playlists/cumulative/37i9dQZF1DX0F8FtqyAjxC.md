@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-60 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/21XUWtQGgMmaUxzB8ize8d)
+61 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/21XUWtQGgMmaUxzB8ize8d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-07-07 |  |
 | [Music Madness \(Extended Charles Maurice Version\) \- Mixed](https://open.spotify.com/track/7GuoEurZGmNmI60aZY4beR) | [Beckie Bell](https://open.spotify.com/artist/26L76wiVbAg5n2INycFaiZ), [Charles Maurice](https://open.spotify.com/artist/6utbhphqqvFDEDsH5NYE9C) | [DJ\-Kicks \(Kerri Chandler\) \[Mixed Tracks\]](https://open.spotify.com/album/49icjQSG89VxWFjwp9UERk) | 4:55 | 2022-07-07 |  |
 | [Music Trance](https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Music Trance](https://open.spotify.com/album/7gr9gLflbW5DrgGQB9kcen) | 5:56 | 2022-07-07 |  |
-| [Never Let You Go](https://open.spotify.com/track/6xHJTRNAePpZjmXfFQgyTI) | [Savanna](https://open.spotify.com/artist/1PlMwUWyWobenj3SHUzRdS) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/4cwOh2TV6zMqzp2zBP8MdS) | 5:37 | 2022-07-07 |  |
+| [Never Let You Go](https://open.spotify.com/track/6tn5z1MWbKF0y1MygcOn0J) | [Savanna](https://open.spotify.com/artist/1PlMwUWyWobenj3SHUzRdS) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/7ePTPHIRm76J8B9bWu162e) | 5:37 | 2022-07-07 |  |
+| [Never Let You Go](https://open.spotify.com/track/6xHJTRNAePpZjmXfFQgyTI) | [Savanna](https://open.spotify.com/artist/1PlMwUWyWobenj3SHUzRdS) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/4cwOh2TV6zMqzp2zBP8MdS) | 5:37 | 2022-07-07 | 2022-10-01 |
 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 | 2022-07-07 |  |
 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 | 2022-07-07 |  |
 | [Outta Sight / Dark Lavender Interlude](https://open.spotify.com/track/3WsSVBM9oPmHlXjxKIKV59) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM](https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V) | 5:53 | 2022-07-07 |  |

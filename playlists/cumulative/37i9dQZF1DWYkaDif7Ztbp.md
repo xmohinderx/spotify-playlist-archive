@@ -4,7 +4,7 @@
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=R11Q2NABSyW2tSg5iRLY9A"> Ayra Starr </a>
 
-184 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
+186 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2021-12-02 | 2022-02-18 |
 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 | 2022-03-11 | 2022-08-05 |
 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 | 2022-01-20 | 2022-03-25 |
-| [mmadu](https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [mmadu](https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT) | 3:16 | 2022-09-23 |  |
+| [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 |  |
+| [mmadu](https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [mmadu](https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT) | 3:16 | 2022-09-23 | 2022-10-01 |
 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2021-10-22 | 2022-06-10 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-05-19 |  |
 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 | 2021-10-22 | 2022-02-11 |
@@ -189,7 +190,8 @@
 | [Woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 | 2022-05-19 | 2022-07-29 |
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 | 2022-08-26 |
 | [Yansh](https://open.spotify.com/track/0gaUeH6AIlvaQsqeXZylRr) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ) | [Love Supreme](https://open.spotify.com/album/0Erpf9zdbahSonL0cQ0NC6) | 2:47 | 2022-02-10 | 2022-03-11 |
-| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 |  |
+| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
+| [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 |  |
 | [Your Body \(feat\. Buju\)](https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Your Body \(feat\. Buju\)](https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK) | 2:10 | 2021-10-22 | 2022-02-04 |
 | [Zimbali](https://open.spotify.com/track/4prJjAS96pnxqtRMANFALE) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Zimbali](https://open.spotify.com/album/1U0gfPWZxxwUnqW5SzHs37) | 6:27 | 2022-06-16 | 2022-07-15 |
 

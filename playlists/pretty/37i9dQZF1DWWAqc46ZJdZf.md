@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,083 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,036 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 32 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
 | 33 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
 | 34 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 |
-| 35 | [FDT](https://open.spotify.com/track/4nxSEcO1rK0wtYswNpMH2U) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/5xYelOucTX5yIB93L6CVo4) | 3:46 |
-| 36 | [Time's A Wastin](https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:40 |
+| 35 | [Time's A Wastin](https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:40 |
+| 36 | [FDT](https://open.spotify.com/track/4nxSEcO1rK0wtYswNpMH2U) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/5xYelOucTX5yIB93L6CVo4) | 3:46 |
 | 37 | [A Change Is Gonna Come](https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Change Is Gonna Come](https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI) | 3:11 |
 | 38 | [Lift Ev'ry Voice and Sing \- Homecoming Live](https://open.spotify.com/track/0QRxJvOohS8yiGC1n98uFM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 2:09 |
 | 39 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
 | 40 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 |
 | 41 | [Baltimore](https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Baltimore](https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z) | 5:03 |
-| 42 | [Get Up, Stand Up](https://open.spotify.com/track/5MVW8uIuNuL7CQ0RyyogHI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:41 |
-| 43 | [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Guarding The Gates \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/5dLSIo9cqbNiSRZNw4C6am) | 6:00 |
+| 42 | [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Guarding The Gates \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/5dLSIo9cqbNiSRZNw4C6am) | 6:00 |
+| 43 | [Get Up, Stand Up](https://open.spotify.com/track/5MVW8uIuNuL7CQ0RyyogHI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:41 |
 | 44 | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/track/1tXCF7TwDnuHRgwQ63FeM5) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [S.O.T.L\. \(Silence of the Lambs\) \[feat\. Lil Wayne\]](https://open.spotify.com/album/6xBCjXyKJPnuCXt7xb7MpL) | 3:11 |
 | 45 | [U Will Know \- Extended Version](https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8) | [B.M.U\. \(Black Men United\)](https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4) | [U Will Know](https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz) | 4:25 |
 | 46 | [Say It Loud \- I'm Black And I'm Proud \- Pt\. 1](https://open.spotify.com/track/5h8ve1B7Gr3k4W0WXAgLxE) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The 50th Anniversary Collection](https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl) | 2:47 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 55 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 56 | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw) | 3:06 |
 | 57 | [Optimistic](https://open.spotify.com/track/50ZXBncFpzrKw1QVjE2NN8) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 5:18 |
-| 58 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
-| 59 | [16 Shots](https://open.spotify.com/track/5YqYLur57vzjL0Ts8fk0G2) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 5:45 |
+| 58 | [16 Shots](https://open.spotify.com/track/5YqYLur57vzjL0Ts8fk0G2) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 5:45 |
+| 59 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
 | 60 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMGY5ZmZmZjA3OWFmMjI2MWY0YzJiMmI4Y2ExZGQzNGZi`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDg3NzcxYzk0Mjk0NTdiMzgxOGI4MGNiMjU5OGI2MDlm`

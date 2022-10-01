@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,316 likes - 128 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,494 likes - 128 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 74 | [Bluff \- yeule & Kin Leonn Remix](https://open.spotify.com/track/45rqRN1h6iNDMIAb0idSjQ) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK) | [Bluff \(yeule & Kin Leonn Remix\)](https://open.spotify.com/album/53gadAfcSnos0A24W747L3) | 2:55 |
 | 75 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
 | 76 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 |
-| 77 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
+| 77 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
 | 78 | [B\*tch U Better](https://open.spotify.com/track/5Gdw8r7y4NUer8LVGPBeM2) | [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ) | [From The Floor To The Booth](https://open.spotify.com/album/2frqao7MHXrHmYrijCWlm0) | 4:59 |
 | 79 | [Sternenhimmel](https://open.spotify.com/track/3g4JgXeSpv5wXGzdsDxCRi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Sternenhimmel](https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe) | 5:34 |
 | 80 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |

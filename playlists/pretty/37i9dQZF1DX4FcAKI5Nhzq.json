@@ -1,15 +1,95 @@
 {
-  "description": "Future K-Pop hits! Cover: Crush",
-  "num_followers": 708545,
+  "description": "Future K-Pop hits! Cover: BIBI",
+  "num_followers": 708820,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDAyOTUyMSwwMDAwMDAwMGM0YWRjZWQwODM2YmY0ZGYyOTVhZTE2OTVhMWMzY2Ey",
+  "snapshot_id": "MTY2NDUxMTcyMywwMDAwMDAwMDE5MDgwYzFhZjM3NzM3ZGQ5YzIzMjdlYTE0MmVlNDI1",
   "tracks": [
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
+      "album": {
+        "name": "Animal Farm",
+        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 203945,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
+    },
+    {
+      "added_at": "2022-09-30 04:22:03",
+      "album": {
+        "name": "NEW WAVE",
+        "url": "https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "PARTY ROCK",
+      "url": "https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y"
+    },
+    {
+      "added_at": "2022-09-30 04:22:03",
+      "album": {
+        "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
+        "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 144773,
+      "name": "HEYDAY (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
+    },
+    {
+      "added_at": "2022-09-30 04:22:03",
+      "album": {
+        "name": "Adorable REbirth",
+        "url": "https://open.spotify.com/album/6ZbPQ1lNnDy2Xad9BGJcNa"
+      },
+      "artists": [
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Magical Symphony",
+      "url": "https://open.spotify.com/track/2BxWLZH5trnKhJruqWfCxy"
+    },
+    {
+      "added_at": "2022-09-30 04:22:03",
+      "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+    },
+    {
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Rush Hour",
         "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
@@ -29,23 +109,7 @@
       "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
-      "album": {
-        "name": "Be Yourself",
-        "url": "https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "go UP",
-      "url": "https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C"
-    },
-    {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "BUT FOR NOW LEAVE ME ALONE",
         "url": "https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn"
@@ -61,55 +125,7 @@
       "url": "https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
-      "album": {
-        "name": "Sugar Rush",
-        "url": "https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "Sugar Rush",
-      "url": "https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx"
-    },
-    {
-      "added_at": "2022-09-24 14:25:21",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6"
-      },
-      "artists": [
-        {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Sunflower (P.E.L)",
-      "url": "https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM"
-    },
-    {
-      "added_at": "2022-09-24 14:25:21",
-      "album": {
-        "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
-        "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 144773,
-      "name": "HEYDAY (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
-    },
-    {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "MALUS",
         "url": "https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp"
@@ -125,7 +141,23 @@
       "url": "https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
+      "album": {
+        "name": "Be Yourself",
+        "url": "https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "go UP",
+      "url": "https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C"
+    },
+    {
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
         "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
@@ -145,7 +177,39 @@
       "url": "https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
+      "album": {
+        "name": "Sugar Rush",
+        "url": "https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx"
+    },
+    {
+      "added_at": "2022-09-30 04:22:03",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6"
+      },
+      "artists": [
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Sunflower (P.E.L)",
+      "url": "https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM"
+    },
+    {
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
@@ -165,7 +229,7 @@
       "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "GIRL's ROUND Pt. 1",
         "url": "https://open.spotify.com/album/3lDNlx3DMHYYlT7EXhbAB6"
@@ -181,7 +245,7 @@
       "url": "https://open.spotify.com/track/78V1UN9fEZw2b9rYkwDmTj"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "One In A Billion",
         "url": "https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd"
@@ -197,7 +261,7 @@
       "url": "https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "SEXY NUKIM (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "the Billage of perception: chapter two",
         "url": "https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss"
@@ -265,7 +329,7 @@
       "url": "https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Strange World",
         "url": "https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "ONE AND A HALF",
         "url": "https://open.spotify.com/album/1JcWNzQIdI3hbCfWbH4Sib"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/0yfhVon5XPlCRYNihFIUwu"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Gasoline - The 2nd Album",
         "url": "https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG"
@@ -345,7 +409,7 @@
       "url": "https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Empty Dream",
         "url": "https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK"
@@ -361,7 +425,7 @@
       "url": "https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "CIX 5th EP Album \u2018OK\u2019 Episode 1 : OK Not",
         "url": "https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0"
@@ -377,7 +441,7 @@
       "url": "https://open.spotify.com/track/5Yxizu2LeHTpSHvf3zANWY"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "THE BOYZ 7TH MINI ALBUM [BE AWARE]",
         "url": "https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR"
@@ -393,7 +457,7 @@
       "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -409,7 +473,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox"
@@ -425,7 +489,7 @@
       "url": "https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "blanc",
         "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
@@ -441,7 +505,7 @@
       "url": "https://open.spotify.com/track/4fVyrplBcb6lVgij1b8pIO"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "FLASH",
         "url": "https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA"
@@ -457,7 +521,7 @@
       "url": "https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Piano man Op. 9",
         "url": "https://open.spotify.com/album/195d5ogvtz69mSNRoNfuxP"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/6CQpXk7EP1rZLD8jKCqhK9"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "1, 2, 3",
         "url": "https://open.spotify.com/album/6wFkV8mhP1oLUKNOTck5Cz"
@@ -493,7 +557,7 @@
       "url": "https://open.spotify.com/track/2hIHcImzcUtUjc947xqCZK"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
@@ -513,7 +577,7 @@
       "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
@@ -529,7 +593,7 @@
       "url": "https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "SMARTPHONE",
         "url": "https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0"
@@ -545,7 +609,7 @@
       "url": "https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "BTBT",
         "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
@@ -569,7 +633,7 @@
       "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
@@ -585,27 +649,7 @@
       "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
-      "album": {
-        "name": "Honey Drop",
-        "url": "https://open.spotify.com/album/5kdXxKUQ3VaGOPEU8C3Hb5"
-      },
-      "artists": [
-        {
-          "name": "Honey J",
-          "url": "https://open.spotify.com/artist/7GLNucMzWyvNW8FAabALKi"
-        },
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        }
-      ],
-      "duration_ms": 158213,
-      "name": "Honey Drop (Feat. Lil Cherry)",
-      "url": "https://open.spotify.com/track/6oDLaTN3k2g8n74Cyup2FO"
-    },
-    {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
@@ -621,7 +665,7 @@
       "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN"
@@ -641,7 +685,7 @@
       "url": "https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
@@ -657,7 +701,7 @@
       "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -673,7 +717,7 @@
       "url": "https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean"
@@ -693,7 +737,7 @@
       "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Grown Ass Kid",
         "url": "https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ"
@@ -709,23 +753,7 @@
       "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
-      "album": {
-        "name": "DOUBLAST",
-        "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Up!",
-      "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
-    },
-    {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "DEEP - The 1st Mini Album",
         "url": "https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4"
@@ -741,23 +769,7 @@
       "url": "https://open.spotify.com/track/2afNmSvxjRvXw3Fqm9qWfK"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
-      "album": {
-        "name": "Boogie Woogie",
-        "url": "https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs"
-      },
-      "artists": [
-        {
-          "name": "CRAVITY",
-          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
-        }
-      ],
-      "duration_ms": 190889,
-      "name": "Boogie Woogie",
-      "url": "https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP"
-    },
-    {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "the collective soul and unconscious: chapter one",
         "url": "https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw"
@@ -773,7 +785,7 @@
       "url": "https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Copycat",
         "url": "https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE"
@@ -789,7 +801,7 @@
       "url": "https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Geekyland",
         "url": "https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4"
@@ -805,7 +817,7 @@
       "url": "https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "HARMONY : ZERO IN",
         "url": "https://open.spotify.com/album/73CTPjApMDvFsycjbbROji"
@@ -821,23 +833,7 @@
       "url": "https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
-      "album": {
-        "name": "from our Memento Box",
-        "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Stay This Way",
-      "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
-    },
-    {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "KARD 5th Mini Album 'Re:'",
         "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
@@ -853,7 +849,7 @@
       "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
     },
     {
-      "added_at": "2022-09-24 14:25:21",
+      "added_at": "2022-09-30 04:22:03",
       "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"

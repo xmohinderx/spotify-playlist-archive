@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825 likes - 38 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 826 likes - 38 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 18 | [Locomotion](https://open.spotify.com/track/0Perbjux3gxagOCJo64dlq) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [The Loco\-Motion](https://open.spotify.com/album/4KzkpwUYao28JWlcv9DCG0) | 3:13 |
 | 19 | [Let's Shake About!](https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:01 |
 | 20 | [Limbo Rock](https://open.spotify.com/track/6FXjVsmKPW93LXRFYhfmmw) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Chubby Checker Classics](https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi) | 2:28 |
-| 21 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 |
-| 22 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 1:30 |
+| 21 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 1:30 |
+| 22 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 |
 | 23 | [Chicken Dance](https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 2:08 |
 | 24 | [Dance Silly](https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84) | 3:04 |
 | 25 | [Watch Me \(Whip / Nae Nae\)](https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:35 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 37 | [Chickie Chickie Beat](https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Chickie Chickie Beat](https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d) | 1:39 |
 | 38 | [Robot Song](https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP) | [Michael & The Rockness Monsters](https://open.spotify.com/artist/3LPxmAUuHX9k2jUlC9m38f) | [Preschool Songs Volume 2](https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ) | 3:13 |
 
-Snapshot ID: `MTY0ODgyNjgwNiwwMDAwMDAwMDc2Mzk5MDQ4N2RlZjAyYTk4NGE5NTNjYTE0NjEzYjNi`
+Snapshot ID: `MTY0ODgyNjgwNiwwMDAwMDAwMDU2NDk1OThhZWYzNWVlNjMwNjRkZGQxYjlmYzFiMmVk`

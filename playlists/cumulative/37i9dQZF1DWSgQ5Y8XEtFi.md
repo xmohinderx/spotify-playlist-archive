@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-174 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
+175 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [CLOUT COBAIN \| CLOUT CO13A1N](https://open.spotify.com/track/0UgavZ34yLBu8LtA6Bwxch) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [CLOUT COBAIN \| CLOUT CO13A1N](https://open.spotify.com/album/4u0jcVRikLvkom61PUG1j7) | 3:51 | 2022-06-17 | 2022-07-25 |
 | [COLUMBIA](https://open.spotify.com/track/2g3n5HwhJ5VukAfQaCmW5T) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 3:07 | 2022-03-29 | 2022-09-27 |
 | [coordinate](https://open.spotify.com/track/7pas6O1LYbaeChEFQBhPFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:46 | 2022-08-03 | 2022-08-30 |
-| [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-07-25 |  |
+| [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-07-25 | 2022-10-01 |
 | [Crazy](https://open.spotify.com/track/5x84Im19qMtvMfiIXoxAYj) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Crazy](https://open.spotify.com/album/4iVChjkQSVAg8gAVCoXV90) | 2:29 | 2022-03-29 | 2022-07-29 |
 | [Crisis](https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 1:49 | 2022-03-29 | 2022-08-30 |
 | [CRYPT](https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [CRYPT](https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2) | 1:45 | 2022-09-23 |  |
@@ -160,6 +160,7 @@
 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 | 2022-07-25 |  |
 | [Subatomic](https://open.spotify.com/track/6WYCFNz19DmDYGxk5wqLiz) | [Muo Duo](https://open.spotify.com/artist/2bpdb2V3w0oIYcMlUCp8cw), [Casshan](https://open.spotify.com/artist/1YopjlnLLy3uNvaTGULUpe), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Subatomic](https://open.spotify.com/album/6vyccqazzc4awpzXr4p428) | 3:22 | 2022-04-14 | 2022-05-14 |
 | [SUMO \| ZUMO](https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TA13OO](https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc) | 3:47 | 2022-06-17 |  |
+| [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx) | 1:46 | 2022-09-30 |  |
 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 | 2022-03-29 |  |
 | [Surrender](https://open.spotify.com/track/2e4XSs7Y5r2lEV9bmOMVtO) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Lord Forgive Me](https://open.spotify.com/album/7BPn9yvoj98BdNOtE7L6nZ) | 3:32 | 2022-06-27 | 2022-07-29 |
 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 | 2022-03-29 |  |

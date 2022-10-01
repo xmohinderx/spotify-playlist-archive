@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14198,
+  "num_followers": 14207,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDg2MzFiYmNjOTM5ZDRmMjM4MTdjMjM2MWQ0M2ViMTc1",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDZmMGRjNzhkNDc1ZjcyOTA3YzlmNDUwYWJkMWEwYThh",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -507,6 +507,34 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Follow (with Jeremih) [Dillon Francis Remix]",
+        "url": "https://open.spotify.com/album/6ORDApaeeYyezXhpGXc2HV"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Follow (with Jeremih) [Dillon Francis Remix]",
+      "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Tu Tu Tu (That's Why We) [Dubdogz & SUBB Remix]",
         "url": "https://open.spotify.com/album/4Vu4LBX4InGWNzpox8avBo"
       },
@@ -535,34 +563,6 @@
       "duration_ms": 172741,
       "name": "Tu Tu Tu (That's Why We) - Dubdogz & SUBB Remix",
       "url": "https://open.spotify.com/track/2QL6BEpabXndvf3tSuTc4A"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Follow (with Jeremih) [Dillon Francis Remix]",
-        "url": "https://open.spotify.com/album/6ORDApaeeYyezXhpGXc2HV"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Follow (with Jeremih) [Dillon Francis Remix]",
-      "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Neon Jungle Remixes",
-        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 249919,
-      "name": "Neon Jungle - Lane 8 Remix",
-      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Get Out My Head (Todd Terry Remix)",
         "url": "https://open.spotify.com/album/6u0OWvS5IO3r4Mi5P3RH46"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 188575,
       "name": "Get Out My Head - Todd Terry Remix",
       "url": "https://open.spotify.com/track/6TmxmvREJqrc1JaZVTzwCL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Neon Jungle Remixes",
+        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 249919,
+      "name": "Neon Jungle - Lane 8 Remix",
+      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1415,6 +1415,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Spa (James Hype Remix)",
+        "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Spa - James Hype Remix",
+      "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Higher (feat. iann dior) [VIZE Remix]",
         "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
       },
@@ -1459,30 +1483,6 @@
       "duration_ms": 174759,
       "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
       "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Spa (James Hype Remix)",
-        "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Spa - James Hype Remix",
-      "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1639,6 +1639,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Nightlight (The Remixes, Vol. 2)",
+        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Nightlight - MOTi Remix",
+      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Oops (I'm Sorry) (Remixes)",
         "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
       },
@@ -1663,30 +1687,6 @@
       "duration_ms": 205645,
       "name": "Oops (I'm Sorry) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Nightlight (The Remixes, Vol. 2)",
-        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Nightlight - MOTi Remix",
-      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1963,30 +1963,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Pomegranate (Jay Robinson Remix)",
-        "url": "https://open.spotify.com/album/3I4jrDAM138QXgHszi4N8K"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        },
-        {
-          "name": "Jay Robinson",
-          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
-        }
-      ],
-      "duration_ms": 332691,
-      "name": "Pomegranate - Jay Robinson Remix",
-      "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "My Feelings",
         "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
       },
@@ -2007,6 +1983,30 @@
       "duration_ms": 181922,
       "name": "My Feelings - Mokita Remix",
       "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Pomegranate (Jay Robinson Remix)",
+        "url": "https://open.spotify.com/album/3I4jrDAM138QXgHszi4N8K"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        }
+      ],
+      "duration_ms": 332691,
+      "name": "Pomegranate - Jay Robinson Remix",
+      "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Views of a Room",
         "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 373890,
       "name": "Babel - Maceo Plex Remix",
       "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "1 Day 2 Nights (Billen Ted Remix)",
-        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 134892,
-      "name": "1 Day 2 Nights - Billen Ted Remix",
-      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Keleketla! Remixes",
         "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
       },
@@ -2195,6 +2175,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "1 Day 2 Nights (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 134892,
+      "name": "1 Day 2 Nights - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Purple Hat (KC Lights Remix)",
         "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
       },
@@ -2211,26 +2211,6 @@
       "duration_ms": 209959,
       "name": "Purple Hat - KC Lights Remix",
       "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2255,6 +2235,26 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",

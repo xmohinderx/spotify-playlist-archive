@@ -1,13 +1,29 @@
 {
   "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Zolita",
-  "num_followers": 300926,
+  "num_followers": 301167,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGJiODExYzA2ZTc0OTE4NmRmNjdkYTkzOTM5NjY2ODA2",
+  "snapshot_id": "MTY2NDUxMDQ0OCwwMDAwMDAwMDhkYmI2ZTAxMmJlNTk4Mjk0MzliY2NlMDgwNmMxMzI2",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "STRUT",
+        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 117727,
+      "name": "STRUT",
+      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
+    },
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD"
     },
     {
-      "added_at": "2022-08-19 04:01:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "STRUT",
-        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
+        "name": "Liar Liar",
+        "url": "https://open.spotify.com/album/6KZ3DtRuWlTlCY0SKsTRyR"
       },
       "artists": [
         {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+          "name": "Ceara Cavalieri",
+          "url": "https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW"
         }
       ],
-      "duration_ms": 117727,
-      "name": "STRUT",
-      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
+      "duration_ms": 168088,
+      "name": "Liar Liar",
+      "url": "https://open.spotify.com/track/3Or3mHW0EXc2AyJyWKn5h0"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Queen Bitch",
-        "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
-      },
-      "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Queen Bitch",
-      "url": "https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "madhouse",
@@ -89,6 +89,38 @@
       "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "I Really F**ked It Up",
+        "url": "https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ"
+      },
+      "artists": [
+        {
+          "name": "GIRLI",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "I Really F**ked It Up",
+      "url": "https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Queen Bitch",
+        "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
+      },
+      "artists": [
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Queen Bitch",
+      "url": "https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Dead To Me",
@@ -103,6 +135,22 @@
       "duration_ms": 153222,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub"
+    },
+    {
+      "added_at": "2022-09-30 04:00:48",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/0ZNVOeu0n0XPdSkqRCfk6w"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 160385,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -137,20 +185,20 @@
       "url": "https://open.spotify.com/track/33RkgvfErKI9QLp3XwQXC3"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Really F**ked It Up",
-        "url": "https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ"
+        "name": "Get Off My",
+        "url": "https://open.spotify.com/album/2tsnxK9zuDDuch7E9pSnkj"
       },
       "artists": [
         {
-          "name": "GIRLI",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
         }
       ],
-      "duration_ms": 165746,
-      "name": "I Really F**ked It Up",
-      "url": "https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx"
+      "duration_ms": 184180,
+      "name": "Get Off My",
+      "url": "https://open.spotify.com/track/6YmV89ReuPTBeHGelmTbca"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -167,6 +215,38 @@
       "duration_ms": 175025,
       "name": "my best friend's ex",
       "url": "https://open.spotify.com/track/7zAET3CA2JHtQmvC5EtysA"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "W.I.T.C.H.",
+        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 132133,
+      "name": "W.I.T.C.H.",
+      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Never Dated You",
+        "url": "https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "duration_ms": 121183,
+      "name": "Never Dated You",
+      "url": "https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -203,22 +283,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Never Dated You",
-        "url": "https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU"
-      },
-      "artists": [
-        {
-          "name": "Andi",
-          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
-        }
-      ],
-      "duration_ms": 121183,
-      "name": "Never Dated You",
-      "url": "https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -251,22 +315,6 @@
       "duration_ms": 162760,
       "name": "Becky\u2019s So Hot",
       "url": "https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "W.I.T.C.H.",
-        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
-      },
-      "artists": [
-        {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
-        }
-      ],
-      "duration_ms": 132133,
-      "name": "W.I.T.C.H.",
-      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -653,22 +701,6 @@
       "url": "https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Life Sux",
-        "url": "https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 174814,
-      "name": "Life Sux",
-      "url": "https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Bitch Back",
@@ -833,22 +865,6 @@
       "url": "https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Hot Killer",
@@ -963,22 +979,6 @@
       "duration_ms": 166037,
       "name": "i'm too pretty for this",
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "hold the applause",
-        "url": "https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1"
-      },
-      "artists": [
-        {
-          "name": "Mira Housey",
-          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
-        }
-      ],
-      "duration_ms": 149230,
-      "name": "hold the applause",
-      "url": "https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ"
     },
     {
       "added_at": "2022-06-17 04:02:00",

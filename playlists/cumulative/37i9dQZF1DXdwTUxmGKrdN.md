@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-186 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+187 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Forever Yours](https://open.spotify.com/track/3A8ZJNLPBYKLt2r1pbRKeQ) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6UHWGNhNxr24TCqUVUkUTh) | 4:09 | 2022-04-11 | 2022-04-17 |
 | [Get Up, Stand Up](https://open.spotify.com/track/6pojpuQZ2BdoMtUjJJveia) | [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu), [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/13irGIRyXzvK9b39Zqcljs) | 4:57 | 2022-04-11 | 2022-04-21 |
 | [Get Up, Stand Up](https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq), [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [The Very Best Of Lee Ritenour](https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi) | 4:57 | 2022-07-18 |  |
-| [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 | 2022-04-11 |  |
+| [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 | 2022-04-11 | 2022-10-01 |
 | [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 |  |
 | [Gypsy Soul](https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Gypsy Soul](https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld) | 3:42 | 2022-04-11 | 2022-04-20 |
 | [Happy Go Lucky](https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Paul Hardcastle 8](https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU) | 4:14 | 2021-12-27 | 2022-07-24 |
@@ -156,6 +156,7 @@
 | [Soleh](https://open.spotify.com/track/56YE4O9RrVQa1JNy0ytneB) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [usj2p0800041](https://open.spotify.com/artist/0T0SSwN3JVvR8embQTIamo), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:43 | 2022-04-11 | 2022-04-21 |
 | [Something About You](https://open.spotify.com/track/06vu8fZlTlL7okvLGzhr47) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR) | 5:13 | 2022-07-18 |  |
 | [Something About You](https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv) | 5:13 | 2021-12-27 | 2022-07-29 |
+| [Soul Dream](https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e) | 5:02 | 2022-09-26 |  |
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2021-12-27 |  |
 | [Soulfood Sunday](https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg) | [Shine!](https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY) | 4:02 | 2022-01-03 |  |
 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 | 2021-12-27 |  |

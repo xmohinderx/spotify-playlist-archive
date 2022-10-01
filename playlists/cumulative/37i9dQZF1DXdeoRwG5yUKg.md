@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-125 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+126 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Lay My Head On Your Pillow](https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 3:59 | 2020-11-05 |  |
 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 | 2020-11-05 | 2022-07-29 |
 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 | 2020-11-05 |  |
-| [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 |  |
+| [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 | 2022-10-01 |
 | [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 | 2022-07-29 |  |
 | [Me to You](https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 3:50 | 2021-10-29 |  |
 | [More and More](https://open.spotify.com/track/1AqUAxuSol6C4ZyzGxEzre) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [Love, Tears & Guns](https://open.spotify.com/album/2zXx3awhI7zd54BvHdpdT4) | 4:55 | 2020-11-05 |  |
@@ -87,6 +87,7 @@
 | [Only Fool Was Me](https://open.spotify.com/track/1NlbqPDrtGqtNeDymqVdME) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p) | [Raw Sugar](https://open.spotify.com/album/28CI62akHTySi71hTfUTye) | 4:28 | 2020-11-05 |  |
 | [Only Fool Was Me](https://open.spotify.com/track/2fUoJejy209Fw7CJXAkacA) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p) | [Raw Sugar](https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd) | 4:28 | 2020-11-05 | 2022-07-29 |
 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 | 2020-11-05 |  |
+| [Out of Sight \(Out of Mind\)](https://open.spotify.com/track/00XkBPsjAlNyw4VeQrQSJY) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA), [Whiskey Wolves of the West](https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj) | [Dear Diary](https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi) | 4:00 | 2022-09-30 |  |
 | [Pictures on the Wall](https://open.spotify.com/track/2KK8G1JqNkz7L6wfTbgp7H) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4BzCphuz3P1FvWvOB5GtDp) | 4:17 | 2020-11-05 |  |
 | [Pictures on the Wall](https://open.spotify.com/track/3L5gTxFwf6T2ZeXx9n0bik) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4eV2e8k894bwbeX2lJMYgb) | 4:17 | 2020-11-05 | 2022-07-29 |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/0aBjG35bcty7tOM917tVL6) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/5mSDSfm25FGQZVuxKi6Gvo) | 3:29 | 2020-11-05 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-118 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+120 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chennai Anthem](https://open.spotify.com/track/7ihw8cWsxvc3GqkoGp7JM4) | [Dolkar Gurung](https://open.spotify.com/artist/6kMFvbChvt6LSvBY4361ZR) | [Chennai Anthem](https://open.spotify.com/album/32ABJ1jAshHThHKanHTozL) | 3:47 | 2022-04-04 |  |
 | [Colors of Love](https://open.spotify.com/track/06qxVIUENc5A9YhR02onIF) | [Sudhir Din](https://open.spotify.com/artist/7Hfu3XWHwdd2PgF0CAxIAr) | [Colors of Love](https://open.spotify.com/album/0celRHv5GlfB3k5Xsj2eHw) | 3:51 | 2022-04-04 |  |
 | [Common Pierrot Paths](https://open.spotify.com/track/3Xm4iHDqUc7NS4PNNLxxP1) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Common Pierrot Paths](https://open.spotify.com/album/0WfnQuBv1xEqxvshcaaPe9) | 3:21 | 2022-07-11 |  |
+| [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-04-04 |  |
 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 | 2022-04-04 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-04-04 |  |
@@ -52,6 +53,7 @@
 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 | 2022-04-04 |  |
 | [Jal](https://open.spotify.com/track/4YpD0n0hC3Cw2As4jGaQ1z) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Jal](https://open.spotify.com/album/6sWGq5vGUPEPCxaIDm4gFb) | 4:43 | 2022-05-05 |  |
 | [Jodi Tare Nai Chini Go \- Instrumental](https://open.spotify.com/track/7cEZxN0bwOoJC61Bu2KLzn) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Tejas Vinchurkar](https://open.spotify.com/artist/0tg9ZOHpgLqgTeFgO843Y8) | [The Magic of Tagore \- Instrumentals](https://open.spotify.com/album/6gyzmR2nG9OM6mJRW07aXs) | 4:46 | 2022-04-04 |  |
+| [Kapla Bhati](https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 7:18 | 2022-09-30 |  |
 | [Kharasha](https://open.spotify.com/track/5b0pO1D67bUkGKzx4kNP56) | [The Sitar Lounge Experience](https://open.spotify.com/artist/2KdoHKu7K72giUrFxLQjKe) | [The Sitar Lounge Experience](https://open.spotify.com/album/0OILgZSp5RbtJszUSJXNog) | 4:48 | 2022-04-04 | 2022-04-21 |
 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 | 2022-04-04 |  |
 | [Kirwani](https://open.spotify.com/track/0j438lJoTSWzhmdaokcljh) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/5SB0DHPRMnyCY8tbMvDkmB) | 4:32 | 2022-07-18 | 2022-08-13 |
@@ -69,7 +71,7 @@
 | [Mystery Location Chillgroove](https://open.spotify.com/track/3aN9QVC2KQycHnnk9KjFUl) | [Tanpura Express](https://open.spotify.com/artist/7hPMJKe8pUwG21kfjZToqS) | [Mystery Location Chillgroove](https://open.spotify.com/album/2w330uz5CPBGTkzFs9gO6e) | 1:58 | 2022-04-04 |  |
 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 | 2022-04-04 |  |
 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 | 2022-04-04 |  |
-| [Nani](https://open.spotify.com/track/3bqXrL2BwTK9sI2tjVF7FL) | [Kaatru](https://open.spotify.com/artist/5r5gWXcE1w7MgJjxSIcKRC) | [Nani](https://open.spotify.com/album/0wI1AG8bR82kMffk7jiuyU) | 3:27 | 2022-04-04 |  |
+| [Nani](https://open.spotify.com/track/3bqXrL2BwTK9sI2tjVF7FL) | [Kaatru](https://open.spotify.com/artist/5r5gWXcE1w7MgJjxSIcKRC) | [Nani](https://open.spotify.com/album/0wI1AG8bR82kMffk7jiuyU) | 3:27 | 2022-04-04 | 2022-10-01 |
 | [Nectar Drop](https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Jahta Beat: The Lotus Memoirs](https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ) | 4:00 | 2022-04-04 |  |
 | [Night](https://open.spotify.com/track/4N3vw766peEDGWJEnSC7cL) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MidIval Punditz](https://open.spotify.com/album/3Gt2rSnTmlwjowHKV5vsIX) | 5:54 | 2022-04-04 | 2022-07-29 |
 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 | 2022-07-18 |  |

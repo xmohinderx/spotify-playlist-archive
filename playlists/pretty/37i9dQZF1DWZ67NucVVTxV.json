@@ -1,13 +1,61 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 10642,
+  "num_followers": 10679,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNDgyMCwwMDAwMDAwMDc1YWJiODgyYmVmOWNjNGZkMTM0MjRkNWQ1YmZhMDYz",
+  "snapshot_id": "MTY2NDUyMTA0NSwwMDAwMDAwMGU1NjdlOTIxYTU5YWM1MjE3ZGQ0YTZmZjJiN2MxMzMz",
   "tracks": [
+    {
+      "added_at": "2022-09-09 09:21:43",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 123716,
+      "name": "Organise",
+      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
+    },
+    {
+      "added_at": "2022-08-05 07:46:32",
+      "album": {
+        "name": "New Born Fela",
+        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129807,
+      "name": "New Born Fela",
+      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
+    },
+    {
+      "added_at": "2021-07-05 06:40:30",
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "23",
+      "url": "https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt"
+    },
     {
       "added_at": "2022-09-23 06:33:40",
       "album": {
@@ -25,22 +73,6 @@
       "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
     },
     {
-      "added_at": "2022-07-25 06:25:03",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
       "added_at": "2022-09-09 09:21:43",
       "album": {
         "name": "Mr. Money With The Vibe",
@@ -55,6 +87,22 @@
       "duration_ms": 156734,
       "name": "Ototo",
       "url": "https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU"
+      },
+      "artists": [
+        {
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+        }
+      ],
+      "duration_ms": 180715,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -77,20 +125,40 @@
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
+      "added_at": "2021-10-01 05:40:45",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU"
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
       "artists": [
         {
-          "name": "T DOLLAR",
-          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 180715,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB"
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2022-07-25 06:25:03",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
     },
     {
       "added_at": "2022-09-19 07:28:15",
@@ -149,6 +217,46 @@
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+    },
+    {
+      "added_at": "2022-09-30 06:57:25",
+      "album": {
+        "name": "Od\u00f9",
+        "url": "https://open.spotify.com/album/6qzkMjuDOVxqdYv9bYqPIS"
+      },
+      "artists": [
+        {
+          "name": "Mo'Believe",
+          "url": "https://open.spotify.com/artist/2JZT6fRSlCQFOnSvkwJ8PW"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Jara Joro",
+      "url": "https://open.spotify.com/track/1HZd6S5XRpOqUTqQI4yH0Y"
+    },
+    {
       "added_at": "2022-03-03 23:00:00",
       "album": {
         "name": "Finesse",
@@ -169,6 +277,22 @@
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
+      "added_at": "2021-07-05 06:40:30",
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200413,
+      "name": "Way Too Big",
+      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
+    },
+    {
       "added_at": "2021-12-09 23:01:00",
       "album": {
         "name": "Second Sermon (Remix)",
@@ -187,6 +311,22 @@
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "added_at": "2022-02-17 23:00:00",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -309,30 +449,6 @@
       "url": "https://open.spotify.com/track/7pRKdVbFEZU3LkzLY1hi3g"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Propeller (feat. Dave & BNXN)",
-        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
-      },
-      "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Propeller (feat. Dave & BNXN)",
-      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
-    },
-    {
       "added_at": "2022-02-17 23:00:00",
       "album": {
         "name": "Ololade Asake",
@@ -347,6 +463,22 @@
       "duration_ms": 171500,
       "name": "Trabaye",
       "url": "https://open.spotify.com/track/3q1cSJlfVFGfE7sMWPYJGm"
+    },
+    {
+      "added_at": "2022-09-30 06:57:25",
+      "album": {
+        "name": "Turkey Nla",
+        "url": "https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Turkey Nla",
+      "url": "https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -367,74 +499,6 @@
       "duration_ms": 199439,
       "name": "\u00c0j\u00e0l\u00e1 Travel (Remix)",
       "url": "https://open.spotify.com/track/7vECPXXTtBOScFvOyOE8jn"
-    },
-    {
-      "added_at": "2022-09-09 09:21:43",
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 123716,
-      "name": "Organise",
-      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
-    },
-    {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4"
-    },
-    {
-      "added_at": "2021-10-01 05:40:45",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2022-08-05 07:46:32",
-      "album": {
-        "name": "New Born Fela",
-        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129807,
-      "name": "New Born Fela",
-      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
     },
     {
       "added_at": "2021-07-05 06:40:30",
@@ -471,22 +535,6 @@
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
-    },
-    {
-      "added_at": "2021-07-05 06:40:30",
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200413,
-      "name": "Way Too Big",
-      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
     },
     {
       "added_at": "2022-07-22 04:30:31",
@@ -561,22 +609,6 @@
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
-      "added_at": "2022-08-12 05:44:37",
-      "album": {
-        "name": "Nuff Chat",
-        "url": "https://open.spotify.com/album/1YtqOsHQccqkJmZzDdCFJm"
-      },
-      "artists": [
-        {
-          "name": "Korshi T",
-          "url": "https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "Nuff Chat",
-      "url": "https://open.spotify.com/track/2IgxOCeRiJ0Qm9RDDsNhN0"
-    },
-    {
       "added_at": "2021-10-08 04:36:00",
       "album": {
         "name": "Gone Far",
@@ -607,22 +639,6 @@
       "duration_ms": 159683,
       "name": "Simple Life",
       "url": "https://open.spotify.com/track/0ZsAXyNxVMlLYMM7TbdOPR"
-    },
-    {
-      "added_at": "2021-07-05 06:40:30",
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 245920,
-      "name": "23",
-      "url": "https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -759,30 +775,6 @@
       "duration_ms": 193199,
       "name": "Never Stopped",
       "url": "https://open.spotify.com/track/7dkfbGHwMS6rt26cda0BUY"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4NEEvkvHl6aDZofeHm5AcQ"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Jesse Jagz",
-          "url": "https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT"
-        },
-        {
-          "name": "Tega Starr",
-          "url": "https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/5tDP97l3FFgLKmAkP029rw"
     },
     {
       "added_at": "2022-06-30 23:00:00",

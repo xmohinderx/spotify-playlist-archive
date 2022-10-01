@@ -4,7 +4,7 @@
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-308 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+310 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Ragnarok](https://open.spotify.com/track/77iJlK3UBnJ6ifrKHbvtbf) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO), [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [L U N A](https://open.spotify.com/artist/2e6JwrcJbzHnFPaSYofN4U), [Mode$t0 Beats](https://open.spotify.com/artist/4btKpMf8S2ISzSF65RNwTF) | [RAGNAROK](https://open.spotify.com/album/2CSMLHv8cAFiRJb9MB0Hgc) | 2:18 | 2021-09-17 | 2022-05-08 |
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 |  |
 | [Red Light](https://open.spotify.com/track/0IKjAwm7HA6kZC9sm39Xvx) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Red Light](https://open.spotify.com/album/6Ciw7D04j2nfPIxvW0Rs0Q) | 2:18 | 2021-09-17 | 2022-07-02 |
+| [ROLEPLAY](https://open.spotify.com/track/6lBjqdPLsOxLSKrBPQufi5) | [OMXNEMO](https://open.spotify.com/artist/6QK0K28MJ2Fj2nsmrZv1O1), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Lucie's Nightmare](https://open.spotify.com/artist/73cmp0OKYaPbYsCAgKqAcl), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ROLEPLAY](https://open.spotify.com/album/4tYEe0g5xT5kWJg5wFxrs1) | 2:58 | 2022-09-30 |  |
 | [Rose Colored Glasses](https://open.spotify.com/track/0cCgFH4qb2zA7Nfqej9fJd) | [5thFloorHomicide](https://open.spotify.com/artist/5G6sRziHhCPJFbhcebJQnp) | [Rose Colored Glasses](https://open.spotify.com/album/1jA83pq3azUgwlOcLEX2rX) | 2:31 | 2022-01-21 | 2022-04-20 |
 | [Roswell](https://open.spotify.com/track/4G01UY2AijcdKA3BS4liYH) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Roswell](https://open.spotify.com/album/1NndovHvyyBEYUJO69NmKY) | 2:24 | 2022-07-08 | 2022-07-27 |
 | [Sangria \(feat\. Denzel Curry\)](https://open.spotify.com/track/2fG0gdRKdTjyxYkTydQEv9) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Sangria \(feat\. Denzel Curry\)](https://open.spotify.com/album/5JUzMtOlM52YO5rzdQwg38) | 2:06 | 2021-09-17 | 2022-07-30 |
@@ -297,6 +298,7 @@
 | [Wassup Freestyle](https://open.spotify.com/track/1YAXjpBwANfiHbT846tdGQ) | [Tommy Saint](https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH) | [Wassup Freestyle](https://open.spotify.com/album/3MmPjbFWXOIL9V9ZkXBJfM) | 2:09 | 2022-03-22 | 2022-06-25 |
 | [Watchyoursix](https://open.spotify.com/track/3exyIETiY1GXm2I1chXSpI) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [Blood Bender Mixtape](https://open.spotify.com/album/5AFks02CYx2R92ilzIBQLl) | 2:58 | 2021-09-17 | 2022-05-12 |
 | [WAY TOO WAVY](https://open.spotify.com/track/1whdJyi0euy9qjyBG7KVKJ) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [WAY TOO WAVY](https://open.spotify.com/album/55rEA1eM02Ulibq29aRYdg) | 1:57 | 2022-04-15 |  |
+| [what i see when i'm walking alone at night](https://open.spotify.com/track/3ekCDlvLHI0kFj2U1W81oQ) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [what i see when i'm walking alone at night](https://open.spotify.com/album/1An8EBw9h670Cmzuzd2m05) | 2:13 | 2022-09-30 |  |
 | [what the fuck is an e\-girl?](https://open.spotify.com/track/48ygGqboHA5p3I3sPK1R3a) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [what the fuck is an e\-girl?](https://open.spotify.com/album/0YSoy8rBzCp6DCSnIhxLz9) | 1:24 | 2022-05-20 | 2022-05-28 |
 | [Who Am I to Blame?](https://open.spotify.com/track/5j8WzS1Ep4wUxRbFX3mztq) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [Who Am I to Blame?](https://open.spotify.com/album/2O1bbNWHsa4ShsJq4SmIF0) | 1:55 | 2021-09-17 | 2022-06-11 |
 | [WHOTFISSATAN!](https://open.spotify.com/track/4lycLzckejuXWnaPEnJvgj) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH), [miseryfell](https://open.spotify.com/artist/6yI0YNDttUvR4fhblpXP9L) | [WHOTFISSATAN!](https://open.spotify.com/album/7uhhajkLHhrm9qUhuEA8Uj) | 2:39 | 2022-04-15 | 2022-07-16 |

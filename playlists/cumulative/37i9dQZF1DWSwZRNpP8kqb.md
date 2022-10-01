@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-120 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
+121 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Jujuy Mujer](https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [K'arallanta](https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61) | 4:54 | 2022-09-06 |  |
 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 | 2022-01-14 | 2022-09-07 |
 | [La Calle Soledad](https://open.spotify.com/track/0NRUAijlDhuHmTumwcjc2q) | [Belén Herrera](https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4) | [Tucumana](https://open.spotify.com/album/3ZRoq7AUTKnwhkrEia1MBG) | 2:35 | 2022-01-14 | 2022-09-07 |
-| [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 | 2022-01-14 |  |
+| [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 | 2022-01-14 | 2022-10-01 |
 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 | 2022-01-14 |  |
 | [La de los Humildes](https://open.spotify.com/track/1bJWTTxX4kvVTRTfoELBj5) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez \(Vol\. 1\)](https://open.spotify.com/album/3k8qtfOFpjsZumRMkI0zrs) | 4:29 | 2022-01-14 | 2022-07-29 |
 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 | 2022-07-08 | 2022-09-24 |
@@ -94,6 +94,7 @@
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 | 2022-01-14 |  |
 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 | 2022-01-14 | 2022-09-07 |
+| [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 | 2022-09-23 |  |
 | [Oración Del Remanso](https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesion del Viento](https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe) | 4:28 | 2022-01-14 |  |
 | [Pajarito](https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Pajarito](https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK) | 2:44 | 2022-01-14 |  |
 | [Pal Tiempo Del Carnaval](https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [MILENA](https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS) | 2:06 | 2022-01-14 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Katherine Li",
-  "num_followers": 70881,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Sarah Kang",
+  "num_followers": 70971,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI4Mjc1MSwwMDAwMDAwMGIxYzk4Y2ZmNDc3NWNiYzJkZDU1ZjNiNTFlNTcwYWY0",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDk0MWZhOTk5NDM1NmFlZTA3Y2RkYzc4MmFkOWZlODhj",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+    },
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 183941,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp"
+    },
+    {
+      "added_at": "2022-09-23 04:09:30",
+      "album": {
+        "name": "Haunted by Potential",
+        "url": "https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 218218,
+      "name": "Haunted by Potential",
+      "url": "https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Don\u2019t Tell My Mom",
+        "url": "https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 188544,
+      "name": "Don't Tell My Mom",
+      "url": "https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -57,36 +105,20 @@
       "url": "https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU"
     },
     {
-      "added_at": "2022-09-23 04:09:30",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Haunted by Potential",
-        "url": "https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2"
+        "name": "8 Hours",
+        "url": "https://open.spotify.com/album/3hxsVO5zA1zQOCItEBlV6x"
       },
       "artists": [
         {
-          "name": "PIAO",
-          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+          "name": "Anna Hamilton",
+          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
         }
       ],
-      "duration_ms": 218218,
-      "name": "Haunted by Potential",
-      "url": "https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc"
-    },
-    {
-      "added_at": "2022-09-27 12:45:51",
-      "album": {
-        "name": "Soft Boy",
-        "url": "https://open.spotify.com/album/004syik0RCJkwKCwVX5fpe"
-      },
-      "artists": [
-        {
-          "name": "Wilbur Music",
-          "url": "https://open.spotify.com/artist/3ZHaki4MMPDvFsEE4apthg"
-        }
-      ],
-      "duration_ms": 145319,
-      "name": "Soft Boy",
-      "url": "https://open.spotify.com/track/6rrbZTkpzaV7CaBoSogKHi"
+      "duration_ms": 203250,
+      "name": "8 Hours",
+      "url": "https://open.spotify.com/track/33LB1jDEoWLlre9K8dTftW"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -103,6 +135,22 @@
       "duration_ms": 144000,
       "name": "Loud",
       "url": "https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Looking for Trouble",
+        "url": "https://open.spotify.com/album/1SXRmp8DSW8ewbGB1DRnAO"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Looking for Trouble",
+      "url": "https://open.spotify.com/track/67CCjpC8R4pWs2xaqkn3op"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -135,6 +183,22 @@
       "duration_ms": 181000,
       "name": "What Does Sorry Mean",
       "url": "https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "man",
+        "url": "https://open.spotify.com/album/4uxMo66hTRBC8YSXOq9hPv"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "man",
+      "url": "https://open.spotify.com/track/5Hx1C1ik2gQpoztd8fstot"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -185,6 +249,22 @@
       "url": "https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "birthday alone",
+        "url": "https://open.spotify.com/album/2i3bzoH7SD600b3SKm0F8u"
+      },
+      "artists": [
+        {
+          "name": "Sage Charmaine",
+          "url": "https://open.spotify.com/artist/7Gm2KFPebqb5rGV3XrLqGn"
+        }
+      ],
+      "duration_ms": 194462,
+      "name": "birthday alone",
+      "url": "https://open.spotify.com/track/4JrxkAArwiHvo3ZvtXmnoy"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Eddie's Song",
@@ -199,6 +279,22 @@
       "duration_ms": 244403,
       "name": "Eddie's Song",
       "url": "https://open.spotify.com/track/6mO9n6CncvYtIcfWjFKsYH"
+    },
+    {
+      "added_at": "2022-09-27 12:45:51",
+      "album": {
+        "name": "Soft Boy",
+        "url": "https://open.spotify.com/album/004syik0RCJkwKCwVX5fpe"
+      },
+      "artists": [
+        {
+          "name": "Wilbur Music",
+          "url": "https://open.spotify.com/artist/3ZHaki4MMPDvFsEE4apthg"
+        }
+      ],
+      "duration_ms": 145319,
+      "name": "Soft Boy",
+      "url": "https://open.spotify.com/track/6rrbZTkpzaV7CaBoSogKHi"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -587,22 +683,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "In The Kitchen",
-        "url": "https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 227749,
-      "name": "In The Kitchen",
-      "url": "https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Love Me Back",
         "url": "https://open.spotify.com/album/3FSnxrJFGEaDSo0pddtkbh"
       },
@@ -827,22 +907,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/5NPjgNqomchHldXQcN140j"
       },
@@ -919,22 +983,6 @@
       "duration_ms": 188673,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "we're all sad here",
-        "url": "https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4"
-      },
-      "artists": [
-        {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
-        }
-      ],
-      "duration_ms": 203470,
-      "name": "life, i'm over you",
-      "url": "https://open.spotify.com/track/4tI1u9uQXYLnswRzcysxDo"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1163,22 +1211,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "I Wanna Be a Boy",
-        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
-      },
-      "artists": [
-        {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "I Wanna Be a Boy",
-      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Devil's Work",
         "url": "https://open.spotify.com/album/5E0v1l0J7Nd3smRv9NYMKk"
       },
@@ -1275,22 +1307,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "WYD Now?",
-        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "WYD Now?",
-      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Love Like That (Words from Her)",
         "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 263541,
       "name": "Google Translate / poppies",
       "url": "https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Getting Older",
-        "url": "https://open.spotify.com/album/0QlI1E0LgBtZNHeCGt0WSI"
-      },
-      "artists": [
-        {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Getting Older",
-      "url": "https://open.spotify.com/track/3ug0z5meuf80xze4Pq7KUf"
     },
     {
       "added_at": "2022-09-09 04:00:00",

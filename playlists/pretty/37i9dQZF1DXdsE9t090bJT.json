@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 15724,
+  "num_followers": 15780,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGEyN2Y2YWI3YWJmYWYzOGZmNWIzNTlmMzY2NGU0MGE2",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGMwODRkZWQ2YWEzNzA1Y2NkMWE4NDJhMzgwODU4MTcx",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Eres Una Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
         "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 228461,
       "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
       "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Eres Una Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "El Problema",
+        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "15 Besos",
+      "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 205386,
       "name": "Qu\u00e9 Bueno Es Tenerte",
       "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "El Problema",
-        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "15 Besos",
-      "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Te Volver\u00eda A Elegir",
-      "url": "https://open.spotify.com/track/4Z9c9WrWh168eKq5L45DLm"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Permiteme",
         "url": "https://open.spotify.com/album/6eEHUx9vmWQuZnUOfnm72D"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 186118,
       "name": "Permiteme",
       "url": "https://open.spotify.com/track/3GWCtaYw4KnDv7VRl5ywRJ"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Te Volver\u00eda A Elegir",
+      "url": "https://open.spotify.com/track/4Z9c9WrWh168eKq5L45DLm"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "C\u00f3mo No Quererte",
-        "url": "https://open.spotify.com/album/5lmQBx2ASnM6YDHjcVwoCp"
+        "name": "Amor Del Bueno",
+        "url": "https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 175590,
-      "name": "C\u00f3mo No Quererte",
-      "url": "https://open.spotify.com/track/7kAIDORxyLYGjp6t3p4w1z"
+      "duration_ms": 193813,
+      "name": "Amor Del Bueno",
+      "url": "https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Amor Del Bueno",
-        "url": "https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h"
+        "name": "C\u00f3mo No Quererte",
+        "url": "https://open.spotify.com/album/5lmQBx2ASnM6YDHjcVwoCp"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Amor Del Bueno",
-      "url": "https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV"
+      "duration_ms": 175590,
+      "name": "C\u00f3mo No Quererte",
+      "url": "https://open.spotify.com/track/7kAIDORxyLYGjp6t3p4w1z"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Banda #1's 2016",
+        "url": "https://open.spotify.com/album/0SURxtQaxU4uT0FinWDYmk"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/6AWPUeVvo3DsWHUaDEfNkY"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Mariachi Tumbado",
         "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 162866,
       "name": "D\u00e9jame Llevarte",
       "url": "https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Banda #1's 2016",
-        "url": "https://open.spotify.com/album/0SURxtQaxU4uT0FinWDYmk"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/6AWPUeVvo3DsWHUaDEfNkY"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Ni Yo Me la Creo",
-        "url": "https://open.spotify.com/album/5QmEkyUSOAwp6pQqxPYBwx"
-      },
-      "artists": [
-        {
-          "name": "Jonatan Sanchez",
-          "url": "https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L"
-        }
-      ],
-      "duration_ms": 187739,
-      "name": "Ni Yo Me la Creo",
-      "url": "https://open.spotify.com/track/2zNVZ7kG8wFNPb5wE4qRBd"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "S\u00f3lo Me Faltabas T\u00fa",
         "url": "https://open.spotify.com/album/2fn1kCf7XoVAZUP2wZRDv5"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 210953,
       "name": "S\u00f3lo Me Faltabas T\u00fa",
       "url": "https://open.spotify.com/track/2iczDnKcdpfqxzc5fsFcRP"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Ni Yo Me la Creo",
+        "url": "https://open.spotify.com/album/5QmEkyUSOAwp6pQqxPYBwx"
+      },
+      "artists": [
+        {
+          "name": "Jonatan Sanchez",
+          "url": "https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L"
+        }
+      ],
+      "duration_ms": 187739,
+      "name": "Ni Yo Me la Creo",
+      "url": "https://open.spotify.com/track/2zNVZ7kG8wFNPb5wE4qRBd"
     },
     {
       "added_at": "2022-02-11 20:24:54",

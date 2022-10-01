@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Astral Distance",
+        "url": "https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125995,
+      "name": "Astral Distance",
+      "url": "https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs"
+    },
+    {
+      "album": {
         "name": "At Day's End",
         "url": "https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG"
       },
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 134571,
       "name": "Bagatelles",
       "url": "https://open.spotify.com/track/6KB73THoWtwrS9fMvHLqh0"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 144000,
       "name": "Desiderium",
       "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 211200,
       "name": "Drowsy",
       "url": "https://open.spotify.com/track/0UN65yFrhpHPOWVRgPDJ3J"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 188145,
       "name": "Inner Balance",
       "url": "https://open.spotify.com/track/15lQpJKviToQERV0rsDbEp"
@@ -2327,7 +2345,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 258951,
       "name": "Quasar",
       "url": "https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 130250,
       "name": "Sarek",
       "url": "https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 217200,
       "name": "Satori - Without Ambience",
       "url": "https://open.spotify.com/track/2lHPRp0fGmU59ArT2z2t25"
@@ -2619,6 +2637,24 @@
       "duration_ms": 155750,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/28Vm9HwBIfy13ZPEffBFOF"
+    },
+    {
+      "album": {
+        "name": "Ad Infinitum",
+        "url": "https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR"
+      },
+      "artists": [
+        {
+          "name": "James Matth\u00e9us",
+          "url": "https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198396,
+      "name": "Semper Fidelis",
+      "url": "https://open.spotify.com/track/554NJ5Ny6aTx4UqUG07BsW"
     },
     {
       "album": {

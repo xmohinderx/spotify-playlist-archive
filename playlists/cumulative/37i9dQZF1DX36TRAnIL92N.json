@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 406015,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/1N3ZXedV7bYmNLnZ5toPaS"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
@@ -796,6 +796,28 @@
     },
     {
       "album": {
+        "name": "Human Race",
+        "url": "https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD"
+      },
+      "artists": [
+        {
+          "name": "Sabura",
+          "url": "https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX"
+        },
+        {
+          "name": "Maurice Mino",
+          "url": "https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369230,
+      "name": "Human Race",
+      "url": "https://open.spotify.com/track/06qNp9ttPgJB6PH7wbBZ73"
+    },
+    {
+      "album": {
         "name": "Huys",
         "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
       },
@@ -1042,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Lonely Traveller",
+        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366038,
+      "name": "Lonely Traveller",
+      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
+    },
+    {
+      "album": {
         "name": "Mars Powder",
         "url": "https://open.spotify.com/album/7cuM14P80mW17Tzi4bYxGm"
       },
@@ -1173,7 +1213,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 335873,
       "name": "Mood",
       "url": "https://open.spotify.com/track/7r83daOyAKc1oNh89zZoA4"
@@ -1643,7 +1683,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 429230,
       "name": "Solace",
       "url": "https://open.spotify.com/track/7CdHThhhy6j2BDHNjpe0vX"

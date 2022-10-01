@@ -1,13 +1,101 @@
 {
-  "description": "DMV music breaking waves. Cover: AL-DOMS",
-  "num_followers": 10497,
+  "description": "DMV music breaking waves. Cover: 3OHBLACK",
+  "num_followers": 10503,
   "original_name": "Ripple Effect: DMV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxOTU0MiwwMDAwMDAwMGI3ZTIyMDRkZGQzZjJlZGZjN2M3Y2E0MjM3MWJiNTgy",
+  "snapshot_id": "MTY2NDUxMTk5NiwwMDAwMDAwMDMxYjU3NDY2YzJlMzkyZjhmYzg4YmFlYzE0MDQxMTcx",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "HEAD TO HADES",
+      "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
+    },
+    {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4"
+      },
+      "artists": [
+        {
+          "name": "3ohBlack",
+          "url": "https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT"
+        }
+      ],
+      "duration_ms": 134383,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ"
+    },
+    {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/4j5NRsZgbL7ZvFzfuhPh7D"
+      },
+      "artists": [
+        {
+          "name": "Dada444l",
+          "url": "https://open.spotify.com/artist/4dVmDpC6DBlSBwxvQkT21C"
+        }
+      ],
+      "duration_ms": 128063,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/1MtqVeaNkhWE2W0dOvfKOf"
+    },
+    {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "PRELUDE I: LAX",
+        "url": "https://open.spotify.com/album/7w8UM4aYEzINYR6b9NZWWF"
+      },
+      "artists": [
+        {
+          "name": "BADGER",
+          "url": "https://open.spotify.com/artist/3cYU0MrWiLukHpUTuwfH7W"
+        }
+      ],
+      "duration_ms": 151249,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/7u7t615DZLnFj4ezYtLms8"
+    },
+    {
+      "added_at": "2022-09-23 07:52:22",
+      "album": {
+        "name": "PRESCRIBED OVERDOSE",
+        "url": "https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "duration_ms": 152164,
+      "name": "LECTRIC SLIDE",
+      "url": "https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt"
+    },
     {
       "added_at": "2022-09-23 07:52:22",
       "album": {
@@ -61,6 +149,22 @@
       "url": "https://open.spotify.com/track/2dOUErBzFZJ8l7MbV6FcYW"
     },
     {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/14DO8oPrgLc7gcfF6MbFnH"
+      },
+      "artists": [
+        {
+          "name": "Bandhunta Izzy",
+          "url": "https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2"
+        }
+      ],
+      "duration_ms": 187258,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/1DexvXGmsZu6mWElq4XRp4"
+    },
+    {
       "added_at": "2022-09-23 07:52:22",
       "album": {
         "name": "For The Night [Baltimore Club Mix]",
@@ -103,22 +207,6 @@
     {
       "added_at": "2022-09-23 07:52:22",
       "album": {
-        "name": "PRESCRIBED OVERDOSE",
-        "url": "https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i"
-      },
-      "artists": [
-        {
-          "name": "Al-Doms",
-          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
-        }
-      ],
-      "duration_ms": 152164,
-      "name": "LECTRIC SLIDE",
-      "url": "https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt"
-    },
-    {
-      "added_at": "2022-09-23 07:52:22",
-      "album": {
         "name": "Repeat (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/0rdtKU3AkeqY9st4yQorjj"
       },
@@ -155,6 +243,54 @@
       "duration_ms": 162651,
       "name": "Never End Up Broke Pt. 2 (feat. Pusha T)",
       "url": "https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT"
+    },
+    {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "Gratuity",
+        "url": "https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e"
+      },
+      "artists": [
+        {
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "Gratuity",
+      "url": "https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9"
+    },
+    {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "Streets",
+        "url": "https://open.spotify.com/album/0JRGXtHtaXzYM4fEhtXJw3"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 144321,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/1TYByBVUgkH7lndO0YRmbl"
+    },
+    {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "If You Must Go",
+        "url": "https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr"
+      },
+      "artists": [
+        {
+          "name": "S\u00e6kyi",
+          "url": "https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB"
+        }
+      ],
+      "duration_ms": 196122,
+      "name": "If You Must Go",
+      "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -203,6 +339,26 @@
       "duration_ms": 244076,
       "name": "Life for Now",
       "url": "https://open.spotify.com/track/4vkNiRlxV9Aagzbcp1HI3M"
+    },
+    {
+      "added_at": "2022-09-30 04:26:36",
+      "album": {
+        "name": "Something To Talk About",
+        "url": "https://open.spotify.com/album/4MaSCgUF7hMjc7QCdIBsb0"
+      },
+      "artists": [
+        {
+          "name": "Until The Very End",
+          "url": "https://open.spotify.com/artist/5Jv5Lpg9AV9WJK9kfnZAX0"
+        },
+        {
+          "name": "FNSHLINE",
+          "url": "https://open.spotify.com/artist/2BveIQx5v3GG0w8aI7zFUE"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/7hKWeVTJDVKf9Ogd21RmpB"
     },
     {
       "added_at": "2022-09-23 07:52:22",
@@ -803,22 +959,6 @@
     {
       "added_at": "2022-08-12 06:58:48",
       "album": {
-        "name": "Giig",
-        "url": "https://open.spotify.com/album/0vm2W3xFM9jJmvoKQV0wQw"
-      },
-      "artists": [
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
-        }
-      ],
-      "duration_ms": 107991,
-      "name": "Giig",
-      "url": "https://open.spotify.com/track/6kQR8k8HQmWggsb0f07Xet"
-    },
-    {
-      "added_at": "2022-08-12 06:58:48",
-      "album": {
         "name": "Still Lit",
         "url": "https://open.spotify.com/album/6UfY1nVAzkuWpqBvSW8HV8"
       },
@@ -867,42 +1007,6 @@
     {
       "added_at": "2022-08-12 06:58:48",
       "album": {
-        "name": "Matte Black",
-        "url": "https://open.spotify.com/album/0pqfZHod20hB7hzfy1w1WW"
-      },
-      "artists": [
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        },
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 99765,
-      "name": "Matte Black",
-      "url": "https://open.spotify.com/track/4ngAE5MFWuzqteZbM4Ugy4"
-    },
-    {
-      "added_at": "2022-08-12 06:58:48",
-      "album": {
-        "name": "Why So Larceny?",
-        "url": "https://open.spotify.com/album/5WrO8LVm1G1Gdsfm4nRUO6"
-      },
-      "artists": [
-        {
-          "name": "StaySolidRocky",
-          "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ"
-        }
-      ],
-      "duration_ms": 140643,
-      "name": "Roll Call",
-      "url": "https://open.spotify.com/track/1wbV2uV4n4J3hOkrksI15A"
-    },
-    {
-      "added_at": "2022-08-12 06:58:48",
-      "album": {
         "name": "Free Range",
         "url": "https://open.spotify.com/album/4PkMA4iPLj1RcwMpMKmYxg"
       },
@@ -935,22 +1039,6 @@
     {
       "added_at": "2022-06-24 04:01:48",
       "album": {
-        "name": "My Level",
-        "url": "https://open.spotify.com/album/6wSN6KxFGNG8avrcz2SSfX"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        }
-      ],
-      "duration_ms": 199941,
-      "name": "My Level",
-      "url": "https://open.spotify.com/track/1Z9rBDVCdQSnL8ExSU79L3"
-    },
-    {
-      "added_at": "2022-06-24 04:01:48",
-      "album": {
         "name": "HAHA (feat. Pusha T)",
         "url": "https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M"
       },
@@ -967,54 +1055,6 @@
       "duration_ms": 129535,
       "name": "HAHA (feat. Pusha T)",
       "url": "https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "The Radio Killaz Vol.2",
-        "url": "https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63"
-      },
-      "artists": [
-        {
-          "name": "XIB",
-          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
-        }
-      ],
-      "duration_ms": 46215,
-      "name": "Jersey Anniversary (Sample)",
-      "url": "https://open.spotify.com/track/4HgB4trNaESJ6RB6K5zsaV"
-    },
-    {
-      "added_at": "2022-02-08 05:51:17",
-      "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/5GpWWoHvsz1y5HPZTFvxzD"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/25vP1c6ZkWsR4ejonbGFDF"
-    },
-    {
-      "added_at": "2022-06-24 04:01:48",
-      "album": {
-        "name": "Ain't Going Back",
-        "url": "https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP"
-      },
-      "artists": [
-        {
-          "name": "Rican Da Menace",
-          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
-        }
-      ],
-      "duration_ms": 149231,
-      "name": "Ain't Going Back",
-      "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
     }
   ],
   "unique_name": "Ripple Effect: DMV",

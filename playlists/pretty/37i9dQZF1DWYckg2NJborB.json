@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53294,
+  "num_followers": 53293,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDUyNDUyZjE5MjU4MGQ3MmM5NTViMDIxMWJjNjg5MjI3",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGE4YTQ0Zjk3OGYwZjFhMjkyNzg2ZmI3MmRhZGM3YzE3",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -427,22 +427,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Kerplunk!",
-        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Who Wrote Holden Caulfield?",
-      "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 320240,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Kerplunk!",
+        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Who Wrote Holden Caulfield?",
+      "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -763,22 +763,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "The Writer",
-      "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Com Lag: 2+2=5",
         "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 238280,
       "name": "Paperbag Writer",
       "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "The Writer",
+      "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
     },
     {
       "added_at": "2018-12-10 14:56:06",

@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tagua Tagua
 
-277 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+279 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [enterro dos ossos](https://open.spotify.com/track/2y1IMBalLAnBfljmc5E8iB) | [Gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [enterro dos ossos](https://open.spotify.com/album/763NGc1NT0bfk4DjfLUmcH) | 2:51 | 2022-04-15 | 2022-05-07 |
 | [Espelho Infinito](https://open.spotify.com/track/2c035MzNnX6LbBAqqIY74L) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Espelho Infinito](https://open.spotify.com/album/2lVRPlfINLYMxUBanw9jpB) | 4:03 | 2022-05-13 | 2022-06-25 |
 | [espelho...](https://open.spotify.com/track/7yU2AHrWg5OGnicuu8cdVt) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Byusukii](https://open.spotify.com/artist/5pvTUpf1gd0VbNGPANCscY) | [espelho...](https://open.spotify.com/album/7clz4qxUPJ4TbY0xlNT6W2) | 2:58 | 2022-01-14 | 2022-03-18 |
+| [Essa Garoa](https://open.spotify.com/track/4671UclmP4TO0I8ps2YgW9) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 2](https://open.spotify.com/album/1YiqHCOIxfRSVBKQ4wxqlu) | 4:00 | 2022-09-30 |  |
 | [Estrago](https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Atenta](https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw) | 3:01 | 2022-03-11 | 2022-03-26 |
 | [Estrago](https://open.spotify.com/track/7guu5QTbzpxrt0jbKqF3X8) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Estrago](https://open.spotify.com/album/6n6ychgsjSX4AsAmPcyCT4) | 3:49 | 2022-04-08 | 2022-06-25 |
 | [Eu Ainda Te Quero](https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG) | [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Eu Ainda Te Quero](https://open.spotify.com/album/1EUsc7qQEy7vhYQtOhC4mc) | 2:41 | 2022-08-19 |  |
@@ -180,6 +181,7 @@
 | [O Teste](https://open.spotify.com/track/1WDvirXKvsQWaM2RK8jD1A) | [Gabriel Ventura](https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC) | [O Teste](https://open.spotify.com/album/1yKzHbiYpGdUpQfDoi3EBt) | 3:13 | 2022-02-11 | 2022-04-09 |
 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 | 2022-04-08 |  |
 | [olhos cansados](https://open.spotify.com/track/3pt0xyf4ZVO2SRnMOf47r8) | [O Temporal](https://open.spotify.com/artist/2g9eJDWyPM1LzUwTWFZjpG) | [o temporal](https://open.spotify.com/album/1zefWkoUkHufnXq7sQLUeC) | 4:41 | 2022-02-11 |  |
+| [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 | 2022-09-30 |  |
 | [Pagar Pra Ver I](https://open.spotify.com/track/0u0USI9jK02pHfd0eocJpz) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 1](https://open.spotify.com/album/0M8vTT7jGR6bpcvQnLQXQ3) | 4:05 | 2022-09-09 |  |
 | [Paisagem](https://open.spotify.com/track/0rGvp4ODxl78g6BYnU54sq) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR), [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Dedê Silva](https://open.spotify.com/artist/5UpZtcbGmLEhU8fFayr4Iq), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Paisagem](https://open.spotify.com/album/4knGeJAqB8IMwNKQc6JHNF) | 3:57 | 2022-08-12 |  |
 | [Papel de Trouxa](https://open.spotify.com/track/3eIopS2sNEht311iFdvOZf) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [Papel de Trouxa](https://open.spotify.com/album/2OJJzGSCChmfibUiV7oWz0) | 3:16 | 2022-04-29 | 2022-06-11 |

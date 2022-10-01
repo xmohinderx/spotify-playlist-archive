@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 194409,
       "name": "Cheap Universe",
       "url": "https://open.spotify.com/track/2FnFyaDiJ5urwJHA0ENvZJ"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 244680,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/67AKmlZEFlxmiosbY9U5ea"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 225080,
       "name": "El Amor Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
@@ -947,6 +947,28 @@
       "duration_ms": 181670,
       "name": "El Mar",
       "url": "https://open.spotify.com/track/1XUiUyDSMk8W0E237XXaGe"
+    },
+    {
+      "album": {
+        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
     },
     {
       "album": {
@@ -1564,6 +1586,28 @@
     },
     {
       "album": {
+        "name": "LA KAGASTE",
+        "url": "https://open.spotify.com/album/7wX1dVzO0AmQfJ3mrezFhU"
+      },
+      "artists": [
+        {
+          "name": "KRISTAL",
+          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
+        },
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157621,
+      "name": "LA KAGASTE",
+      "url": "https://open.spotify.com/track/397xwirGVub2jfXfHlJnha"
+    },
+    {
+      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1611,7 +1655,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 179239,
       "name": "Lejos De Aqui",
       "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
@@ -2335,7 +2379,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 180912,
       "name": "Pill",
       "url": "https://open.spotify.com/track/4OFNNqUrrX7WnjUNGk4MpD"
@@ -2415,6 +2459,24 @@
       "duration_ms": 245437,
       "name": "Pongale Cari\u00f1o al Monte",
       "url": "https://open.spotify.com/track/0diCxpKG6I3w2HSMXEfNWj"
+    },
+    {
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/2jzGlHolRkjRbO54FP7TLR"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237658,
+      "name": "Portales",
+      "url": "https://open.spotify.com/track/7vfAJciqCRz31okZI9flNg"
     },
     {
       "album": {
@@ -2685,7 +2747,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 211746,
       "name": "Sangre de Pr\u00f3fugo",
       "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
@@ -3251,7 +3313,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 204888,
       "name": "Vamos a Perder",
       "url": "https://open.spotify.com/track/3o4giwIgVuN4fxckDQhz02"

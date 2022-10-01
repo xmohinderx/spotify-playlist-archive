@@ -1,48 +1,32 @@
 {
-  "description": "The hottest out the south. Cover: DaBaby",
-  "num_followers": 1089270,
+  "description": "The hottest out the south. Cover: Finesse2tymes",
+  "num_followers": 1089600,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyMjg4OCwwMDAwMDAwMDZlOWQyNGNlNWU5ZWM4MmQ0MDAyZjFiNjBlZTYyZmFl",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDY3ZDZiZjcwNjlmMDhjZjYyMGU5ZjE2ZDdkN2Q5Zjgz",
   "tracks": [
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Look Ma I Did It",
-        "url": "https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz"
+        "name": "Shoot It Myself (feat. Future)",
+        "url": "https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
         {
-          "name": "Baby Racks",
-          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Look Ma I Did It",
-      "url": "https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -63,6 +47,94 @@
       "duration_ms": 192427,
       "name": "CODE (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Back End",
+        "url": "https://open.spotify.com/album/77Hj5PiiIlIxI8l87wwVc1"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 165487,
+      "name": "Back End",
+      "url": "https://open.spotify.com/track/3eHOsD9gXqWYPxVr0JVVWv"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Look Ma I Did It",
+        "url": "https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Baby Racks",
+          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Look Ma I Did It",
+      "url": "https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -137,56 +209,20 @@
       "url": "https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Back End",
-        "url": "https://open.spotify.com/album/77Hj5PiiIlIxI8l87wwVc1"
+        "name": "I\u2019m So Awesome",
+        "url": "https://open.spotify.com/album/4D0WwN3ZWPdVqGLYRQw7pd"
       },
       "artists": [
         {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 165487,
-      "name": "Back End",
-      "url": "https://open.spotify.com/track/3eHOsD9gXqWYPxVr0JVVWv"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Baby On Baby 2",
-        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 171123,
-      "name": "SOCKS",
-      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Shoot It Myself (feat. Future)",
-        "url": "https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15"
+      "duration_ms": 187202,
+      "name": "I\u2019m So Awesome",
+      "url": "https://open.spotify.com/track/5tzEcVk8jFSBhTrO0ZYJdZ"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -229,20 +265,24 @@
       "url": "https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+        "name": "Life Worth Living",
+        "url": "https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "BLEU",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 161636,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+      "duration_ms": 181106,
+      "name": "Life Worth Living",
+      "url": "https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -317,20 +357,36 @@
       "url": "https://open.spotify.com/track/3UKJ6X8H1hQDWr22HuKdj4"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Baby Shark",
-        "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
+        "name": "Baby On Baby 2",
+        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
       },
       "artists": [
         {
-          "name": "RALAN STYLES",
-          "url": "https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 156059,
-      "name": "Baby Shark",
-      "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
+      "duration_ms": 171123,
+      "name": "SOCKS",
+      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2aFnmYzaupGK12iAYejKC4"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "duration_ms": 155889,
+      "name": "Celine Frames",
+      "url": "https://open.spotify.com/track/0Gmi0VeJIjybMPkJwLlS80"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -367,6 +423,26 @@
       "duration_ms": 188632,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/2zWkxKrUj8GfsUMi0MczgE"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Fight That Switch (Walk) [with EST Gee]",
+        "url": "https://open.spotify.com/album/3oLGzMCN8fnmDXff3hCtMH"
+      },
+      "artists": [
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 199580,
+      "name": "Fight That Switch (Walk) [with EST Gee]",
+      "url": "https://open.spotify.com/track/28yy6AId4shZVCSjTRdCa9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -439,6 +515,26 @@
       "duration_ms": 141888,
       "name": "Risk Takers",
       "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Trick City (Extended)",
+        "url": "https://open.spotify.com/album/5dnlF1iZDxqv0btALnQvqE"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 149191,
+      "name": "SIN (feat. Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/0NtyaNXukC4yLz00xhLcCp"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -525,20 +621,56 @@
       "url": "https://open.spotify.com/track/2Yn7BzHqwHnDw8XaXlZLVi"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR"
+        "name": "Baby Shark",
+        "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
       },
       "artists": [
         {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          "name": "RALAN STYLES",
+          "url": "https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY"
         }
       ],
-      "duration_ms": 238333,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
+      "duration_ms": 156059,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Anotha 1",
+        "url": "https://open.spotify.com/album/1e6ikk92FBJmOLkRwjLIpy"
+      },
+      "artists": [
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        }
+      ],
+      "duration_ms": 144568,
+      "name": "Anotha 1",
+      "url": "https://open.spotify.com/track/746KwUCnhLYNK1Jz7XA5Ir"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "2Tone (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/1puqMBYmUpSRiWKCf24G65"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 132310,
+      "name": "2Tone (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/7IOrMgzGar3mbtQKNdlbYz"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -577,22 +709,6 @@
       "url": "https://open.spotify.com/track/0MXfA9fPRN7IrWJNDrNGTf"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Heartaches",
@@ -607,6 +723,22 @@
       "duration_ms": 198127,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/4DlnZNLw1HqckLprf9a9hW"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/7jnLqCgzOAwW3p8g90p4Rk"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -673,26 +805,6 @@
       "url": "https://open.spotify.com/track/2g7RAqIAWvejbBMiv0qYHj"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Yungen (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "54321",
@@ -709,40 +821,24 @@
       "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Realer 2",
-        "url": "https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J"
+        "name": "Kater To Me",
+        "url": "https://open.spotify.com/album/7KLGjJFMjyGK2eFOcymZ6j"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 136258,
-      "name": "Purge Me",
-      "url": "https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
         },
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
         }
       ],
-      "duration_ms": 154433,
-      "name": "Ungrateful (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
+      "duration_ms": 184129,
+      "name": "Kater To Me",
+      "url": "https://open.spotify.com/track/68rPaGR2BdRzIiCM1ipzgP"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -765,46 +861,6 @@
       "url": "https://open.spotify.com/track/0GeQLnbZlfKiGoq83g4w2C"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "I Ain\u2019t Gon Hold Ya",
-        "url": "https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC"
-      },
-      "artists": [
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 139370,
-      "name": "I Ain\u2019t Gon Hold Ya",
-      "url": "https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Give Me A Sign",
-        "url": "https://open.spotify.com/album/2zGi3DyjpXt2MGubp54aQ0"
-      },
-      "artists": [
-        {
-          "name": "Quando Rondo",
-          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Give Me A Sign",
-      "url": "https://open.spotify.com/track/5jghmO5j7lvR10i0WrWZpg"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Legendary",
@@ -819,22 +875,6 @@
       "duration_ms": 163998,
       "name": "Free Yola",
       "url": "https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Dissin the Dead",
-        "url": "https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Dissin the Dead",
-      "url": "https://open.spotify.com/track/5EeFkn825wcD3q2Tkk2vCu"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -877,30 +917,6 @@
       "url": "https://open.spotify.com/track/3479IDKcKrsY7JDZjNXfHW"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Team Player (feat. Lil Poppa & Morray)",
-        "url": "https://open.spotify.com/album/3E1E6Qlhvo9uS3hwx3J0Hz"
-      },
-      "artists": [
-        {
-          "name": "BRS Kash",
-          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
-        },
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        },
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 181885,
-      "name": "Team Player (feat. Lil Poppa & Morray)",
-      "url": "https://open.spotify.com/track/5O5BKCnAoF5Djt90t2wpma"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "YA YA YA",
@@ -915,46 +931,6 @@
       "duration_ms": 172800,
       "name": "YA YA YA",
       "url": "https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "Umm Hmm",
-      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Us vs. Them (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Us vs. Them (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
     }
   ],
   "unique_name": "No Cap",

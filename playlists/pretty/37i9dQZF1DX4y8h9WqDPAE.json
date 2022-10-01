@@ -1,12 +1,12 @@
 {
-  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: FLO",
-  "num_followers": 1749258,
+  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Ayra Starr & Kelly Rowland",
+  "num_followers": 1749325,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk4MTMyMCwwMDAwMDAwMDlmM2U3M2M0ZWM1NGYyNzA5N2VjMjUzMjQzOGI1YjI0",
+  "snapshot_id": "MTY2NDUxMDc4OSwwMDAwMDAwMDhjMjYwY2NhNGM4NGZiMzE4NmVkOWI0OWViYzE1MTg5",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-09-23 04:07:20",
       "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 174588,
-      "name": "Not My Job",
-      "url": "https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc"
-    },
-    {
-      "added_at": "2022-09-23 04:07:20",
-      "album": {
         "name": "Ain\u2019t No Love (feat. 2 Chainz)",
         "url": "https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI"
       },
@@ -95,6 +79,26 @@
       "duration_ms": 184976,
       "name": "Ain\u2019t No Love (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV"
+    },
+    {
+      "added_at": "2022-09-30 04:06:29",
+      "album": {
+        "name": "Better Thangs",
+        "url": "https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 214352,
+      "name": "Better Thangs (with Summer Walker)",
+      "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
     },
     {
       "added_at": "2022-09-23 04:07:20",
@@ -119,6 +123,46 @@
       "duration_ms": 227435,
       "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
       "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
+    },
+    {
+      "added_at": "2022-09-30 04:06:29",
+      "album": {
+        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
+        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
+      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+    },
+    {
+      "added_at": "2022-07-15 04:03:39",
+      "album": {
+        "name": "Breezy (Deluxe)",
+        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3dGJPLnc2YlXVvcgwW47Mn"
     },
     {
       "added_at": "2022-08-26 04:05:41",
@@ -161,24 +205,20 @@
       "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
     },
     {
-      "added_at": "2022-07-15 04:03:39",
+      "added_at": "2022-09-23 04:07:20",
       "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3dGJPLnc2YlXVvcgwW47Mn"
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc"
     },
     {
       "added_at": "2022-07-29 04:12:34",
@@ -239,6 +279,26 @@
       "duration_ms": 233974,
       "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
       "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
+    },
+    {
+      "added_at": "2022-09-30 04:06:29",
+      "album": {
+        "name": "Without You (feat. Queen Naija)",
+        "url": "https://open.spotify.com/album/6dLmF5YH9mUjQb3XlGchlD"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 205248,
+      "name": "Without You (feat. Queen Naija)",
+      "url": "https://open.spotify.com/track/3QGkF5RRFR9RWTJciGTMf2"
     },
     {
       "added_at": "2022-07-29 04:12:34",
@@ -425,6 +485,34 @@
       "url": "https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS"
     },
     {
+      "added_at": "2022-09-30 04:06:29",
+      "album": {
+        "name": "Make Me Say It Again, Girl",
+        "url": "https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj"
+      },
+      "artists": [
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 299441,
+      "name": "Keys to My Mind",
+      "url": "https://open.spotify.com/track/7naFVtsD2waSvuhMNjMCt9"
+    },
+    {
       "added_at": "2022-09-23 04:07:20",
       "album": {
         "name": "ALL EARS",
@@ -535,8 +623,8 @@
     {
       "added_at": "2022-08-26 04:05:41",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
       },
       "artists": [
         {
@@ -546,7 +634,7 @@
       ],
       "duration_ms": 175504,
       "name": "you",
-      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
+      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1163,26 +1251,6 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 230721,
-      "name": "Time N Affection",
-      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1272310,
+  "num_followers": 1272843,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDE2ODc5MSwwMDAwMDAwMGY2ZmMyMmZmZDMzN2IwZDM0ODE1NGEwYWIwZGI3MjAy",
+  "snapshot_id": "MTY2MDE2ODc5MSwwMDAwMDAwMDY1YzFhZGE2MTNkN2U2ZWM2MzM4ZDQxYmY3MzljYTRj",
   "tracks": [
     {
       "added_at": "2022-07-28 19:01:39",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
+        "name": "Love Will Keep Us Together",
+        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Love Will Keep Us Together",
+      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 251960,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Love Will Keep Us Together",
-        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Love Will Keep Us Together",
-      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Xanadu",
-        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
+        "name": "Ladies' Night",
+        "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 271666,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
+      "duration_ms": 295160,
+      "name": "Too Hot",
+      "url": "https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Ladies' Night",
-        "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
+        "name": "Xanadu",
+        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 295160,
-      "name": "Too Hot",
-      "url": "https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB"
+      "duration_ms": 271666,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
     }
   ],
   "unique_name": "Yacht Rock",

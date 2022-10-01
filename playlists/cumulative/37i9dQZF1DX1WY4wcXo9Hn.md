@@ -2,7 +2,7 @@
 
 ### [scarf season](https://open.spotify.com/playlist/37i9dQZF1DX1WY4wcXo9Hn)
 
-> plaid shirt days and nights
+> a maroon kind of mood
 
 78 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/23fB26dU2vYzc523vA12TM)
 

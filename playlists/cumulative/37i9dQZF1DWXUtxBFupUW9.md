@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-128 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
+129 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Reflections \(Expanded Edition\)](https://open.spotify.com/album/5Hihm4B5op6ktt8qP1AHKK) | 2:49 | 2022-05-12 | 2022-09-29 |
 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 | 2022-05-12 |  |
 | [Rescue Me](https://open.spotify.com/track/5Gird0FlC1rfCDujzz0C4N) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 2:52 | 2021-12-20 | 2022-07-29 |
-| [Respect \- 2003 Remaster](https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:22 | 2021-12-20 |  |
+| [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2022-10-01 |  |
+| [Respect \- 2003 Remaster](https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:22 | 2021-12-20 | 2022-10-01 |
 | [Rock Your Baby](https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv) | 3:19 | 2021-12-20 | 2022-07-29 |
 | [September](https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Eternal Dance](https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR) | 3:34 | 2021-12-20 | 2022-07-27 |
 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2022-05-12 |  |

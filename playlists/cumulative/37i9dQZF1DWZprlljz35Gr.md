@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-66 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/5sz6J1Qj1bKu7DrXaMZeuY)
+68 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/5sz6J1Qj1bKu7DrXaMZeuY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Back Against The Wall](https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV) | [Euphoria](https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ) | [Precious Time](https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8) | 5:19 | 2020-12-01 |  |
 | [Beauty Beats](https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m) | [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm) | [Collide](https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52) | 3:45 | 2020-12-01 |  |
 | [Black Blood](https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [Lukasoprom](https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Black Blood](https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ) | 2:26 | 2021-07-02 |  |
-| [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 | 2020-12-01 |  |
+| [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 | 2020-12-01 | 2022-10-01 |
 | [Chains](https://open.spotify.com/track/6krEKtL2aCEXIHTJY8QrKj) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 3:41 | 2020-12-01 | 2022-09-15 |
 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 | 2020-12-01 |  |
 | [Cold Wind Blows](https://open.spotify.com/track/5O61SnNgvNtA7NIJFQaDIi) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Dark Days In Paradise](https://open.spotify.com/album/5rWM4lXXxij6N9jmZsUolC) | 5:29 | 2020-12-01 | 2022-07-29 |
@@ -37,10 +37,11 @@
 | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t) | [Wolfgang Wee](https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV) | [Hymn For Warriors \(Theme From Wolfgang Wee Uncut\)](https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ) | 3:58 | 2022-04-01 |  |
 | [I Had a Woman](https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [By Any Beats Necessary](https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab) | 2:39 | 2020-12-01 |  |
 | [I'm Back With Trouble](https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [I'm Back With Trouble](https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn) | 3:18 | 2022-02-18 |  |
-| [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 | 2020-12-01 |  |
+| [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 | 2020-12-01 | 2022-10-01 |
 | [It's Bad You Know](https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:58 | 2020-12-01 |  |
 | [John the Revelator](https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 3:41 | 2020-12-01 |  |
 | [John The Revelator](https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/1RiftRxnvWj7gPhOW6gzb3) | 2:32 | 2022-07-08 | 2022-07-29 |
+| [Joshua Tree](https://open.spotify.com/track/3I0CQt2MQx6jKygLKTdmde) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Joshua Tree](https://open.spotify.com/album/1YnzjJJCICcYqynOL6GiCJ) | 3:57 | 2022-09-30 |  |
 | [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 | 2022-04-29 | 2022-08-17 |
 | [Keisha Complexion](https://open.spotify.com/track/0gm0OruZdJlu8jamJe5OCh) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Keisha Complexion](https://open.spotify.com/album/2F8Fdmv6gXkewLOgTWD57R) | 3:18 | 2020-12-01 | 2022-07-21 |
 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 | 2020-12-01 |  |
@@ -72,6 +73,7 @@
 | [The Fire](https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:42 | 2020-12-01 |  |
 | [The Killing Ground](https://open.spotify.com/track/4TO703ZoI5BBF9VwLoatq7) | [Recoil](https://open.spotify.com/artist/2FsVA4kCeWeuzhll2D8HtT) | [Subhuman](https://open.spotify.com/album/3TplwghFmTTDSfDMQ1gFzG) | 9:55 | 2020-12-01 | 2022-07-29 |
 | [This Is For Everyone \- Original Mix](https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 3:49 | 2020-12-01 |  |
+| [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 | 2022-09-30 |  |
 | [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 | 2020-12-01 |  |
 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 | 2020-12-01 |  |
 

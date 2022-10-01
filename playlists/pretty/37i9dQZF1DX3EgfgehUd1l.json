@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 138685,
+  "num_followers": 138737,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMGY3NDY5ZDcyYTc5ZGM2ZjA5M2VmODcyYzAzMDM4MjUz",
+  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMDU2MWQxNTdhNzE2ZmQ1YzM3MDk4NGJkNzZmYmRhMmNk",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Remember When?",
         "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 160933,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -187,6 +187,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "The Great Pretender",
+      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
         "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 190400,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "The Great Pretender",
-      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -295,18 +295,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Flying Platters Around The World",
-        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 168293,
-      "name": "Twilight Time - Single Version",
-      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
+      "duration_ms": 162960,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -327,18 +327,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+        "name": "The Flying Platters Around The World",
+        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 162960,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
+      "duration_ms": 168293,
+      "name": "Twilight Time - Single Version",
+      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -391,18 +391,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 167800,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -423,18 +423,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 138080,
-      "name": "Memories Are Made Of This",
-      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+      "duration_ms": 167800,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -535,22 +535,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "The Mellomen",
-          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 149560,
-      "name": "Mambo Italiano (with The Mellomen) - 78rpm Version",
-      "url": "https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F"
+      "duration_ms": 193666,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -571,18 +567,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "The Mellomen",
+          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
         }
       ],
-      "duration_ms": 193666,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
+      "duration_ms": 149560,
+      "name": "Mambo Italiano (with The Mellomen) - 78rpm Version",
+      "url": "https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 179466,
       "name": "Love Is A Many-Splendored Thing",
       "url": "https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Oldies 101",
-        "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
-      },
-      "artists": [
-        {
-          "name": "Debbie Reynolds",
-          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Tammy",
-      "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Presenting Eddie Fisher",
         "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 180866,
       "name": "Cindy Oh Cindy",
       "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Oldies 101",
+        "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
+      },
+      "artists": [
+        {
+          "name": "Debbie Reynolds",
+          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Tammy",
+      "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Young Love of Tab Hunter",
-        "url": "https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j"
-      },
-      "artists": [
-        {
-          "name": "Tab Hunter",
-          "url": "https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe"
-        }
-      ],
-      "duration_ms": 146502,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 147706,
       "name": "I'm Sorry I Made You Cry",
       "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Young Love of Tab Hunter",
+        "url": "https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j"
+      },
+      "artists": [
+        {
+          "name": "Tab Hunter",
+          "url": "https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe"
+        }
+      ],
+      "duration_ms": 146502,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT"
     }
   ],
   "unique_name": "Easy 50s",

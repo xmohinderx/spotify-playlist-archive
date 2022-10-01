@@ -420,6 +420,24 @@
     },
     {
       "album": {
+        "name": "the rainbow cassette (bonus)",
+        "url": "https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102663,
+      "name": "dumb dumb - sped up",
+      "url": "https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A"
+    },
+    {
+      "album": {
         "name": "Faster (Sped Up)",
         "url": "https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce"
       },
@@ -569,7 +587,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 245472,
       "name": "home",
       "url": "https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy"
@@ -1189,6 +1207,10 @@
         {
           "name": "Tommy Villiers",
           "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
       "date_added": "2022-06-09",
@@ -1403,6 +1425,24 @@
       "duration_ms": 167658,
       "name": "Those Eyes - Sped Up",
       "url": "https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq"
+    },
+    {
+      "album": {
+        "name": "Wannabe (Sped Up Version)",
+        "url": "https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199770,
+      "name": "Wannabe - Sped Up Version",
+      "url": "https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85"
     },
     {
       "album": {

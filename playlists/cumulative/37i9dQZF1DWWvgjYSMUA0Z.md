@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-116 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+118 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 | 2022-01-14 |  |
 | [Healer](https://open.spotify.com/track/0s1wFa94M0alEVoQbaXQl3) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 2:55 | 2021-12-22 | 2022-03-30 |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-04-21 |  |
+| [Healing Soul](https://open.spotify.com/track/4YhHUp0GHCmVFRCayD38a4) | [Tales From The Dream World](https://open.spotify.com/artist/3h94ZSG5d6bfJZMoCTHQYb) | [Native Spirit](https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp) | 1:50 | 2022-09-30 |  |
 | [Hearing the Harvest](https://open.spotify.com/track/5wReVVGFR9CyeJqVHGjFjV) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Garden Heart: Reworks](https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx) | 4:02 | 2022-09-20 |  |
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2021-12-22 |  |
 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 | 2021-12-22 | 2022-06-25 |
@@ -90,13 +91,14 @@
 | [Seiza](https://open.spotify.com/track/3LthWqBoIUpReucHmhf4Zr) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Singing Bowls And Music Meditation](https://open.spotify.com/album/039njQFCznTzhINn5jN1aa) | 2:22 | 2022-02-04 |  |
 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 | 2022-04-21 |  |
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2021-12-22 |  |
+| [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 | 2022-09-30 |  |
 | [Slow](https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Slow](https://open.spotify.com/album/1wNUZDyBD23Omaly7HaOql) | 2:40 | 2021-12-22 |  |
 | [So Far From Earth](https://open.spotify.com/track/4LUjaGIUsdxaWz5CFtj0u9) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter Two](https://open.spotify.com/album/5aAUw2eurzQtThb2g4dDvr) | 3:09 | 2021-12-22 |  |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Moon Dreaming](https://open.spotify.com/artist/4nJRn0hxXlJXyP9heK1nj2) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2021-12-22 |  |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-03-29 |  |
 | [Song From The Forest](https://open.spotify.com/track/2PYSC1SzcITaCVhwQvJlrz) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 2](https://open.spotify.com/album/25ibO5DvKJNaFRAO6qVG49) | 3:44 | 2021-12-22 |  |
 | [Stills](https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Stills](https://open.spotify.com/album/0dcqSIGN8na4KTTDlNYm3O) | 2:20 | 2021-12-22 |  |
-| [Sunrise Glory](https://open.spotify.com/track/1jAENgcKZknON4aQSvr4Be) | [Laksmi Sand](https://open.spotify.com/artist/7H5gwCLGNCQ8guLmXFdoJy) | [Laksmi Sand](https://open.spotify.com/album/4zERgFjOw6RNdbpGBeI4EO) | 2:32 | 2021-12-22 |  |
+| [Sunrise Glory](https://open.spotify.com/track/1jAENgcKZknON4aQSvr4Be) | [Laksmi Sand](https://open.spotify.com/artist/7H5gwCLGNCQ8guLmXFdoJy) | [Laksmi Sand](https://open.spotify.com/album/4zERgFjOw6RNdbpGBeI4EO) | 2:32 | 2021-12-22 | 2022-10-01 |
 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 | 2021-12-22 |  |
 | [Svítání](https://open.spotify.com/track/0uA3VsjMlOtOD805k4hdZw) | [Lois Haas](https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5) | [Svítání](https://open.spotify.com/album/5cT9er9WCaNLhMllt5D1SJ) | 3:13 | 2021-12-22 |  |
 | [The Enigma of Consciousness](https://open.spotify.com/track/3S7oZhdCE1Pyn9yMugRQIO) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/7gUJEj7nDARz9qIOTLyLU8) | 3:14 | 2021-12-22 | 2022-07-29 |

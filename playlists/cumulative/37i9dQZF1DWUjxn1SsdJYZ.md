@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Brothers
 
-258 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+259 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [HARVEY DENT](https://open.spotify.com/track/3Jyc5O21H7tONGABhOasF9) | [Mitchos Da Menace](https://open.spotify.com/artist/4N9eOW77jpcMTy4qt2smkg) | [HARVEY DENT](https://open.spotify.com/album/06qEkV9pvpddKfeoCOksjI) | 3:12 | 2022-03-21 | 2022-08-26 |
 | [HBK](https://open.spotify.com/track/5BQrvs3AkPzy9bp1Jv8dDr) | [KIDLOCK](https://open.spotify.com/artist/3l9ICymWAwODq7mFWBut8s) | [HBK](https://open.spotify.com/album/5a7pUSMFNhMWGB4cDGTduT) | 2:12 | 2022-03-21 | 2022-06-17 |
 | [HEARTBREAK](https://open.spotify.com/track/1gP57mFKlNNMT1DhwlN8mF) | [Yeloboi Tommy](https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa) | [HEARTBREAK](https://open.spotify.com/album/7l6IMweJV2ZNDkfUFRfYzr) | 2:22 | 2022-03-21 | 2022-05-11 |
+| [HEARTLESS](https://open.spotify.com/track/7hBvKINP7pM0MWBBD1eXVF) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [HEARTLESS](https://open.spotify.com/album/1DEOv4NMWgsrW0SzJ9JgFj) | 3:00 | 2022-09-30 |  |
 | [Hit My Line](https://open.spotify.com/track/3pWyjL4tP35kcMUhxEyaQP) | [Jono](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR), [Jose Poly](https://open.spotify.com/artist/0efNl355u2tjhp8oo3EMy0) | [Hit My Line](https://open.spotify.com/album/3rv3dFnCgjEXheaE5mN614) | 2:43 | 2022-04-14 | 2022-07-05 |
 | [HoodBars](https://open.spotify.com/track/6rtXSNFe76po3VuIhHgzqU) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [HoodBars](https://open.spotify.com/album/0xOz0dxi98L0BPZzyJy0qn) | 2:31 | 2022-03-21 | 2022-08-05 |
 | [HoodBars](https://open.spotify.com/track/4xEtZV7oNIjlr7XsPZdklQ) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [HoodBars](https://open.spotify.com/album/3o21gdPvDC1eSmbHpjClsN) | 2:39 | 2022-04-07 | 2022-08-05 |
@@ -191,7 +192,7 @@
 | [Relocate](https://open.spotify.com/track/7vYiIVj8fMlWuzKHomyNhr) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [Relocate](https://open.spotify.com/album/4bk2h0Z3jnTAhAoZQLA8cJ) | 3:59 | 2022-03-21 | 2022-06-17 |
 | [RICKY](https://open.spotify.com/track/2YXYSajbiZzJD5K49KUGon) | [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u) | [RICKY](https://open.spotify.com/album/4z94jJZUEw0ne7zNzozKLy) | 2:56 | 2022-04-07 |  |
 | [Riding](https://open.spotify.com/track/4ybxvjfoI326eAGZJE13oe) | [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Riding](https://open.spotify.com/album/6iB7lGpfYILPXEWAG1RtzV) | 2:45 | 2022-03-24 | 2022-09-23 |
-| [Riding](https://open.spotify.com/track/1VroX76EOk6I4qoqsCMH06) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Riding](https://open.spotify.com/album/1GII4E9XlbESfPKgTzwORg) | 2:43 | 2022-03-31 |  |
+| [Riding](https://open.spotify.com/track/1VroX76EOk6I4qoqsCMH06) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Riding](https://open.spotify.com/album/1GII4E9XlbESfPKgTzwORg) | 2:43 | 2022-03-31 | 2022-10-01 |
 | [RIDING](https://open.spotify.com/track/46Z99a3wscL05PsmZM4aiD) | [Tmk](https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP), [YXAN](https://open.spotify.com/artist/1vFU3dBPfEHrZOx9GAm3z9) | [RIDING](https://open.spotify.com/album/4ankxDU4aJ5S4wUgiBXQsF) | 3:14 | 2022-07-04 |  |
 | [Roll Like That](https://open.spotify.com/track/0Euv783XiK456k18nqtsan) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [Roll Like That](https://open.spotify.com/album/6riUfmF6kbbhJlrzFupyYP) | 3:29 | 2022-08-18 |  |
 | [Roll Up](https://open.spotify.com/track/6kAEQBj634Jjk6fHexnQor) | [Jamel](https://open.spotify.com/artist/39N2nBQbJoSC9cRt6jCCaG) | [Roll Up](https://open.spotify.com/album/1qNAoQrShYhTS7iQO9Mlpq) | 3:19 | 2022-06-13 |  |

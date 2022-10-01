@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,509 likes - 81 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,571 likes - 81 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 80 | [愛錠](https://open.spotify.com/track/567GpcEdlzyrjzWh4vfRzX) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:05 |
 | 81 | [オレンジサイダー](https://open.spotify.com/track/55EbssrpWwFpfeB9xqG6PP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rally Go Round](https://open.spotify.com/album/4n2lzLEgGWKrEkBUn0HGrn) | 4:29 |
 
-Snapshot ID: `MTY2Mjk5NDgwMCwwMDAwMDAwMDA3NjdiZDdhZTg5N2VjYTEyNjhiNzRjYWEzMzY4MjUx`
+Snapshot ID: `MTY2NDUyODY2MiwwMDAwMDAwMDE1ZjY4NWZlMDZkYjM2MWRhNTRmYzI2MzUwZDliOWZj`

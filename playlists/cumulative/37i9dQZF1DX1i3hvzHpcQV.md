@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Ponniyin Selvan 1
 
-76 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
+78 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/08qCykpFzLPE8OJvwnUnl8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,9 @@
 | [Bullet Song](https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2) | 3:57 | 2022-08-05 |  |
 | [Chellamma](https://open.spotify.com/track/7fdsoKCtpx2hYXDRMoActW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Doctor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVOaTioI70p4A36YtSDbY) | 3:56 | 2022-06-06 |  |
 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 | 2021-11-15 | 2022-06-07 |
+| [Chola Chola](https://open.spotify.com/track/27nzJVsvXqXyeMIcVxvB54) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [VM Mahalingam](https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 3:39 | 2022-09-30 |  |
 | [Cute Ponnu](https://open.spotify.com/track/1Bpvh9xYlcxHkWJMQuiNiA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Cute Ponnu \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/7fVDf5Unepx5UYSruu3xWw) | 4:35 | 2021-11-20 | 2022-07-22 |
+| [Devaralan Aattam](https://open.spotify.com/track/1O5AqyUHm8vH8XGr173ugY) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 4:33 | 2022-09-30 |  |
 | [Dippam Dappam \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/2vkNA9I029dTwX0y6d59Sc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Dippam Dappam \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2ONwgvLKEYR7wn8dfoX9yE) | 3:29 | 2022-04-22 |  |
 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 | 2021-11-15 |  |
 | [Evanda Enakku Custody](https://open.spotify.com/track/64NPSUK9QT49jEDKl3FK1a) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vMs40ZOP7MVOfpf4eu6Lh) | 3:32 | 2022-04-26 |  |

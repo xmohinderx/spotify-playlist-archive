@@ -483,7 +483,7 @@
       ],
       "date_added": "2019-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 309840,
       "name": "Anatolia",
       "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 240144,
       "name": "Aye Aye",
       "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
@@ -1339,6 +1339,24 @@
       "duration_ms": 427017,
       "name": "Circles - Sascha Cawa Remix",
       "url": "https://open.spotify.com/track/4VIMeWrsAMDJkvxyy8fGlK"
+    },
+    {
+      "album": {
+        "name": "Citaro",
+        "url": "https://open.spotify.com/album/3iyjWU3JoS62LmjWfHn1M3"
+      },
+      "artists": [
+        {
+          "name": "Qalander",
+          "url": "https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "Citaro",
+      "url": "https://open.spotify.com/track/2e2eg2gqeutT0wmdNEAOsq"
     },
     {
       "album": {
@@ -2622,6 +2640,24 @@
     },
     {
       "album": {
+        "name": "Sayo EP",
+        "url": "https://open.spotify.com/album/0PnS7YDXmt2qRdLU1RbdSV"
+      },
+      "artists": [
+        {
+          "name": "Dandara",
+          "url": "https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426752,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/54niOPlsyPmDmEBEJJyTU5"
+    },
+    {
+      "album": {
         "name": "Hypnos",
         "url": "https://open.spotify.com/album/6MCNpLk6dvP47hq2JZ3cxX"
       },
@@ -2983,6 +3019,24 @@
       "duration_ms": 362411,
       "name": "Kidz of Tibet",
       "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
+    },
+    {
+      "album": {
+        "name": "Kinana",
+        "url": "https://open.spotify.com/album/4XDWNwgH9XzcSs3dauolyV"
+      },
+      "artists": [
+        {
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376551,
+      "name": "Kinana",
+      "url": "https://open.spotify.com/track/7I2EDiR6JcLhHtt54bpSRh"
     },
     {
       "album": {
@@ -3811,7 +3865,7 @@
       ],
       "date_added": "2019-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 388477,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/79HMJ5AO1qCA4JLZAsrM5j"

@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Allison Russell
 
-333 songs - 20 hr 20 min - [published](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
+334 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Coming to Get You Nowhere](https://open.spotify.com/track/4aJJPcByqcSwo9MARos0kL) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4) | 3:20 | 2021-03-05 | 2022-07-29 |
 | [Cover Me](https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ) | [Kim Taylor](https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP) | [Songs of Instruction](https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf) | 4:43 | 2021-03-05 | 2022-07-01 |
 | [Crosshairs](https://open.spotify.com/track/7qIt6ymGZPn8DWVtv1DcMI) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 4:03 | 2021-03-05 | 2022-09-17 |
-| [Dead and Gone](https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 4:49 | 2021-03-05 |  |
+| [Dead and Gone](https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 4:49 | 2021-03-05 | 2022-10-01 |
 | [Dead and Gone](https://open.spotify.com/track/7JV6GAMwFGsVFD8ilBuAjF) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/0xLVuelF4HRJCKrrucxIx1) | 4:49 | 2021-03-05 | 2022-07-29 |
 | [Deep Dark Below](https://open.spotify.com/track/4UT2LGBeSW7dRIiUPyYyrd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Down Fell the Doves](https://open.spotify.com/album/6DVHMSBPHdJ42Okvp5QJ9X) | 3:21 | 2021-03-05 | 2022-03-06 |
 | [Deer Creek Canyon](https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [Deer Creek Canyon](https://open.spotify.com/album/0BwzPjT3gChyxVmQYzGvzK) | 3:18 | 2021-03-05 |  |
@@ -159,6 +159,7 @@
 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 | 2021-03-05 |  |
 | [If I Were a Bluebird](https://open.spotify.com/track/156t2rQgsjdRngsgcmMF5J) | [Linda Thompson](https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6) | [Won't Be Long Now](https://open.spotify.com/album/0Qj68gI1S8lFNS893sxY2Q) | 6:50 | 2021-03-05 | 2022-07-27 |
 | [If Wishes Were Horses](https://open.spotify.com/track/4x5gOf3f0asSRCZh0vQ6b0) | [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Crowd Favorites](https://open.spotify.com/album/7v0niSkEWiYUo1Jsm6IKVf) | 2:34 | 2021-03-05 | 2022-07-29 |
+| [If Wishes Were Horses](https://open.spotify.com/track/2nA1lz23dIfkjpMPnGKKyg) | [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Silver And Gold](https://open.spotify.com/album/547VMzLctlE3tqZ2TpyPOi) | 2:36 | 2021-03-05 |  |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-03-08 |  |
 | [Iowa](https://open.spotify.com/track/6tf54eSvGOXca5Ri2yaES8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [Mortal City](https://open.spotify.com/album/2JeEoqmUncDEd8ne7O5WqE) | 4:47 | 2021-03-05 | 2022-07-29 |
 | [Iowa \(Traveling, Pt\. 3\)](https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [Mortal City](https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG) | 4:47 | 2021-03-05 |  |

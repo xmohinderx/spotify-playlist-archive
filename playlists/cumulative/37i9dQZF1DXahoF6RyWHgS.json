@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246440,
+      "name": "Ag\u00fcita de Manantial",
+      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+    },
+    {
+      "album": {
         "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
         "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
       },
@@ -831,7 +849,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 305906,
       "name": "El P\u00e1jaro C\u00fa - Live",
       "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"

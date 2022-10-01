@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi hits with AP Dhillon
 
-142 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+143 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2022-05-29 |  |
 | [Champagne](https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:02 | 2022-05-29 |  |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2022-05-29 |  |
-| [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-05-29 |  |
+| [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-05-29 | 2022-10-01 |
+| [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/track/44g0ftxbp0OAgAXK28ltHj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/album/4mF6BF98nJlozyGZPLbfCk) | 3:25 | 2022-09-30 |  |
 | [Chithiyaan](https://open.spotify.com/track/36T47GIlXspprLND3cJKqT) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/5XDyPkPyOSt6ahOZ3CP1vi) | 3:18 | 2022-07-28 |  |
 | [Chithiyaan](https://open.spotify.com/track/7HRvfjNicVkQnohrpOvjjL) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/0q5ukWwsWsMiAX18I6D3zK) | 3:18 | 2022-05-29 | 2022-07-29 |
 | [Coka 2.0 \(From "Liger"\)](https://open.spotify.com/track/6TtNVOFQUbQDUbTQwdILH1) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Lijo George\-Dj Chetas](https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Coka 2.0 \(From "Liger"\)](https://open.spotify.com/album/4HHY31rL3PutmhdbuIhzmK) | 2:46 | 2022-08-12 | 2022-08-20 |

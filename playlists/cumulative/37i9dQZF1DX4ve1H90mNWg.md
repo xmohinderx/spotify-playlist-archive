@@ -2,9 +2,9 @@
 
 ### [Ripple Effect: Texas](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
-> Texas music breaking waves\. Cover, Teezo Don Toliver
+> Texas music breaking waves\. Cover, DeWayne
 
-269 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+271 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 | 2022-02-18 | 2022-08-06 |
 | [Happy](https://open.spotify.com/track/3hr0rTdFr1Go0IJ39ceRdn) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Demons 2 \(Deluxe\)](https://open.spotify.com/album/5TqNKKbtYDlB79q3bVRWsB) | 2:16 | 2022-09-24 |  |
 | [Happy](https://open.spotify.com/track/6FRIqrtV9CxN1phJNRf5JI) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Happy](https://open.spotify.com/album/3HOFHbFPuc9EivNvAE8elD) | 2:16 | 2022-07-22 | 2022-09-25 |
+| [Head On](https://open.spotify.com/track/3Qmhf73ZZLK0GF7hALvLR9) | [Billyracxx](https://open.spotify.com/artist/6S4PaG0wJvZOUPxbnrvN4O) | [Head On](https://open.spotify.com/album/37ez6y6YpPdDbsVcv47Lux) | 4:09 | 2022-09-30 |  |
 | [Heaven Is Everywhere](https://open.spotify.com/track/0TtBZXGYlOmyTXVEXewJ9j) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Desmond's Song \(feat\. Tobe Nwigwe\)](https://open.spotify.com/album/1RQ3maCeZZ2a4bUXrcX4ct) | 3:54 | 2022-04-01 | 2022-04-16 |
 | [Hello \(with Saucy Santana\)](https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Hello \(with Saucy Santana\)](https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9) | 2:48 | 2022-02-18 | 2022-03-18 |
 | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12) | 3:41 | 2022-04-29 | 2022-09-10 |
@@ -212,6 +213,7 @@
 | [Slim Waist](https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Slim Waist](https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH) | 2:48 | 2022-02-25 | 2022-04-29 |
 | [Slow Down](https://open.spotify.com/track/4mnjcZTs5JRBE04RUovhzK) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG) | [Slow Down](https://open.spotify.com/album/28mqydM3yUl1FTj8gWmYgE) | 2:10 | 2022-05-13 | 2022-05-21 |
 | [Smile](https://open.spotify.com/track/1ahN0hS1fPp3t5dIUrcfh8) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Sauce Beach Florida](https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo) | 3:45 | 2022-08-26 | 2022-09-03 |
+| [So Long](https://open.spotify.com/track/2RPmKrblQaklOqBW3r167l) | [Asiaa G](https://open.spotify.com/artist/77eYbUDOShILcXKy858uHz) | [So Long](https://open.spotify.com/album/1lvcgIEWRFzToRE74laFZN) | 3:10 | 2022-09-30 |  |
 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2022-09-02 |  |
 | [Southside](https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [Southside](https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo) | 3:21 | 2022-08-19 |  |
 | [Southside Royalty Freestyle \(feat\. Sauce Walka, Big Pokey, Lil Keke & Mike D\)](https://open.spotify.com/track/27Wwwbdh9pKL9n23FOJH9z) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Lil’ Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8), [Mike D](https://open.spotify.com/artist/7ym7cDCdavUZqNufxIfHwY) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 4:03 | 2022-08-12 |  |

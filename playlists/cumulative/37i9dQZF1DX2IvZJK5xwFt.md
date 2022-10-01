@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Paramore
 
-216 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+217 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-19 |  |
 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 | 2022-05-06 | 2022-07-29 |
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-07-07 | 2022-08-26 |
+| [find my way](https://open.spotify.com/track/3c522rqTXOm2gSK2OrxsTh) | [mididuck](https://open.spotify.com/artist/6mpI54w7dPsRHzMAvXPe5W), [blindboy](https://open.spotify.com/artist/4iU4uZYn7WL00OQ23Ikj6t), [Sofuu](https://open.spotify.com/artist/11cmY8UiaG76EOdH7d37Mo) | [find my way](https://open.spotify.com/album/3Z33HPLgGhnOdPIxMf07NX) | 3:20 | 2022-09-29 |  |
 | [Fire It Up](https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Fire It Up](https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF) | 3:19 | 2022-05-19 | 2022-06-03 |
 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-15 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-12 | 2022-05-27 |

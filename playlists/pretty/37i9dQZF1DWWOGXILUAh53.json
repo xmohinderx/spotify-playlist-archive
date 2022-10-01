@@ -1,69 +1,13 @@
 {
   "description": "The hottest new pop with the all the drops. Cover: ella jane",
-  "num_followers": 97123,
+  "num_followers": 97179,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNzEwMCwwMDAwMDAwMDQwOTUxODFiODYxNWMyY2U5MTZiODVmMTYzYmEyMDli",
+  "snapshot_id": "MTY2NDUxMTM4NCwwMDAwMDAwMDk1Njc1ZTE5YjY2ZDM2NmMzMTFkOGU1MTE2NTI5MTU5",
   "tracks": [
-    {
-      "added_at": "2022-09-23 04:00:31",
-      "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN"
-      },
-      "artists": [
-        {
-          "name": "ella jane",
-          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
-        }
-      ],
-      "duration_ms": 210590,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra"
-    },
-    {
-      "added_at": "2022-09-23 04:22:46",
-      "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": "2022-09-23 04:25:00",
-      "album": {
-        "name": "Rockstar Baby (feat. Mougleta)",
-        "url": "https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
-        }
-      ],
-      "duration_ms": 174858,
-      "name": "Rockstar Baby (feat. Mougleta)",
-      "url": "https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p"
-    },
     {
       "added_at": "2022-09-23 04:25:00",
       "album": {
@@ -89,20 +33,56 @@
       "url": "https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-30 04:16:24",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 159608,
-      "name": "See You In My Dreams",
-      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Don't Cry",
+        "url": "https://open.spotify.com/album/5fP4Ys7OD25Tn0fKmGXFbV"
+      },
+      "artists": [
+        {
+          "name": "LODATO",
+          "url": "https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv"
+        },
+        {
+          "name": "Ally Ahern",
+          "url": "https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM"
+        }
+      ],
+      "duration_ms": 191132,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/5X107YxNbBbQBn6ofr7OPR"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "PCH (Pretty Cold Heart)",
+        "url": "https://open.spotify.com/album/2oGlz1scWCU0uehlNA8fJv"
+      },
+      "artists": [
+        {
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+        }
+      ],
+      "duration_ms": 167571,
+      "name": "PCH (Pretty Cold Heart)",
+      "url": "https://open.spotify.com/track/0atvEjBXJ87W2ets3Lkdrh"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -123,6 +103,78 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Rode All Night",
+        "url": "https://open.spotify.com/album/24LZ8MlgAfuhYnvSQOG3Uj"
+      },
+      "artists": [
+        {
+          "name": "L'FREAQ",
+          "url": "https://open.spotify.com/artist/6yIxwhGx8Mq6i1WwgRSfkQ"
+        }
+      ],
+      "duration_ms": 245449,
+      "name": "Rode All Night",
+      "url": "https://open.spotify.com/track/0SEwBkIleqbxCNKqwsbTMF"
+    },
+    {
+      "added_at": "2022-09-23 04:22:46",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
+    {
+      "added_at": "2022-09-23 04:00:31",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "duration_ms": 210590,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -149,40 +201,76 @@
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+      "duration_ms": 159608,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
     },
     {
-      "added_at": "2022-09-23 04:00:31",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "CROSSOVER (Deluxe)",
-        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+        "name": "Extremes",
+        "url": "https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj"
       },
       "artists": [
         {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
         }
       ],
-      "duration_ms": 177483,
-      "name": "day to day",
-      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
+      "duration_ms": 149508,
+      "name": "Extremes",
+      "url": "https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM"
+    },
+    {
+      "added_at": "2022-09-23 04:25:00",
+      "album": {
+        "name": "Rockstar Baby (feat. Mougleta)",
+        "url": "https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "duration_ms": 174858,
+      "name": "Rockstar Baby (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/1YcrrT5zuAkzJx0ztbwdsV"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 186810,
+      "name": "001",
+      "url": "https://open.spotify.com/track/4E9FiSTNbDe7bPjwuKvhxc"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -361,26 +449,6 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "NOTED...EP",
-        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Less I Know",
-      "url": "https://open.spotify.com/track/1piIGIhnGRiXQ360hhh8Mr"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Don't Hurt Me (What Is Love)",
@@ -419,26 +487,6 @@
       "duration_ms": 168117,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/09qHlN2iSzm0JPLXYiVkKM"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 175743,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -519,26 +567,6 @@
       "duration_ms": 171880,
       "name": "Twennies",
       "url": "https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "NOTED...EP",
-        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Hastings",
-          "url": "https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO"
-        }
-      ],
-      "duration_ms": 175724,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/7nvwVMGojdHqrSRCaxMFv9"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -671,26 +699,6 @@
       "duration_ms": 204791,
       "name": "MADELINE",
       "url": "https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "What Is Real / If You Loop It, They Will Come",
-        "url": "https://open.spotify.com/album/2PowNQehJv4CYSDB8gLM0S"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        },
-        {
-          "name": "V\u00f6k",
-          "url": "https://open.spotify.com/artist/7oDTyDfeA2JE2jUZztkBj8"
-        }
-      ],
-      "duration_ms": 276562,
-      "name": "What Is Real - Edit",
-      "url": "https://open.spotify.com/track/1t5qLStBx9Jx3j1x7D4k4K"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -873,30 +881,6 @@
       "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Imposter",
-        "url": "https://open.spotify.com/album/1Qd2mu075NfrpfnjzjuLiK"
-      },
-      "artists": [
-        {
-          "name": "Zs\u00e1 Zs\u00e1",
-          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "ALOTT",
-          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Imposter",
-      "url": "https://open.spotify.com/track/5eVafnPnRDMN5ouLEX48Gn"
-    },
-    {
       "added_at": "2022-08-05 04:02:00",
       "album": {
         "name": "HISTORY",
@@ -1045,22 +1029,6 @@
       "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "The Character",
-        "url": "https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 142823,
-      "name": "Bad Energy",
-      "url": "https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Deep Down (feat. Never Dull)",
@@ -1153,22 +1121,6 @@
       "url": "https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF"
     },
     {
-      "added_at": "2022-07-22 04:05:00",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 203061,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Lost Without You (with Dean Lewis)",
@@ -1187,26 +1139,6 @@
       "duration_ms": 203609,
       "name": "Lost Without You (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 132417,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1263,22 +1195,6 @@
       "duration_ms": 182799,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1375,26 +1291,6 @@
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "pogo",
-        "url": "https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "pogo",
-      "url": "https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f"
     },
     {
       "added_at": "2022-07-15 04:00:00",

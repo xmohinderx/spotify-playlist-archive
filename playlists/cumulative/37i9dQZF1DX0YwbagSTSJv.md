@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-127 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+128 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Halcyon Spirits \- Piano Version](https://open.spotify.com/track/11dnGiLu18HIRfvv3R4KSC) | [Asabea Wheeler](https://open.spotify.com/artist/48ZJv6xlsgG8EdgJt4SOBZ) | [Halcyon Spirits \- Piano Version](https://open.spotify.com/album/54cADoFNfqePV34OpI3QiR) | 2:42 | 2021-12-23 |  |
 | [Healing](https://open.spotify.com/track/3GNlFyD9YUqLJy2u7W8h2M) | [Dawn Sankrit](https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU) | [Healing](https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8) | 2:57 | 2021-12-23 |  |
 | [Healing](https://open.spotify.com/track/6mJ76GdI4fm2ThsC4strZf) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Healing](https://open.spotify.com/album/66EpFlO3P3shI4Rirpds8U) | 3:36 | 2021-12-23 | 2022-08-16 |
+| [Heart](https://open.spotify.com/track/6Ju1cRnaWq0PU3NDFuUths) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:32 | 2022-09-30 |  |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2021-12-23 | 2022-09-24 |
 | [High Pasture](https://open.spotify.com/track/4gPAwN97TyeEc9rUUkrIpg) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Archives \- Heights](https://open.spotify.com/album/7ih4Ho4K6pFp9TNhh0COGJ) | 8:19 | 2021-12-23 |  |
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2021-12-23 |  |

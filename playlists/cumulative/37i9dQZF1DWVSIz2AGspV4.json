@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Al Farasha",
+        "url": "https://open.spotify.com/album/3Q8tXahgguSwK5uQYXZ7hF"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191606,
+      "name": "Al Farasha",
+      "url": "https://open.spotify.com/track/7MsVIDqNpBdHtDD5BmMZHL"
+    },
+    {
+      "album": {
         "name": "Al Hob Ihtmam",
         "url": "https://open.spotify.com/album/2q7wM4nFdJAGK2Yxv5pm9E"
       },
@@ -1141,6 +1159,24 @@
       "duration_ms": 213846,
       "name": "Enta Gheir",
       "url": "https://open.spotify.com/track/54FelQ6xi1QjP3PcsKB8Eb"
+    },
+    {
+      "album": {
+        "name": "Enta W Thamrak",
+        "url": "https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226429,
+      "name": "Enta W Thamrak",
+      "url": "https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4"
     },
     {
       "album": {

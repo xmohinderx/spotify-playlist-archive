@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: El Cuarteto De Nos.
 
-261 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/56SMHx11i5aVGx2LZ3nkds)
+262 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/56SMHx11i5aVGx2LZ3nkds)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2022-07-08 |  |
 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 | 2022-05-20 |  |
 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 | 2022-07-08 |  |
+| [Korea](https://open.spotify.com/track/4xP6pfadCFsCE1OA22BgZG) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Korea](https://open.spotify.com/album/2yvW470Y2oPtTKUA4iWWQy) | 5:09 | 2022-09-30 |  |
 | [La Casa de al Lado](https://open.spotify.com/track/6JKB2tpxXs0ZtXo3cYx3u8) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Electro Acustica Mente](https://open.spotify.com/album/4pQIQbs8V5pAfkcRthV21Z) | 5:39 | 2022-05-20 | 2022-07-27 |
 | [La Ciudad Sin Alma](https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [La Ciudad Sin Alma](https://open.spotify.com/album/5fKFrKFHXp0ZDaGSZ2YgQx) | 3:51 | 2022-07-01 | 2022-07-28 |
 | [La Doctora II](https://open.spotify.com/track/4DoJ4n5pnwDZKAuTEyHCUO) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [La Doctora II](https://open.spotify.com/album/1ZHX4z9901fRhJ5obRea9P) | 5:37 | 2022-05-20 | 2022-07-29 |
@@ -238,7 +239,7 @@
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 | 2022-07-08 |  |
 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 | 2022-07-08 |  |
 | [Tormenta](https://open.spotify.com/track/52Dq7xuXXP66zCJLTf94K8) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tormenta](https://open.spotify.com/album/0TukmDirFYnYRN5OehV4CO) | 3:57 | 2022-05-20 | 2022-07-29 |
-| [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 | 2022-05-20 |  |
+| [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 | 2022-05-20 | 2022-10-01 |
 | [Tras la Nube](https://open.spotify.com/track/6pcEluKvF7DmJOeo4UOy7Q) | [Spuntone & Mendaro](https://open.spotify.com/artist/3KQCegrPR9dS6bzmYmGAte) | [Tras la Nube](https://open.spotify.com/album/5WGQmbY3i708oU0xoY6hw5) | 3:40 | 2022-07-01 | 2022-07-03 |
 | [Trátame Suavemente \- Remasterizado 2007](https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:20 | 2022-05-20 |  |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2022-05-20 | 2022-07-29 |

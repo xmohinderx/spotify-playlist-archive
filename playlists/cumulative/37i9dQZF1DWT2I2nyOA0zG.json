@@ -736,6 +736,28 @@
     },
     {
       "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "album": {
         "name": "Fireworks",
         "url": "https://open.spotify.com/album/5kQTGFFvwJpdgU13VpMggp"
       },
@@ -1103,7 +1125,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192784,
       "name": "I Like (feat. WizKid)",
       "url": "https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851"
@@ -1697,6 +1719,36 @@
       "duration_ms": 225767,
       "name": "My Size",
       "url": "https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ"
+    },
+    {
+      "album": {
+        "name": "Ngisize Nami",
+        "url": "https://open.spotify.com/album/5DTWzDShfa07dCTqMGYsmy"
+      },
+      "artists": [
+        {
+          "name": "DJ Ngwazi",
+          "url": "https://open.spotify.com/artist/1G8HHPk0dZaahLJQPySFCi"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "Casswell P",
+          "url": "https://open.spotify.com/artist/13TUuvzi6FAkiA5F9MiYF8"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310409,
+      "name": "Ngisize Nami",
+      "url": "https://open.spotify.com/track/4fyfjQNKxLTKBid9m3XMQc"
     },
     {
       "album": {
@@ -2587,7 +2639,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 164837,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"

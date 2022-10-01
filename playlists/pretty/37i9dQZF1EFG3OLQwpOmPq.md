@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 30 | [dear whatever](https://open.spotify.com/track/4kDVrzz871IGFeYwdweUYJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [dear whatever](https://open.spotify.com/album/5lxeZj31ST56LJXKMWQpvF) | 2:29 |
 | 31 | [routine](https://open.spotify.com/track/05HBUzEgUCBc89i7pshnLK) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [routine](https://open.spotify.com/album/717BWqHWne4kvOvFaiZm8d) | 3:08 |
 | 32 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 |
-| 33 | [wash your hands](https://open.spotify.com/track/2jpM1xm3XkQRsPyQdcTbYM) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/4Gw0Ny1PuwGrKYmmHT8ZIL) | 2:32 |
-| 34 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 33 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 34 | [wash your hands](https://open.spotify.com/track/2jpM1xm3XkQRsPyQdcTbYM) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/4Gw0Ny1PuwGrKYmmHT8ZIL) | 2:32 |
 | 35 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
 | 36 | [icy love](https://open.spotify.com/track/56M81fLMWQMyTt6bZiEmT8) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:17 |
 | 37 | [california queen](https://open.spotify.com/track/56PlKUHEtipIDiHbcZkU50) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:36 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 71 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 72 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc3NDE3MzksMDAwMDAwMDAxZWIyNGMxZjUzMzM3YzQzNzRmNjU3NjEyMmU0YTQxNg==`
+Snapshot ID: `Mjc3NDMxMTksMDAwMDAwMDBjMzA5ZjhiNGJhZjZjMmVhODI2Mzc2ODA0MzAxMjFhMQ==`

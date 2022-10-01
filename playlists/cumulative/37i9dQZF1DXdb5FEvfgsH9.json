@@ -652,6 +652,24 @@
     },
     {
       "album": {
+        "name": "Forever Blue",
+        "url": "https://open.spotify.com/album/1GzikQt3Pwt8jzx1SO9Wwt"
+      },
+      "artists": [
+        {
+          "name": "Starletta",
+          "url": "https://open.spotify.com/artist/72ULrMZm9TVx0SDrpq16Fi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Forever Blue",
+      "url": "https://open.spotify.com/track/6UmDgEOlz63QgZFPn0Xn9K"
+    },
+    {
+      "album": {
         "name": "Get It Together",
         "url": "https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI"
       },

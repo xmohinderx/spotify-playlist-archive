@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marion Raw.",
-  "num_followers": 30842,
+  "num_followers": 30856,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGZiZWQzNTQyYjQwMzg4NDE0ZTM5YTNhMGU2MWRmMzky",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGJmYTVhOTIwNmMxZDAxODZlZWU3MDUxM2I4NmQ2ZDcx",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -203,18 +203,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
+        "name": "Avi\u00f3n",
+        "url": "https://open.spotify.com/album/3PFOOi8DQZ6ai84QNhniAF"
       },
       "artists": [
         {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+          "name": "No Lo Soporto",
+          "url": "https://open.spotify.com/artist/44CVweAvsyk98oKSSDa9IQ"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 296914,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
+      "duration_ms": 225732,
+      "name": "Nunca ir\u00e9",
+      "url": "https://open.spotify.com/track/2h7uFA27o5TQiKRN9499Fg"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Avi\u00f3n",
-        "url": "https://open.spotify.com/album/3PFOOi8DQZ6ai84QNhniAF"
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
       },
       "artists": [
         {
-          "name": "No Lo Soporto",
-          "url": "https://open.spotify.com/artist/44CVweAvsyk98oKSSDa9IQ"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 225732,
-      "name": "Nunca ir\u00e9",
-      "url": "https://open.spotify.com/track/2h7uFA27o5TQiKRN9499Fg"
+      "duration_ms": 296914,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Somos 2",
-        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
+        "name": "Seremos Primavera en Vivo en La Ballena Azul",
+        "url": "https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv"
       },
       "artists": [
         {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 152264,
-      "name": "Somos 2",
-      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
+      "duration_ms": 298205,
+      "name": "Sorojchi - En Vivo en La Ballena Azul",
+      "url": "https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Seremos Primavera en Vivo en La Ballena Azul",
-        "url": "https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv"
+        "name": "Somos 2",
+        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
         }
       ],
-      "duration_ms": 298205,
-      "name": "Sorojchi - En Vivo en La Ballena Azul",
-      "url": "https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD"
+      "duration_ms": 152264,
+      "name": "Somos 2",
+      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Friends And Lovers",
-        "url": "https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf"
-      },
-      "artists": [
-        {
-          "name": "Las Kellies",
-          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
-        }
-      ],
-      "duration_ms": 252178,
-      "name": "Sugar Beat",
-      "url": "https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Suave",
         "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
       },
@@ -1319,22 +1303,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "2 Espinas",
-        "url": "https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV"
-      },
-      "artists": [
-        {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "2 Espinas",
-      "url": "https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Mujer Contra Mujer",
         "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
       },
@@ -1347,6 +1315,38 @@
       "duration_ms": 229373,
       "name": "Mujer Contra Mujer",
       "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Friends And Lovers",
+        "url": "https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf"
+      },
+      "artists": [
+        {
+          "name": "Las Kellies",
+          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
+        }
+      ],
+      "duration_ms": 252178,
+      "name": "Sugar Beat",
+      "url": "https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "2 Espinas",
+        "url": "https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "2 Espinas",
+      "url": "https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 240528,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 197493,
       "name": "Nada, Nadie",
       "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 240528,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "14:14",
-        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
-      },
-      "artists": [
-        {
-          "name": "MOY",
-          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
-        }
-      ],
-      "duration_ms": 191078,
-      "name": "14:14",
-      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Miedo, Amor y Vida - EP",
         "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 216857,
       "name": "La Oscuridad",
       "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "14:14",
+        "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
+      },
+      "artists": [
+        {
+          "name": "MOY",
+          "url": "https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V"
+        }
+      ],
+      "duration_ms": 191078,
+      "name": "14:14",
+      "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
     }
   ],
   "unique_name": "Rockeras",

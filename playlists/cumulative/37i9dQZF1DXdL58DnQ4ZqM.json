@@ -770,6 +770,24 @@
     },
     {
       "album": {
+        "name": "boom!!!",
+        "url": "https://open.spotify.com/album/2tofbzHkP5c933se96KuSX"
+      },
+      "artists": [
+        {
+          "name": "swedish beatballs",
+          "url": "https://open.spotify.com/artist/2eJN1cNXLWA4On1BUH5QUl"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122751,
+      "name": "boom!!!",
+      "url": "https://open.spotify.com/track/4S0bOkyqlnnRvnuzVJE3mP"
+    },
+    {
+      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/7gAsbwcqVhQJSDk7uypt8x"
       },
@@ -3481,6 +3499,28 @@
       "duration_ms": 256017,
       "name": "Late Night Kisses",
       "url": "https://open.spotify.com/track/50HuB1rHRDT0kH3pgHjBgw"
+    },
+    {
+      "album": {
+        "name": "Laying on the sofa",
+        "url": "https://open.spotify.com/album/5TQJMuAnP0zQTaDVZ8Ev82"
+      },
+      "artists": [
+        {
+          "name": "Amess",
+          "url": "https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc"
+        },
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Laying on the sofa",
+      "url": "https://open.spotify.com/track/76qnorICHxubSCjyt6KJmx"
     },
     {
       "album": {

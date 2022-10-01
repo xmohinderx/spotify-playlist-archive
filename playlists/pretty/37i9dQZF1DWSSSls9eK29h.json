@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 80946,
+  "num_followers": 81066,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGI4YmViNmRiZTk0Y2JlYzBmZjc5MjcyYmQxNDRkYzYx",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDkzYTBlZWFlZGEyMTg2NzdmNTI1NWZlN2Q3NDQ3NGQz",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Blue Touch",
-        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Fly Away (Thinking Of You)",
-      "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Love Is The Answer (Expanded)",
         "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 241373,
       "name": "Bridge Through Time",
       "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 246653,
+      "name": "Warm Weather - 12\" Version",
+      "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Pieces Of A Dream",
-        "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
+        "name": "Blue Touch",
+        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
       },
       "artists": [
         {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 246653,
-      "name": "Warm Weather - 12\" Version",
-      "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
+      "duration_ms": 230533,
+      "name": "Fly Away (Thinking Of You)",
+      "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Playing It Cool",
-        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 265253,
-      "name": "South Of Market",
-      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Urban Knights",
         "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 437133,
       "name": "Hearts Of Longing",
       "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Playing It Cool",
+        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 265253,
+      "name": "South Of Market",
+      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
     },
     {
       "added_at": "2020-08-19 00:00:21",

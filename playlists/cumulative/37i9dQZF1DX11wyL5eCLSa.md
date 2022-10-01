@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Austin TV en portada.
 
-166 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
+167 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Contour](https://open.spotify.com/track/3YY5FrLS9mnYOBnhr4uVoX) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Contour](https://open.spotify.com/album/7BBg5lA5vQOoiUWnrVWj86) | 3:44 | 2022-07-29 | 2022-09-07 |
 | [Contracorriente](https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Contracorriente](https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg) | 3:10 | 2021-12-17 |  |
 | [Corre Amor](https://open.spotify.com/track/3qDXOJ1JaK50yFq5GU0B6L) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/1YUAGs2PPckzt55aL9Tzdm) | 3:14 | 2021-12-17 | 2022-07-29 |
-| [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 | 2022-07-22 |  |
+| [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 | 2022-07-22 | 2022-10-01 |
 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 | 2022-08-13 |  |
 | [Cuenta Conmigo](https://open.spotify.com/track/1Gid2J2k7NAP2SE5N7a2Zs) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Estar Bien](https://open.spotify.com/album/2wiOiXYM1X9FxDIm2SG0bz) | 4:04 | 2022-04-22 | 2022-07-29 |
 | [Cuentas Claras \- With Pehuenche](https://open.spotify.com/track/4L82gzHNZlEGdlYgRJOJ7E) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Cuentas Claras \(With Pehuenche\)](https://open.spotify.com/album/0wg2lIFfR9kbL3huSVHLjU) | 3:34 | 2022-07-22 | 2022-07-30 |
@@ -83,6 +83,7 @@
 | [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 | 2022-02-24 |  |
 | [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 | 2022-09-02 |  |
 | [La Última Vez](https://open.spotify.com/track/521P7D3Rg0qIddJYHEtYrm) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [La Última Vez](https://open.spotify.com/album/0ChN0eEv5QQ312SZdNwLIz) | 3:37 | 2022-02-25 | 2022-08-19 |
+| [Lastímame](https://open.spotify.com/track/6bFrs6WlBhAXEk5vt9Me7f) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Lastímame](https://open.spotify.com/album/1vQ73pnVX7bZqlsOstIr1h) | 3:34 | 2022-09-30 |  |
 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 | 2021-12-17 | 2022-09-29 |
 | [Libertad](https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Libertad](https://open.spotify.com/album/0dq3J0IKSXF3wDPbmrWSz8) | 5:05 | 2022-09-28 |  |
 | [Limbo](https://open.spotify.com/track/34K4cEbvHMdkSZZwRNnDb3) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Limbo](https://open.spotify.com/album/5KPGHLKZmNQz5NSzwqIpHP) | 4:20 | 2022-09-02 | 2022-09-28 |
@@ -134,7 +135,7 @@
 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 | 2022-02-11 |  |
 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 | 2021-12-17 |  |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 | 2021-12-17 |  |
-| [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-08-09 |  |
+| [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-08-09 | 2022-10-01 |
 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 | 2022-05-04 |
 | [SATURADOS.](https://open.spotify.com/track/1xD2qhHRZ8OoWX0W5WhoDb) | [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [SATURADOS.](https://open.spotify.com/album/1awu6bROUZk9NE63huOT9e) | 2:27 | 2022-07-01 | 2022-07-15 |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-02-24 | 2022-08-01 |
@@ -158,7 +159,7 @@
 | [Transforma](https://open.spotify.com/track/6wBIOgxmVa68TxzBvROZnU) | [Pequeño Fénix](https://open.spotify.com/artist/0fuWp7kffdhZk9XrQdF7Sb) | [SUPERALMA](https://open.spotify.com/album/00aqqoS6QTBSnQmnoemdkf) | 4:04 | 2022-09-02 | 2022-09-28 |
 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 | 2022-09-02 |  |
 | [Triste Pop](https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Triste Pop](https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt) | 5:22 | 2022-09-03 | 2022-09-28 |
-| [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 | 2022-02-01 | 2022-09-29 |
+| [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 | 2022-02-01 |  |
 | [Ultramar](https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9), [Álamo Paraíso](https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4) | [Ultramar](https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE) | 4:24 | 2022-08-09 | 2022-08-19 |
 | [Un Manhattan](https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Belmont](https://open.spotify.com/album/797ZnganZpmTHcULejYwDt) | 2:48 | 2022-07-13 | 2022-07-30 |
 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 | 2022-07-22 | 2022-07-30 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-752 songs - 1 day 15 hr 13 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+753 songs - 1 day 15 hr 17 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Frikandel](https://open.spotify.com/track/0Jv4vQehjYPKvoHoITXRcE) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Frikandel](https://open.spotify.com/album/21A7EvkAtq6DmXjS6B1ijn) | 3:01 | 2022-04-09 | 2022-04-11 |
 | [Gabber](https://open.spotify.com/track/7koZO1FZjPl4HALThZwm76) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Gabber](https://open.spotify.com/album/6TVjZWr3beBYISjxe0oWbM) | 2:54 | 2021-09-19 | 2021-10-02 |
 | [Gabos](https://open.spotify.com/track/68eEgyThiurm8AOBis4lVh) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Gabos](https://open.spotify.com/album/3ubUjgaZWw5YCdxdv4GHqW) | 3:05 | 2022-05-07 | 2022-05-22 |
+| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-13 |
 | [Gebruik Me](https://open.spotify.com/track/7vdmxftpUdeBzOf6NXjm83) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Gebruik Me](https://open.spotify.com/album/7ALLtavRb1nP3PtquLI62y) | 3:24 | 2022-08-06 |  |
 | [Geen Hype](https://open.spotify.com/track/1CwhKXOiL4vyUcNYqo3dVF) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Geen Hype](https://open.spotify.com/album/0n3cR6iSVZ5AFwVrC58dnJ) | 3:08 | 2021-03-27\* | 2021-04-11 |
@@ -279,7 +280,7 @@
 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 | 2021-03-27\* | 2021-04-14 |
 | [Goud](https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Goud](https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2) | 3:22 | 2021-03-27\* | 2021-08-31 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-29 |
-| [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-07-03 |  |
+| [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-07-03 | 2022-10-01 |
 | [Grijs](https://open.spotify.com/track/64hayhfzodjwBrQcZ69SVp) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Grijs](https://open.spotify.com/album/5WIkuPDQFlfpV9l0tLNm70) | 3:00 | 2022-09-03 |  |
 | [Hallo](https://open.spotify.com/track/07wa4OYLExaJjgHWtdzniV) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/0LQQ5dNl5fW6mmsP9Fyk5r) | 2:11 | 2022-03-08 | 2022-07-31 |
 | [Hallo](https://open.spotify.com/track/3oRdBo7nH2CY9VeQOTgm7x) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/6QEgO7kSdee6FL4SPJ1sRX) | 2:12 | 2022-02-26 | 2022-03-09 |

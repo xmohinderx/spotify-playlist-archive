@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-107 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+108 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Vi Går Mot Höst](https://open.spotify.com/track/5n20UxoXkXC2lkTTay0Y75) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Vi Går Mot Höst](https://open.spotify.com/album/7qqwp5hM1P5RrZUt3gYIIb) | 1:58 | 2022-08-15 |  |
 | [Water Colors](https://open.spotify.com/track/7rpGOF9MwCP2Oaz9yDO452) | [Star Slide](https://open.spotify.com/artist/4tWKagNv3bHsJoLYD7vO1m) | [Water Colors](https://open.spotify.com/album/272XJrGegiXcXC5rA3yzek) | 3:02 | 2022-03-30 |  |
 | [Western Wishes Intro](https://open.spotify.com/track/476KeGkyl75OZKcHqRZPvf) | [Boxhead Ensemble](https://open.spotify.com/artist/516tPEDcawc8UNGdFZmWZn) | [The Unseen Hand: Music for Documentary Film](https://open.spotify.com/album/3KHpM4lpSW949zzlf9TjPM) | 2:49 | 2022-03-30 | 2022-08-24 |
+| [Wheels Of Time](https://open.spotify.com/track/79f1BWnoz0SzwpQVXjmtxX) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [Wheels Of Time](https://open.spotify.com/album/0w5QFggozxNROc5LqPjK7N) | 2:18 | 2022-09-30 |  |
 | [When we go](https://open.spotify.com/track/0AREwUN0iRNPjQxYGQf9BP) | [NYMK](https://open.spotify.com/artist/49kckQu5DktnBTpPlsJTDA) | [When we go](https://open.spotify.com/album/2Rrba97lDOHXALfvZSpRx7) | 3:27 | 2022-03-30 |  |
 | [Whispers](https://open.spotify.com/track/4i8k0moTL3u9w4TsT7Es5A) | [The Day Before Today](https://open.spotify.com/artist/7bpOMy71Wl6uiqIWXhQGOi) | [Whispers](https://open.spotify.com/album/6AdqX0VKoWgCO4EMPlJb2p) | 2:49 | 2022-03-30 |  |
 | [Wings](https://open.spotify.com/track/2lPCySGhdlWTnUWU4cbtQo) | [A House on the Hill](https://open.spotify.com/artist/6guLl7XQ3MXZoxBgbZXXM3) | [Wings](https://open.spotify.com/album/2MZzFLMncLZle4ZXlzqPTZ) | 2:46 | 2022-03-30 |  |

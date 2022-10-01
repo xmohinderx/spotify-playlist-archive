@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 139 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 139 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 24 | [What Took You So Long?](https://open.spotify.com/track/6WJtzSaXumGZ7pIa0z7QIP) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [A Girl Like Me](https://open.spotify.com/album/5E6op11XOQa3ErVR4oLKss) | 4:01 |
 | 25 | [I Love It](https://open.spotify.com/track/6g225JcOUd88PRslWGsRD3) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:50 |
 | 26 | [Guilty](https://open.spotify.com/track/7LAmyFCpDakQ3YL92EKE8t) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:41 |
-| 27 | [The One](https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:59 |
-| 28 | [When A Woman](https://open.spotify.com/track/6QVyM6TX78lTjERce8Uu7w) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 3:11 |
+| 27 | [When A Woman](https://open.spotify.com/track/6QVyM6TX78lTjERce8Uu7w) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 3:11 |
+| 28 | [The One](https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:59 |
 | 29 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 |
 | 30 | [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 |
 | 31 | [Heartbreak \(Make Me A Dancer\)](https://open.spotify.com/track/6caxigputNu7W9SXMTt31O) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make A Scene](https://open.spotify.com/album/78y25UZcWa7BugXNRVuXDl) | 3:28 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 79 | [Stay The Same](https://open.spotify.com/track/5Xh20CzoddxdZN0yoy6lbJ) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:48 |
 | 80 | [Battlestar](https://open.spotify.com/track/4WU919gMaUvTlR7xXQHjgN) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 4:07 |
 | 81 | [No Brakes](https://open.spotify.com/track/63gfejhYyJo1KhjJJ06wAt) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 4:02 |
-| 82 | [The Sea](https://open.spotify.com/track/7r0PLMmHLocjY4PiNaeKUx) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [The Sea](https://open.spotify.com/album/5XaJ2HgoLfKLdQ8SQ2uY1n) | 4:49 |
-| 83 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
+| 82 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
+| 83 | [The Sea](https://open.spotify.com/track/7r0PLMmHLocjY4PiNaeKUx) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [The Sea](https://open.spotify.com/album/5XaJ2HgoLfKLdQ8SQ2uY1n) | 4:49 |
 | 84 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
 | 85 | [Give And Take](https://open.spotify.com/track/33exaNQmkBIgcDh8hlYmHk) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:52 |
 | 86 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 117 | [Laisse les dire](https://open.spotify.com/track/6d5cZMU0YqgLvqIfhskVeq) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Laisse Les Dire](https://open.spotify.com/album/6tRsIFHli5G81iqqfDtQvw) | 2:34 |
 | 118 | [Connect](https://open.spotify.com/track/47MMhJCw8HIv5aOteBoTCI) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:10 |
 | 119 | [City Games](https://open.spotify.com/track/3M3I4n6ttwS6UnnIkYqMYw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Chocolate](https://open.spotify.com/album/7AHDFIYjqbv1R7xc3BLKWE) | 7:40 |
-| 120 | [Chemical](https://open.spotify.com/track/19KFdeU14iEhw3XpldfEND) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Run For Your Life](https://open.spotify.com/album/7EVFSwvyF8rGcb7oxCqChH) | 3:15 |
-| 121 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 |
+| 120 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 |
+| 121 | [Chemical](https://open.spotify.com/track/19KFdeU14iEhw3XpldfEND) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Run For Your Life](https://open.spotify.com/album/7EVFSwvyF8rGcb7oxCqChH) | 3:15 |
 | 122 | [Switch Me On](https://open.spotify.com/track/6nCa6qQomarOsxYbyuyIsl) | [Lovestoned](https://open.spotify.com/artist/0swDGRfKrPnLae05pY43UT) | [Rising Love](https://open.spotify.com/album/2neQHNP33XoCor6RRT664v) | 3:25 |
 | 123 | [Sophisticated Lady](https://open.spotify.com/track/1VOIXNuJp6zYcOaM282xev) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Word Up](https://open.spotify.com/album/24RkqLgyBPdNgpPYCfkFtt) | 2:43 |
 | 124 | [Take Control](https://open.spotify.com/track/6zMg2zHbQPUC5rshEyCMio) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:47 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 138 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 139 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `Mjc3NDE3MzMsMDAwMDAwMDBiMzUxZjJlYTVmMWY2NTQyNjdkODc1MTE5YWEyNWE5Mw==`
+Snapshot ID: `Mjc3NDMxMTMsMDAwMDAwMDAzMTA0MzUwN2EyYjEzMzQzNTdjZmRmZGE0ZDIzMjMzMw==`

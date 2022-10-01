@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: TOBi",
+  "description": "Proudly marching to the beat of their own drum. Cover: EKKSTACY",
   "name": "Outliers",
   "published_playlist_ids": [
     "2eZDT7fvyZw5HsAm74ImXE"
@@ -945,6 +945,24 @@
       "duration_ms": 171219,
       "name": "Beep",
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120626,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY"
     },
     {
       "album": {
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 124646,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1"
@@ -2739,6 +2757,24 @@
       "duration_ms": 226097,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7zkUj9idxLrvXOjJwEP7MV"
+    },
+    {
+      "album": {
+        "name": "Superficial Stains",
+        "url": "https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "Everything I'm Not",
+      "url": "https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX"
     },
     {
       "album": {
@@ -3741,7 +3777,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 193783,
       "name": "Happiest",
       "url": "https://open.spotify.com/track/28W4gLSm1wrdVu2dNplneI"
@@ -4343,7 +4379,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 132840,
       "name": "i just want to hide my face",
       "url": "https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7"
@@ -4503,6 +4539,24 @@
       "duration_ms": 206374,
       "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
       "url": "https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv"
+    },
+    {
+      "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139146,
+      "name": "im so happy",
+      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
       "album": {
@@ -4801,6 +4855,28 @@
       "duration_ms": 172333,
       "name": "It Could Be Nice",
       "url": "https://open.spotify.com/track/5lGoX0XHR2ystyz0OF3Kv5"
+    },
+    {
+      "album": {
+        "name": "Jackpot (feat. Jazz Cartier)",
+        "url": "https://open.spotify.com/album/6zZPyX3Nj5k16D8eflLexP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162037,
+      "name": "Jackpot (feat. Jazz Cartier)",
+      "url": "https://open.spotify.com/track/3ef0wd2mVNtMdC0yrO0q9U"
     },
     {
       "album": {
@@ -5611,7 +5687,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 216614,
       "name": "Mania",
       "url": "https://open.spotify.com/track/47pdvuFM95WHsL14TnvTTc"
@@ -6453,7 +6529,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 127624,
       "name": "Nike",
       "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
@@ -7435,7 +7511,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 264000,
       "name": "Pulchritudinous",
       "url": "https://open.spotify.com/track/4nzhd7FQDblgX8ogmGSeem"
@@ -7689,6 +7765,24 @@
       "duration_ms": 220316,
       "name": "Royal Royal",
       "url": "https://open.spotify.com/track/6cSmQb7nhpXVQ0iK8SJN4Q"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Rude Boy 22 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
     },
     {
       "album": {
@@ -7949,7 +8043,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 101560,
       "name": "Shake",
       "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
@@ -8014,6 +8108,24 @@
     },
     {
       "album": {
+        "name": "SHELL",
+        "url": "https://open.spotify.com/album/7tZkP62cFpLp5VPPJSYTOV"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "SHELL",
+      "url": "https://open.spotify.com/track/3tYkvqIjHFS8O56DrWGYvO"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1KbGKw3Cy3XpiLnBznm59x"
       },
@@ -8051,6 +8163,24 @@
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
+    },
+    {
+      "album": {
+        "name": "Shlut",
+        "url": "https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132625,
+      "name": "Shlut",
+      "url": "https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe"
     },
     {
       "album": {
@@ -8761,7 +8891,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 310760,
       "name": "The Ground Beneath",
       "url": "https://open.spotify.com/track/2XzrDd0L0mqiksI6mfnWyj"
@@ -9677,6 +9807,28 @@
       "duration_ms": 302600,
       "name": "Will You Be? - CFCF Remix",
       "url": "https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb"
+    },
+    {
+      "album": {
+        "name": "Willing To Trust",
+        "url": "https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282053,
+      "name": "Willing To Trust (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22"
     },
     {
       "album": {

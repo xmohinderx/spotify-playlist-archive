@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,110 likes - 59 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,442 likes - 59 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
-| 2 | [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 |
+| 2 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
 | 3 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 | 4 | [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 |
 | 5 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 8 | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/track/0PlyoT0K2MN9e5jUoRHQ3C) | [Tomita Miyu](https://open.spotify.com/artist/4BOQzrxB1xj5G3rsL4f8Gg) | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/album/6395Muzk3LEqZXqUdce60r) | 3:43 |
 | 9 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 |
 | 10 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
-| 11 | [幻愛遊戯](https://open.spotify.com/track/1jQSxEc0Yfcj6CmWdpmBZm) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [幻愛遊戯](https://open.spotify.com/album/4RKBVmR8igpcLT2vvNFaNR) | 3:48 |
+| 11 | [Gen Ai Yugi](https://open.spotify.com/track/3l2xktQvGgo9fNsb6SzaNw) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Gen Ai Yugi](https://open.spotify.com/album/2hdx95aAzVO3DE4brSpH3a) | 3:48 |
 | 12 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 |
 | 13 | [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 |
 | 14 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 58 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 |
 | 59 | [No Man's Dawn](https://open.spotify.com/track/5XvmEVOlh8S0FvZQyaYnzo) | [criminal](https://open.spotify.com/artist/01x2ElR5LGoZ3HTwn0u4eH) | [No Man's Dawn](https://open.spotify.com/album/5emNQodJSciI2Ib281UrG3) | 3:53 |
 
-Snapshot ID: `MTY2NDQ2MzYwMCwwMDAwMDAwMDc3MDczYTViZDM0ZGUzZmVlM2E3MWRlOTNiNmEyNmE4`
+Snapshot ID: `MTY2NDQ2MzYwMCwwMDAwMDAwMDgxNjQ1OTFjNThjZjMxNWE4MjQxYzM1NWY5MzFhNjBk`

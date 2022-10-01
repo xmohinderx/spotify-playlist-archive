@@ -2257,7 +2257,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 166888,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
@@ -2511,7 +2511,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 157133,
       "name": "I NEED YOU",
       "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
@@ -2845,7 +2845,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 225760,
       "name": "Kind of Freak",
       "url": "https://open.spotify.com/track/6Z0VYYq9f7iDDRtPUiShrS"
@@ -3311,7 +3311,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 166334,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/03LbzdHsDNtWTqAifiuNFN"
@@ -3511,7 +3511,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 177142,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
@@ -3663,6 +3663,24 @@
       "duration_ms": 250346,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
+    },
+    {
+      "album": {
+        "name": "Carving Canyons",
+        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188619,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
     },
     {
       "album": {
@@ -3987,7 +4005,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 241799,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
@@ -4259,7 +4277,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 195391,
       "name": "Puff Break (Believe That)",
       "url": "https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug"
@@ -4525,7 +4543,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 184650,
       "name": "See You",
       "url": "https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY"
@@ -5200,6 +5218,24 @@
     },
     {
       "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/78FB3PeyghAmRSTnW8wy6E"
+      },
+      "artists": [
+        {
+          "name": "Tetra Collective",
+          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246673,
+      "name": "Sweetside",
+      "url": "https://open.spotify.com/track/3kPk8kOFxof26yVHTnjk1j"
+    },
+    {
+      "album": {
         "name": "Something to Say",
         "url": "https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx"
       },
@@ -5317,6 +5353,24 @@
       "duration_ms": 115954,
       "name": "Thank You Master (For My Soul)",
       "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
+    },
+    {
+      "album": {
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
     },
     {
       "album": {
@@ -6243,7 +6297,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 185716,
       "name": "You",
       "url": "https://open.spotify.com/track/53pplXFpGH6RPPvf0aCdnQ"

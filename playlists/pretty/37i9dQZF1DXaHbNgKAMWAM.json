@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 7135,
+  "num_followers": 7155,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzA3MSwwMDAwMDAwMDQ1OWFkYWZkODJmMjQyNDFhMGEwNDg4MDA3ZmQ2OWYx",
+  "snapshot_id": "MTY2MjM5MzA3MSwwMDAwMDAwMDE5ZWM2NGUwOTUyNmU5NTYyZDc5MzZiNWU0ZGI1NTY0",
   "tracks": [
     {
       "added_at": "2022-09-05 15:51:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-05 15:51:11",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 182313,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
-    },
-    {
-      "added_at": "2022-09-05 15:51:11",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 214560,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
+    },
+    {
+      "added_at": "2022-09-05 15:51:11",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 182313,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
     },
     {
       "added_at": "2022-09-05 15:51:11",

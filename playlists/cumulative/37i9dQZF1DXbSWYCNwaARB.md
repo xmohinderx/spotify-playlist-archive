@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: BLACKPINK
 
-318 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
+319 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-02 |  |
 | [Feedback](https://open.spotify.com/track/61oYciDSVO6OvOqZf9TVPV) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Feedback](https://open.spotify.com/album/2mZVQE5xkotAwHEqLySr0h) | 3:19 | 2021-03-07 | 2022-04-12 |
 | [FIESTA](https://open.spotify.com/track/71vPAjlG1x606483GTJNhY) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:37 | 2020-10-20 | 2022-07-27 |
+| [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-09-30 |  |
 | [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2021-12-20 | 2022-04-20 |
 | [Firework](https://open.spotify.com/track/3NnU2qo9tkMrcYZWzdNDCm) | [LABOUM](https://open.spotify.com/artist/4iO5uKMUphLqQ20TfrdZx3) | [Two Of Us](https://open.spotify.com/album/6axpzJHjCfb1fYFyORvNIF) | 3:20 | 2021-03-07 | 2021-12-21 |
 | [FIREWORK](https://open.spotify.com/track/5NhDDt5Zy8yGOECN3PLRdE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:13 | 2020-10-13\* | 2022-06-14 |
@@ -226,7 +227,7 @@
 | [Play Hide & Seek](https://open.spotify.com/track/3a7ISYHtA4un5aGvoVza5R) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Bridge of Dreams](https://open.spotify.com/album/7l19KsnZJdODCoo1cS2Slu) | 3:01 | 2022-04-28 | 2022-05-12 |
 | [pporappippam 보라빛 밤](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam 보라빛 밤](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 | 2020-10-13\* | 2022-06-16 |
 | [Psycho](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:30 | 2020-10-20 |  |
-| [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 | 2021-07-02 |  |
+| [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 | 2021-07-02 | 2022-10-01 |
 | [Purple](https://open.spotify.com/track/1vTnqL5pQuOkT6smX8ntCP) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | ["WISH"](https://open.spotify.com/album/0D6cvNG4C3o2Yxyf7iQnoA) | 2:56 | 2021-10-09 | 2022-06-21 |
 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 | 2022-05-28 | 2022-06-04 |
 | [QUEEN](https://open.spotify.com/track/7kDw5mRoi0Vw7eGZSID5Y5) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [QUEEN](https://open.spotify.com/album/0Fv8OYPlcfmzfS42xJq2Lc) | 3:33 | 2021-02-27 | 2022-04-21 |

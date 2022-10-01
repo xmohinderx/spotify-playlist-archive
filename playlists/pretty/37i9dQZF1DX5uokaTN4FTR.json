@@ -1,6 +1,6 @@
 {
   "description": "The UK's biggest dance playlist! Cover: Aluna & MK",
-  "num_followers": 1292528,
+  "num_followers": 1292894,
   "original_name": "Massive Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -836,16 +836,16 @@
       },
       "artists": [
         {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        },
-        {
           "name": "piri",
           "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         },
         {
           "name": "Tommy Villiers",
           "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
       "duration_ms": 135013,

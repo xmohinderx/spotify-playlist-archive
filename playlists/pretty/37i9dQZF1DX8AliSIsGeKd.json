@@ -1,15 +1,15 @@
 {
-  "description": "The best new electronic music from Electronica to Techno. Cover: Christian L\u00f6ffler, Henry Greene",
-  "num_followers": 550678,
+  "description": "The best new electronic music from Electronica to Techno. Cover: Christian L\u00f6ffler, Henry Green",
+  "num_followers": 550799,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4OTU2OCwwMDAwMDAwMGYxN2RmNmY5OWIyOWRhZDQwMzc3NmM2N2Y2NTdkOTk2",
+  "snapshot_id": "MTY2NDUyNjM2MiwwMDAwMDAwMDUwZmIwMmFlODE1MmMxMWM2YjhjMWYxYjY1YmNiNjk1",
   "tracks": [
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "New Fires",
         "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Losing Game",
         "url": "https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL"
@@ -45,7 +45,55 @@
       "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
+      "album": {
+        "name": "Watergate 28 EP #2 (Pt. 2/2)",
+        "url": "https://open.spotify.com/album/00oBbHIrG8UuQ1PqP9JimE"
+      },
+      "artists": [
+        {
+          "name": "Biesmans",
+          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
+        },
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
+        }
+      ],
+      "duration_ms": 342732,
+      "name": "Me Gusta Acid",
+      "url": "https://open.spotify.com/track/4JdAiUDV6Iv1nqQwdX9rDa"
+    },
+    {
+      "added_at": "2022-09-30 08:26:02",
+      "album": {
+        "name": "Atlas (Shall Ocin & Artbat Remix)",
+        "url": "https://open.spotify.com/album/2wonCAxmz7xKzCa5I5TlnA"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Shall Ocin",
+          "url": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
+        }
+      ],
+      "duration_ms": 380952,
+      "name": "Atlas - Shall Ocin & Artbat Remix",
+      "url": "https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs"
+    },
+    {
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Sound Of Space EP",
         "url": "https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Colonia EP",
         "url": "https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0"
@@ -77,35 +125,39 @@
       "url": "https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
-        "name": "Atlas (Shall Ocin & Artbat Remix)",
-        "url": "https://open.spotify.com/album/4Qy0Hz589BwkYkMAPRHAdt"
+        "name": "Let the Games Begin",
+        "url": "https://open.spotify.com/album/1hBil9bmdI7hDDF2T5xo4w"
       },
       "artists": [
         {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        },
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        },
-        {
-          "name": "Shall Ocin",
-          "url": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
         }
       ],
-      "duration_ms": 380952,
-      "name": "Atlas - Shall Ocin & Artbat Remix",
-      "url": "https://open.spotify.com/track/7fGJ9iNkBimx7huyLwVkSI"
+      "duration_ms": 348959,
+      "name": "Let the Games Begin",
+      "url": "https://open.spotify.com/track/7lKOrMhonHXZEEImIMqfn3"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Light A Fire - Radio Edit",
+      "url": "https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P"
+    },
+    {
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Your Way",
         "url": "https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6"
@@ -125,55 +177,55 @@
       "url": "https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl"
+        "name": "3000Grad Festival Compilation 3022",
+        "url": "https://open.spotify.com/album/0GAlYbzVdr5wL0KY8QRGTU"
       },
       "artists": [
         {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+          "name": "Dole & Kom",
+          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
         }
       ],
-      "duration_ms": 242880,
-      "name": "Light A Fire - Radio Edit",
-      "url": "https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P"
+      "duration_ms": 419483,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4S8hkiVcfSIyP4gSmW7SMw"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
-        "name": "Let the Games Begin",
-        "url": "https://open.spotify.com/album/1hBil9bmdI7hDDF2T5xo4w"
+        "name": "Little Treasure (Contour 3)",
+        "url": "https://open.spotify.com/album/4921jiDIusc0Iy7yrXj2lN"
       },
       "artists": [
         {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
         }
       ],
-      "duration_ms": 348959,
-      "name": "Let the Games Begin",
-      "url": "https://open.spotify.com/track/7lKOrMhonHXZEEImIMqfn3"
+      "duration_ms": 358133,
+      "name": "Little Treasure (Contour 3)",
+      "url": "https://open.spotify.com/track/5ylczvXq66th3ra7um4imD"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
-        "name": "Brainscan",
-        "url": "https://open.spotify.com/album/1okD2gCvgwRcMxdSDVJ2Tz"
+        "name": "Green Rework",
+        "url": "https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4"
       },
       "artists": [
         {
-          "name": "Frankey & Sandrino",
-          "url": "https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk"
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
         }
       ],
-      "duration_ms": 387303,
-      "name": "Brainscan",
-      "url": "https://open.spotify.com/track/5E2sp1MnrEZP3TpSRRrFn0"
+      "duration_ms": 433278,
+      "name": "Green Rework",
+      "url": "https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "WANNA GO BANG",
         "url": "https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z"
@@ -197,7 +249,23 @@
       "url": "https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
+      "album": {
+        "name": "Brainscan",
+        "url": "https://open.spotify.com/album/1okD2gCvgwRcMxdSDVJ2Tz"
+      },
+      "artists": [
+        {
+          "name": "Frankey & Sandrino",
+          "url": "https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk"
+        }
+      ],
+      "duration_ms": 387303,
+      "name": "Brainscan",
+      "url": "https://open.spotify.com/track/5E2sp1MnrEZP3TpSRRrFn0"
+    },
+    {
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "060",
         "url": "https://open.spotify.com/album/0DTLz5YGbyEjQ0RyHtXaVA"
@@ -221,43 +289,87 @@
       "url": "https://open.spotify.com/track/3rvp7TBddkCytpmqmlvb55"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
-        "name": "Watergate 28 EP #2 (Pt. 1/2)",
-        "url": "https://open.spotify.com/album/4YvlorzngwMbL2L9ac10k4"
+        "name": "Saga",
+        "url": "https://open.spotify.com/album/1leTxQKRYH37ibTqBVax66"
       },
       "artists": [
         {
-          "name": "Biesmans",
-          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
-        },
-        {
-          "name": "Mathew Jonson",
-          "url": "https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71"
+          "name": "F-Rontal",
+          "url": "https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS"
         }
       ],
-      "duration_ms": 373343,
-      "name": "Quantum Computing",
-      "url": "https://open.spotify.com/track/0fQcqPrR3qzTYkP0vDcm0D"
+      "duration_ms": 462254,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/1hDxkKzbsElp9gLC45JKum"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
-        "name": "Little Treasure (Contour 3)",
-        "url": "https://open.spotify.com/album/4921jiDIusc0Iy7yrXj2lN"
+        "name": "Six For Gold",
+        "url": "https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 358133,
-      "name": "Little Treasure (Contour 3)",
-      "url": "https://open.spotify.com/track/5ylczvXq66th3ra7um4imD"
+      "duration_ms": 301440,
+      "name": "Six For Gold",
+      "url": "https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
+      "album": {
+        "name": "Pulses",
+        "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 364810,
+      "name": "Pulses",
+      "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
+    },
+    {
+      "added_at": "2022-09-30 08:26:02",
+      "album": {
+        "name": "Annihilate",
+        "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Annihilate",
+      "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
+    },
+    {
+      "added_at": "2022-09-30 08:26:02",
+      "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
+    },
+    {
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/6uOrmZ3apHvo0o6VUleDSK"
@@ -277,135 +389,27 @@
       "url": "https://open.spotify.com/track/4OzjF7qOwhG2KOKwaQZtc8"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
-        "name": "Saga",
-        "url": "https://open.spotify.com/album/1leTxQKRYH37ibTqBVax66"
+        "name": "Watergate 28 EP #2 (Pt. 1/2)",
+        "url": "https://open.spotify.com/album/4YvlorzngwMbL2L9ac10k4"
       },
       "artists": [
         {
-          "name": "F-Rontal",
-          "url": "https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS"
-        }
-      ],
-      "duration_ms": 462254,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/1hDxkKzbsElp9gLC45JKum"
-    },
-    {
-      "added_at": "2022-09-29 22:12:48",
-      "album": {
-        "name": "Six For Gold",
-        "url": "https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd"
-      },
-      "artists": [
+          "name": "Biesmans",
+          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
+        },
         {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+          "name": "Mathew Jonson",
+          "url": "https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71"
         }
       ],
-      "duration_ms": 301440,
-      "name": "Six For Gold",
-      "url": "https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn"
+      "duration_ms": 373343,
+      "name": "Quantum Computing",
+      "url": "https://open.spotify.com/track/0fQcqPrR3qzTYkP0vDcm0D"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
-      "album": {
-        "name": "Pulses",
-        "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 364810,
-      "name": "Pulses",
-      "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
-    },
-    {
-      "added_at": "2022-09-29 22:12:48",
-      "album": {
-        "name": "Annihilate",
-        "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Annihilate",
-      "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
-    },
-    {
-      "added_at": "2022-09-29 22:12:48",
-      "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
-    },
-    {
-      "added_at": "2022-09-29 22:12:48",
-      "album": {
-        "name": "Green Rework",
-        "url": "https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        }
-      ],
-      "duration_ms": 433278,
-      "name": "Green Rework",
-      "url": "https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO"
-    },
-    {
-      "added_at": "2022-09-29 22:12:48",
-      "album": {
-        "name": "3000Grad Festival Compilation 3022",
-        "url": "https://open.spotify.com/album/0GAlYbzVdr5wL0KY8QRGTU"
-      },
-      "artists": [
-        {
-          "name": "Dole & Kom",
-          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
-        }
-      ],
-      "duration_ms": 419483,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4S8hkiVcfSIyP4gSmW7SMw"
-    },
-    {
-      "added_at": "2022-09-29 22:12:48",
-      "album": {
-        "name": "Pillow Talk",
-        "url": "https://open.spotify.com/album/6hRXMilVNMIM9yskvA3ZGN"
-      },
-      "artists": [
-        {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Pillow Talk",
-      "url": "https://open.spotify.com/track/0Xwvq3LjhuLM2e8RfBMgpH"
-    },
-    {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/51SyEa6HlrLkINwbNnmGhg"
@@ -425,7 +429,23 @@
       "url": "https://open.spotify.com/track/213VZ9lPNKykn3cLrmYkKf"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
+      "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/6hRXMilVNMIM9yskvA3ZGN"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Pillow Talk",
+      "url": "https://open.spotify.com/track/0Xwvq3LjhuLM2e8RfBMgpH"
+    },
+    {
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Hours and Hours",
         "url": "https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "To Feel Again / Trois",
         "url": "https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Troubles in Paradise",
         "url": "https://open.spotify.com/album/00U8PPc5jQMgutUFxD0odC"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/1OKlHeAw64sMRBnLqPcccY"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Getting Higher",
         "url": "https://open.spotify.com/album/5D73AaSwEygaV5Fz78nsDv"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/3x4enDZ3ZJlKCT2SRcGO60"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Sector Unu",
         "url": "https://open.spotify.com/album/3Z5rHq4zdx88C67xdmaY9G"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/2FF5J77Rienbt1gh44npLa"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "KILL DEM",
         "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "La Danse Heureuse EP",
         "url": "https://open.spotify.com/album/0uTSYwT3azlBmvabYjZRew"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/0inyYBsSUNNkJ1vIGPUfog"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "See the Sun Rising",
         "url": "https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Into the Night",
         "url": "https://open.spotify.com/album/2XYrKWUIPFZFaAVcsYFDOM"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/0rRktaJzIA6OYB82s6r8jz"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Kaleidoscope Colours",
         "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Growl",
         "url": "https://open.spotify.com/album/3AKmKrfzMK1Ll3ExnUGIDV"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/0TfxYd20qQvBHD0ZOV29mI"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Flash (Wehbba Remix)",
         "url": "https://open.spotify.com/album/2Ketv7thFn0MGG2mX7outD"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/1fCapWoH1RpiKEZHU1siAI"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Generation 72",
         "url": "https://open.spotify.com/album/3CaB7SFjPu1xsesse33IRP"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/0XoN1fHQrvNlZMY434R1t5"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Ronaparde",
         "url": "https://open.spotify.com/album/0LkJgzIaYoBcjmr7rj131J"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/2NXEzL65lzjOTfMztPa3h1"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/6gEPIRjihArdcdmZ4i2zgo"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/6HkeeG8B0QHpjhLfkoT2Ys"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Only For Tonight",
         "url": "https://open.spotify.com/album/5YpxkZZNn65hT9WpJt6Ym6"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/1vwCNbCIahe4HsmfZim45D"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Club Vibes Part 03",
         "url": "https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Fallen Enemies EP",
         "url": "https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK"
@@ -825,7 +845,7 @@
       "url": "https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Phobia",
         "url": "https://open.spotify.com/album/2prHbKENbnHD0hThZlcrQQ"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/5F7hQ1QAb3Q6QNwxGUMQXU"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Always Something",
         "url": "https://open.spotify.com/album/5vP4jUDdZDqdlQDMroMVJi"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/3f0OOLWLpdeDUp3vxv6GEj"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Heaven (Oliver Schories Club Mix)",
         "url": "https://open.spotify.com/album/2n0qGGx3bVrgRBTu3P3Stn"
@@ -877,7 +897,7 @@
       "url": "https://open.spotify.com/track/2ZtjuNdPKbiRlxCAm7J8Tt"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "On A Stream",
         "url": "https://open.spotify.com/album/5b12G2I5RIgOjHva3qeY8c"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/1sIsEH0z7F2YuHKmcBt5Ov"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Mandala",
         "url": "https://open.spotify.com/album/7K0OIp52OOMImGGjHFBLht"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/4zRPvp6MSPCSAmaOJJgkFU"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Nice & Cool Trigga",
         "url": "https://open.spotify.com/album/2YJCTZdRVzQcg7YlTYuh01"
@@ -929,7 +949,7 @@
       "url": "https://open.spotify.com/track/0OlWzP96Z55gz59HeLnqPK"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/61z68AIEA7ByGsgtUD9HEv"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/3auek7MSZUmpBNdA8vArVL"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Song To The Siren",
         "url": "https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7"
@@ -961,7 +981,7 @@
       "url": "https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/6CXqM43No4oSEL0XOmTiCQ"
@@ -985,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7hOXCmwRv1oDNWfxQrwZoy"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/5nRa4Ip2sEgDw9dxloWWT4"
@@ -1001,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7Jg4IewnagsDLVqMBJUR83"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/6V7BT0rCnWCeU3dxEc6ApQ"
@@ -1017,27 +1037,7 @@
       "url": "https://open.spotify.com/track/6GpoMwO68bxDCeXCivPqe0"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
-      "album": {
-        "name": "Watergate 28 EP #1 (Pt. 2/2)",
-        "url": "https://open.spotify.com/album/6ZaqOZKqQU7mAxFFmcVLzo"
-      },
-      "artists": [
-        {
-          "name": "Biesmans",
-          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
-        },
-        {
-          "name": "Alex Medina",
-          "url": "https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2"
-        }
-      ],
-      "duration_ms": 389840,
-      "name": "Hola y Bienvenido",
-      "url": "https://open.spotify.com/track/0WAHD5VUgAUBvNR4O9yr1I"
-    },
-    {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/72owuahHXwJSpTPUdUUvow"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3BMBgzRXl0blrs5Rdyclow"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4fu26fz7aafZXnU0SlSU15"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/2oDydewOb2mjCJzL4V1YzP"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/46JpvZt7EH9Rd865RIrgVo"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "8-track",
         "url": "https://open.spotify.com/album/6pvOoDWC7QDy9n2zw0tjLd"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6pzliypx3qJDJgd3asCb7N"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/3I1u5KOFTAfyyRsNQdayxo"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4u0mFwisDYZgGxr28yBo7n"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/5q3ddtnzBBLhebOhJk9L0H"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6Y1D5I2P0fE20tTAWaaxPS"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Play With The Changes (Remixed)",
         "url": "https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1"
@@ -1153,7 +1153,7 @@
       "url": "https://open.spotify.com/track/3yYGuKdw55woyHYfgnsCJd"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Steamin EP",
         "url": "https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R"
@@ -1177,7 +1177,7 @@
       "url": "https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Pantheon",
         "url": "https://open.spotify.com/album/2zOrmsacDunjQO0wdDLxkl"
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/53UOfHeavMcTrt9ZaUadwY"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Hit the Ground",
         "url": "https://open.spotify.com/album/0YjGsccb8jGdhZd8fYKx3k"
@@ -1209,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0YwbBYU3F1hUpYA0A4UINq"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Lele",
         "url": "https://open.spotify.com/album/207HUz7goXfcassusuQ8sZ"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/6XuwwtSoPzEsQQQpwIsUpD"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "MARIMBA",
         "url": "https://open.spotify.com/album/465ISX2uZQcUlhwjZzvm9O"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7LUE03dkjQnkkxV6DEet8G"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD"
@@ -1261,7 +1261,7 @@
       "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "10.2.5.",
         "url": "https://open.spotify.com/album/4waZrGGjCz8tZJ1hlyry0k"
@@ -1277,7 +1277,7 @@
       "url": "https://open.spotify.com/track/5tXmO8vouyWoyWt8WvOvIA"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Sl\u00f3\u00f0",
         "url": "https://open.spotify.com/album/46n72BqbvCbmDDMPzZTzpS"
@@ -1313,7 +1313,7 @@
       "url": "https://open.spotify.com/track/7umxOb75H1SG3lD1rSnL98"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Holsten",
         "url": "https://open.spotify.com/album/0eO4RioDxCnbqFNO6O1hs2"
@@ -1333,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1QY1JdMErccck5JBqqI7tH"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Kelch 3",
         "url": "https://open.spotify.com/album/3jwaDpSUtAgBXOTasnH7rf"
@@ -1349,7 +1349,7 @@
       "url": "https://open.spotify.com/track/0YrLUslQDapsSlPeOdjTjq"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Factual Matters",
         "url": "https://open.spotify.com/album/3rG5utVbl4lZDL7jaFAH7s"
@@ -1365,7 +1365,7 @@
       "url": "https://open.spotify.com/track/30ifbc7I2i6QkDq6G6YB7A"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Fata Organa",
         "url": "https://open.spotify.com/album/7GhNIrYhYsFvZEKboTBHXW"
@@ -1381,7 +1381,7 @@
       "url": "https://open.spotify.com/track/2ZxGR3QjrxnctPNF5k2Zad"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "Est. 2003",
         "url": "https://open.spotify.com/album/56w3xaz6QTSez2nbQ9x9uZ"
@@ -1401,7 +1401,7 @@
       "url": "https://open.spotify.com/track/7xLFFvpk9ntQRNzQnflX5X"
     },
     {
-      "added_at": "2022-09-29 22:12:48",
+      "added_at": "2022-09-30 08:26:02",
       "album": {
         "name": "I Just Want To Love You",
         "url": "https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4"

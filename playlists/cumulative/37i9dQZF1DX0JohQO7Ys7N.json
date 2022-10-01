@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 169411,
       "name": "in the name of love",
       "url": "https://open.spotify.com/track/2Z8PgUAoQxxdW6NshdJv1Q"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192104,
       "name": "Pulling Out",
       "url": "https://open.spotify.com/track/2Xqi7yZeFfcSIVwU1c5slN"
@@ -1605,6 +1605,28 @@
       "duration_ms": 149690,
       "name": "sorry it didn't work out",
       "url": "https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a"
+    },
+    {
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hinya",
+          "url": "https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG"
+        },
+        {
+          "name": "King Kanja",
+          "url": "https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227431,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh"
     },
     {
       "album": {
@@ -1901,6 +1923,24 @@
       "duration_ms": 258461,
       "name": "Wild Trip",
       "url": "https://open.spotify.com/track/5LH9sGAsEtE2ysKdKG7ZRh"
+    },
+    {
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Window (Red)",
+      "url": "https://open.spotify.com/track/53UTnaVi48tv6mv0DoLm4A"
     },
     {
       "album": {

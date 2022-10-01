@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-186 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
+187 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 | 2021-12-09 |  |
 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 | 2021-12-09 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/6UedQdOB6BIX96B4V1oBP4) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Kiss From A Rose](https://open.spotify.com/album/6A8hlKALPC8Pg1tyRLsx7z) | 4:00 | 2022-03-09 |  |
-| [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2021-12-09 |  |
+| [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2021-12-09 | 2022-10-01 |
+| [Kiss the Girl](https://open.spotify.com/track/4wJcS2F4VoJM2DR8en4EaW) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/1UzG66W3YFBdLnDG8Bh7hl) | 2:10 | 2022-09-20 |  |
 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-07-26 |  |
 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 | 2021-12-09 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/30TJojIypyhX15vrYGti0G) | [Joseph Neville](https://open.spotify.com/artist/4abYx9Wwc8WxkCPgtfg0qV), [Samantha Melillo](https://open.spotify.com/artist/6vgtiLBz4eTU8iJwzu4zWL) | [Landslide](https://open.spotify.com/album/0HAxAaQRtNYEGB6tXau8HK) | 3:20 | 2021-12-09 |  |

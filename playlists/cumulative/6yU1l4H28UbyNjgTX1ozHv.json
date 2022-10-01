@@ -2394,6 +2394,24 @@
     },
     {
       "album": {
+        "name": "You're My Best Friend (Acoustic)",
+        "url": "https://open.spotify.com/album/4HUf5kBKh15Y3LviPVSDX2"
+      },
+      "artists": [
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147397,
+      "name": "You're My Best Friend - Acoustic",
+      "url": "https://open.spotify.com/track/4HcNBjBC8a6DVd2pwh0B8R"
+    },
+    {
+      "album": {
         "name": "You're So Vain (Acoustic)",
         "url": "https://open.spotify.com/album/431NQmwLYw1PA5fSmTcKD2"
       },

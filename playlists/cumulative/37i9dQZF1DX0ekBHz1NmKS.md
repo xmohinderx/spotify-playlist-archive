@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-570 songs - 1 day 6 hr 20 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+571 songs - 1 day 6 hr 23 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Champagne](https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Champagne](https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k) | 3:30 | 2022-04-22 |  |
 | [CHAMPION](https://open.spotify.com/track/2kd7MZ2LjqgEFWhtrLYKxC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [CHAMPION](https://open.spotify.com/album/4WEHQE9E7Mit4xhiDVelnC) | 3:01 | 2022-01-13 | 2022-04-02 |
 | [Change](https://open.spotify.com/track/6CK581mr24h7z7bFpwhHmm) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Change](https://open.spotify.com/album/2hxKPuoKlnH6ZMInQ3Xg9x) | 3:42 | 2021-12-16 | 2022-03-11 |
-| [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-09-30 |
+| [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 |  |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
@@ -381,7 +381,7 @@
 | [Piller](https://open.spotify.com/track/5O7wcEKtYa8T7aAPPYEK4B) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Piller](https://open.spotify.com/album/4e12w2ks3KmvLjodwRN7W1) | 3:48 | 2021-12-16 | 2022-02-19 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-16 | 2022-03-11 |
 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 | 2022-06-02 |  |
-| [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 |  |
+| [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 | 2022-10-01 |
 | [Precious Cargo](https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Precious Cargo](https://open.spotify.com/album/65BYiMcbsbO8ZUdlMKltgV) | 2:55 | 2021-12-16 | 2022-03-28 |
 | [Psykopat](https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Puss & Kram](https://open.spotify.com/track/55Naz76St5cjVtWnmo8SBs) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:35 | 2021-12-16 | 2022-01-11 |
@@ -467,7 +467,7 @@
 | [Stoppa tiden](https://open.spotify.com/track/7AmSDYMfUdmhlAmimBkfVu) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Stoppa tiden](https://open.spotify.com/album/0alS5ksB0B87GyJJCtIjXV) | 2:57 | 2021-12-16 | 2022-03-11 |
 | [Stor på jorden](https://open.spotify.com/track/4EHdsE2k1WiTJ4z7eCEUjB) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Stor på jorden/Snäll med John](https://open.spotify.com/album/6HHh3OPNMzr7EwuA46fpm6) | 5:43 | 2022-09-29 |  |
 | [Stökigt Hjärta](https://open.spotify.com/track/20zZK5S3jiQ5OjRlIVxcS9) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Maria](https://open.spotify.com/album/1CyBd1aY5oBzJLe8w9AijU) | 3:54 | 2021-12-16 | 2022-04-02 |
-| [Större](https://open.spotify.com/track/00FlGPGBmC8kjtzBE0Yb1M) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Större](https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb) | 3:03 | 2022-09-15 |  |
+| [Större](https://open.spotify.com/track/00FlGPGBmC8kjtzBE0Yb1M) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Större](https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb) | 3:03 | 2022-09-15 | 2022-10-01 |
 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 | 2021-12-16 | 2022-03-08 |
 | [Sugar](https://open.spotify.com/track/33pJUhmDYLfmGnpAwnKu2i) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sugar](https://open.spotify.com/album/69KXYbtGSjqKjQ7aBBZbGw) | 2:56 | 2021-12-16 | 2022-03-11 |
 | [sugar](https://open.spotify.com/track/2d6CmdLPd1rOi7zdQK6kBg) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [sugar](https://open.spotify.com/album/15RYAPvGvUvil1Vu8sI5Xi) | 3:05 | 2022-06-02 | 2022-07-19 |
@@ -567,6 +567,7 @@
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-12 | 2022-09-13 |
 | [X](https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [X](https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR) | 2:41 | 2022-03-17 | 2022-09-16 |
 | [ye, aha](https://open.spotify.com/track/04C1OEisyN3uS6tzJ3qWll) | [Naomi Vaughn](https://open.spotify.com/artist/1SCpIF2L2jzSfIcdgGtPE8) | [ye, aha](https://open.spotify.com/album/5zDnEjhZS5CxglWmVRPCCS) | 2:57 | 2022-06-30 | 2022-07-20 |
+| [Yellow](https://open.spotify.com/track/2qyVS8PtyshEjMG2EWfr06) | [Tyra Chantey](https://open.spotify.com/artist/2TTmUTfsQjQb9Wx8arAZy9) | [Yellow](https://open.spotify.com/album/3XRfjXygP16DWk8sjuPbHt) | 3:00 | 2022-09-29 |  |
 | [YOU](https://open.spotify.com/track/2OyauYlmXhB8ffpf4S9mjQ) | [Alissa Reah](https://open.spotify.com/artist/53TuN2OUabI6gDAjd49Fs2) | [YOU](https://open.spotify.com/album/1htfK5RJY2vuj6P4XaofbY) | 3:01 | 2022-03-24 | 2022-07-20 |
 | [You to Me](https://open.spotify.com/track/5xQmNeAKK6Y3p5Y5K2zqIT) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [You to Me](https://open.spotify.com/album/4abCLxqbInPOw7fiblaLVL) | 2:36 | 2021-12-16 | 2022-01-13 |
 | [Younger](https://open.spotify.com/track/5VehjO5iZZ9iitRbTt9P69) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Younger](https://open.spotify.com/album/14ZHCYhVN0B2dzY8GVISWO) | 3:06 | 2022-05-12 | 2022-05-14 |

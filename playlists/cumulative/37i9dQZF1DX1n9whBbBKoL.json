@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Astral Distance",
+        "url": "https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125995,
+      "name": "Astral Distance",
+      "url": "https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7898KcnclYbvNAdYWnwZW1"
       },
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 220000,
       "name": "Ongoing",
       "url": "https://open.spotify.com/track/6ICoijQw5AmAB9OWQu0EqR"

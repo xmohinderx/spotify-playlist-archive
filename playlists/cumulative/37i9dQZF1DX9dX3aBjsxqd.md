@@ -4,7 +4,7 @@
 
 > Relax to these mellow cello melodies.
 
-102 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
+103 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Einaudi: Una mattina](https://open.spotify.com/track/3I26MLXZxlXnRnta6CKC9A) | [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq) | [Emotions \- Einaudi: Una mattina](https://open.spotify.com/album/5qurLB4HSufAFQVEQVHMPD) | 3:10 | 2021-03-08 | 2022-07-29 |
 | [Einaudi: Una mattina](https://open.spotify.com/track/0rFdP3ZfwsUajBLUuex0Kb) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq) | [Emotions](https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX) | 3:10 | 2022-06-16 |  |
 | [Elégie Op\. 24](https://open.spotify.com/track/0WRQhiCbohsfVEiIpgBF7j) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Ophélie Gaillard](https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj), [Bruno Fontaine](https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp) | [Gabriel Fauré: Cello Works](https://open.spotify.com/album/3ipXoHVRsSljFijMoVp5ib) | 7:24 | 2021-03-08 |  |
+| [Fall](https://open.spotify.com/track/3iuInbK0VFSFLv3fts8IcI) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Fall](https://open.spotify.com/album/6EmPU6EqoBE5TLEZoAytYY) | 3:43 | 2022-09-30 |  |
 | [Flow](https://open.spotify.com/track/4kPjycSu2K6IAlVVu5TuwP) | [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN), [François Couturier](https://open.spotify.com/artist/4Zt9Fpz2Zw4j5JckmwnL76) | [Flow](https://open.spotify.com/album/53YngitfGka6Bt402uaLsV) | 6:20 | 2021-03-08 |  |
 | [Gardermoen](https://open.spotify.com/track/1WEGB2t1ZYHjQODNPaiftb) | [Julia Kent](https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc) | [Delay](https://open.spotify.com/album/5E7fIzAOnhdt3mSyjUYb1j) | 4:10 | 2021-03-08 |  |
 | [Hallelujah \(Arr\. Hodge\)](https://open.spotify.com/track/7q2DehTTvivpurQfe41iCy) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Didier Osindero](https://open.spotify.com/artist/6uf0epRD4tMrwtScv7Z4Vz), [Alinka Rowe](https://open.spotify.com/artist/5243VBdvvdhbG099nuIgvw), [Yong Jun Lee](https://open.spotify.com/artist/2emz7eqpRaUd6D87co8p0t) | [Inspiration](https://open.spotify.com/album/5n2aAsMFp4NhWn64pCGCtK) | 3:26 | 2021-03-08 |  |

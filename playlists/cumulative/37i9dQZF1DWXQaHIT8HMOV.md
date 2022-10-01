@@ -4,14 +4,16 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-64 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
+70 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 By 2](https://open.spotify.com/track/5YzRhflX7SXBWJdeSdEEmn) | [Bruz Newton](https://open.spotify.com/artist/7BPrSZBofgDgHqHlLQ0OZH) | [2 By 2](https://open.spotify.com/album/2a256gdr7138D4Nkbp2sb9) | 2:47 | 2022-07-29 |  |
+| [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 | 2022-09-30 |  |
 | [Afiya](https://open.spotify.com/track/1YXHLlENONleioam1NP9Uu) | [King Holiday](https://open.spotify.com/artist/2Qgp7qYMWApB3qwH3agQYs), [Koojo The Artist](https://open.spotify.com/artist/3eDzOzmge19my36Wia07yK), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Afiya](https://open.spotify.com/album/2rx4CkziHMdzRkvUukP33O) | 2:32 | 2022-08-05 |  |
 | [Akahama](https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc) | [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Awo](https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X) | 4:20 | 2022-07-08 |  |
 | [Aye](https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu) | [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Aye](https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9) | 2:44 | 2022-08-05 |  |
+| [Baibe](https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ) | [Henry Tigan](https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo) | [Baibe](https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe) | 4:14 | 2022-09-30 |  |
 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 | 2022-08-19 |  |
 | [Belinda](https://open.spotify.com/track/64C4vezOJyDbudIGxquW89) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Belinda](https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW) | 2:13 | 2022-03-17 |  |
 | [Bikole](https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Bikole](https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw) | 3:04 | 2022-07-29 |  |
@@ -30,8 +32,10 @@
 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 | 2022-05-12 |  |
 | [Entebbe](https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Road to Kirya](https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD) | 3:52 | 2022-05-12 |  |
 | [Fancy \(Certified\)](https://open.spotify.com/track/3xprrkNbBQCFEiTkyb8HSE) | [Myko Truth](https://open.spotify.com/artist/5laGyrSWJnEz06EFsz6AqC) | [Fancy \(Certified\)](https://open.spotify.com/album/1tO3MYFUu0srbXZisGj3Y5) | 2:47 | 2022-07-29 | 2022-08-20 |
+| [Feel Like](https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ) | [Fm Kid](https://open.spotify.com/artist/3lQP8Rliiz1HAHNyZCdMM6) | [Feel Like](https://open.spotify.com/album/2bUvNyLhtfvFmAeaSuJAOb) | 3:06 | 2022-09-30 |  |
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 |  |
 | [Gwookya](https://open.spotify.com/track/3DtERsS1lSUwcCV4MZHIdF) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Gwookya](https://open.spotify.com/album/08qkq3hZAmP91oAuQHxnXg) | 2:41 | 2022-07-29 |  |
+| [Hey](https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Hey](https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR) | 2:47 | 2022-09-30 |  |
 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 | 2022-07-22 |  |
 | [I Need Your Love](https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [I Need Your Love](https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb) | 2:49 | 2022-05-27 |  |
 | [It's OK](https://open.spotify.com/track/6SBSTfARlJBhsRfM2PyZv9) | [Uthman Music](https://open.spotify.com/artist/7buCEVAcbogrYQk2ygdJtz) | [It's OK](https://open.spotify.com/album/4PWYKui3UPV0qKRErAh8qX) | 1:09 | 2022-05-12 |  |
@@ -53,6 +57,7 @@
 | [Nguwayo](https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Nguwayo](https://open.spotify.com/album/6sea4jShgdOs8oNE4aAl1t) | 3:01 | 2022-05-12 | 2022-08-20 |
 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 | 2022-05-12 |  |
 | [Nteredde](https://open.spotify.com/track/7obRw7Iy6DbqvyuPyiqzUj) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Nteredde](https://open.spotify.com/album/6JcRkrtxzHACyHQytZ37z1) | 3:14 | 2022-07-08 |  |
+| [Nyanya Mbisi](https://open.spotify.com/track/4TaavhhwL9c4bcWtD3I96I) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI) | [Nyanya Mbisi](https://open.spotify.com/album/0ZQb5hEq1KKcyoBthJM3kZ) | 2:30 | 2022-09-30 |  |
 | [Omu](https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Omu](https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1) | 2:54 | 2022-05-19 |  |
 | [Omwana Wabandi \- Remix](https://open.spotify.com/track/0vK7OUdfdcCiucULQAPE59) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Lex Raven](https://open.spotify.com/artist/3mZYpQsk8ZyHkMCdtQL4iM) | [Omwana Wabandi \(Remix\)](https://open.spotify.com/album/2SJek9xY189sLRGmm17vin) | 2:44 | 2022-05-12 | 2022-09-02 |
 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-06-24 |  |
@@ -71,6 +76,7 @@
 | [Tukimala](https://open.spotify.com/track/3sil5Zxom8p6321FsDM2mn) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh), [Pinky](https://open.spotify.com/artist/7D0HNEvLVsb8ooQmC2MIbD) | [Tukimala](https://open.spotify.com/album/2Eb2bK1a8Bxq11Aw8rCU50) | 2:53 | 2022-08-12 | 2022-09-02 |
 | [Udongo \(Save Soil\)](https://open.spotify.com/track/59BPZ3xZSqL70xUngfRXJf) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Reazyla](https://open.spotify.com/artist/7GtTV6RYcXvgp6mQ0ZQfhG) | [Udongo \(Save Soil\)](https://open.spotify.com/album/4TJhR6aU5qMlMoyntJGSiz) | 2:56 | 2022-05-12 | 2022-09-02 |
 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 | 2022-05-19 |  |
+| [Where I Go](https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [DJ Victor256](https://open.spotify.com/artist/3enYxNCiWcZ1ad6K5QIioX) | [Where I Go](https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L) | 2:55 | 2022-09-30 |  |
 | [You Got It](https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [You Got It](https://open.spotify.com/album/08UekIFugezDczFaJR9tjJ) | 3:25 | 2022-07-08 |  |
 
 \*This playlist was first scraped on 2022-08-13. Prior content cannot be recovered.

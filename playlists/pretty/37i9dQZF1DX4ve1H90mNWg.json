@@ -1,12 +1,12 @@
 {
-  "description": "Texas music breaking waves. Cover, Teezo Don Toliver",
-  "num_followers": 3789,
+  "description": "Texas music breaking waves. Cover, DeWayne",
+  "num_followers": 3792,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk5MzQ5NSwwMDAwMDAwMGU0MWJjMWJhODE0Zjk2Mzk4NDk1YzRhYzgyYzMzMGE0",
+  "snapshot_id": "MTY2NDU3Nzk5NiwwMDAwMDAwMGMyODg1MzBiZGEzNWY5NDBhZTQ4NzczNjU1NmVhYjJm",
   "tracks": [
     {
       "added_at": "2022-09-24 04:24:55",
@@ -23,6 +23,38 @@
       "duration_ms": 186514,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "added_at": "2022-09-30 22:46:36",
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/1lvcgIEWRFzToRE74laFZN"
+      },
+      "artists": [
+        {
+          "name": "Asiaa G",
+          "url": "https://open.spotify.com/artist/77eYbUDOShILcXKy858uHz"
+        }
+      ],
+      "duration_ms": 190902,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/2RPmKrblQaklOqBW3r167l"
+    },
+    {
+      "added_at": "2022-09-30 22:46:36",
+      "album": {
+        "name": "Head On",
+        "url": "https://open.spotify.com/album/37ez6y6YpPdDbsVcv47Lux"
+      },
+      "artists": [
+        {
+          "name": "Billyracxx",
+          "url": "https://open.spotify.com/artist/6S4PaG0wJvZOUPxbnrvN4O"
+        }
+      ],
+      "duration_ms": 249350,
+      "name": "Head On",
+      "url": "https://open.spotify.com/track/3Qmhf73ZZLK0GF7hALvLR9"
     },
     {
       "added_at": "2022-09-24 04:24:55",

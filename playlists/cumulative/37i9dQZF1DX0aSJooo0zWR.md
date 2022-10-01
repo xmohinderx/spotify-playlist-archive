@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-126 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+127 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Keisha Billip](https://open.spotify.com/track/0dPq960kuzrOCOTfj4M7Su) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Keisha Billip](https://open.spotify.com/album/70sAqcPrrvuTLywNpCJbdn) | 4:22 | 2021-02-12 | 2022-07-29 |
 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 | 2021-02-12 |  |
 | [Leimert Day](https://open.spotify.com/track/4HrR8RwNBqEUC45kYHKKaL) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM) | [Leimert Day](https://open.spotify.com/album/30LIb1TdJBCtWgkGld79rU) | 3:54 | 2021-02-12 | 2022-07-29 |
-| [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 | 2021-02-12 |  |
+| [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 | 2021-02-12 | 2022-10-01 |
 | [Lockdown Boogie](https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq) | 5:18 | 2021-02-12 | 2022-09-29 |
 | [Lockdown Boogie](https://open.spotify.com/track/44m5C5PwRPijazjXQJESGG) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Lockdown Boogie](https://open.spotify.com/album/2UQzqEK9yKcIZjY4taxUk9) | 5:18 | 2021-02-12 | 2022-07-29 |
 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 | 2021-04-09 |  |
@@ -106,6 +106,7 @@
 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 | 2021-02-12 |  |
 | [Savannah](https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Free Colors](https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa) | 4:11 | 2022-04-08 | 2022-07-26 |
 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 | 2021-02-12 |  |
+| [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 | 2022-09-30 |  |
 | [Silk](https://open.spotify.com/track/0iYX1Xf1jihHuZOwW6YEJ1) | [Alexei Orechin](https://open.spotify.com/artist/0hpvhki3LNILjAIhOfcKAc) | [Mirages](https://open.spotify.com/album/6QKhPgKAdOdZ19Ueqy5GMa) | 6:59 | 2021-02-12 | 2022-07-29 |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2021-06-04 |  |
 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 | 2021-02-12 |  |

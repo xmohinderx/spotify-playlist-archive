@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-98 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+100 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Journey Within](https://open.spotify.com/track/3SrOqXX1Lez961c6hSKQnT) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Journey Within](https://open.spotify.com/album/7dq1vjG3DOb0aiUxMYKItr) | 3:15 | 2022-02-28 |  |
 | [Kepler's Law](https://open.spotify.com/track/6KI4H8nNADQYHQXrcWgJ4k) | [Aislinn Delarosa](https://open.spotify.com/artist/3uwheBIstOkeaW8Mx2hEv9) | [Greet The Day](https://open.spotify.com/album/7x4emLYlGslRZDwlffehF9) | 3:05 | 2022-02-28 |  |
 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-02-28 |  |
+| [Lake Como](https://open.spotify.com/track/4WstvhelZEHggLOZ4SyOqm) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Lake Como](https://open.spotify.com/album/5oSXlTvivXtQfW0YypVrRi) | 3:03 | 2022-09-30 |  |
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2022-02-28 |  |
 | [Luci Scure](https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Luci Scure](https://open.spotify.com/album/6OIQ9uhkkY8QYKbQqrDvUN) | 2:57 | 2022-02-28 |  |
 | [Magnificent](https://open.spotify.com/track/1stfXob94ikJI62rgUmv0Q) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Magnificent](https://open.spotify.com/album/3angJVLNrpywiTZZfU9pis) | 2:36 | 2022-02-28 |  |
@@ -60,6 +61,7 @@
 | [Midnight Rose](https://open.spotify.com/track/2vKrC9WVOelEnhhbDasiSe) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Ethereal](https://open.spotify.com/album/0rizgZBRMsmGtpor6EMBg7) | 2:58 | 2022-07-22 |  |
 | [Mind By Mind](https://open.spotify.com/track/2b5NdK8H3xoMkIw8FMJrnN) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Mind By Mind](https://open.spotify.com/album/3c9EBatnQAU6gfcGtsrtKV) | 3:35 | 2022-02-28 |  |
 | [Mind Over Matter](https://open.spotify.com/track/1qOGVdNpsQi00r2IffF9tU) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Mind Over Matter](https://open.spotify.com/album/2b1EFX3Oll9ioHZcJ2Sqj8) | 3:28 | 2022-02-28 |  |
+| [Mind Potential](https://open.spotify.com/track/7ciSUJLpfhwIROe5isZ40b) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Mind Potential](https://open.spotify.com/album/0TN86qtasVxZuR4t89VhEM) | 3:20 | 2022-09-30 |  |
 | [mise\-en\-scène](https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 2:29 | 2022-06-24 |  |
 | [Mystery of Life](https://open.spotify.com/track/683DWdGZBYaRVjQwO7v7X5) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 3:03 | 2022-02-28 |  |
 | [Night Mist](https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0) | [Chloe Wasserberg](https://open.spotify.com/artist/5yn2bigX2NEYuStz4JfS06) | [Night Mist](https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d) | 2:04 | 2022-02-28 |  |

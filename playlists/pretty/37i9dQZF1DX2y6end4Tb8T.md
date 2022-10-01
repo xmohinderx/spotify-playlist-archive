@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,319 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,368 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 62 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
 | 63 | [Sold Out Dates](https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sold Out Dates](https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG) | 2:21 |
 | 64 | [GNF \(OKOKOK\)](https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 1:56 |
-| 65 | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW) | 3:14 |
-| 66 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 |
+| 65 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 |
+| 66 | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW) | 3:14 |
 | 67 | [Seven Kayne: Bzrp Music Sessions, Vol\. 33](https://open.spotify.com/track/5PmK5pRspJq5ki30zgyv7G) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Seven Kayne: Bzrp Music Sessions, Vol\. 33](https://open.spotify.com/album/5VZx3dyGCnrp2JUQMbmi27) | 2:22 |
 | 68 | [Los Dioses](https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 4:38 |
 | 69 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 |
 | 100 | [Flow Pe$ado](https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Flow Pe$ado](https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX) | 2:53 |
 
-Snapshot ID: `MTY0NDg4NDQzMCwwMDAwMDAwMDcyOWRmZDU5NWRmYjg5MGY3MWZmZmQ0ZjVlMzJiYmY3`
+Snapshot ID: `MTY0NDg4NDQzMCwwMDAwMDAwMDZjYzkzMDM4OWNlMjEzZTUzNjhmNDA1MzA5NDlhMmI3`

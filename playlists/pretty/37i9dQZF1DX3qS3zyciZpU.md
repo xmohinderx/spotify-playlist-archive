@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 
 > The perfect songs for the perfect day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,297 likes - 109 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,346 likes - 109 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 | 25 | [Wedding Dress](https://open.spotify.com/track/2Jy50uaAgvyyrVOQsUv3rJ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Wedding Dress](https://open.spotify.com/album/48N7RsO9NW9PKALS4SJ40k) | 3:08 |
 | 26 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
 | 27 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF) | 3:04 |
-| 28 | [That's Why](https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5) | 3:01 |
+| 28 | [That's Why](https://open.spotify.com/track/5o9OzeMgVLS1TPOp0fS5Y6) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/6aj6PTILn9jvGP22OHye06) | 3:01 |
 | 29 | [Always Gonna Love You \- Radio Version](https://open.spotify.com/track/6gsQX5Ay6kjDSOrOsKSEsX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Always Gonna Love You](https://open.spotify.com/album/70iSqVyRZrN7Qmv0GPwYM5) | 2:57 |
 | 30 | [Love Song](https://open.spotify.com/track/0Rrvd39j2n5k92vwCPw9nc) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 2:49 |
 | 31 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 | 108 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 |
 | 109 | [The Way You Love Me](https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 3:06 |
 
-Snapshot ID: `MTY2MTQ2MzI2MiwwMDAwMDAwMDQwYTQxYTJlNmJkZjk5YTFkOTcxYzhlODMzYWMwYjJi`
+Snapshot ID: `MTY2MTQ2MzI2MiwwMDAwMDAwMDBiMTExYmVlYmI0NmI2ZmRmNDhiNjg1MTFiN2FhZTQ2`

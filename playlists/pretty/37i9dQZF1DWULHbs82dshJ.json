@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 46253,
+  "num_followers": 46281,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMGUxZjNmMGJlYmYzZjQyYWZkYjAwNTA2YzA0MDFiNGVh",
+  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDMwZDJlZmQ1NTVlM2U5NDRlYTJjOTUwMTY2NDA2OGJl",
   "tracks": [
     {
       "added_at": "2021-12-15 15:42:19",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Will You Still Love Me Tomorrow? - 2011",
+      "url": "https://open.spotify.com/track/0LbK1bodGLc9xmV1cS9jvL"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "Project 11",
         "url": "https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 282329,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Will You Still Love Me Tomorrow? - 2011",
-      "url": "https://open.spotify.com/track/0LbK1bodGLc9xmV1cS9jvL"
     },
     {
       "added_at": "2021-12-15 15:42:19",

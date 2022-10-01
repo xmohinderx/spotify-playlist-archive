@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-193 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
+194 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Iris](https://open.spotify.com/track/31Nyfw6uXmIB6qPUMHZs9N) | [Michael Constantino](https://open.spotify.com/artist/5RIA0Nu4LvmOvomuo99oIJ) | [Iris](https://open.spotify.com/album/3IPuJNlxmL7CVT3DA0TBth) | 3:24 | 2022-08-26 |  |
 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 | 2022-08-26 |  |
 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 | 2022-08-26 |  |
-| [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2022-08-26 |  |
+| [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2022-08-26 | 2022-10-01 |
+| [Kiss the Girl](https://open.spotify.com/track/4wJcS2F4VoJM2DR8en4EaW) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/1UzG66W3YFBdLnDG8Bh7hl) | 2:10 | 2022-09-29 |  |
 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-08-26 |  |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2022-08-26 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/0U8jEPi2k3UZqHK0jvzEe0) | [Powell Sullivan](https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS) | [Let Me Down Slowly](https://open.spotify.com/album/13m8lRDEDFZt7uoCqeCbZq) | 2:40 | 2022-08-26 |  |

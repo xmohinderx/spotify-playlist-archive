@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Sampa The Great
 
-170 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+171 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Where You Been?](https://open.spotify.com/track/4HUMystaJMh6u6Voe2l1eQ) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Where You Been?](https://open.spotify.com/album/0BmWKhB9B89Vt12ETbXLmw) | 2:40 | 2022-07-18 |  |
 | [woman](https://open.spotify.com/track/3AUW4YqukPw4YfBV1ZkkNe) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [woman](https://open.spotify.com/album/3PLwZChArK9UempZmyhGul) | 2:48 | 2022-07-18 |  |
 | [Worth It](https://open.spotify.com/track/4xxiRFjPWMpOdblDBM4QBW) | [Craig Isto](https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9), [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Twisted Love Fantasy](https://open.spotify.com/album/74WnB2zW5Q3EzqG8CbYMPZ) | 3:32 | 2022-07-18 | 2022-08-26 |
-| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-09-08 |  |
+| [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-09-08 | 2022-10-01 |
+| [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-09-08 |  |
 | [You Got the Juice](https://open.spotify.com/track/4HCeA8zmtEmmlNKJHWRUii) | [TALI](https://open.spotify.com/artist/518ZodQRWmIB3NXK21p1fY) | [You Got the Juice](https://open.spotify.com/album/32KTjG5evKYUB48QmGA1W9) | 2:35 | 2022-07-18 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

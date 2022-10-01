@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4674,
+  "num_followers": 4680,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDE3MWI4NzI3ZTk3NWJkNDg3NjZlMGE0ODFhNmNmNmZj",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDZjMjQzYzVkODk5ZjM1Y2YyYWY0ZWNhYjFkOWFkODQy",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -411,18 +411,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Disco (I Love It)",
-        "url": "https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB"
+        "name": "SEXORCISM",
+        "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
       },
       "artists": [
         {
-          "name": "Ditonellapiaga",
-          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         }
       ],
-      "duration_ms": 178636,
-      "name": "Disco (I Love It)",
-      "url": "https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl"
+      "duration_ms": 162781,
+      "name": "Cum (feat. Iggy Azalea)",
+      "url": "https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -443,22 +447,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "SEXORCISM",
-        "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
+        "name": "Disco (I Love It)",
+        "url": "https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB"
       },
       "artists": [
         {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        },
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
         }
       ],
-      "duration_ms": 162781,
-      "name": "Cum (feat. Iggy Azalea)",
-      "url": "https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI"
+      "duration_ms": 178636,
+      "name": "Disco (I Love It)",
+      "url": "https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Malena",
-          "url": "https://open.spotify.com/artist/2GMghh8UAwayZHkzkRPgcE"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "SCANDALOSA",
-      "url": "https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Magica Musica",
         "url": "https://open.spotify.com/album/4Pd36LZx3udvliJX2ukwAB"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 233584,
       "name": "Ogni pensiero vola",
       "url": "https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Malena",
+          "url": "https://open.spotify.com/artist/2GMghh8UAwayZHkzkRPgcE"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "SCANDALOSA",
+      "url": "https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Amore Hardcore",
-        "url": "https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Cicciolina",
-      "url": "https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Patrick Cowley: The Ultimate Collection",
         "url": "https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 337080,
       "name": "Menergy",
       "url": "https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Amore Hardcore",
+        "url": "https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Cicciolina",
+      "url": "https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "buco nero",
-        "url": "https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
       },
       "artists": [
         {
-          "name": "Voodoo Kid",
-          "url": "https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk"
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
         }
       ],
-      "duration_ms": 144150,
-      "name": "buco nero",
-      "url": "https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12"
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Mystic Motel",
-        "url": "https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4"
+        "name": "buco nero",
+        "url": "https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6"
       },
       "artists": [
         {
-          "name": "Laila Al Habash",
-          "url": "https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg"
+          "name": "Voodoo Kid",
+          "url": "https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk"
         }
       ],
-      "duration_ms": 150879,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6xktijW71ZdOvRNoWwBQU4"
+      "duration_ms": 144150,
+      "name": "buco nero",
+      "url": "https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12"
     }
   ],
   "unique_name": "Pride Italia",

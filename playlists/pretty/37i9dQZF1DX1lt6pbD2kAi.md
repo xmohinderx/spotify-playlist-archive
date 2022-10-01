@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Luísa Sonza e os hits do pop nacional em 2021!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,019 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,055 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 30 | [Tranquilita](https://open.spotify.com/track/6laODVkprSL1Z3mbzRV8h8) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Virginia](https://open.spotify.com/artist/0KjEperrzm0FRTsxnH9xv4) | [Tranquilita](https://open.spotify.com/album/4ccYnK4ulW5XnTdMZo0e2y) | 2:30 |
 | 31 | [Muito Prazer](https://open.spotify.com/track/4lr83Y9bskhsphElLXuAs6) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Muito Prazer](https://open.spotify.com/album/7agqEu7aGQlbqZMWVqkq00) | 2:40 |
 | 32 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 |
-| 33 | [Leão](https://open.spotify.com/track/2J1ypgIAzXp75ekOrTtYkC) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Zodíaco](https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR) | 3:15 |
+| 33 | [Leão](https://open.spotify.com/track/2J1ypgIAzXp75ekOrTtYkC) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Zodíaco](https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR) | 3:15 |
 | 34 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 |
 | 35 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 | 36 | [Onde Você Mora](https://open.spotify.com/track/7qpSEfTO2686bD0th4KEEM) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Onde Você Mora](https://open.spotify.com/album/5zYpZmVSr81MqPSyyDEpHq) | 4:13 |

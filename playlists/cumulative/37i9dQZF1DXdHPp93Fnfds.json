@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Son j\u00f3venes, guerreras y cool. Foto: Delfina Campos",
+  "description": "Son j\u00f3venes, guerreras y cool. Foto: Javiera Mena",
   "name": "Mujeres del Indie",
   "published_playlist_ids": [
     "3HX8jFotLiNc9gbpMw8vKv"
@@ -572,6 +572,24 @@
     },
     {
       "album": {
+        "name": "Aquellos Misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149625,
+      "name": "Aquellos Misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
+    },
+    {
+      "album": {
         "name": "Aquiles",
         "url": "https://open.spotify.com/album/4aM9vvvIr65K0m1C9PPKai"
       },
@@ -767,7 +785,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
@@ -4356,6 +4374,24 @@
     },
     {
       "album": {
+        "name": "Nocturna",
+        "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149900,
+      "name": "Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
+    },
+    {
+      "album": {
         "name": "Me preguntaba",
         "url": "https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN"
       },
@@ -6525,7 +6561,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 201196,
       "name": "Secretos",
       "url": "https://open.spotify.com/track/4tQzhgtJQavorNg6lJx2ah"

@@ -4,7 +4,7 @@
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-150 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/1SZQWs3WD9VeRF5jXaZeol)
+151 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/1SZQWs3WD9VeRF5jXaZeol)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY) | [Rachel Brown](https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE) | [The Band](https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0) | 3:39 | 2021-11-05 |  |
 | [I Want You Back](https://open.spotify.com/track/37N5kMRSKMZ51e7z2C9TLy) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [I Want You Back](https://open.spotify.com/album/6pgZGRynGEYJu6cHZe9NRO) | 2:46 | 2021-11-05 | 2022-07-29 |
 | [I Want You Back](https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:46 | 2022-02-04 |  |
-| [I Won't Back Down](https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [Won't You Be My Neighbor? \(A Benefit For Refugee Aid\)](https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S) | 3:12 | 2021-11-05 |  |
+| [I Won't Back Down](https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [Won't You Be My Neighbor? \(A Benefit For Refugee Aid\)](https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S) | 3:12 | 2021-11-05 | 2022-10-01 |
 | [I Won't Back Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 3:47 | 2021-11-05 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/38k2TOcAnlRoziKjLc3Ogd) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [The Return \(Love Comes Back\)](https://open.spotify.com/album/1UMLgFRhqyikYGgSxnkWSa) | 3:00 | 2021-11-05 | 2022-07-29 |
 | [I Would Die 4 U](https://open.spotify.com/track/7exBqqAMs0t2xDETXYvBAH) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/6DcwJRj8l5BvOpVjt7pLxS) | 3:00 | 2022-02-04 |  |
@@ -92,6 +92,7 @@
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-11-05 |  |
 | [Into The Mystic](https://open.spotify.com/track/3KnqKmlmKlgx0nmGM5Ks8Z) | [Andy Kong](https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP) | [Into The Mystic](https://open.spotify.com/album/1fIX2SntYbzlZxR1LB7uOR) | 2:48 | 2021-11-05 | 2022-07-29 |
 | [Into The Mystic](https://open.spotify.com/track/5YyEXkW5W3XBDmTYdvKfTE) | [Andy Kong](https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP) | [Into The Mystic](https://open.spotify.com/album/1cOvG9S55TwHWIRvqVmKWO) | 2:48 | 2022-02-04 |  |
+| [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 | 2022-09-30 |  |
 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 | 2021-11-05 |  |
 | [Let It Be](https://open.spotify.com/track/1nuInrrZzg1joRPjIk8oyS) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:38 | 2021-11-05 |  |
 | [Let's Dance](https://open.spotify.com/track/2ww6vlXkh2Ntw3pZwtqnHj) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/3I1zi5eB3rHCYye20JoG2U) | 5:00 | 2021-11-05 | 2022-07-29 |

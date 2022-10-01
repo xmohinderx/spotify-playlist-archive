@@ -158,6 +158,28 @@
     },
     {
       "album": {
+        "name": "Another Day Gone",
+        "url": "https://open.spotify.com/album/70aBKFu1NTqccXTHPVr682"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        },
+        {
+          "name": "Typow",
+          "url": "https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217299,
+      "name": "Another Day Gone",
+      "url": "https://open.spotify.com/track/1JZDE8ZhpxlWYy1r09vjDe"
+    },
+    {
+      "album": {
         "name": "Better When You're Gone",
         "url": "https://open.spotify.com/album/7vJ6q3MwQF2aj4Zbgq44gz"
       },
@@ -807,7 +829,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 222479,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0EvDKZOVkcDUkJdQOIscMA"
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 187506,
       "name": "It's like a dream",
       "url": "https://open.spotify.com/track/6EJk6D8XbJsr6GjZp1XVT5"
@@ -1333,6 +1355,28 @@
       "duration_ms": 188216,
       "name": "Love And Appreciation - Radio Edit",
       "url": "https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT"
+    },
+    {
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/3nCkMF4a6k4y53S5esgacG"
+      },
+      "artists": [
+        {
+          "name": "Leif",
+          "url": "https://open.spotify.com/artist/18Hmt48JdoqU1aNfFjlXEN"
+        },
+        {
+          "name": "J Matty",
+          "url": "https://open.spotify.com/artist/1TNhcMWtFXnVTeBHyVQkfw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/55P4JZd6AIy0uw7Idyod5e"
     },
     {
       "album": {

@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Ace Of Spades",
+        "url": "https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Ace Of Spades",
+      "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
+    },
+    {
+      "album": {
         "name": "Ain't That Lovin' You",
         "url": "https://open.spotify.com/album/6hRhku9LbgLHLrQPa4Uv6A"
       },
@@ -283,6 +301,24 @@
       "duration_ms": 229760,
       "name": "Beat The Devil",
       "url": "https://open.spotify.com/track/3XYMYGSPtFvczwyKpYmtXk"
+    },
+    {
+      "album": {
+        "name": "One Foot In The Groove",
+        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265010,
+      "name": "Big Legged Man",
+      "url": "https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj"
     },
     {
       "album": {
@@ -931,6 +967,28 @@
       "duration_ms": 358000,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko"
+    },
+    {
+      "album": {
+        "name": "Follow The Money (feat. James Taylor)",
+        "url": "https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Follow The Money (feat. James Taylor)",
+      "url": "https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E"
     },
     {
       "album": {
@@ -2069,6 +2127,24 @@
       "duration_ms": 208700,
       "name": "Love At First Sight",
       "url": "https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ"
+    },
+    {
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
     },
     {
       "album": {
@@ -4023,7 +4099,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 279840,
       "name": "We Go Back (feat. Mavis Staples)",
       "url": "https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w"

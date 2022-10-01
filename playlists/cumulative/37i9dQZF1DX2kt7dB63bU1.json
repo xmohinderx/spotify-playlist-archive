@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 234364,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2BocrpGhXJEWczeLLTkCye"
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 183875,
       "name": "Delta Lady",
       "url": "https://open.spotify.com/track/2LU7TTi6IBhCwn3g1vyQ1N"
@@ -2957,7 +2957,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 379498,
       "name": "Getting to Know You",
       "url": "https://open.spotify.com/track/6W2bvbDFUNjEWm1EfAd34w"
@@ -4752,6 +4752,24 @@
     },
     {
       "album": {
+        "name": "Live At Cotton Club",
+        "url": "https://open.spotify.com/album/3fqKWcYYS590OyBmcAbR5K"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206358,
+      "name": "L-O-V-E - Live At Cotton Club",
+      "url": "https://open.spotify.com/track/0nDie8OPBNLQ1QrDoU2Qxe"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
       },
@@ -5473,7 +5491,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 221662,
       "name": "Love's Not Fair",
       "url": "https://open.spotify.com/track/1NENHY9ZNId9QP2NFs97xN"
@@ -5987,7 +6005,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 311423,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/2m7mn0YHBcPLfZaNwmzBp8"
@@ -6215,6 +6233,24 @@
       "duration_ms": 325455,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/18piOBRPMJS16dqW3BiJ4P"
+    },
+    {
+      "album": {
+        "name": "Nobody's Heart",
+        "url": "https://open.spotify.com/album/6qUsKuzMSbit64Vqsinh6i"
+      },
+      "artists": [
+        {
+          "name": "Diana Panton",
+          "url": "https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207653,
+      "name": "Nobody's Heart",
+      "url": "https://open.spotify.com/track/3iHZwjnoJtIf2ULiUYfpCj"
     },
     {
       "album": {
@@ -7706,6 +7742,32 @@
     },
     {
       "album": {
+        "name": "Asta Hairston Songbook",
+        "url": "https://open.spotify.com/album/7sleoEtFgrxfK1EBCjWldG"
+      },
+      "artists": [
+        {
+          "name": "Nicki Richards",
+          "url": "https://open.spotify.com/artist/2cEBjGdze7R6fxaRtfnM9L"
+        },
+        {
+          "name": "Gustavo Casenave",
+          "url": "https://open.spotify.com/artist/0hxq5ox7ApLGmfkLZC34wK"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267510,
+      "name": "Tell Me Now",
+      "url": "https://open.spotify.com/track/6TUOxU9g4ePCHnzYOfWSJs"
+    },
+    {
+      "album": {
         "name": "That Face",
         "url": "https://open.spotify.com/album/3gjpmhf7HyDfzEDIAV6O7O"
       },
@@ -7721,6 +7783,40 @@
       "duration_ms": 252268,
       "name": "That Face",
       "url": "https://open.spotify.com/track/7bcWnfUxlvqG3AwH3rYmuB"
+    },
+    {
+      "album": {
+        "name": "That Old Black Magic",
+        "url": "https://open.spotify.com/album/1iMfTwsoUpma8937v7hHps"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312864,
+      "name": "That Old Black Magic",
+      "url": "https://open.spotify.com/track/1Vf48p1EPe5DiOxuzoo2w6"
     },
     {
       "album": {
@@ -8778,6 +8874,24 @@
     },
     {
       "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/1IZmFBq6cAin0qXb1N4bmW"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400932,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/3gcaNguYgSsoyAEROzy5B9"
+    },
+    {
+      "album": {
         "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
         "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
       },
@@ -8811,7 +8925,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 247874,
       "name": "Vertigo - Edit",
       "url": "https://open.spotify.com/track/4czkeCxSE4fexhDUH1WyRW"
@@ -9017,6 +9131,28 @@
       "duration_ms": 198506,
       "name": "We'll Meet Again",
       "url": "https://open.spotify.com/track/5K16GdZSAq32ZYz9P92JoA"
+    },
+    {
+      "album": {
+        "name": "West Coast Blues",
+        "url": "https://open.spotify.com/album/0PWh0Tcn9Vy2YPU33H9I4E"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        },
+        {
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159386,
+      "name": "West Coast Blues",
+      "url": "https://open.spotify.com/track/0iwOlDvcknjVHDuOjMiDB1"
     },
     {
       "album": {

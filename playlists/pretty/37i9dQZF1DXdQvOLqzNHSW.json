@@ -1,12 +1,12 @@
 {
   "description": "Slow burners for late nights.",
-  "num_followers": 783090,
+  "num_followers": 783670,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcxOTkyOCwwMDAwMDAwMDFmMTIyYjBmZDA3ZDAxMDNlMDllMWFiNGU4MjdhMTEz",
+  "snapshot_id": "MTY2NDUxNjcwMCwwMDAwMDAwMDQ1Njk4ODEzMzczZGVmN2U0YjFhMTg5NGM1NTk1ZTM1",
   "tracks": [
     {
       "added_at": "2022-09-20 14:46:46",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
-      "added_at": "2022-09-19 17:18:26",
+      "added_at": "2022-09-30 05:45:00",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+        "name": "Glass House (with DLG.)",
+        "url": "https://open.spotify.com/album/0ky7rRyyKVz2bLv69NFYQK"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
         }
       ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+      "duration_ms": 205044,
+      "name": "Glass House (with DLG.)",
+      "url": "https://open.spotify.com/track/5FULv6bbjwbqX1JQ2NaW5C"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -75,6 +79,22 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
@@ -87,22 +107,6 @@
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "There\u2019d Better Be A Mirrorball",
-        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -123,18 +127,18 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
       },
       "artists": [
         {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 295600,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -155,6 +159,22 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
         "name": "In Tongues (Deluxe)",
         "url": "https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ"
       },
@@ -167,22 +187,6 @@
       "duration_ms": 202102,
       "name": "Will He",
       "url": "https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -203,18 +207,18 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -283,22 +287,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Savior Complex",
-      "url": "https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -315,6 +303,22 @@
       "duration_ms": 216160,
       "name": "Invincible (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Savior Complex",
+      "url": "https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q"
     },
     {
       "added_at": "2022-09-21 00:25:28",
@@ -351,22 +355,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "A Song About Being Sad",
-      "url": "https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Being So Normal",
         "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
       },
@@ -379,6 +367,22 @@
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "A Song About Being Sad",
+      "url": "https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -435,18 +439,18 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Velvet Light",
-        "url": "https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb"
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
       },
       "artists": [
         {
-          "name": "Jakob",
-          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 141587,
-      "name": "Velvet Light",
-      "url": "https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4"
+      "duration_ms": 239001,
+      "name": "Dead of Night",
+      "url": "https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -463,22 +467,6 @@
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 239001,
-      "name": "Dead of Night",
-      "url": "https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -661,6 +649,26 @@
       "url": "https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV"
     },
     {
+      "added_at": "2022-09-30 05:45:00",
+      "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 301242,
+      "name": "Diarabi",
+      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+    },
+    {
       "added_at": "2022-09-19 17:18:26",
       "album": {
         "name": "Want U Around (feat. Ruel)",
@@ -787,22 +795,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Oh No / Liahr",
-        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -819,6 +811,22 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Oh No / Liahr",
+        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -967,22 +975,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "cz",
-        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 228946,
-      "name": "cz",
-      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Make Out in My Car: Chameleon Suite",
         "url": "https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee"
       },
@@ -999,6 +991,22 @@
       "duration_ms": 166880,
       "name": "Make Out in My Car - Sufjan Stevens Version",
       "url": "https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "cz",
+        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 228946,
+      "name": "cz",
+      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -1023,22 +1031,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 91706,
-      "name": "Olson",
-      "url": "https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
@@ -1055,6 +1047,22 @@
       "duration_ms": 274693,
       "name": "Break Apart",
       "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -1143,6 +1151,22 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
+        "name": "The Moon and the Mind",
+        "url": "https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        }
+      ],
+      "duration_ms": 153728,
+      "name": "Drifting Off",
+      "url": "https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
         "name": "Underwaterfall",
         "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
       },
@@ -1175,22 +1199,6 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
-        "name": "The Moon and the Mind",
-        "url": "https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X"
-      },
-      "artists": [
-        {
-          "name": "Laffey",
-          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
-        }
-      ],
-      "duration_ms": 153728,
-      "name": "Drifting Off",
-      "url": "https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V"
     },
     {
       "added_at": "2022-09-19 17:18:26",

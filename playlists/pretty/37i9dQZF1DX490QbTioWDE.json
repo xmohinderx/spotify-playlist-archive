@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 511625,
+  "num_followers": 512041,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDIyYzI4YzM5MzRmNmRjNTkwMDI2YWFkODQ5ZjBhOTM0",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGM3ZTVlYjgwNDgyYmM2OTUxYzJkYTFjNTM3MTZiMDY0",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -639,8 +639,8 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Como Si No Importara",
-        "url": "https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu"
+        "name": "Ex de Verdad",
+        "url": "https://open.spotify.com/album/3KHctnefJp6w3hfYQetKoB"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 107442,
-      "name": "Como Si No Importara",
-      "url": "https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA"
+      "duration_ms": 178861,
+      "name": "Ex de Verdad",
+      "url": "https://open.spotify.com/track/4iRMSAo4Ghq2njwcUAZy9n"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Esta de Moda",
         "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 204382,
       "name": "Lo Aprend\u00ed de Ti",
       "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "La Fiesta Es De Primera",
-        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
       "artists": [
         {
           "name": "La Fiesta",
           "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 319280,
-      "name": "Vuela",
-      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
+      "duration_ms": 200362,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1511,22 +1515,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "200 Copas (En Vivo)",
-        "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
-      },
-      "artists": [
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "200 Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Hoy Y Siempre (En Vivo)",
         "url": "https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI"
       },
@@ -1539,6 +1527,22 @@
       "duration_ms": 209121,
       "name": "Mil Demonios - En Vivo",
       "url": "https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "200 Copas (En Vivo)",
+        "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "200 Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1575,22 +1579,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
+        "name": "La Fiesta Es De Primera",
+        "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
       },
       "artists": [
         {
           "name": "La Fiesta",
           "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 200362,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
+      "duration_ms": 319280,
+      "name": "Vuela",
+      "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Un Nuevo Tiempo",
-        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
       },
       "artists": [
         {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 136318,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
+      "duration_ms": 196588,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Un Nuevo Tiempo",
+        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "duration_ms": 136318,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Clavadito en Mi Piel",
         "url": "https://open.spotify.com/album/7IyvidqKyPRQSYdh7IxNqQ"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 222378,
       "name": "Clavadito en Mi Piel",
       "url": "https://open.spotify.com/track/6o6e6brRpDEoHopQAeKwy1"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 196588,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Pleno",
-        "url": "https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr"
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/6uSys9pSb3hy8jUOFlM8Uw"
       },
       "artists": [
         {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij"
+      "duration_ms": 209040,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/7mYr1AckRMJGRIjXipJ7yW"
     }
   ],
   "unique_name": "100% Cuarteto",

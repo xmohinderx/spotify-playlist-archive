@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-795 songs - 1 day 17 hr 35 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+796 songs - 1 day 17 hr 39 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Danmarks Drenge](https://open.spotify.com/track/0p030Tlxy9EBpA9Un2uSsh) | [Søren Poppe](https://open.spotify.com/artist/4IIzHcHwmfGxdVznMYZAHZ) | [Hvert Minut](https://open.spotify.com/album/0Gw2GlkhIIVi5BeE9DMiDU) | 3:34 | 2021-06-14 | 2021-07-10 |
 | [Danmarks Dynamite](https://open.spotify.com/track/3vhHc9HYELbqr7aS5s0yNO) | [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX), [Alphabeat](https://open.spotify.com/artist/7Defmv25Kj9knpobhHIghm) | [Danmarks Dynamite](https://open.spotify.com/album/72ffC16VTP6obdvTXHfnhV) | 2:53 | 2021-06-06 | 2021-07-11 |
 | [DANS \(BURHAN G X TOBIAS RAHIM X CARL KNAST\)](https://open.spotify.com/track/6mvSmSL2bPSbwb1L094sp4) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [DANS \(BURHAN G X TOBIAS RAHIM X CARL KNAST\)](https://open.spotify.com/album/2rQubaORj2wlU5gyE3Ul9o) | 2:48 | 2021-10-23 | 2021-10-31 |
-| [Danser](https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Danser](https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv) | 2:39 | 2022-04-23 |  |
+| [Danser](https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Danser](https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv) | 2:39 | 2022-04-23 | 2022-10-01 |
 | [Danser Med Diablo](https://open.spotify.com/track/3Y7DrSY1cnn7AyTakPIzsW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Danser Med Diablo](https://open.spotify.com/album/5X4FnXVZQ0JJjdCQU1s52Q) | 2:45 | 2021-08-22 | 2021-09-13 |
 | [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2022-08-19 |  |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
@@ -265,6 +265,7 @@
 | [Fuego \(feat\. Branco\)](https://open.spotify.com/track/7ED0LkstNvkMi3gMTBQKfe) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Fuego \(feat\. Branco\)](https://open.spotify.com/album/1zzGLMdAGtwdMpNWXPjvwO) | 2:43 | 2022-07-16 | 2022-07-24 |
 | [føler mig selv 100](https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [føler mig selv 100](https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF) | 3:27 | 2021-03-29 | 2022-09-07 |
 | [Gamle Vaner](https://open.spotify.com/track/1cSuZS4kWkpDRCXpMLDfsp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 1:40 | 2021-05-30 | 2021-05-31 |
+| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
 | [Gemmeleg](https://open.spotify.com/track/2M6Rc5O34wf6GpxJ9Z6sh6) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS) | [Gemmeleg](https://open.spotify.com/album/7v9YtbczVOzC7MY2LfHYUA) | 2:22 | 2022-04-09 | 2022-04-24 |
 | [Get Along Better](https://open.spotify.com/track/5ScbulRnixQ2XAdvrPMFjz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:49 | 2021-09-05 | 2021-09-06 |

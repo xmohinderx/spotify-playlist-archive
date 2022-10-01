@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 511204,
+  "num_followers": 512604,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMjcxMCwwMDAwMDAwMGIzMWQ3YTJhZTM1YzJjOWNkMGQ0M2VhNTQ5OTliMTY1",
+  "snapshot_id": "MTY2NDIwMjcxMCwwMDAwMDAwMDIwNGJmZGQ1NjA2NDZjOGU3MmMxYWRhYmJmNmE5Mjll",
   "tracks": [
     {
       "added_at": "2022-08-26 06:26:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
+        "name": "Righteous (SLOW & REVERB)",
+        "url": "https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "duration_ms": 180403,
+      "name": "Righteous (SLOW & REVERB)",
+      "url": "https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
         "name": "Frozen (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
-        "name": "Righteous (SLOW & REVERB)",
-        "url": "https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC"
-      },
-      "artists": [
-        {
-          "name": "Mo Beats",
-          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
-        }
-      ],
-      "duration_ms": 180403,
-      "name": "Righteous (SLOW & REVERB)",
-      "url": "https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -793,6 +793,26 @@
       "url": "https://open.spotify.com/track/3X9DJqqtiG2Uh48TDhtMgn"
     },
     {
+      "added_at": "2022-09-26 14:31:50",
+      "album": {
+        "name": "Banakula @ Meh (Original)",
+        "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
+      },
+      "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "Hal Walker",
+          "url": "https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw"
+        }
+      ],
+      "duration_ms": 106867,
+      "name": "Meh (Banakula) - Slowed",
+      "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
+    },
+    {
       "added_at": "2022-08-26 06:26:00",
       "album": {
         "name": "Ease Off (Slowed & Reverbed)",
@@ -827,26 +847,6 @@
       "duration_ms": 208793,
       "name": "Losing It - Slowed and Reverb",
       "url": "https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1"
-    },
-    {
-      "added_at": "2022-09-26 14:31:50",
-      "album": {
-        "name": "Banakula @ Meh (Original)",
-        "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
-      },
-      "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
-        {
-          "name": "Hal Walker",
-          "url": "https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw"
-        }
-      ],
-      "duration_ms": 106867,
-      "name": "Meh (Banakula) - Slowed",
-      "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -943,18 +943,22 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "This December (slow)",
-        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
+        "name": "My Head In The Sky",
+        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "ZRobb",
+          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
         }
       ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
+      "duration_ms": 95108,
+      "name": "I Don't Trust Nobody - Slowed and Reverb",
+      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
     }
   ],
   "unique_name": "slowed and reverbed",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,453 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,458 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 15 | [Won't Stop](https://open.spotify.com/track/3E6vBWSs6zjoSnlUVmo3yS) | [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Won't Stop](https://open.spotify.com/album/1VqCHljcYQir5atLxEXSJW) | 3:03 |
 | 16 | [Time \(feat\. Rone'e Mozee\)](https://open.spotify.com/track/0kK40uWFqXRIguP8bR3zWA) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [The Elevator Album](https://open.spotify.com/album/6sqoYrqQFWonc33GsRZSvh) | 2:34 |
 | 17 | [Finding Home](https://open.spotify.com/track/2Eq4vwSxJrDsnl05zrFUPY) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Soul Feather](https://open.spotify.com/album/3X4BkDqWNOyXOIqYUBIlVx) | 2:14 |
-| 18 | [syrupy](https://open.spotify.com/track/0jL4kBFDLR9tCJuDP9B7iH) | [av4ln](https://open.spotify.com/artist/3E6IjOeXDYo2swzAUYZ5ln), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [syrupy](https://open.spotify.com/album/7j9dYye1M5ANMKkBhK0pnV) | 2:49 |
+| 18 | [syrupy](https://open.spotify.com/track/0jL4kBFDLR9tCJuDP9B7iH) | [av4ln](https://open.spotify.com/artist/3E6IjOeXDYo2swzAUYZ5ln) | [syrupy](https://open.spotify.com/album/7j9dYye1M5ANMKkBhK0pnV) | 2:49 |
 | 19 | [Pure Imagination](https://open.spotify.com/track/3VtDoxZ7IztQVQAomuXqWC) | [Ruben Wan](https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5) | [Pure Imagination](https://open.spotify.com/album/2genDz0QoWigwoBg202foH) | 2:06 |
 | 20 | [Runaway](https://open.spotify.com/track/1itgrD1BIDPArSA5bPiWEG) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Magnus Klausen](https://open.spotify.com/artist/0pTklYPGOTeu00nkkr5QeM) | [Runaway](https://open.spotify.com/album/1c0f27jKckR5MkaCjHVtxy) | 2:14 |
 | 21 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |

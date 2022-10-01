@@ -4,7 +4,7 @@
 
 > Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
 
-92 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
+95 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,8 @@
 | [I Shall Know Him](https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:44 | 2022-05-25 |  |
 | [I Wonder](https://open.spotify.com/track/6g05jJU74C6NUe1hGrt64l) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 | 2022-05-25 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 | 2022-05-25 |  |
+| [I'm Too Far Gone \(To Turn Around\) \- Single Version](https://open.spotify.com/track/1Mg1MdaOkkR5QQz2Ue6T2v) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1) | 3:19 | 2022-09-30 |  |
+| [It Keeps Rainin'](https://open.spotify.com/track/18ZgdyWzmvCeCgaaTjYdW1) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2), [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [House Rent Party](https://open.spotify.com/album/3HuL9ZjOuJT9j6XG5rG3DS) | 2:49 | 2022-09-30 |  |
 | [Jailhouse Blues](https://open.spotify.com/track/6zztQp5inrZlmdFNKrbvWt) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:13 | 2022-05-25 | 2022-07-29 |
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |
 | [Just to Be with You](https://open.spotify.com/track/3kL0JfaoEauCJtfVaguks4) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [In My Own Dream](https://open.spotify.com/album/1st5CMxAwDzfBie0lE7PaH) | 6:12 | 2022-07-28 |  |
@@ -62,6 +64,7 @@
 | [My Baby She Gonna Jump And Shout](https://open.spotify.com/track/0qbLQoKO4D8YUVhyyBHdJQ) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [I Do Not Play No Rock 'N' Roll: The Complete Sessions](https://open.spotify.com/album/5whqFDdbEZHSaKHrTfuWbX) | 2:40 | 2022-05-25 |  |
 | [My Home Is In The Delta](https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:01 | 2022-05-25 |  |
 | [My Love Will Never Die](https://open.spotify.com/track/4CSfhjIwodTBVOpuU8pxG8) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [The Essential Otis Rush](https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68) | 3:06 | 2022-05-25 | 2022-07-29 |
+| [My Love Will Never Die](https://open.spotify.com/track/3Ng8SjHebBRprzCm2x78uD) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 3:08 | 2022-09-30 |  |
 | [Nervous](https://open.spotify.com/track/4qwenYNSJMSfn546XeoyWc) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 3:15 | 2022-07-28 |  |
 | [No Money, No Luck Blues](https://open.spotify.com/track/7IeePSkHyhykY6dXmNLhAa) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 3:46 | 2022-05-25 |  |
 | [Nobody's Fault But Mine](https://open.spotify.com/track/5JqudmMiQTWJl465xUc7LZ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of](https://open.spotify.com/album/3WVB8a1INWqY6TUieQzn9t) | 2:58 | 2022-05-25 | 2022-07-29 |

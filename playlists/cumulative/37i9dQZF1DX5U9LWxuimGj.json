@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "Kat & Alex Lado B",
+        "url": "https://open.spotify.com/album/2q3MgdvSHJ2MbldHccxoC2"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161493,
+      "name": "Como Las Cinco Un Viernes - 5 on a Friday - Spanish Version",
+      "url": "https://open.spotify.com/track/3ndv8kUmluaGkfrHMeYfmo"
+    },
+    {
+      "album": {
         "name": "Country'd Look Good On You",
         "url": "https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO"
       },

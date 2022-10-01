@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Bad Girl - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6xjNioXsWUYOduKYUrjuEX"
+    },
+    {
+      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 205973,
       "name": "Bar-B-Q",
       "url": "https://open.spotify.com/track/5ondtkwlkDYxPagDIm8JsK"
@@ -257,6 +275,24 @@
       "duration_ms": 213600,
       "name": "Francine",
       "url": "https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB"
+    },
+    {
+      "album": {
+        "name": "The Very Baddest of ZZ Top",
+        "url": "https://open.spotify.com/album/4ADUZQ1pM9r9f49MX8cUdl"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211773,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/251LsIzSjWnlnxvWYLCucN"
     },
     {
       "album": {
@@ -595,7 +631,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 209786,
       "name": "Master of Sparks - 2006 Remaster",
       "url": "https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y"
@@ -667,7 +703,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 207200,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/1WryOnXklb939nAXxY0Ix2"
@@ -923,7 +959,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 230573,
       "name": "TV Dinners - 2008 Remaster",
       "url": "https://open.spotify.com/track/4c0IaYoW94OEFhJE40zcQb"

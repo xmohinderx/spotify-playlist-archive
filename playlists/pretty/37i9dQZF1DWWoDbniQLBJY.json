@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2013327,
+  "num_followers": 2013376,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMGIyNWRlNTkzOTI5Nzk4YTU4MTJiM2E3OTdkMTI4NWEz",
+  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMDEyMmZmZjUzOGU0YzllYmZhYzg3ZGJhZDExZmE5NjA1",
   "tracks": [
     {
       "added_at": "2022-08-05 16:21:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "No Valgo Pa' Ciudad",
-        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "No Valgo Pa' Ciudad",
-      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "chiquita",
         "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 198720,
       "name": "culpa",
       "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "No Valgo Pa' Ciudad",
+        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "No Valgo Pa' Ciudad",
+      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Al otro lado del rio",
         "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
       },
@@ -571,6 +555,50 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "Saudade (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        },
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Los Hermanos Naturales",
+          "url": "https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 296671,
+      "name": "Saudade - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -607,34 +635,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Saudade (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
-      },
-      "artists": [
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        },
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Los Hermanos Naturales",
-          "url": "https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 296671,
-      "name": "Saudade - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Un T\u00e9 de Tilo por Favor",
         "url": "https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 207893,
       "name": "Lo Que Perdimos",
       "url": "https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 344666,
-      "name": "Vivir Sin Aire - Unplugged",
-      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -683,18 +667,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 231990,
-      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
+      "duration_ms": 344666,
+      "name": "Vivir Sin Aire - Unplugged",
+      "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 224600,
-      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
+      "duration_ms": 231990,
+      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -743,6 +727,22 @@
       "duration_ms": 255514,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -775,30 +775,6 @@
       "duration_ms": 266104,
       "name": "Pasos de cero - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "El Embrujo",
-        "url": "https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Antonio Carmona",
-          "url": "https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo"
-        },
-        {
-          "name": "Josemi Carmona",
-          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "El Embrujo",
-      "url": "https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -867,6 +843,30 @@
       "duration_ms": 179904,
       "name": "Ser Guitarra",
       "url": "https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "El Embrujo",
+        "url": "https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Antonio Carmona",
+          "url": "https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo"
+        },
+        {
+          "name": "Josemi Carmona",
+          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "El Embrujo",
+      "url": "https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 152533,
-      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Shakira MTV Unplugged",
         "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 298773,
       "name": "Estoy Aqu\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Downtown (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
-      },
-      "artists": [
-        {
-          "name": "Mechi Pieretti",
-          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
-        }
-      ],
-      "duration_ms": 204452,
-      "name": "Downtown - Acoustic Version",
-      "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 238817,
       "name": "Saudade - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Downtown (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
+      },
+      "artists": [
+        {
+          "name": "Mechi Pieretti",
+          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
+        }
+      ],
+      "duration_ms": 204452,
+      "name": "Downtown - Acoustic Version",
+      "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+        "name": "Hasta Que Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Juliana Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Amanec\u00ed Nublado",
-      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
+      "duration_ms": 191052,
+      "name": "Hasta Que Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Hasta Que Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
       "artists": [
         {
-          "name": "Juliana Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 191052,
-      "name": "Hasta Que Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "creo que todo estar\u00e1 bien",
-        "url": "https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 220073,
-      "name": "creo que todo estar\u00e1 bien",
-      "url": "https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Am\u00e1",
         "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 176256,
       "name": "Am\u00e1",
       "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "creo que todo estar\u00e1 bien",
+        "url": "https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 220073,
+      "name": "creo que todo estar\u00e1 bien",
+      "url": "https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st"
     },
     {
       "added_at": "2022-08-05 16:21:41",

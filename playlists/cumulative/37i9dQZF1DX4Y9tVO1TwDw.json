@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "La Cumbia Del Cucuy",
+        "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135370,
+      "name": "La Cumbia Del Cucuy",
+      "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
+    },
+    {
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },

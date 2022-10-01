@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,224 likes - 136 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,276 likes - 136 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 60 | [Don't Be Cruel](https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Don't Be Cruel](https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq) | 2:41 |
 | 61 | [Help!](https://open.spotify.com/track/54aVuDTgpImivXNxanNnCG) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Help!](https://open.spotify.com/album/2q3DDnj2Dob01ZHzlHVlVJ) | 3:56 |
 | 62 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 |
-| 63 | [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 |
+| 63 | [Kiss the Girl](https://open.spotify.com/track/4wJcS2F4VoJM2DR8en4EaW) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/1UzG66W3YFBdLnDG8Bh7hl) | 2:10 |
 | 64 | [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 |
 | 65 | [Blackbird \- Special Edition](https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:19 |
 | 66 | [Light My Fire \(Acoustic\)](https://open.spotify.com/track/146msM6JSCnXKCqZC1imO9) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Reconstruct](https://open.spotify.com/album/29byaGyjRvRuCJ3Hrvf0qa) | 2:49 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 135 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/5PacEiW4GT9mLA1d0W95tA) | [Vivid Color](https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H) | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/album/4mR4c3Ljm6Ch58uEOiGk1N) | 3:17 |
 | 136 | [Scared To Be Lonely \- Acoustic](https://open.spotify.com/track/2R0Z1JwgoCsBeoWErbAHgs) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scared To Be Lonely](https://open.spotify.com/album/0gFkq8SkHKL5YbNfvm4yMs) | 3:20 |
 
-Snapshot ID: `MTY2MzY3MzQxMywwMDAwMDAwMDhkN2NlZjZiNDc0ZWJlODBkNDE1NTM2ODg3MThiYzc2`
+Snapshot ID: `MTY2MzY3MzQxMywwMDAwMDAwMGY1NmU2ODA2ZTczMzA5NjExYTUxMmQxOGUyMTZhMzFl`
