@@ -1442,6 +1442,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [FINAL FANTASY](/playlists/pretty/37i9dQZF1DX8wCc28V2cVW.md)
 - [FINAL FANTASY \(2\)](/playlists/pretty/37i9dQZF1DWYnGFRu5xvi8.md)
 - [FORYOU](/playlists/pretty/37i9dQZF1DX5PcuIKocvtW.md)
+- [FRIDAY HAUS \- " PLAYLIST BY BLEU CLAIR "](/playlists/pretty/6ZkpoSfbVoUoMm6rvrQEUm.md)
 - [FRONTEO](/playlists/pretty/37i9dQZF1DX6jW9mPgBGv2.md)
 - [Fairy Tales](/playlists/pretty/37i9dQZF1DX0gxuYiQFvQL.md)
 - [Faith Finds](/playlists/pretty/37i9dQZF1DX82qPOvdCxxq.md)
