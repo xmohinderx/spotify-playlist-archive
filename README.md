@@ -3449,6 +3449,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Songs of Summer](/playlists/pretty/37i9dQZF1DX4zbZrYRGVam.md)
 - [Songs to Sing in the Car](/playlists/pretty/37i9dQZF1DWWMOmoXKqHTD.md)
 - [Songs to Sing in the Shower](/playlists/pretty/37i9dQZF1DWSqmBTGDYngZ.md)
+- [Songs to do CPR to](/playlists/pretty/7oJx24EcRU7fIVoTdqKscK.md)
 - [Sonisphere](/playlists/pretty/2fC7gpl3V9MmCc8gBPHc66.md)
 - [Soothing Strings For Sleeping Babies](/playlists/pretty/37i9dQZF1DX2C8CFEPyYmg.md)
 - [Sopa y Seco](/playlists/pretty/37i9dQZF1DX48FwbwX2U8a.md)
