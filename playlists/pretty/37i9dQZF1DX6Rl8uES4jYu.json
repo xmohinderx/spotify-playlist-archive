@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 234924,
+  "num_followers": 234920,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGUxNTdiZjAyZjM1ZmJmYTNjMzBjOTlmNGJiOTM0OTRm",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGM4MjBjMDM3NDQ0NDlhMzc1ZmQyMmRjZjAyZWFkMmQ5",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "GUCCI BAG",
+        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 134193,
+      "name": "GUCCI BAG",
+      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Let Love Go",
@@ -543,22 +559,6 @@
       "duration_ms": 173266,
       "name": "Let Love Go",
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "GUCCI BAG",
-        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 134193,
-      "name": "GUCCI BAG",
-      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -765,38 +765,6 @@
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Matisyahu",
-        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
-      },
-      "artists": [
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Mama Please Don't Worry",
-      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "These Days",
@@ -817,6 +785,22 @@
       "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Matisyahu",
+        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Mama Please Don't Worry",
+      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
+    },
+    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Sweet Side",
@@ -831,6 +815,22 @@
       "duration_ms": 205862,
       "name": "Undone",
       "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
+        "url": "https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
+      "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "I Told You",
@@ -975,22 +991,6 @@
       "duration_ms": 207023,
       "name": "I Told You",
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
-        "url": "https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
-      "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Tell Me",
@@ -1073,48 +1057,20 @@
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "According To You",
-        "url": "https://open.spotify.com/album/4ghBbVW4BChwFam44puXov"
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
       },
       "artists": [
         {
-          "name": "Misha",
-          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
-        },
-        {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
-        },
-        {
-          "name": "Kapok",
-          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         }
       ],
-      "duration_ms": 183870,
-      "name": "According To You",
-      "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Power Station",
-        "url": "https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Joey Dosik",
-          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
-        }
-      ],
-      "duration_ms": 218248,
-      "name": "First Avenue",
-      "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1139,6 +1095,50 @@
       "duration_ms": 137798,
       "name": "Making it Right",
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Power Station",
+        "url": "https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        }
+      ],
+      "duration_ms": 218248,
+      "name": "First Avenue",
+      "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "According To You",
+        "url": "https://open.spotify.com/album/4ghBbVW4BChwFam44puXov"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        },
+        {
+          "name": "Kapok",
+          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "According To You",
+      "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "People People",
-        "url": "https://open.spotify.com/album/6AdhgefWLxvq89hIRKeRRn"
-      },
-      "artists": [
-        {
-          "name": "Just Jack",
-          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
-        }
-      ],
-      "duration_ms": 236448,
-      "name": "People People",
-      "url": "https://open.spotify.com/track/4xOOBxljutpqUOfWxbmIR6"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Better Man",
@@ -1265,20 +1249,20 @@
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
+        "name": "People People",
+        "url": "https://open.spotify.com/album/6AdhgefWLxvq89hIRKeRRn"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Just Jack",
+          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
         }
       ],
-      "duration_ms": 183500,
-      "name": "My Tribe",
-      "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
+      "duration_ms": 236448,
+      "name": "People People",
+      "url": "https://open.spotify.com/track/4xOOBxljutpqUOfWxbmIR6"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 169433,
       "name": "All Day Long",
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "My Tribe",
+      "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1413,26 +1413,6 @@
       "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Get Down! (Before You Lose Control)",
-        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        },
-        {
-          "name": "Nia Andrews",
-          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Get Down! (Before You Lose Control)",
-      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
-    },
-    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Overthinking",
@@ -1451,6 +1431,26 @@
       "duration_ms": 241799,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Get Down! (Before You Lose Control)",
+        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        },
+        {
+          "name": "Nia Andrews",
+          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Get Down! (Before You Lose Control)",
+      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
     },
     {
       "added_at": "2022-05-13 04:02:00",

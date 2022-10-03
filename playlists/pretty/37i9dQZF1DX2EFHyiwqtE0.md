@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 
 > Latin tunes that both you and your little one can enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,205 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,249 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 | 44 | [Bailamos](https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:34 |
 | 45 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4) | 4:13 |
 | 46 | [Y Yo Sigo Aqui](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 |
-| 47 | [A Puro Dolor](https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 4:21 |
-| 48 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
+| 47 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
+| 48 | [A Puro Dolor](https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 4:21 |
 | 49 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
 | 50 | [I Need to Know](https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony](https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d) | 3:47 |
 | 51 | [De Música Ligera](https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 | 59 | [No Me Ames \(with Marc Anthony\) \- Tropical Remix](https://open.spotify.com/track/2gcnNWEv9x0g6FhEeWtYuV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:03 |
 | 60 | [Pero Qué Necesidad](https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor De Los Tres Grandes](https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL) | 5:51 |
 
-Snapshot ID: `MTY0NjY4NjIyNCwwMDAwMDAwMGE3MDQ4YWZmZWVjMWJlZDlmNDI1OTg2MDJjYzUyMTA3`
+Snapshot ID: `MTY0NjY4NjIyNCwwMDAwMDAwMGYxNDcyNmNlMjU3MTM3ZTg2MzQwM2JjMzk3YTc5MTQ1`

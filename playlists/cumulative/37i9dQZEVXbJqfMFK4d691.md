@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-365 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/6wKb6lZkewpScjRRlWsOPZ)
+366 songs - 20 hr 39 min - [published](https://open.spotify.com/playlist/6wKb6lZkewpScjRRlWsOPZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Pareja Del Año](https://open.spotify.com/track/655JkvIwu2rDCaD1hPf04g) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:15 | 2022-01-29 | 2022-09-04 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-07-17 | 2022-02-13 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-07 |  |
-| [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-16 |  |
+| [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-16 | 2022-10-03 |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-22 | 2022-07-17 |
 | [París](https://open.spotify.com/track/4QOvBEPji1o8Wku7C1VwYQ) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Canta con MORAT](https://open.spotify.com/album/2TEOH1JrVdntMuZpomaC1d) | 3:02 | 2022-07-16 | 2022-07-19 |
 | [PASATIEMPO](https://open.spotify.com/track/3qUdysxsu5FDvOl7nR5vln) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:24 | 2022-03-26 | 2022-03-28 |
@@ -339,6 +339,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-10-31 | 2022-02-20 |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2021-10-30 | 2021-10-31 |
 | [Travesuras \- Remix](https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Travesuras \(Remix\)](https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa) | 5:24 | 2021-03-29 | 2021-05-23 |
+| [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2022-10-02 |  |
 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 | 2021-03-27\* | 2021-04-21 |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-19 | 2022-06-10 |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-05-01 | 2022-08-07 |

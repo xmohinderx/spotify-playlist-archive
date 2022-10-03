@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,521 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,668 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 11 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
 | 12 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 13 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 |
-| 14 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
-| 15 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
+| 14 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
+| 15 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
 | 16 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
 | 17 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
 | 18 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 25 | [Roadtripsong](https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Roadtripsong](https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB) | 3:41 |
 | 26 | [Lost in Your Love](https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 2:45 |
 | 27 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
-| 28 | [Run of Good Luck](https://open.spotify.com/track/4Px5YO3pRfrswEkVWxXhz8) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Wrong Side of the River](https://open.spotify.com/album/1AXj9UBEn0GtuR2nNBu2WB) | 3:45 |
-| 29 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
-| 30 | [Forgiveness](https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Oh, Mother](https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL) | 4:07 |
+| 28 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
+| 29 | [Forgiveness](https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Oh, Mother](https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL) | 4:07 |
+| 30 | [Run of Good Luck](https://open.spotify.com/track/4Px5YO3pRfrswEkVWxXhz8) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Wrong Side of the River](https://open.spotify.com/album/1AXj9UBEn0GtuR2nNBu2WB) | 3:45 |
 | 31 | [Eyes Fall](https://open.spotify.com/track/1i7xvrUa72MKMhnQcYSZxx) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [A Place](https://open.spotify.com/album/2hPqFV54abYxY8dcaF4Xmu) | 3:20 |
 | 32 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
 | 33 | [Wings](https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 4:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 45 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
 | 46 | [The Captain's Daughter](https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Johnny Cash: Forever Words Expanded](https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp) | 4:57 |
 | 47 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 |
-| 48 | [what do i](https://open.spotify.com/track/2qG34SPqlVutAZwWe3q6iF) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 3:43 |
-| 49 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
+| 48 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
+| 49 | [what do i](https://open.spotify.com/track/2qG34SPqlVutAZwWe3q6iF) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 3:43 |
 | 50 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 |
 | 51 | [Supernova](https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 2:36 |
 | 52 | [A House Made of You](https://open.spotify.com/track/69ZO6imfpWPajcjFeU5kNI) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Happy Before We Get Old](https://open.spotify.com/album/0ZROSmXfCd7Yf0hNTLmlEs) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [Wild Honey \(Acoustic\)](https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey \(Acoustic\)](https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9) | 4:07 |
 | 75 | [Yesterday \- live](https://open.spotify.com/track/2PQAFvFbgTRdKSIiT4cWH4) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Back My Way](https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv) | 3:44 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDA0NzQ1MzVjMzI5OTkyNjJiODdkZjI3NzcyNmIxYmQx`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDkxNzhkM2EyZjNhMDUzNzViZWY5ZWIwMzRkY2NlNjIz`

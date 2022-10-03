@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 404335,
+  "num_followers": 404379,
   "original_name": "skad'ak\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MTk3MiwwMDAwMDAwMDZkOGFjZDUwOWRhMTRlMTRjZGZiMmZlZTc2MTY3ZmM4",
+  "snapshot_id": "MTY2NDU1MTk3MiwwMDAwMDAwMDVmNzYzZDRkZDNiNmNmMWNhMmZhNTYzNDEzNzBlNjAw",
   "tracks": [
     {
       "added_at": "2021-12-21 17:00:46",
@@ -627,6 +627,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/2PKkCGoCc4idF91R6RvFEN"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 217973,
       "name": "Sk\u00e1pate",
       "url": "https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/2PKkCGoCc4idF91R6RvFEN"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Lucha Rock",
-        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Coraz\u00f3n de Chileno [Canciones para Alentar a la Roja] - EP",
         "url": "https://open.spotify.com/album/2ALuHHVcNfUTLnQVB08MXW"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Sue\u00f1os de Carpa",
-        "url": "https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x"
+        "name": "Lucha Rock",
+        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
       "artists": [
         {
-          "name": "EXILIOS",
-          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
         }
       ],
-      "duration_ms": 247980,
-      "name": "Bicolor",
-      "url": "https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI"
+      "duration_ms": 223013,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1147,6 +1131,22 @@
       "duration_ms": 193453,
       "name": "No Tengo Amigos",
       "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Sue\u00f1os de Carpa",
+        "url": "https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x"
+      },
+      "artists": [
+        {
+          "name": "EXILIOS",
+          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
+        }
+      ],
+      "duration_ms": 247980,
+      "name": "Bicolor",
+      "url": "https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI"
     },
     {
       "added_at": "2021-12-21 17:00:46",

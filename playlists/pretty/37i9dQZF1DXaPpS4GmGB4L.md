@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,683 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,737 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 3 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 |
 | 4 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 |
 | 5 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
-| 6 | [Move It On Over](https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Essential Recordings: One Bourbon, One Scotch, One Beer](https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi) | 4:20 |
-| 7 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 |
+| 6 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 |
+| 7 | [Move It On Over](https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Essential Recordings: One Bourbon, One Scotch, One Beer](https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi) | 4:20 |
 | 8 | [Bo Diddley](https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:29 |
 | 9 | [Killing Floor](https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:52 |
 | 10 | [Pride and Joy](https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 3:39 |
 | 11 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
 | 12 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |
 | 13 | [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 |
-| 14 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 |
-| 15 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 |
+| 14 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 |
+| 15 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 |
 | 16 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
 | 17 | [I've Got Love If You Want It](https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:46 |
 | 18 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [The Chess Box](https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
 | 50 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
 
-Snapshot ID: `MTY2NDU1OTkwNywwMDAwMDAwMGVkZWViNGM2NWYzYTU5OGIxOTIzMDk0YTJhYTNjNjQx`
+Snapshot ID: `MTY2NDU1OTkwNywwMDAwMDAwMDJkNWVjNjY3ZDVmZTU3ODY4MmI1NDVjMzgzOThhMTE1`

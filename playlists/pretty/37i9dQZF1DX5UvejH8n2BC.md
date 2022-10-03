@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,435 likes - 32 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,478 likes - 32 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 25 | [Old Friend](https://open.spotify.com/track/371pwLFOPkgWAgN4RkVcP4) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:51 |
 | 26 | [Free Love](https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:04 |
 | 27 | [The World Will Sing Our Song](https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:04 |
-| 28 | [O\-o\-h Child](https://open.spotify.com/track/6oAsrBcTsceOwqH3uHuRzp) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:10 |
+| 28 | [Over The Rainbow](https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Spirit's In It](https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b) | 3:45 |
 | 29 | [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 |
-| 30 | [Over The Rainbow](https://open.spotify.com/track/24x5q09gVVFNSL4IHsuPcA) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Spirit's In It](https://open.spotify.com/album/4tUi426JijSTEIRP9Y7A4b) | 3:45 |
+| 30 | [O\-o\-h Child](https://open.spotify.com/track/6oAsrBcTsceOwqH3uHuRzp) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:10 |
 | 31 | [No One Can Love You More](https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 4:23 |
 | 32 | [Was That All It Was](https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:56 |
 
-Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMDVhMmY4MmYyMzFlYzk0NzE1OGVhYzYwY2QzZWZiMmU0`
+Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMGUxNGVkZmNmZDY5ZDczMzFiMWYxOTNhYTFjZjJkMzA3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,502 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,854 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 26 | [Keep Up The Pace](https://open.spotify.com/track/359dqboVug8CoRUE8WNVGf) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Keep Up The Pace](https://open.spotify.com/album/5ZQxUv5wcWLpobKa9lIPc4) | 3:12 |
 | 27 | [Children](https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Children](https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL) | 3:24 |
 | 28 | [Change Us](https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Change Us](https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu) | 2:51 |
-| 29 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
-| 30 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
+| 29 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
+| 30 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
 | 31 | [Rain God](https://open.spotify.com/track/7prqZ9Le5L0z6DRYcnhghP) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Rain God](https://open.spotify.com/album/58VdvkSadgJzRY7CX9qj1Y) | 4:27 |
 | 32 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 |
 | 33 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 |
 | 50 | [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 |
 
-Snapshot ID: `MTY2MjIyMTM0NSwwMDAwMDAwMDc4ZWEzOTMwNGRjNWExMDk5MmU5ZmRmNzUwNDE2YmM0`
+Snapshot ID: `MTY2MjIyMTM0NSwwMDAwMDAwMDkyZTdjMDE0Zjk2NzRjNThhYTlhMzk2MjZiZTVhM2Y2`

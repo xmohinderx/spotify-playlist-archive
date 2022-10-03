@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with SLANDER.",
-  "num_followers": 940121,
+  "num_followers": 940177,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGY1MGYwYTM0ZWU1ZDQ0NWIzYTEwMTI3NjFlYTdhZjkw",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGFiZWVjNTJhMzEyZTYxMzg1ZDVlZWM3NjlmZjNhYTIz",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Seduce / Destroy",
-        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
-      },
-      "artists": [
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Seduce / Destroy",
-      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Feel No Pain",
         "url": "https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 169600,
       "name": "Feel No Pain",
       "url": "https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Seduce / Destroy",
+        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Seduce / Destroy",
+      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -763,6 +763,26 @@
       "duration_ms": 185142,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -805,26 +825,6 @@
       "url": "https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
-    },
-    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "Wasteland",
@@ -863,6 +863,26 @@
       "duration_ms": 200662,
       "name": "Bloodbath",
       "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Bass Music",
+        "url": "https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        }
+      ],
+      "duration_ms": 246394,
+      "name": "Bass Music",
+      "url": "https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -927,26 +947,6 @@
       "duration_ms": 198139,
       "name": "Back To The Top",
       "url": "https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Bass Music",
-        "url": "https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "TVBOO",
-          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
-        }
-      ],
-      "duration_ms": 246394,
-      "name": "Bass Music",
-      "url": "https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rude Boy 22 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
+    },
+    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "SKINS",
@@ -1051,6 +1067,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "BODY SH!T",
         "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
       },
@@ -1067,22 +1099,6 @@
       "duration_ms": 184049,
       "name": "BODY SH!T",
       "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "All We Needed",
-        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "All We Needed",
-      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1127,6 +1143,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 233046,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Open Your Mind",
         "url": "https://open.spotify.com/album/4coZdNTSApgHapvBDXY1U4"
       },
@@ -1143,22 +1175,6 @@
       "duration_ms": 174246,
       "name": "Open Your Mind",
       "url": "https://open.spotify.com/track/1ztnDy21iJOc5eH7wvbEeV"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 233046,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1199,26 +1215,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
       },
@@ -1235,6 +1231,26 @@
       "duration_ms": 242343,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1317,22 +1333,6 @@
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rude Boy 22 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
-    },
-    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "Skyline",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 176761,
       "name": "Eden",
       "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Revive EP",
+        "url": "https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "RELOAD",
         "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 176124,
       "name": "RELOAD",
       "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Revive EP",
-        "url": "https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Grit",
-        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
       },
       "artists": [
         {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
         }
       ],
-      "duration_ms": 283125,
-      "name": "Grit",
-      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
+      "duration_ms": 186373,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1615,6 +1619,22 @@
       "duration_ms": 201931,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 283125,
+      "name": "Grit",
+      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1637,22 +1657,6 @@
       "url": "https://open.spotify.com/track/39Hpybgua0RgOciVl1C4Sy"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt"
-      },
-      "artists": [
-        {
-          "name": "G Jones",
-          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl"
-    },
-    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "The Uprising",
@@ -1673,24 +1677,20 @@
       "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
     },
     {
-      "added_at": "2022-08-12 10:58:30",
+      "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "DRMVRSE",
-        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
         }
       ],
-      "duration_ms": 186373,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
+      "duration_ms": 174083,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1797,26 +1797,6 @@
       "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/2Bqy3jSg9uQRY0BQwomJto"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Calivania",
-          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
-        }
-      ],
-      "duration_ms": 185824,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/0MP17yUIUmS2bLHPBQTMyT"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Fallen",
@@ -1835,6 +1815,26 @@
       "duration_ms": 210000,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/2Bqy3jSg9uQRY0BQwomJto"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Calivania",
+          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
+        }
+      ],
+      "duration_ms": 185824,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0MP17yUIUmS2bLHPBQTMyT"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/4WqGw8t5ubuDHl5buqK5ln"
-      },
-      "artists": [
-        {
-          "name": "4URA",
-          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
       },
@@ -2087,6 +2071,26 @@
       "duration_ms": 228371,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Let That Go",
+        "url": "https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        },
+        {
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Let That Go",
+      "url": "https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2135,18 +2139,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/4WqGw8t5ubuDHl5buqK5ln"
       },
       "artists": [
         {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
+      "duration_ms": 202285,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2165,24 +2169,20 @@
       "url": "https://open.spotify.com/track/3VC4xbdEJ6W1RkAQ20Wto1"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Let That Go",
-        "url": "https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP"
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
       },
       "artists": [
         {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        },
-        {
-          "name": "Dirt Monkey",
-          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Let That Go",
-      "url": "https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6"
+      "duration_ms": 212413,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2443,6 +2443,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6SPxFAg03yuGVnoCE5AxvC"
+      },
+      "artists": [
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+        }
+      ],
+      "duration_ms": 189737,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5mfwPQqeoP8jzGJCHwM3iF"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Waiting For The Day (feat. Kyle Reynolds)",
         "url": "https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu"
       },
@@ -2463,26 +2483,6 @@
       "duration_ms": 222962,
       "name": "Waiting For The Day (feat. Kyle Reynolds)",
       "url": "https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6SPxFAg03yuGVnoCE5AxvC"
-      },
-      "artists": [
-        {
-          "name": "G Jones",
-          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
-        },
-        {
-          "name": "Eprom",
-          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
-        }
-      ],
-      "duration_ms": 189737,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5mfwPQqeoP8jzGJCHwM3iF"
     },
     {
       "added_at": "2022-09-02 04:01:00",

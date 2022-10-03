@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,304 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,399 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 16 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 |
 | 17 | [Tonight, Tonight \- Remastered 2012](https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:14 |
 | 18 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
-| 19 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 |
+| 19 | [Engel](https://open.spotify.com/track/0xQZkTxb49QpopIZQhKJUY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 4:24 |
 | 20 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 |
 | 21 | [Aneurysm](https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 4:35 |
-| 22 | [Engel](https://open.spotify.com/track/0xQZkTxb49QpopIZQhKJUY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 4:24 |
+| 22 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 |
 | 23 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 |
 | 24 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 |
 | 25 | [Street Spirit \(Fade Out\)](https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:13 |
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 44 | [Unintended](https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:57 |
 | 45 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 |
 | 46 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 |
-| 47 | [Pictures of You \- 2010 Remaster](https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 7:28 |
-| 48 | [Gigantic \- Remastered](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 |
+| 47 | [Gigantic \- Remastered](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 |
+| 48 | [Pictures of You \- 2010 Remaster](https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 7:28 |
 | 49 | [Hurt](https://open.spotify.com/track/1lo9k4PrxFd5Np4cAxXoKo) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 6:15 |
 | 50 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
 | 51 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
 | 52 | [Been Caught Stealing](https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf) | 3:33 |
-| 53 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 |
-| 54 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 |
+| 53 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 |
+| 54 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 |
 | 55 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 |
 | 56 | [Super Charger Heaven](https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 3:37 |
 | 57 | [Bück dich](https://open.spotify.com/track/0SCkN2QprWk02svK0HCZ2n) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:21 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 71 | [Dirty Blvd.](https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:29 |
 | 72 | [Black Sunshine](https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 4:49 |
 | 73 | [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 |
-| 74 | [A Letter to Elise](https://open.spotify.com/track/4DdXOLc1VMAY34ourCn1Xa) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 5:11 |
-| 75 | [People Ain't No Good \- 2011 Remastered Version](https://open.spotify.com/track/0c9ImAFCxarmltq6a1jCSe) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 5:42 |
+| 74 | [People Ain't No Good \- 2011 Remastered Version](https://open.spotify.com/track/0c9ImAFCxarmltq6a1jCSe) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 5:42 |
+| 75 | [A Letter to Elise](https://open.spotify.com/track/4DdXOLc1VMAY34ourCn1Xa) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 5:11 |
 
-Snapshot ID: `MTY0NzUzNDg2NCwwMDAwMDAwMGI2ZTRiNTkwZWI1MDZkYmQ2YTU0ZTRlOTA5Yzg4OTYy`
+Snapshot ID: `MTY0NzUzNDg2NCwwMDAwMDAwMDY3NTIzOWI4YTVjNTcyNmFjNzI4NGRjNjFmNGFiYmMx`

@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 469442,
+  "num_followers": 469877,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE0OTAyNCwwMDAwMDAwMDU2NWJlYzdiODAzZmVmOWI0OTg3MmJlM2MyNGE2MmM4",
+  "snapshot_id": "MTY2NDE0OTAyNCwwMDAwMDAwMDU0MTU1NWVjYTkxYzM5NmJiYzFjZWY1N2ZmNWNhMGQ2",
   "tracks": [
     {
       "added_at": "2022-09-25 23:37:04",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-09-25 23:37:04",
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2022-09-25 23:37:04",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2022-09-25 23:37:04",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
       "added_at": "2022-09-25 23:37:04",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-25 23:37:04",
       "album": {
-        "name": "Not Sad Anymore",
-        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 195563,
-      "name": "Not Sad Anymore",
-      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
-    },
-    {
-      "added_at": "2022-09-25 23:37:04",
-      "album": {
         "name": "everything means nothing",
         "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2022-09-25 23:37:04",
       "album": {
+        "name": "Not Sad Anymore",
+        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 195563,
+      "name": "Not Sad Anymore",
+      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
+    },
+    {
+      "added_at": "2022-09-25 23:37:04",
+      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-09-25 23:37:04",
       "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 181178,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
+    },
+    {
+      "added_at": "2022-09-25 23:37:04",
+      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 208017,
       "name": "Forgive Me (feat. Izzy Bizu)",
       "url": "https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP"
-    },
-    {
-      "added_at": "2022-09-25 23:37:04",
-      "album": {
-        "name": "Hopeless Romantic",
-        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 181178,
-      "name": "Hopeless Romantic",
-      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
     },
     {
       "added_at": "2022-09-25 23:37:04",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-09-25 23:37:04",
       "album": {
+        "name": "Talking to Yourself",
+        "url": "https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Talking to Yourself",
+      "url": "https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf"
+    },
+    {
+      "added_at": "2022-09-25 23:37:04",
+      "album": {
         "name": "You Signed Up For This",
         "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2022-09-25 23:37:04",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
-    },
-    {
-      "added_at": "2022-09-25 23:37:04",
-      "album": {
         "name": "Sad Girl Music (feat. BANKS)",
         "url": "https://open.spotify.com/album/0WkKqicUopy6vqSqm4LJLj"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-09-25 23:37:04",
       "album": {
-        "name": "Talking to Yourself",
-        "url": "https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4"
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 173200,
-      "name": "Talking to Yourself",
-      "url": "https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf"
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2022-09-25 23:37:04",

@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 54690,
+  "num_followers": 54706,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3NjM2MCwwMDAwMDAwMDExZWJkN2VmYjJiMGRhMGVhMzI1NjZjMDM2YmE3ZjIx",
+  "snapshot_id": "MTY2NDE3NjM2MCwwMDAwMDAwMGRiY2FjY2MyODY5M2I5YmYwNjg3YTIzNWVjOGE1NTJm",
   "tracks": [
     {
       "added_at": "2022-09-26 07:12:40",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
-        "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
-    },
-    {
-      "added_at": "2022-09-26 07:12:40",
-      "album": {
         "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 165560,
       "name": "It's Easy To Remember",
       "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
+    },
+    {
+      "added_at": "2022-09-26 07:12:40",
+      "album": {
+        "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
+        "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
     },
     {
       "added_at": "2022-09-26 07:12:40",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Alone Together - Rudy Van Gelder Remaster 2006",
+      "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
+    },
+    {
+      "added_at": "2022-09-26 07:12:40",
+      "album": {
         "name": "Tranquillo II",
         "url": "https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3"
       },
@@ -463,26 +479,6 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/0kC4Rrdb4B4hAgt3PMoARe"
-    },
-    {
-      "added_at": "2022-09-26 07:12:40",
-      "album": {
         "name": "The New Classic Trio",
         "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
       },
@@ -499,18 +495,22 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "Quiet Kenny",
-        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
       "artists": [
         {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 190400,
-      "name": "Alone Together - Rudy Van Gelder Remaster 2006",
-      "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
+      "duration_ms": 217760,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/0kC4Rrdb4B4hAgt3PMoARe"
     },
     {
       "added_at": "2022-09-26 07:12:40",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "Standard Time Vol. 3: The Resolution Of Romance",
-        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
-    },
-    {
-      "added_at": "2022-09-26 07:12:40",
-      "album": {
         "name": "Whiplash (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 89026,
       "name": "Fletcher's Song In Club",
       "url": "https://open.spotify.com/track/0ZFortLKtHTKy7YtuJiubt"
+    },
+    {
+      "added_at": "2022-09-26 07:12:40",
+      "album": {
+        "name": "Standard Time Vol. 3: The Resolution Of Romance",
+        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
     },
     {
       "added_at": "2022-09-26 07:12:40",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
-    },
-    {
-      "added_at": "2022-09-26 07:12:40",
-      "album": {
         "name": "Here's Love",
         "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 212586,
       "name": "My Wish",
       "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
+    },
+    {
+      "added_at": "2022-09-26 07:12:40",
+      "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
     },
     {
       "added_at": "2022-09-26 07:12:40",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "I Hear A Rhapsody",
-      "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
-    },
-    {
-      "added_at": "2022-09-26 07:12:40",
-      "album": {
         "name": "The Essential Stan Getz: The Getz Songbook",
         "url": "https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 147906,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6"
+    },
+    {
+      "added_at": "2022-09-26 07:12:40",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "I Hear A Rhapsody",
+      "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
     },
     {
       "added_at": "2022-09-26 07:12:40",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "Yesterday You Said Tomorrow",
-        "url": "https://open.spotify.com/album/1yEatbNaAycy7doYijdili"
-      },
-      "artists": [
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        }
-      ],
-      "duration_ms": 373880,
-      "name": "Isadora",
-      "url": "https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y"
-    },
-    {
-      "added_at": "2022-09-26 07:12:40",
-      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
+        "name": "Yesterday You Said Tomorrow",
+        "url": "https://open.spotify.com/album/1yEatbNaAycy7doYijdili"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "duration_ms": 373880,
+      "name": "Isadora",
+      "url": "https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y"
+    },
+    {
+      "added_at": "2022-09-26 07:12:40",
+      "album": {
         "name": "Romaria",
         "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
       },
@@ -1075,38 +1075,6 @@
       "duration_ms": 311480,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
-    },
-    {
-      "added_at": "2022-09-26 07:12:40",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 442226,
-      "name": "Strange Meadow Lark",
-      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
-    },
-    {
-      "added_at": "2022-09-26 07:12:40",
-      "album": {
-        "name": "Another Standard",
-        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
-      },
-      "artists": [
-        {
-          "name": "Bob Berg",
-          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
     },
     {
       "added_at": "2022-09-26 07:12:40",
@@ -1139,18 +1107,34 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "The Complete Village Vanguard Recordings, 1961",
-        "url": "https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5"
+        "name": "Another Standard",
+        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
         }
       ],
-      "duration_ms": 298000,
-      "name": "My Foolish Heart - Live",
-      "url": "https://open.spotify.com/track/5ARta7jvD6MRUiSk54jY5r"
+      "duration_ms": 335333,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
+    },
+    {
+      "added_at": "2022-09-26 07:12:40",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 442226,
+      "name": "Strange Meadow Lark",
+      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
     },
     {
       "added_at": "2022-09-26 07:12:40",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2022-09-26 07:12:40",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
+        "name": "The Complete Village Vanguard Recordings, 1961",
+        "url": "https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 287373,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
+      "duration_ms": 298000,
+      "name": "My Foolish Heart - Live",
+      "url": "https://open.spotify.com/track/5ARta7jvD6MRUiSk54jY5r"
     },
     {
       "added_at": "2022-09-26 07:12:40",
@@ -1231,6 +1215,22 @@
       "duration_ms": 333346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+    },
+    {
+      "added_at": "2022-09-26 07:12:40",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
     },
     {
       "added_at": "2022-09-26 07:12:40",

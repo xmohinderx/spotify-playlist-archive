@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,434,920 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,435,369 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 2 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 |
 | 3 | [QUEEN ST\. W](https://open.spotify.com/track/5IugC7MdXtCwOtEbUSERkA) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:51 |
 | 4 | [Stuck On You](https://open.spotify.com/track/53Nwlr3hxsGsu9eWU5EYjq) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 3:25 |
-| 5 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
+| 5 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
 | 6 | [Self Love](https://open.spotify.com/track/5jT6jENoyDH8YwvKT2NlnC) | [Jayson Lyric](https://open.spotify.com/artist/2CtJ90yJjxn0nL4a2lH0SA), [Nevaeh](https://open.spotify.com/artist/7s4lEl1dbB4TuDBoxIh9nC) | [Outer Body Experience](https://open.spotify.com/album/2Hy41x1FoKyTaiohizUAZ4) | 2:39 |
-| 7 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
+| 7 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
 | 8 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 9 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 |
 | 10 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 46 | [Doing It Wrong](https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:25 |
 | 47 | [Bacc Seat \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:52 |
 | 48 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
-| 49 | [Best Thing](https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [S.O.L.A.R.](https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87) | 3:08 |
-| 50 | [Easy](https://open.spotify.com/track/58dSdjfEYNSxte1aNVxuNf) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Drive Slow](https://open.spotify.com/album/0qQKOuHPlCPKaNgeOh3ytH) | 5:14 |
+| 49 | [Easy](https://open.spotify.com/track/58dSdjfEYNSxte1aNVxuNf) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Drive Slow](https://open.spotify.com/album/0qQKOuHPlCPKaNgeOh3ytH) | 5:14 |
+| 50 | [Best Thing](https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [S.O.L.A.R.](https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87) | 3:08 |
 | 51 | [True Colors](https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:26 |
 | 52 | [Morning](https://open.spotify.com/track/54Yappwod1fELR5zb2gDBn) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Groovy People](https://open.spotify.com/album/2a8IWtMGQl8oIA3lUtLDQw) | 3:26 |
 | 53 | [Yo Love \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Yo Love \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1) | 2:23 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 94 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/album/0kKVLuYfFt1VSxaFSP0Cxb) | 3:55 |
 | 95 | [LANSDOWNE](https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/3EFR2ie3oqo42zrUoAgR3R) | 2:33 |
 | 96 | [235 \(2:35 I Want You\)](https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [235 \(2:35 I Want You\)](https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh) | 3:51 |
-| 97 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 |
-| 98 | [Not Me](https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Not Me](https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF) | 3:42 |
+| 97 | [Not Me](https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Not Me](https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF) | 3:42 |
+| 98 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 |
 | 99 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 |
 | 100 | [Between The Lines](https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Between The Lines](https://open.spotify.com/album/6lCouTlJCmzbCAysQCYXls) | 3:43 |
 
-Snapshot ID: `MTY2NDU1ODY2MywwMDAwMDAwMGMwYjIxNDZkMWEwYTY4YmU5YzQ5MDExZTRiNDcwZmI4`
+Snapshot ID: `MTY2NDU1ODY2MywwMDAwMDAwMDc5NjNkMTBkM2NmM2U4YzQ1NTE0ZmEyNTU5OGZjMGRk`

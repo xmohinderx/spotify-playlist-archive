@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,894 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,900 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 5 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 6 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 |
 | 7 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 |
-| 8 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 |
-| 9 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 |
+| 8 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 |
+| 9 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 |
 | 10 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 |
 | 11 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
 | 12 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 46 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 47 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
 | 48 | [Something in the Water](https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Something in the Water](https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt) | 3:06 |
-| 49 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
-| 50 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 |
-| 51 | [Rosé](https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Rosé](https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX) | 2:46 |
+| 49 | [Rosé](https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Rosé](https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX) | 2:46 |
+| 50 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
+| 51 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 |
 | 52 | [East End Coast](https://open.spotify.com/track/7iBPtgnL0CcOKy96R7JXIO) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy) | 3:46 |
 | 53 | [have a great day](https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:22 |
 | 54 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 74 | [Champagne Butterflies](https://open.spotify.com/track/62lF2bafMX9NkXjAoc0nuR) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Champagne Butterflies](https://open.spotify.com/album/7nJWSA8RiN6kr4wias3Had) | 3:13 |
 | 75 | [Summer Fling](https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Summer Fling](https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE) | 3:35 |
 | 76 | [Everything's Waiting for You](https://open.spotify.com/track/4AegruZADaDC9t5AZpvgaf) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Everything's Waiting for You](https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk) | 3:33 |
-| 77 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
-| 78 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
+| 77 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
+| 78 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
 | 79 | [Never Get It Right](https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Never Get It Right](https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe) | 3:20 |
 | 80 | [One of Those Days](https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [One Of Those Days](https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py) | 3:28 |
 
-Snapshot ID: `MTY2Mzk1NDM4OSwwMDAwMDAwMDQ1OTE3ZDE5Nzg5YjQyMDU2YTMwZjM1ZjIxMTRiM2E2`
+Snapshot ID: `MTY2Mzk1NDM4OSwwMDAwMDAwMDU1ZDRmNDk1NDNkZThjNGI0Y2YyMTkxZjBlOWM1ZjM3`

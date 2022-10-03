@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 
 > This is Selena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,108 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,228 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 31 | [Acuérdate De Mí](https://open.spotify.com/track/0vxIbUDge0shviEdnakzkx) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:40 |
 | 32 | [El Chico Del Apartamento 512 \- Live](https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 3:15 |
 | 33 | [Yo Te Sigo Queriendo](https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:10 |
-| 34 | [Corazoncito \- Regional Mexican Version](https://open.spotify.com/track/1NtLJWyxSzbu0HcKg6rCGG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 2:21 |
+| 34 | [Yo Te Amo](https://open.spotify.com/track/1Vme3vRdcpuNeudeqDKVq3) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:41 |
 | 35 | [Sentimientos](https://open.spotify.com/track/7EkzuMmrpskKf03GmixXQi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:12 |
 | 36 | [Amor Prohibido \- Live](https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 2:05 |
-| 37 | [Yo Te Amo](https://open.spotify.com/track/1Vme3vRdcpuNeudeqDKVq3) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:41 |
-| 38 | [I'm Getting Used To You](https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:03 |
+| 37 | [I'm Getting Used To You](https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:03 |
+| 38 | [Corazoncito \- Regional Mexican Version](https://open.spotify.com/track/1NtLJWyxSzbu0HcKg6rCGG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 2:21 |
 | 39 | [Only Love](https://open.spotify.com/track/4YzawOSOsc5Os4t47eiuRX) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:10 |
-| 40 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 |
-| 41 | [Enamorada De Ti](https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 4:07 |
+| 40 | [Enamorada De Ti](https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 4:07 |
+| 41 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 |
 | 42 | [Captive Heart](https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:23 |
 | 43 | [Missing My Baby](https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:51 |
 | 44 | [Cien Años](https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 49 | [Yo Me Voy](https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:30 |
 | 50 | [Salta La Ranita](https://open.spotify.com/track/6vSu9p4ozzqiB0YiREyN2g) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 3:03 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAxNjQ1MGFiOTY0ZTkxMzE4ZWQ0OGI0ZTRjYjljYTQzOQ==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDA3NmU3ZWI3Mzg5MDU0MGVhNmZlNDc5MmVjZjU1MWJiZQ==`

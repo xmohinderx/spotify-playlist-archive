@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,351 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,395 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 32 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
 | 33 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 |
 | 34 | [Mr\. Scientist](https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Casino Cabaret](https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco) | 7:28 |
-| 35 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
-| 36 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 |
+| 35 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 |
+| 36 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
 | 37 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 |
 | 38 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 |
 | 39 | [Waltz of a Thousand Stars](https://open.spotify.com/track/4k3QVmtqLh2fu7sE5zfJeU) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [Waltz of a Thousand Stars](https://open.spotify.com/album/6Nr0Ma9gfD1Uq4jOrNh6Ju) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 49 | [Don't Say Goodnight Just Yet](https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Don't Say Goodnight Just Yet](https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe) | 5:54 |
 | 50 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGNjNzkyODU0ZTBmMzk3MjBjMWRmNDYzY2QxODVlMDE1`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDIxODQxZmFlY2U4YWE4MTEzZGY4NTc3NGQzNzM1ODA1`

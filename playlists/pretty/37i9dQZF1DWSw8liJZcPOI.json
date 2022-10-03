@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 390927,
+  "num_followers": 391141,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGQ3ZGVkYjU0NWYwNWJjYmM5MzM3ODYxNjA1MjgxNzkz",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGY0YjMxY2Y4OGMyYjEwY2JkOWY5NjQzNTVjMjIyNTk3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 229606,
-      "name": "Solitude I",
-      "url": "https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Muku",
         "url": "https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 194000,
       "name": "Muku",
       "url": "https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 229606,
+      "name": "Solitude I",
+      "url": "https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Flow State Vestida 4",
-        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
-      },
-      "artists": [
-        {
-          "name": "Danny Mulhern",
-          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Flow State Vestida 4",
-      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Triptych III for Piano",
         "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 201013,
       "name": "Triptych III for Piano",
       "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Flow State Vestida 4",
+        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
+      },
+      "artists": [
+        {
+          "name": "Danny Mulhern",
+          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Flow State Vestida 4",
+      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Take 5 - Solips (Klaus Sahm Rework)",
         "url": "https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 175346,
       "name": "Take 5 - Solips - Klaus Sahm Rework",
       "url": "https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "No Ball Games (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+        "name": "Cloud Memory",
+        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
       },
       "artists": [
         {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
         }
       ],
-      "duration_ms": 334506,
-      "name": "Music For Growing Flowers - Pt. 4",
-      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+      "duration_ms": 117585,
+      "name": "Cloud Memory",
+      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Cloud Memory",
-        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        }
-      ],
-      "duration_ms": 117585,
-      "name": "Cloud Memory",
-      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Parliament Of Owls",
         "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 376956,
       "name": "Starwood Choker",
       "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
         }
       ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 127995,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
-      },
-      "artists": [
-        {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "lodges",
         "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
       },
       "artists": [
         {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 184389,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
+      "duration_ms": 247600,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
     }
   ],
   "unique_name": "Not Quite Classical",

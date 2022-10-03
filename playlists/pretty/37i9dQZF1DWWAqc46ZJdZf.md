@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,976 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,898 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 25 | [Love's In Need Of Love Today](https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:05 |
 | 26 | [FOR MY PEOPLE](https://open.spotify.com/track/7CzWRneYi3P7dZqJM0SkUs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 3:52 |
 | 27 | [Otherside Of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
-| 28 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 |
-| 29 | [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 |
+| 28 | [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 |
+| 29 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 |
 | 30 | [MIDDLE CHILD](https://open.spotify.com/track/2b5scDVCDxVsLalecDLAo2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:33 |
 | 31 | [Slippin' Into Darkness](https://open.spotify.com/track/1jcTfIiBUz35bBqgHYItP6) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Greatest Hits](https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3) | 3:47 |
 | 32 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Don't Shoot \(feat\. Rick Ross, Fabolous, Diddy, 2 Chainz, Wale, DJ Khaled, Swizz Beatz, Yo Gotti, Currensy, Problem, King Pharaoh, TGT\)](https://open.spotify.com/track/4QV4EEYszD7HGrTo6PzX9K) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [King Pharaoh](https://open.spotify.com/artist/0YhjgNG9nohacei9aOwQJP), [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Don't Shoot \(feat\. Rick Ross, 2 Chainz, Diddy, Fabolous, Wale, DJ Khaled, Swizz Beatz, Yo Gotti, Currensy, Problem, King Pharaoh & TGT\) \- Single](https://open.spotify.com/album/095DHf81ijEEFRX1CWa1VH) | 6:07 |
 | 60 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMGVkNGE1NTJhZjQ0ODJhYTE4MWRkMzAwZGNmNjg4NDYw`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMGNiMTVmM2Q2NDAxNWQ4ZTYyOGE4ZjAzODliZDE5YWNh`

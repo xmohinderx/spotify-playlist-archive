@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,522 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,537 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 16 | [Wash Me Clean](https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Peace to All Who Enter Here](https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk) | 3:42 |
 | 17 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 |
 | 18 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 |
-| 19 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 |
-| 20 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
+| 19 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
+| 20 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 |
 | 21 | [07:00 the Morning Comes](https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:36 |
 | 22 | [When the Well Runs Dry](https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8) | [Liv Douglas](https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [When the Well Runs Dry](https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ) | 4:00 |
 | 23 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 42 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 |
 | 43 | [Take All of Me](https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J) | [Andrew Marcus](https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT) | [Take All of Me](https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr) | 3:52 |
 | 44 | [Know Your Heart](https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 3:59 |
-| 45 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 |
-| 46 | [Hiding Lord](https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:04 |
+| 45 | [Hiding Lord](https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:04 |
+| 46 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 |
 | 47 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 |
 | 48 | [Magic in the Moment](https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Magic in the Moment](https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2) | 3:13 |
 | 49 | [Breathe](https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Breathe](https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3) | 4:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
 | 60 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDE5MjEzMWE3MzgzYzgxNjQ2ZTU2MDNlMjc1ZDgxOWMy`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDJmMWM5YTIyOThhYmQ0OWU3N2VkMDQxMGI3NDM5NTNm`

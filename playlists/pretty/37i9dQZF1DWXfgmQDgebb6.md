@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Dopein\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,110 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,116 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 37 | [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 |
 | 38 | [Youth](https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Kim Chang Wan](https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde) | [Youth](https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM) | 4:32 |
 | 39 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
-| 40 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
-| 41 | [Golden Mulan](https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 1:48 |
+| 40 | [Golden Mulan](https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 1:48 |
+| 41 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
 | 42 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 |
 | 43 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
 | 44 | [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [Help \(IDIOTAPE Remix\)](https://open.spotify.com/track/4vmTLcDMOEGncRhqLtU467) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Help \(IDIOTAPE Remix\)](https://open.spotify.com/album/792mqyd7VyWfzP6GLaBhUN) | 4:24 |
 | 50 | [Wait](https://open.spotify.com/track/2ILuzHZ3x0KUctLIpYhVAg) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7IVXJq84oVDxFmDQIHHkrR) | 4:00 |
 
-Snapshot ID: `MTY2Mzc1MDIyNywwMDAwMDAwMDAxMzk3MjcyOTIwODA1NzEyMjRjODYyOTVkMTc2Mjgx`
+Snapshot ID: `MTY2Mzc1MDIyNywwMDAwMDAwMGY5NTNlOGY1MDhkNTkwMjY1MmJlNTc3N2QwMjg0ZDEx`

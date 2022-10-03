@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,607 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,818 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 6 | [Al Final](https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Sin Miedo a Nada](https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8) | 4:03 |
 | 7 | [Creere](https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 5:02 |
 | 8 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
-| 9 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
+| 9 | [El Nombre De Jesús \(feat\. Christine D´Clario\)](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 |
 | 10 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:52 |
-| 11 | [El Nombre De Jesús \(feat\. Christine D´Clario\)](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 |
+| 11 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
 | 12 | [Gracia Sublime Es](https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Piedras Vivas](https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG) | 5:15 |
 | 13 | [Como Dijiste](https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:59 |
 | 14 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 45 | [Mi Roca](https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragmentos del Cielo](https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR) | 3:32 |
 | 46 | [De Lo Más Profundo](https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 7:45 |
 | 47 | [Se Nota En Tus Ojos](https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 4:16 |
-| 48 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
-| 49 | [El Cielo Gobierna](https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy) | 4:25 |
+| 48 | [El Cielo Gobierna](https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy) | 4:25 |
+| 49 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
 | 50 | [Fullness](https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Speak Revival](https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V) | 6:07 |
 | 51 | [Fierce \- Studio Version](https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Fierce \(Studio Version\)](https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW) | 3:42 |
 | 52 | [Incontrolable Amor](https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Incontrolable Amor](https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0) | 5:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [No Te Olvides](https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Inlight](https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc) | [No Te Olvides](https://open.spotify.com/album/1GZFd6QKMYeS72xziUk0ue) | 4:09 |
 | 75 | [Viene De Ti](https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Viene De Ti](https://open.spotify.com/album/1hhM2pKRLdgEXz6DCq0fvy) | 4:15 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDcyMTE5NWY1MDdiNGFjNDM0ZGU5NDY3YjZiNTJjNWZl`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDFmMWM5MGEyMjhhOTc2YTQ1Mzk2MDBmNDA5NTJmOThi`

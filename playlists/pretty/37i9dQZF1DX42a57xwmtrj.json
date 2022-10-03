@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
-  "num_followers": 118562,
+  "num_followers": 118651,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDhiMDE2NDRkYWUyY2FmYjExYjYyZTRlOGFlODkxOTlk",
+  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDU2M2VjODdkNjIwZTMxMWE4ODcwZWI0MjYwMDBiYjc5",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "La chica banda",
-      "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 186493,
       "name": "Y Como Es \u00c9l",
       "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Caf\u00e9 Tacvba",
+        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "La chica banda",
+      "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
     },
     {
       "added_at": "2020-11-13 06:01:00",

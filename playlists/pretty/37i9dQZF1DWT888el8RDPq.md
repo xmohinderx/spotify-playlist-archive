@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > ☀️!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,003 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,025 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 36 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 |
 | 37 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
 | 38 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
-| 39 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 40 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 |
+| 39 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 |
+| 40 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 | 41 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 |
 | 42 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 43 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 56 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
 | 57 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 |
 | 58 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 |
-| 59 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 |
-| 60 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 59 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 60 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 |
 | 61 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 |
 | 62 | [Common \(with Big Sean\)](https://open.spotify.com/track/2CJc3U1pViZ5E44pA0f2YI) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Common](https://open.spotify.com/album/5q1YapGe7F6PUseo0mTLSj) | 2:39 |
 | 63 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 69 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 |
 | 70 | [Butterflies](https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/4gV9MDYWSaZV9OYL8l1vqW) | 2:56 |
 | 71 | [SESSO OCCASIONALE](https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [SESSO OCCASIONALE](https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6) | 3:15 |
-| 72 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 |
-| 73 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 2:58 |
-| 74 | [Paraocchi](https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:36 |
-| 75 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 |
+| 72 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 |
+| 73 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 |
+| 74 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 2:58 |
+| 75 | [Paraocchi](https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:36 |
 
-Snapshot ID: `MTY2MzkyMDg2OSwwMDAwMDAwMDVkNzIzMWU1YjJmODk2ZDM0YjllNjg2MDA3OGRmNWRi`
+Snapshot ID: `MTY2MzkyMDg2OSwwMDAwMDAwMGVmNzI5NjEwNzAzN2Y1OGEwZGUwODU5ZTc5NTE0NWZj`

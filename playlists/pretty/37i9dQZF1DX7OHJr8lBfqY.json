@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 22829,
+  "num_followers": 22847,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMGJlNTA2NTU4ZDQ1NTJlZWFmZmI5NmZmZGVkZTA3Yjc4",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDIzYWQxMmIxYzVhYTQyMzJlYWQ2MzhhOGQwYTQ5Y2Nj",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cornettazos (Vol.2)",
-        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Mara Del Carmen",
-      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Calmarme",
         "url": "https://open.spotify.com/album/2QTppWNOvzOmf21bmIQ0Tw"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 157026,
       "name": "Calmarme",
       "url": "https://open.spotify.com/track/1QSxg9SECUk143XcnMKKgc"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Cornettazos (Vol.2)",
+        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Mara Del Carmen",
+      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Pa' Que Te Duela",
-        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
-      },
-      "artists": [
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 234899,
-      "name": "Traiganme Alcohol",
-      "url": "https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Pues (with Luis Fonsi & Sean Paul)",
         "url": "https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Y Que\u0301 Paso\u0301?",
-        "url": "https://open.spotify.com/album/05ZSFYsMffZur7XPbJNMCM"
+        "name": "Pa' Que Te Duela",
+        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
       "artists": [
         {
-          "name": "Chiquito Team Band",
-          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
         }
       ],
-      "duration_ms": 221559,
-      "name": "Y Qu\u00e9 Pas\u00f3?",
-      "url": "https://open.spotify.com/track/4BpOF7fEKoGStuMvqgia7R"
+      "duration_ms": 234899,
+      "name": "Traiganme Alcohol",
+      "url": "https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2043,6 +2027,22 @@
       "duration_ms": 166037,
       "name": "Otra Botella",
       "url": "https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Y Que\u0301 Paso\u0301?",
+        "url": "https://open.spotify.com/album/05ZSFYsMffZur7XPbJNMCM"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+        }
+      ],
+      "duration_ms": 221559,
+      "name": "Y Qu\u00e9 Pas\u00f3?",
+      "url": "https://open.spotify.com/track/4BpOF7fEKoGStuMvqgia7R"
     },
     {
       "added_at": "2022-08-31 07:37:37",

@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 290584,
       "name": "Body Paint",
       "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -2463,6 +2463,24 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Diferen\u00e7a Mara",
+      "url": "https://open.spotify.com/track/0dLkZwE2Xt4ETtUt5cED2l"
     },
     {
       "album": {
@@ -4732,6 +4750,24 @@
     },
     {
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -5815,7 +5851,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
@@ -10129,7 +10165,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

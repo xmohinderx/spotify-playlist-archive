@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,302 likes - 38 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,306 likes - 38 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 2 | [Dayvan Cowboy](https://open.spotify.com/track/4Y2W4zKa3q72ztbkA0r8Va) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:00 |
 | 3 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 4 | [Music Is Math](https://open.spotify.com/track/3vBJYnujT3yxLjLEG1jtDS) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:21 |
-| 5 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 |
+| 5 | [Wildlife Analysis](https://open.spotify.com/track/1H4Eiavp6smYJDIYQmo0vb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:15 |
 | 6 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
 | 7 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:07 |
 | 8 | [Sunshine Recorder](https://open.spotify.com/track/0KrPPiJdAWrFIdn4pq3BZ2) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 6:12 |
-| 9 | [Wildlife Analysis](https://open.spotify.com/track/1H4Eiavp6smYJDIYQmo0vb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:15 |
+| 9 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 |
 | 10 | [Chromakey Dreamcoat](https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:47 |
 | 11 | [Kid For Today](https://open.spotify.com/track/3JYEtZycESWmQggXuAbQlZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:23 |
 | 12 | [Sixtyniner](https://open.spotify.com/track/5PC3XlGumMa31O5sKWTp1s) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 5:17 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 37 | [Iced Cooly](https://open.spotify.com/track/2puMrk8At4ws8Yo92320F7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 2:22 |
 | 38 | [Sick Times](https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:16 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBkNWNmMzNlNGY5MDUxZWU4ZmU2NTVjZTNlNGQ5NGQwNg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAxMGE1ZDQ4MzliOGU2ODdiYmI4ZmYwZjkwN2E4ODRlZA==`

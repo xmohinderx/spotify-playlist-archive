@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,456 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,496 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 11 | [De Fiesta \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1fPigYK8EMFTArMvAwvCtR) | 3:18 |
 | 12 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
 | 13 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
-| 14 | [Agua viva](https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0) | 3:39 |
-| 15 | [Eres Merecedor](https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR) | [Johnny González](https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Eres Merecedor](https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp) | 3:41 |
+| 14 | [Eres Merecedor](https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR) | [Johnny González](https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Eres Merecedor](https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp) | 3:41 |
+| 15 | [Agua viva](https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0) | 3:39 |
 | 16 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 | 17 | [Perfume a Tus Pies](https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM) | [Christian Ray](https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig) | [Enamorarme Mas](https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa) | 4:35 |
 | 18 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 45 | [Yo Te Adoro](https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:17 |
 | 46 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
 | 47 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
-| 48 | [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 |
-| 49 | [Tu Voz Hablar](https://open.spotify.com/track/4ehRzyVzgGAVbHcK8x6JyM) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [Tu Voz Hablar](https://open.spotify.com/album/1OxNn74h25cDuGuHkREQzN) | 3:56 |
+| 48 | [Tu Voz Hablar](https://open.spotify.com/track/4ehRzyVzgGAVbHcK8x6JyM) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [Tu Voz Hablar](https://open.spotify.com/album/1OxNn74h25cDuGuHkREQzN) | 3:56 |
+| 49 | [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 |
 | 50 | [Ancla](https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m) | [Ancla](https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38) | 3:27 |
 
-Snapshot ID: `MTYwNjIyNDIzNSwwMDAwMDAwMDM0ZmE5NzYxMGM4MTk4ODY4MmMxNDhkMjQzMTljNzEy`
+Snapshot ID: `MTYwNjIyNDIzNSwwMDAwMDAwMDRkZTM5M2NkNTAyYjY4ZDVhZGU1NGQ5OTIwZDczOTZk`

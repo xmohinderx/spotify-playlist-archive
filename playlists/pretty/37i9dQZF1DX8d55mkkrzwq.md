@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825 likes - 38 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 826 likes - 38 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 9 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
 | 10 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 |
 | 11 | [Party Freeze Dance Song](https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Freeze Dance Songs for Learning](https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU) | 2:08 |
-| 12 | [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 6:27 |
-| 13 | [The Hokey Pokey](https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 2:24 |
+| 12 | [The Hokey Pokey](https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 2:24 |
+| 13 | [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 6:27 |
 | 14 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
 | 15 | [Shake Break](https://open.spotify.com/track/7w6RBPKhCaxZiyXb1ekdYy) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:35 |
 | 16 | [Conga!](https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:32 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 37 | [Chickie Chickie Beat](https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Chickie Chickie Beat](https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d) | 1:39 |
 | 38 | [Robot Song](https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP) | [Michael & The Rockness Monsters](https://open.spotify.com/artist/3LPxmAUuHX9k2jUlC9m38f) | [Preschool Songs Volume 2](https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ) | 3:13 |
 
-Snapshot ID: `MTY0ODgyNjgwNiwwMDAwMDAwMDU2NDk1OThhZWYzNWVlNjMwNjRkZGQxYjlmYzFiMmVk`
+Snapshot ID: `MTY0ODgyNjgwNiwwMDAwMDAwMGM5ODA2MTQ2ZmNjMTc2MTQ1ZjM3MDI0MzE1NzlkMTk1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,439 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,465 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 32 | [It's Not Unusual](https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Jones](https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR) | 1:59 |
 | 33 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
 | 34 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
-| 35 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
-| 36 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 |
+| 35 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 |
+| 36 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
 | 37 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
 | 38 | [Dancing In The Street \- Stereo](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
 | 39 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 63 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
 | 64 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 |
 | 65 | [Runaway](https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [Runaway with Del Shannon](https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT) | 2:17 |
-| 66 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 |
-| 67 | [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 |
+| 66 | [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 |
+| 67 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 |
 | 68 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 | 69 | [Groovin'](https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [Groovin' \(Mono\)](https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U) | 2:31 |
 | 70 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 |
 | 71 | [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 |
-| 72 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
-| 73 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
+| 72 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
+| 73 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
 | 74 | [Chapel Of Love](https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:50 |
 | 75 | [One \- Single Version](https://open.spotify.com/track/4ME2YQNThxEW63fxojzHvN) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Three Dog Night](https://open.spotify.com/album/3EQ412rAdAuGsxADDEarJ4) | 3:05 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDlmNDM0ODIwZjhjNGIzNGRkODBkM2I5YWViYTIwYzdm`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDg3YWQzMGM2ZDA1M2M0ZGEyOWQ0ZGFjMDVmNjMxN2Rj`

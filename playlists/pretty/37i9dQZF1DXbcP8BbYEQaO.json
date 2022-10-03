@@ -1,12 +1,12 @@
 {
   "description": "meet me at midnight",
-  "num_followers": 151588,
+  "num_followers": 151697,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NDc4NCwwMDAwMDAwMDg1ZWNlMmZiMGU0Y2JkZmVmZTg0YzA3YmE2ZmNhOTRl",
+  "snapshot_id": "MTY2NDU0NDc4NCwwMDAwMDAwMGEwODRkNzgxM2ZiZDYwNWZlNDcwZTI2MWJmZTliMTVj",
   "tracks": [
     {
       "added_at": "2022-09-30 13:32:41",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 124959,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
+    },
+    {
+      "added_at": "2022-09-30 13:32:41",
+      "album": {
         "name": "Diamonds (feat. Aleyna Tilki)",
         "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 168196,
       "name": "Diamonds (feat. Aleyna Tilki)",
       "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
-    },
-    {
-      "added_at": "2022-09-30 13:32:41",
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 124959,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -555,22 +555,18 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/73w5XKOuWg456VuawuUH47"
+        "name": "Easy / Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
         }
       ],
-      "duration_ms": 174080,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu"
+      "duration_ms": 231670,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -591,18 +587,22 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
-        "name": "Easy / Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/73w5XKOuWg456VuawuUH47"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         }
       ],
-      "duration_ms": 231670,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
+      "duration_ms": 174080,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -619,6 +619,22 @@
       "duration_ms": 180266,
       "name": "I F*cking Love You",
       "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
+    },
+    {
+      "added_at": "2022-09-30 13:32:41",
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -655,22 +671,6 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
-        "name": "Nothing's Real",
-        "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 214754,
-      "name": "What's It Gonna Be?",
-      "url": "https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ"
-    },
-    {
-      "added_at": "2022-09-30 13:32:41",
-      "album": {
         "name": "pl4yg1rl",
         "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 159493,
       "name": "pl4yg1rl",
       "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
+    },
+    {
+      "added_at": "2022-09-30 13:32:41",
+      "album": {
+        "name": "Nothing's Real",
+        "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 214754,
+      "name": "What's It Gonna Be?",
+      "url": "https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -803,22 +819,6 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
-        "name": "cool water",
-        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
-      },
-      "artists": [
-        {
-          "name": "dayaway",
-          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "cool water",
-      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
-    },
-    {
-      "added_at": "2022-09-30 13:32:41",
-      "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+        "name": "cool water",
+        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
         }
       ],
-      "duration_ms": 253026,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
+      "duration_ms": 198750,
+      "name": "cool water",
+      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
-        "name": "Love You When You\u2019re Gone",
-        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 184166,
-      "name": "Love You When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
-    },
-    {
-      "added_at": "2022-09-30 13:32:41",
-      "album": {
         "name": "In Ghost Colours",
         "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 277360,
       "name": "Lights & Music",
       "url": "https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM"
+    },
+    {
+      "added_at": "2022-09-30 13:32:41",
+      "album": {
+        "name": "Love You When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Love You When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
+        "name": "Coping Mechanisms",
+        "url": "https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
+    },
+    {
+      "added_at": "2022-09-30 13:32:41",
+      "album": {
         "name": "Heart Worth Breaking",
         "url": "https://open.spotify.com/album/2ai5cNL3E2zJvrmNB1evkb"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
-        "name": "Coping Mechanisms",
-        "url": "https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo"
-      },
-      "artists": [
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
-    },
-    {
-      "added_at": "2022-09-30 13:32:41",
-      "album": {
         "name": "Je te vois enfin",
         "url": "https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 205626,
       "name": "Je te vois enfin",
       "url": "https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6"
-    },
-    {
-      "added_at": "2022-09-30 13:32:41",
-      "album": {
-        "name": "SUPERIMPOSE",
-        "url": "https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 187974,
-      "name": "SUPERIMPOSE",
-      "url": "https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -1075,6 +1059,22 @@
       "duration_ms": 238019,
       "name": "Sirens (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny"
+    },
+    {
+      "added_at": "2022-09-30 13:32:41",
+      "album": {
+        "name": "SUPERIMPOSE",
+        "url": "https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "duration_ms": 187974,
+      "name": "SUPERIMPOSE",
+      "url": "https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk"
     },
     {
       "added_at": "2022-09-30 13:32:41",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-09-30 13:32:41",
       "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
+      },
+      "artists": [
+        {
+          "name": "Grant Knoche",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 155327,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
+    },
+    {
+      "added_at": "2022-09-30 13:32:41",
+      "album": {
         "name": "POSE",
         "url": "https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 146097,
       "name": "2023 - Majid Jordan Remix",
       "url": "https://open.spotify.com/track/2RsNzKRF6wQWS9NWO7xZpj"
-    },
-    {
-      "added_at": "2022-09-30 13:32:41",
-      "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
-      },
-      "artists": [
-        {
-          "name": "Grant Knoche",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 155327,
-      "name": "ICARUS",
-      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
     },
     {
       "added_at": "2022-09-30 13:32:41",

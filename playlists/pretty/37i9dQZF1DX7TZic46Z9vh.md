@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,762 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,774 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 39 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
 | 40 | [Ciudad Hippie](https://open.spotify.com/track/6VwQN0X2kpPnnYohDCPK7v) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/53nfvyyeuDSxk7PZjptrFE) | 5:07 |
 | 41 | [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 |
-| 42 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 |
-| 43 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 |
+| 42 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 |
+| 43 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 |
 | 44 | [Río Amarillo](https://open.spotify.com/track/0f3QYppJ7zuqD9S20ppCuW) | [Los Chijuas](https://open.spotify.com/artist/5nWkamOwLJmb4TReNqnCEp) | [Siempre Fuimos Compañeros](https://open.spotify.com/album/6iT06U9WKRU1wCh3whCgvI) | 2:37 |
 | 45 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 |
 | 46 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 49 | [In\-a\-Gadda\-da\-Vida](https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7) | [La Máquina Del Sonido](https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 1:55 |
 | 50 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
 
-Snapshot ID: `MTY0MDM1MzE2NSwwMDAwMDAwMDFkZWEyYTgxOTI2ZDUyNjNjNzIxNDEyN2NmNjkxN2E0`
+Snapshot ID: `MTY0MDM1MzE2NSwwMDAwMDAwMDgxMjhhMTkxZWMxMTU5MmRkNjJmMTYyMTViOTY3YTcx`

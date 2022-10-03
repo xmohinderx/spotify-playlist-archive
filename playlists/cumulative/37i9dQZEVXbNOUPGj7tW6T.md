@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-308 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
+309 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/2lP2CDczVbZlPskXLA0bqJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [No Te Enamores \- Remix](https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Remix\)](https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk) | 4:49 | 2021-03-27\* | 2021-08-22 |
 | [Normal](https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:51 | 2022-09-15 |  |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-08-08 | 2022-09-16 |
+| [Nos Comemos Vivos](https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 3:45 | 2022-10-02 |  |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-10-20 | 2022-05-08 |
 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 | 2022-07-01 | 2022-07-03 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 |  |
@@ -312,7 +313,7 @@
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-26 |  |
 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 | 2021-07-31 | 2021-09-20 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-09-30 |
-| [Yet To Come \(Hyundai Ver.\)](https://open.spotify.com/track/4ncTUgTfUV3wrjTPzKvn01) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Yet To Come \(Hyundai Ver.\)](https://open.spotify.com/album/4TMlkDHtOb8ZlrGiy57xvH) | 3:43 | 2022-09-24 |  |
+| [Yet To Come \(Hyundai Ver.\)](https://open.spotify.com/track/4ncTUgTfUV3wrjTPzKvn01) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Yet To Come \(Hyundai Ver.\)](https://open.spotify.com/album/4TMlkDHtOb8ZlrGiy57xvH) | 3:43 | 2022-09-24 | 2022-10-03 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-09-15 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 |  |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2021-10-23 | 2021-11-14 |

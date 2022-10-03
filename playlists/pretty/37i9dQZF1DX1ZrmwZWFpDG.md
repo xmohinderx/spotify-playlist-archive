@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZrmwZWFpDG.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lose Yourself to Dance \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:53 |
+| 1 | [Lose Yourself to Dance](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:53 |
 | 2 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 | 3 | [Jubel \- Radio Edit](https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza) | 3:21 |
 | 4 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 |

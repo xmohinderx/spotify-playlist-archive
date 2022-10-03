@@ -4,12 +4,12 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-458 songs - 1 day 4 hr 14 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+459 songs - 1 day 4 hr 18 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:11](https://open.spotify.com/track/67kvPk3D86SDCv7MfBEDfs) | [Metta & Glyde](https://open.spotify.com/artist/3EwTsHqJhfcUgV3zv2yHxQ) | [11:11](https://open.spotify.com/album/3Pg0dwHdCPG1KxWN4RM6gY) | 3:48 | 2022-06-24 | 2022-06-29 |
-| [2008](https://open.spotify.com/track/5Ig3vNOOWqu4DauHpT55K8) | [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk), [Stefkoo](https://open.spotify.com/artist/59mpplQfhpO0dLMIjTz7j5), [CEA](https://open.spotify.com/artist/2UigI5MV3775YMLTOhiNyn) | [2008](https://open.spotify.com/album/36vQUG9rGJYeMtzw7MAxml) | 3:34 | 2021-12-17 |  |
+| [2008](https://open.spotify.com/track/5Ig3vNOOWqu4DauHpT55K8) | [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk), [Stefkoo](https://open.spotify.com/artist/59mpplQfhpO0dLMIjTz7j5), [CEA](https://open.spotify.com/artist/2UigI5MV3775YMLTOhiNyn) | [2008](https://open.spotify.com/album/36vQUG9rGJYeMtzw7MAxml) | 3:34 | 2021-12-17 | 2022-10-03 |
 | [5000 Miles](https://open.spotify.com/track/3G5PWGVpzTCliUyJ720qLj) | [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG), [Bodine](https://open.spotify.com/artist/4w6oVQUBewDrvPthS07F4r) | [5000 Miles](https://open.spotify.com/album/3hNaKqqGi9U9CictEEeVrR) | 3:50 | 2021-12-17 |  |
 | [A Big Life](https://open.spotify.com/track/1wC8NewPz9UC2omMzQx78S) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [A Big Life](https://open.spotify.com/album/68B29M8gbUTv0qSTjTIj7Q) | 3:47 | 2022-01-28 |  |
 | [After The Sting](https://open.spotify.com/track/53KVK5J9ty1cqnybyTKI5h) | [BiXX](https://open.spotify.com/artist/4RiwBL7Ca5pV4qR7gRmEOh) | [After The Sting](https://open.spotify.com/album/418TfjAiWtSU6oxKebeI58) | 3:36 | 2022-06-03 | 2022-09-12 |
@@ -86,6 +86,7 @@
 | [Cisza \(A Dreamstate Anthem\)](https://open.spotify.com/track/3NacPqMDaYYEwhX21x9yp8) | [Key4050](https://open.spotify.com/artist/22sHF6RlJRVbkcLbaTLxaD) | [Cisza \(A Dreamstate Anthem\)](https://open.spotify.com/album/0BLFWwhAg6yOfshQSzLVeW) | 2:50 | 2022-09-09 |  |
 | [City of Angels](https://open.spotify.com/track/3cFlu8PFeAHDcRVOBM1Hz5) | [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Ready For Life](https://open.spotify.com/album/1sqCp414sxgyceCUTaWVXS) | 2:42 | 2021-12-17 | 2022-02-26 |
 | [Colder](https://open.spotify.com/track/1bD4mJMfB4xNOyt6EaxFpg) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Colder](https://open.spotify.com/album/1GAb5vrYO6mt6zdwkvOytZ) | 3:43 | 2021-12-17 | 2022-02-26 |
+| [COLLIDE](https://open.spotify.com/track/1M7h0DxRLM9qctzi9KmdNX) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [COLLIDE](https://open.spotify.com/album/6XvgbHcI3twBpmW6JIVG03) | 3:29 | 2022-09-30 |  |
 | [Colour Me](https://open.spotify.com/track/2WiW6RcpDaCivdk7cofdBA) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Jan Burton](https://open.spotify.com/artist/5ESBqKoYWcMYwlngYyjcOB) | [Horizons \[Part 1\]](https://open.spotify.com/album/2ju1ICgpwj2sMq5VMoMY8i) | 3:57 | 2022-05-20 |  |
 | [Completely](https://open.spotify.com/track/6narPoP1lFtQmKdHeHYXiD) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Completely](https://open.spotify.com/album/1oBKnCIdeXJqHN13zDNDoO) | 2:49 | 2022-03-25 |  |
 | [Connected](https://open.spotify.com/track/5eAYZBLL3vOUrWrVRaBXtj) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF), [Nikolauss](https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid) | [Connected](https://open.spotify.com/album/6ptKD3K2JuwUhWD6kt3VRu) | 3:33 | 2022-01-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 
 > a maroon kind of mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,928 likes - 81 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,699 likes - 81 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 | 65 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 |
 | 66 | [Different Kind of World](https://open.spotify.com/track/2cWMbr0aGddDlXbTEzSAxn) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 2:45 |
 | 67 | [Before You Go](https://open.spotify.com/track/6XSbSBzCrJv0C99guObcy6) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:35 |
-| 68 | [Everything Has Changed](https://open.spotify.com/track/4NAmRvqSITAAzKWnC8yRq3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 4:03 |
+| 68 | [Everything Has Changed \(feat\. Ed Sheeran\) \(Taylor’s Version\)](https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:05 |
 | 69 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 |
 | 70 | [everyone at this party](https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 2:48 |
 | 71 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 | 80 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 |
 | 81 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 
-Snapshot ID: `MTY2NDY1NDkwMiwwMDAwMDAwMGFkNjIxNGZmYTA0NzRhYTA4NjFhNTUwZDZmNGZmZGRm`
+Snapshot ID: `MTY2NDc0MDE1MywwMDAwMDAwMDhlZWIyZTU1NGZmNTRkZTI5Mjg2MTkyYmNiZDhkYzQy`

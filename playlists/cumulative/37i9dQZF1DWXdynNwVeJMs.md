@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-115 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+116 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,8 +120,9 @@
 | [Verloren Buffels](https://open.spotify.com/track/4FMb1GtQ3uR8tIkyKCu25M) | [Donder](https://open.spotify.com/artist/5FBAdptDafa4fx8gGKDqBF), [Sigbjørn Apeland](https://open.spotify.com/artist/1nVOaRO8R3WXKXr1ywpULw) | [Het Verdriet](https://open.spotify.com/album/4iWJVM8EoN10L603olZx8o) | 1:33 | 2022-09-08 |  |
 | [Waksi](https://open.spotify.com/track/04UtGDGd2196p3Z0t1DMCv) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Waksi](https://open.spotify.com/album/6KzDyvv51a6uZAKIF0LLvV) | 3:35 | 2022-09-08 | 2022-09-26 |
 | [Waksi](https://open.spotify.com/track/6klvTcqZqEdAU7UvKJmX8C) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:35 | 2022-09-15 |  |
+| [Wessel](https://open.spotify.com/track/1qpwLKM8ipm4V21h3eXuuU) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 5:03 | 2022-09-29 |  |
 | [Wessel](https://open.spotify.com/track/4wmiOqY3jAPOkS6pzYvyIs) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Wessel](https://open.spotify.com/album/0OEduMDNnxOH9s5wRRzIpQ) | 5:03 | 2022-09-08 | 2022-09-25 |
-| [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 | 2022-09-15 |  |
+| [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 | 2022-09-15 | 2022-10-03 |
 | [Wolk](https://open.spotify.com/track/1psgbIT91j1nQMWMG9puWg) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Wolk](https://open.spotify.com/album/5KEYqGAofKWeCD7CZzojpB) | 3:59 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

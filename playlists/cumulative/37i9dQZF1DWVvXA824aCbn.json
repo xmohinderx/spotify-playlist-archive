@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg"
+      },
+      "artists": [
+        {
+          "name": "The Headliner Trio",
+          "url": "https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250540,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC"
+    },
+    {
+      "album": {
         "name": "Standard Collections Vol. 1",
         "url": "https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF"
       },
@@ -942,6 +960,24 @@
     },
     {
       "album": {
+        "name": "Clear Sight",
+        "url": "https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S"
+      },
+      "artists": [
+        {
+          "name": "Midtown Trio",
+          "url": "https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167113,
+      "name": "Clear Sight",
+      "url": "https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad"
+    },
+    {
+      "album": {
         "name": "Coffee Break",
         "url": "https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX"
       },
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 293500,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0"
@@ -1891,6 +1927,24 @@
       "duration_ms": 507534,
       "name": "I Have Dreamed",
       "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
+    },
+    {
+      "album": {
+        "name": "I Know Too Well",
+        "url": "https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206771,
+      "name": "I Know Too Well",
+      "url": "https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr"
     },
     {
       "album": {
@@ -3105,6 +3159,24 @@
       "duration_ms": 242399,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
+    },
+    {
+      "album": {
+        "name": "Mancuso's Joint",
+        "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258836,
+      "name": "Mancuso's Joint",
+      "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
     },
     {
       "album": {
@@ -4615,7 +4687,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 344775,
       "name": "tea for two",
       "url": "https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8"
@@ -4705,7 +4777,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 310450,
       "name": "The ballad of sad young men",
       "url": "https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO"
@@ -5407,7 +5479,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 447813,
       "name": "When I Fall in Love",
       "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"

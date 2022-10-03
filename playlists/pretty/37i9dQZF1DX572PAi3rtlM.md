@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,735 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,740 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 8 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 |
 | 9 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 4:23 |
 | 10 | [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 |
-| 11 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
-| 12 | [Saúde](https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 5:01 |
+| 11 | [Saúde](https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 5:01 |
+| 12 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
 | 13 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 14 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 15 | [That Was Your Mother \- Gui Boratto Remix](https://open.spotify.com/track/7qB5mBa997C6ddiCgmsfU4) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Graceland \- The Remixes](https://open.spotify.com/album/34ORSj2qrkkwUUwQJMcV1d) | 6:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Sometimes](https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq) | [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Sometimes](https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1) | 5:54 |
 | 50 | [Tasty Jam](https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:10 |
 
-Snapshot ID: `MTY0MjEzNjQwMCwwMDAwMDAwMGU2MjIwNWM1NDcyMGYyY2Q2YjczMWQ1NmVkNTY4YzMx`
+Snapshot ID: `MTY0MjEzNjQwMCwwMDAwMDAwMDFlYmNlOWJmN2U4ZjBhMzNhMTczODRkODJiMDFlNWE0`

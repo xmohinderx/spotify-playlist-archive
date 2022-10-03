@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,944 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,027 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 28 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 |
 | 29 | [XO Tour Llif3](https://open.spotify.com/track/2T1OgnCnRWulJPXYhXqwNt) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [XO Tour Llif3](https://open.spotify.com/album/0sGrr63eLGmDyx2iRclNPR) | 3:00 |
 | 30 | [Kids in America](https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kids in America](https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8) | 3:08 |
-| 31 | [Hot Girl Bummer](https://open.spotify.com/track/4NFUmJY3lp5pCk5UB3nLdK) | [ANSON](https://open.spotify.com/artist/4F0mwtDsLi4dKzug5JB5gn) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/5wF0HilPu6SqcCh3ktN6ax) | 3:26 |
-| 32 | [Love Yourself](https://open.spotify.com/track/7Bzc5H5AjV7Bd9f7mayLdG) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:26 |
+| 31 | [Love Yourself](https://open.spotify.com/track/7Bzc5H5AjV7Bd9f7mayLdG) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:26 |
+| 32 | [Hot Girl Bummer](https://open.spotify.com/track/4NFUmJY3lp5pCk5UB3nLdK) | [ANSON](https://open.spotify.com/artist/4F0mwtDsLi4dKzug5JB5gn) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/5wF0HilPu6SqcCh3ktN6ax) | 3:26 |
 | 33 | [Let It Go](https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:16 |
 | 34 | [Crawling](https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Crawling](https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc) | 3:32 |
 | 35 | [Don’t Tell Me It’s Over](https://open.spotify.com/track/17px1Xc6wfPnhHWM84njQP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Don’t Tell Me It’s Over](https://open.spotify.com/album/1GNtqzWi7abSqeagV7eEDd) | 2:29 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 50 | [Heathens](https://open.spotify.com/track/189ho2EWK86V7I7X0Ecwma) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:46 |
 | 51 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
 | 52 | [Here with Me](https://open.spotify.com/track/4P1bWG46ggUx3kOdnDEAfs) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/5wF0HilPu6SqcCh3ktN6ax) | 2:29 |
-| 53 | [Soak up the Sun](https://open.spotify.com/track/7jmeasfgUACycDwwC1JnE8) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Soak up the Sun](https://open.spotify.com/album/437lF978Yeb1SZubuLRtJN) | 3:23 |
-| 54 | [MakeDamnSure](https://open.spotify.com/track/30rLZAMsDqDdXxULLUBbWh) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [MakeDamnSure](https://open.spotify.com/album/31LfOtc3yWzCofORcAHWYq) | 3:22 |
+| 53 | [MakeDamnSure](https://open.spotify.com/track/30rLZAMsDqDdXxULLUBbWh) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [MakeDamnSure](https://open.spotify.com/album/31LfOtc3yWzCofORcAHWYq) | 3:22 |
+| 54 | [Soak up the Sun](https://open.spotify.com/track/7jmeasfgUACycDwwC1JnE8) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Soak up the Sun](https://open.spotify.com/album/437lF978Yeb1SZubuLRtJN) | 3:23 |
 | 55 | [Wonderwall](https://open.spotify.com/track/3SN6V2ZELXrTjna8TRXJ1l) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Punk Goes 90's](https://open.spotify.com/album/17SxJEn7Ons4pifxtYY9Wu) | 4:53 |
 | 56 | [Closer](https://open.spotify.com/track/2Mfg9VKNW2txe2gNjIi1Az) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 4:12 |
 | 57 | [Let It Be](https://open.spotify.com/track/0eZ4bLUnh0NkGwCEmPvRYI) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Let It Be](https://open.spotify.com/album/27njwfI83O3b2ho4MgCKEG) | 3:52 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 89 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 |
 | 90 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
 | 91 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
-| 92 | [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 |
+| 92 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
 | 93 | [Adore You](https://open.spotify.com/track/520z2yumDjdc18QvmWk5vM) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Covers, Vol\. 5](https://open.spotify.com/album/6SFXA3Oo0WxQmcqucfHPVm) | 3:29 |
-| 94 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
-| 95 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
-| 96 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
+| 94 | [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 |
+| 95 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
+| 96 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 | 97 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
 | 98 | [Yummy](https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/3CuZMYOl73DPzfm8suzQ7v) | 3:21 |
 | 99 | [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 |
 | 100 | [Morning Glory](https://open.spotify.com/track/7Jus0fkLaBKa0vljILAkSS) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Morning Glory](https://open.spotify.com/album/5QKFFremJ9WJV3SlEQQMcX) | 4:08 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMGMxNjljNjU2MThmZjBmYjMwZDAwYzJkYmNhMDIxNGMx`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDU0OGI2OWI5NjNkMzJmMjkzMjVmZDMzYjVjNWYyYmRm`

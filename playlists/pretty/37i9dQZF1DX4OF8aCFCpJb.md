@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,348 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,357 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 26 | [Rudeboy Love](https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Rudeboy Love](https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn) | 3:40 |
 | 27 | [Tippa på tå](https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Tippa på tå](https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu) | 3:01 |
 | 28 | [Ugly Girls](https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:35 |
-| 29 | [Jag Minns](https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:57 |
-| 30 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 |
+| 29 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 |
+| 30 | [Jag Minns](https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:57 |
 | 31 | [Över Min Döda](https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Över Min Döda](https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U) | 3:33 |
 | 32 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
 | 33 | [Dunya](https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Reggaestrerad](https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG) | 3:43 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 35 | [Såna ögon](https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Såna ögon](https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj) | 2:52 |
 | 36 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 |
 | 37 | [Kontakt](https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 3:08 |
-| 38 | [Vägsjäl](https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Trodal](https://open.spotify.com/album/3NJujcbx0smsffJx4vOode) | 3:28 |
-| 39 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
+| 38 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
+| 39 | [Vägsjäl](https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Trodal](https://open.spotify.com/album/3NJujcbx0smsffJx4vOode) | 3:28 |
 | 40 | [12 Steps](https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2) | [USCB Allstars](https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ) | [Class Brutáls](https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB) | 4:02 |
 | 41 | [Vakna](https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Gör Det Ändå](https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8) | 3:32 |
-| 42 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
-| 43 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
-| 44 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
+| 42 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
+| 43 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
+| 44 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
 | 45 | [Under samma himmel](https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Under samma himmel](https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA) | 4:13 |
-| 46 | [Bida Din Tid](https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:53 |
-| 47 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
-| 48 | [Reggaeprofil](https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:47 |
+| 46 | [Reggaeprofil](https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:47 |
+| 47 | [Bida Din Tid](https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:53 |
+| 48 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 | 49 | [Mi Amor](https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Mi Amor](https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD) | 3:42 |
 | 50 | [Twin Flame](https://open.spotify.com/track/1px6WAnyrXvXUx33U9KfIg) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:07 |
 
-Snapshot ID: `MTY1Nzg5NDYxMCwwMDAwMDAwMDcwODQxMDc3YzIwZjZkMDdkNzU0NWRiYWZmNDhkYWU1`
+Snapshot ID: `MTY1Nzg5NDYxMCwwMDAwMDAwMGI5NzhjMGJkMTkwMzQ0NWE2NDEwOGRhOGE3MWVmZDM3`

@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 537882,
+  "num_followers": 538031,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODQ4NjI2MiwwMDAwMDAwMDQ2MmYyOGJkNTMyODRjYWQxOGQxM2U2NmRjZmMxZTgx",
+  "snapshot_id": "MTU5ODQ4NjI2MiwwMDAwMDAwMDAyZGU4OGMzOTk4ODhiM2JkNGNlYmRmMTI3NjkwOWE5",
   "tracks": [
     {
       "added_at": "2020-08-26 23:57:42",
@@ -199,22 +199,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+        "name": "Don't Lose Hope",
+        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
         }
       ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+      "duration_ms": 176706,
+      "name": "Church (Take Me Back)",
+      "url": "https://open.spotify.com/track/02RCTBFKyLaECOTgfr0zTM"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -235,18 +231,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Don't Lose Hope",
-        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 176706,
-      "name": "Church (Take Me Back)",
-      "url": "https://open.spotify.com/track/02RCTBFKyLaECOTgfr0zTM"
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Double Take - Chris Tomlin",
         "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 237338,
       "name": "Rescue Story",
       "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -919,6 +903,22 @@
       "duration_ms": 237146,
       "name": "Love Broke Thru",
       "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Speaking Louder Than Before",
-        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 279440,
-      "name": "There Will Be A Day",
-      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
+      "duration_ms": 211600,
+      "name": "Christ In Me",
+      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1283,24 +1283,24 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
         }
       ],
-      "duration_ms": 199531,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
+      "duration_ms": 298226,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
     },
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+        "name": "Speaking Louder Than Before",
+        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Christ In Me",
-      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
+      "duration_ms": 279440,
+      "name": "There Will Be A Day",
+      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
       },
       "artists": [
         {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 298226,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
+      "duration_ms": 199531,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1379,6 +1379,22 @@
       "duration_ms": 329213,
       "name": "O Praise The Name (An\u00e1stasis) - Live",
       "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 321933,
+      "name": "Open The Eyes Of My Heart - Live",
+      "url": "https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 321933,
-      "name": "Open The Eyes Of My Heart - Live",
-      "url": "https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "You Deliver Me",
         "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
       },
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
         "name": "Listen To The Sound",
         "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+        "name": "These Simple Truths",
+        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
+      "duration_ms": 200453,
+      "name": "The Words I Would Say",
+      "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1531,22 +1547,6 @@
       "duration_ms": 264320,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "The Words I Would Say",
-      "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Ultimate Worship: Hillsong (Live)",
-        "url": "https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Here I Am To Worship - Live",
-      "url": "https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 222546,
       "name": "I Need A Miracle",
       "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Ultimate Worship: Hillsong (Live)",
+        "url": "https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu"
     },
     {
       "added_at": "2020-08-26 23:57:42",

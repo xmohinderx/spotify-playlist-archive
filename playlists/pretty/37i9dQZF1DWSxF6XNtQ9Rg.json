@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da riascoltare in loop. Cover: Marracash",
-  "num_followers": 143576,
+  "num_followers": 143661,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1NzA4MiwwMDAwMDAwMDBhNmIwYjM3ZDgyYjljYmVkYzE2MWQ5MDliMmFhZmY1",
+  "snapshot_id": "MTY2MjU1NzA4MiwwMDAwMDAwMGM1MmI0NjdmYmVmZDYzMzcyMGFkNmJjMmY4ODM5MmFj",
   "tracks": [
     {
       "added_at": "2022-09-07 13:24:41",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "ch1 5ei te",
+      "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
+    },
+    {
+      "added_at": "2022-09-07 13:24:41",
+      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2022-09-07 13:24:41",
-      "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 183762,
-      "name": "ch1 5ei te",
-      "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -643,26 +643,18 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
-        "name": "Senza Di Me",
-        "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "Venerus",
-          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 201961,
-      "name": "Senza Di Me (feat. Venerus & Franco126)",
-      "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
+      "duration_ms": 200214,
+      "name": "BRAVI A CADERE - I polmoni",
+      "url": "https://open.spotify.com/track/3me7fQdjgO8NHscb3xPaBa"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -687,18 +679,26 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+        "name": "Senza Di Me",
+        "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Venerus",
+          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
         }
       ],
-      "duration_ms": 200214,
-      "name": "BRAVI A CADERE - I polmoni",
-      "url": "https://open.spotify.com/track/3me7fQdjgO8NHscb3xPaBa"
+      "duration_ms": 201961,
+      "name": "Senza Di Me (feat. Venerus & Franco126)",
+      "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -775,6 +775,30 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 223045,
+      "name": "SUPREME - L'ego (feat. thasup & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/5EpBEqf5bnKeJ3p4zA1Sod"
+    },
+    {
+      "added_at": "2022-09-07 13:24:41",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 158769,
       "name": "Ma Jolie (feat. ANNA)",
       "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2022-09-07 13:24:41",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 223045,
-      "name": "SUPREME - L'ego (feat. thasup & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/5EpBEqf5bnKeJ3p4zA1Sod"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
-        "name": "Mon Fre (feat. Emis Killa)",
-        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
+        "name": "Re Mida",
+        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         },
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
-      "duration_ms": 224150,
-      "name": "Mon Fre - feat. Emis Killa",
-      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
+      "duration_ms": 200146,
+      "name": "Catrame (feat. Tedua)",
+      "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
-        "name": "Re Mida",
-        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
+        "name": "Mon Fre (feat. Emis Killa)",
+        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         },
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Catrame (feat. Tedua)",
-      "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
+      "duration_ms": 224150,
+      "name": "Mon Fre - feat. Emis Killa",
+      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
+    },
+    {
+      "added_at": "2022-09-07 13:24:41",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2022-09-07 13:24:41",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Lo Sai Che Ci Penso",
+      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2022-09-07 13:24:41",
+      "album": {
         "name": "Soldi in Nero (feat. Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+        "name": "Bottiglie Priv\u00e8",
+        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 180346,
-      "name": "Lo Sai Che Ci Penso",
-      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+      "duration_ms": 189867,
+      "name": "Bottiglie Priv\u00e8",
+      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -1295,22 +1311,6 @@
       "duration_ms": 159750,
       "name": "Ma Ch\u00e9rie (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez"
-    },
-    {
-      "added_at": "2022-09-07 13:24:41",
-      "album": {
-        "name": "Bottiglie Priv\u00e8",
-        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "Bottiglie Priv\u00e8",
-      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
     },
     {
       "added_at": "2022-09-07 13:24:41",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2022-09-07 13:24:41",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
+    },
+    {
+      "added_at": "2022-09-07 13:24:41",
+      "album": {
         "name": "Scialla Semper (Emodrill Repack)",
         "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 249303,
       "name": "Polo nord - C+N Progressive Mix",
       "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
-    },
-    {
-      "added_at": "2022-09-07 13:24:41",
-      "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 171375,
-      "name": "Stamm Fort (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
     }
   ],
   "unique_name": "Hit Rap Italiane",

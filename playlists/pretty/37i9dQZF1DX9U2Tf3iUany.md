@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 46 | [Scenario](https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 4:01 |
 | 47 | [Down And Out](https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [Purple Haze](https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44) | 4:08 |
 | 48 | [Best Friend \- Remix](https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [Best Friend \(Remix\)](https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe) | 4:14 |
-| 49 | [Karma](https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Hunger For More](https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v) | 4:38 |
+| 49 | [The Games We Play](https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 2:46 |
 | 50 | [TTG \(feat\. Kevin Gates\)](https://open.spotify.com/track/28u9JaFwO7GX2YNARkq37P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 2:52 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGFkNzFmZTFmMmE1M2YxY2EyMzQ1MzAzMzYxODE5NDdj`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGUwY2FhYWI5ZGMyMmMzZDIyY2MyNzhjYWEzZGE0ODI3`

@@ -7205,7 +7205,7 @@
     {
       "album": {
         "name": "Unfold",
-        "url": "https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop"
+        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
       },
       "artists": [
         {
@@ -7216,6 +7216,24 @@
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 90127,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
+    },
+    {
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
       "duration_ms": 90127,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"

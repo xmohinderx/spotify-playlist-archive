@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 
 > This is Salt Creek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 19 | [Taste the Floor](https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
 | 20 | [EVERYONEISTHESAME](https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:06 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAxZjI0OGNhODZhNTMwYmI2ZmM2OWVjZGRhNGRlNDdkYQ==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDAyNDIyMjk2OGJmYjBmMzJiZjlmNTUwZjFjMmMzZTk3ZA==`

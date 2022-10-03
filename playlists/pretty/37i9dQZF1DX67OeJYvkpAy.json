@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 75491,
+  "num_followers": 75558,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGQ3NWY5NDA3MjQ0MmU1NjVlYzUyN2E1ZTAyMmM4YjNl",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGI0NTZiNjVjNzNjYmIxM2YzNDFkZmRjZGI4MjQ2MWEw",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 134193,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "The Talking Stage Game",
         "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 201290,
       "name": "A Teen",
       "url": "https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 134193,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 198620,
       "name": "Change",
       "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Shipp\u016bden",
-        "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
+        "name": "If I knew how to save us",
+        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
       },
       "artists": [
         {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
         }
       ],
-      "duration_ms": 179594,
-      "name": "Shipp\u016bden",
-      "url": "https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC"
+      "duration_ms": 157664,
+      "name": "If I knew how to save us",
+      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "If I knew how to save us",
-        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
+        "name": "Shipp\u016bden",
+        "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
       },
       "artists": [
         {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
         }
       ],
-      "duration_ms": 157664,
-      "name": "If I knew how to save us",
-      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
+      "duration_ms": 179594,
+      "name": "Shipp\u016bden",
+      "url": "https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Never Been Ordinary",
-        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Window Blues",
-      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Never Been Ordinary",
+        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Window Blues",
+      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Die Young",
         "url": "https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "House Invasions",
-        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
-      },
-      "artists": [
-        {
-          "name": "Nino SLG",
-          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
-        }
-      ],
-      "duration_ms": 209345,
-      "name": "House Invasions",
-      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 128261,
       "name": "18+",
       "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "House Invasions",
+        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
+      },
+      "artists": [
+        {
+          "name": "Nino SLG",
+          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "House Invasions",
+      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "My Girl (Gemini)",
-        "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "My Girl (Gemini)",
-      "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 96086,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111250,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/4ea2vWlwximLGKvkvwArSr"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 175774,
       "name": "Hearts Get Numb",
       "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 111250,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
-      },
-      "artists": [
-        {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 169411,
       "name": "Just You",
       "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+      },
+      "artists": [
+        {
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
     },
     {
       "added_at": "2022-08-02 15:42:28",

@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 688389,
+  "num_followers": 688386,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDY1ZjVmMjhlZDc2OTczNWRhZGVhOGYwNTNjYTdjNWY1",
+  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDViYzRiMDM0ZmY0MDFiNzIwZWIwYTFmNmI4YjlkZmE0",
   "tracks": [
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "You & I (Emily Nash Remix)",
         "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 172258,
       "name": "You & I - Emily Nash Remix",
       "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Pia Mia",
-          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Juliet & Romeo",
-        "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 204514,
-      "name": "Juliet & Romeo",
-      "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 226000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Juliet & Romeo",
+        "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 204514,
+      "name": "Juliet & Romeo",
+      "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Erase Me",
+        "url": "https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        }
+      ],
+      "duration_ms": 243803,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "For a Feeling (feat. RHODES)",
         "url": "https://open.spotify.com/album/0cBPK7AovyEBys5USO3MQ2"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Erase Me",
-        "url": "https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX"
-      },
-      "artists": [
-        {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        }
-      ],
-      "duration_ms": 243803,
-      "name": "Erase Me",
-      "url": "https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1907,30 +1907,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Tell It To My Heart (KVSH Remix)",
-        "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
-      "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
       },
@@ -1963,22 +1939,26 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Tears For Later",
-        "url": "https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO"
+        "name": "Tell It To My Heart (KVSH Remix)",
+        "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         }
       ],
-      "duration_ms": 166736,
-      "name": "Tears For Later",
-      "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
+      "duration_ms": 183870,
+      "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
+      "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1999,6 +1979,26 @@
       "duration_ms": 186493,
       "name": "There For You",
       "url": "https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Tears For Later",
+        "url": "https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Tears For Later",
+      "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
     },
     {
       "added_at": "2022-08-22 17:56:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od?si=u\-jJ8QFIR8KCr2\-tje4T1g"> Ria Sean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,237 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,249 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

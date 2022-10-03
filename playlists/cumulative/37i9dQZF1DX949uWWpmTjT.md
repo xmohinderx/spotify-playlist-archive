@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-161 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+162 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Ill Wind](https://open.spotify.com/track/5x86T4WYD8z4axZugABMJ7) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:41 | 2022-03-25 | 2022-09-23 |
 | [In A Mellow Tone](https://open.spotify.com/track/6PtMY654POS9nizEBvrdPD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:10 | 2021-12-03 |  |
 | [In a Sentimental Mood](https://open.spotify.com/track/4nwPv8i1VJlgkiy8vTfGzA) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [In a Sentimental Mood](https://open.spotify.com/album/51mMHyLtEz8eQoNGEtwwL1) | 6:23 | 2022-06-09 | 2022-09-25 |
+| [In a Sentimental Mood](https://open.spotify.com/track/7hqUrALWgNQzuqyZGGitUI) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Divine Beasts](https://open.spotify.com/album/5VKqC7171wf7D2fdcPIH8f) | 6:23 | 2022-09-22 |  |
 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 | 2021-12-03 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/34IQaMgUdIciIpNWN5CUbl) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:59 | 2021-12-03 |  |
 | [Intermezzo](https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:36 | 2021-12-03 | 2022-05-20 |
@@ -95,7 +96,7 @@
 | [Jitterbug Waltz](https://open.spotify.com/track/78tkbFOl19X4dd25sxossL) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5xUzn9J7eHJOQpQ6bYba8U) | 6:16 | 2021-12-03 | 2022-07-29 |
 | [La part des anges](https://open.spotify.com/track/5QJNVrABmfDW0g4EDVAR89) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 3:36 | 2021-12-03 |  |
 | [Left Alone](https://open.spotify.com/track/5niuB6LyaMlfOizwxsLAlZ) | [Pekka Pylkkanen](https://open.spotify.com/artist/3FhDOgA2Mmistm9ml8kMur), [Eric Ineke](https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx) | [Left Alone](https://open.spotify.com/album/0AwwQi9FYLGVav6LSZxzJV) | 10:30 | 2022-05-05 |  |
-| [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 | 2021-12-03 |  |
+| [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 | 2021-12-03 | 2022-10-03 |
 | [Lullaby In Rhythm](https://open.spotify.com/track/25zqKQdQJhxFus3X0BPWD3) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:16 | 2021-12-03 | 2022-09-23 |
 | [Manha De Carnaval](https://open.spotify.com/track/5dn2ogDHiTDFMwW597ip2T) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus](https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY) | 5:48 | 2022-04-13 |  |
 | [Melody](https://open.spotify.com/track/7Djo7DXnbmp5MBsWPr4go0) | [Tom Oren](https://open.spotify.com/artist/4rWD6FNjhXrLX6qoAlTbyx) | [Melody](https://open.spotify.com/album/5VLQ2inXkEkxBAt5Eul1Hp) | 3:54 | 2021-12-03 | 2022-09-23 |

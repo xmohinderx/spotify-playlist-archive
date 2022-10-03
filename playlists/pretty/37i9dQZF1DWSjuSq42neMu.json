@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 538783,
+  "num_followers": 539024,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE3NzQ4MiwwMDAwMDAwMGNkZjJiNzIyNjNjNzRhNzhlN2E0YjFjNTBjMDhkNDc5",
+  "snapshot_id": "MTY2MTE3NzQ4MiwwMDAwMDAwMDc3NDgyZDI5YjY5MDA5ZDdjYTA5MzNiNGNiNDZjMDk1",
   "tracks": [
     {
       "added_at": "2022-08-22 14:11:22",
@@ -79,8 +79,8 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+        "name": "Feliz Cumplea\u00f1os Ferxxo",
+        "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+      "duration_ms": 156400,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -235,8 +235,8 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Feliz Cumplea\u00f1os Ferxxo",
-        "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 156400,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "No Te Enamores (Remix)",
         "url": "https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 289933,
       "name": "No Te Enamores - Remix",
       "url": "https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Ponte Pa' Mi",
-        "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "Ponte Pa' Mi",
-      "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "The Sensation",
         "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 203666,
       "name": "Qu\u00e9 M\u00e1s Pues",
       "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Ponte Pa' Mi",
+        "url": "https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Ponte Pa' Mi",
+      "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Me Extra\u00f1a",
+      "url": "https://open.spotify.com/track/2EYy5e5yDpF8yaxq8rNopo"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
         "name": "Infiel (Remix)",
         "url": "https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 297760,
       "name": "Infiel - Remix",
       "url": "https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Me Extra\u00f1a",
-      "url": "https://open.spotify.com/track/2EYy5e5yDpF8yaxq8rNopo"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Palmas",
-        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Saga WhiteBlack",
-          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
-        }
-      ],
-      "duration_ms": 171089,
-      "name": "Palmas",
-      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "Hasta Abajo",
         "url": "https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 229946,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Palmas",
+        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Saga WhiteBlack",
+          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
+        }
+      ],
+      "duration_ms": 171089,
+      "name": "Palmas",
+      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
     },
     {
       "added_at": "2022-08-22 14:11:22",

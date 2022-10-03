@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > It's 3pm and we've peaced out for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,537 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,746 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 10 | [mirrorball](https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:28 |
 | 11 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 |
 | 12 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 |
-| 13 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
-| 14 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 |
+| 13 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 |
+| 14 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 15 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 16 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
 | 17 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 31 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 |
 | 32 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 33 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
-| 34 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
-| 35 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
-| 36 | [You Are the Right One](https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 2:52 |
+| 34 | [You Are the Right One](https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 2:52 |
+| 35 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
+| 36 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 37 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 38 | [Thinking out Loud](https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:41 |
 | 39 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 48 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
 | 49 | [Africa](https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:58 |
 | 50 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
-| 51 | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1) | 3:31 |
-| 52 | [The Way I Am](https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Girls And Boys](https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z) | 2:15 |
+| 51 | [The Way I Am](https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Girls And Boys](https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z) | 2:15 |
+| 52 | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things \(With Charlotte Lawrence\)](https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1) | 3:31 |
 | 53 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 |
 | 54 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv) | 2:34 |
 | 55 | [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 64 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
 | 65 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 |
 
-Snapshot ID: `MTY2MzkwNTg2OSwwMDAwMDAwMDJiMTNhNWRiOTg4NGU0MWM3YjE4NmUxZDhjNTFkNjJk`
+Snapshot ID: `MTY2MzkwNTg2OSwwMDAwMDAwMGFhMmU0ZWI4MzdjMzI2ZjRmZTBiNjY1ZTg3ZDI0Mjc0`

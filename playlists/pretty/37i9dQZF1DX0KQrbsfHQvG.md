@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,320 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,392 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 37 | [The Doomed](https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op) | 4:41 |
 | 38 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
 | 39 | [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 |
-| 40 | [American Dreams](https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:23 |
-| 41 | [Wastelands](https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:15 |
+| 40 | [Wastelands](https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:15 |
+| 41 | [American Dreams](https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:23 |
 | 42 | [Hail To The Victor](https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:21 |
 | 43 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj) | 3:40 |
 | 44 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 |
 | 75 | [Divide](https://open.spotify.com/track/5nMKcCg8iL9syTYM3p63lS) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 4:17 |
 
-Snapshot ID: `MTY1NjY0ODA2MCwwMDAwMDAwMDg3Y2ZhNDg5MjdiNTVkN2Q1YTkyZWUxZWYxOTAyNzcx`
+Snapshot ID: `MTY1NjY0ODA2MCwwMDAwMDAwMDJkYTFhYWMwMDczZmNkNTY5OGEzMzQ0MjU1YjVmNDJk`

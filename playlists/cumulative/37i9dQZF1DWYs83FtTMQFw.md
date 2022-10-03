@@ -4,7 +4,7 @@
 
 > The hottest tracks of today...featuring Drake, Rod Wave, and Post Malone
 
-766 songs - 1 day 15 hr 19 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
+767 songs - 1 day 15 hr 22 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [TO THE MOON \- Gunna Remix](https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(Gunna Remix\)](https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk) | 2:46 | 2022-03-25 |  |
 | [Tombstone](https://open.spotify.com/track/0JGQASbzeUjibbQp2Eu0Yv) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Tombstone](https://open.spotify.com/album/66OiXbmQt5GGNNXT8nL8ls) | 2:40 | 2021-03-26 | 2021-07-10 |
 | [Tommy Lee \(feat\. SAINt JHN & Post Malone\) \- Remix](https://open.spotify.com/track/4Rq2BMG5VWMhb2whSx8bf4) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Tommy Lee \(feat\. SAINt JHN & Post Malone\) \[Remix\]](https://open.spotify.com/album/4JS5yC6k5oNfbzy2FexLBU) | 3:50 | 2020-09-30\* | 2021-01-23 |
+| [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-10-02 |  |
 | [too easy](https://open.spotify.com/track/4eL3XeuGaEoVT8ttDh3hwY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [too easy](https://open.spotify.com/album/1hbRXvB0m34uUqNU8EbZzc) | 2:18 | 2021-11-09 | 2022-04-29 |
 | [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2021-12-17 | 2022-02-05 |
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-19 |  |

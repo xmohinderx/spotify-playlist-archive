@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul",
-  "num_followers": 118613,
+  "num_followers": 118681,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUyMTUzOSwwMDAwMDAwMGVhYjdjZjJhYTEzMmZiZWQwMWRmMjAzZGRjZmU5YWQ1",
+  "snapshot_id": "MTY2NDUyMTUzOSwwMDAwMDAwMDMyMDg4YjQ5MjIwNDE2ZGE5ZDM4OGYyZmNjNjM4YjMx",
   "tracks": [
     {
       "added_at": "2022-09-30 07:00:39",
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
     },
     {
-      "added_at": "2022-10-02 01:52:53",
+      "added_at": "2022-10-03 01:44:52",
       "album": {
         "name": "NEXT 2 U",
         "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-09-30 07:00:39",
       "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2022-09-30 07:00:39",
+      "album": {
         "name": "Letter Blue",
         "url": "https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 220332,
       "name": "Bound (with Blood Orange)",
       "url": "https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G"
-    },
-    {
-      "added_at": "2022-09-30 07:00:39",
-      "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2022-09-30 07:00:39",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-09-30 07:00:39",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+    },
+    {
+      "added_at": "2022-09-30 07:00:39",
+      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
-    },
-    {
-      "added_at": "2022-09-30 07:00:39",
-      "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     },
     {
       "added_at": "2022-09-30 07:00:39",

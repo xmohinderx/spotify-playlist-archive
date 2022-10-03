@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89344,
+  "num_followers": 89342,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGE5MzQ2MDdhOTNjMzE4OGMyOWQwYzIzZGEyM2Y4YTM0",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDViNzU5ZmUwODZkNzFiOGI5ZTJmMDNiOTgxZGQyNjU3",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -163,22 +163,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Rocketman (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Taron Egerton",
-          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 250773,
-      "name": "(I'm Gonna) Love Me Again",
-      "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -199,34 +195,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+        "name": "Rocketman (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E"
-      },
-      "artists": [
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
         }
       ],
-      "duration_ms": 236880,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5"
+      "duration_ms": 250773,
+      "name": "(I'm Gonna) Love Me Again",
+      "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -243,6 +227,22 @@
       "duration_ms": 234240,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 236880,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -379,22 +379,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "Western Stars",
-      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "The Big Unknown (From \"Widows\")",
         "url": "https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 261466,
       "name": "The Big Unknown (From \"Widows\")",
       "url": "https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "Western Stars",
+      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -615,22 +615,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Blood Red Roses (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa"
+        "name": "25 Years Later",
+        "url": "https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        },
-        {
-          "name": "Bridget Cady",
-          "url": "https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z"
+          "name": "The Kelly Family",
+          "url": "https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP"
         }
       ],
-      "duration_ms": 240986,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0"
+      "duration_ms": 227800,
+      "name": "Over The Hump",
+      "url": "https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -651,18 +647,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "25 Years Later",
-        "url": "https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8"
+        "name": "Blood Red Roses (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa"
       },
       "artists": [
         {
-          "name": "The Kelly Family",
-          "url": "https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Bridget Cady",
+          "url": "https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Over The Hump",
-      "url": "https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb"
+      "duration_ms": 240986,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "In the Blue Light",
-        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "One Man's Ceiling Is Another Man's Floor",
-      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 382853,
       "name": "Story Of Everything",
       "url": "https://open.spotify.com/track/6exGzQG7704sf82TorgroD"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "In the Blue Light",
+        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "One Man's Ceiling Is Another Man's Floor",
+      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
     },
     {
       "added_at": "2019-11-29 09:37:55",

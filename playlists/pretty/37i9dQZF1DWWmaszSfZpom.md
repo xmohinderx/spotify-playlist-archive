@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,520 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,546 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 20 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
 | 21 | [Oh Juliana](https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Oh Juliana](https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL) | 2:33 |
 | 22 | [SENTADÃO](https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [SENTADÃO](https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ) | 2:23 |
-| 23 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh) | 2:41 |
-| 24 | [Vai Embrazando](https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q) | 2:46 |
+| 23 | [Vai Embrazando](https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q) | 2:46 |
+| 24 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh) | 2:41 |
 | 25 | [Comprei um Lança](https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Comprei um Lança](https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb) | 1:52 |
 | 26 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 |
 | 27 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 73 | [Devagarinho \- Remix](https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 2:15 |
 | 74 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/3PkzH3nruSQEb164tyPPJT) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 |
 
-Snapshot ID: `MTY2MDc1NDcxMSwwMDAwMDAwMGNlODI3NTkzMDY2MWRiYWE5YmM1NGVkZWRmOGJlNWQ0`
+Snapshot ID: `MTY2MDc1NDcxMSwwMDAwMDAwMDY0MWM2MDI1YjkxOGYxNWI1ZDhmNmYzMmE0MzgwYWVl`

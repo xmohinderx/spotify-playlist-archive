@@ -643,6 +643,24 @@
     {
       "album": {
         "name": "JTBC Begin Again3 Episode 9",
+        "url": "https://open.spotify.com/album/0Kw7VMFrvePyOiTpxkO000"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157654,
+      "name": "Day By Day (\ubca0\ub97c\ub9b0 \ud14c\ub77c\uc2a4 \ub77c\uc774\ube0c Ver.)",
+      "url": "https://open.spotify.com/track/6fh9UnOv00Lqalu5V96Deq"
+    },
+    {
+      "album": {
+        "name": "JTBC Begin Again3 Episode 9",
         "url": "https://open.spotify.com/album/1KUyIXMBZw2iFOwtHvvNGO"
       },
       "artists": [
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 157654,
       "name": "Day By Day - Berlin terrace Live Version",
       "url": "https://open.spotify.com/track/4YmqSEn1KrrxL9P4lYIcPe"
@@ -1834,6 +1852,28 @@
     },
     {
       "album": {
+        "name": "JTBC Begin Again3 Episode 1",
+        "url": "https://open.spotify.com/album/6WnFborGb8Cz4W6DDRCXnR"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc815\ud604",
+          "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
+        },
+        {
+          "name": "\ud5e8\ub9ac",
+          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211060,
+      "name": "It's You (\uc11c\uc6b8 \ubc84\uc2a4\ud0b9 Ver.)",
+      "url": "https://open.spotify.com/track/66Tgxo9sHMxNrXKheuSC30"
+    },
+    {
+      "album": {
         "name": "JTBC Begin Again3 - Episode1",
         "url": "https://open.spotify.com/album/3BOUzyfTbmEHP8L32BRMdc"
       },
@@ -1857,7 +1897,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 211060,
       "name": "It's You - \uc11c\uc6b8 \ubc84\uc2a4\ud0b9 Version",
       "url": "https://open.spotify.com/track/5DgHRijm0Z1wWj3yEICasL"
@@ -2375,6 +2415,24 @@
     {
       "album": {
         "name": "JTBC Begin Again3 Episode 8",
+        "url": "https://open.spotify.com/album/2oeF4Y7znfzGiLe1d4n0EN"
+      },
+      "artists": [
+        {
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221570,
+      "name": "Not Going Anywhere (\ubca0\ub97c\ub9b0 \ud504\ub9ac\ub4dc\ub9ac\ud788 \ub2e4\ub9ac \ubc84\uc2a4\ud0b9 Ver.)",
+      "url": "https://open.spotify.com/track/55ocJPRxWuego4pkFPUZCb"
+    },
+    {
+      "album": {
+        "name": "JTBC Begin Again3 Episode 8",
         "url": "https://open.spotify.com/album/2GKMdM7W3VSjKM7XhGN1Pc"
       },
       "artists": [
@@ -2385,7 +2443,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 221570,
       "name": "Not Going Anywhere - Berlin Friedrichs Bridge busking Version",
       "url": "https://open.spotify.com/track/77I5aqQdrK1zTrqZMrRgwb"
@@ -3159,10 +3217,54 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 151683,
       "name": "There's Nothing Holdin' Me Back - Ravello busking Version",
       "url": "https://open.spotify.com/track/6kOaohHXBb7unabaHsJ29y"
+    },
+    {
+      "album": {
+        "name": "JTBC Begin Again3 Episode 4",
+        "url": "https://open.spotify.com/album/4cO070u2DztR7Y5uziXgpc"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc815\ud604",
+          "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
+        },
+        {
+          "name": "\ud5e8\ub9ac",
+          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+        },
+        {
+          "name": "\uc218\ud604",
+          "url": "https://open.spotify.com/artist/6RR1f03RomUjsgBYqDk70T"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151683,
+      "name": "There's Nothing holding me back",
+      "url": "https://open.spotify.com/track/2emXJZPP0MieQ3TmaL4xUB"
+    },
+    {
+      "album": {
+        "name": "JTBC Begin Again3 Episode 5",
+        "url": "https://open.spotify.com/album/4newhTvNndWkbpaq5Xr9XB"
+      },
+      "artists": [
+        {
+          "name": "\ud5e8\ub9ac",
+          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172131,
+      "name": "Thinking out Loud (\uc18c\ub80c\ud1a0 \ub8e8\ud504\ud1b1 \ubc14 \ubc84\uc2a4\ud0b9 Ver.)",
+      "url": "https://open.spotify.com/track/4wA3ND7scaVMNLtPwAhPQ3"
     },
     {
       "album": {
@@ -3189,7 +3291,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 172131,
       "name": "Thinking Out Loud - Sorrento Corso Italia Busking Version",
       "url": "https://open.spotify.com/track/6OYMN4EzIRnq7sYR6P3hWV"

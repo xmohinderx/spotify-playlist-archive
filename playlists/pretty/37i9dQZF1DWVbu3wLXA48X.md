@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,135 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,169 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 5 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
 | 6 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 |
 | 7 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 |
-| 8 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 |
+| 8 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 |
 | 9 | [Honestly](https://open.spotify.com/track/09PLEiRIRz7RhQmZSX2iE7) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honestly](https://open.spotify.com/album/0BR7eudQY2ly2t99WLuJ4b) | 3:18 |
 | 10 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
 | 11 | [Cry](https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Cry](https://open.spotify.com/album/7h4rNt0Jka3I0D3wLBJqYG) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 |
 | 75 | [FULL TIME LOVER](https://open.spotify.com/track/4G2l27MHZ9bk2VKjKxOzOA) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 2:00 |
 
-Snapshot ID: `MTY2NDUwMTc1MCwwMDAwMDAwMGRkZmFlZjc1M2RjMzZlMWMyOGY3MDA0OGY4ZjU5ZGM1`
+Snapshot ID: `MTY2NDUwMTc1MCwwMDAwMDAwMDRkZTI2NTc4OWU1ZmZiMmVhN2IwMDY0NDQ1ZTdmNWIw`

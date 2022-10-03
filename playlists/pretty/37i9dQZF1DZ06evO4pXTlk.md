@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 8 | [Live Like This](https://open.spotify.com/track/1llMTwvOhmSJt0uUZLpoXC) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:36 |
 | 9 | [We Are Gonna Live](https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:34 |
 | 10 | [Aberdeen 1987](https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:52 |
-| 11 | [Young \(Belane\)](https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:33 |
+| 11 | [Ready to Call](https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Ready to Call](https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS) | 3:39 |
 | 12 | [Kevin Costner](https://open.spotify.com/track/4ygRXngoKVPpErJQnkfCbX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 4:05 |
 | 13 | [Crazy](https://open.spotify.com/track/4OUtEuCBZvKlaPKzBG7M4G) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:32 |
 | 14 | [We Built This City](https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [We Built This City](https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ) | 3:55 |
-| 15 | [Ready to Call](https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Ready to Call](https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS) | 3:39 |
+| 15 | [Young \(Belane\)](https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:33 |
 | 16 | [There Is Only You](https://open.spotify.com/track/0gnM4QIVLmjpNQcbYSnwsL) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 5:43 |
 | 17 | [Show Me Beautiful](https://open.spotify.com/track/5yMpH6XqTIjz2nWJMsP3ua) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 4:00 |
 | 18 | [Crisis in the Slow Lane](https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:22 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 38 | [Weather Warning](https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Weather Warning](https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF) | 4:10 |
 | 39 | [Heaven](https://open.spotify.com/track/72oCpSISm5PQENBwQ3qK6T) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/0VttQpVxESGG6kV0yml1Xh) | 3:06 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBhMDhiZTVkOWRlNWZkYTc3NjY5YjRhY2I2OGM5MTFmMA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA2ZTliMWUzMTM5Y2Q3Nzc1YmI4NGQ2ZGRiYTNjNWM1YQ==`

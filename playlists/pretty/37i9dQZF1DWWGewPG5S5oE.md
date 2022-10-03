@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 桑原あい
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,486 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,519 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 44 | [83](https://open.spotify.com/track/75R36NibuUqvqaksKHAhLn) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [83](https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4) | 3:27 |
 | 45 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
 | 46 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
-| 47 | [アイ・ミス・ユー](https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [ムード・インディゴ](https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM) | 4:47 |
+| 47 | [Children of Peace](https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 5:33 |
 | 48 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
-| 49 | [Children of Peace](https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 5:33 |
-| 50 | [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 |
+| 49 | [アイ・ミス・ユー](https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [ムード・インディゴ](https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM) | 4:47 |
+| 50 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 |
 
-Snapshot ID: `MTY2NDI5MDgwMCwwMDAwMDAwMGNmYzM0YzdhNDc0NmYyNDc4Zjg3YTNhNjQxNTNjMDk2`
+Snapshot ID: `MTY2NDI5MDgwMCwwMDAwMDAwMDhjMzZjMmM3NDEyM2QxYjk0MGJhZDljY2E3OGQ1MGIz`

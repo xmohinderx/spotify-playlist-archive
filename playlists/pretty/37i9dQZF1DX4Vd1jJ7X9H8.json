@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 182162,
+  "num_followers": 182462,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUyODE2MCwwMDAwMDAwMGFlMzQ4YmJiMmNmY2E2MTQ2ZDA0MjI1MjkyYWJlNTVl",
+  "snapshot_id": "MTY2NDUyODE2MCwwMDAwMDAwMDQxOTkzNmI2Yzg2ODAzOTIyODc0NTM2MTU1ZTBmZWFj",
   "tracks": [
     {
       "added_at": "2022-09-26 15:51:30",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Weekend Friend",
-        "url": "https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Weekend Friend",
-      "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Weekend Friend",
+        "url": "https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Weekend Friend",
+      "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Electric U",
-        "url": "https://open.spotify.com/album/6VR3JKdOuR1tuMFQl7NgRv"
-      },
-      "artists": [
-        {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Electric U",
-      "url": "https://open.spotify.com/track/4efHJDBcmhJYs8n9hJcVC8"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Think About Things",
         "url": "https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 173385,
       "name": "Think About Things",
       "url": "https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/6VR3JKdOuR1tuMFQl7NgRv"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/4efHJDBcmhJYs8n9hJcVC8"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 181922,
-      "name": "Dragonball Durag",
-      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Something About You",
         "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 225181,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "Dragonball Durag",
+      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Nan\u00e3",
-      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 233978,
       "name": "Starry Night - Edit",
       "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Nan\u00e3",
+      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 231192,
-      "name": "go with u",
-      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Dirty Computer",
         "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 194230,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "go with u",
+      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Streets (Disclosure Remix)",
+        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "Streets - Disclosure Remix",
+      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Streets (Disclosure Remix)",
-        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "Streets - Disclosure Remix",
-      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "elated!",
-        "url": "https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 207327,
-      "name": "FEEL SOMETHING DIFFERENT",
-      "url": "https://open.spotify.com/track/5STe0hPlbFwIk0OkjNRJLa"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Lose My Cool (Remixes)",
         "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
@@ -1275,22 +1255,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Just For Me (Space Jam: A New Legacy)",
-        "url": "https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh"
+        "name": "elated!",
+        "url": "https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         }
       ],
-      "duration_ms": 217394,
-      "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
-      "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
+      "duration_ms": 207327,
+      "name": "FEEL SOMETHING DIFFERENT",
+      "url": "https://open.spotify.com/track/5STe0hPlbFwIk0OkjNRJLa"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1315,6 +1295,26 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Just For Me (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 217394,
+      "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
+      "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Happiness in Liquid Form",
-        "url": "https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 201988,
-      "name": "Obvious Guy",
-      "url": "https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "3.15.20",
         "url": "https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 308546,
       "name": "19.10",
       "url": "https://open.spotify.com/track/5X4R93Qcw54yp9Utwy7Mlr"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Happiness in Liquid Form",
+        "url": "https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 201988,
+      "name": "Obvious Guy",
+      "url": "https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "CRISIS",
-        "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
-      },
-      "artists": [
-        {
-          "name": "Sam Ezeh",
-          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "CRISIS",
-      "url": "https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Wildin'",
         "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 139613,
       "name": "Wildin'",
       "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "CRISIS",
+        "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        }
+      ],
+      "duration_ms": 193285,
+      "name": "CRISIS",
+      "url": "https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "What's Your Pleasure?",
-        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Save A Kiss",
-      "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "What's Your Pleasure?",
+        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Save A Kiss",
+      "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "God's Plan",
-        "url": "https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5"
+        "name": "Currents B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva"
       },
       "artists": [
         {
-          "name": "George Moir",
-          "url": "https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
         }
       ],
-      "duration_ms": 166021,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb"
+      "duration_ms": 556924,
+      "name": "Let It Happen - Soulwax Remix",
+      "url": "https://open.spotify.com/track/5Z1E4jrUzitOQRczI8gfSL"
     }
   ],
   "unique_name": "Soir\u00e9e",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 24 | [End Of The World](https://open.spotify.com/track/2MZyaYM9njg7EYYBVvy59N) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 |
 | 25 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDA2YzFlZDdkODAxN2UzNjNiMzc3NTVlMjU5OWZiMDhjZA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBmNzk2Zjc5OWQ0Mjc0M2UyMjIzYTVkNDQwZmE5NTc5YQ==`

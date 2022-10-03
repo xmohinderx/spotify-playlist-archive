@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 68334,
+  "num_followers": 68454,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDVkODA4ODM4YTk1OTYzZDNiZDhiZDE4NDM5ZDc5NDMy",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDliYzQzYjk1NzQxYTNlOTUyNzdhZWNmM2Q4NmI3MDQz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Patina",
         "url": "https://open.spotify.com/album/7aAavljDRxaxDMCq2c3YlV"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 161086,
       "name": "Cluster - Edit",
       "url": "https://open.spotify.com/track/6T6U15jco43HghuqfzCAeu"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -651,26 +651,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Circle 31",
-        "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
       },
       "artists": [
         {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "J Foerster",
-          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
         }
       ],
-      "duration_ms": 257314,
-      "name": "Circle 31",
-      "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -691,26 +683,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Human Reworked",
-        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
       },
@@ -723,6 +695,30 @@
       "duration_ms": 277021,
       "name": "We Begin",
       "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Circle 31",
+        "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "J Foerster",
+          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+        }
+      ],
+      "duration_ms": 257314,
+      "name": "Circle 31",
+      "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -767,6 +763,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Human Reworked",
+        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Falling Colour",
-        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Falling Colour",
-      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6ZFQmOpcaqiMuEgPzbO82H"
+      },
+      "artists": [
+        {
+          "name": "David A. Molina",
+          "url": "https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug"
+        }
+      ],
+      "duration_ms": 238223,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "N\u00e9fos",
         "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6ZFQmOpcaqiMuEgPzbO82H"
+        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
+        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
       },
       "artists": [
         {
-          "name": "David A. Molina",
-          "url": "https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug"
+          "name": "Paulette Verl\u00e9e",
+          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
         }
       ],
-      "duration_ms": 238223,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
+      "duration_ms": 278613,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 251405,
       "name": "Patina",
       "url": "https://open.spotify.com/track/7GCgk8sq0f7KDRlyyW5sA1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
-        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
-      },
-      "artists": [
-        {
-          "name": "Paulette Verl\u00e9e",
-          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Sleepless Wake",
+        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 222187,
+      "name": "Sleepless Wake",
+      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Riva",
         "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 238602,
       "name": "Riva",
       "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Sleepless Wake",
-        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 222187,
-      "name": "Sleepless Wake",
-      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Critical Spirit (Live)",
-        "url": "https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        }
-      ],
-      "duration_ms": 669726,
-      "name": "Critical Spirit - Live",
-      "url": "https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Enfantillages pittoresques: II. Berceuse [Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)]",
         "url": "https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS"
       },
@@ -1363,6 +1347,38 @@
       "duration_ms": 343666,
       "name": "Abandoned Places",
       "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Critical Spirit (Live)",
+        "url": "https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "duration_ms": 669726,
+      "name": "Critical Spirit - Live",
+      "url": "https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
+      },
+      "artists": [
+        {
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Where the Light Touches",
-        "url": "https://open.spotify.com/album/1KFVYNTMDGdzN300QEMonW"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Wright",
-          "url": "https://open.spotify.com/artist/1cYnArE3YN2suL8k0QDVNc"
-        }
-      ],
-      "duration_ms": 224755,
-      "name": "Where The Light Touches",
-      "url": "https://open.spotify.com/track/1AJZpgI4qHJbsC8s7yfUq1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Tidal Oscillations (XXIM:EXPO #1)",
         "url": "https://open.spotify.com/album/7tZWWtjUsSpKSSoD9JYw7r"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 329999,
       "name": "A Dream, A Sequence",
       "url": "https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Where the Light Touches",
+        "url": "https://open.spotify.com/album/1KFVYNTMDGdzN300QEMonW"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Wright",
+          "url": "https://open.spotify.com/artist/1cYnArE3YN2suL8k0QDVNc"
+        }
+      ],
+      "duration_ms": 224755,
+      "name": "Where The Light Touches",
+      "url": "https://open.spotify.com/track/1AJZpgI4qHJbsC8s7yfUq1"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1459,22 +1475,6 @@
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Ensemb7e",
-        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
-      },
-      "artists": [
-        {
-          "name": "Chapelier Fou",
-          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
-      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Mia",
-        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
-      },
-      "artists": [
-        {
-          "name": "Wide Eyed",
-          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
-        }
-      ],
-      "duration_ms": 208307,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "All of Us",
         "url": "https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 289000,
       "name": "Critical Spirit",
       "url": "https://open.spotify.com/track/6dVEJCuNc1XnWn9S3yiksd"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
+      },
+      "artists": [
+        {
+          "name": "Wide Eyed",
+          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
+        }
+      ],
+      "duration_ms": 208307,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
     },
     {
       "added_at": "2022-09-30 04:00:00",

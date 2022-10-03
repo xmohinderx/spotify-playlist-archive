@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue! ",
-  "num_followers": 494500,
+  "num_followers": 494787,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0NzMxNCwwMDAwMDAwMDAwYWM2ZjY0YmYwYzY0NjUxMjdhNjViYzUzNGQwM2Fi",
+  "snapshot_id": "MTY2MjE0NzMxNCwwMDAwMDAwMDI2ODdlYWM1MDM4Y2QwYmEyMWM4MjQ3NzY0MTE5OWM3",
   "tracks": [
     {
       "added_at": "2022-07-29 21:53:17",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "One Thing Right",
-        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "One Thing Right",
-      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 306773,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Toby Keith 35 Biggest Hits",
         "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 208413,
       "name": "Should've Been A Cowboy",
       "url": "https://open.spotify.com/track/18BajNiyvH6GpYshB0unrm"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 306773,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Lambs & Lions",
-        "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
+      "duration_ms": 193929,
+      "name": "Slow Dance In A Parking Lot",
+      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Lambs & Lions",
+        "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 193929,
-      "name": "Slow Dance In A Parking Lot",
-      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
+      "duration_ms": 182493,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Straight Outta The Country",
-        "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "We Didn't Have Much",
-      "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 209733,
       "name": "Beer Can\u2019t Fix",
       "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Straight Outta The Country",
+        "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "We Didn't Have Much",
+      "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Party Mode",
-      "url": "https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Changes In Latitudes, Changes In Attitudes",
         "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
-      "duration_ms": 207161,
-      "name": "Tequila Little Time",
-      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
+      "duration_ms": 211986,
+      "name": "Party Mode",
+      "url": "https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1615,6 +1599,22 @@
       "duration_ms": 236626,
       "name": "The House That Built Me",
       "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Tequila Little Time",
+      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -1687,42 +1703,6 @@
       "duration_ms": 278200,
       "name": "Neon Moon - with Kacey Musgraves",
       "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
-      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1759,6 +1739,26 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
+      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1771,6 +1771,22 @@
       "duration_ms": 196421,
       "name": "I Could Use a Love Song",
       "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Good as You",
+      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1827,42 +1843,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Good as You",
-      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "One Margarita",
         "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 209320,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/1qHRFZE8qykNXYZadzmi1m"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2022-07-29 21:53:17",

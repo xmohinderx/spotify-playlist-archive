@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,206 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,247 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 12 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 |
 | 13 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:28 |
 | 14 | [Hold On](https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:06 |
-| 15 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 |
-| 16 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
+| 15 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
+| 16 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 |
 | 17 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 |
 | 18 | [Hearts Don't Break Around Here](https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:08 |
 | 19 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
-| 20 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
-| 21 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
-| 22 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
-| 23 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
+| 20 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
+| 21 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
+| 22 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
+| 23 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
 | 24 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 25 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 |
 | 26 | [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 69 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 |
 | 70 | [So Far Away](https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine: The Sequel](https://open.spotify.com/album/5O41WrYns4BBDOtvVx1JFM) | 3:36 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDAxNmQ1YzcxNzM1YmUyYzAxMDhkODI0MDUxYTg1ZDI2`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGUxODU3ODczMmU3YzY5Y2U3ODk5YTE0YjhjNTE0ZDY2`

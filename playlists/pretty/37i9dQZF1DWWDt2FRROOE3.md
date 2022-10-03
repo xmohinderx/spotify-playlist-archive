@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,357 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,361 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 43 | [Livin' On a Prayer](https://open.spotify.com/track/3Gz5Eih3pFCSXuVvAFGNxf) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:55 |
 | 44 | [Dr\. Wily \- Stage 1 \(from "Mega Man 2"\)](https://open.spotify.com/track/65b6IuBQGi1g3D9bxrlNe9) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:00 |
 | 45 | [The Final Countdown](https://open.spotify.com/track/1vLw8Ns5fqzXzkPQYhmR6i) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:18 |
-| 46 | [Penny Lane \- Instrumental](https://open.spotify.com/track/7iPzul10s8hh3dFxuZ6ixJ) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 3:03 |
-| 47 | [Proud Mary](https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:31 |
-| 48 | [The Fool on the Hill \- Instrumental](https://open.spotify.com/track/7HBsdQUoEtTKmPfOEZdd9o) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:56 |
-| 49 | [Don't Look Back in Anger](https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:28 |
+| 46 | [Proud Mary](https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:31 |
+| 47 | [Penny Lane \- Instrumental](https://open.spotify.com/track/7iPzul10s8hh3dFxuZ6ixJ) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 3:03 |
+| 48 | [Don't Look Back in Anger](https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:28 |
+| 49 | [The Fool on the Hill \- Instrumental](https://open.spotify.com/track/7HBsdQUoEtTKmPfOEZdd9o) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:56 |
 | 50 | [Don't Stop Me Now](https://open.spotify.com/track/7vwp4fDLYkaLmMABuTQJKz) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMGJiMTJjYWZlYjRhMmIzYjBjYTYzZDNhNzJlYzAxOTlh`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDJlOGVhNDdmY2E5ODJmNzI4ODc1NWQ5Y2RmOTEyYmIw`

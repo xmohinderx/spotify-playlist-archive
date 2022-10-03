@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,671 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,698 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 43 | [West Coast Blues](https://open.spotify.com/track/0iwOlDvcknjVHDuOjMiDB1) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [West Coast Blues](https://open.spotify.com/album/0PWh0Tcn9Vy2YPU33H9I4E) | 2:39 |
 | 44 | [WTF \- Spotify Singles](https://open.spotify.com/track/1tef7JF2U9w7Z02GOgXLKN) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:21 |
 | 45 | [Life Worth Living](https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Life Worth Living](https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag) | 3:01 |
-| 46 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 |
+| 46 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 |
 | 47 | [Jackpot \(feat\. Jazz Cartier\)](https://open.spotify.com/track/3ef0wd2mVNtMdC0yrO0q9U) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Jackpot \(feat\. Jazz Cartier\)](https://open.spotify.com/album/6zZPyX3Nj5k16D8eflLexP) | 2:42 |
 | 48 | [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 |
 | 49 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [Hard To Get](https://open.spotify.com/track/3nWHCAvvHeKmKIhJplifaG) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Hard To Get](https://open.spotify.com/album/4UhwElBwXmYA17Ce01hhQ7) | 6:09 |
 | 101 | [New Spirits](https://open.spotify.com/track/6DyA9rlLOoBv6u3kIzmxY9) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [New Spirits](https://open.spotify.com/album/1sTJP2nxEEGlzIw1XaXFst) | 4:31 |
 
-Snapshot ID: `MTY2NDU0ODgyNywwMDAwMDAwMDBhZTllY2ZkZmNlZjFkODRiMWYxNDMwNDAxM2NlOTZl`
+Snapshot ID: `MTY2NDU0ODgyNywwMDAwMDAwMGJmMWY5MmIwOWI2MmI3Y2U4Y2IwY2M5OTliOTI3MDlh`

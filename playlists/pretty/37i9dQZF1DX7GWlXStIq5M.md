@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,429 likes - 90 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,426 likes - 90 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 14 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
 | 15 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 |
 | 16 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 |
-| 17 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
-| 18 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
+| 17 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
+| 18 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
 | 19 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 |
 | 20 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
 | 21 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 89 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 |
 | 90 | [@ MEH](https://open.spotify.com/track/5UusfWUMMLEXLMc1ViNZoe) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [@ MEH](https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC) | 2:46 |
 
-Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMDY1ZjA5MGE1NjhhMTViOGJmOTU4MmVkYTc4YzJlMGE0`
+Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMDhhYWNjMjRmNTQ3NTFhM2UxMWFhNWEwMzgxMjQ5NGM2`

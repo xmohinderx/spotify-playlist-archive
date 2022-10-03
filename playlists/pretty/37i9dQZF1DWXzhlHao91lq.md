@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,601 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,628 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 26 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 27 | [Catholic Country](https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:01 |
 | 28 | [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 |
-| 29 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
-| 30 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 |
+| 29 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 |
+| 30 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
 | 31 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
-| 32 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 |
-| 33 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
+| 32 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
+| 33 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 |
 | 34 | [Beautiful People Beautiful Problems \(feat\. Stevie Nicks\)](https://open.spotify.com/track/3O7p9Itz8PXUoAjD2vmuM6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:13 |
 | 35 | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
 | 36 | [The Simple Things](https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Love Adolescent](https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52) | 4:23 |
@@ -62,14 +62,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 52 | [3 Rounds and a Sound](https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [3 Rounds and a Sound](https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1) | 4:26 |
 | 53 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
 | 54 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 |
-| 55 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 |
-| 56 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
+| 55 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 |
+| 56 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 |
 | 57 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 |
 | 58 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
 | 59 | [Stargazing](https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Stargazing](https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky) | 3:06 |
 | 60 | [Here With Me \- Acoustic](https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh) | [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Here With Me \(Acoustic\)](https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx) | 2:44 |
-| 61 | [Better with You \- Acoustic](https://open.spotify.com/track/2AARwDC2ylbWF61qXrteHK) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/1c4I4b4Lp7XayJqcWVCnoG) | 3:28 |
-| 62 | [—star.](https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [—star.](https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP) | 2:33 |
+| 61 | [—star.](https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [—star.](https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP) | 2:33 |
+| 62 | [Better with You \- Acoustic](https://open.spotify.com/track/2AARwDC2ylbWF61qXrteHK) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/1c4I4b4Lp7XayJqcWVCnoG) | 3:28 |
 | 63 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
 | 64 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 |
 | 65 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 74 | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8) | 4:23 |
 | 75 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 |
 
-Snapshot ID: `MTY2NDE3NTQ5NCwwMDAwMDAwMGQ5ZGRmNTllYThiMDUwYzJlYzFlZDMzYmE5ZDZiNTJi`
+Snapshot ID: `MTY2NDE3NTQ5NCwwMDAwMDAwMDYyZGM4MGI4MDRmNmIxNTg5YTI3NDc5MjUzMmQxMTRl`

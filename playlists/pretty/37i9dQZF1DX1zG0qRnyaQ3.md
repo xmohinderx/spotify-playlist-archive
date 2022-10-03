@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,009 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,086 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 14 | [Generational Divide](https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 0:49 |
 | 15 | [White People for Peace](https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 3:31 |
 | 16 | [45 \(A Matter Of Time\)](https://open.spotify.com/track/5oOphgtp0ZhMfYz3HpnMyU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:12 |
-| 17 | [War Machine Breakdown](https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:15 |
-| 18 | [Oxy Moronic](https://open.spotify.com/track/05kF2zJNlMyHGt6E0Adkn9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 3:56 |
+| 17 | [Oxy Moronic](https://open.spotify.com/track/05kF2zJNlMyHGt6E0Adkn9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 3:56 |
+| 18 | [War Machine Breakdown](https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:15 |
 | 19 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
 | 20 | [State Of The Union](https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:19 |
 | 21 | [Artificial Life \- 2007 Remaster](https://open.spotify.com/track/6oQ4aZWJ665RrhzhXrMZrm) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:05 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 34 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
 | 35 | [Question Authority](https://open.spotify.com/track/5TS4qrO34nNrCMV5VKIIFq) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:02 |
 | 36 | [Cop Just Out of Frame](https://open.spotify.com/track/5aErz7rxrFV56SybevCdRR) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:46 |
-| 37 | [Tyranny](https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B) | [Drones](https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB) | [Exiled: B\-Sides](https://open.spotify.com/album/2OifzgPrUPg9b6WdOaCJEk) | 2:41 |
-| 38 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:34 |
-| 39 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 |
+| 37 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:34 |
+| 38 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 |
+| 39 | [Tyranny](https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B) | [Drones](https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB) | [Exiled: B\-Sides](https://open.spotify.com/album/2OifzgPrUPg9b6WdOaCJEk) | 2:41 |
 | 40 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 |
 | 41 | [Everyone Is Digital](https://open.spotify.com/track/6BIukdclzBSvAHP5rNfdN0) | [The Motorleague](https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc) | [Everyone Is Digital](https://open.spotify.com/album/7nJBv7fe2lPx79sAKtKGGz) | 3:40 |
 | 42 | [Trust No One](https://open.spotify.com/track/5Z7xS2nswfBaO0u5itfwad) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Bears, Mayors, Scraps, & Bones \(Remastered\) \[10 Year Anniversary Editio\]](https://open.spotify.com/album/7IbxwkOPTz4RDtwK4FPnqc) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
 | 50 | [Heads You Win, Tails We Lose](https://open.spotify.com/track/0EZQLzd0j9jVR7i0ztsRiv) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Heads You Win, Tails We Lose](https://open.spotify.com/album/2jlrZxuzk2a1WfdDT17rAd) | 2:59 |
 
-Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMGM2MjNlNDEyNmU5MGYwOTg1NTU2ODBhNzNjOTZjYjVk`
+Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMDNiYjQxYWVkYzRmYmM4YTQ5NDFmYTNiZjk3ZTUwZWJk`

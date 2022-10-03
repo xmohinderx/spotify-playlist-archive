@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,234 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,467 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 54 | [Toy Soldiers](https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika \(Expanded Edition\)](https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy) | 4:47 |
 | 55 | [The Heart Of The Matter](https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:22 |
 | 56 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
-| 57 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
-| 58 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
+| 57 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
+| 58 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
 | 59 | [Endless Summer Nights](https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 4:30 |
 | 60 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
 | 61 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 99 | [Don't Want To Wait Anymore](https://open.spotify.com/track/5rJTpBaGWvTaszsNDpAsG5) | [The Tubes](https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK) | [The Completion Backward Principle](https://open.spotify.com/album/3YVb9ns1i0WdzF1cdnLYWi) | 4:18 |
 | 100 | [Why Worry](https://open.spotify.com/track/4Yy5d21CJvXQ8cOuaTiCRD) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 8:31 |
 
-Snapshot ID: `MTY1NzAzNjAyNSwwMDAwMDAwMDliNjAwOTFlYzExMTdhZTQ4MmJhYWNhYTc5NzQ3M2M0`
+Snapshot ID: `MTY1NzAzNjAyNSwwMDAwMDAwMDhiZGYxZTg0M2E0M2ZjZTlhZGUxYzhmYzZjYzcwZGRh`

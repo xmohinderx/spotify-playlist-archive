@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Josh Kelly / JK Group Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,638 likes - 66 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,694 likes - 66 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 54 | [No Shade](https://open.spotify.com/track/03M5Iz8gx0YMCjm3iD90i9) | [Russell Favret](https://open.spotify.com/artist/0P8IOpX9JI9jXTRIMzmK0s) | [Inducer](https://open.spotify.com/album/1Q4z8rScBllE8dQlxbDnxQ) | 3:11 |
 | 55 | [Summer cafeteria](https://open.spotify.com/track/7cU0lYFCpCxJFjsetrjU7h) | [Tomo](https://open.spotify.com/artist/27rHIZf4IZrzHtfFr3gitX) | [Summer cafeteria](https://open.spotify.com/album/2E8R11qKuxoxXhtTzPy1Yi) | 3:58 |
 | 56 | [Jade](https://open.spotify.com/track/5Csa0y90E9YyqFki5Mf9CT) | [Robert Lee](https://open.spotify.com/artist/4prPafRnKMhtm6nBlnmjvo) | [Cha\-Ran](https://open.spotify.com/album/1Xiit8wawVgRjZoJCvT4F5) | 4:51 |
-| 57 | [III](https://open.spotify.com/track/0fcpjI0H07TAKQVLlLkjGh) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [III](https://open.spotify.com/album/6KzAKasRlT3lvYC1CdOavu) | 6:16 |
+| 57 | [III](https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [Shebang](https://open.spotify.com/album/1khpMdVH3EXz5RWt4WRAbg) | 6:16 |
 | 58 | [MASQUERADE!](https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [MASQUERADE!](https://open.spotify.com/album/4Z7AfRdyvxpPPH837iTaXS) | 3:48 |
 | 59 | [The Ritual](https://open.spotify.com/track/2kIrZK4OANfeSuqkOTIK4R) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [The Ritual](https://open.spotify.com/album/3ZAUizNNs3WHZBxsErMVzO) | 4:20 |
 | 60 | [Volta ao Catopê](https://open.spotify.com/track/4eW3zVWI4PJbIVsV4i39wI) | [Pedro Gomes](https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ) | [Volta ao Catopê](https://open.spotify.com/album/5U8aAX0S20zjuYegd4052K) | 4:17 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 65 | [Music Is...](https://open.spotify.com/track/0J8FzPzwtMy5RnA6MluT1g) | [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6), [Mr Auden Allen](https://open.spotify.com/artist/0U2TVQt3LJkuyoVLItCNNp) | [Music Is...](https://open.spotify.com/album/5tedbT0X1QmomzhVjaJgj9) | 6:35 |
 | 66 | [World of Computers, Pt\. 2](https://open.spotify.com/track/2zSurdX35O6JpcFPfovFKc) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [World of Computers, Pt\. 2](https://open.spotify.com/album/3XviVYmxxwb01U6svvZQWq) | 6:08 |
 
-Snapshot ID: `MTY2NDMzNzYwMCwwMDAwMDAwMDg0MzUxYjFmZjFjYjhlZWNkZjRlNDQwM2EwNTkyNTRk`
+Snapshot ID: `MTY2NDMzNzYwMCwwMDAwMDAwMDJhODRlZDJjZjgzYjg1ODU3NTMxYjQzZDNiMjNhZTIw`

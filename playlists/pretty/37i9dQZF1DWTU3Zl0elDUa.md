@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,422 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,575 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 42 | [Nitelife \- Armand Van Helden Retail Mix](https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN) | [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Nitelife \- Armand Van Helden Remixes](https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen) | 6:57 |
 | 43 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
 | 44 | [Touch Me](https://open.spotify.com/track/2ycghCtdMwb29zZQ7ffSoX) | [49ers](https://open.spotify.com/artist/6BWEqA4CdZageKtzch78Vs) | [Greatest Hits](https://open.spotify.com/album/0KbhGcgoagosU3W4Jw5eBS) | 3:47 |
-| 45 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
-| 46 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Best Of Crystal Waters](https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg) | 3:47 |
+| 45 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Best Of Crystal Waters](https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg) | 3:47 |
+| 46 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
 | 47 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
 | 48 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 | 49 | [The Shelter \- Vocal](https://open.spotify.com/track/3QP0Ar3iRtS6GJMRcQryaf) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [GATE\-AH](https://open.spotify.com/album/2W6tSoWGY7ShtfjVYEvxgz) | 6:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Hideaway \- Deep Dish Radio Edit](https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X) | [De'Lacy](https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho) | [Hideaway / That Look \- Single](https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk) | 3:31 |
 | 60 | [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDI3NDk2ZDBmYzQ2OWU4MjliNGQwMjRlZmE4MGQ3ZTQ1`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDc0MDRlYWU2NjIyYjBkYzE1ZDAwZTdjNmY0ZWM0MDlh`

@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 68443,
+  "num_followers": 68565,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwNDQxOSwwMDAwMDAwMGI4NDQwOTcyOTk4OTMxZDgxN2U1NjBmMjMyNDJmYjZi",
+  "snapshot_id": "MTY2NDIwNDQxOSwwMDAwMDAwMDIzYmNlMzE4NTAzYmE4NmEzOGE1YjllMTAxNzUyYzBj",
   "tracks": [
     {
       "added_at": "2022-09-26 15:00:19",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Repetition",
-        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
-      },
-      "artists": [
-        {
-          "name": "Unwound",
-          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
-        }
-      ],
-      "duration_ms": 185467,
-      "name": "Corpse Pose",
-      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Violent Soho",
         "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 177453,
       "name": "Jesus Stole My Girlfriend",
       "url": "https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Repetition",
+        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
+      },
+      "artists": [
+        {
+          "name": "Unwound",
+          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
+        }
+      ],
+      "duration_ms": 185467,
+      "name": "Corpse Pose",
+      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Abstract Figures in the Dark",
-        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 246005,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Buds",
         "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 97543,
       "name": "Baby Shea",
       "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Abstract Figures in the Dark",
+        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 246005,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
         "name": "Springtime and Blind",
         "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 143760,
       "name": "A Modern Way of Letting Go",
       "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Handwritten",
-      "url": "https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 221865,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "VINYL: THE ESSENTIALS: BEST OF SEASON 1",
         "url": "https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 167466,
       "name": "Where Are You Now?",
       "url": "https://open.spotify.com/track/7w53ucikSIdig3nLCi29a9"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+      },
+      "artists": [
+        {
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
-      },
-      "artists": [
-        {
-          "name": "Pist.On",
-          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Grey Flap",
-      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Soundtrack to a Headrush",
         "url": "https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 228093,
       "name": "The Hey Man!",
       "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Pist.On",
+          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Grey Flap",
+      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Handsome",
-        "url": "https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid"
-      },
-      "artists": [
-        {
-          "name": "Handsome",
-          "url": "https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Needles",
-      "url": "https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
         "name": "Effloresce",
         "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
+        "name": "Handsome",
+        "url": "https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid"
+      },
+      "artists": [
+        {
+          "name": "Handsome",
+          "url": "https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Needles",
+      "url": "https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/2Plr11K7q3joEjDFSAOqvO"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 256200,
       "name": "Honky's Ladder",
       "url": "https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
-        "name": "Everything Is A-OK",
-        "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 268519,
-      "name": "Vacation Forever",
-      "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1483,6 +1467,22 @@
       "duration_ms": 260750,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 268519,
+      "name": "Vacation Forever",
+      "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
     },
     {
       "added_at": "2022-09-26 15:00:19",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
+        "name": "Forever Whatever",
+        "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
+      },
+      "artists": [
+        {
+          "name": "October Drift",
+          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
+        }
+      ],
+      "duration_ms": 238345,
+      "name": "Losing My Touch",
+      "url": "https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q"
+    },
+    {
+      "added_at": "2022-09-26 15:00:19",
+      "album": {
         "name": "A Song to Ruin",
         "url": "https://open.spotify.com/album/7xF7HQIu6FriHp6yPkE2Kv"
       },
@@ -1583,34 +1599,18 @@
     {
       "added_at": "2022-09-26 15:00:19",
       "album": {
-        "name": "Forever Whatever",
-        "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
+        "name": "All I Could Find Was You",
+        "url": "https://open.spotify.com/album/7AfAYOFV5QNrQksCTayutI"
       },
       "artists": [
         {
-          "name": "October Drift",
-          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
+          "name": "Dowsing",
+          "url": "https://open.spotify.com/artist/0VvySnLLgB17dDSn0i4LVC"
         }
       ],
-      "duration_ms": 238345,
-      "name": "Losing My Touch",
-      "url": "https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q"
-    },
-    {
-      "added_at": "2022-09-26 15:00:19",
-      "album": {
-        "name": "Anyways",
-        "url": "https://open.spotify.com/album/4khFn2Fi43Wl2Aje2uk7bh"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Anyways",
-      "url": "https://open.spotify.com/track/4up4dWG8xOET2Uo5aoOLAm"
+      "duration_ms": 126621,
+      "name": "Amateur Cartography",
+      "url": "https://open.spotify.com/track/1sS7YyG4IEz0WjCuTmz224"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

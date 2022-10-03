@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:Vaundy",
+  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  \u85e4\u4e95\u98a8(Fujii Kaze)",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 221500,
       "name": "Baby I love you so",
       "url": "https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe"
@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "D'Addario",
+        "url": "https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288241,
+      "name": "D'Addario",
+      "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B"
       },
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 193510,
       "name": "Edison",
       "url": "https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 191959,
       "name": "Gravity (feat. Satoshi Fujihara) [OFFICIAL HIGE DANDISM]",
       "url": "https://open.spotify.com/track/73EiAv1UPdVSueGrVHeDT7"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 253153,
       "name": "Habit",
       "url": "https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE"
@@ -2128,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "Keep going",
+        "url": "https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "Keep going",
+      "url": "https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg"
+    },
+    {
+      "album": {
         "name": "Landscape",
         "url": "https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl"
       },
@@ -2317,6 +2353,24 @@
       "duration_ms": 245400,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN"
+    },
+    {
+      "album": {
+        "name": "LOVE, SO GOOD.",
+        "url": "https://open.spotify.com/album/6xtCOVTraTHrRglJlYakCh"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182935,
+      "name": "LOVE, SO GOOD.",
+      "url": "https://open.spotify.com/track/6CgyovSeoZugrFQ9iAf2if"
     },
     {
       "album": {
@@ -2653,7 +2707,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 194355,
       "name": "My Little Rose",
       "url": "https://open.spotify.com/track/6yPulkXv04f0p5WNR4xtSu"
@@ -3662,6 +3716,24 @@
     },
     {
       "album": {
+        "name": "SOUVENIR",
+        "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264126,
+      "name": "SOUVENIR",
+      "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
+    },
+    {
+      "album": {
         "name": "Talking Box (Dirty Pop Remix) / SPACESHIP",
         "url": "https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q"
       },
@@ -3943,6 +4015,24 @@
       "duration_ms": 236390,
       "name": "Suzume",
       "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
+    },
+    {
+      "album": {
+        "name": "SWAM",
+        "url": "https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154005,
+      "name": "SWAM",
+      "url": "https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6"
     },
     {
       "album": {
@@ -7363,7 +7453,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 236133,
       "name": "\u590f\u67af\u308c",
       "url": "https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E"
@@ -7767,6 +7857,24 @@
       "duration_ms": 232476,
       "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
       "url": "https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u30cd\u30bf\u30d0\u30ec",
+        "url": "https://open.spotify.com/album/3QcNZjfiZ1C2hG3Q1TqzKn"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238873,
+      "name": "\u611b\u306e\u30cd\u30bf\u30d0\u30ec",
+      "url": "https://open.spotify.com/track/2vchHTJpJuoFHvosewuaQV"
     },
     {
       "album": {
@@ -9068,6 +9176,24 @@
     },
     {
       "album": {
+        "name": "\u98fd\u548c / \u30b7\u30cd\u30de",
+        "url": "https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185497,
+      "name": "\u98fd\u548c",
+      "url": "https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs"
+    },
+    {
+      "album": {
         "name": "\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
       },
@@ -9115,7 +9241,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 198062,
       "name": "\u9b54\u6cd5\u306e\u30a2\u30c8",
       "url": "https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n"

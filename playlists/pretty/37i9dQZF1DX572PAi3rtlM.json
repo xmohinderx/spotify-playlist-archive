@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 23735,
+  "num_followers": 23740,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMGU2MjIwNWM1NDcyMGYyY2Q2YjczMWQ1NmVkNTY4YzMx",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDFlYmNlOWJmN2U4ZjBhMzNhMTczODRkODJiMDFlNWE0",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -183,6 +183,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Sa\u00fade",
+        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Sa\u00fade",
+      "url": "https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 230932,
       "name": "Watch Your Step (Harvey Sutherland Remix)",
       "url": "https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Sa\u00fade",
-        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Sa\u00fade",
-      "url": "https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx"
     },
     {
       "added_at": "2021-09-01 00:59:23",

@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: grentperez
 
-603 songs - 1 day 11 hr 45 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+604 songs - 1 day 11 hr 49 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Flying Bobs](https://open.spotify.com/track/7by74pjKw8FxKatW0l92Mf) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/1KCSoihLiF0x66tJyQ6VbE) | 4:02 | 2022-09-16 |  |
 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 | 2022-06-17 | 2022-07-23 |
 | [Forever](https://open.spotify.com/track/3Q9xCPaEU0vla6XzjIIKpx) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Forever](https://open.spotify.com/album/5GOTTBCBjwIyQfvl9zfhtW) | 3:45 | 2022-05-26 | 2022-06-25 |
-| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 | 2022-10-03 |
 | [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 | 2022-07-01 | 2022-07-30 |
 | [Foxglove Through The Clearcut](https://open.spotify.com/track/23od4rorIdhvYeLL7YqP9n) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 5:15 | 2022-09-22 |  |
 | [Foxglove Through The Clearcut](https://open.spotify.com/track/6gCQmZNLNwStQuVBpVdJnx) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut](https://open.spotify.com/album/4AATTNKThdy3YYYUrjKknV) | 5:15 | 2022-08-11 | 2022-09-23 |

@@ -1,12 +1,12 @@
 {
   "description": "d4vd make anti pop.",
-  "num_followers": 667386,
+  "num_followers": 667493,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MjExNiwwMDAwMDAwMDYzZjliYjVkNzk0Yjg4NmM5NzczZmYyZDAyYjMyMDFm",
+  "snapshot_id": "MTY2NDU1MjExNiwwMDAwMDAwMDI2MWI5OGM5NmNkZmFiNDliODZkNmVjZGM5NGExMzE3",
   "tracks": [
     {
       "added_at": "2022-09-23 04:03:00",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
+      "added_at": "2022-09-10 02:12:35",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
+    {
       "added_at": "2022-09-02 18:12:52",
       "album": {
         "name": "Carefree (with Femdot & Mick Jenkins)",
@@ -615,22 +631,6 @@
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
-    },
-    {
-      "added_at": "2022-09-10 02:12:35",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "added_at": "2022-08-08 17:11:17",

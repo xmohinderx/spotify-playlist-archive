@@ -1,12 +1,12 @@
 {
   "description": "Gather your friends for the cherished ritual that is brunch. If not for the pomo irony, then for the endless hibiscus lavender mimosas.",
-  "num_followers": 194493,
+  "num_followers": 194511,
   "original_name": "Boozy Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1OTkxNjc3MSwwMDAwMDAwMDBlNzkzZGU1NzAyODI1ZGRhOTRjNWExMDRjOGY3M2Nm",
+  "snapshot_id": "MTU1OTkxNjc3MSwwMDAwMDAwMGU2MjFhZGE4YjVmOTQ3OGNlZTU3M2NkY2E2YTdkYzg2",
   "tracks": [
     {
       "added_at": "2019-06-07 14:12:51",
@@ -815,6 +815,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "Angela (Single Version)",
+        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Angela (Single Version)",
+      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "There Will Be Time",
         "url": "https://open.spotify.com/album/2AWjKWHm04rj0awEnKe8cJ"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 266930,
       "name": "There Will Be Time",
       "url": "https://open.spotify.com/track/4YUo0cp0yf1o8im9jPq0Ep"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Angela (Single Version)",
-        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Angela (Single Version)",
-      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -947,22 +947,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "The Lights from the Chemical Plant",
-        "url": "https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP"
-      },
-      "artists": [
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Good Intentions",
-      "url": "https://open.spotify.com/track/0s7j6vOpvCJH5dsotfAfPX"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Dolly",
         "url": "https://open.spotify.com/album/2AxzB3w4ri21tjE7Xr9H1l"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Coming Down the Mountain",
-        "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
+        "name": "The Lights from the Chemical Plant",
+        "url": "https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
         }
       ],
-      "duration_ms": 273958,
-      "name": "Coming Down the Mountain",
-      "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
+      "duration_ms": 167360,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/0s7j6vOpvCJH5dsotfAfPX"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1007,6 +991,22 @@
       "duration_ms": 217556,
       "name": "Only Lonely",
       "url": "https://open.spotify.com/track/7l78lkJwcYBfWk2Lyz5kEc"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Coming Down the Mountain",
+        "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 273958,
+      "name": "Coming Down the Mountain",
+      "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1039,6 +1039,22 @@
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142443,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Hazard & Fate",
-        "url": "https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX"
-      },
-      "artists": [
-        {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Blind in the Fray",
-      "url": "https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Make Way for Love",
         "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 161690,
       "name": "What's Chasing You",
       "url": "https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Hazard & Fate",
+        "url": "https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX"
+      },
+      "artists": [
+        {
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Blind in the Fray",
+      "url": "https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1215,22 +1231,6 @@
       "duration_ms": 232186,
       "name": "Hands on You",
       "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Summertime Mama",
-      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
     },
     {
       "added_at": "2019-06-07 14:12:51",

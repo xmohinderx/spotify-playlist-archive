@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69895,
+  "num_followers": 69913,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGM3MzQzNTU2NDFmYWUyNWFiNWFjMTQ2Yzg4NWRiODZh",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDc4Mzg0ZjYyYTBkZDViNzgzZjY4MGUwNDQ3NGY0YzBh",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -759,30 +759,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sammy Sosa",
-        "url": "https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "LASTMONDAY",
-          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Sammy Sosa",
-      "url": "https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Sammy Sosa",
+        "url": "https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "LASTMONDAY",
+          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Sammy Sosa",
+      "url": "https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Vodoo Adjae",
+        "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 574693,
+      "name": "Ke M Pa Sote",
+      "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Tap (Remix)",
         "url": "https://open.spotify.com/album/49dfWPAP2WdYwYC6xIyViU"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 173195,
       "name": "Tap - Remix",
       "url": "https://open.spotify.com/track/1Z9eh56VkEjGSccQLIK4E8"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Vodoo Adjae",
-        "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 574693,
-      "name": "Ke M Pa Sote",
-      "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Woo",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
+        }
+      ],
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/1BrlwVcweV89LH95CtdsZ4"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 201040,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/3Iltb5dK3PtsMTDRRvshOz"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Woo",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
-        }
-      ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2022-09-30 04:00:00",

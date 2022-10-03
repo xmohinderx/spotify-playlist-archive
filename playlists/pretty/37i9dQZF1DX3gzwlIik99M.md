@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,516 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,531 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 37 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
 | 38 | [Culto vacio radical](https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS) | 4:47 |
 | 39 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
-| 40 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
-| 41 | [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 |
-| 42 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 |
+| 40 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 |
+| 41 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
+| 42 | [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 |
 | 43 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
 | 44 | [Lowborn Bastard](https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd) | [Eshtadur](https://open.spotify.com/artist/0IdWx63RAlOm5W5iOKPesn), [Richie Brown](https://open.spotify.com/artist/3MzRiq8AdUqLiw2Fa17B7X) | [From the Abyss](https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE) | 5:28 |
 | 45 | [Discord](https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8) | [Black Overdrive](https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB) | [Discord](https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 |
 | 50 | [Oídos Sordos](https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q) | 5:09 |
 
-Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDUwMzI3MWNkZmIyNTgyZjAwMzA0OTZkMzA4YWFhZDJl`
+Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDAyZmUyODllZjQ5NzJkMmYyNzY4NzZmMDRjZjY3NzVm`

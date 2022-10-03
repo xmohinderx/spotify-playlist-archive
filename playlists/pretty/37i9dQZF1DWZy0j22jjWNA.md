@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,301 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,298 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 45 | [Unshackled](https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [Kareen Vargas](https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8) | [Unshackled](https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm) | 4:04 |
 | 46 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
 | 47 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
-| 48 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
-| 49 | [Compromise](https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Compromise](https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh) | 2:59 |
-| 50 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
-| 51 | [Electricity](https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Electricity](https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY) | 4:28 |
+| 48 | [Compromise](https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Compromise](https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh) | 2:59 |
+| 49 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
+| 50 | [Electricity](https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Electricity](https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY) | 4:28 |
+| 51 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
 | 52 | [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 |
 | 53 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 |
 | 54 | [Constellate](https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Portals](https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I) | 3:18 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
 | 65 | [This Is No Burial](https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2) | [Andie Elise](https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2) | [This Is No Burial](https://open.spotify.com/album/0elstO4HWsES7meWd8Y019) | 3:54 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDRhMWM5YzY2ZDNiYzIzNDEyN2ExNGRiOTEwYzNmZTI5`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGVkMjFjMjAyNjRjMzVmZTVjZTdhNDA2MGZlOTkyMzYy`

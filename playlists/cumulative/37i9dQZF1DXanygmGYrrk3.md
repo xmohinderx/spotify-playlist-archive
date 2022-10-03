@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Grupo Frontera
 
-237 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/2wigFKrLmiEwF5seFjIof2)
+238 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/2wigFKrLmiEwF5seFjIof2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Eres Una Niña](https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:50 | 2022-09-23 |  |
 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 | 2022-05-12 |  |
 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 | 2022-05-12 |  |
-| [Espero Con Ansias](https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ) | 3:34 | 2022-05-12 |  |
+| [Espero Con Ansias](https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ) | 3:34 | 2022-05-12 | 2022-10-03 |
 | [Esta Vida Es Muy Bonita](https://open.spotify.com/track/0crk5HnlDyF0lpHPRiLbX1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Esta Vida Es Muy Bonita](https://open.spotify.com/album/2nXwmdIdulClgc82z8E2EB) | 2:10 | 2022-05-12 | 2022-09-24 |
 | [Estrenando Amante](https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Estrenando Amante](https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw) | 2:48 | 2022-05-12 | 2022-09-24 |
 | [Fuera De Servicio](https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera De Servicio](https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG) | 2:34 | 2022-05-12 |  |
@@ -200,6 +200,7 @@
 | [Simplemente Gracias](https://open.spotify.com/track/5TVpVYcU47B23onx6llnvv) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6QrgqALDhzkTQQ7xOlgdRp) | 3:23 | 2022-05-12 | 2022-07-29 |
 | [Sin Miedo Al Éxito](https://open.spotify.com/track/21YeNeTRlPnYgKvdLYFs2C) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/5Wfvg8DIqTcq7LcoG92dZh) | 2:12 | 2022-05-12 | 2022-07-29 |
 | [Somos Los Que Somos \- En Vivo](https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 4:40 | 2022-05-12 |  |
+| [Soy De Rancho](https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Soy De Rancho](https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo) | 3:29 | 2022-09-23 |  |
 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 | 2022-05-12 |  |
 | [Soy Lo Que Ves](https://open.spotify.com/track/3Kl7sIgzMYQvxZxjEV9sC0) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Soy Lo Que Ves](https://open.spotify.com/album/77yCHIWHHK6KeQynu3NbJ5) | 3:40 | 2022-05-12 |  |
 | [Supiste Hacerme Mal](https://open.spotify.com/track/49stmNyFjPLuYn3cD5UDDI) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Revancha](https://open.spotify.com/album/0bxNLKOGLChbrcK7xQ6gVm) | 3:45 | 2022-09-23 |  |

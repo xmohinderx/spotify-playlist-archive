@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 111180,
+  "num_followers": 111247,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMDI1OTdiYjI4ZTU3ZDNlMDMwZGRjOTA3ZGUxZmYwODVh",
+  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMDdjNTE1OGUzN2NhM2ZlOGFmYWZmZjE3YzllMWZlMzEy",
   "tracks": [
     {
       "added_at": "2022-07-24 19:41:51",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Essential Bill Monroe (1945-1949)",
-        "url": "https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Blue Moon of Kentucky",
-      "url": "https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
         "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 216560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3Vtcjs5wVanh6LocIRrpwy"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "The Essential Bill Monroe (1945-1949)",
+        "url": "https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Blue Moon of Kentucky",
+      "url": "https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "My Favorite Country Songs",
-        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/0Bc4Eoh8xt6fX5T67ki655"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        },
+        {
+          "name": "Tommy Duncan",
+          "url": "https://open.spotify.com/artist/2xS555UhAr5LdCV4nL4c8N"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+      "duration_ms": 135706,
+      "name": "Bubbles In My Beer - Single Version",
+      "url": "https://open.spotify.com/track/4A2dABZi18gmKGizp0ubyn"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/0Bc4Eoh8xt6fX5T67ki655"
+        "name": "My Favorite Country Songs",
+        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        },
-        {
-          "name": "Tommy Duncan",
-          "url": "https://open.spotify.com/artist/2xS555UhAr5LdCV4nL4c8N"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 135706,
-      "name": "Bubbles In My Beer - Single Version",
-      "url": "https://open.spotify.com/track/4A2dABZi18gmKGizp0ubyn"
+      "duration_ms": 185200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
     },
     {
       "added_at": "2022-07-24 19:41:51",

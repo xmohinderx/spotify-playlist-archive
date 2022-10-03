@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: Boutross
 
-60 songs - 3 hr 6 min - not published yet
+60 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/5uX6eRgTlxUUU0p5d2ahrD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

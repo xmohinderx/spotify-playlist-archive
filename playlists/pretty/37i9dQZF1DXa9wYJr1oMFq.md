@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9wYJr1oMFq.md) - [plain]
 
 > Get nostalgic with the golden age of pop punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,110,148 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,110,384 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

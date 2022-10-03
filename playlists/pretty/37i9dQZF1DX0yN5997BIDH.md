@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,975 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,033 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 78 | [The Joker And The Queen](https://open.spotify.com/track/3NuLxTXowTRcguTh9RsPmM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:05 |
 | 79 | [Girlfriend](https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Girlfriend](https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY) | 2:57 |
 | 80 | [Your Man](https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 2:43 |
-| 81 | [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 |
-| 82 | [Broken Glass](https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:23 |
-| 83 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 |
+| 81 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 |
+| 82 | [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 |
+| 83 | [Broken Glass](https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:23 |
 | 84 | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd) | 3:14 |
 | 85 | [OMG What's Happening](https://open.spotify.com/track/11OPriDpmUrTMTji52ta17) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:59 |
 | 86 | [Cryo](https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH2](https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip) | 2:38 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 90 | [American Cliché](https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ) | 3:23 |
 | 91 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 |
 | 92 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 |
-| 93 | [Fool's Gold](https://open.spotify.com/track/1AeBzNjTaDmIlTGv2ObhYn) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:21 |
-| 94 | [Emily](https://open.spotify.com/track/4vYGDBF9aI3Ro8RbMqKLIb) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Emily](https://open.spotify.com/album/4ApVfr2gmTFvwKgJRF6szr) | 3:03 |
+| 93 | [Emily](https://open.spotify.com/track/4vYGDBF9aI3Ro8RbMqKLIb) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Emily](https://open.spotify.com/album/4ApVfr2gmTFvwKgJRF6szr) | 3:03 |
+| 94 | [Fool's Gold](https://open.spotify.com/track/1AeBzNjTaDmIlTGv2ObhYn) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:21 |
 | 95 | [Gasoline](https://open.spotify.com/track/2oUq6l5hEPHQwHozEA4MjV) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:13 |
 | 96 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 |
 | 97 | [One More Day](https://open.spotify.com/track/6EEOfwJ6K8z7Kx4B02dVP4) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [One More Day](https://open.spotify.com/album/2fMyuRiPrm57Z60DowjQPi) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 99 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 |
 | 100 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6p97rhyuy0YEQn0OOQeM1H) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/51V8Fme8o9GthQ3O1RNMtE) | 3:10 |
 
-Snapshot ID: `MTY2NDY1MjMwOSwwMDAwMDAwMGZlMTgzYmRlN2RhMTU5ZDk2NjE2Nzc2MTliMzNkZDc5`
+Snapshot ID: `MTY2NDY1MjMwOSwwMDAwMDAwMGM0ZTMwZTRhYmJiMDk5MjRjNzgzZGUyMDE4MWE0NTdi`

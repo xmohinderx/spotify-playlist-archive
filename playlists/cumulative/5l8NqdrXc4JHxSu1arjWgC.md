@@ -4,7 +4,7 @@
 
 > 
 
-652 songs - 1 day 19 hr 49 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+653 songs - 1 day 19 hr 53 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Ego Tripping at the Gates of Hell](https://open.spotify.com/track/4xTaOn06UiRHkq2ZUjWIqI) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:31 | 2019-10-10 |  |
 | [Eine Symphonie Des Grauens](https://open.spotify.com/track/56GfTAFHN8HMuKEJwUSJnY) | [The Monochrome Set](https://open.spotify.com/artist/6TR7TYiDiS5okigndyMIpK) | [Compendium 75\-95](https://open.spotify.com/album/3eAFv7eJwVV0B1wYCh9tBJ) | 2:21 | 2020-05-18 |  |
 | [El Dorado](https://open.spotify.com/track/2ELlv9YM2qejc3oSHG8Pmo) | [James Wilsey](https://open.spotify.com/artist/7a2quIjWm2Yv9QMdjXNfaG) | [El Dorado](https://open.spotify.com/album/5ylrojCQL0VAtEnKHa05dX) | 3:27 | 2020-01-19 |  |
+| [Embassy Row \- Remastered](https://open.spotify.com/track/49SU8RpuDc3thJiOidCrqr) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 3:50 | 2022-10-02 |  |
 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 | 2020-05-07 |  |
 | [Enjoy the Silence \- Single Mix](https://open.spotify.com/track/1YwNlWLf8auhazSQUDQLFU) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Enjoy the Silence](https://open.spotify.com/album/13OoJ5Y23cdo8CDAiQwznb) | 4:17 | 2020-08-31 |  |
 | [Eno Nothing](https://open.spotify.com/track/3IRSGpUi9NhYHl6EdfQo8D) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco) | [Eno Nothing](https://open.spotify.com/album/44VHKnRJRB38QN8pkOUmfp) | 3:36 | 2021-11-08 |  |

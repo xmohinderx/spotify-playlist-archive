@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,360 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,537 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 78 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 |
 | 79 | [Lonesome 7\-7203](https://open.spotify.com/track/7uoR7OHB4pJt1LPL128prk) | [Hawkshaw Hawkins](https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV) | [Hawkshaw Hawkins 28 Big Ones](https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb) | 2:43 |
 | 80 | [Branded Man \- Remastered](https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Prison](https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ) | 3:06 |
-| 81 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
-| 82 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
+| 81 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
+| 82 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
 | 83 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
 | 84 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
 | 85 | [Above And Beyond](https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Girl On The Billboard](https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4) | [Del Reeves](https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e) | [Son Of The South](https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8) | 2:37 |
 | 100 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDE2ODg0Yjk0Y2YyZWE5NDg4ZmZlNjkxOWM2ZDM1ZjVj`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDQ1NzMxYTI5OGZhNGE0MzgyNTQ2YjE1OTA4NTUyMWQ5`

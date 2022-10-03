@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 4 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 5 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 |
 | 6 | [Tombstone](https://open.spotify.com/track/3zc8VZEpM1onYV4FWGdFvm) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:40 |
-| 7 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 |
-| 8 | [Wockesha](https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 3:00 |
+| 7 | [Wockesha](https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 3:00 |
+| 8 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 |
 | 9 | [LEMONHEAD \(feat\. 42 Dugg\)](https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:10 |
 | 10 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 |
 | 11 | [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 49 | [I Don't Stress](https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 4:21 |
 | 50 | [Too Much to Ask](https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz) | 3:47 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGI2OWQ3NDZlOTc0OWMyMmM2OGU0NmJiOWQ2OTllMzdh`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDFlMzdhZTQ1YjRhZDI0NWU1NzJiMzkwOWYxZDU1MzYx`

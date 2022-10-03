@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,006 likes - 99 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,135 likes - 109 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 97 | [Scribble](https://open.spotify.com/track/2GcHFyreG18hZSmxOKrOfl) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Woo Scribbling Night](https://open.spotify.com/album/577g4XzgzSG0qBNABsCQ6q) | 4:15 |
 | 98 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 |
 | 99 | [hayley](https://open.spotify.com/track/0sFuMmSPdZjae8IwWQq7JZ) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Boy Loves Hayley](https://open.spotify.com/album/2XouiD0O47Da4dVQ4Z8zGl) | 4:05 |
+| 100 | [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 |
+| 101 | [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 |
+| 102 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 |
+| 103 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 |
+| 104 | [Continent of Mu](https://open.spotify.com/track/4v2IhNJLpJ3DPVbTZoEO77) | [Oah!](https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3) | [PANORAMA](https://open.spotify.com/album/1kVaKFcXxNM6LPkJlDVGCE) | 3:26 |
+| 105 | [Beautiful days](https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Beautiful days](https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd) | 3:40 |
+| 106 | [Burger](https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ) | 4:06 |
+| 107 | [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 |
+| 108 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
+| 109 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MTY2NDM0MTI4OCwwMDAwMDAwMDQ4Y2NkODIxZmNlNjBlMTc4ZDJjZDkzNTg0MzM5OTIz`
+Snapshot ID: `MTY2NDcyNjg0MywwMDAwMDAwMDQ5NDkxOGNkMjkxMzVhNDExZDNjYTVhN2ViYWViZjNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,811 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,839 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 8 | [Sorrow](https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:21 |
 | 9 | [New Dark Ages](https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [New Maps of Hell \(Deluxe Edition\)](https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA) | 2:47 |
 | 10 | [Los Angeles Is Burning](https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 3:23 |
-| 11 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 |
-| 12 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
+| 11 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
+| 12 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 |
 | 13 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
 | 14 | [We're Only Gonna Die](https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 2:12 |
 | 15 | [A Walk](https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 49 | [True North](https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 1:55 |
 | 50 | [Them And Us](https://open.spotify.com/track/6fzuwv6tgxNex16IPbdsKq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:50 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBhNGU0Y2QxNDE3MmRiYWEwYTg0NWFkZDJkZTUyMTM4MQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA3ZTk3NzdmNzRhMTIwOTc5MmMxNWFiMzZkYmE4ZWVlOA==`

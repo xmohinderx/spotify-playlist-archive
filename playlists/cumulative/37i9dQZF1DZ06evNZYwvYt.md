@@ -53,6 +53,6 @@
 | [Verdad](https://open.spotify.com/track/1dmqa40DwTbUv3SzUaUMvH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y) | 4:46 | 2022-09-16 |  |
 | [Virtual](https://open.spotify.com/track/1DM5zFVuY9d1mDK042UqOo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:02 | 2022-09-16 |  |
 | [Yo lloraré por ti](https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:50 | 2022-09-16 |  |
-| [Zona de promesas](https://open.spotify.com/track/0lNlxx9ZbsnXqbmgylFALP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Veré Volver \- Tributo Chileno a Cerati \(Disco 2\)](https://open.spotify.com/album/2WO40wVGEPnYKpSYhoM0Z6) | 4:47 | 2022-09-18 | 2022-09-26 |
+| [Zona de promesas](https://open.spotify.com/track/0lNlxx9ZbsnXqbmgylFALP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Veré Volver \- Tributo Chileno a Cerati \(Disco 2\)](https://open.spotify.com/album/2WO40wVGEPnYKpSYhoM0Z6) | 4:47 | 2022-09-18 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

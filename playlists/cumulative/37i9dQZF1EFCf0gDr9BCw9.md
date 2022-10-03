@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
+142 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Clementine](https://open.spotify.com/track/1Wi7jbwmHDnGKl8eymwcBt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:40 | 2022-09-08 |  |
 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 | 2022-09-08 |  |
 | [Congo Square](https://open.spotify.com/track/6VyjJ9aklXIyIdYuNr9vMc) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Laika](https://open.spotify.com/artist/1x7QlgJUVrLv1SSyeknnJq) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:47 | 2022-09-08 |  |
-| [Day Dream](https://open.spotify.com/track/30UOF78PgVxrIY9VWubzzz) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 5:25 | 2022-09-08 |  |
+| [Day Dream](https://open.spotify.com/track/30UOF78PgVxrIY9VWubzzz) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 5:25 | 2022-09-08 | 2022-10-03 |
 | [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-09-08 |  |
+| [Day Dream](https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:56 | 2022-10-02 |  |
 | [Dirge \- Live At Carnegie Hall, New York, NY / January 23, 1943](https://open.spotify.com/track/2KOwaaAxQdgDhVCvr1TMfh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Ellington Carnegie Hall Concerts, January 1943](https://open.spotify.com/album/6i29InGHUJYbANFbrjYqMd) | 3:28 | 2022-09-08 |  |
 | [Double Ruff](https://open.spotify.com/track/2rqPTnyEzokTazwWyLDtT7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Vol\. 4](https://open.spotify.com/album/5WS8fJoxWB7mhL7lixYmUL) | 2:50 | 2022-09-08 |  |
 | [Drawing Room Blues](https://open.spotify.com/track/1WqFswiLuP8cji7nskoepu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Miti: Duke Ellington](https://open.spotify.com/album/2l3Twfq8UB4oUGXvl3j2L0) | 3:41 | 2022-09-08 |  |

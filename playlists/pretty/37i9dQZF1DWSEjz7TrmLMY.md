@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > canto de tristeza porque lo nuestro terminó
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,238 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,297 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 36 | [Perdón](https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 4:24 |
 | 37 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 |
 | 38 | [Te Voy a Perder](https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Viento A Favor](https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor) | 4:10 |
-| 39 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 |
-| 40 | [Al Final De Nuestra Historia](https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU) | 3:17 |
+| 39 | [Al Final De Nuestra Historia](https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU) | 3:17 |
+| 40 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 |
 | 41 | [Perdóname](https://open.spotify.com/track/1OYZbxODr6TMlaT2PRi6Wi) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Perdóname](https://open.spotify.com/album/5UnAbdMrhJFoxAjQEY7bhh) | 4:02 |
 | 42 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 |
 | 43 | [Lamento De Amor \- Versión Banda](https://open.spotify.com/track/1tPPuhWAPxzOXKoLz6MiCs) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Sus Grandes Éxitos Con Banda \(Vol\. 1\)](https://open.spotify.com/album/0BXF2Fwc4FXyC9vq9IvgDS) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 49 | [Vuelve Cariñito](https://open.spotify.com/track/2WwkIeLHly6VJuOb1ihhzG) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:36 |
 | 50 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/6OciJaFaUdtPU2llVaYVaq) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/7LUl8V8OkpiygImst4pOmk) | 5:04 |
 
-Snapshot ID: `MTY1OTQ4NDI1MywwMDAwMDAwMDVmOGVkYWU0MzM4ZmRkMmQyOWQ5OTUyZmNhMGUwZTlm`
+Snapshot ID: `MTY1OTQ4NDI1MywwMDAwMDAwMGU1NmM1MjBiNDMwNzhhNWQzMTBmM2ViYTk5NmM5MDA2`

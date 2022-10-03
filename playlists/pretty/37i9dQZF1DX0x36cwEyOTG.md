@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,952 likes - 110 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,003 likes - 110 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 35 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 |
 | 36 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 |
 | 37 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
-| 38 | [Names and Races](https://open.spotify.com/track/4RrePp7ou4Uw9fCxnj4mD5) | [Foreign Fields](https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL) | [Anywhere But Where I Am](https://open.spotify.com/album/6jaGzAFeqYrMWt08lz4dtH) | 6:48 |
-| 39 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
+| 38 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
+| 39 | [Names and Races](https://open.spotify.com/track/4RrePp7ou4Uw9fCxnj4mD5) | [Foreign Fields](https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL) | [Anywhere But Where I Am](https://open.spotify.com/album/6jaGzAFeqYrMWt08lz4dtH) | 6:48 |
 | 40 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
 | 41 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 42 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 60 | [idk](https://open.spotify.com/track/32ghUIiUVKsuiyhGVfr7cf) | [la.nskey](https://open.spotify.com/artist/43QXDtaNDeOWxICsbMhIXH) | [ABSURDITIES](https://open.spotify.com/album/1Wp8unEyTBrN49ZXUaky2A) | 5:13 |
 | 61 | [Noise](https://open.spotify.com/track/1nWhdD40KXZgvoh8KpnjSJ) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4kOLBB19jvRtoVfnMEN5Cg) | 4:00 |
 | 62 | [Heading Home](https://open.spotify.com/track/2J7w7iXgOW2o5QTxNWveoY) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 3:57 |
-| 63 | [The Seer's Tower](https://open.spotify.com/track/4tcxg3xWf4y0V6mTt1VSFo) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 3:53 |
-| 64 | [Brassy Sun](https://open.spotify.com/track/4p8xeejJP9NV3wEMCvuBUr) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Brassy Sun](https://open.spotify.com/album/6iUS4KSI1hhG8YxP72ZBld) | 3:36 |
+| 63 | [Brassy Sun](https://open.spotify.com/track/4p8xeejJP9NV3wEMCvuBUr) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Brassy Sun](https://open.spotify.com/album/6iUS4KSI1hhG8YxP72ZBld) | 3:36 |
+| 64 | [The Seer's Tower](https://open.spotify.com/track/4tcxg3xWf4y0V6mTt1VSFo) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 3:53 |
 | 65 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 |
 | 66 | [Take Care](https://open.spotify.com/track/6yuLaaspVG8j2pnjAZ05Oe) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Keep a Private Room Behind the Shop](https://open.spotify.com/album/4B0iYxYJ5gzIs1plMk0E3X) | 1:54 |
 | 67 | [Boy 1904](https://open.spotify.com/track/3oww3hQ0kv9b2QjEkvyer0) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 5:03 |
 | 68 | [Twins](https://open.spotify.com/track/3VtmlgRTwp39t1MsL3NrF5) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [Breakers](https://open.spotify.com/album/4Rb53KVHjGTSFsy9DcBaff) | 4:19 |
-| 69 | [Regenerative Being](https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS) | 7:21 |
+| 69 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
 | 70 | [We Will Run](https://open.spotify.com/track/1hQlbRsNxOtave3WLskh61) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/7KQFTx2G2w7IeH9eoZyzwV) | 3:43 |
-| 71 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
-| 72 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
-| 73 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
-| 74 | [Fire\-scene](https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Range of Light](https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H) | 4:35 |
+| 71 | [Fire\-scene](https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Range of Light](https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H) | 4:35 |
+| 72 | [Regenerative Being](https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS) | 7:21 |
+| 73 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
+| 74 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
 | 75 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
 | 76 | [Made of Gold](https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA) | 3:49 |
 | 77 | [Slack Jaw \- Echo Mountain Sessions](https://open.spotify.com/track/2tgzwqArTmTiVD76fbHlWs) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Echo Mountain Sessions EP](https://open.spotify.com/album/7iMZ2wghJOguDaRo8Pn1DU) | 3:30 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 80 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 |
 | 81 | [In the Stream](https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO) | 5:10 |
 | 82 | [Big Light](https://open.spotify.com/track/6Brl1KblZxDsOSgEuSHBuO) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [A Quiet Darkness](https://open.spotify.com/album/0PERfSHIEXbw9sNTxL4qgo) | 4:48 |
-| 83 | [Baiulus](https://open.spotify.com/track/4WrMtEJz0usjxG5ZbHe8HW) | [The Black Atlantic](https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC) | [Reverence for Fallen Trees](https://open.spotify.com/album/5oWfY3VNTnAJzSauzsn2Qh) | 1:36 |
-| 84 | [Michael](https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:21 |
+| 83 | [Michael](https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:21 |
+| 84 | [Baiulus](https://open.spotify.com/track/4WrMtEJz0usjxG5ZbHe8HW) | [The Black Atlantic](https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC) | [Reverence for Fallen Trees](https://open.spotify.com/album/5oWfY3VNTnAJzSauzsn2Qh) | 1:36 |
 | 85 | [Low Roar](https://open.spotify.com/track/1PmzEt6a77dRdFtjLD2ZrW) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 2:15 |
 | 86 | [Our Love's Funeral](https://open.spotify.com/track/4AXklvY4icjXZQf3vFAZug) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Our Love's Funeral](https://open.spotify.com/album/1jG0JzLRYJR4odNdlfHOmm) | 2:45 |
 | 87 | [Dark Clouds](https://open.spotify.com/track/0cVVoj6Iik6TTogJgcWJnJ) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Dark Clouds](https://open.spotify.com/album/42WblGGFxS4DtbpJLl8Ih8) | 3:30 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 106 | [Losing My Mind](https://open.spotify.com/track/3FNENbQXJGWilvNYgGjw5I) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Gravity Pairs](https://open.spotify.com/album/6kKA00epWl2hfYZ1RvIvPR) | 3:09 |
 | 107 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 108 | [Please](https://open.spotify.com/track/09C592kGYvxDfJSBnzufCU) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 3:33 |
-| 109 | [Daydreaming](https://open.spotify.com/track/4v2arxXvuXLADytu38vSwz) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Daydreaming](https://open.spotify.com/album/3n0ogVb3Xhcq8Eti4FMuhd) | 3:51 |
+| 109 | [My Dove, My Lamb](https://open.spotify.com/track/2XhWwcxr9BJCZsCqVyeswH) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 9:25 |
 | 110 | [Save Me \- Skeleton Mix](https://open.spotify.com/track/1t6QtgCmzFzfmeDkSa530b) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [It's Alright / Save Me](https://open.spotify.com/album/17p4MoyfCn8VcNiPktFNmJ) | 4:09 |
 
-Snapshot ID: `MTYwMjc5Mzk0MiwwMDAwMDAwMGI5MTU4ODhiMjYzNTA0YmVkYzY5NGYxM2ZiMmUwOTgw`
+Snapshot ID: `MTYwMjc5Mzk0MiwwMDAwMDAwMDU4NzgyZDljMjI2OGMxZTIwOGZiMTgxMmQzODk5OGE0`

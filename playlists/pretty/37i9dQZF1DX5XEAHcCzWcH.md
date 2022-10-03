@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,598 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,643 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 10 | [I Don't Know](https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Presenting Willie Mabon](https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim) | 3:10 |
 | 11 | [Boogie Woogie Country Girl](https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:57 |
 | 12 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
-| 13 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
-| 14 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
+| 13 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
+| 14 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 15 | [Moon Blues](https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 4:26 |
 | 16 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
 | 17 | [Papa's on the House Top](https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3) | [Leroy Carr](https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR) | [The Essential Leroy Carr](https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT) | 2:55 |
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 26 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
 | 27 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
 | 28 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
-| 29 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
-| 30 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
-| 31 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
+| 29 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
+| 30 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
+| 31 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
 | 32 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
-| 33 | [Feel So Blue](https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 5:21 |
-| 34 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
-| 35 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
+| 33 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
+| 34 | [Feel So Blue](https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 5:21 |
+| 35 | [Things Have Changed](https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 3:00 |
 | 36 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 |
-| 37 | [Things Have Changed](https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 3:00 |
+| 37 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
 | 38 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
 | 39 | [Empty Arms](https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:50 |
 | 40 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDZlYjc3MTViNzc2NjQyNmZlZTkwOTBhYzY1OTVhYzBh`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDFlOTE3ZGM2MmZkMTM5NGI5MDg4NWE3ZjAyMmZmZmVm`

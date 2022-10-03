@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Jhosy, Manuel Turizo, Be\u00e9le",
-  "num_followers": 312879,
+  "num_followers": 313011,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGY1ZmEzNjY3NTI4MmI0M2FmZTJmMzkxODZiM2Q5ZGRl",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGZjMWI2NWM4ZDFlYWFlMzVlYWVlNDA0OWQzODJhNWU3",
   "tracks": [
     {
       "added_at": "2022-09-30 05:00:00",
@@ -715,6 +715,30 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
+        "name": "Soltera (Remix)",
+        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Soltera - Remix",
+      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
         "name": "Loca Remix",
         "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 346460,
       "name": "Loca - Remix",
       "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Soltera (Remix)",
-        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "Soltera - Remix",
-      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1031,38 +1031,6 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "La Criatura",
-        "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "B\u00e1ilame - Remix",
-      "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1091,6 +1059,38 @@
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "La Criatura",
+        "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "B\u00e1ilame - Remix",
+      "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1603,46 +1603,6 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 386333,
-      "name": "Esc\u00e1pate Conmigo (feat. Ozuna, Bad Bunny, De La Ghetto, Arc\u00e1ngel, Noriel & Almighty) - Remix",
-      "url": "https://open.spotify.com/track/5YY7ht3PCArlLjLbcTiAvh"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
         "name": "47 (Remix)",
         "url": "https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA"
       },
@@ -1687,30 +1647,42 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Tu No Metes Cabra Remix",
-        "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
       "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
         }
       ],
-      "duration_ms": 331440,
-      "name": "Tu No Metes Cabra - Remix",
-      "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
+      "duration_ms": 386333,
+      "name": "Esc\u00e1pate Conmigo (feat. Ozuna, Bad Bunny, De La Ghetto, Arc\u00e1ngel, Noriel & Almighty) - Remix",
+      "url": "https://open.spotify.com/track/5YY7ht3PCArlLjLbcTiAvh"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1735,6 +1707,34 @@
       "duration_ms": 208622,
       "name": "Monumento - Remix",
       "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Tu No Metes Cabra Remix",
+        "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 331440,
+      "name": "Tu No Metes Cabra - Remix",
+      "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
     },
     {
       "added_at": "2022-09-30 05:00:00",

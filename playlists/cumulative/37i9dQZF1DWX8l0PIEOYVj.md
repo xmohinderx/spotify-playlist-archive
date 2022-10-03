@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: HALIENE.
 
-258 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+259 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [High](https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Jo Cohen](https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q), [Lusil](https://open.spotify.com/artist/1AzsVW3RPGZk0foQcGktHZ) | [High](https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao) | 3:04 | 2022-07-08 |  |
 | [High on Life](https://open.spotify.com/track/1GSCyF7EzsmYhfcXX5GEez) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [High on Life](https://open.spotify.com/album/0uSam5GTUJioSK4DAQLlHx) | 3:16 | 2022-07-29 |  |
 | [High on Life](https://open.spotify.com/track/6ZX9CSWDRpf6C0aSP59pym) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [High on Life](https://open.spotify.com/album/1CSE2niI6bZxdFRxLoAg41) | 3:16 | 2022-07-08 | 2022-08-25 |
+| [Higher Than Heaven](https://open.spotify.com/track/6UdWxz9fpHsd1l7epg4jyH) | [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Higher Than Heaven](https://open.spotify.com/album/4aJ8OzxXJGc9aZzIwIEzjx) | 4:51 | 2022-09-16 |  |
 | [Hold Me](https://open.spotify.com/track/14PyY68X7D0J6i2xtdajEo) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Sane Music](https://open.spotify.com/artist/6bdY2YWzlQ6H1gxLB5Pdin) | [Hold Me](https://open.spotify.com/album/5aUyuveFrtgWfyXcsTCoX8) | 2:26 | 2022-07-08 | 2022-10-01 |
 | [Hollow Eyes \(feat\. EKE\)](https://open.spotify.com/track/5zZ29l9N3ZZCtNH4eg3clf) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Hollow Eyes \(feat\. EKE\)](https://open.spotify.com/album/0xgNljaerSZIHuRpZKav5F) | 3:51 | 2022-07-08 | 2022-09-16 |
 | [Hollywood Hills](https://open.spotify.com/track/3x9RTdQNT1Ic1lDylGYQpJ) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Hollywood Hills](https://open.spotify.com/album/0pLgAY0KSRdXFWobd0xhmV) | 3:30 | 2022-07-18 | 2022-08-26 |
@@ -226,7 +227,7 @@
 | [Survive \(with Luma\)](https://open.spotify.com/track/1MhdaEmBlc71o9ID1eP9Io) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Survive \(with Luma\)](https://open.spotify.com/album/6tNXNRyY93e2m0jQMlRQ2g) | 3:47 | 2022-07-08 |  |
 | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95) | 3:38 | 2022-07-08 |  |
 | [Tattoo](https://open.spotify.com/track/7pelNkiKHA7fCjeKYeFMuq) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Tattoo](https://open.spotify.com/album/3AeKCooUWU0nQuyxfSZJ7m) | 3:52 | 2022-08-19 |  |
-| [Tell Me Why](https://open.spotify.com/track/1Ic5GlyRW3eTYC9Yx6kHnb) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Brenton Mattheus](https://open.spotify.com/artist/5L3htGbUwUCPPhVM2UtdTY) | [Tell Me Why](https://open.spotify.com/album/0cFJ5gN9aF8I7ev145OKvR) | 3:24 | 2022-08-12 |  |
+| [Tell Me Why](https://open.spotify.com/track/1Ic5GlyRW3eTYC9Yx6kHnb) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Brenton Mattheus](https://open.spotify.com/artist/5L3htGbUwUCPPhVM2UtdTY) | [Tell Me Why](https://open.spotify.com/album/0cFJ5gN9aF8I7ev145OKvR) | 3:24 | 2022-08-12 | 2022-10-03 |
 | [TELL U](https://open.spotify.com/track/2cgm2QVvtRXdIDkVVD7Beq) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [TELL U](https://open.spotify.com/album/0ZRcvD0RgToYTqzC7LNt05) | 2:47 | 2022-07-08 | 2022-07-23 |
 | [TELL U](https://open.spotify.com/track/6RN7j3mFcBvuiJIin5EpcR) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [TELL U](https://open.spotify.com/album/4NwMXA7Y8wzGlHV5INIlSa) | 2:47 | 2022-07-29 | 2022-08-30 |
 | [The Feeling](https://open.spotify.com/track/5XlufuPluY6GRBlXZvnZVJ) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [The Feeling](https://open.spotify.com/album/5wURsb3f8KcLz93oFGWHyX) | 3:22 | 2022-07-08 | 2022-08-06 |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock songs of the last decade. Cover: Twenty One Pilots",
-  "num_followers": 434119,
+  "num_followers": 434176,
   "original_name": "10s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMGM4NDBhMjFhNDQ0MzExMWM2NTMwMTg3Y2JmMjdlM2M4",
+  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMGFmYzdjODY0OGQwODI2M2I1MWViN2Y5ZmQ3MjJkMmRl",
   "tracks": [
     {
       "added_at": "2022-03-09 13:40:09",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 259093,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 259093,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 189120,
       "name": "Legend",
       "url": "https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 214797,
       "name": "Help",
       "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "OK, I'M SICK",
-        "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
       "artists": [
         {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 259519,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94"
+      "duration_ms": 230226,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+        "name": "OK, I'M SICK",
+        "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
         }
       ],
-      "duration_ms": 230226,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
+      "duration_ms": 259519,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 256071,
-      "name": "hometown",
-      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Only Revolutions",
         "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 258573,
       "name": "Many of Horror",
       "url": "https://open.spotify.com/track/0Au4QRVX0hwIRVv1svcqhD"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "State of Mind",
-        "url": "https://open.spotify.com/album/0C8bAFI1POhzztBVShuzll"
+        "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
       },
       "artists": [
         {
-          "name": "The Faim",
-          "url": "https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN"
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
         }
       ],
-      "duration_ms": 181216,
-      "name": "Summer Is a Curse",
-      "url": "https://open.spotify.com/track/5WzgYEfub2pFJAAZfrOult"
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
     }
   ],
   "unique_name": "10s Rock Anthems",

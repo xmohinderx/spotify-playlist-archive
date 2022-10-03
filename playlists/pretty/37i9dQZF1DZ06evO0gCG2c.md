@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,862 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,038 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [No Wahala \(feat\. Akon & Runtown\)](https://open.spotify.com/track/03MxQe4F8TGGZSs4Zyha4b) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [No Wahala \(feat\. AKON & RUNTOWN\)](https://open.spotify.com/album/5k7JaH84J9RFAhzrCugrUQ) | 3:32 |
 | 50 | [Stick Around](https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Stick Around](https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG) | 3:30 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA0MDQzN2Y2ZWNhODM4ZDJmNzI5YmQzMjQ1MjY3ZTEzZg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAwNTZhMzg1MDA3N2U0ZWMzMzc3MTY4NzgwMGYwNGFlMQ==`

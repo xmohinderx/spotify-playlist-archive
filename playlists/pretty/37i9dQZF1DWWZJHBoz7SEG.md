@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Maluma, Juan Gabriel y Eslabón Armado; Kenia OS, Arctic Monkeys, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,437 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,540 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 25 | [Te Invito a Mi Barrio](https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Te Invito a Mi Barrio](https://open.spotify.com/album/42zWIVSMYhtuKgx6de8aiE) | 3:58 |
 | 26 | [Caramelo](https://open.spotify.com/track/7k0CT9uAIYQ5weaguKxize) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Perrea Con Delivery](https://open.spotify.com/album/43G8xNvKvMAl0QU9sWASah) | 3:39 |
 | 27 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 |
-| 28 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [SALVAJE](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
+| 28 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
 | 29 | [Qué Rico \(feat\. El Clooy\) \- Remix](https://open.spotify.com/track/53fQfzienlCQks52Bztdpt) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Qué Rico \(feat\. El Clooy\) \[Remix\]](https://open.spotify.com/album/0MPj6gzF6jNWOZLHmqMWtk) | 3:37 |
 | 30 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 |
 | 31 | [Ferrari](https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Ferrari](https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw) | 3:07 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 47 | [Cuando Me Vaya](https://open.spotify.com/track/5prXXrmdkZ058EfDu7vWYm) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Cuando Me Vaya](https://open.spotify.com/album/1PbqKAwMUiyQ4rJjTo4Kb2) | 4:05 |
 | 48 | [Bailemos Lento](https://open.spotify.com/track/4pSXXK4eaqiyqzoBcx96Zx) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Bailemos Lento](https://open.spotify.com/album/6QecJLKYZzzT1ah4PfBPx8) | 3:49 |
 | 49 | [Arrow](https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Arrow](https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo) | 2:05 |
-| 50 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 |
+| 50 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDA5OGQ1NzZkNThhMTYzOTNmNjRiODgxYjJkZmYyNGFl`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMGQxYzYxMDljY2Y2ZjQyYjI0ZWY0NWU5YWM2YTYwMDU1`

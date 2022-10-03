@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 
 > Music from "Symphogear"! /アニメ「戦姫絶唱シンフォギア」の楽曲を1つのプレイリストで。Ⓒproject シンフォギアXV
 
-[Spotify](https://open.spotify.com/user/spotify) - 699 likes - 56 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 822 likes - 56 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 | 4 | [Next Destination](https://open.spotify.com/track/3dsw54C5lq2vdrNgp8xhft) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/7ASj6T3GNYYpgJC27UeTwc) | 4:33 |
 | 5 | [Exterminate](https://open.spotify.com/track/22b3p38QWCoHEZI3PQ5RnK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:05 |
 | 6 | [Glorious Break](https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SMASHING ANTHEMS](https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK) | 5:16 |
-| 7 | [Rebirth\-day](https://open.spotify.com/track/2nDy9NgkRIElBVYtVorzIs) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/7ASj6T3GNYYpgJC27UeTwc) | 4:04 |
+| 7 | [Rebirth\-day](https://open.spotify.com/track/4dzRh3D8MfAU3tvIAdZn8c) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/2BgjPNHgBMSCxJ99XZuuFH) | 4:04 |
 | 8 | [TESTAMENT](https://open.spotify.com/track/2QSZ2xvqALjTBqZfKxsMeI) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [TESTAMENT](https://open.spotify.com/album/1eHKjExL0WvsYvrO9yHa4K) | 3:58 |
 | 9 | [Futurism](https://open.spotify.com/track/67gRrMciksa7kB1yfzTPp9) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [Futurism](https://open.spotify.com/album/24ud0AuonqBPOlwH944oNs) | 4:45 |
 | 10 | [METANOIA](https://open.spotify.com/track/1pu0l2CLyOBzI9SRdqOqTV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [METANOIA](https://open.spotify.com/album/2dTATpcLTVwwestFBVO8v7) | 4:35 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 | 55 | [PERFECT SYMPHONY](https://open.spotify.com/track/7lgtctytqj7oQHdYRLSfwL) | [立花響×風鳴翼×雪音クリス×マリア×月読調×暁切歌×キャロル\(CV:悠木碧×水樹奈々×高垣彩陽×日笠陽子×南條愛乃×茅野愛衣×水瀬いのり\)](https://open.spotify.com/artist/4131BisGtltreRPNb5fSox) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 4:39 |
 | 56 | [未来へのフリューゲル](https://open.spotify.com/track/0C3Fbd3zetSaqxeMmONfp7) | [立花響×風鳴翼×雪音クリス×マリア×月読調×暁切歌×小日向未来\(CV:悠木碧×水樹奈々×高垣彩陽×日笠陽子×南條愛乃×茅野愛衣×井口裕香\)](https://open.spotify.com/artist/6u1VHpHqg5fpNPEn0P0V4h) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 5:11 |
 
-Snapshot ID: `MTY2NDQ2MzYwMCwwMDAwMDAwMGVjYWU4ZjUyY2Q2MDczMDlhMDdjYmE4ZTgwOGQ2MDU4`
+Snapshot ID: `MTY2NDQ2MzYwMCwwMDAwMDAwMDQ3ZGUwYWRlM2FjMzZlMTQwOTkwZTcyMjc4N2MyNGUw`

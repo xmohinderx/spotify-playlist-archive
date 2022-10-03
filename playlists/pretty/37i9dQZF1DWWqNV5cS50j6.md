@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > d4vd make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,386 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,493 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 32 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
 | 33 | ["conditional"](https://open.spotify.com/track/6hariWD1MC9HBlaIJ5iDQR) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE), [soupandreas](https://open.spotify.com/artist/5dPMuKQtWLLl1Thw1Bf8h9) | ["conditional"](https://open.spotify.com/album/0CsU6vIcO5fxZVAvGfUE7v) | 3:08 |
 | 34 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
-| 35 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
-| 36 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
+| 35 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
+| 36 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
 | 37 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
 | 38 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
 | 39 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 49 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
 | 50 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 |
 
-Snapshot ID: `MTY2NDU1MjExNiwwMDAwMDAwMDYzZjliYjVkNzk0Yjg4NmM5NzczZmYyZDAyYjMyMDFm`
+Snapshot ID: `MTY2NDU1MjExNiwwMDAwMDAwMDI2MWI5OGM5NmNkZmFiNDliODZkNmVjZGM5NGExMzE3`

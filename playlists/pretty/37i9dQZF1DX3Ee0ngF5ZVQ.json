@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Corey Kent",
-  "num_followers": 386167,
+  "num_followers": 386241,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU5Mjk5NCwwMDAwMDAwMDExNDVjNGQyYThhZGYzMTIwZjU2ZTAwMDhlZTc2OWJj",
+  "snapshot_id": "MTY2NDU5Mjk5NCwwMDAwMDAwMGFkMGVmODUzOGZlYWM4ZjgwYzcyZjg2OTljOGJjYzEy",
   "tracks": [
     {
       "added_at": "2022-10-01 02:56:34",
@@ -107,18 +107,22 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Ride the Lightning (717 Tapes)",
-        "url": "https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi"
+        "name": "Long Live Cowgirls (with Cody Johnson)",
+        "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 186458,
-      "name": "Ride the Lightning - 717 Tapes",
-      "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
+      "duration_ms": 184746,
+      "name": "Long Live Cowgirls (with Cody Johnson)",
+      "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -187,26 +191,6 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Long Live Cowgirls (with Cody Johnson)",
-        "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Long Live Cowgirls (with Cody Johnson)",
-      "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
         "name": "Creeps",
         "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
@@ -235,6 +219,26 @@
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Happier Alone (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "Happier Alone (feat. Koe Wetzel)",
+      "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -287,22 +291,18 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Happier Alone (feat. Koe Wetzel)",
-        "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone (feat. Koe Wetzel)",
-      "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
+      "duration_ms": 186718,
+      "name": "Gettin' By",
+      "url": "https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -367,38 +367,6 @@
       "duration_ms": 238177,
       "name": "Tears the Size of Texas",
       "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 186718,
-      "name": "Gettin' By",
-      "url": "https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "717 Tapes, Vol. 2",
-        "url": "https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -471,6 +439,38 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "You In A Honky Tonk",
+        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 183570,
+      "name": "You In A Honky Tonk",
+      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
         "name": "Different Now",
         "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+        "name": "Heaven Down Here",
+        "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
         }
       ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+      "duration_ms": 215977,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -575,38 +575,6 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "You In A Honky Tonk",
-        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 183570,
-      "name": "You In A Honky Tonk",
-      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "Heaven Down Here",
-        "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
-      },
-      "artists": [
-        {
-          "name": "Texas Hill",
-          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
-        }
-      ],
-      "duration_ms": 215977,
-      "name": "Easy on the Eyes",
-      "url": "https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
@@ -619,6 +587,42 @@
       "duration_ms": 204040,
       "name": "Highways",
       "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Breaking News",
+        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
+      },
+      "artists": [
+        {
+          "name": "Jacob Stelly",
+          "url": "https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41"
+        },
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "duration_ms": 242517,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -655,18 +659,18 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Breaking News",
-        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 220234,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
+      "duration_ms": 185000,
+      "name": "Tell Me It Is",
+      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -703,38 +707,34 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
       "artists": [
         {
-          "name": "Jacob Stelly",
-          "url": "https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41"
-        },
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "But Me",
+        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
+      },
+      "artists": [
         {
           "name": "Slade Coulter",
           "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
         }
       ],
-      "duration_ms": 242517,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Tell Me It Is",
-      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
+      "duration_ms": 235920,
+      "name": "But Me",
+      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+        "name": "Drowning in Dreams, Pt. 2",
+        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+      "duration_ms": 167512,
+      "name": "Where the Wildflowers Lay",
+      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -847,38 +847,6 @@
       "duration_ms": 171045,
       "name": "Girls Like Me",
       "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "But Me",
-        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "But Me",
-      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 167512,
-      "name": "Where the Wildflowers Lay",
-      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -935,6 +903,42 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
+        "name": "That Drink (feat. Neal McCoy)",
+        "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        },
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "That Drink (feat. Neal McCoy)",
+      "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
         "name": "Anderson County",
         "url": "https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI"
       },
@@ -967,18 +971,22 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
       },
       "artists": [
         {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+          "name": "Dalton Domino",
+          "url": "https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT"
+        },
+        {
+          "name": "Stephanie Lambring",
+          "url": "https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD"
         }
       ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+      "duration_ms": 293862,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1015,46 +1023,6 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "That Drink (feat. Neal McCoy)",
-        "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        },
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 172314,
-      "name": "That Drink (feat. Neal McCoy)",
-      "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
-      },
-      "artists": [
-        {
-          "name": "Dalton Domino",
-          "url": "https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT"
-        },
-        {
-          "name": "Stephanie Lambring",
-          "url": "https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD"
-        }
-      ],
-      "duration_ms": 293862,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
         "name": "All It Cost Me Was Everything",
         "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
       },
@@ -1087,22 +1055,6 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Shot from the Heart",
-        "url": "https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8"
-      },
-      "artists": [
-        {
-          "name": "Bart Crow",
-          "url": "https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1"
-        }
-      ],
-      "duration_ms": 183913,
-      "name": "Shot from the Heart",
-      "url": "https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
         "name": "Varsity Type",
         "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
@@ -1131,6 +1083,22 @@
       "duration_ms": 217720,
       "name": "Telling on My Heart",
       "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Shot from the Heart",
+        "url": "https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8"
+      },
+      "artists": [
+        {
+          "name": "Bart Crow",
+          "url": "https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1"
+        }
+      ],
+      "duration_ms": 183913,
+      "name": "Shot from the Heart",
+      "url": "https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1183,22 +1151,18 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Married Alone (feat. Vince Gill)",
-        "url": "https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 254033,
-      "name": "Married Alone (feat. Vince Gill)",
-      "url": "https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD"
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1239,34 +1203,22 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Baby Do",
-        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
+        "name": "Married Alone (feat. Vince Gill)",
+        "url": "https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 208392,
-      "name": "Baby Do",
-      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
-      },
-      "artists": [
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        },
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+      "duration_ms": 254033,
+      "name": "Married Alone (feat. Vince Gill)",
+      "url": "https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1287,22 +1239,6 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw"
-      },
-      "artists": [
-        {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
-        }
-      ],
-      "duration_ms": 186993,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -1315,6 +1251,22 @@
       "duration_ms": 253101,
       "name": "Wherever I Am",
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Baby Do",
+        "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 208392,
+      "name": "Baby Do",
+      "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1335,18 +1287,18 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Cowboys Don't Change",
-        "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw"
       },
       "artists": [
         {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
         }
       ],
-      "duration_ms": 212670,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
+      "duration_ms": 186993,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1363,22 +1315,6 @@
       "duration_ms": 192680,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "Whiskey Miss Me",
-        "url": "https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kay",
-          "url": "https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc"
-        }
-      ],
-      "duration_ms": 180162,
-      "name": "Whiskey Miss Me",
-      "url": "https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1403,6 +1339,22 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
+        "name": "Cowboys Don't Change",
+        "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 212670,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
         "name": "Heart for Just One Team",
         "url": "https://open.spotify.com/album/0BV4ruQifg3emKKeJ8rR7I"
       },
@@ -1415,6 +1367,22 @@
       "duration_ms": 217839,
       "name": "Heart for Just One Team",
       "url": "https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Whiskey Miss Me",
+        "url": "https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kay",
+          "url": "https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc"
+        }
+      ],
+      "duration_ms": 180162,
+      "name": "Whiskey Miss Me",
+      "url": "https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1499,18 +1467,18 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "It Wasn\u2019t Love",
-        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
+        "name": "Nothing But Love Songs",
+        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
       },
       "artists": [
         {
-          "name": "Larissa Boyd",
-          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
         }
       ],
-      "duration_ms": 245000,
-      "name": "It Wasn\u2019t Love",
-      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
+      "duration_ms": 225180,
+      "name": "Nothing But Love Songs",
+      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1531,6 +1499,22 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
+        "name": "It Wasn\u2019t Love",
+        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
+      },
+      "artists": [
+        {
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "It Wasn\u2019t Love",
+      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
         "name": "What's Your Drinkin' Song",
         "url": "https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Nothing But Love Songs",
-        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
+        "name": "Honky Tonk in Heaven",
+        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
       "artists": [
         {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+          "name": "Kin Faux",
+          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
         }
       ],
-      "duration_ms": 225180,
-      "name": "Nothing But Love Songs",
-      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
+      "duration_ms": 167520,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1575,22 +1559,6 @@
       "duration_ms": 209440,
       "name": "I'm Going Home",
       "url": "https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw"
-    },
-    {
-      "added_at": "2022-10-01 02:56:34",
-      "album": {
-        "name": "Honky Tonk in Heaven",
-        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
-      },
-      "artists": [
-        {
-          "name": "Kin Faux",
-          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
-        }
-      ],
-      "duration_ms": 167520,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
     },
     {
       "added_at": "2022-10-01 02:56:34",
@@ -1671,6 +1639,42 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Washington Street (Classen Sessions)",
+        "url": "https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "Washington Street - Classen Sessions",
+      "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
+      },
+      "artists": [
+        {
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     }
   ],
   "unique_name": "Texas Country Now",

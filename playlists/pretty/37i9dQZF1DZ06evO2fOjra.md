@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,784 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,986 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 49 | [Idiosyncrasy](https://open.spotify.com/track/324feiafM58soZXlBMVT1u) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 4:38 |
 | 50 | [Penance To Sorrow](https://open.spotify.com/track/22fTnFLkgHmV1qGLP1cihy) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:20 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAxZWY0MDI1ZDBjZDY1OGNkM2FhZDE1MjdmOWMwNTYxNw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBiN2RjNjQ3NGU5ZDIwNmU3NjNhNGI5MWE1NGMyYTgyOA==`

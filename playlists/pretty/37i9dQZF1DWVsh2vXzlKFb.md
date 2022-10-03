@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > Indie tunes for t\-shirt weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,233 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,209 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 73 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
 | 74 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 |
 | 75 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
-| 76 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 |
-| 77 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
+| 76 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
+| 77 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 |
 | 78 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 |
 | 79 | [Diane Young](https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 2:40 |
 | 80 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 86 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
 | 87 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 |
 | 88 | [wachito rico](https://open.spotify.com/track/0OYf62rdwDouKohtCALD55) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:34 |
-| 89 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 |
+| 89 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 |
 | 90 | [Woo!](https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 3:16 |
-| 91 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 |
+| 91 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 |
 | 92 | [NW3](https://open.spotify.com/track/3NSBOLzrxMri9OEyxYeWov) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:53 |
-| 93 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
-| 94 | [Sending Me Ur Loving](https://open.spotify.com/track/1QwhWld3yDy65MJCeBelCp) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Sending Me Ur Loving](https://open.spotify.com/album/4JUcT1r5eSr0B8jhuibVJ1) | 4:13 |
-| 95 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
-| 96 | [Not High On Drugz](https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Not High On Drugz](https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF) | 4:12 |
+| 93 | [Not High On Drugz](https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Not High On Drugz](https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF) | 4:12 |
+| 94 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
+| 95 | [Sending Me Ur Loving](https://open.spotify.com/track/1QwhWld3yDy65MJCeBelCp) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Sending Me Ur Loving](https://open.spotify.com/album/4JUcT1r5eSr0B8jhuibVJ1) | 4:13 |
+| 96 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
 | 97 | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 |
 | 98 | [You Stupid Bitch](https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [You Stupid Bitch](https://open.spotify.com/album/4oBhZqwpWAUsKobnZ9zb9W) | 3:15 |
 | 99 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 |
 | 100 | [IDC](https://open.spotify.com/track/43x8gg4AnsyCO5pWmWed1J) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [IDC](https://open.spotify.com/album/5hR9rhURMQx8oewiccoNS8) | 3:45 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDhlMTk1MzA4ZmMxOTRlNjJmNmQ0MjEwZGVlZTYxMTYx`
+Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMGJkMjUxZjQxYTIxNjYxOTgwMzk5OTdlZmQ1ZjQwM2I3`

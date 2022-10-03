@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 161639,
+  "num_followers": 161690,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODgwMCwwMDAwMDAwMDRkZmE0ZDhiYjQ4NGRhNDY4MjQxMDFlZGEyNjRhOGE5",
+  "snapshot_id": "MTY2NDQ4ODgwMCwwMDAwMDAwMDhmNjFhYWRmZWVlOGRkOWQxMDkzNWQyMWM0ZTVhNDEx",
   "tracks": [
     {
       "added_at": "2022-09-29 22:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -383,22 +367,6 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 250850,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -419,6 +387,22 @@
       "duration_ms": 178746,
       "name": "Away",
       "url": "https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 250850,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -631,22 +615,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "The Lingering",
-        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 193622,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Your Ghost",
         "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 170181,
       "name": "Early Summer Rain",
       "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "The Lingering",
+        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 193622,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Jonas Alaska",
+        "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Alaska",
+          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
+        }
+      ],
+      "duration_ms": 224179,
+      "name": "October",
+      "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -731,38 +731,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Jonas Alaska",
-        "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Alaska",
-          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
-        }
-      ],
-      "duration_ms": 224179,
-      "name": "October",
-      "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -795,6 +763,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM"
       },
@@ -811,22 +795,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Year of Love",
-        "url": "https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 253212,
-      "name": "Year of Love",
-      "url": "https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "May",
         "url": "https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 214986,
       "name": "Glimpse of a Time",
       "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Year of Love",
+        "url": "https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 253212,
+      "name": "Year of Love",
+      "url": "https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -879,6 +863,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Poetry & Airplanes",
+        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
+      },
+      "artists": [
+        {
+          "name": "Teitur",
+          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "I Was Just Thinking",
+      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Jag \u00e4r sen igen",
         "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Poetry & Airplanes",
-        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
-      },
-      "artists": [
-        {
-          "name": "Teitur",
-          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "I Was Just Thinking",
-      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -927,22 +911,6 @@
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Most of the Time",
-        "url": "https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -963,6 +931,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Tran\u00f8y fyr",
         "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 236480,
       "name": "Tran\u00f8y fyr",
       "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Joni Was Right Pt. II",
+        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 200262,
+      "name": "Bluebelle Mountain",
+      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Joni Was Right Pt. II",
-        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
+        "name": "Dad Told Me",
+        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
       },
       "artists": [
         {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
         }
       ],
-      "duration_ms": 200262,
-      "name": "Bluebelle Mountain",
-      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
+      "duration_ms": 155213,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
     }
   ],
   "unique_name": "Nordic Folk",

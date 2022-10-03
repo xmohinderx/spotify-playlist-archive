@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-128 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+129 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Heather Grey \(BK Gritty\)](https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ) | [NIKARA presents Black Wall Street](https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [NIKARA presents Black Wall Street](https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL) | 6:06 | 2021-11-12 | 2022-08-18 |
 | [Hell's Bells](https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx) | [Bill Bruford](https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz) | [Master Strokes 1978\-1985](https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl) | 3:34 | 2021-02-12 |  |
 | [Hullo Bolinas](https://open.spotify.com/track/6YxmY8tjb6nY0FPPYRjVFT) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Hullo Bolinas](https://open.spotify.com/album/6bpFnGUbzA6UPdAtSTvw7T) | 4:11 | 2021-02-12 | 2022-07-28 |
-| [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 | 2021-04-09 |  |
+| [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 | 2021-04-09 | 2022-10-03 |
 | [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 | 2022-08-12 |  |
 | [jiriki](https://open.spotify.com/track/63vIR3Bp9BiTuXqUTC64UM) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL) | [Sokoband](https://open.spotify.com/album/5NNkK4LPAccGITR29de0Zv) | 7:46 | 2021-02-12 | 2022-07-29 |
 | [JosHUA!](https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE) | [Tangible Jazz Dreams](https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN) | [Meltdown](https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI) | 7:03 | 2022-04-01 | 2022-07-29 |
@@ -124,6 +124,7 @@
 | [Teki](https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 6:00 | 2021-04-16 |  |
 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 | 2022-06-10 |  |
 | [The Careening Prism Within \(Parable 43\)](https://open.spotify.com/track/4VWYPC8tE87K2sLAsKVhZW) | [Rob Mazurek](https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs), [Exploding Star Orchestra](https://open.spotify.com/artist/40u4eoB8qj551Cquf3zlEe) | [The Careening Prism Within \(Parable 43\)](https://open.spotify.com/album/45yMVoHIzngfBU2ZctxfZc) | 2:59 | 2021-02-12 | 2022-07-29 |
+| [The Little Boxer](https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Common Ground](https://open.spotify.com/album/1TxksZoZOYltLztkow77CS) | 6:46 | 2022-09-30 |  |
 | [The New Heritage](https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [David James](https://open.spotify.com/artist/3IuaZcLJ7Y43k5rF4EtP5U) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 2:25 | 2021-10-15 |  |
 | [The Nightbus](https://open.spotify.com/track/45GLV5lorbBlvcen01tNwp) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [The Nightbus](https://open.spotify.com/album/3niNqIPnj4qyJMrVO9UjwI) | 4:55 | 2021-06-18 | 2022-07-29 |
 | [The Red One](https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [I Can See Your House From Here](https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb) | 4:19 | 2021-02-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,255 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,205 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 6 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 7 | [פנתרה](https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [פנתרה](https://open.spotify.com/album/25E9FesbHAUYUxUJCswURR) | 2:53 |
 | 8 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
-| 9 | [Ne Güzel](https://open.spotify.com/track/4QOVWiNQmMhOODibbU3cQw) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ne Güzel](https://open.spotify.com/album/5qdprolO1wBPmcMLWV8ZoE) | 2:49 |
-| 10 | [İyi Ya](https://open.spotify.com/track/3TGexGPlD7rgTFMOxaaC6f) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [İyi Ya](https://open.spotify.com/album/6EkTRByax1Vqz4qmL19iT5) | 2:21 |
+| 9 | [İyi Ya](https://open.spotify.com/track/3TGexGPlD7rgTFMOxaaC6f) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [İyi Ya](https://open.spotify.com/album/6EkTRByax1Vqz4qmL19iT5) | 2:21 |
+| 10 | [Ne Güzel](https://open.spotify.com/track/4QOVWiNQmMhOODibbU3cQw) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ne Güzel](https://open.spotify.com/album/5qdprolO1wBPmcMLWV8ZoE) | 2:49 |
 | 11 | [Ligo Ligo](https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Ligo Ligo](https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN) | 2:46 |
 | 12 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
 | 13 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 20 | [Kabhi Kabhi](https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Kabhi Kabhi](https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M) | 3:34 |
 | 21 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 |
 | 22 | [Balance](https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Balance](https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz) | 2:56 |
-| 23 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
-| 24 | [Lúc Thấy Lúc Không](https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:53 |
-| 25 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 |
+| 23 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 |
+| 24 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
+| 25 | [Lúc Thấy Lúc Không](https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:53 |
 | 26 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 | 27 | [so far it just sucked](https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [so far it just sucked](https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT) | 2:00 |
 | 28 | [The Brown Snake](https://open.spotify.com/track/1n9rCSKrSfoytMF2AkC1CU) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 3:15 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 30 | [Spinning World](https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:00 |
 | 31 | [Ocean Blue](https://open.spotify.com/track/6ydTM3R9A7uqGJkwkKTMp5) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Ocean Blue](https://open.spotify.com/album/5ttNbjh8ZcFwRz5Sn7V4vv) | 3:22 |
 | 32 | [Au Revoir](https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Au Revoir](https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd) | 4:01 |
-| 33 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 |
-| 34 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
-| 35 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
+| 33 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
+| 34 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 |
+| 35 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
 | 36 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 |
 | 37 | [Bona](https://open.spotify.com/track/2kxIQnvSzTNOY2DqoCToPY) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Bona](https://open.spotify.com/album/7vBVtTDJriFe69dlvxl6MY) | 2:40 |
 | 38 | [HIGH RISK HIGH RETURN \(Feat\. Polodared\)](https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:09 |
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 63 | [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 |
 | 64 | [I Say Too Much](https://open.spotify.com/track/3J2loLgNiCIxkGLlcv3RRM) | [Jaime Wong](https://open.spotify.com/artist/6SzwY0WC15s1MJh3BO9xtz) | [I Say Too Much](https://open.spotify.com/album/1P09nNc98o5NKtwcx61XRK) | 2:40 |
 | 65 | [Janjiku](https://open.spotify.com/track/1NNBPTYrhlJpdTkwCCKQyo) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Janjiku](https://open.spotify.com/album/4DCtgYL14od0FaSwsUFc22) | 3:20 |
-| 66 | [Sigurado](https://open.spotify.com/track/5szDp0NMCiXUChV3xmKXRl) | [Aly Remulla](https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP) | [Sigurado](https://open.spotify.com/album/6DViOYi7TZQISY0rvMgqc1) | 5:44 |
-| 67 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 |
-| 68 | [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 |
+| 66 | [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 |
+| 67 | [Sigurado](https://open.spotify.com/track/5szDp0NMCiXUChV3xmKXRl) | [Aly Remulla](https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP) | [Sigurado](https://open.spotify.com/album/6DViOYi7TZQISY0rvMgqc1) | 5:44 |
+| 68 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 |
 | 69 | [Verím](https://open.spotify.com/track/4wVBzqaWU4apXIpQPtV761) | [Katarina Knechtova](https://open.spotify.com/artist/0z3P3pZfNH9PP0pMwVkSwh) | [Verím](https://open.spotify.com/album/0SZQhC66vnT1mI56oQDatX) | 3:18 |
 | 70 | [Expectativa vs realidad](https://open.spotify.com/track/4odfKlMgwZwSlGgHga77Y2) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [Expectativa vs realidad](https://open.spotify.com/album/5KshOa8wykpPaaYaS8NRn8) | 2:55 |
 | 71 | [Wicked](https://open.spotify.com/track/0kcPy2Y7EjCuVtcyfdMVCx) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [The Jeremiah Project](https://open.spotify.com/artist/0dqDdOL1AXyEXy70M2QAcm), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Krishna Kishor](https://open.spotify.com/artist/3prbdBU7w1NADsMOoSK3xZ), [Naveen Napier](https://open.spotify.com/artist/6cb5MRs9wImoyoZjnQ8vb1), [David Joseph](https://open.spotify.com/artist/4DtuDzNNMh0AyrL2tlIwJa) | [Flavors](https://open.spotify.com/album/05aUOvpdNReQlFybLgVLNe) | 3:05 |
 | 72 | [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 |
 | 73 | [Nadaniyaan](https://open.spotify.com/track/6lyoXxSkEkqVAApqqYhHVE) | [Alycia Dias](https://open.spotify.com/artist/69EG46nu7SNft0lDeI46Z1) | [Nadaniyaan](https://open.spotify.com/album/1dOoMiPROm3Ux9zNReDJ3o) | 3:25 |
 
-Snapshot ID: `MTY2MzA1NzI3NSwwMDAwMDAwMGUyNGUyOGEwMjIxYWE1MGMwMDIxMWY1MGY2MDMxNzY5`
+Snapshot ID: `MTY2MzA1NzI3NSwwMDAwMDAwMDc3NmUxN2Q4ZTUzM2I4Zjk1MGRjZmIwNzdiZTE5ODg1`

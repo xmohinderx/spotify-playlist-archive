@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Lorna Shore",
-  "num_followers": 853744,
+  "num_followers": 853811,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDEwNjk5NmMyY2JkNzIxOWI3NjQxN2I3YTAxOTFlNjZl",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDIwNThjZWMwM2I4OGFjMzUzMTkwN2JkODYzNjc5MzM4",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Reaper",
-        "url": "https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051"
+        "name": "Cross My Heart",
+        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
       },
       "artists": [
         {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+          "name": "Eyes Wide Open",
+          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Reaper",
-      "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
+      "duration_ms": 198000,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Cross My Heart",
-        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
+        "name": "Reaper",
+        "url": "https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051"
       },
       "artists": [
         {
-          "name": "Eyes Wide Open",
-          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
+      "duration_ms": 199500,
+      "name": "Reaper",
+      "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "A Form of Protest",
+        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "duration_ms": 189405,
+      "name": "A Form of Protest",
+      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Heretic",
         "url": "https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 202418,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/6O6U83grucuxSktER0IbrM"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "A Form of Protest",
-        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
-      },
-      "artists": [
-        {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
-        }
-      ],
-      "duration_ms": 189405,
-      "name": "A Form of Protest",
-      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Your Love I'll Never Need",
+        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "duration_ms": 200843,
+      "name": "Your Love I'll Never Need",
+      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Dedication To Flesh",
         "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
       },
@@ -747,18 +763,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Your Love I'll Never Need",
-        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
+        "name": "What Is War",
+        "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
       },
       "artists": [
         {
-          "name": "Ocean Sleeper",
-          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        },
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
         }
       ],
-      "duration_ms": 200843,
-      "name": "Your Love I'll Never Need",
-      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
+      "duration_ms": 239975,
+      "name": "What Is War",
+      "url": "https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -783,26 +803,6 @@
       "duration_ms": 152000,
       "name": "Quicksand (feat. Michael Swank)",
       "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "What Is War",
-        "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
-      },
-      "artists": [
-        {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
-        },
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 239975,
-      "name": "What Is War",
-      "url": "https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 209564,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Forsaken",
         "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 183069,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "UFO Party",
-        "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
-      },
-      "artists": [
-        {
-          "name": "Young Medicine",
-          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "UFO Party",
-      "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Be Someone",
         "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 200000,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "UFO Party",
+        "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
+      },
+      "artists": [
+        {
+          "name": "Young Medicine",
+          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
+        }
+      ],
+      "duration_ms": 242769,
+      "name": "UFO Party",
+      "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Play Time",
-        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
-      },
-      "artists": [
-        {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
-        }
-      ],
-      "duration_ms": 216917,
-      "name": "Play Time",
-      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 191000,
       "name": "My World",
       "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Play Time",
+        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+      },
+      "artists": [
+        {
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        }
+      ],
+      "duration_ms": 216917,
+      "name": "Play Time",
+      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
     },
     {
       "added_at": "2022-09-30 04:00:00",

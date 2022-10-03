@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,463 likes - 40 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,462 likes - 40 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 7 | [\~](https://open.spotify.com/track/5jVJxCRKn3ofBQpwL0tdo0) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:29 |
 | 8 | [Harbor](https://open.spotify.com/track/1eZVWlibiTTrKiZJyZGvTn) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:04 |
 | 9 | [Rapture](https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:11 |
-| 10 | [Feign](https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:48 |
+| 10 | [Lament](https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:20 |
 | 11 | [Method Act](https://open.spotify.com/track/4dnRxoWjd0xHcqxpt6UZsL) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:53 |
 | 12 | [History Reshits Itself](https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:32 |
 | 13 | [New Halloween](https://open.spotify.com/track/02YbvgsXapCh9MLTrU11Ts) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:27 |
-| 14 | [Lament](https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:20 |
+| 14 | [Feign](https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:48 |
 | 15 | [The Great Repetition](https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:48 |
 | 16 | [Hard to Explain](https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Covers Vol\. 1](https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq) | 3:30 |
 | 17 | [Palm Dreams](https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 2:26 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 39 | [DNA](https://open.spotify.com/track/5OHvfgN01RehNXl84nT9Pa) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:08 |
 | 40 | [Game of Pricks](https://open.spotify.com/track/38273IlTEes0F91y4R2PZE) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Barry Johnson](https://open.spotify.com/artist/3KkCw5JlMYT7NTmqbdGVdd) | [Covers Vol\. 1](https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq) | 2:20 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA4Y2QzZDk5ZmI5MDRlMGRhYjhlZTAyMjQwZjE2ZWYxZQ==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDBlM2Y0NmQwNGYxZGE3YTVjNjY2NTMzYzI0MmE2MmMxYg==`

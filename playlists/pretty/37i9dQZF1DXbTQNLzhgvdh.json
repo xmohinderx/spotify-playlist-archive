@@ -1,12 +1,12 @@
 {
   "description": "el amor es pico tres <3 ",
-  "num_followers": 37892,
+  "num_followers": 37997,
   "original_name": "amor = <3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyOTE3MiwwMDAwMDAwMDMxYjBkZDlmZDMzODkyZDBmZjc4MmNlMjFmZjBjNTgz",
+  "snapshot_id": "MTY2NDIyOTE3MiwwMDAwMDAwMGM3YzhlMWJlM2Q4MDRlNGU1OGQ0OGI0OGMzMjNlOWJj",
   "tracks": [
     {
       "added_at": "2022-09-26 21:52:51",
@@ -347,30 +347,6 @@
     {
       "added_at": "2022-09-05 18:13:22",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 267796,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq"
-    },
-    {
-      "added_at": "2022-09-05 18:13:22",
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
       },
@@ -391,22 +367,26 @@
     {
       "added_at": "2022-09-05 18:13:22",
       "album": {
-        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 199994,
-      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
+      "duration_ms": 267796,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq"
     },
     {
       "added_at": "2022-09-05 18:13:22",
@@ -439,6 +419,26 @@
       "duration_ms": 239497,
       "name": "Ojitos de Miel",
       "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+    },
+    {
+      "added_at": "2022-09-05 18:13:22",
+      "album": {
+        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 199994,
+      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
     },
     {
       "added_at": "2022-09-05 18:13:22",
@@ -509,6 +509,58 @@
       "url": "https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i"
     },
     {
+      "added_at": "2022-09-26 21:52:51",
+      "album": {
+        "name": "Oficialmente en Solter\u00eda",
+        "url": "https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122242,
+      "name": "Oficialmente en Solter\u00eda",
+      "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"
+    },
+    {
+      "added_at": "2022-09-05 18:13:22",
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 155125,
+      "name": "Cuando T\u00fa Me Miras",
+      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
+    },
+    {
+      "added_at": "2022-09-26 21:52:51",
+      "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
+    },
+    {
       "added_at": "2022-09-05 18:13:22",
       "album": {
         "name": "Plut\u00f3n",
@@ -531,34 +583,18 @@
     {
       "added_at": "2022-09-05 18:13:22",
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "El Mundo a Tus Pies",
+        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 155125,
-      "name": "Cuando T\u00fa Me Miras",
-      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
-    },
-    {
-      "added_at": "2022-09-26 21:52:51",
-      "album": {
-        "name": "Oficialmente en Solter\u00eda",
-        "url": "https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122242,
-      "name": "Oficialmente en Solter\u00eda",
-      "url": "https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko"
+      "duration_ms": 176226,
+      "name": "El Mundo a Tus Pies",
+      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
     },
     {
       "added_at": "2022-09-05 18:13:22",
@@ -583,22 +619,6 @@
     {
       "added_at": "2022-09-05 18:13:22",
       "album": {
-        "name": "El Mundo a Tus Pies",
-        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "El Mundo a Tus Pies",
-      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
-    },
-    {
-      "added_at": "2022-09-05 18:13:22",
-      "album": {
         "name": "como me encanta",
         "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
-    },
-    {
-      "added_at": "2022-09-26 21:52:51",
-      "album": {
-        "name": "La Siguiente",
-        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 202176,
-      "name": "La Siguiente",
-      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
     },
     {
       "added_at": "2022-09-05 18:13:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-09-05 18:13:22",
       "album": {
-        "name": "Tragos y Cigarros",
-        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Piel de Seda",
-      "url": "https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La"
-    },
-    {
-      "added_at": "2022-09-05 18:13:22",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 221407,
       "name": "Ella",
       "url": "https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp"
+    },
+    {
+      "added_at": "2022-09-05 18:13:22",
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Piel de Seda",
+      "url": "https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La"
     },
     {
       "added_at": "2022-09-05 18:13:22",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-05 18:13:22",
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Ser\u00eda Un Placer",
-      "url": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
-    },
-    {
-      "added_at": "2022-09-05 18:13:22",
-      "album": {
         "name": "Somos Instantes",
         "url": "https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 193413,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
+    },
+    {
+      "added_at": "2022-09-05 18:13:22",
+      "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Ser\u00eda Un Placer",
+      "url": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
     },
     {
       "added_at": "2022-09-05 18:13:22",
@@ -1077,6 +1077,30 @@
       "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
     },
     {
+      "added_at": "2022-09-26 21:52:51",
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
+    },
+    {
       "added_at": "2022-09-05 18:13:22",
       "album": {
         "name": "Las Dos Caras Del Amor",
@@ -1107,30 +1131,6 @@
       "duration_ms": 173663,
       "name": "Me Estoy Enamorando - en Vivo",
       "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
-    },
-    {
-      "added_at": "2022-09-26 21:52:51",
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": "2022-09-05 18:13:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-05 18:13:22",
       "album": {
-        "name": "Junto A T\u00ed",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A T\u00ed",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2022-09-05 18:13:22",
-      "album": {
         "name": "Empapelado",
         "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
       },
@@ -1259,6 +1243,38 @@
       "duration_ms": 221500,
       "name": "Empapelado",
       "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
+    },
+    {
+      "added_at": "2022-09-05 18:13:22",
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 256360,
+      "name": "Sue\u00f1a",
+      "url": "https://open.spotify.com/track/4yGH1izgbWxMYIEu8EVH9x"
+    },
+    {
+      "added_at": "2022-09-05 18:13:22",
+      "album": {
+        "name": "Junto A T\u00ed",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A T\u00ed",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
       "added_at": "2022-09-05 18:13:22",
@@ -1283,22 +1299,6 @@
       "duration_ms": 274000,
       "name": "Maldito Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/05xcn7HwKbSOVSCtO8i3Vl"
-    },
-    {
-      "added_at": "2022-09-05 18:13:22",
-      "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "Sue\u00f1a",
-      "url": "https://open.spotify.com/track/4yGH1izgbWxMYIEu8EVH9x"
     },
     {
       "added_at": "2022-09-05 18:13:22",

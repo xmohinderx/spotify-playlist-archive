@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska con cuadritos blancos, negros, y tricolores\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,738 likes - 120 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,744 likes - 120 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 29 | [Ciegos de Amor](https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:53 |
 | 30 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
 | 31 | [Tres Patines](https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [Tres Patines](https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA) | 2:32 |
-| 32 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
-| 33 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
+| 32 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
+| 33 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
 | 34 | [Un Gran Circo](https://open.spotify.com/track/5BwVAAJzAuzpDHeWuKdFsN) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:10 |
 | 35 | [Labios Rojos](https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Salvador Moreno](https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:39 |
 | 36 | [Esta Noche](https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:26 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 119 | [Cómo Te Extraño](https://open.spotify.com/track/6nQE34XyP1UwtvaNoqBsyR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Cómo Te Extraño](https://open.spotify.com/album/1RSFqw2Te37UhUaXeUSxtm) | 4:39 |
 | 120 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
 
-Snapshot ID: `MTY2NDQxMDYxOCwwMDAwMDAwMDZmNTY3YTdhNzJlZGIwMTY3OTZjMTJjNGQ4MmY3ZDdk`
+Snapshot ID: `MTY2NDQxMDYxOCwwMDAwMDAwMDA1OWY5ZTc2NzZhODhiZjUxMzljYzA1ZjZmMGYwZmYx`

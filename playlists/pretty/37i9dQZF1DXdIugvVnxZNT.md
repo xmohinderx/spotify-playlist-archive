@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 
 > Haz que tu corazón lata más alto con los beats de estos temas de amor EDM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,517 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,526 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 | 24 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |
 | 25 | [I Need Your Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:54 |
 | 26 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 |
-| 27 | [Never Love You Again \(with Little Big Town & Bryn Christopher\)](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again \(with Little Big Town & Bryn Christopher\)](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 |
-| 28 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 |
+| 27 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 |
+| 28 | [Never Love You Again \(with Little Big Town & Bryn Christopher\)](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again \(with Little Big Town & Bryn Christopher\)](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 |
 | 29 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
 | 30 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
 | 31 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 | 59 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
 | 60 | [Never Felt A Love Like This \(with Hook N Sling\) \[feat\. Dotan\]](https://open.spotify.com/track/1mMvahhW2Oz9waG8UTQnI4) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Church](https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU) | 3:35 |
 
-Snapshot ID: `MTY2MzcwNDY1MiwwMDAwMDAwMDQxMTE1MjUyZGZmYWZjYTQ3YjVhOTcyZjU3YzdiNDI1`
+Snapshot ID: `MTY2MzcwNDY1MiwwMDAwMDAwMDE0ZDUwZTA1OThkMTQ2YWJjYWNmNTEzNmVmNWU2YmY5`

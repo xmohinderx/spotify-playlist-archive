@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,220 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,257 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 31 | [Dust Bowl](https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:33 |
 | 32 | [Let The Good Times Roll \- Live](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 |
 | 33 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 |
-| 34 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 |
-| 35 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
+| 34 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
+| 35 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 |
 | 36 | [Different Shades of Blue](https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 4:39 |
 | 37 | [Evil Mama](https://open.spotify.com/track/2UCiflrlPIgcCKj3vVP0VF) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:29 |
 | 38 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 |
 | 39 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 |
 | 40 | [The Heart That Never Waits](https://open.spotify.com/track/4sb2JUFkGwT9jfzM7lcQBI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 5:51 |
-| 41 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 |
-| 42 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 |
+| 41 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 |
+| 42 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 |
 | 43 | [Nutbush City Limits](https://open.spotify.com/track/07nZ2XeSabtqpx9Gy67xac) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Seesaw](https://open.spotify.com/album/4YeG1gnArhUBfqGyuJe2vT) | 3:36 |
 | 44 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 | 45 | [We're All In This Together](https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [We're All In This Together](https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw) | 7:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 49 | [Slow Train](https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 6:49 |
 | 50 | [Redemption](https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:57 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA2MDQ1MDU1OTU0NTBiZDVjZTVhOGNiNDJiNDcwNTFjNw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAzNTFmMTA5MWU1NDhlNjJhMWQ0ZjUzMzc0MmVmYjNkNg==`

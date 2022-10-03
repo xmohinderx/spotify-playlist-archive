@@ -4,7 +4,7 @@
 
 > Meet the lineup of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업을 만나보세요!\)
 
-100 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
+110 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,11 +18,14 @@
 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-08-12 |  |
 | [Akarui Mirai](https://open.spotify.com/track/0Sigob3quryvB4L59nga0j) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [fam fam](https://open.spotify.com/album/1SBCieSwAZCs2d2ryUXlmQ) | 3:53 | 2022-09-06 |  |
 | [an untrustworthy promise](https://open.spotify.com/track/4lSpqM6GXznSMMYzJ1nKZa) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 4:55 | 2022-08-25 |  |
+| [Beautiful days](https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Beautiful days](https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd) | 3:40 | 2022-10-02 |  |
 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/1Bzyh2PDRbIR1Q1A8u3U9b) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 3:23 | 2022-08-25 |  |
 | [Blue spring](https://open.spotify.com/track/2C39KrMvf6G2EMIx7uC7ub) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [JANNABI's Small Pieces l](https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk) | 3:58 | 2022-08-12 |  |
 | [Blue Spring](https://open.spotify.com/track/4644JaCBBX7EpiZY1XXJaW) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Strange Weather](https://open.spotify.com/album/6h8CGwYbH7wW4XfcwKNzNe) | 4:53 | 2022-08-25 |  |
+| [Burger](https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ) | 4:06 | 2022-10-02 |  |
 | [Clementine](https://open.spotify.com/track/0XrOG2I7stfgSx8CPzsTPL) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 2:23 | 2022-09-06 |  |
 | [COBALT](https://open.spotify.com/track/28ZZvL8qrT4kSCb6imjaUa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 4:32 | 2022-08-25 |  |
+| [Continent of Mu](https://open.spotify.com/track/4v2IhNJLpJ3DPVbTZoEO77) | [Oah!](https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3) | [PANORAMA](https://open.spotify.com/album/1kVaKFcXxNM6LPkJlDVGCE) | 3:26 | 2022-10-02 |  |
 | [Dancing in the rain](https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 3:43 | 2022-08-25 |  |
 | [Day 1 ◑](https://open.spotify.com/track/6ZzYETKetIfNUsZUb23jgG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Love Me / Love Me Not](https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV) | 3:53 | 2022-08-12 |  |
 | [delicate creature](https://open.spotify.com/track/7BAk4jJtHKJuo4H05dKSM1) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/4zFX31lbWmdubEgtIOEb8K) | 4:32 | 2022-09-06 |  |
@@ -30,6 +33,7 @@
 | [DIFFERENT](https://open.spotify.com/track/5Y7a8iWIawp1QTbevGeH1V) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [DIFFERENT](https://open.spotify.com/album/56S7zetVLAz7xC5GrmOld3) | 3:42 | 2022-08-25 |  |
 | [Dive Baby, Dive](https://open.spotify.com/track/36AbmT9YujrUsNvHpqRNgI) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dive Baby, Dive](https://open.spotify.com/album/32kZ9wnIIZuwOqK4CV39nO) | 3:23 | 2022-08-12 |  |
 | [Don't Stop](https://open.spotify.com/track/2SMfatKkQhQiEJhuka4L3N) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 3:59 | 2022-08-12 |  |
+| [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-10-02 |  |
 | [Far away](https://open.spotify.com/track/7CnILy2C8eB74SLa4NkVY7) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:22 | 2022-08-25 |  |
 | [flower's gaze](https://open.spotify.com/track/1IxApabQY9g6Ivg1og5vsP) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [one's youth](https://open.spotify.com/album/2xauBFfVTnRXMNGSR8kvZI) | 3:59 | 2022-09-06 |  |
 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2022-08-25 |  |
@@ -47,6 +51,7 @@
 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2022-08-25 |  |
 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 | 2022-08-25 |  |
 | [Ice Cream](https://open.spotify.com/track/5ltjohuiVnUZragBIIkWGV) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [Ice Cream](https://open.spotify.com/album/1ENCa2OXJkr562zKFWWO4A) | 5:37 | 2022-08-12 |  |
+| [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 |  |
 | [Islet](https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Islet](https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB) | 3:01 | 2022-09-06 |  |
 | [Jungle the Black](https://open.spotify.com/track/4F4arrk8iGRPBE76XCf4PL) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Noise on Fire \(Remastered\)](https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ) | 2:39 | 2022-08-12 |  |
 | [Let me go!](https://open.spotify.com/track/0yZ5nThTk7dZfgrhlQbxtT) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) | 3:33 | 2022-08-25 |  |
@@ -62,6 +67,7 @@
 | [Nam Khang](https://open.spotify.com/track/4ZzSW7CyhdAqrIFRdQ2Lee) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep Looking at the Window](https://open.spotify.com/album/4ujNlhHT0WFcfN2wrprJds) | 6:57 | 2022-08-25 |  |
 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 | 2022-08-12 |  |
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-08-25 |  |
+| [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 | 2022-10-02 |  |
 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 | 2022-09-13 |  |
 | [Ocean of Light](https://open.spotify.com/track/3OMAINkoHuBJcLu7R39Q6P) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Escaping Gravity](https://open.spotify.com/album/0jnaBGk3e6LxiFjh2Sa1rO) | 4:58 | 2022-08-25 |  |
 | [Oh Brave Morning Sun](https://open.spotify.com/track/0s2aODxs1y7dRsMsP5egtb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:15 | 2022-08-12 |  |
@@ -82,6 +88,7 @@
 | [Stay](https://open.spotify.com/track/0FKCn2juc9oNNAwrdFaanq) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 3:39 | 2022-08-25 |  |
 | [Summer](https://open.spotify.com/track/3aeZV1y0ck9CMIUIdeOjBj) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) | 4:11 | 2022-08-25 |  |
 | [Summer For You](https://open.spotify.com/track/1i2mGWu5fJCUEW6yFHYokf) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Summer For You](https://open.spotify.com/album/2CsvQpN3f318sh8IFTD2Jh) | 4:03 | 2022-09-06 |  |
+| [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 | 2022-10-02 |  |
 | [Tell me](https://open.spotify.com/track/2kuxMt9uBIJ63li6NQWhlU) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 2:43 | 2022-08-12 |  |
 | [The End of the Ocean](https://open.spotify.com/track/1SmuDqAn0DIjmdtUhICTRv) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Moondance](https://open.spotify.com/album/7F6xABbnn5TXMJQfxYAnuL) | 3:07 | 2022-09-06 |  |
 | [The Taste of Pomegranate](https://open.spotify.com/track/3t9vPkoROil4XsRCGxZ4vc) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Capital Disease](https://open.spotify.com/album/0glXbKYknQlnd2FnxsxWez) | 8:11 | 2022-08-25 |  |
@@ -93,7 +100,9 @@
 | [Warm on a Cold Night](https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:21 | 2022-08-12 |  |
 | [WE!](https://open.spotify.com/track/4VOAR502GxH90sLsqKWS9N) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [one's youth](https://open.spotify.com/album/2xauBFfVTnRXMNGSR8kvZI) | 2:54 | 2022-09-06 |  |
 | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw) | 3:12 | 2022-08-12 |  |
+| [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 | 2022-10-02 |  |
 | [Without You](https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:44 | 2022-08-25 |  |
+| [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 | 2022-10-02 |  |
 | [you\\me\\everyone](https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 3:39 | 2022-09-06 |  |
 | [ตน](https://open.spotify.com/track/3eLME8AQLetptw2Hj0JRE2) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [i n d e l i b l e s t a i n](https://open.spotify.com/album/3yXg6ng7tgKzPnlxsPYBTG) | 3:25 | 2022-08-25 |  |
 | [명동콜링 Myeong\-dong Calling](https://open.spotify.com/track/0AcSCfVYcXgNgcrZdyZXOh) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 3:48 | 2022-08-25 |  |
@@ -105,6 +114,7 @@
 | [골든 글러브](https://open.spotify.com/track/5HILgeHAObGjPKeCX4tY5s) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Just pop](https://open.spotify.com/album/0FF3bgrrpGh8PE4EAnwtxG) | 3:21 | 2022-08-25 |  |
 | [공항 가는 길](https://open.spotify.com/track/59a8bElU9C0U0ZAewaCurc) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Just pop](https://open.spotify.com/album/0FF3bgrrpGh8PE4EAnwtxG) | 3:59 | 2022-08-25 |  |
 | [사랑할수록](https://open.spotify.com/track/5R7CMPvfSM0RdBYTFuKlDt) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [기억상실](https://open.spotify.com/album/6fQp1ErGeFDBpDXJjkWgsF) | 4:39 | 2022-08-25 |  |
+| [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 | 2022-10-02 |  |
 | [세상이 멈췄다](https://open.spotify.com/track/4uIMRGoLwO8U7GqVyGAVGF) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [세상이 멈췄다](https://open.spotify.com/album/1hxgamJJM9oQqoYbX6VDm3) | 3:51 | 2022-09-06 |  |
 | [푸른 양철 스쿠터](https://open.spotify.com/track/7239i16Nl443yMpjXa6TFk) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Circle](https://open.spotify.com/album/2pzBzC03HzbNnjKNFrdb87) | 3:16 | 2022-08-25 |  |
 | [희야](https://open.spotify.com/track/2eZNE9o1YGOswDH82Eh3Vv) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:22 | 2022-08-25 |  |

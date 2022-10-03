@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVztgMIUG66M.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf?si=7GfavyvfTIKTXvIxKrVFyw">Kawahi Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVztgMIUG66M.md) - [plain]
 | 15 | [Heart On Ice](https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:39 |
 | 16 | [Tyler Herro](https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe) | 2:36 |
 | 17 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 |
-| 18 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 |
-| 19 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
+| 18 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
+| 19 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 |
 | 20 | [Hurricane](https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hurricane](https://open.spotify.com/album/4YV1qBdn6O6thyg18kBo0N) | 3:58 |
 | 21 | [100 Racks \(Offset feat\. Playboi Carti\)](https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:37 |
 | 22 | [Racks in the Middle \(feat\. Roddy Ricch and Hit\-Boy\)](https://open.spotify.com/track/6ya8ejoKgw906Y8LWclqrp) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Racks in the Middle \(feat\. Roddy Ricch and Hit\-Boy\)](https://open.spotify.com/album/6a2c06GAsKigzV53VyzBXk) | 3:53 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVztgMIUG66M.md) - [plain]
 | 47 | [Bestie](https://open.spotify.com/track/4RJ2tHMoFQbUus12u1hB5l) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Bestie](https://open.spotify.com/album/2wNYpDzwgeSbxSc8dVXcev) | 2:33 |
 | 48 | [Thankful](https://open.spotify.com/track/1MnzfrEHFh4Aj9uc85Rbuc) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Kawhi Leonard Presents: Culture Jam \(Vol\. 1\)](https://open.spotify.com/album/5QkoMINx6wyDn80AIOnErN) | 3:14 |
 
-Snapshot ID: `MTY2NDY1ODQwOCwwMDAwMDAwMDE3MjM2NmI5YjRjZTM2MmNiNzQwYjQyZTg3M2YwNTc0`
+Snapshot ID: `MTY2NDY1ODQwOCwwMDAwMDAwMGI4ZTAwYzIyZjc1YjVjOGYyMWFlOWIxYmM3OTUwODlk`

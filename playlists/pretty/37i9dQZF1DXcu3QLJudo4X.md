@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,615 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,693 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 18 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
 | 19 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 20 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
-| 21 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
-| 22 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
+| 21 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
+| 22 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
 | 23 | [The Things \(That\) I Used to Do](https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:54 |
 | 24 | [Stormy Monday](https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 4:24 |
 | 25 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 49 | [Everyday I Have The Blues](https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 2:49 |
 | 50 | [Caldonia](https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:54 |
 
-Snapshot ID: `MTY2MzAwMDc1MCwwMDAwMDAwMDZkMWJjYWQyZjQzM2E5Yzk2NjU4OWMwYTlmNGRlMzFi`
+Snapshot ID: `MTY2MzAwMDc1MCwwMDAwMDAwMDc5MWFiODgzYTFiNzg5MGNkYzQ1ZGExZjIzOWQ4YWQz`

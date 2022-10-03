@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Ed Sheeran
 
-3,312 songs - 7 day 14 hr 19 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+3,314 songs - 7 day 14 hr 27 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,7 +995,8 @@
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-08 | 2022-09-16 |
 | [Forgive Me](https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Forgive Me](https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW) | 3:45 | 2022-03-03 | 2022-03-11 |
 | [Fortune](https://open.spotify.com/track/0QqO1HXOG0wPiCkorNQFzQ) | [Dekat](https://open.spotify.com/artist/2cfeDiShASddu7VxhoG3ce) | [Fortune](https://open.spotify.com/album/4KjbgtCa7PIvHmbbHBsCMu) | 3:13 | 2022-07-07 | 2022-07-15 |
-| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-29 |  |
+| [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-29 | 2022-10-03 |
 | [Found](https://open.spotify.com/track/6JTzLOggj77NHWhsSJLAaK) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [Found](https://open.spotify.com/album/5JoQkHKixYjBhsDF7qLR28) | 4:06 | 2022-07-28 | 2022-08-05 |
 | [Fragile](https://open.spotify.com/track/1s4bn1Oi01ujaWZKL4DaRq) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Fragile](https://open.spotify.com/album/7CsiXsvAVntWacovB9G4uL) | 4:01 | 2022-06-02 | 2022-06-10 |
 | [FRAUD](https://open.spotify.com/track/584KjOfo1Now26v5m3bTRm) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FRAUD](https://open.spotify.com/album/78jOuuH40B0rTPFGheCaDQ) | 3:00 | 2022-06-23 | 2022-07-01 |
@@ -2001,7 +2002,8 @@
 | [Nobody Knows \(Ladas Road\)](https://open.spotify.com/track/56Afib9o78iCsB7c5sNOXn) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Nobody Knows \(Ladas Road\)](https://open.spotify.com/album/1SyjEU0yFIlFpR5MBHo1Qv) | 3:07 | 2022-09-15 | 2022-09-23 |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [BORN GENE](https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z) | 3:00 | 2022-09-15 | 2022-09-23 |
 | [Noche de Novela \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6N7LquYjc3c53qr4PSJbi5) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Noche de Novela \(feat\. Ed Sheeran\)](https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9) | 3:11 | 2022-08-11 | 2022-08-19 |
-| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-29 |  |
+| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-29 | 2022-10-03 |
+| [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 | 2022-09-30 |  |
 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 | 2022-09-15 | 2022-09-23 |
 | [Nosedive \(feat\. noovv\)](https://open.spotify.com/track/3i0rAJfL3wdCrBB4axJ9kx) | [SERO](https://open.spotify.com/artist/1k8bimEiofocWUzKRmPHKt), [Noovv](https://open.spotify.com/artist/3ksWmDlBeF6Dnn3u36TUrT) | [Fairy Tale](https://open.spotify.com/album/4v6lhJdobrQR9hxYkqGE9Q) | 3:10 | 2022-01-20 | 2022-01-28 |
 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2021-12-30 | 2022-01-07 |

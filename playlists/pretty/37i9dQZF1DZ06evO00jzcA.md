@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,882 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,106 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 24 | [We Are One](https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 4:41 |
 | 25 | [Shandi](https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Unmasked](https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE) | 3:36 |
 | 26 | [I Still Love You](https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 6:06 |
-| 27 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 |
-| 28 | [Betrayed \- Outtake](https://open.spotify.com/track/6EVZPA4FZ8dygeaCNtPlaA) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Betrayed \(Outtake\)](https://open.spotify.com/album/1cliarCXzPu1Ha0zYIOaKq) | 4:38 |
-| 29 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
-| 30 | [Cold Gin](https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 4:22 |
-| 31 | [Rock 'N' Roll All Nite \- Live](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
+| 27 | [Betrayed \- Outtake](https://open.spotify.com/track/6EVZPA4FZ8dygeaCNtPlaA) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Betrayed \(Outtake\)](https://open.spotify.com/album/1cliarCXzPu1Ha0zYIOaKq) | 4:38 |
+| 28 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
+| 29 | [Cold Gin](https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 4:22 |
+| 30 | [Rock 'N' Roll All Nite \- Live](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
+| 31 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 |
 | 32 | [Tears Are Falling](https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 3:55 |
 | 33 | [Burn Bitch Burn](https://open.spotify.com/track/7lX9cNmBs138KdCnmry4MC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 4:42 |
 | 34 | [King Of The Night Time World](https://open.spotify.com/track/3gsoInre1B3i1PJUmhvDYH) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 3:19 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 43 | [See You Tonight \- Live](https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:29 |
 | 44 | [Love Theme From Kiss](https://open.spotify.com/track/3h65F8R0FKA70GRGdt1ftw) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 2:24 |
 | 45 | [Dirty Livin'](https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:27 |
-| 46 | [Modern Day Delilah](https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 3:36 |
-| 47 | [Reason To Live](https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:00 |
+| 46 | [Reason To Live](https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:00 |
+| 47 | [Modern Day Delilah](https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 3:36 |
 | 48 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 |
 | 49 | [Unholy](https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 3:42 |
 | 50 | [Hide Your Heart](https://open.spotify.com/track/47o525G86mLspoGnUCaMd9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 4:24 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBkMGRkM2Q3YTgxOTNhMzQ4ZTRjNWM1ZDI5N2NhYTBlMA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA2ZTQ0YTg5YmQ0ZmZhY2Q5ZDRmNDUwM2FjMzZhZmI0MA==`

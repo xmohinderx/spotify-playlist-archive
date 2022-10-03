@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Jeanne Added
 
-421 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+422 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,8 @@
 | [Téléphone](https://open.spotify.com/track/6h3JbNT0uEzk7G2pizrbQ7) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Téléphone](https://open.spotify.com/album/66mMPKe60pq0UqYCrtxmCN) | 2:50 | 2022-01-05 | 2022-02-02 |
 | [Une fenêtre ouverte](https://open.spotify.com/track/4od4PjXv3hr7HSdmU8KkWe) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Une fenêtre ouverte](https://open.spotify.com/album/43mdcdf7facc52LHVxAdap) | 3:34 | 2022-05-31 | 2022-07-06 |
 | [Une Tempête](https://open.spotify.com/track/0WaCGTemkdb1uNDEoo39Az) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une Tempête](https://open.spotify.com/album/4u8ptsviIbe84QCowfkGzQ) | 3:56 | 2022-05-31 | 2022-07-06 |
-| [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-09-06 |  |
+| [Unfold](https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 1:30 | 2022-09-06 |  |
+| [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-09-06 | 2022-10-03 |
 | [Va là\-bas](https://open.spotify.com/track/41183c9KH7KYJf0W1kea7X) | [Marghe](https://open.spotify.com/artist/0fmiJKQkjcX69wVNArGZtk) | [Alefa](https://open.spotify.com/album/2pv13oXcXyWdCH01SywgU3) | 3:18 | 2022-09-06 |  |
 | [Va\-t'en](https://open.spotify.com/track/19OS2acFV7qpcjPKMlktdf) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Va\-t'en](https://open.spotify.com/album/6iKVpux4lTXgtyGKgpl09f) | 2:50 | 2022-01-05 | 2022-02-02 |
 | [Vallée de Siddim](https://open.spotify.com/track/2kn06tH2KFbqUNQJL5gulk) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw) | [Podium numéro un \(Une compilation Finalistes et La Souterraine\)](https://open.spotify.com/album/6QVjvOFL2Dp67aC6FPmJ0n) | 4:21 | 2022-01-05 | 2022-02-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 131243,
+  "num_followers": 131394,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYyNTk3MywwMDAwMDAwMDQ1YmU2NjAzZGMyNTI3NzE2ZWNmODFlYzI5YWFmM2U2",
+  "snapshot_id": "MTY2MzYyNTk3MywwMDAwMDAwMGE1MTJkZThkZGNiZDNhZjNkZTM2ZjViMGZhNmFiNjhj",
   "tracks": [
     {
       "added_at": "2022-09-12 19:19:10",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
     },
     {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
       "added_at": "2022-09-12 19:19:10",
       "album": {
         "name": "Si Fuera F\u00e1cil",
@@ -79,22 +95,6 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
     },
     {
       "added_at": "2022-09-12 19:19:10",
@@ -469,26 +469,6 @@
       "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 177791,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
       "added_at": "2022-09-12 19:19:10",
       "album": {
         "name": "Me Extra\u00f1o",
@@ -507,6 +487,26 @@
       "duration_ms": 191880,
       "name": "Me Extra\u00f1o",
       "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 177791,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -741,38 +741,6 @@
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "La bikina - En vivo",
-      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
-    },
-    {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
-        "name": "Joan Sebastian Con Mariachi",
-        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 211255,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
-    },
-    {
       "added_at": "2022-09-12 19:19:10",
       "album": {
         "name": "T\u00fa (En Vivo)",
@@ -795,6 +763,38 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
+        "name": "Joan Sebastian Con Mariachi",
+        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 211255,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "La bikina - En vivo",
+      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
-    },
-    {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -847,6 +827,26 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2022-09-12 19:19:10",
@@ -1049,26 +1049,6 @@
       "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
     },
     {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
-        "name": "M\u00e1s Muerto Que Vivo",
-        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 213221,
-      "name": "M\u00e1s Muerto Que Vivo",
-      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
-    },
-    {
       "added_at": "2022-09-12 19:19:10",
       "album": {
         "name": "Bonita",
@@ -1099,6 +1079,26 @@
       "duration_ms": 187986,
       "name": "Si Te Falta Alguien",
       "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "M\u00e1s Muerto Que Vivo",
+        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 213221,
+      "name": "M\u00e1s Muerto Que Vivo",
+      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-08-31 19:13:11",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
-    },
-    {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2022-09-12 19:19:10",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
     },
     {
-      "added_at": "2022-08-31 19:13:11",
-      "album": {
-        "name": "Se Manda Sola",
-        "url": "https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 154640,
-      "name": "Se Manda Sola",
-      "url": "https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo"
-    },
-    {
       "added_at": "2022-09-12 19:19:10",
       "album": {
         "name": "Bandido de Amores",
@@ -1427,6 +1411,22 @@
       "duration_ms": 182559,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
+    },
+    {
+      "added_at": "2022-08-31 19:13:11",
+      "album": {
+        "name": "Se Manda Sola",
+        "url": "https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 154640,
+      "name": "Se Manda Sola",
+      "url": "https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo"
     },
     {
       "added_at": "2022-08-31 19:13:11",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
     },
     {
+      "added_at": "2022-09-12 19:19:10",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+    },
+    {
       "added_at": "2022-08-31 19:13:11",
       "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
@@ -1587,22 +1603,6 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
-    },
-    {
-      "added_at": "2022-09-12 19:19:10",
-      "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2022-08-31 19:13:11",

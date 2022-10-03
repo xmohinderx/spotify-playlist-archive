@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,919 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,945 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 20 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 | 21 | [Never Not](https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:28 |
 | 22 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
-| 23 | [State Lines](https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:28 |
-| 24 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
+| 23 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
+| 24 | [State Lines](https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:28 |
 | 25 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
 | 26 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
 | 27 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 58 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 |
 | 59 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
 | 60 | [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 |
-| 61 | [Oh My God](https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:07 |
-| 62 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 |
+| 61 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 |
+| 62 | [Oh My God](https://open.spotify.com/track/44I5NYJ7CGEcaLOuG2zJsU) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:07 |
 | 63 | [About A Girl](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
 | 64 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 65 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
-| 66 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
-| 67 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 |
+| 66 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 |
+| 67 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
 | 68 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 |
 | 69 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 70 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 72 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 |
 | 73 | [Movement](https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:57 |
 | 74 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
-| 75 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 |
+| 75 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 |
 
-Snapshot ID: `MTYyOTM2NTIzOCwwMDAwMDAwMDRjM2Q4MGQ0MTliNWE5NzY2NzhkY2ZjZjZjZmNhOWRk`
+Snapshot ID: `MTYyOTM2NTIzOCwwMDAwMDAwMGM0NDIxMmE0YjUxNTliYmI5MmMzNzJhYzBmZGQ0ZTg4`

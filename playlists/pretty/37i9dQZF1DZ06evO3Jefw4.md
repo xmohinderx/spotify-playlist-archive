@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,113 likes - 48 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,363 likes - 48 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 47 | [Legendary Lovers](https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:44 |
 | 48 | [International Smile](https://open.spotify.com/track/5OzIe9IL95B23n4rN59JZ3) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:47 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA4MDkwMmVkZDY2MWEyMGY3YTBjMTNmYmVhMGQ1ZWNkMA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAzMDhhYWQzYmIzOTE1NzJjNWQ4ZWExNjllNzA4ZWM5OQ==`

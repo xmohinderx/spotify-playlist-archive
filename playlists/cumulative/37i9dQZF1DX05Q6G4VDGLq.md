@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-316 songs - 20 hr 9 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+319 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Déjà vu](https://open.spotify.com/track/4LJuCbx2qKSBOK3xpuZ2Pq) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Déjà vu](https://open.spotify.com/album/4gIfw2WilJEWpAZLoDqosk) | 3:48 | 2022-09-21 |  |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
 | [East Of The Sun](https://open.spotify.com/track/0OuZzvIHAKYit34s4NH7WH) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [East Of The Sun](https://open.spotify.com/album/6zbwpm4yJFfaNiuHQyc9Ld) | 3:09 | 2022-08-30 |  |
-| [Eastern Winds](https://open.spotify.com/track/063rhde3v6o8TldOoWisHA) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Eastern Winds](https://open.spotify.com/album/6yDcnlohTpmulcsJMJIY8g) | 3:05 | 2022-06-28 |  |
+| [Eastern Winds](https://open.spotify.com/track/063rhde3v6o8TldOoWisHA) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Eastern Winds](https://open.spotify.com/album/6yDcnlohTpmulcsJMJIY8g) | 3:05 | 2022-06-28 | 2022-10-03 |
 | [Easy Living](https://open.spotify.com/track/7o990iYFCMf3bCs8z5wGhs) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 4:43 | 2022-06-28 | 2022-10-02 |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-06-28 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-07 |  |
@@ -148,7 +148,7 @@
 | [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 | 2022-09-13 |  |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It's Your Smile](https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's Your Smile](https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL) | 2:55 | 2022-06-28 |  |
-| [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 | 2022-06-28 |  |
+| [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 | 2022-06-28 | 2022-10-03 |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-06-28 |  |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-06-28 |  |
 | [I´ll Never Smile Again](https://open.spotify.com/track/5vFqxBA36r8w1NKDUhpt07) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I´ll Never Smile Again](https://open.spotify.com/album/3ce31a140RpGp1inchw4Cx) | 4:05 | 2022-06-28 |  |
@@ -170,6 +170,7 @@
 | [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-30 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-06-28 |  |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-06-28 |  |
+| [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 |  |
 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 | 2022-06-28 |  |
 | [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 | 2022-06-28 |  |
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-06-28 |  |
@@ -197,6 +198,7 @@
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-30 |  |
 | [My First Choice](https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [My First Choice](https://open.spotify.com/album/23DX1smryDu58RH0nxWHJx) | 3:44 | 2022-08-30 |  |
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-06-28 |  |
+| [My Little Brown Book](https://open.spotify.com/track/2txEKqhpnuwmHS7a0YBYHE) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [My Little Brown Book](https://open.spotify.com/album/1anaHcKFfGvPfqhfaAEnmy) | 3:57 | 2022-09-29 |  |
 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 | 2022-06-28 |  |
 | [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2022-06-28 |  |
 | [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2022-06-28 |  |
@@ -205,6 +207,7 @@
 | [My Simple Thing](https://open.spotify.com/track/1GxMQS2PB67WbWEyUPo5Ig) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:01 | 2022-06-28 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6JqS6NY4vXjP9sTAwH8k6N) | [Alexander Martin Jazz Trio](https://open.spotify.com/artist/5OBtP3zDHNFdzP9cO0eHSm) | [Lil' Darlin'](https://open.spotify.com/album/6PYtdDNbiWRopTRvYUbjPh) | 4:18 | 2022-06-28 |  |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-06-28 |  |
+| [New Shoes](https://open.spotify.com/track/1CsB9h88MSlYaQGzDTX9Al) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:56 | 2022-09-29 |  |
 | [Next Door Dreaming](https://open.spotify.com/track/7efC0wMGzDX0nsZX1dQodO) | [Rob Kasaki](https://open.spotify.com/artist/41EpNGSsN3YUU0KhLhJ7Uh) | [Next Door Dreaming](https://open.spotify.com/album/27GlvAjgPmmgXpZUBiYWjS) | 2:18 | 2022-06-28 |  |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-06-28 |  |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-06-28 |  |
@@ -297,7 +300,7 @@
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-06-28 |  |
 | [Time Remembered](https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Time Remembered](https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw) | 3:04 | 2022-06-28 |  |
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-30 |  |
-| [To the Moon and Back](https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [To the Moon and Back](https://open.spotify.com/album/6kn3tGxawwwCILy9FvSjNQ) | 5:07 | 2022-06-28 |  |
+| [To the Moon and Back](https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [To the Moon and Back](https://open.spotify.com/album/6kn3tGxawwwCILy9FvSjNQ) | 5:07 | 2022-06-28 | 2022-10-03 |
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-30 |  |
 | [Tomorrow Is Here](https://open.spotify.com/track/1hTMVhmk468pih4N45bGAd) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Tomorrow Is Here](https://open.spotify.com/album/2Pvs4bsVvPE1fp6xRryR81) | 3:37 | 2022-09-07 |  |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-06-28 |  |

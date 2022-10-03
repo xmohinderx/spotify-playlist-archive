@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,436 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,561 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 18 | [I Need You Tonight \- 2008 Remaster](https://open.spotify.com/track/4s22XSQoOFvN5HrXk9YZ3I) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 6:18 |
 | 19 | [Hot, Blue and Righteous \- 2006 Remaster](https://open.spotify.com/track/0tH43q9uOXKh1shZCs53DP) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:17 |
 | 20 | [What's Up With That](https://open.spotify.com/track/1vZ3oSRyLRC4JOZ0S8j7G3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 5:21 |
-| 21 | [Mexican Blackbird \- 2005 Remaster](https://open.spotify.com/track/7rbm9b3fLOKCCBqNFVdkWV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 3:05 |
-| 22 | [Heard It On The X](https://open.spotify.com/track/2hVpNA46kjPlYHapuFJ2yS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \('That Little Ol' Band From Texas' Original Soundtrack\)](https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh) | 2:50 |
+| 21 | [Heard It On The X](https://open.spotify.com/track/2hVpNA46kjPlYHapuFJ2yS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \('That Little Ol' Band From Texas' Original Soundtrack\)](https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh) | 2:50 |
+| 22 | [Mexican Blackbird \- 2005 Remaster](https://open.spotify.com/track/7rbm9b3fLOKCCBqNFVdkWV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 3:05 |
 | 23 | [Over You](https://open.spotify.com/track/0df15uIXfk3GdUQYjQNJYe) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura](https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L) | 4:29 |
 | 24 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
 | 25 | [Doubleback](https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:56 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 40 | [Leila](https://open.spotify.com/track/7tnAAu1R09JUyjor6gwBrG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/3arG8ypefLVEmDBzFVCsyR) | 3:15 |
 | 41 | [Tube Snake Boogie](https://open.spotify.com/track/7fuEQbsUxgUpnvwuHl2S0Q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \('That Little Ol' Band From Texas' Original Soundtrack\)](https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh) | 3:06 |
 | 42 | [Dipping Low \(In the Lap of Luxury\)](https://open.spotify.com/track/4m4XQfjhxm5lV7AT38aeK1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:11 |
-| 43 | [Bar\-B\-Q](https://open.spotify.com/track/5ondtkwlkDYxPagDIm8JsK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:25 |
-| 44 | [Cheap Sunglasses](https://open.spotify.com/track/30jsPpxLvSCYTTTtdjRzBp) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 4:48 |
-| 45 | [Old Man](https://open.spotify.com/track/1WryOnXklb939nAXxY0Ix2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 |
-| 46 | [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 |
-| 47 | [Francine](https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:33 |
-| 48 | [Sleeping Bag](https://open.spotify.com/track/1ESuT2y9AKu1zMdxq47qW5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:02 |
-| 49 | [Just Got Back from Baby's](https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 4:10 |
-| 50 | [My Head's in Mississippi](https://open.spotify.com/track/57zvMcOgGJLQxZ2hsFgJ5S) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 4:21 |
+| 43 | [Cheap Sunglasses](https://open.spotify.com/track/30jsPpxLvSCYTTTtdjRzBp) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 4:48 |
+| 44 | [Bar\-B\-Q](https://open.spotify.com/track/5ondtkwlkDYxPagDIm8JsK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:25 |
+| 45 | [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 |
+| 46 | [Old Man](https://open.spotify.com/track/1WryOnXklb939nAXxY0Ix2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 |
+| 47 | [Sleeping Bag](https://open.spotify.com/track/1ESuT2y9AKu1zMdxq47qW5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:02 |
+| 48 | [Francine](https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:33 |
+| 49 | [My Head's in Mississippi](https://open.spotify.com/track/57zvMcOgGJLQxZ2hsFgJ5S) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 4:21 |
+| 50 | [Just Got Back from Baby's](https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 4:10 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDA2OWM0ZDQ5ODIzZjJkZDdiN2UzMTVlZmU3ODBmZTAyNw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA1ZDA2ZWI1NmYxMGRiNzUwODUwZTVjYzE1Njc1ZmM1Nw==`

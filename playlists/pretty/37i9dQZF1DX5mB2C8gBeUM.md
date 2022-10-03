@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,750 likes - 154 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,977 likes - 154 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 50 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 | 51 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 |
 | 52 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 |
-| 53 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 |
+| 53 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:37 |
 | 54 | [Drinkin' Drinks](https://open.spotify.com/track/7DjNEHu28F1cObsPQOUFDH) | [Urban Outlaws](https://open.spotify.com/artist/0OIe9J3WmpoAQsISHsj26F), [Kurt Stevens](https://open.spotify.com/artist/3hxWaqOFMEKfbdxs3O9Iwj) | [Drinkin' Drinks](https://open.spotify.com/album/0eMUBRcNkWpMUjqpNTOeQh) | 2:40 |
 | 55 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 |
 | 56 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM) | 2:47 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 153 | [Can't Hide Love](https://open.spotify.com/track/2U1drF0wHxIHWhkl4JN7js) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 2:29 |
 | 154 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 |
 
-Snapshot ID: `MTY2NDU5NDIxMSwwMDAwMDAwMDNkM2ZiYWZhYjMyNGE5OGFmYjk2MTJhNjEzNWVjNTcz`
+Snapshot ID: `MTY2NDU5NDIxMSwwMDAwMDAwMGJmNjg1NzRiNDM1NzIzZGM0MjYxMjk5M2Q3NDJhZmM4`

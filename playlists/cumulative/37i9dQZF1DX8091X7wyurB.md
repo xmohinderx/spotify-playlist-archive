@@ -4,14 +4,14 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-81 songs - 6 hr 40 min - not published yet
+82 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Able](https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Able](https://open.spotify.com/album/6KqJjlg8GqLgZwuME7CbR4) | 3:36 | 2022-06-30 |  |
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2022-06-30 |  |
 | [All That I Need](https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG) | [Manuel The Creator](https://open.spotify.com/artist/2T0gntIOQfKGq0t0xyMNkZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [All That I Need](https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O) | 3:03 | 2022-06-30 |  |
-| [April Celebrants Special \(Live\)](https://open.spotify.com/track/6s4JdeAKoimUzDkClTadeg) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [April Celebrants Special \(Live\)](https://open.spotify.com/album/1o1kgdW1Y4M1j64P4ZyvMu) | 4:57 | 2022-06-30 |  |
+| [April Celebrants Special \(Live\)](https://open.spotify.com/track/6s4JdeAKoimUzDkClTadeg) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [April Celebrants Special \(Live\)](https://open.spotify.com/album/1o1kgdW1Y4M1j64P4ZyvMu) | 4:57 | 2022-06-30 | 2022-10-03 |
 | [Ayeyi Ndwom \(feat\. Ohemaa Mercy\)](https://open.spotify.com/track/2lz93k1bxQVLnwxDfi6cVA) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:25 | 2022-06-30 |  |
 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 | 2022-08-25 |  |
 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 | 2022-06-30 |  |
@@ -32,6 +32,7 @@
 | [Grateful](https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Grateful](https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N) | 3:44 | 2022-06-30 |  |
 | [Great and Mighty God \(Live\)](https://open.spotify.com/track/5YWEXH09aiqtsN9HFmp8Et) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 3:51 | 2022-06-30 |  |
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2022-06-30 |  |
+| [Hallelujah](https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc) | [Celebrate Africa](https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hallelujah](https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i) | 3:44 | 2022-09-30 |  |
 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 | 2022-06-30 |  |
 | [His Own \(Leave Me Alone\)](https://open.spotify.com/track/6t3of7F7zx2SwmDgRD5meQ) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [His Own \(Leave Me Alone\)](https://open.spotify.com/album/2EJzFXvdGBLUaTrcILHbJw) | 2:51 | 2022-06-30 |  |
 | [Hold It All](https://open.spotify.com/track/0VgZalgsvnTj9aXCzUsJUf) | [Allan Scott](https://open.spotify.com/artist/5bTp94uRj4N6iSyVo4sigW) | [Hold It All](https://open.spotify.com/album/2Mz5cqlXvTe6abwAHqdaGq) | 3:01 | 2022-06-30 |  |

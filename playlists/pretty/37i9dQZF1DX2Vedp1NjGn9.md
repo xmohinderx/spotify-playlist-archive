@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,058 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,124 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 56 | [Love is a Laserquest](https://open.spotify.com/track/7wsEZh68qX7jY0dziXMb0H) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:11 |
 | 57 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 |
 | 58 | [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 |
-| 59 | [Codex](https://open.spotify.com/track/6ttYF5VadzTssGV2i1Q08T) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:47 |
+| 59 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 |
 | 60 | [Helplessness Blues](https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 5:03 |
-| 61 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 |
+| 61 | [Codex](https://open.spotify.com/track/6ttYF5VadzTssGV2i1Q08T) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:47 |
 | 62 | [Seven Devils](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 5:03 |
 | 63 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 |
 | 64 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 77 | [Future Starts Slow](https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 4:08 |
 | 78 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
 | 79 | [Night Air](https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Mirrorwriting](https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD) | 5:22 |
-| 80 | [Days](https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en) | 4:29 |
-| 81 | [TenTwentyTen](https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [ActorCaster](https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB) | 3:22 |
+| 80 | [TenTwentyTen](https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [ActorCaster](https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB) | 3:22 |
+| 81 | [Days](https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en) | 4:29 |
 | 82 | [Don't Sit Down 'Cause I've Moved Your Chair](https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:03 |
 | 83 | [You Know What I Mean](https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 2:30 |
 | 84 | [Candles](https://open.spotify.com/track/5Ur23WUXgTWGfJDWWYV7y3) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/6Xfyee6s7YFf3TtrO5kGBM) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 99 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 |
 | 100 | [Kaputt](https://open.spotify.com/track/6DrvUh7WxKy1lQxsHcxtN2) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4sVWj2lb9F8nRg57VFTaf1) | 6:17 |
 
-Snapshot ID: `MTY1MDkxNjQ0NCwwMDAwMDAwMDQxOTY0MGM5YTIwZDgxYjljZmEwYWJkNGJjZjdhMTAy`
+Snapshot ID: `MTY1MDkxNjQ0NCwwMDAwMDAwMGZkODY3NzhhNzhiNjkxMTliNGNhYTNlNGJiMWM5NjZk`

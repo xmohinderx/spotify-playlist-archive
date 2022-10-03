@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,373 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,395 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 21 | [This Is the Last Time](https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 6:28 |
 | 22 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
 | 23 | [So Sad the Song](https://open.spotify.com/track/3kWjPq2O2bK8RzfoYutWPv) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [BILL SCHNEE](https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 3:20 |
-| 24 | [The Love I Lost \(feat\. Teddy Pendergrass\) \- Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:33 |
+| 24 | [It Should've Been You](https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:04 |
 | 25 | [Through the Falling Rain \(Love Story\)](https://open.spotify.com/track/0iVUnf5EMHZRRsKUssVhE2) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 4:58 |
-| 26 | [It Should've Been You](https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:04 |
+| 26 | [The Love I Lost \(feat\. Teddy Pendergrass\) \- Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:33 |
 | 27 | [It's Time for Love](https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:57 |
 | 28 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
 | 29 | [Love Is the Power](https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 6:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [It's You I Love](https://open.spotify.com/track/3TqsKtMxNs5gEAp0vhbNxI) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Live! Coast To Coast](https://open.spotify.com/album/6FQv3uPAJEmlbIkqYC0fSD) | 5:31 |
 | 50 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:39 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBlZjlkNDhhNzA1ZjkyYTY5NjMwMmU0NmE2MTViMDM4NA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA1MjkyNThjMWFlM2I5YTIxMjgzOTQzN2QyZWUwYzI3NQ==`

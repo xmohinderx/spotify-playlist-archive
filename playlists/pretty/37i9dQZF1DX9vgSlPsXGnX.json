@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 37498,
+  "num_followers": 37587,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDk2OGY1ZmI3ZWRjMWRjOTMzMGI4OGQxYzgzOWM2YWE0",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMGNjYzBjN2Y2ZWIyZDJjZTFmYzMzNTJlZTA3NjJiYjEz",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -563,18 +563,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Boleros De Siempre",
-        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
       "artists": [
         {
           "name": "Alberto Beltran",
           "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 170649,
-      "name": "La N\u00famero Cien",
-      "url": "https://open.spotify.com/track/0YXhcFM9FyZ7EXK9LXPvD9"
+      "duration_ms": 161346,
+      "name": "Todo Me Gusta de Ti",
+      "url": "https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -667,22 +671,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+        "name": "Boleros De Siempre",
+        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
       },
       "artists": [
         {
           "name": "Alberto Beltran",
           "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 161346,
-      "name": "Todo Me Gusta de Ti",
-      "url": "https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof"
+      "duration_ms": 170649,
+      "name": "La N\u00famero Cien",
+      "url": "https://open.spotify.com/track/0YXhcFM9FyZ7EXK9LXPvD9"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Cha Cha Linda",
+      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 190760,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Cha Cha Linda",
-      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Exitos de Alvaro Carrillo",
-        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Como un Lunar",
-      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Las 2 Grandes Orquestas de Venezuela",
         "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 247906,
       "name": "Flores Negras - Fichas Negras",
       "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Exitos de Alvaro Carrillo",
+        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Como un Lunar",
+      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186200,
       "name": "Soy Lo Prohibido",
       "url": "https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Serie 20 Exitos",
-        "url": "https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Antologia (Volumen 2)",
         "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 251600,
       "name": "Mi Manera De Amar",
       "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2"
     },
     {
       "added_at": "2021-12-26 12:28:38",

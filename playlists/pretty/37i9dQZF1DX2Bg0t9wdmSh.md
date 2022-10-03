@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 27 | [Beat Box](https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Beat Box](https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si) | 1:50 |
 | 28 | [That’s It](https://open.spotify.com/track/5n6gBhdEjCuj3obgCoTEFD) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:48 |
 | 29 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
-| 30 | [Dog Food](https://open.spotify.com/track/3AnCVSpT7j6l8T8GBDUl6n) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Young and Turnt](https://open.spotify.com/album/10QfjPmSXM0Lt82GKlajKL) | 2:33 |
-| 31 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 |
+| 30 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 |
+| 31 | [Dog Food](https://open.spotify.com/track/3AnCVSpT7j6l8T8GBDUl6n) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Young and Turnt](https://open.spotify.com/album/10QfjPmSXM0Lt82GKlajKL) | 2:33 |
 | 32 | [No More Parties](https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [No More Parties](https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP) | 2:20 |
 | 33 | [Hit Bout It](https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Bout It](https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0) | 2:57 |
 | 34 | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \- Remix](https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \[Remix\]](https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG) | 2:51 |
 | 50 | [Flewed Out](https://open.spotify.com/track/59Q3Yzb5fUH3VSQfWAuRHX) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/7D7MbEqj5SqR0aFW5j9gid) | 3:10 |
 
-Snapshot ID: `MTY2NDY0MDU5NiwwMDAwMDAwMDRlOWZlMzM2YjBmNGRkMGRhNjJmMGQwYzY0ZDJkZDQ2`
+Snapshot ID: `MTY2NDY0MDU5NiwwMDAwMDAwMGE3MjI3YzllNjZjYmU3NTA2ODNlNzZhODAyZWQ0MmVk`

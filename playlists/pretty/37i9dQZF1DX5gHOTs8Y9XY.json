@@ -1,12 +1,12 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 119568,
+  "num_followers": 119812,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI3ODUyNCwwMDAwMDAwMGViY2ExYTYzMmU3YjRjZmRiYmU0YThmYmZmZDk1NTZk",
+  "snapshot_id": "MTY2NDI3ODUyNCwwMDAwMDAwMDJkNjBhN2VmYTQ0MzBhYjM5YzRiM2UxYTc5NWQ4YWRh",
   "tracks": [
     {
       "added_at": "2022-09-27 11:35:24",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
-    },
-    {
-      "added_at": "2022-09-27 11:35:24",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 191973,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "added_at": "2022-09-27 11:35:24",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
-    },
-    {
-      "added_at": "2022-09-27 11:35:24",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -239,22 +223,6 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 141133,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
-    },
-    {
-      "added_at": "2022-09-27 11:35:24",
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -271,6 +239,38 @@
       "duration_ms": 295240,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50"
+    },
+    {
+      "added_at": "2022-09-27 11:35:24",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
+    },
+    {
+      "added_at": "2022-09-27 11:35:24",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 141133,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
+      "duration_ms": 203306,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
-        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 203306,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 181440,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
+      "duration_ms": 206333,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Highlights From His Decca Years",
-        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 206333,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
+      "duration_ms": 181440,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -907,22 +907,18 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+        "name": "Moanin' (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
         }
       ],
-      "duration_ms": 320773,
-      "name": "They Say It's Wonderful",
-      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
+      "duration_ms": 570720,
+      "name": "Moanin' - Remastered",
+      "url": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -943,18 +939,22 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Moanin' (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
       "artists": [
         {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 570720,
-      "name": "Moanin' - Remastered",
-      "url": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
+      "duration_ms": 320773,
+      "name": "They Say It's Wonderful",
+      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Cream",
-        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
-      },
-      "artists": [
-        {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY"
-    },
-    {
-      "added_at": "2022-09-27 11:35:24",
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 305186,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J"
+    },
+    {
+      "added_at": "2022-09-27 11:35:24",
+      "album": {
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
+      },
+      "artists": [
+        {
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY"
     },
     {
       "added_at": "2022-09-27 11:35:24",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-09-27 11:35:24",
       "album": {
-        "name": "Mel Torm\u00e9 Sings Fred Astaire (Original Recording Remastered 2013)",
-        "url": "https://open.spotify.com/album/6Aa9OqI2DWqeoAgKQpKpr2"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 181009,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/4WyWVpoXP9z0SczdZdfVI2"
-    },
-    {
-      "added_at": "2022-09-27 11:35:24",
-      "album": {
         "name": "New York Jazz",
         "url": "https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 291840,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6"
+    },
+    {
+      "added_at": "2022-09-27 11:35:24",
+      "album": {
+        "name": "Mel Torm\u00e9 Sings Fred Astaire (Original Recording Remastered 2013)",
+        "url": "https://open.spotify.com/album/6Aa9OqI2DWqeoAgKQpKpr2"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 181009,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/4WyWVpoXP9z0SczdZdfVI2"
     },
     {
       "added_at": "2022-09-27 11:35:24",

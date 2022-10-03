@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,173 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,183 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 38 | [メロス](https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [SPLASH!!! 〜遥かなる自主制作BEST〜](https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp) | 4:05 |
 | 39 | [FLOW ANIME OP・ED Size Special Collection](https://open.spotify.com/track/0FS7VElufgTEqTDDgPMYzg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 14:55 |
 | 40 | [AWAKE](https://open.spotify.com/track/4gSCA9MWYMEiSnmuB0r2DY) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 4:03 |
-| 41 | [SUMMER FREAK](https://open.spotify.com/track/0KtSYH0aepPLGfpMZ91xD0) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Coupling Collection](https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx) | 3:22 |
-| 42 | [光追いかけて](https://open.spotify.com/track/6StfWg4HEWGZfuMcfmHoyg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:02 |
+| 41 | [光追いかけて](https://open.spotify.com/track/6StfWg4HEWGZfuMcfmHoyg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:02 |
+| 42 | [SUMMER FREAK](https://open.spotify.com/track/0KtSYH0aepPLGfpMZ91xD0) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Coupling Collection](https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx) | 3:22 |
 | 43 | [新世界](https://open.spotify.com/track/7bSJx8t6xQUlajgS0UecmL) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [新世界](https://open.spotify.com/album/6vjP2Ye1v3lFyG0CcwRnCf) | 3:53 |
 | 44 | [PLANETARIUM](https://open.spotify.com/track/5euS1eMWE65z8q2UpL0mgB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:45 |
 | 45 | [Rookie](https://open.spotify.com/track/5Y1OvLqXxai7ZDTjtenWDm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Golden Coast](https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 49 | [風ノ唄 \-TV Size\-](https://open.spotify.com/track/7kVgMFdMrTN48KZmAM1opl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [「風ノ唄 / BURN」Special Edition](https://open.spotify.com/album/4ZBpseaR2Lzz6U58chlrk4) | 1:31 |
 | 50 | [GLOW](https://open.spotify.com/track/1RDryrNg8yuMfMb51Geosd) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf) | 5:10 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBiNjMxYTQ2YTM1MWViZWYxMDI2MWYzZjlmMWZkNjNmOQ==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDBiYTFhMTVjNzcyYjE0Njg1ZmUwNDdjZTkwNzc5MTIxZQ==`

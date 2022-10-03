@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 718 likes - 156 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 720 likes - 156 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 29 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
 | 30 | [Si Supieras](https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Supieras](https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS) | 4:01 |
 | 31 | [La Zona](https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:16 |
-| 32 | [Loco Enamorado](https://open.spotify.com/track/0ftNNfxBAJJeN0E7iq27fZ) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [A Cámara Lenta](https://open.spotify.com/album/6m8uWpqYf0g6DnIWw7nu4l) | 4:12 |
-| 33 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 |
+| 32 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 |
+| 33 | [Loco Enamorado](https://open.spotify.com/track/0ftNNfxBAJJeN0E7iq27fZ) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [A Cámara Lenta](https://open.spotify.com/album/6m8uWpqYf0g6DnIWw7nu4l) | 4:12 |
 | 34 | [Infeliz](https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 3:41 |
 | 35 | [Keii](https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Keii](https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns) | 3:30 |
 | 36 | [Te Quemaste](https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:19 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 155 | [Rally](https://open.spotify.com/track/0snt078vtq4zd5F1K1zSOF) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:28 |
 | 156 | [La Llevo Al Cielo](https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku) | [Kallde "El Rey Del Placer"](https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR) | [La Llevo Al Cielo](https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU) | 3:44 |
 
-Snapshot ID: `Mjc3NDQ2MDEsMDAwMDAwMDBhM2ZiY2ExZGI1MzQwZDEyNWI2OWRkNTcwYWE0OGExZQ==`
+Snapshot ID: `Mjc3NDU5ODEsMDAwMDAwMDA4MDM1OTZkYTc3ZDA4YmRhMjdhOWQxMDUyZDI1ZDM4MA==`

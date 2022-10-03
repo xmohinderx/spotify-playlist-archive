@@ -4,7 +4,7 @@
 
 > Get the party going with these classics from across the decades.
 
-224 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/4tBOrClKcyYatqHpPJNoHl)
+225 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/4tBOrClKcyYatqHpPJNoHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Black or White \- Single Version](https://open.spotify.com/track/2Cy7QY8HPLk925AyNAt6OG) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:22 | 2021-12-16 | 2022-07-29 |
 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2021-12-16 |  |
 | [Build Me up Buttercup](https://open.spotify.com/track/61ukXvkg6KwCZDiyexVDsD) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Doo Wop & Pop, Vol\. 1](https://open.spotify.com/album/2GRx6M5iaEWssVFYfzjEuL) | 2:59 | 2021-12-16 | 2022-07-29 |
-| [Build Me Up Buttercup \- Mono](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2021-12-16 |  |
+| [Build Me Up Buttercup \- Mono](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2021-12-16 | 2022-10-03 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2021-12-16 |  |
 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 | 2021-12-16 |  |
 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 | 2021-12-16 | 2022-07-29 |
@@ -226,6 +226,7 @@
 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 | 2021-12-16 |  |
 | [You Can't Hurry Love](https://open.spotify.com/track/7bDxiHrazDoD3sOt9JjSDD) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/1UzB92nXoERL1yoTjiJ9SU) | 2:45 | 2021-12-16 | 2022-07-28 |
 | [You Can't Hurry Love](https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Favorites](https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3) | 2:45 | 2021-12-16 | 2022-07-29 |
+| [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2021-12-16 |  |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/1ZBXN4gljtuHvPLqsEQ1VM) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Hall & Oates](https://open.spotify.com/album/6Qk6OnOuvXwdDHLO6koIHQ) | 3:03 | 2021-12-16 | 2022-07-29 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2021-12-16 |  |
 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 | 2021-12-16 | 2022-07-28 |

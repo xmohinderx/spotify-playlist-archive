@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2210177,
+  "num_followers": 2210828,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDQ3YjgzY2VhNzgyZmY4ZWEzNzE0MTkyNWU2NjVkODNi",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGQ2OTc5OWMwNzgyMzMyZDliMzg1ZTkyY2RmYjkwYWFl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 189287,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Worlds On Fire (with R3HAB & Au/Ra)",
         "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Run Into Trouble",
-        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Run Into Trouble",
-      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 196021,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Run Into Trouble",
+        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Run Into Trouble",
+      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "My Universe (Galantis Remix)",
-        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 224908,
-      "name": "My Universe - Galantis Remix",
-      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Ininna Tora",
         "url": "https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G"
       },
@@ -1527,6 +1503,30 @@
       "duration_ms": 204598,
       "name": "Ininna Tora",
       "url": "https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "My Universe (Galantis Remix)",
+        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "My Universe - Galantis Remix",
+      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1663,26 +1663,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dance Tonight",
-        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         },
         {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1707,6 +1703,30 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Dance Tonight",
+        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Who Do You Love",
         "url": "https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 208253,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1847,18 +1847,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel"
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
         }
       ],
-      "duration_ms": 213298,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
+      "duration_ms": 206222,
+      "name": "Children - Radio Edit",
+      "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1895,26 +1899,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "Children - Radio Edit",
-      "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1939,6 +1923,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "duration_ms": 213298,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Fly Away (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ"
       },
@@ -1951,6 +1951,26 @@
       "duration_ms": 192195,
       "name": "Fly Away (Jonas Blue Remix)",
       "url": "https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Won't Forget You (Remixes)",
+        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
+      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1975,26 +1995,6 @@
       "duration_ms": 146706,
       "name": "With My Friends",
       "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Won't Forget You (Remixes)",
-        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
-      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -2095,18 +2095,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "In My Zone",
-        "url": "https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
         }
       ],
-      "duration_ms": 161035,
-      "name": "In My Zone",
-      "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     }
   ],
   "unique_name": "Power Hour",

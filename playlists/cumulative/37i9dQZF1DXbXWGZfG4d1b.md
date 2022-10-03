@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-366 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+368 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Algo Especial](https://open.spotify.com/track/7CvOAdS95Jt41VPw7WyOER) | [Joint Ravolta](https://open.spotify.com/artist/6iOXlI4iuOoXZO1gzp99UW), [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [Hartó](https://open.spotify.com/album/5UsHHKrC04Hq8tKe9UYJjF) | 5:23 | 2022-06-03 | 2022-07-02 |
 | [Algo Hay Que Hacer](https://open.spotify.com/track/6eo2fBWQrDJ05F02mEnxDi) | [Malditos Vecinos](https://open.spotify.com/artist/4DrNcaxBidf9OtpQr8oCB9) | [Algo Hay Que Hacer](https://open.spotify.com/album/0WjEtiNB42rPV0eJuVAaEt) | 2:36 | 2022-07-01 | 2022-07-10 |
 | [Alright](https://open.spotify.com/track/4CPQQFfIbkeZCYBrayDe8U) | [El Perrodiablo](https://open.spotify.com/artist/76X8p2EEoEJmDhgzLExcbZ) | [Epílogo](https://open.spotify.com/album/7zEA6AWDyBwtAgFbVswjgt) | 4:09 | 2022-07-15 | 2022-07-21 |
+| [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 | 2022-09-30 |  |
 | [Amorestream](https://open.spotify.com/track/36Pq4Q9JAmPrrKVXcOypEM) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Amorestream](https://open.spotify.com/album/046EjpYevPhRy74d8c9y5T) | 4:09 | 2022-07-01 | 2022-07-26 |
 | [Amuleto](https://open.spotify.com/track/6EAN9mfCYKzQx4AWoKhNJT) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/3Tu4K48pBVeOWJI65Te4jy) | 3:34 | 2022-06-03 | 2022-07-19 |
 | [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 |  |
@@ -210,7 +211,7 @@
 | [Los Ritmos Violentos](https://open.spotify.com/track/4YGWkgNryrlJDUjlQ97RYA) | [La Luz Mandarina](https://open.spotify.com/artist/4VqRr9QKXxeVVVpJoePixr) | [Los Ritmos Violentos](https://open.spotify.com/album/4hk8jVK8tz5KS2oA3tK04Q) | 3:44 | 2022-06-03 | 2022-07-29 |
 | [Límite](https://open.spotify.com/track/6LBct1lCubyNMQPq7LgWEq) | [te quería mucho](https://open.spotify.com/artist/67aSH8n0Y4SeORd9DU9X6y) | [Límite](https://open.spotify.com/album/3uzSKlNYuN7gJUNnGCVrCZ) | 2:57 | 2022-07-15 | 2022-07-22 |
 | [Madrugada](https://open.spotify.com/track/3IoI9OAF88fZGLIdrDqTUf) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Madrugada](https://open.spotify.com/album/4voLBSx8yHfNAttn5wzQw7) | 4:42 | 2022-06-03 | 2022-08-01 |
-| [Mandala](https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Mandala](https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle) | 3:25 | 2022-07-01 |  |
+| [Mandala](https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Mandala](https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle) | 3:25 | 2022-07-01 | 2022-10-03 |
 | [Manicomio Club](https://open.spotify.com/track/6ki9A4FyiZdQkrr9zv7Pa3) | [Los Bluyines](https://open.spotify.com/artist/6jKw6K5IkTpPYKAtq30vMY) | [Rockdelia Guitarra](https://open.spotify.com/album/6SDFQG8WmJ3cmH04zphC7M) | 4:19 | 2022-07-01 | 2022-07-06 |
 | [Manos](https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Manos](https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Mantra](https://open.spotify.com/track/3MLndDZtxRXBdtzfdRLiKd) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Mantra](https://open.spotify.com/album/2L62ofrt1QOsE8dNSuRAxH) | 5:12 | 2022-06-03 | 2022-07-29 |
@@ -238,6 +239,7 @@
 | [Máquina del Tiempo](https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1) | 4:23 | 2022-07-15 |  |
 | [Más o Menos Bien](https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 4:13 | 2022-06-03 | 2022-07-29 |
 | [Más O Menos Bien](https://open.spotify.com/track/0W6BJElrcM7ZXXiq8VtvSg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 4:13 | 2022-07-15 | 2022-08-13 |
+| [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 | 2022-09-30 |  |
 | [Nadie Quiere Hablar](https://open.spotify.com/track/3GHt0v7k5YhCPRbNOSwPzj) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Nadie Quiere Hablar](https://open.spotify.com/album/6bSTUMI6pYCAXnw3mXcAiy) | 2:20 | 2022-07-01 | 2022-07-22 |
 | [Nevada](https://open.spotify.com/track/28I7nwBGoXFmV5AxaHhBTM) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Nevada](https://open.spotify.com/album/6lxOY4q9aKzlvB9wLbySpA) | 3:24 | 2022-06-03 | 2022-07-27 |
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-06-03 | 2022-07-25 |
@@ -335,7 +337,7 @@
 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-07-01 | 2022-07-28 |
 | [Todo Es de Fuego](https://open.spotify.com/track/3kcDHFPMWvrkFJZH2gGF1n) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Fernando Kabusacki](https://open.spotify.com/artist/2v1rArXOJ4lTA43Ibwt1OC) | [Todo Es de Fuego](https://open.spotify.com/album/6nr8ke7oIdF7Utbu9goeki) | 4:54 | 2022-07-01 | 2022-07-19 |
 | [Todo Lo Que No Decimos](https://open.spotify.com/track/7w86CwDkliaR1gPbxZHKQl) | [LIMON](https://open.spotify.com/artist/3bOCNWtgHz0rLE1j5bfR72) | [Todo Lo Que No Decimos](https://open.spotify.com/album/0BLiaD2KVRE14aX40i79fx) | 3:27 | 2022-06-03 | 2022-07-25 |
-| [Todo Se Está Cayendo](https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/7ncc7rL0uXgBkf9vXNCSB1) | 4:15 | 2022-06-03 |  |
+| [Todo Se Está Cayendo](https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/7ncc7rL0uXgBkf9vXNCSB1) | 4:15 | 2022-06-03 | 2022-10-03 |
 | [Toxi](https://open.spotify.com/track/2zQFcTriw8DV1ZlajAUWpy) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/56QgvZNpKS8L7sVkDQyfYW) | 2:33 | 2022-06-03 | 2022-07-26 |
 | [Toxi](https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 2:33 | 2022-07-15 |  |
 | [Tranki Town](https://open.spotify.com/track/7uLmpyGdYW4Z9Xy163jKE8) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Mitokiota](https://open.spotify.com/artist/1TibukCppwnz6ALvkIhpFy), [Friki Jones](https://open.spotify.com/artist/3OGAcR5Klbhn6GIs8fP4m0) | [Tranki Town](https://open.spotify.com/album/7n6jZ86IvE57Z7EK0x3I4h) | 2:54 | 2022-07-01 | 2022-07-29 |

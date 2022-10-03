@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,410 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,422 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 38 | [Strings of Light](https://open.spotify.com/track/5yPowIqdVPFaBvBmhoLE0Y) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/1MioiNBndcGhsQOFk3l6fu) | 8:28 |
 | 39 | [Umama \- A COLORS SHOW](https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umama \- A COLORS SHOW](https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw) | 4:04 |
 | 40 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
-| 41 | [Laamore](https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg) | 4:40 |
-| 42 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
+| 41 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
+| 42 | [Laamore](https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg) | 4:40 |
 | 43 | [Another Story](https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:06 |
 | 44 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/1NEl4CQVJNuNpROFX89Tfl) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/3IwjqbAEILvfrRJptM17L1) | 6:16 |
 | 45 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 |
 | 50 | [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 |
 
-Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMDJlODVmZGU0ZDYzOTQ1YWI2MzBhY2I2OGRjMmIwYjRm`
+Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGVmMmJhODk3ZThiMDU1NGE0NWRmOWJhYWZjMWE2NjM3`

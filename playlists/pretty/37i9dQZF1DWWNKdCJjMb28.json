@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 1,
+  "num_followers": 6,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDRkMWUxNjkzOTY0MTRhZjRhYmNiOWYwZjY1MDMxZTMx",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDc3ODU5MzcxYTUwZTZkY2QxMzFhZjNmNzc2ODc1MjYz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "I'm Leaving",
+        "url": "https://open.spotify.com/album/2RcdiXMKkoOsUrzOZUwUsZ"
+      },
+      "artists": [
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/2mWfFx6HEDYVgFxaisWqP3"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "I'm Leaving",
-        "url": "https://open.spotify.com/album/2RcdiXMKkoOsUrzOZUwUsZ"
-      },
-      "artists": [
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/2mWfFx6HEDYVgFxaisWqP3"
     },
     {
       "added_at": "2022-10-01 16:00:00",

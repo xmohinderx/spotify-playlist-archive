@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 600180,
+  "num_followers": 600357,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MzE2OCwwMDAwMDAwMDliMWViMThlMzY3NTA1NTg5MmZlMmQxOGViZDAyOTlk",
+  "snapshot_id": "MTY2MjE0MzE2OCwwMDAwMDAwMDJkZjczYTI4NWE0OWI3YmI4NmQ2NmJhMzdmZjFiZTE4",
   "tracks": [
     {
       "added_at": "2022-09-02 18:26:08",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -255,6 +239,22 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "Lancaster Nights",
-        "url": "https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 190469,
-      "name": "Lancaster Nights",
-      "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 241200,
       "name": "jordan",
       "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
+        "name": "Lancaster Nights",
+        "url": "https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 190469,
+      "name": "Lancaster Nights",
+      "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
-      },
-      "artists": [
-        {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 90227,
       "name": "Change",
       "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "Lightning Of July",
-        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Lightning Of July",
-      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 278653,
       "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
       "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
+        "name": "Lightning Of July",
+        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Lightning Of July",
+      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Our Way to Fall",
-      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/1MrgHn4BWUcxFolDAezsXJ"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Our Way to Fall",
+      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+        "name": "Shakey Graves And The Horse He Rode In On (Nobody's Fool and The Donor Blues EP)",
+        "url": "https://open.spotify.com/album/5ZetO1qY0okdczkZzAQEBL"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 258693,
-      "name": "Far Out",
-      "url": "https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9"
+      "duration_ms": 191670,
+      "name": "If Not For You (Demo)",
+      "url": "https://open.spotify.com/track/3HUCTp20rxqMnCtdyU7JgU"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -1243,34 +1243,18 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "Shakey Graves And The Horse He Rode In On (Nobody's Fool and The Donor Blues EP)",
-        "url": "https://open.spotify.com/album/5ZetO1qY0okdczkZzAQEBL"
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 191670,
-      "name": "If Not For You (Demo)",
-      "url": "https://open.spotify.com/track/3HUCTp20rxqMnCtdyU7JgU"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
-        "name": "I Can't Stand the Rain",
-        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Until You Came into My Life",
-      "url": "https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij"
+      "duration_ms": 258693,
+      "name": "Far Out",
+      "url": "https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+        "name": "I Can't Stand the Rain",
+        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
       },
       "artists": [
         {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
+      "duration_ms": 192893,
+      "name": "Until You Came into My Life",
+      "url": "https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -1323,6 +1307,22 @@
       "duration_ms": 254333,
       "name": "Grass Is Greener",
       "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
       "added_at": "2022-09-02 18:26:08",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 251493,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
         "name": "Sorry I Am",
         "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 242801,
       "name": "Sorry I Am",
       "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 251493,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F"
     },
     {
       "added_at": "2022-09-02 18:26:08",

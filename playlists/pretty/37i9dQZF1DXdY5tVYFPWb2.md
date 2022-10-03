@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,899 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,007 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 25 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
 | 26 | [メモリアフロア](https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [メモリアフロア](https://open.spotify.com/album/72XokMMY8qOas8X3zoaySq) | 3:14 |
 | 27 | [Night Distance](https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [Smoky Valley](https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc) | 4:19 |
-| 28 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 |
+| 28 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 |
 | 29 | [Talk](https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Talk](https://open.spotify.com/album/6miL71NzGTRCH5BOW4SO3R) | 4:38 |
-| 30 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
+| 30 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 |
 | 31 | [Getsuyou no Dance](https://open.spotify.com/track/51zSpfOogDG3NqCsVfI8O0) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Shikousei](https://open.spotify.com/album/0WYt2Vo6QgYJeB3KHWUhgV) | 3:22 |
-| 32 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 |
+| 32 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
 | 33 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
 | 34 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 |
 | 35 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 67 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 |
 | 68 | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 |
 | 69 | [white](https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [white](https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG) | 4:10 |
-| 70 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 |
-| 71 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 |
+| 70 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 |
+| 71 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 |
 | 72 | [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 |
 | 73 | [Mirrors](https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 4:30 |
 | 74 | [Midnight Dew](https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Midnight Dew](https://open.spotify.com/album/4pOcjmEBUBTkrcuBq0VNaM) | 4:06 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 84 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 |
 | 85 | [Gimme](https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/0BSd8vQJG03o2NHVMA7kA5) | 3:31 |
 | 86 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 |
-| 87 | [Holiday](https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Holiday](https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4) | 4:04 |
-| 88 | [果てることないダンス](https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [果てることないダンス](https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49) | 4:10 |
-| 89 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 |
-| 90 | [Natsume](https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Natsume](https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm) | 2:37 |
+| 87 | [果てることないダンス](https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [果てることないダンス](https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49) | 4:10 |
+| 88 | [Holiday](https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Holiday](https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4) | 4:04 |
+| 89 | [Natsume](https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Natsume](https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm) | 2:37 |
+| 90 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 |
 | 91 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 |
 | 92 | [楽園](https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [楽園](https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY) | 3:59 |
 | 93 | [Just be Blue](https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Just be Blue](https://open.spotify.com/album/778O7vFyhlYuGXeQjpDfhV) | 4:01 |
-| 94 | [雨](https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [雨](https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1) | 4:27 |
-| 95 | [33歳のエンディングノート](https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Little Woman](https://open.spotify.com/album/4MOwIbt4OSBrLRGw4Bmhu6) | 4:17 |
+| 94 | [33歳のエンディングノート](https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Little Woman](https://open.spotify.com/album/4MOwIbt4OSBrLRGw4Bmhu6) | 4:17 |
+| 95 | [雨](https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [雨](https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1) | 4:27 |
 | 96 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 |
 | 97 | [Almond](https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [樹影](https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye) | 3:29 |
 | 98 | [雨のリグレット](https://open.spotify.com/track/1vGLybuIsoMevv7DXNnW1c) | [Chikuzen sato](https://open.spotify.com/artist/7xK7fPe7SjHrGS54CvUoer) | [雨のリグレット](https://open.spotify.com/album/0hKGVTJz57q8FOwKalb0sj) | 4:37 |
-| 99 | [Rhythm of Your Heart](https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Rhythm of Your Heart](https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e) | 3:44 |
-| 100 | [Ocha](https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/5R1RHDWNPxzdvZVJcUAZEz) | 4:18 |
+| 99 | [Ocha](https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/5R1RHDWNPxzdvZVJcUAZEz) | 4:18 |
+| 100 | [Rhythm of Your Heart](https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Rhythm of Your Heart](https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e) | 3:44 |
 
-Snapshot ID: `MTY2NDQ2MzYwMCwwMDAwMDAwMDBjMmU3NTdiNThjMjQzZjQ0NGRkM2ZiNTFiYWRmMDUx`
+Snapshot ID: `MTY2NDQ2MzYwMCwwMDAwMDAwMDMzMThlODQyOTZmZDk4MThkYTY4M2NkYzY0NzQ0YTMw`

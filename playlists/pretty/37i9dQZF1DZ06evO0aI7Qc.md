@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,789 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,104 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [El De La S](https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:22 |
 | 50 | [Sigo Aqui](https://open.spotify.com/track/12wuxFcfZF015vy3XgoZsr) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:34 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBiZDc4Y2I2MTZjMGYyYmUzZDJiMDljMDNlN2ExNzFjNg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAwZjJhMjZiMjE2YmI4Y2ZkZDQyZDUwZDNlMzRjN2FkOA==`

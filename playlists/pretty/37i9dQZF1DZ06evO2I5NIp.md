@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,503 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,507 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 49 | [Devil's Hand](https://open.spotify.com/track/1GgXOtHDgL4eh6nmEq3yyP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:43 |
 | 50 | [Walk On](https://open.spotify.com/track/6kXGe7mPLgsCVj5UZRor3E) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:14 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBiNTA0NjViMjUzM2I5OGZhNjgzNDc1OGFjZGI0YjZjZA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAxZjA5MzZiYjAwOGRhYThjMWYyN2E5MGVmZDA5NDRiYQ==`

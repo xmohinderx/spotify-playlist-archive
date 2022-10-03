@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,294,161 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,294,646 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 24 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 |
 | 25 | [Before I Let You Go](https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:49 |
 | 26 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
-| 27 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
-| 28 | [Beer](https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Noon Time Show](https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW) | 6:04 |
+| 27 | [Beer](https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Noon Time Show](https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW) | 6:04 |
+| 28 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
 | 29 | [214](https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Greatest Hits](https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1) | 4:33 |
 | 30 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:25 |
 | 31 | [Kiss \- Never Let Me Go](https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU) | [Thyro](https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V), [Yumi](https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6) | [Thyro & Yumi](https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ) | 4:19 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 35 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 |
 | 36 | [Teka Lang](https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG) | [Teka Lang](https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE) | 3:16 |
 | 37 | [Sa'yo](https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe) | 4:13 |
-| 38 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
-| 39 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 |
+| 38 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 |
+| 39 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
 | 40 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 |
 | 41 | [Harana](https://open.spotify.com/track/3gyEt1vswIEbpQqBs18Lha) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Buruguduystunstugudunstuy](https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn) | 3:02 |
 | 42 | [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Pasensya Ka Na](https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA) | 4:01 |
 | 50 | [So Slow](https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:35 |
 
-Snapshot ID: `MTY2MzY2MTYyMywwMDAwMDAwMDQ2MGVlNDgwYWUzYTJmZWEyNzE5NDEzN2JlYWM2YzI2`
+Snapshot ID: `MTY2MzY2MTYyMywwMDAwMDAwMGYyZmQ0ZGRiZWM3NmJkZWFhZjdiY2RhZGZlNmI4ZWZj`

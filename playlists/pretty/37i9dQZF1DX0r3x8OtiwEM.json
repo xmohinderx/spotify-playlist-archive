@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 770571,
+  "num_followers": 770916,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MDg4OCwwMDAwMDAwMDJiYTEzMmVlN2I1OTk0MDQ2YTFiYjAzNTE5NWI2NjZl",
+  "snapshot_id": "MTY2NDU2MDg4OCwwMDAwMDAwMDVlNDllZTQxZjllMzA0ZGE1ZWJlMDk1YWM3MjRjOWVh",
   "tracks": [
     {
       "added_at": "2022-09-30 18:01:28",
@@ -255,22 +255,22 @@
     {
       "added_at": "2022-09-30 18:01:28",
       "album": {
-        "name": "On My Knees (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
+        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
         },
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 452000,
-      "name": "On My Knees - Adriatique Remix",
-      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+      "duration_ms": 216106,
+      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
+      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
     },
     {
       "added_at": "2022-09-30 18:01:28",
@@ -291,22 +291,22 @@
     {
       "added_at": "2022-09-30 18:01:28",
       "album": {
-        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
+        "name": "On My Knees (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
       },
       "artists": [
         {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         },
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 216106,
-      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
+      "duration_ms": 452000,
+      "name": "On My Knees - Adriatique Remix",
+      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
     },
     {
       "added_at": "2022-09-30 18:01:28",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-30 18:01:28",
       "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
-    },
-    {
-      "added_at": "2022-09-30 18:01:28",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+    },
+    {
+      "added_at": "2022-09-30 18:01:28",
+      "album": {
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2022-09-30 18:01:28",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-30 18:01:28",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
-    },
-    {
-      "added_at": "2022-09-30 18:01:28",
-      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 304390,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+    },
+    {
+      "added_at": "2022-09-30 18:01:28",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "False Reactions",
+      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
     },
     {
       "added_at": "2022-09-30 18:01:28",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2022-09-30 18:01:28",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y"
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
       "artists": [
         {
-          "name": "Peer Kusiv",
-          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
-        },
-        {
-          "name": "Johanson",
-          "url": "https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN"
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
         }
       ],
-      "duration_ms": 198676,
-      "name": "Bring You Back - Edit",
-      "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
     },
     {
       "added_at": "2022-09-30 18:01:28",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2022-09-30 18:01:28",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y"
       },
       "artists": [
         {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+          "name": "Peer Kusiv",
+          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+        },
+        {
+          "name": "Johanson",
+          "url": "https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN"
         }
       ],
-      "duration_ms": 464026,
-      "name": "Between Two Worlds",
-      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+      "duration_ms": 198676,
+      "name": "Bring You Back - Edit",
+      "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
     },
     {
       "added_at": "2022-09-30 18:01:28",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-30 18:01:28",
       "album": {
-        "name": "FAST LAND",
-        "url": "https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
-    },
-    {
-      "added_at": "2022-09-30 18:01:28",
-      "album": {
         "name": "Unspoken Words",
         "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 285675,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+    },
+    {
+      "added_at": "2022-09-30 18:01:28",
+      "album": {
+        "name": "FAST LAND",
+        "url": "https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
     },
     {
       "added_at": "2022-09-30 18:01:28",

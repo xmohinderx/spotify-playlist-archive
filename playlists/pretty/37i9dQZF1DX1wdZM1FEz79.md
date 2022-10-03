@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: 10CM, BIG Naughty\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,295 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,364 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 27 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 28 | [My secret, My everything](https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL) | 4:11 |
 | 29 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 30 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
+| 30 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 31 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 |
-| 32 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 32 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 33 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
-| 34 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 |
-| 35 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
+| 34 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
+| 35 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 |
 | 36 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 |
 | 37 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
 | 38 | [By My Side](https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Our Blues, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/090bFiHKTLRk5QA4hsE5Zv) | 3:47 |
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 43 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
 | 44 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 | 45 | [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 |
-| 46 | [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 |
-| 47 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 |
+| 46 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 |
+| 47 | [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 |
 | 48 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 |
 | 49 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
 | 50 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 | 51 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 52 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 |
 
-Snapshot ID: `MTY2NDI0NTM1MCwwMDAwMDAwMDJhZTZlNzU0ZDkzMzBhNzMyNWRlOWQ0ZDRkM2Y3MzM0`
+Snapshot ID: `MTY2NDI0NTM1MCwwMDAwMDAwMGM0ZWJjNjYwYzU4YzgyN2UzNzJiNGIxZTE4MmFiYzFk`

@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove",
-  "num_followers": 61656,
+  "num_followers": 61736,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxNzM0MiwwMDAwMDAwMGJiYjI0ODk3NTMwZjNkY2QxOTQ5ZDEzMzZjYmEzNGUy",
+  "snapshot_id": "MTY2MTUxNzM0MiwwMDAwMDAwMGJkYTAxNzRmMGJhOTcxYmQwODc5NmVjYWUwYzM1OTk1",
   "tracks": [
     {
       "added_at": "2022-08-26 12:35:42",
@@ -927,26 +927,18 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
       },
       "artists": [
         {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
-        },
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        },
-        {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
         }
       ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -971,42 +963,26 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+        "name": "IL MINORENNE + BASTARDO",
+        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
       },
       "artists": [
         {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
         },
         {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
         },
         {
-          "name": "Verano",
-          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
         }
       ],
-      "duration_ms": 140297,
-      "name": "181",
-      "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
+      "duration_ms": 166522,
+      "name": "PULL UP (feat. Big P)",
+      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -1031,6 +1007,30 @@
       "duration_ms": 153881,
       "name": "SHAWTY (feat. Sacky)",
       "url": "https://open.spotify.com/track/6yX3lSkO4F3FKx5wDJi4J0"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
+        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Verano",
+          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
+        }
+      ],
+      "duration_ms": 140297,
+      "name": "181",
+      "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -1247,6 +1247,46 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 191869,
+      "name": "Hollywood (feat. Diplo)",
+      "url": "https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
+        "name": "Louboutin",
+        "url": "https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU"
+      },
+      "artists": [
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Louboutin",
+      "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
         "name": "SEVEN 7oo Mixtape",
         "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
       },
@@ -1275,26 +1315,6 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
-        "name": "Louboutin",
-        "url": "https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU"
-      },
-      "artists": [
-        {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Louboutin",
-      "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
         "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
         "url": "https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 166406,
       "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
       "url": "https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 191869,
-      "name": "Hollywood (feat. Diplo)",
-      "url": "https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
-        "name": "Italiano",
-        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 135934,
-      "name": "Italiano Anthem",
-      "url": "https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
+        "name": "Italiano",
+        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 135934,
+      "name": "Italiano Anthem",
+      "url": "https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG"
     }
   ],
   "unique_name": "Club Rap ",

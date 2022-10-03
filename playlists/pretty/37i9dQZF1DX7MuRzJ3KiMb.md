@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,090 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,172 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 24 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
 | 25 | [Caía la Noche](https://open.spotify.com/track/6Xzu0zKKceCVd8uSHJAjgq) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Souvenir](https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC) | 3:11 |
 | 26 | [Quién Podrá Saberlo](https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:43 |
-| 27 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 |
-| 28 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 |
-| 29 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 |
+| 27 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 |
+| 28 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 |
+| 29 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 |
 | 30 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 |
 | 31 | [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 |
 | 32 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 47 | [Suéltate](https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Dimittas](https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ) | 2:47 |
 | 48 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 |
 | 49 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
-| 50 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
-| 51 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
+| 50 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
+| 51 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
 | 52 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 |
 | 53 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
 | 54 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Postre](https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN) | 3:00 |
 | 75 | [Lalalá](https://open.spotify.com/track/63KP70pPlQ7TMSwkdIP0jC) | [Manu Negrete](https://open.spotify.com/artist/5CEPxspt5POCY0oeaCdOEO) | [Lalalá](https://open.spotify.com/album/6LHfK1MmIEokFqkFBZ8r9S) | 3:01 |
 
-Snapshot ID: `MTY2Mzk3NTMyNSwwMDAwMDAwMDg0NDI2OTcxNzAyMTY0YTMxZmQ3ZmNmNjMwNmU3NDQ3`
+Snapshot ID: `MTY2Mzk3NTMyNSwwMDAwMDAwMGQ0NDcwZTZmMjAxOGNjNDlhMzQzM2RjNWMyOTkyMDFl`

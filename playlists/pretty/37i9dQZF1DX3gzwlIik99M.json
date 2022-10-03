@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206516,
+  "num_followers": 206531,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDUwMzI3MWNkZmIyNTgyZjAwMzA0OTZkMzA4YWFhZDJl",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDAyZmUyODllZjQ5NzJkMmYyNzY4NzZmMDRjZjY3NzVm",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -639,6 +639,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "El Cielo Ser\u00e1 Testigo",
+        "url": "https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W"
+      },
+      "artists": [
+        {
+          "name": "Arcadia Libre",
+          "url": "https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q"
+        }
+      ],
+      "duration_ms": 270471,
+      "name": "Credo de Darwin",
+      "url": "https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Apatrida",
         "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 304586,
       "name": "Guerrero Del Arco Iris",
       "url": "https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "El Cielo Ser\u00e1 Testigo",
-        "url": "https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W"
-      },
-      "artists": [
-        {
-          "name": "Arcadia Libre",
-          "url": "https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q"
-        }
-      ],
-      "duration_ms": 270471,
-      "name": "Credo de Darwin",
-      "url": "https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3"
     },
     {
       "added_at": "2020-10-24 03:38:51",

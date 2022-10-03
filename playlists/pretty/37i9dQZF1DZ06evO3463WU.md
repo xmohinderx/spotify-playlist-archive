@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,145 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,198 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 35 | [Qué Bonito](https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Qué Bonito](https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u) | 2:47 |
 | 36 | [Un Hombre Diferente](https://open.spotify.com/track/1x6hdO613h1Br7CYIxxFyU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [La Fuerza Del Amor](https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo) | 4:12 |
 | 37 | [Llorando Una Pena](https://open.spotify.com/track/5CawfH4wFANfiOQU4wMW2S) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Rancheras Con Banda Y Mariachi](https://open.spotify.com/album/7MuIdXN7rXlX4qVgHjrT1Q) | 3:20 |
-| 38 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 |
-| 39 | [Los Amantes](https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:28 |
+| 38 | [Los Amantes](https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:28 |
+| 39 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 |
 | 40 | [Por Amor Y Fe](https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:33 |
-| 41 | [Mi Amor Sin Ella](https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:12 |
-| 42 | [Esta Va por Ti](https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Esta Va por Ti](https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK) | 3:25 |
-| 43 | [Cuenta Conmigo](https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 3:36 |
-| 44 | [Pero La Recuerdo](https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Pero La Recuerdo](https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG) | 3:45 |
-| 45 | [Con El Alma En La Mano](https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:40 |
-| 46 | [Cuando Nadie Te Quiera \- En Vivo](https://open.spotify.com/track/0ActR7aXd8BMfMZ0zVPkRp) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo Palenque De Guadalajara](https://open.spotify.com/album/6D5WggwYmVOJGqQpl57Tm2) | 5:15 |
+| 41 | [Esta Va por Ti](https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Esta Va por Ti](https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK) | 3:25 |
+| 42 | [Cuenta Conmigo](https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 3:36 |
+| 43 | [Pero La Recuerdo](https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Pero La Recuerdo](https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG) | 3:45 |
+| 44 | [Con El Alma En La Mano](https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:40 |
+| 45 | [Cuando Nadie Te Quiera \- En Vivo](https://open.spotify.com/track/0ActR7aXd8BMfMZ0zVPkRp) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo Palenque De Guadalajara](https://open.spotify.com/album/6D5WggwYmVOJGqQpl57Tm2) | 5:15 |
+| 46 | [Mi Amor Sin Ella](https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:12 |
 | 47 | [Inventame Un Amor](https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 4:01 |
-| 48 | [Que Te Paso](https://open.spotify.com/track/5DsX6k1XSBuKj3GxHItIZV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 |
-| 49 | [Las Llaves De Mi Alma](https://open.spotify.com/track/6vvBP49CrNlSBEV0tsTo8V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 2:52 |
+| 48 | [Las Llaves De Mi Alma](https://open.spotify.com/track/6vvBP49CrNlSBEV0tsTo8V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 2:52 |
+| 49 | [Que Te Paso](https://open.spotify.com/track/5DsX6k1XSBuKj3GxHItIZV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 |
 | 50 | [Cuando El Amor Se Acaba \- En Vivo](https://open.spotify.com/track/3UJ0tRfPzbphNOhNBqBn7a) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [YakiFest, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z) | 3:30 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBkNTY3ZjI0ZDdmMjQyMTUxZTg0ZDQ5NmVlYTc4YWVkYg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBkZTFhNmEyNmVlOTkwNmNmNDY0ZjcwNzQ0MzcyZGFkOQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,505 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,514 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 21 | [La Francis](https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:51 |
 | 22 | [Abeja Reina \- En Vivo](https://open.spotify.com/track/3BvKPAOfOVdItJX9UOEtoN) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Lalo Mora Jr.](https://open.spotify.com/artist/2GJSx6ApAz7rUALTS0CWPu) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 3:59 |
 | 23 | [Apartamento Tres](https://open.spotify.com/track/2GMXI3Bhz9GPXMpOWLv4L3) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:40 |
-| 24 | [No Te Paniquees](https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor Brutal](https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4) | 3:08 |
-| 25 | [Me Va Y Me Viene](https://open.spotify.com/track/03AwEUNvTXg0f0fwyCgr1I) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Recordando](https://open.spotify.com/album/6dOXeCoGargfF3rc3n4slP) | 2:51 |
+| 24 | [Me Va Y Me Viene](https://open.spotify.com/track/03AwEUNvTXg0f0fwyCgr1I) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Recordando](https://open.spotify.com/album/6dOXeCoGargfF3rc3n4slP) | 2:51 |
+| 25 | [No Te Paniquees](https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor Brutal](https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4) | 3:08 |
 | 26 | [Tres Veces Te Engañé](https://open.spotify.com/track/4FmlFs00vJVtRSNQddCQyJ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 3:14 |
 | 27 | [El Caimán \- En Vivo](https://open.spotify.com/track/4TrKU1y51lR2kjjZtQhqga) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Ricky López](https://open.spotify.com/artist/0tbis939faPuJg5RXYNRpo) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 2:43 |
 | 28 | [En La Esquina](https://open.spotify.com/track/5e2kTy5xWpEfOAFRyLKX7M) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:20 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 40 | [No Sabes Amar](https://open.spotify.com/track/6kxAZkr8hABBkG7dGWkkOX) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 2:43 |
 | 41 | [Contestación A La Muerte De Marylee](https://open.spotify.com/track/6izucF9I6OfbHnefeFdFwz) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:04 |
 | 42 | [El Corrido De Amado Carrillo](https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Corridos De Mi Tierra](https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V) | 3:37 |
-| 43 | [Apoco No](https://open.spotify.com/track/3K0XV1sdVnPf6z9NO4q8U5) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [También Románticos](https://open.spotify.com/album/3VLGmlnHGYtLsKmbsVqxM5) | 3:37 |
-| 44 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 |
+| 43 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 |
+| 44 | [Apoco No](https://open.spotify.com/track/3K0XV1sdVnPf6z9NO4q8U5) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [También Románticos](https://open.spotify.com/album/3VLGmlnHGYtLsKmbsVqxM5) | 3:37 |
 | 45 | [La Desmedida](https://open.spotify.com/track/3ilkGDqYW0m2gpDBD09qnE) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:33 |
 | 46 | [La Trailerita](https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn) | 2:31 |
 | 47 | [Líbrame Dios](https://open.spotify.com/track/6Cx5zhrSpv6GZTxGVrFagD) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [De Festejo](https://open.spotify.com/album/6yC5ut8GXAWCY5LS5ctqh1) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [El Corrido De Los Pérez](https://open.spotify.com/track/2Gu9iF9fQs4gtsG4ly1F8H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Corridos Al Estilo Diferente](https://open.spotify.com/album/5oeZmHmp8CRIc6CFUfTOWE) | 3:43 |
 | 50 | [Y Voló La Paloma](https://open.spotify.com/track/6wlTNaNVQZL6g0ydwkwLuZ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:52 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA0YTA4MmUwNGJlOGQzNGNhZTIzZjhmZTM0N2EzYjcyNw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAxOWU3NTY3YTMyNDE0NzI4ZDEyZjk5ODNiMjFkMzAxOA==`

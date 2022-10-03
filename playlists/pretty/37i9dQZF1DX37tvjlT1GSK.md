@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Jose Manuel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,177 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,289 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 86 | [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 |
 | 87 | [Yo Te Amaré](https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Yo Te Amaré](https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm) | 2:50 |
 | 88 | [Lo Que Tengo](https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg) | [Lo Que Tengo](https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g) | 3:44 |
-| 89 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
-| 90 | [El Dolido](https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [El Dolido](https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln) | 3:14 |
+| 89 | [El Dolido](https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [El Dolido](https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln) | 3:14 |
+| 90 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
 | 91 | [La Lista](https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [La Lista](https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH) | 3:31 |
 | 92 | [El Mal Camino](https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Mal Camino](https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38) | 3:58 |
 | 93 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 97 | [Bla Bla Bla](https://open.spotify.com/track/2Fa31aSs31jeYTK2P85ZkL) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Bla Bla Bla](https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5) | 2:16 |
 | 98 | [Cuando Se Ama a Una Mujer](https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Cuando Se Ama a Una Mujer](https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw) | 3:36 |
 | 99 | [Yo Estaba Solo \- En Vivo](https://open.spotify.com/track/0FJ4mVBV1D1TvXV4UFP12H) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Yo Estaba Solo \(En Vivo\)](https://open.spotify.com/album/0YVpggI6DRcIMGclrWWDYp) | 3:57 |
-| 100 | [Claro Que Te Amo](https://open.spotify.com/track/6bbqOi8ccpkyVpX4E2dUTK) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Claro Que Te Amo](https://open.spotify.com/album/1uO2tuBoVL3QF5K8p874fC) | 3:07 |
+| 100 | [A Cada Rato \(En Vivo\)](https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [A Cada Rato \(En Vivo\)](https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT) | 3:05 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDcwYzIwMDZiODBhM2JlMGRmN2I0MmY2ZGM5MmJiYzdk`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGZmYTBmNGY3Yzg0OWM2MzcxYjhhOWY1NjViZWNiZmFj`

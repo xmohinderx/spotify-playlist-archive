@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 26683,
+  "num_followers": 26737,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1OTkwNywwMDAwMDAwMGVkZWViNGM2NWYzYTU5OGIxOTIzMDk0YTJhYTNjNjQx",
+  "snapshot_id": "MTY2NDU1OTkwNywwMDAwMDAwMDJkNWVjNjY3ZDVmZTU3ODY4MmI1NDVjMzgzOThhMTE1",
   "tracks": [
     {
       "added_at": "2022-09-30 17:45:07",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-30 17:45:07",
       "album": {
-        "name": "Essential Recordings: One Bourbon, One Scotch, One Beer",
-        "url": "https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi"
-      },
-      "artists": [
-        {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE"
-    },
-    {
-      "added_at": "2022-09-30 17:45:07",
-      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 253333,
       "name": "I'm Tore Down",
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
+    },
+    {
+      "added_at": "2022-09-30 17:45:07",
+      "album": {
+        "name": "Essential Recordings: One Bourbon, One Scotch, One Beer",
+        "url": "https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE"
     },
     {
       "added_at": "2022-09-30 17:45:07",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-30 17:45:07",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Give Me Back My Wig - Remastered",
-      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
-    },
-    {
-      "added_at": "2022-09-30 17:45:07",
-      "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 169000,
       "name": "Nadine - Stereo Remix",
       "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
+    },
+    {
+      "added_at": "2022-09-30 17:45:07",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "Give Me Back My Wig - Remastered",
+      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
     },
     {
       "added_at": "2022-09-30 17:45:07",

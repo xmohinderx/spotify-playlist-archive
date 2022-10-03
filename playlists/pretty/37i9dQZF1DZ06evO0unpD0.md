@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,678 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,680 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 49 | [Gaffou](https://open.spotify.com/track/3j1VHaFQzIf84NqQxWQTHD) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:42 |
 | 50 | [Karifa](https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:05 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAyMWE4MTQzMmUwOGFhYTkxYzI4NzcxNzllMmJiYmIzMg==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDA4YzljODQ5ZmNjYzc2MjJhMGRjMjFkNmM0NDk2ZTk0Mg==`

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110061,
+  "num_followers": 110055,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDY4ODdhNDAzZTI1MTRiZGZkZDE4MjZjZTY4ZDE3N2Zh",
+  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMGJlY2M1ODM2ZjJiNWQwYjVhODcyODQ3ZDEyODgxMzE3",
   "tracks": [
     {
       "added_at": "2021-11-12 17:11:33",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Just Like Christmas",
-      "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "Walking in the Air",
         "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 257842,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Just Like Christmas",
+      "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 212120,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2022-01-07 15:24:39",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
-      "added_at": "2021-11-12 17:14:44",
+      "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Christmas Songs Vol. 1",
-        "url": "https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5"
+        "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
+        "url": "https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl"
       },
       "artists": [
         {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
+      "duration_ms": 218170,
+      "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
+      "url": "https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H"
     }
   ],
   "unique_name": "Indie Christmas",

@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 17 | [Taste Of Gasoline](https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:46 |
 | 18 | [Daylight](https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:47 |
 | 19 | [Summer](https://open.spotify.com/track/2eVl7KmAVQNbDUpd7Dkka3) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 5:01 |
-| 20 | [Yellowbelly](https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:14 |
+| 20 | [New Emotion](https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 |
 | 21 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
 | 22 | [Bloom](https://open.spotify.com/track/4dIcol4M56nWvq8OA5bm4n) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:37 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBmN2ZhODkwYjY4MDEwODQ3NmMyODdiNGM0NzhmYjdkNg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA3OGNlMDk4YjcwMTRiNDBlODI3MjZkYWU5ZDcyNDgyYQ==`

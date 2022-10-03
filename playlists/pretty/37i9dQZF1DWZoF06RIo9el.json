@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de septiembre 2022.",
-  "num_followers": 1495070,
+  "num_followers": 1495138,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MzE3OCwwMDAwMDAwMDZhMzMwYmMzMjEzZjhjZTI2ODlmNWE4YjA1ZGNhZmFm",
+  "snapshot_id": "MTY2Mzc4MzE3OCwwMDAwMDAwMDcyMGM0ZWQ4YzhhNGE4OWE5MmI2YzQ2ZTA0YjlhMDhh",
   "tracks": [
     {
       "added_at": "2022-09-19 15:41:22",
@@ -243,6 +243,26 @@
     {
       "added_at": "2022-09-19 15:41:22",
       "album": {
+        "name": "5 Estrellas",
+        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 191094,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
+    },
+    {
+      "added_at": "2022-09-19 15:41:22",
+      "album": {
         "name": "Como \u00d1engo (feat. Jota Rosa)",
         "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
-        "name": "5 Estrellas",
-        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 191094,
-      "name": "5 Estrellas",
-      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
     },
     {
       "added_at": "2022-09-19 15:41:22",
@@ -579,6 +579,26 @@
     {
       "added_at": "2022-09-19 15:41:22",
       "album": {
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
+    },
+    {
+      "added_at": "2022-09-19 15:41:22",
+      "album": {
         "name": "R\u00f3mpela",
         "url": "https://open.spotify.com/album/6Z5sESQanxhvXqNbEMhQGd"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 184000,
       "name": "R\u00f3mpela",
       "url": "https://open.spotify.com/track/6mwROK8Er0EZdXwbwuiHIJ"
-    },
-    {
-      "added_at": "2022-09-19 15:41:22",
-      "album": {
-        "name": "Me Duele",
-        "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Me Duele",
-      "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
     },
     {
       "added_at": "2022-09-19 15:41:22",

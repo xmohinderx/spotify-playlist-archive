@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Lizzy Mcalpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,695,030 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695,004 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 16 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
 | 17 | [are we done yet?](https://open.spotify.com/track/1BdzvR20FObuU4AdB7EuTs) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [are we done yet?](https://open.spotify.com/album/42mnwpVIAIYSNXjgCKsyLu) | 4:01 |
 | 18 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
-| 19 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 |
+| 19 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 |
 | 20 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 |
-| 21 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 |
+| 21 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 |
 | 22 | [Cdbaby<3](https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3](https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V) | 2:42 |
 | 23 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 24 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 31 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 |
 | 32 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 |
 | 33 | [Butterflies](https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/4gV9MDYWSaZV9OYL8l1vqW) | 2:56 |
-| 34 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 |
+| 34 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
 | 35 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 |
-| 36 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
+| 36 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 |
 | 37 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
 | 38 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
 | 39 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 46 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 |
 | 47 | [I Gotta I Gotta](https://open.spotify.com/track/2pKLhfqiY6yD1tZWlbE3tQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Gotta I Gotta](https://open.spotify.com/album/5tfq2xwJtGRKA7rIJgMyix) | 2:17 |
 | 48 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 |
-| 49 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 |
-| 50 | [Easy](https://open.spotify.com/track/3gzIK2dGSVvPBiohsTwEWZ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream](https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj) | 3:46 |
+| 49 | [Easy](https://open.spotify.com/track/3gzIK2dGSVvPBiohsTwEWZ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream](https://open.spotify.com/album/6DutwGzMeny33G6mIpujDj) | 3:46 |
+| 50 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 |
 | 51 | [Seeds](https://open.spotify.com/track/6S2Uha79wlOXCRlDOImZkZ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Seeds](https://open.spotify.com/album/2e6NV4iI00YbGAtZl1el5v) | 4:11 |
 | 52 | [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 |
 | 53 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 74 | [Drown](https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Drown](https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB) | 3:01 |
 | 75 | [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDkzYTQwYzZiZmI2ZDU3N2YxMjQyOTE2NzQzMTk3NGRl`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDQ5YmFhZDg1MzgzZjU5NmU2OThjOGEwZjkyYjYyOTBm`

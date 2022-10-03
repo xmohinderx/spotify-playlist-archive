@@ -1,12 +1,12 @@
 {
   "description": "All of the classic hits from the 50s and 60s.",
-  "num_followers": 848173,
+  "num_followers": 848554,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMGVjMzMxYjM0MDRkZmJmY2QwZTViMWU5YzI1YzQ1MzA4",
+  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMGIwMjEzZjdiYzQ5MjVhYTg1ZTAwMGQzY2IyMzI4OTg4",
   "tracks": [
     {
       "added_at": "2022-03-07 23:38:19",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Foundations",
-        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 177533,
-      "name": "Build Me Up Buttercup - Mono",
-      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+      "duration_ms": 177533,
+      "name": "Build Me Up Buttercup - Mono",
+      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Gettin' Ready (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "Ain't Too Proud To Beg",
-      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Gettin' Ready (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 156173,
+      "name": "Ain't Too Proud To Beg",
+      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Travelin' Man - Remastered",
-      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/69sEXPrKQ5PtCxel5csSXs"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Good Vibrations 40th Anniversary",
+        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Good Vibrations 40th Anniversary",
-        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 217746,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
+      "duration_ms": 143200,
+      "name": "Travelin' Man - Remastered",
+      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 173866,
       "name": "You're All I Need To Get By",
       "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 150960,
       "name": "Peggy Sue",
       "url": "https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
         }
       ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1135,22 +1135,6 @@
       "duration_ms": 139506,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1175,18 +1159,34 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
       "artists": [
         {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Crying",
+        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Golden Hits of The Everly Brothers",
-        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Best Of Dion",
         "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 122866,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Golden Hits of The Everly Brothers",
+        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Best Of Frankie Lymon & The Teenagers",
-        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Frankie Lymon",
-          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
-        },
-        {
-          "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 139666,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1431,6 +1427,26 @@
       "duration_ms": 147841,
       "name": "Duke of Earl",
       "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Frankie Lymon & The Teenagers",
+        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Shoop Shoop Song (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1CDz7wAwakjRXfTxnpgj28"
+        "name": "B.J. Thomas",
+        "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
       },
       "artists": [
         {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
         }
       ],
-      "duration_ms": 136116,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/3qoNRhQuqbAG4uXrPx2aSk"
+      "duration_ms": 166520,
+      "name": "Hooked on a Feeling - Rerecorded",
+      "url": "https://open.spotify.com/track/75HYhujFXgY5ugYwT1azLC"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "B.J. Thomas",
-        "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
-      },
-      "artists": [
-        {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Hooked on a Feeling - Rerecorded",
-      "url": "https://open.spotify.com/track/75HYhujFXgY5ugYwT1azLC"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Chordettes' Best",
         "url": "https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "The Shoop Shoop Song (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1CDz7wAwakjRXfTxnpgj28"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 136116,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/3qoNRhQuqbAG4uXrPx2aSk"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1559,6 +1559,22 @@
       "duration_ms": 155400,
       "name": "Twist And Shout",
       "url": "https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "The Trashmen",
+          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Surfin' Bird",
+      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1591,22 +1607,6 @@
       "duration_ms": 148160,
       "name": "I Will Follow Him",
       "url": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "The Trashmen",
-          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Surfin' Bird",
-      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
     },
     {
       "added_at": "2022-03-07 23:38:19",

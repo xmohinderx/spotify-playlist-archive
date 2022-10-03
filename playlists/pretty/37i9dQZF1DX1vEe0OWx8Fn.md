@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,969 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,059 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 44 | [fall apart \(with glaive\)](https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:36 |
 | 45 | [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 |
 | 46 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 |
-| 47 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 |
-| 48 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 |
+| 47 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 |
+| 48 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 |
 | 49 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 |
 | 50 | [hangar](https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:45 |
 
-Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMDdlMTJkNWQ3MWIwZjM1NzUzZmE0ZTdlOTQ2NTFjYTBh`
+Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMGExZWM4OWJiZWJkMGVmZmQwMWRkYTVlNzRiY2NjNGY2`

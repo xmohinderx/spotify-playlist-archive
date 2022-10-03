@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1131679,
+  "num_followers": 1131831,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2OTgyNiwwMDAwMDAwMGI0ZmZjMDRiN2NkYmIyZWM1ZWZkMjZkNGEyYjg4ZDQ5",
+  "snapshot_id": "MTY2NDI2OTgyNiwwMDAwMDAwMDA1Y2QyYjRkMWQxMDM1N2NmYzE1ZDZkM2E1YzVmMGM2",
   "tracks": [
     {
       "added_at": "2022-09-20 07:39:40",
@@ -195,18 +195,22 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r"
+        "name": "Got You on My Mind",
+        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
       "artists": [
         {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        },
+        {
+          "name": "William Galison",
+          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
         }
       ],
-      "duration_ms": 310826,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC"
+      "duration_ms": 182508,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
     },
     {
       "added_at": "2022-09-20 07:39:40",
@@ -227,22 +231,18 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
-        "name": "Got You on My Mind",
-        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        },
-        {
-          "name": "William Galison",
-          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
         }
       ],
-      "duration_ms": 182508,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
+      "duration_ms": 310826,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC"
     },
     {
       "added_at": "2022-09-20 07:39:40",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 260986,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/1shrhyVVd0fHk6PoC3kx7j"
+      "duration_ms": 243480,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
     },
     {
       "added_at": "2022-09-20 07:39:40",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
-      },
-      "artists": [
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
-    },
-    {
-      "added_at": "2022-09-20 07:39:40",
-      "album": {
         "name": "Grand Songs",
         "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
+    },
+    {
+      "added_at": "2022-09-20 07:39:40",
+      "album": {
         "name": "Turn Up The Quiet",
         "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 243480,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
+      "duration_ms": 260986,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/1shrhyVVd0fHk6PoC3kx7j"
     },
     {
       "added_at": "2022-09-20 07:39:40",
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
-        "name": "Nat \"King\" Cole & Me",
-        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
       },
       "artists": [
         {
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 128520,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
     },
     {
       "added_at": "2022-09-20 07:39:40",
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
+        "name": "Nat \"King\" Cole & Me",
+        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
       },
       "artists": [
         {
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
+      "duration_ms": 128520,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
     },
     {
       "added_at": "2022-09-20 07:39:40",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
+        "name": "Stardust...The Great American Songbook III",
+        "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6W2kTdZu9nMDLRltwNhiBD"
+    },
+    {
+      "added_at": "2022-09-20 07:39:40",
+      "album": {
         "name": "Every Star Above",
         "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
-        "name": "Stardust...The Great American Songbook III",
-        "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/6W2kTdZu9nMDLRltwNhiBD"
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2022-09-20 07:39:40",
@@ -1427,22 +1443,6 @@
       "duration_ms": 172186,
       "name": "It's Always You",
       "url": "https://open.spotify.com/track/0rWS1OheLM9jpGznNwyrEj"
-    },
-    {
-      "added_at": "2022-09-20 07:39:40",
-      "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2022-09-20 07:39:40",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-09-20 07:39:40",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/2km0Pwo18ZINnBh67fgRA3"
-    },
-    {
-      "added_at": "2022-09-20 07:39:40",
-      "album": {
         "name": "An Englishman in Love in LA",
         "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 176573,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+    },
+    {
+      "added_at": "2022-09-20 07:39:40",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2km0Pwo18ZINnBh67fgRA3"
     },
     {
       "added_at": "2022-09-20 07:39:40",

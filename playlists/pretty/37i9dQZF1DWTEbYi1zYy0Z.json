@@ -1,15 +1,15 @@
 {
   "description": "So fresh, so smooth. Cover: Kim Scott",
-  "num_followers": 36596,
+  "num_followers": 36644,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGU1NDJjYmVkODY5OWM2OGYyZTg5Njk1YjM1ZGEyNjFj",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDI5YmYxMjY1ZmEzZWY5ZGU3MWZkOGM1YWJjMDI1NTM0",
   "tracks": [
     {
-      "added_at": "2022-10-02 01:27:08",
+      "added_at": "2022-10-03 01:16:32",
       "album": {
         "name": "H.A.D.",
         "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
+      },
+      "artists": [
+        {
+          "name": "Jazz Holdouts",
+          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
+        }
+      ],
+      "duration_ms": 246024,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Lavish",
@@ -195,22 +211,6 @@
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
-      },
-      "artists": [
-        {
-          "name": "Jazz Holdouts",
-          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
-        }
-      ],
-      "duration_ms": 246024,
-      "name": "Workin'",
-      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 261562,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
@@ -563,22 +579,6 @@
       "duration_ms": 293280,
       "name": "Weekend Groove",
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 261562,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Feet First",
-        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Feet First",
-      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
-    },
-    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "One More Night",
@@ -697,24 +681,20 @@
       "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Radio Vibe",
-        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
+        "name": "Feet First",
+        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
       },
       "artists": [
         {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        },
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 249529,
-      "name": "Radio Vibe - radio single",
-      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
+      "duration_ms": 240906,
+      "name": "Feet First",
+      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -737,20 +717,24 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Simply Worship",
-        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
+        "name": "Radio Vibe",
+        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
       },
       "artists": [
         {
-          "name": "Uriel Vega",
-          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        },
+        {
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
         }
       ],
-      "duration_ms": 249720,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
+      "duration_ms": 249529,
+      "name": "Radio Vibe - radio single",
+      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -769,6 +753,22 @@
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Simply Worship",
+        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
+      },
+      "artists": [
+        {
+          "name": "Uriel Vega",
+          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
+    },
+    {
       "added_at": "2022-02-14 15:14:54",
       "album": {
         "name": "A Midnight Rendezvous",
@@ -785,20 +785,24 @@
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
+        "name": "A Sunny Day",
+        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
       },
       "artists": [
         {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+          "name": "WaKaNa",
+          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
+        },
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
         }
       ],
-      "duration_ms": 216550,
-      "name": "Dig It",
-      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
+      "duration_ms": 255466,
+      "name": "Fika Talk",
+      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -821,6 +825,22 @@
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 216550,
+      "name": "Dig It",
+      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
+    },
+    {
       "added_at": "2022-01-28 05:02:00",
       "album": {
         "name": "Soul to Soul",
@@ -835,26 +855,6 @@
       "duration_ms": 228102,
       "name": "Soul to Soul - 2022 Version",
       "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
-      },
-      "artists": [
-        {
-          "name": "WaKaNa",
-          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
-        },
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Fika Talk",
-      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     }
   ],
   "unique_name": "New Smooth Jazz",

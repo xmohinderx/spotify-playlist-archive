@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 49 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 49 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 48 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
 | 49 | [Location](https://open.spotify.com/track/4Eegpewr60UiKR7w8wfGMH) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 3:23 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDAzYTEzZDljNWMwNDRiYThlYTA2ZGZlY2I5N2EwYmQzMQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA1YThiNDhjMDE4OTgzNjdhNzIzNmY2ZTNiMDhjNzk4ZA==`

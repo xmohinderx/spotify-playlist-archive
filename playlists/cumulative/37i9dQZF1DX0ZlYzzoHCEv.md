@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-225 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+226 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [in heat.](https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [in heat.](https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7) | 1:56 | 2022-05-06 | 2022-07-29 |
 | [IN THE CLUB](https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ) | [Mishashi Sensei](https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK) | [IN THE CLUB](https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4) | 2:19 | 2022-05-06 | 2022-09-09 |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-05-27 |  |
-| [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-08-25 |  |
+| [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-08-25 | 2022-10-03 |
 | [La canzone del pane](https://open.spotify.com/track/4zIDZLcm7EkydNvVvpU0lj) | [I Camillas](https://open.spotify.com/artist/2qRou3tRPqy2p59UBDkQVC) | [Le politiche del prato](https://open.spotify.com/album/141LmYjk5WtxVEcGr56N9s) | 4:14 | 2022-05-06 | 2022-07-01 |
 | [Lasciami Qui](https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr) | [Sxrrxwland](https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje) | [Buone Maniere Per Giovani Predatori](https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp) | 3:53 | 2022-05-06 | 2022-07-22 |
 | [Legghins di pelle](https://open.spotify.com/track/7aw1LKhEXhxNE16Y3hqDMI) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [Leggins di pelle](https://open.spotify.com/album/63LwcPVHiaWhdMT5oSKDhx) | 2:12 | 2022-05-06 | 2022-07-29 |
@@ -182,6 +182,7 @@
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-05-06 | 2022-08-22 |
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-09-08 |  |
 | [Shakerando \- Remix Napoletano](https://open.spotify.com/track/6ghhJSMWEyuZgmqndmWG1V) | [Black Emme](https://open.spotify.com/artist/0WRl37adNM64cIFdt5T07I) | [Shakerando \(Remix Napoletano\)](https://open.spotify.com/album/77uUCqw7RdnlxvjnJfOWNc) | 1:39 | 2022-06-03 | 2022-06-09 |
+| [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-23 |  |
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-08-23 |  |
 | [SHUM](https://open.spotify.com/track/29bhnde7Gvnp7rvY9zsq5S) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/5PHaqajzAEUhRPjwFYqjSx) | 2:52 | 2022-05-06 | 2022-07-28 |
 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 | 2022-05-06 | 2022-07-29 |

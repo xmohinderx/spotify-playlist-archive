@@ -665,10 +665,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 102653,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/0StYBemv9yt0DmbCPNUnC7"
+    },
+    {
+      "album": {
+        "name": "Endless Love / \u4ef2\u826f\u30d4\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH"
+      },
+      "artists": [
+        {
+          "name": "\u84bc\u4e95\u7fd4\u592a(CV:\u84bc\u4e95\u7fd4\u592a)",
+          "url": "https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102653,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS"
     },
     {
       "album": {
@@ -2331,6 +2349,24 @@
       "duration_ms": 276400,
       "name": "Tsubame to Kaze",
       "url": "https://open.spotify.com/track/6k6vxgIhOKVP1GnAMBgQyF"
+    },
+    {
+      "album": {
+        "name": "Umikaze no Monologue",
+        "url": "https://open.spotify.com/album/39cGk6J25lOSg0ZFK1PuT0"
+      },
+      "artists": [
+        {
+          "name": "Sumire Uesaka",
+          "url": "https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "Umikaze no Monologue",
+      "url": "https://open.spotify.com/track/4738WpIvtp7gautXrTtSsw"
     },
     {
       "album": {
@@ -4319,7 +4355,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 260493,
       "name": "\u6d77\u98a8\u306e\u30e2\u30ce\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/6WkHpy9k9HW2biUXUQppJY"

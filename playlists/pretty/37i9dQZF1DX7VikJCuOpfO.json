@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 61812,
+  "num_followers": 61827,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDc2YTQyMTUyMTdiYTQ0Nzc4Mjc4MWFkN2ZkMGRkNjdk",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDc0ODJmYmZmYzYyZTMxN2FlNjc5NDk1ZjNkM2ZmZDZm",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Qu\u00e9 Ganas De Verte",
+        "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Qu\u00e9 Ganas De Verte",
+      "url": "https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Una Llamada Perdida",
         "url": "https://open.spotify.com/album/7lm4FQqOoRuTkDoSmLHKa7"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 199413,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/50wcP2Qy153SJ3pP3ZTL9G"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Qu\u00e9 Ganas De Verte",
-        "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Qu\u00e9 Ganas De Verte",
-      "url": "https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/6DlpxVdn2Pzyu0UISlJDDs"
-      },
-      "artists": [
-        {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/5HJQxI2xwe0tCmNcv0v8Dm"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "La Tequilera",
         "url": "https://open.spotify.com/album/2iENy4iizJb4kSR1Y0T2aR"
       },
@@ -1127,8 +1111,24 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/6DlpxVdn2Pzyu0UISlJDDs"
+      },
+      "artists": [
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/5HJQxI2xwe0tCmNcv0v8Dm"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 163381,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
+      "duration_ms": 175306,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1155,22 +1155,6 @@
       "duration_ms": 251173,
       "name": "El privilegio de amar - En vivo",
       "url": "https://open.spotify.com/track/50AcR2LB8UPRJ6hGQHcnH2"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Si Hay Otra Vida",
-        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 204692,
-      "name": "Si Hay Otra Vida",
-      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 335666,
       "name": "Hoy Te Manifiesto - En Vivo",
       "url": "https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Si Hay Otra Vida",
+        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 204692,
+      "name": "Si Hay Otra Vida",
+      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 175306,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
+      "duration_ms": 163381,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
     },
     {
       "added_at": "2022-07-29 04:00:00",

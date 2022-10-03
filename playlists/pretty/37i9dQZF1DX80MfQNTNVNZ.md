@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,613 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,681 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 38 | [Thinking Bout You](https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Thinking Bout You](https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu) | 3:10 |
 | 39 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 | 40 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
-| 41 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 |
-| 42 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
+| 41 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
+| 42 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 |
 | 43 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8) | 3:03 |
 | 44 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
 | 45 | [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 53 | [Romeo \(feat\. Bas\)](https://open.spotify.com/track/2t9bMYh6ZJGfAZPKJGnby0) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 2:46 |
 | 54 | [Ordinary Pleasure](https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 3:03 |
 | 55 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 |
-| 56 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
-| 57 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
+| 56 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
+| 57 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
 | 58 | [Wake Up, Get Down](https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Wake Up, Get Down](https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6) | 4:19 |
 | 59 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 |
 | 60 | [Bad Behavior](https://open.spotify.com/track/5QvLKIo27yVB5Rns0VXGrI) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bad Behavior](https://open.spotify.com/album/0KdhMV76LQ8yhulP067Sbn) | 3:22 |
 
-Snapshot ID: `MTY2NDUyMTUzOSwwMDAwMDAwMGVhYjdjZjJhYTEzMmZiZWQwMWRmMjAzZGRjZmU5YWQ1`
+Snapshot ID: `MTY2NDUyMTUzOSwwMDAwMDAwMDMyMDg4YjQ5MjIwNDE2ZGE5ZDM4OGYyZmNjNjM4YjMx`

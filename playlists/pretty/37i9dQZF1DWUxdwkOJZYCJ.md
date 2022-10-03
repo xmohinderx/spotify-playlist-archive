@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 
 > Energetic tracks from the 1990s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,135 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,436 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,20 +31,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 21 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
 | 22 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 |
 | 23 | [Men In Black \- From "Men In Black" Soundtrack](https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
-| 24 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
-| 25 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
+| 24 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
+| 25 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
 | 26 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
-| 27 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 |
-| 28 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
-| 29 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
-| 30 | [Who Do You Think You Are](https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:00 |
+| 27 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
+| 28 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 |
+| 29 | [Who Do You Think You Are](https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:00 |
+| 30 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
 | 31 | [The One and Only](https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [Buddy's Song](https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz) | 3:43 |
 | 32 | [I'm Too Sexy](https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 2:50 |
 | 33 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
 | 34 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 |
 | 35 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 |
-| 36 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
-| 37 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
+| 36 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
+| 37 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 | 38 | [Shy Guy](https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo) | [Diana King](https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1) | [Tougher Than Love](https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b) | 4:18 |
 | 39 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 | 40 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 46 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 |
 | 47 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
 | 48 | [Life Is a Flower](https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Flowers](https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q) | 3:47 |
-| 49 | [The Animal Song](https://open.spotify.com/track/5TuzQ44lPWTCKbfXbNIEXg) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:38 |
-| 50 | [New York City Boy \- 2017 Remaster](https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 5:15 |
+| 49 | [New York City Boy \- 2017 Remaster](https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 5:15 |
+| 50 | [The Animal Song](https://open.spotify.com/track/5TuzQ44lPWTCKbfXbNIEXg) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:38 |
 
-Snapshot ID: `MTY2MDI5NTY0OCwwMDAwMDAwMDE1NzFmNWNhNjg5M2M0NzM5YTZhMDQ3ZWVjYjI1MWM2`
+Snapshot ID: `MTY2MDI5NTY0OCwwMDAwMDAwMDQ4ZjMwYWZiYmIwMjFhNjAwYzkyYjllMThhOWNmOGYw`

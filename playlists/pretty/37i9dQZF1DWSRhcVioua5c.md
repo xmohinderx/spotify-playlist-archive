@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,161 likes - 90 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,205 likes - 90 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 81 | [Nunca Olvides](https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 3:53 |
 | 82 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 |
 | 83 | [Corazon Sin Tiempo](https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Corazon Sin Tiempo](https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I) | 3:37 |
-| 84 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
-| 85 | [Te Olvidé](https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Te Olvidé](https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU) | 3:00 |
+| 84 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
+| 85 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
 | 86 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
-| 87 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
-| 88 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
-| 89 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
-| 90 | [Tan Lejos de Mi](https://open.spotify.com/track/1ryLI4hIaYrhhUnJsGNyru) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/4qJQXvSgPdJz3crYm4t0uO) | 4:06 |
+| 87 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
+| 88 | [Te Olvidé](https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Te Olvidé](https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU) | 3:00 |
+| 89 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
+| 90 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 
-Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDQ4MGNmMmNmZTc3YTM5MmRjODVkNDFkMjdmZmU0YTg3`
+Snapshot ID: `MTY2MzkwMjAwMCwwMDAwMDAwMDU2OGFlOTAxMmZiZmU1OGE2OTVmYzRmMjBhYmFiNDcx`

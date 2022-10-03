@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1?si=A4P7484bQF2d7VsJ551kRw" > Vector </a>
 
-73 songs - 3 hr 36 min - not published yet
+73 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/3BUxfJDiPiu9ct0POyewZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,341 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,26 +36,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 26 | [Acariciame](https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:07 |
 | 27 | [Sin Tu Amor](https://open.spotify.com/track/6zDbT0ltQqymfFwQekJHSU) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 3:23 |
 | 28 | [Pinto Raya](https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
-| 29 | [El amor que soñaba](https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:52 |
-| 30 | [Estupendo](https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:13 |
+| 29 | [Estupendo](https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:13 |
+| 30 | [El amor que soñaba](https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:52 |
 | 31 | [Voy a Decirle](https://open.spotify.com/track/5kG9Ng8DM15wTB1H1TGh8k) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 2:22 |
 | 32 | [El esdrújulo](https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Festival Grupero Vol\. I](https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc) | 2:25 |
-| 33 | [En Que Fallé](https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:46 |
-| 34 | [Borracho y Loco](https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 4:01 |
+| 33 | [Borracho y Loco](https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 4:01 |
+| 34 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
 | 35 | [A Pesar de Todo](https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 3:05 |
-| 36 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
-| 37 | [Revolución Tecno](https://open.spotify.com/track/6m2eB6K0F2M3IejPnGYJuR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:21 |
-| 38 | [Las Cosas No Son Del Dueno](https://open.spotify.com/track/3lETJ4GYKeoYOrQK0VaqPy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:06 |
+| 36 | [En Que Fallé](https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:46 |
+| 37 | [Las Cosas No Son Del Dueno](https://open.spotify.com/track/3lETJ4GYKeoYOrQK0VaqPy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:06 |
+| 38 | [Revolución Tecno](https://open.spotify.com/track/6m2eB6K0F2M3IejPnGYJuR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:21 |
 | 39 | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN) | 2:48 |
 | 40 | [Ya parará](https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Cumbia Explosión](https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa) | 0:38 |
-| 41 | [El Sabio Conocedor](https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:53 |
-| 42 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 |
-| 43 | [El Zorro y el Sabueso](https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:31 |
-| 44 | [El Gato Del Vecindario](https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:31 |
-| 45 | [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/track/2PEj6MY7FQQn3zrEcF1KsJ) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/album/3V2sbS5J5XYiH1tZoBFlMX) | 2:48 |
-| 46 | [Cadereando](https://open.spotify.com/track/6yFZbA1FkoK4nT4t9ni9Gi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 2:55 |
-| 47 | [Como un Tatuaje](https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
-| 48 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 |
+| 41 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 |
+| 42 | [El Sabio Conocedor](https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:53 |
+| 43 | [El Gato Del Vecindario](https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:31 |
+| 44 | [El Zorro y el Sabueso](https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:31 |
+| 45 | [Cadereando](https://open.spotify.com/track/6yFZbA1FkoK4nT4t9ni9Gi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 2:55 |
+| 46 | [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/track/2PEj6MY7FQQn3zrEcF1KsJ) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/album/3V2sbS5J5XYiH1tZoBFlMX) | 2:48 |
+| 47 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 |
+| 48 | [Como un Tatuaje](https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
 | 49 | [La Morena](https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:54 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBlZDRlYWNmM2QxNGM2ZDBjZTNjNjAzMjUyZDkxZGNkOA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAwNmNjMjQ2NmFiOTIwZTJhMzJjYTRiYjFmY2Y2MjlmYw==`

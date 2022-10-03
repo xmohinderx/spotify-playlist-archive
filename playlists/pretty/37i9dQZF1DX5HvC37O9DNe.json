@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 84691,
+  "num_followers": 84764,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMGRjNDI0ZmJhZTg5OWU0ODk5OThiMzVkNmEyY2FjYzJj",
+  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMGE4ZTQ2ZDM2MzdhYjUyM2Q3NjY2ODI1ZjU2MzQ3NTEx",
   "tracks": [
     {
       "added_at": "2022-09-29 22:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 253520,
-      "name": "Love Me Like You Do",
-      "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Ferrari (Remix)",
         "url": "https://open.spotify.com/album/0zWMvd5j2ozFDLycUIVzbt"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 172000,
       "name": "Ferrari - Remix",
       "url": "https://open.spotify.com/track/3XucsgiwXb8KPn9Csf9Zmu"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 253520,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Don't Go Yet",
         "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "BED",
-        "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 178087,
-      "name": "BED",
-      "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
@@ -1067,22 +1043,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Tropicana (feat. Annalisa)",
-        "url": "https://open.spotify.com/album/4vJhkz8fj06lW7TEoVmBKM"
+        "name": "BED",
+        "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
       "artists": [
         {
-          "name": "Boomdabash",
-          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Tropicana (feat. Annalisa)",
-      "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"
+      "duration_ms": 178087,
+      "name": "BED",
+      "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1103,6 +1083,26 @@
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Tropicana (feat. Annalisa)",
+        "url": "https://open.spotify.com/album/4vJhkz8fj06lW7TEoVmBKM"
+      },
+      "artists": [
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Tropicana (feat. Annalisa)",
+      "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "LA DOLCE VITA",
-        "url": "https://open.spotify.com/album/53zvCqI9glWstTSC1WFwT7"
-      },
-      "artists": [
-        {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
-        },
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        },
-        {
-          "name": "Mara Sattei",
-          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "LA DOLCE VITA",
-      "url": "https://open.spotify.com/track/0I0b7uTFfHhBz5bMkSDouF"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "BUBBLE (feat. thasup & Salmo)",
         "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 164327,
       "name": "BUBBLE (feat. thasup & Salmo)",
       "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "LA DOLCE VITA",
+        "url": "https://open.spotify.com/album/53zvCqI9glWstTSC1WFwT7"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        },
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "LA DOLCE VITA",
+      "url": "https://open.spotify.com/track/0I0b7uTFfHhBz5bMkSDouF"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Clap Your Hands",
-        "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 232813,
       "name": "I AM WOMAN",
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Clap Your Hands",
+        "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "MUJER",
+        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "MUJER",
+      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 188975,
       "name": "LA CODA DEL DIAVOLO (con ELODIE)",
       "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "MUJER",
-        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "MUJER",
-      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
     }
   ],
   "unique_name": "Tra Amiche",

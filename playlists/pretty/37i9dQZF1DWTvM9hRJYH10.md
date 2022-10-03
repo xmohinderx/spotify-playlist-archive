@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Madeline Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,256 likes - 145 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,258 likes - 145 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 68 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 69 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 70 | [Fallback](https://open.spotify.com/track/3Awkc2RG0sxtLjJWgnYAHx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Fallback](https://open.spotify.com/album/2tfzITEHPPyizfRoiTTzhX) | 2:53 |
-| 71 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 |
+| 71 | [Lucky Me](https://open.spotify.com/track/0Xn2Omp7qVusyoTRCNp3Y7) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Dreamers](https://open.spotify.com/album/6T9I7BtWTwPIJQwbmE6sel) | 3:35 |
 | 72 | [Love Takes Time](https://open.spotify.com/track/01YA6z2H4vYzQ9XLlrE3Qt) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Jonathan Hutcherson](https://open.spotify.com/album/2H4lPoj1CgW9dK3DukPdGh) | 2:39 |
 | 73 | [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 |
 | 74 | [Started Right Here](https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/113bFdIiv0jfchW7SKyBa8) | 2:45 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 144 | [That Summer](https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [That Summer](https://open.spotify.com/album/37fZJrMmfyGdPgBupuXKLo) | 3:04 |
 | 145 | [Pieces](https://open.spotify.com/track/5h0xfskqYqiDYG4jc8EMyb) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/5FyigvplnzcKCIfAzvVAA9) | 3:07 |
 
-Snapshot ID: `MTY2NDU0NDI4MywwMDAwMDAwMGEzYzA1MGQ0ODQ4YjY0OTg5MmJlYmQxNWRmN2FmOTJk`
+Snapshot ID: `MTY2NDU0NDI4MywwMDAwMDAwMDdlYjViODcyMTRhZjVkNDg3YTE4N2M3ZDQxY2UwNWNi`

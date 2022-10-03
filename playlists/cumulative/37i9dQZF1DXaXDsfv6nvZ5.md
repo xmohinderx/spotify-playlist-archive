@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-127 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
+128 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Break Me](https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [then, now & again](https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta) | 4:12 | 2021-12-03 | 2022-07-29 |
 | [Breakfast \- A COLORS SHOW](https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Breakfast \- A COLORS SHOW](https://open.spotify.com/album/3dE3ZGLl0XaYuGBibxSYbh) | 3:12 | 2022-01-28 | 2022-07-29 |
 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 | 2021-12-03 |  |
-| [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-12-03 |  |
+| [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-12-03 | 2022-10-03 |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-08-26 |  |
 | [Can We Be Friends?](https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Can We Be Friends?](https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Can We Be Friends?](https://open.spotify.com/track/0dSUVLUIEtbKdbpq39qPI8) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:56 | 2022-03-11 | 2022-08-27 |
@@ -68,6 +68,7 @@
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-03 |  |
 | [Hurt A Little](https://open.spotify.com/track/34ICFY39nLDN42fbDCRJ1g) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Hurt A Little](https://open.spotify.com/album/41ycEl7mRF6vZJIbAZRuBz) | 3:57 | 2022-09-23 |  |
 | [I Won't Fall To Your Love](https://open.spotify.com/track/17qHPhUy9pzTQtB4jBYKjM) | [Nick Moore](https://open.spotify.com/artist/7ukZgEvzF0YdF9vw8axy5h) | [I Won't Fall To Your Love](https://open.spotify.com/album/20knLZluvaF9ogIjJeBEsX) | 3:16 | 2022-09-09 |  |
+| [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 |  |
 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 | 2022-03-11 |  |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-03-11 |  |
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2022-03-11 |  |

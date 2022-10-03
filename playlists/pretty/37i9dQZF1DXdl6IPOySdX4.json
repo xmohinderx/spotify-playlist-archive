@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 750971,
+  "num_followers": 753736,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ1OTM4NCwwMDAwMDAwMGFlZTI3YTM1YTllMDExNTcxZGU2OTFkN2M4ZmQ3N2My",
+  "snapshot_id": "MTY2NDQ1OTM4NCwwMDAwMDAwMDE1MTU5ZTg5ZGNjNWJlNDg5NDBiYTY3MGNiNjMwMGY1",
   "tracks": [
     {
       "added_at": "2022-09-28 14:46:59",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-28 14:46:59",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-09-28 14:46:59",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-09-28 14:46:59",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
     },
     {
       "added_at": "2022-09-28 14:46:59",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-09-28 14:46:59",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2022-09-28 14:46:59",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2022-09-28 14:46:59",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2022-09-28 14:46:59",

@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Celebrating 20 years of Songs For The Deaf",
-  "num_followers": 451805,
+  "num_followers": 451956,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMDM4OSwwMDAwMDAwMDdjNWNmZjFiN2E4ZmY4NDExMTZiZmQ3MmYyN2VmOTRk",
+  "snapshot_id": "MTY2MTUyMDM4OSwwMDAwMDAwMDk5ZDc5NDRhYTY2MjMzNzhlM2I2NzRjNzRhMGZjYmFh",
   "tracks": [
     {
       "added_at": "2022-08-26 13:26:29",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
+        "name": "From Beale Street to Oblivion",
+        "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "Electric Worry",
+      "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 355933,
       "name": "Space Lord",
       "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
-        "name": "From Beale Street to Oblivion",
-        "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 314746,
-      "name": "Electric Worry",
-      "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 391240,
+      "name": "Spacegrass",
+      "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
         "name": "Tame Impala",
         "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 343306,
       "name": "Wires",
       "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
-        "name": "Clutch",
-        "url": "https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 391240,
-      "name": "Spacegrass",
-      "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Through The Eyes Of Heathens",
-        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
       },
       "artists": [
         {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 508293,
-      "name": "Big Sky Theory",
-      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -871,6 +855,22 @@
       "duration_ms": 435213,
       "name": "Death's Door",
       "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "Through The Eyes Of Heathens",
+        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
+      },
+      "artists": [
+        {
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+        }
+      ],
+      "duration_ms": 508293,
+      "name": "Big Sky Theory",
+      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Son of Earth and Sky",
-        "url": "https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu"
-      },
-      "artists": [
-        {
-          "name": "High Priest of Saturn",
-          "url": "https://open.spotify.com/artist/4oiMZnQMj43kMUA41Q1H1x"
-        }
-      ],
-      "duration_ms": 549640,
-      "name": "Ages Move the Earth",
-      "url": "https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "Our Mother Electricity",
         "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 352073,
       "name": "Elk.Blood.Heart",
       "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "Son of Earth and Sky",
+        "url": "https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu"
+      },
+      "artists": [
+        {
+          "name": "High Priest of Saturn",
+          "url": "https://open.spotify.com/artist/4oiMZnQMj43kMUA41Q1H1x"
+        }
+      ],
+      "duration_ms": 549640,
+      "name": "Ages Move the Earth",
+      "url": "https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
-      },
-      "artists": [
-        {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "Luciferian Towers",
         "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 279840,
       "name": "Bosses Hang, Pt. I",
       "url": "https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+      },
+      "artists": [
+        {
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "Unmountable Stairs",
         "url": "https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 407646,
       "name": "Black",
       "url": "https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
-      },
-      "artists": [
-        {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Let Me Down Hard",
-        "url": "https://open.spotify.com/album/3u3ZjCcA8qJvYqw0fpMtEt"
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
       "artists": [
         {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
         }
       ],
-      "duration_ms": 222066,
-      "name": "Unbroken (Hotel Baby)",
-      "url": "https://open.spotify.com/track/7rbQ7uq3ffnVnIZn2Kstp0"
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1351,6 +1335,22 @@
       "duration_ms": 848346,
       "name": "Uluru Rock",
       "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "Let Me Down Hard",
+        "url": "https://open.spotify.com/album/3u3ZjCcA8qJvYqw0fpMtEt"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Unbroken (Hotel Baby)",
+      "url": "https://open.spotify.com/track/7rbQ7uq3ffnVnIZn2Kstp0"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Samsara",
-        "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
-      },
-      "artists": [
-        {
-          "name": "The Well",
-          "url": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
-        }
-      ],
-      "duration_ms": 331468,
-      "name": "Mortal Bones",
-      "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "The Devil and the Almighty Blues",
         "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 387668,
       "name": "Tired Old Dog",
       "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
+      },
+      "artists": [
+        {
+          "name": "The Well",
+          "url": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
+        }
+      ],
+      "duration_ms": 331468,
+      "name": "Mortal Bones",
+      "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2st5WC99waH8DaN3naNq32"
-      },
-      "artists": [
-        {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
-        }
-      ],
-      "duration_ms": 495093,
-      "name": "Calm Before the Storm",
-      "url": "https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "Tales of the Wicked West",
         "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 318023,
       "name": "(If You Want the Smoke) Be the Fire",
       "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2st5WC99waH8DaN3naNq32"
+      },
+      "artists": [
+        {
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+        }
+      ],
+      "duration_ms": 495093,
+      "name": "Calm Before the Storm",
+      "url": "https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "Psych Aux Tropiques",
-        "url": "https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL"
-      },
-      "artists": [
-        {
-          "name": "Kamggarn",
-          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "Cranberry Kiss",
-      "url": "https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 304600,
       "name": "Colossal",
       "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "Psych Aux Tropiques",
+        "url": "https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL"
+      },
+      "artists": [
+        {
+          "name": "Kamggarn",
+          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
+        }
+      ],
+      "duration_ms": 161771,
+      "name": "Cranberry Kiss",
+      "url": "https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "The Great American Death Rattle",
-        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Supercult",
-          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "The Great American Death Rattle",
-      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
-    },
-    {
-      "added_at": "2022-08-26 13:26:29",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2022-08-26 13:26:29",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+        "name": "The Great American Death Rattle",
+        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
       "artists": [
         {
-          "name": "Unida",
-          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+          "name": "Youngblood Supercult",
+          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
         }
       ],
-      "duration_ms": 346116,
-      "name": "Left Us To Mold",
-      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
+      "duration_ms": 244720,
+      "name": "The Great American Death Rattle",
+      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
     },
     {
       "added_at": "2022-08-26 13:26:29",
@@ -1607,6 +1591,22 @@
       "duration_ms": 247013,
       "name": "Greenthumb",
       "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
+    },
+    {
+      "added_at": "2022-08-26 13:26:29",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Unida",
+          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Left Us To Mold",
+      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
     }
   ],
   "unique_name": "Stoner Rock",

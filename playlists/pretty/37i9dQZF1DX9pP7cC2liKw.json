@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 56534,
+  "num_followers": 56800,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDYyNCwwMDAwMDAwMDM2NmIxZWQ5YmRiNGRiMmJjNGFjMTMwNzU3Y2ZlYjkx",
+  "snapshot_id": "MTY2NDUxMDYyNCwwMDAwMDAwMGFhMjJiMjc4MTdkYjlmMDhlMTVmYzFjMmQzZjZjMmJk",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -65,27 +65,23 @@
       "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
-      "added_at": "2022-08-03 03:35:17",
+      "added_at": "2022-08-02 22:05:40",
       "album": {
-        "name": "Savanne",
-        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj"
       },
       "artists": [
         {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
+      "duration_ms": 216163,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ"
     },
     {
-      "added_at": "2022-10-02 01:55:40",
+      "added_at": "2022-10-03 01:48:28",
       "album": {
         "name": "Y tu te vas",
         "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
@@ -249,20 +245,24 @@
       "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
     },
     {
-      "added_at": "2022-08-02 22:05:40",
+      "added_at": "2022-08-03 03:35:17",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj"
+        "name": "Savanne",
+        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
       },
       "artists": [
         {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 216163,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ"
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
     },
     {
       "added_at": "2022-09-03 03:55:19",
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab"
     },
     {
-      "added_at": "2022-10-02 01:55:40",
+      "added_at": "2022-10-03 01:48:28",
       "album": {
         "name": "Sono Come Sono",
         "url": "https://open.spotify.com/album/63VoYQPDzymodlgLyn3SWq"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
-      "added_at": "2022-10-02 01:55:40",
+      "added_at": "2022-10-03 01:48:28",
       "album": {
         "name": "Il volo / Suonno",
         "url": "https://open.spotify.com/album/0xUqQAygc6UIpXcSXvKyRT"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/0HdHd5mJlqFqv8PqAGDsEw"
     },
     {
-      "added_at": "2022-10-02 01:55:40",
+      "added_at": "2022-10-03 01:48:28",
       "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/3heydvhPVk5vZ5ZcX1q3u0"
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Aimez ces airs",
         "url": "https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 241487,
       "name": "El ni\u00f1o",
       "url": "https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cenotes",
-        "url": "https://open.spotify.com/album/7yxXs09QqG9iq1Mk6dsK5O"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Manana Tepotzlan",
-      "url": "https://open.spotify.com/track/73myc2rii2DVG3HpTkGOnl"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 134220,
       "name": "Moody",
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cenotes",
+        "url": "https://open.spotify.com/album/7yxXs09QqG9iq1Mk6dsK5O"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Manana Tepotzlan",
+      "url": "https://open.spotify.com/track/73myc2rii2DVG3HpTkGOnl"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -787,6 +787,22 @@
       "duration_ms": 331158,
       "name": "El Abuelo",
       "url": "https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
     },
     {
       "added_at": "2022-07-11 18:32:36",
@@ -815,42 +831,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Santa Teresa",
-        "url": "https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Santa Teresa",
-      "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Paloma + Remixes",
         "url": "https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 506655,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Santa Teresa",
+        "url": "https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Santa Teresa",
+      "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/1IkN4xIoHRSkk0j5t50S42"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
+    },
+    {
       "added_at": "2022-08-13 00:58:04",
       "album": {
         "name": "P\u00e1jaros en Verano",
@@ -1059,18 +1075,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+        "name": "Ch'usay Remixes",
+        "url": "https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX"
       },
       "artists": [
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
+      "duration_ms": 207621,
+      "name": "Paso a Huella - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1091,22 +1111,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ch'usay Remixes",
-        "url": "https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX"
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 207621,
-      "name": "Paso a Huella - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja"
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-08-08 21:58:41",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 273946,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-08-11 18:18:05",
-      "album": {
-        "name": "French Samba",
-        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
-      },
-      "artists": [
-        {
-          "name": "ASHA",
-          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "French Samba",
-      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1211,26 +1195,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Forevernevermore",
         "url": "https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36"
       },
@@ -1259,6 +1223,42 @@
       "duration_ms": 251428,
       "name": "Temazcal",
       "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM"
+    },
+    {
+      "added_at": "2022-08-11 18:18:05",
+      "album": {
+        "name": "French Samba",
+        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "French Samba",
+      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
       "added_at": "2022-06-15 04:26:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: TRI.BE\(트라이비\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,278 likes - 64 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,604 likes - 64 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 45 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 |
 | 46 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 47 | [DALLA DALLA](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:19 |
-| 48 | [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 |
-| 49 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
+| 48 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
+| 49 | [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 |
 | 50 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
 | 51 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
 | 52 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 |
 | 64 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
 
-Snapshot ID: `MTY2NDUyNDE1OSwwMDAwMDAwMGUyYzdjNDM2ZTcxYzQxMTNlZDJkYTZlYTI2NGM3ZDlm`
+Snapshot ID: `MTY2NDUyNDE1OSwwMDAwMDAwMGM0NmQyYjM0OTczNWJhMDAzNTk5YzQ2MzczNWEzNTYw`

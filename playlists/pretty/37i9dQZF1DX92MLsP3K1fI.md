@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Sofi Mata en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,166 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,212 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 45 | [Siempre Tú](https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Siempre Tú](https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr) | 3:14 |
 | 46 | [Shot Shot](https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Shot Shot](https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF) | 2:58 |
 | 47 | [Mala Suerte](https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Mala Suerte](https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33) | 3:18 |
-| 48 | [Bailando al Amanecer](https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Bailando al Amanecer](https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5) | 3:56 |
-| 49 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
-| 50 | [Nuestro Amor](https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Nuestro Amor](https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp) | 3:42 |
+| 48 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
+| 49 | [Bailando al Amanecer](https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Bailando al Amanecer](https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5) | 3:56 |
+| 50 | [Mojito](https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Mojito](https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk) | 2:53 |
 
-Snapshot ID: `MTY2Mzk2Mzg3NywwMDAwMDAwMGQwOTMwODJlOWM2OTZjNDVlZDdjZjJkM2U3YmU4OGEz`
+Snapshot ID: `MTY2Mzk2Mzg3NywwMDAwMDAwMDNiZTUxODhlNDBiMzI1OGQ4M2I5NGM0MzQ2MjlmZmFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,436 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,487 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 96 | [Leave a Trace](https://open.spotify.com/track/6CjbLEPcubhGJAlAQAruvo) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye \(Special Edition\)](https://open.spotify.com/album/6pcfjrxlkf7fk9irlvJUzG) | 3:57 |
 | 97 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 |
 | 98 | [Shine A Light](https://open.spotify.com/track/2nZco160YsPJdiTPq396aq) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [BANNERS](https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7) | 3:45 |
-| 99 | [Pedestrian at Best](https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:50 |
-| 100 | [Cut Your Bangs](https://open.spotify.com/track/75T4FO7bShVDfUN1ZDA9yP) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Chinatown](https://open.spotify.com/album/20la39S0BfQXAh8Yw48HN8) | 2:52 |
+| 99 | [Cut Your Bangs](https://open.spotify.com/track/75T4FO7bShVDfUN1ZDA9yP) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Chinatown](https://open.spotify.com/album/20la39S0BfQXAh8Yw48HN8) | 2:52 |
+| 100 | [Pedestrian at Best](https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:50 |
 
-Snapshot ID: `MTY0MTIxOTg5NiwwMDAwMDAwMDA3YzBjZTUwZGE1OGIwNzk2NWQxN2ZjMDI4MDE2MjM3`
+Snapshot ID: `MTY0MTIxOTg5NiwwMDAwMDAwMDFiNzVlNDM5NzBlYzkxNGY5NDQwZjQ4NTRmNDVhNTdm`

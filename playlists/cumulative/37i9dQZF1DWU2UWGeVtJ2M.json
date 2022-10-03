@@ -536,6 +536,28 @@
     },
     {
       "album": {
+        "name": "Breakup Season",
+        "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Breakup Season",
+      "url": "https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW"
+    },
+    {
+      "album": {
         "name": "Breakup Season (feat. Samm Henshaw)",
         "url": "https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz"
       },
@@ -1841,7 +1863,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 190075,
       "name": "Heat",
       "url": "https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk"

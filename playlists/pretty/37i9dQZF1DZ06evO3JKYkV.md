@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,779 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,813 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 17 | [Acrid Avid Jam Shred](https://open.spotify.com/track/3Bp478Itxv8gxqqEcf8HRL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 7:39 |
 | 18 | [\#1](https://open.spotify.com/track/35NyjYJFaJxqbUF2y0jWl1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:27 |
 | 19 | [4](https://open.spotify.com/track/00wT7HAtqZ2BnemrR34vbO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:37 |
-| 20 | [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
+| 20 | [I](https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 1:17 |
 | 21 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 |
 | 22 | [Cow Cud Is A Twin](https://open.spotify.com/track/3JdvEIcI6e6Ovi7bGJO1b1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:33 |
 | 23 | [Cornish Acid](https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 2:14 |
-| 24 | [I](https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 1:17 |
+| 24 | [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 25 | [XMAS\_EVET10 \[120\]\[thanaton3 mix\]](https://open.spotify.com/track/6CUxhtTkH0fSwfmsiOKPNV) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 10:31 |
 | 26 | [Formula](https://open.spotify.com/track/4JTOXfltCmoPoOqNUjV1BV) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A) | 5:47 |
 | 27 | [To Cure A Weakling Child](https://open.spotify.com/track/0Qe87CjGvXot5t4FADTq3Y) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 4:03 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 41 | [minipops 67 \[120.2\]\[source field mix\]](https://open.spotify.com/track/6kzLbNxsJidjc80Nw3uZVg) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:47 |
 | 42 | [Flaphead](https://open.spotify.com/track/0txK6VEZKu9mbwXewGwIDr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 7:00 |
 | 43 | [Funny Little Man](https://open.spotify.com/track/0136xsceivJ2NsoiE0cmcb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 3:58 |
-| 44 | [\#2](https://open.spotify.com/track/0o3pBoCxCCVF6ungXlgVyL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 6:34 |
-| 45 | [Donkey Rhubarb](https://open.spotify.com/track/0c0PhGTdl4K1SRWu0kYkBh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Donkey Rhubarb](https://open.spotify.com/album/77fmfTc0wlIOPUvmvd6X6i) | 6:08 |
+| 44 | [Donkey Rhubarb](https://open.spotify.com/track/0c0PhGTdl4K1SRWu0kYkBh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Donkey Rhubarb](https://open.spotify.com/album/77fmfTc0wlIOPUvmvd6X6i) | 6:08 |
+| 45 | [\#2](https://open.spotify.com/track/0o3pBoCxCCVF6ungXlgVyL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 6:34 |
 | 46 | [On](https://open.spotify.com/track/4UYW3jllzFyWdaxob0UVMr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/13yMvXe4YS3m2qFyC9aqID) | 7:12 |
-| 47 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:28 |
-| 48 | [\#13](https://open.spotify.com/track/7c4lnS1bSj4fRJWAQ8D54R) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:20 |
-| 49 | [Nannou](https://open.spotify.com/track/3sUVNEHBQJSb4qRyQ4ahwK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A) | 4:15 |
+| 47 | [PAPAT4 \[155\]\[pineal mix\]](https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:18 |
+| 48 | [Nannou](https://open.spotify.com/track/3sUVNEHBQJSb4qRyQ4ahwK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A) | 4:15 |
+| 49 | [\#13](https://open.spotify.com/track/7c4lnS1bSj4fRJWAQ8D54R) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:20 |
 | 50 | [Milk Man](https://open.spotify.com/track/5b1uULGkmUg8M6pFvQIUlO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Girl/Boy EP](https://open.spotify.com/album/2Y34XFg6QPoAmbM1ClS3Hk) | 4:08 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBjMGUxMmY0MDcyODBmOGVmZGVlNzEwZmJkODIzY2FhMA==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDAwOWQ0Nzg2N2VjNjg5NmMzMzdlNDkxYTAyNjEyMDZiNQ==`

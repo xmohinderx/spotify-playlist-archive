@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 
 > The Latin soundtrack of the 90s! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,457 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,596 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 51 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido \(005\)](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
 | 52 | [A Pedir Su Mano](https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:55 |
 | 53 | [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 |
-| 54 | [I Could Fall In Love](https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:41 |
-| 55 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
+| 54 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
+| 55 | [I Could Fall In Love](https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:41 |
 | 56 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
 | 57 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
 | 58 | [Angel](https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 4:35 |
@@ -82,21 +82,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 72 | [No Puedo Olvidarme Ti](https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [MDO](https://open.spotify.com/album/1Qh8IqiGgpCGxHGXQdpbVr) | 3:30 |
 | 73 | [Una Mujer Como Tú](https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 3:30 |
 | 74 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
-| 75 | [Vida](https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:26 |
-| 76 | [Cara de Niño](https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:56 |
+| 75 | [Cara de Niño](https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:56 |
+| 76 | [Vida](https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:26 |
 | 77 | [La Bomba](https://open.spotify.com/track/2IAtnd4UG52HQP9Rwart5h) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:34 |
 | 78 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 79 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
 | 80 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 |
 | 81 | [Amor](https://open.spotify.com/track/2uYFvcf7n81AiguTVe4bSo) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [2En1](https://open.spotify.com/album/55P4D6uBsoMMRDMaxVn6mp) | 4:59 |
 | 82 | [La Copa de la Vida \(La Cancion Oficial de la Copa Mundial, Francia '98\) \- Spanglish Radio Edit](https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:37 |
-| 83 | [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 |
-| 84 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/0ZeXFBOLHKW9kENLQFE6bt) | [Cristian](https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9) | [Mis Mejores Momentos:Para Coleccionistas Romantic](https://open.spotify.com/album/101Hh240WmUplE337DUCEO) | 5:06 |
-| 85 | [Casi un Hechizo](https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cuenta Conmigo](https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh) | 4:34 |
+| 83 | [Casi un Hechizo](https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cuenta Conmigo](https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh) | 4:34 |
+| 84 | [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 |
+| 85 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/0ZeXFBOLHKW9kENLQFE6bt) | [Cristian](https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9) | [Mis Mejores Momentos:Para Coleccionistas Romantic](https://open.spotify.com/album/101Hh240WmUplE337DUCEO) | 5:06 |
 | 86 | [El Circo](https://open.spotify.com/track/0b4NG6vOqNdqzuJauiQkwE) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 2:47 |
 | 87 | [No Me Ames \(with Marc Anthony\) \- Tropical Remix](https://open.spotify.com/track/2gcnNWEv9x0g6FhEeWtYuV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:03 |
-| 88 | [Llegar A Ti](https://open.spotify.com/track/6FuFhivTRqTtK5RYQavPTa) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Llegar A Ti](https://open.spotify.com/album/3t3IgcB1FoWX2X4Jca5eCw) | 4:32 |
-| 89 | [Rhythm Divine](https://open.spotify.com/track/067sYyLu6IdRP5bCubdSfl) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:29 |
+| 88 | [Rhythm Divine](https://open.spotify.com/track/067sYyLu6IdRP5bCubdSfl) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:29 |
+| 89 | [Llegar A Ti](https://open.spotify.com/track/6FuFhivTRqTtK5RYQavPTa) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Llegar A Ti](https://open.spotify.com/album/3t3IgcB1FoWX2X4Jca5eCw) | 4:32 |
 | 90 | [Pero Qué Necesidad](https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor De Los Tres Grandes](https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL) | 5:51 |
 | 91 | [Ya Me Voy para Siempre](https://open.spotify.com/track/4316Ntihofu3zTa7b5OeGT) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [En Concierto, Vol\. 2](https://open.spotify.com/album/3LPGevFYVZeBWHbcik2qgu) | 4:13 |
 | 92 | [Pelo Suelto](https://open.spotify.com/track/3ZbIfOTLykp21uW9C6Qjjt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/37g1a9T6uyQu0Pwoz6ZkOA) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 99 | [Cerca De Ti](https://open.spotify.com/track/2NVcJgPcBsY2jQczl9y74L) | [Barrio Boyzz](https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp) | [Donde Quiera Que Estes](https://open.spotify.com/album/6Cyaqqy2rSqwyJYN1sZAv3) | 3:51 |
 | 100 | [Maria La Del Barrio](https://open.spotify.com/track/2Faj2un6rwrQYYKP5kK7ee) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 3:55 |
 
-Snapshot ID: `MTY2MTkyOTU2MSwwMDAwMDAwMDk4MWVkOTk2NDkxODMxZTU1ZDVhNTVlYWUyNTU3YmI3`
+Snapshot ID: `MTY2MTkyOTU2MSwwMDAwMDAwMDFlYzcxZjNmZDY1ZGI4NWQ1YTIxYjJlYWE0NThjNzYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,099 likes - 30 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,164 likes - 30 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 16 | [Amor Verdadero](https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 7:26 |
 | 17 | [That's How Rumors Start](https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/2N69ERhN11ludnptsYs16c) | 7:32 |
 | 18 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 |
-| 19 | [Descarga Caliente](https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [De Panama A Nueva York](https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR) | 5:23 |
-| 20 | [Ay Qué Rico](https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Champagne](https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6) | 3:29 |
+| 19 | [Ay Qué Rico](https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Champagne](https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6) | 3:29 |
+| 20 | [Descarga Caliente](https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [De Panama A Nueva York](https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR) | 5:23 |
 | 21 | [Marilu](https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb) | 4:07 |
 | 22 | [Grazin' In The Grass](https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Orchestra Harlow Presenta a Ismael Miranda](https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4) | 3:16 |
 | 23 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 29 | [Lo Atará la Arache](https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:32 |
 | 30 | [Cloud Nine](https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 5:44 |
 
-Snapshot ID: `MTY0OTQ3ODM5MiwwMDAwMDAwMDFhYjBiNDM1NGE2NWVmOTYzMjYwMzk3NTllMDdiNDEw`
+Snapshot ID: `MTY0OTQ3ODM5MiwwMDAwMDAwMGNlNTgzODk4NjgzMDMzY2FiNzZkMjgzODFiNzExOWZm`

@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157126,
+  "num_followers": 157123,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDUyZjE2ZDlmNGNiOWZjNDExMDAxYjkwMmUzZjk4ZTEw",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDNkNTYxNjFhYmY5MmQwZWYxODY3MmJjNzJhOGU0MmM2",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Clarence Coffee Jr.",
-          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
-        }
-      ],
-      "duration_ms": 238627,
-      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Make It To Heaven (with Raye)",
         "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 172380,
       "name": "Make It To Heaven (with Raye)",
       "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Clarence Coffee Jr.",
+          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
+        }
+      ],
+      "duration_ms": 238627,
+      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -879,6 +879,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Detroit 3 AM (Radio Edit)",
+        "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Detroit 3 AM - Radio Edit",
+      "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Taste",
         "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
       },
@@ -903,22 +923,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Detroit 3 AM (Radio Edit)",
-        "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
+        "name": "We Can Come Together",
+        "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Love Regenerator",
+          "url": "https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 188640,
-      "name": "Detroit 3 AM - Radio Edit",
-      "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
+      "duration_ms": 216984,
+      "name": "We Can Come Together",
+      "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -943,30 +967,6 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "We Can Come Together",
-        "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
-      },
-      "artists": [
-        {
-          "name": "Love Regenerator",
-          "url": "https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW"
-        },
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 216984,
-      "name": "We Can Come Together",
-      "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Something Like That",
         "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 164160,
       "name": "Something Like That",
       "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",

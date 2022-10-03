@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,789 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,073 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 42 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
 | 43 | [The Forgotten](https://open.spotify.com/track/1Of1g1PMt1wKW1L4Te6oDM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡TRÉ!](https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8) | 4:58 |
 | 44 | [Macy's Day Parade](https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:33 |
-| 45 | [Let Yourself Go](https://open.spotify.com/track/5pP3WtXwZ6HjcbuJ3vhDTZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 2:56 |
+| 45 | [Stuck with Me](https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 |
 | 46 | [2000 Light Years Away](https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:24 |
-| 47 | [Stuck with Me](https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 |
+| 47 | [Let Yourself Go](https://open.spotify.com/track/5pP3WtXwZ6HjcbuJ3vhDTZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 2:56 |
 | 48 | [Youngblood](https://open.spotify.com/track/5JwuHzmJCmHuHGjP9W6KtK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 2:32 |
 | 49 | [99 Revolutions](https://open.spotify.com/track/3CgT96psOXwPssPNvYPclP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡TRÉ!](https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8) | 3:49 |
 | 50 | [Pollyanna](https://open.spotify.com/track/4b2h4jQxgHpiWuLH8rp8Vu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Pollyanna](https://open.spotify.com/album/21i1bokXCRyRyszxxNvX19) | 3:15 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBlY2NiMjExZmVlMGMyOTA5NzEwYWY0ZmE1NDUyNjVjYw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA4ODc3MjRmNTM4YmNlOTZiODRhOTMxYjJmNDk3YWVlZg==`

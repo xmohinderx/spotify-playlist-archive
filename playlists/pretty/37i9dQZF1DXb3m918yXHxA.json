@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1273344,
+  "num_followers": 1273825,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDE2ODc5MSwwMDAwMDAwMDQ0ZmVmNWZmZjM5M2Q5ZGFmZWFmYjc3NmYyOTNhY2Q1",
+  "snapshot_id": "MTY2MDE2ODc5MSwwMDAwMDAwMDI0NWZmNDkwNjUwZTNhOTU5NjIyZTE1N2NkYmQyMWZj",
   "tracks": [
     {
       "added_at": "2022-07-28 19:01:39",
@@ -487,38 +487,6 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 221613,
-      "name": "Lido Shuffle",
-      "url": "https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
         "name": "Stumblin' In (2017 Remaster)",
         "url": "https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F"
       },
@@ -539,18 +507,34 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Love Will Keep Us Together",
-        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
       "artists": [
         {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 205493,
-      "name": "Love Will Keep Us Together",
-      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 221613,
+      "name": "Lido Shuffle",
+      "url": "https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -571,6 +555,22 @@
       "duration_ms": 237373,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Love Will Keep Us Together",
+        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Love Will Keep Us Together",
+      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
     },
     {
       "added_at": "2022-07-28 19:01:39",

@@ -4,7 +4,7 @@
 
 > All the best new tracks this week, all in one place\. Cover: Shawn Mendes
 
-4,020 songs - 8 day 22 hr 14 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+4,021 songs - 8 day 22 hr 18 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1252,7 +1252,8 @@
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2022-01-22 |
 | [Forgotten](https://open.spotify.com/track/3F5Yo1uPPsVwd7uuvIJC2z) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Forgotten](https://open.spotify.com/album/3IFtTMf9jIzFrgy71tYPxG) | 2:49 | 2022-02-11 | 2022-02-19 |
 | [Fortified](https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Fortified](https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w) | 3:17 | 2022-02-25 | 2022-03-05 |
-| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 | 2022-10-03 |
 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 | 2022-06-17 | 2022-06-25 |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-15 | 2022-07-23 |
 | [Frank](https://open.spotify.com/track/5MX7hLZTQw8VoR5CMJID8x) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Roadhouse 02](https://open.spotify.com/album/7Ax1zEms65X5ZXgK7giwYJ) | 3:41 | 2022-03-18 | 2022-03-26 |

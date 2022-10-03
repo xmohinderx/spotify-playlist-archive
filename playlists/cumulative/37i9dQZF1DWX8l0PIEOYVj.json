@@ -2438,6 +2438,28 @@
     },
     {
       "album": {
+        "name": "Higher Than Heaven",
+        "url": "https://open.spotify.com/album/4aJ8OzxXJGc9aZzIwIEzjx"
+      },
+      "artists": [
+        {
+          "name": "Blosso",
+          "url": "https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM"
+        },
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "Higher Than Heaven",
+      "url": "https://open.spotify.com/track/6UdWxz9fpHsd1l7epg4jyH"
+    },
+    {
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/5aUyuveFrtgWfyXcsTCoX8"
       },
@@ -4915,7 +4937,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 204000,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/1Ic5GlyRW3eTYC9Yx6kHnb"

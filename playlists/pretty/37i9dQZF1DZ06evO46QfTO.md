@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,884 likes - 43 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,909 likes - 43 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 24 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 |
 | 25 | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/track/7zOoHxDt1duHL8czY7o7ab) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Dear Hate \(feat\. Vince Gill\)](https://open.spotify.com/album/26mCA3BoItiaZyhxmmvPRl) | 3:40 |
 | 26 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 |
-| 27 | [Make Out With Me](https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 2:16 |
+| 27 | [Good Woman](https://open.spotify.com/track/71K52AGlhXq9wAEl7lE5Yv) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:31 |
 | 28 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 29 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 |
 | 30 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 42 | [Prove You Wrong](https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 3:41 |
 | 43 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA0OTgwNDQ0YTliOTI5MjZhOGUxNjgxMDkwYWZkZTQyYg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAyYWM3NTZlMmQ5ZTIxYjUxNTBmNGVlYWNjYzBmMDc2ZQ==`

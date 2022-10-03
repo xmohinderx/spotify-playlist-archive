@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 
 > Unforgettable love songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,563 likes - 63 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,944 likes - 63 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 38 | [Jar of Hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
 | 39 | [Lego House](https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:05 |
 | 40 | [Impossible](https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:46 |
-| 41 | [Stay \- Album Version \(Edited\)](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 |
-| 42 | [The Heart Wants What It Wants](https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [The Heart Wants What It Wants](https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI) | 3:47 |
+| 41 | [The Heart Wants What It Wants](https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [The Heart Wants What It Wants](https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI) | 3:47 |
+| 42 | [Stay \- Album Version \(Edited\)](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 |
 | 43 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 |
 | 44 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 |
 | 45 | [Love Someone](https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:25 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 62 | [Earned It \(Fifty Shades Of Grey\) \- From The "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/28SGSSREhZ2Jv9QmaLRsam) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9) | 4:10 |
 | 63 | [You Get My Love](https://open.spotify.com/track/0U5JyThy1KCjXoTZKdcXmv) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 5:11 |
 
-Snapshot ID: `MTY2NDQ0MTk3OSwwMDAwMDAwMDdiYjQxNjE5ZWFlMDVmOGNjYTUzNDY0YjEzMGRhZDAx`
+Snapshot ID: `MTY2NDQ0MTk3OSwwMDAwMDAwMDlhZGYyODY0ZTYzYzBmNjFlZTA5ODQ5MDczYzczZDU0`

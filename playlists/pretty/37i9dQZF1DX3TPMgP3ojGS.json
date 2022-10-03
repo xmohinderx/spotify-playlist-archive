@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 296113,
+  "num_followers": 296333,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQzOTk5MywwMDAwMDAwMDk5ZTc5N2JkYzdjZjgzMDA5Nzk2YjUxNGZkYTJmM2Fh",
+  "snapshot_id": "MTY2NDQzOTk5MywwMDAwMDAwMDI2ZDQ4NDEzMjA0NDQ3MjI3ODdlZmZiNjdkNTRlYjMw",
   "tracks": [
     {
       "added_at": "2022-09-29 08:26:33",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "A New Path",
+        "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "duration_ms": 113758,
+      "name": "A New Path",
+      "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Coulant",
         "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "A New Path",
-        "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
+        "name": "Ikigai",
+        "url": "https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi"
       },
       "artists": [
         {
-          "name": "Damien Jeunet",
-          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+          "name": "Violet Mar",
+          "url": "https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh"
         }
       ],
-      "duration_ms": 113758,
-      "name": "A New Path",
-      "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
+      "duration_ms": 180020,
+      "name": "Ikigai",
+      "url": "https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -311,22 +327,6 @@
       "duration_ms": 173161,
       "name": "Symbios",
       "url": "https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Ikigai",
-        "url": "https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi"
-      },
-      "artists": [
-        {
-          "name": "Violet Mar",
-          "url": "https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh"
-        }
-      ],
-      "duration_ms": 180020,
-      "name": "Ikigai",
-      "url": "https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Summer Light",
-        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
-      },
-      "artists": [
-        {
-          "name": "Aaren Hughes",
-          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
-        }
-      ],
-      "duration_ms": 132681,
-      "name": "Summer Light",
-      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "The Water Floats",
         "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Summer Light",
+        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
+      },
+      "artists": [
+        {
+          "name": "Aaren Hughes",
+          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
+        }
+      ],
+      "duration_ms": 132681,
+      "name": "Summer Light",
+      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 164999,
       "name": "The Greek",
       "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Strosande",
-        "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
-      },
-      "artists": [
-        {
-          "name": "Alfred Janders",
-          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Strosande",
-      "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Strosande",
+        "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
+      },
+      "artists": [
+        {
+          "name": "Alfred Janders",
+          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Strosande",
+      "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "D'\u00e9meraude",
         "url": "https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ"
       },
@@ -807,38 +807,6 @@
       "duration_ms": 126000,
       "name": "D'\u00e9meraude",
       "url": "https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
-      },
-      "artists": [
-        {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Il lago",
-        "url": "https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Fiore",
-          "url": "https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8"
-        }
-      ],
-      "duration_ms": 150874,
-      "name": "Il lago",
-      "url": "https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -859,6 +827,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Il lago",
+        "url": "https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Fiore",
+          "url": "https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8"
+        }
+      ],
+      "duration_ms": 150874,
+      "name": "Il lago",
+      "url": "https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Matin",
         "url": "https://open.spotify.com/album/0HVGfqOjUcn2HKQcND27hR"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 114000,
       "name": "Matin",
       "url": "https://open.spotify.com/track/1TWlhhICPR0UpyIJhxPiEx"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Laredo",
-        "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Laredo",
-      "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Bienveillant",
         "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
       },
@@ -971,22 +955,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Homeward",
-        "url": "https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9"
-      },
-      "artists": [
-        {
-          "name": "Bjarni Erlingursson",
-          "url": "https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6"
-        }
-      ],
-      "duration_ms": 151624,
-      "name": "Homeward",
-      "url": "https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "San Remo",
         "url": "https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA"
       },
@@ -999,6 +967,22 @@
       "duration_ms": 170966,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Homeward",
+        "url": "https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9"
+      },
+      "artists": [
+        {
+          "name": "Bjarni Erlingursson",
+          "url": "https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6"
+        }
+      ],
+      "duration_ms": 151624,
+      "name": "Homeward",
+      "url": "https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Laredo",
+        "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Il Colibr\u00ec",
-        "url": "https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS"
-      },
-      "artists": [
-        {
-          "name": "Carlo Boscoli",
-          "url": "https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi"
-        }
-      ],
-      "duration_ms": 150187,
-      "name": "Il Colibr\u00ec",
-      "url": "https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Longest days",
         "url": "https://open.spotify.com/album/5jQDQGF85HaPrqvrVQBAMi"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 165898,
       "name": "Longest days",
       "url": "https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Il Colibr\u00ec",
+        "url": "https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS"
+      },
+      "artists": [
+        {
+          "name": "Carlo Boscoli",
+          "url": "https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi"
+        }
+      ],
+      "duration_ms": 150187,
+      "name": "Il Colibr\u00ec",
+      "url": "https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Belle Vie De Tous Les Jours",
-        "url": "https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI"
-      },
-      "artists": [
-        {
-          "name": "Baudouin B\u00e9ringer",
-          "url": "https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Belle Vie De Tous Les Jours",
-      "url": "https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Empires Luck",
         "url": "https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Belle Vie De Tous Les Jours",
+        "url": "https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI"
+      },
+      "artists": [
+        {
+          "name": "Baudouin B\u00e9ringer",
+          "url": "https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Belle Vie De Tous Les Jours",
+      "url": "https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Silent joy",
         "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 145750,
       "name": "Silent joy",
       "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Mist",
+        "url": "https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Keen",
+          "url": "https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE"
+        }
+      ],
+      "duration_ms": 122698,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Time Line",
-        "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
-      },
-      "artists": [
-        {
-          "name": "Hugo Vanbrooke",
-          "url": "https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH"
-        }
-      ],
-      "duration_ms": 130190,
-      "name": "am ersten Tag",
-      "url": "https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Ombre",
         "url": "https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 125183,
       "name": "Ombre",
       "url": "https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Time Line",
+        "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
+      },
+      "artists": [
+        {
+          "name": "Hugo Vanbrooke",
+          "url": "https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH"
+        }
+      ],
+      "duration_ms": 130190,
+      "name": "am ersten Tag",
+      "url": "https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Mist",
-        "url": "https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Keen",
-          "url": "https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE"
-        }
-      ],
-      "duration_ms": 122698,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "To You Again",
         "url": "https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Colorful Wind",
-        "url": "https://open.spotify.com/album/56klfdedaMKwnDJGFi38II"
-      },
-      "artists": [
-        {
-          "name": "Howie Paget",
-          "url": "https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Colorful Wind",
-      "url": "https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Sakteligen",
         "url": "https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Seuls ensemble",
-        "url": "https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH"
+        "name": "Colorful Wind",
+        "url": "https://open.spotify.com/album/56klfdedaMKwnDJGFi38II"
       },
       "artists": [
         {
-          "name": "Jean-Marie Daviau",
-          "url": "https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e"
+          "name": "Howie Paget",
+          "url": "https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he"
         }
       ],
-      "duration_ms": 131500,
-      "name": "Seuls ensemble",
-      "url": "https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E"
+      "duration_ms": 156000,
+      "name": "Colorful Wind",
+      "url": "https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1575,6 +1559,22 @@
       "duration_ms": 184240,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Seuls ensemble",
+        "url": "https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH"
+      },
+      "artists": [
+        {
+          "name": "Jean-Marie Daviau",
+          "url": "https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Seuls ensemble",
+      "url": "https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E"
     },
     {
       "added_at": "2022-09-29 08:26:33",

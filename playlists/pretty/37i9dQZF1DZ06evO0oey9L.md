@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,753 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,770 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 37 | [Fino El Porteson](https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:27 |
 | 38 | [Calles De S.D.](https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:17 |
 | 39 | [Botas Ariat](https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Botas Ariat](https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF) | 3:03 |
-| 40 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
+| 40 | [La Casita De Madera](https://open.spotify.com/track/24VN5sgRu9hvIElo0lRzHx) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:27 |
 | 41 | [La Moneda Vueltas Dio](https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 3:29 |
 | 42 | [Barrio Xolo](https://open.spotify.com/track/5yJPahX4wJlrRPH1agjvtH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Barrio Xolo](https://open.spotify.com/album/2WdXJMn7Y4jlMM5tXPzt7j) | 3:06 |
 | 43 | [Me Pueden Juzgar](https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Pueden Juzgar](https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI) | 3:37 |
-| 44 | [La Casita De Madera](https://open.spotify.com/track/24VN5sgRu9hvIElo0lRzHx) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:27 |
-| 45 | [Millonario y Me Retiro](https://open.spotify.com/track/5TS8Q5BGgq3PlqfySprCB4) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:59 |
+| 44 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
+| 45 | [La Gente Nueva](https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:37 |
 | 46 | [Con Un Puño De Cannabis](https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:48 |
 | 47 | [Galil Rameado](https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Galil Rameado](https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT) | 3:16 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDA2Njc2YTZhNGM2NmY2NjVhZjFkYTRlM2ViOWQxMTBiYQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAxMWVmNjJlYjU3ZTFmN2FjOWMzZjZiY2U3NjAyYWNiYw==`

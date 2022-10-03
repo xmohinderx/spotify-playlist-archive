@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Letieres Leite, Orkestra Rumpilezz, Caetano Veloso",
-  "num_followers": 144032,
+  "num_followers": 144070,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMGM1NzkwMmFhNmQ1Yzc4ODQ5ZjZmMjcwODRlMjdiY2U0",
+  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMGM5NWRiOTEwYThlMmQzOGQwNTcyNzYyZDMyZmVhNTlh",
   "tracks": [
     {
       "added_at": "2022-07-08 03:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
-      },
-      "artists": [
-        {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
-        }
-      ],
-      "duration_ms": 225184,
-      "name": "Porto Rio",
-      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "K\u00e2ndra",
         "url": "https://open.spotify.com/album/6B8497B5HQZv2Shd7AOn0w"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 225184,
+      "name": "Porto Rio",
+      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "Afro+sambas",
         "url": "https://open.spotify.com/album/2E4n2bzp40z1akpP3EmRZA"
       },
@@ -571,34 +571,6 @@
       "duration_ms": 299306,
       "name": "Canto de Xang\u00f4",
       "url": "https://open.spotify.com/track/2RpxBZ16nVV7Q0xJdPZLEe"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Pro Carnaval Voltar",
-        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
-      },
-      "artists": [
-        {
-          "name": "Oran Etkin",
-          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        }
-      ],
-      "duration_ms": 481925,
-      "name": "Pro Carnaval Voltar",
-      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -627,6 +599,34 @@
       "duration_ms": 225573,
       "name": "Rodopio",
       "url": "https://open.spotify.com/track/2V9L1lqYBZH3HAr5pCIimi"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Pro Carnaval Voltar",
+        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
+      },
+      "artists": [
+        {
+          "name": "Oran Etkin",
+          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
+        },
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        }
+      ],
+      "duration_ms": 481925,
+      "name": "Pro Carnaval Voltar",
+      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
-      },
-      "artists": [
-        {
-          "name": "Edu Sangirardi",
-          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
-        }
-      ],
-      "duration_ms": 271656,
-      "name": "Canto de Aruanda",
-      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Sinal Dos Tempos - Cain\u00e3 Toca Garoto",
         "url": "https://open.spotify.com/album/2SdgCo1lYhqmP7JdOQ8FGK"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 302417,
       "name": "Lamentos do Morro",
       "url": "https://open.spotify.com/track/6fpRybolHTa4gjcuBbJnAE"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Um",
+        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
+      },
+      "artists": [
+        {
+          "name": "Edu Sangirardi",
+          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
+        }
+      ],
+      "duration_ms": 271656,
+      "name": "Canto de Aruanda",
+      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1107,6 +1107,42 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "\u00c2mbar - os Afluentes da M\u00fasica",
+        "url": "https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk"
+      },
+      "artists": [
+        {
+          "name": "Edson Natale",
+          "url": "https://open.spotify.com/artist/04QptMACnngQNIRS51aUZd"
+        },
+        {
+          "name": "Nailor \"Proveta\" Azevedo",
+          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
+        },
+        {
+          "name": "Ronaldo Gama",
+          "url": "https://open.spotify.com/artist/4MmP9KrhoxvjhGQXSeoDON"
+        },
+        {
+          "name": "Vanessa Moreno",
+          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
+        },
+        {
+          "name": "Maur\u00edcio Bad\u00e9",
+          "url": "https://open.spotify.com/artist/0Kc6qEC575UlULLb5g5zFQ"
+        },
+        {
+          "name": "Saxofonando",
+          "url": "https://open.spotify.com/artist/7nwfGsfk4taAdccx5MZSXw"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Afluente do Futuro",
+      "url": "https://open.spotify.com/track/2U6VHc3DqSLhLrtTRNkFCT"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "Afinidades",
         "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
       },
@@ -1131,22 +1167,6 @@
       "duration_ms": 343211,
       "name": "Burlesque",
       "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
-      },
-      "artists": [
-        {
-          "name": "Heitor Vallim",
-          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "La Setenta",
-      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1187,38 +1207,34 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "\u00c2mbar - os Afluentes da M\u00fasica",
-        "url": "https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk"
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
       },
       "artists": [
         {
-          "name": "Edson Natale",
-          "url": "https://open.spotify.com/artist/04QptMACnngQNIRS51aUZd"
-        },
-        {
-          "name": "Nailor \"Proveta\" Azevedo",
-          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
-        },
-        {
-          "name": "Ronaldo Gama",
-          "url": "https://open.spotify.com/artist/4MmP9KrhoxvjhGQXSeoDON"
-        },
-        {
-          "name": "Vanessa Moreno",
-          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
-        },
-        {
-          "name": "Maur\u00edcio Bad\u00e9",
-          "url": "https://open.spotify.com/artist/0Kc6qEC575UlULLb5g5zFQ"
-        },
-        {
-          "name": "Saxofonando",
-          "url": "https://open.spotify.com/artist/7nwfGsfk4taAdccx5MZSXw"
+          "name": "Heitor Vallim",
+          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
         }
       ],
-      "duration_ms": 310226,
-      "name": "Afluente do Futuro",
-      "url": "https://open.spotify.com/track/2U6VHc3DqSLhLrtTRNkFCT"
+      "duration_ms": 225000,
+      "name": "La Setenta",
+      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 289434,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "In The Still Of The Night",
-        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 289434,
-      "name": "In The Still Of The Night",
-      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Voc\u00ea (Meet Tetel)",
         "url": "https://open.spotify.com/album/6e1SL6mPOLbb5fnlVLUQ2W"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 219210,
       "name": "Voc\u00ea - Meet Tetel",
       "url": "https://open.spotify.com/track/2OhheDxsqV86Q6gRXW1PsK"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Festa",
+        "url": "https://open.spotify.com/album/47y4CvkeCO7Hm4gwv5jSij"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Monteiro",
+          "url": "https://open.spotify.com/artist/3GBt2bx1By1qA7JhvfMuq9"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Festa",
+      "url": "https://open.spotify.com/track/1yFDSsdKxTHHEop447JCLs"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1311,18 +1327,26 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Festa",
-        "url": "https://open.spotify.com/album/47y4CvkeCO7Hm4gwv5jSij"
+        "name": "Amilton Godoy 80 Anos",
+        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
       "artists": [
         {
-          "name": "Guilherme Monteiro",
-          "url": "https://open.spotify.com/artist/3GBt2bx1By1qA7JhvfMuq9"
+          "name": "Amilton Godoy",
+          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
         }
       ],
-      "duration_ms": 257500,
-      "name": "Festa",
-      "url": "https://open.spotify.com/track/1yFDSsdKxTHHEop447JCLs"
+      "duration_ms": 166933,
+      "name": "Ponteio 49",
+      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1383,30 +1407,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Amilton Godoy 80 Anos",
-        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
-      },
-      "artists": [
-        {
-          "name": "Amilton Godoy",
-          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Ponteio 49",
-      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Choro Universal",
         "url": "https://open.spotify.com/album/4trFnHIZG5awOetJXeqAKU"
       },
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Posl\u00fadio",
-        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        },
-        {
-          "name": "Neto de Souza",
-          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
-        },
-        {
-          "name": "Ivan Lopes",
-          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
-        }
-      ],
-      "duration_ms": 451777,
-      "name": "Posl\u00fadio",
-      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Agora Aqui",
         "url": "https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y"
       },
@@ -1499,6 +1475,30 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "Posl\u00fadio",
+        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        },
+        {
+          "name": "Neto de Souza",
+          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
+        },
+        {
+          "name": "Ivan Lopes",
+          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
+        }
+      ],
+      "duration_ms": 451777,
+      "name": "Posl\u00fadio",
+      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "Kurukere",
         "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 352329,
       "name": "Kurukere",
       "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Cozinhando Pedra",
+        "url": "https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm"
+      },
+      "artists": [
+        {
+          "name": "Bruno Cardozo",
+          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
+        }
+      ],
+      "duration_ms": 322546,
+      "name": "Cozinhando Pedra",
+      "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Cozinhando Pedra",
-        "url": "https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm"
-      },
-      "artists": [
-        {
-          "name": "Bruno Cardozo",
-          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
-        }
-      ],
-      "duration_ms": 322546,
-      "name": "Cozinhando Pedra",
-      "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Reviravolta",
         "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
       },
@@ -1607,6 +1607,38 @@
       "duration_ms": 266226,
       "name": "Novidade",
       "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Ouro Negro",
+        "url": "https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV"
+      },
+      "artists": [
+        {
+          "name": "Moacir Santos",
+          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Coisa No. 10",
+      "url": "https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1639,34 +1671,18 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+        "name": "\u00a1\u00c1ndale!",
+        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
       },
       "artists": [
         {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+          "name": "the flux trio",
+          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
         }
       ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Ouro Negro",
-        "url": "https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV"
-      },
-      "artists": [
-        {
-          "name": "Moacir Santos",
-          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Coisa No. 10",
-      "url": "https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA"
+      "duration_ms": 202272,
+      "name": "\u00a1\u00c1ndale!",
+      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "\u00a1\u00c1ndale!",
-        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
-      },
-      "artists": [
-        {
-          "name": "the flux trio",
-          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
-        }
-      ],
-      "duration_ms": 202272,
-      "name": "\u00a1\u00c1ndale!",
-      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Es\u00e8nt\u00e1y\u00e9",
         "url": "https://open.spotify.com/album/4oOweGVz1dZa9yA8iBZxCW"
       },
@@ -1759,22 +1759,6 @@
       "duration_ms": 416645,
       "name": "Es\u00e8nt\u00e1y\u00e9",
       "url": "https://open.spotify.com/track/5Ql86e570c4Ra4sWGyCrQv"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Um Dia de Sol",
-        "url": "https://open.spotify.com/album/7pM76uWwQpiFLtnAnFMTHt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Vissotto",
-          "url": "https://open.spotify.com/artist/5huBVfezCplC97aiRoKKTw"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Um Dia de Sol",
-      "url": "https://open.spotify.com/track/7JLWHxhfQCcKrLp36egd0C"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "Um Dia de Sol",
+        "url": "https://open.spotify.com/album/7pM76uWwQpiFLtnAnFMTHt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Vissotto",
+          "url": "https://open.spotify.com/artist/5huBVfezCplC97aiRoKKTw"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Um Dia de Sol",
+      "url": "https://open.spotify.com/track/7JLWHxhfQCcKrLp36egd0C"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "Heran\u00e7a",
         "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
       },
@@ -1827,22 +1827,6 @@
       "duration_ms": 407033,
       "name": "Influ\u00eancia",
       "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "DALE!",
-        "url": "https://open.spotify.com/album/5OVQ3590mvqVFGFkda7bmG"
-      },
-      "artists": [
-        {
-          "name": "OTAVIO CASTRO",
-          "url": "https://open.spotify.com/artist/59f7jS09aOVhH1KP4rux2h"
-        }
-      ],
-      "duration_ms": 360375,
-      "name": "Dale!",
-      "url": "https://open.spotify.com/track/7yoPPkk8PZ5HSbLkDD9kSL"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1879,6 +1863,22 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "DALE!",
+        "url": "https://open.spotify.com/album/5OVQ3590mvqVFGFkda7bmG"
+      },
+      "artists": [
+        {
+          "name": "OTAVIO CASTRO",
+          "url": "https://open.spotify.com/artist/59f7jS09aOVhH1KP4rux2h"
+        }
+      ],
+      "duration_ms": 360375,
+      "name": "Dale!",
+      "url": "https://open.spotify.com/track/7yoPPkk8PZ5HSbLkDD9kSL"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Cinepoesia: Samba do \u00c1rvore",
-        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Freire",
-          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
-        }
-      ],
-      "duration_ms": 163169,
-      "name": "Cinepoesia: Samba do \u00c1rvore",
-      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Sobre a Lua e os Passos",
         "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 334890,
       "name": "Serena",
       "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Cinepoesia: Samba do \u00c1rvore",
+        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Freire",
+          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Cinepoesia: Samba do \u00c1rvore",
+      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
     },
     {
       "added_at": "2022-07-08 03:01:00",

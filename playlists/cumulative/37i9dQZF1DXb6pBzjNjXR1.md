@@ -4,7 +4,7 @@
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here\. Cover: <a href="https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=fL7CTy28SFGBIYnIc779cg">Dr Feel</a>
 
-50 songs - 5 hr 17 min - not published yet
+50 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

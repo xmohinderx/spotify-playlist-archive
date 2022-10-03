@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: BiSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,131 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,143 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 28 | [ムーヴ](https://open.spotify.com/track/2ZZOFbq0vCAYSJKnZ6u5ld) | [青い](https://open.spotify.com/artist/7KFqxwEis6G5L0yAYqYrXe) | [ムーヴ](https://open.spotify.com/album/5I6fiujXDmKXJLvU8wBpJy) | 3:24 |
 | 29 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 |
 | 30 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 |
-| 31 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 |
+| 31 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
 | 32 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 |
-| 33 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
+| 33 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 |
 | 34 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 |
 | 35 | [君と夏フェス](https://open.spotify.com/track/0mVtmQomDom72Y7UDm1ODi) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:44 |
 | 36 | [また夏を追う](https://open.spotify.com/track/4JyWjpfWLFqdbqPzhpLhzC) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [また夏を追う](https://open.spotify.com/album/5p5ssxTw4ifdGrhjq4Q6pN) | 4:47 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 43 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 |
 | 44 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 |
 | 45 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 |
-| 46 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 |
+| 46 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 |
 | 47 | [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 |
-| 48 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 |
+| 48 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 |
 | 49 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
 | 50 | [悲しいラブソング](https://open.spotify.com/track/6exgbyrb2Bdjob70v2DhHx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [極夜において月は語らず](https://open.spotify.com/album/2tQk4jtcmb2EPkldaRyhah) | 4:20 |
 
-Snapshot ID: `MTY2NDQ2MzYwMCwwMDAwMDAwMDY0ZDA0OWU0MDI0M2I1YWUyNTU2MWY1ZDI1NzFhZDJj`
+Snapshot ID: `MTY2NDQ2MzYwMCwwMDAwMDAwMDE5MzM3NGM0YjNkMDdiMDc0YTg5M2U5MWE4MTRmMTAz`

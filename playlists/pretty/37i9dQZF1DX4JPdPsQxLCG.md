@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,546 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,553 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 9 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
 | 10 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 11 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
-| 12 | [The Spark](https://open.spotify.com/track/11AyynOmB7yiXr84DzEsxj) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/6sesQu02oxMGUbhYViaVTN) | 3:59 |
+| 12 | [The Spark](https://open.spotify.com/track/2Tw18xvENjmh7MBPCJNBcP) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/6f6IZDYwtBOGjJZxBiRUhF) | 3:59 |
 | 13 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
 | 14 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
 | 15 | [Leather Jacket](https://open.spotify.com/track/3AAtDhdFRnNKJ77kvlMN0J) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [High Noon](https://open.spotify.com/album/5eQZPL2dLics2x2ux0OBuF) | 3:56 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 45 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 |
 | 46 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
 | 47 | [Everybody Knows](https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [I'm Your Man](https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9) | 5:34 |
-| 48 | [Never Surrender](https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Boy In The Box](https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN) | 4:55 |
+| 48 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
 | 49 | [Cuts Like A Knife](https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 5:19 |
-| 50 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
+| 50 | [Never Surrender](https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Boy In The Box](https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN) | 4:55 |
 | 51 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [The Thin Red Line \(Deluxe\)](https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV) | 4:08 |
 | 52 | [Innocent](https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Gravity](https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd) | 3:42 |
-| 53 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 |
-| 54 | [New Girl Now](https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan) | [Honeymoon Suite](https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q) | [Honeymoon Suite](https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n) | 3:36 |
+| 53 | [New Girl Now](https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan) | [Honeymoon Suite](https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q) | [Honeymoon Suite](https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n) | 3:36 |
+| 54 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 |
 | 55 | [Comin' Home](https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:05 |
 | 56 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 57 | [Raise A Little Hell](https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Thick As Thieves](https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Share the Land](https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Share The Land](https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV) | 3:55 |
 | 75 | [Sun in an Empty Room](https://open.spotify.com/track/4r1AS456lSXXXv6aVpDT4e) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 4:00 |
 
-Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMGZjY2ZhYzNjOTc3ZDczZTIzYzJjNWQxMDNhZmU1ZGE2`
+Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMDljNmM4YmU0NWYwMDgyYzU3YjNhY2VhYWJmMWQ0ODA4`

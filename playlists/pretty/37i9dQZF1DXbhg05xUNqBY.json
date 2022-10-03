@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 252589,
+  "num_followers": 252731,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDZkYTk4ZTIzZjBiYTMzNTBkODkxOGRmYjkxYjFjNzRk",
+  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDAxZDExZjhkYzIxZjVhNGJiYjJkZjIyZTQ0MGFjMjE5",
   "tracks": [
     {
       "added_at": "2021-10-31 01:35:26",
@@ -455,6 +455,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
+        "name": "Goodness of God (Acoustic)",
+        "url": "https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 243809,
+      "name": "Goodness of God - Acoustic",
+      "url": "https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
-        "name": "Goodness of God (Acoustic)",
-        "url": "https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 243809,
-      "name": "Goodness of God - Acoustic",
-      "url": "https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -651,18 +651,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
         }
       ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
+      "duration_ms": 175463,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -699,22 +703,18 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/4gkzovY1vntp4pgxxBcz5y"
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
       "artists": [
         {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 175463,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/0KukPaDC7s9OVAaTu9rPaJ"
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -959,18 +959,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "All Of My Best Friends (Acoustic)",
-        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+        "name": "Now More Than Ever",
+        "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Out of the Dust",
+          "url": "https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu"
+        },
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
         }
       ],
-      "duration_ms": 293160,
-      "name": "Lord Send Revival - Acoustic",
-      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+      "duration_ms": 280413,
+      "name": "Take This",
+      "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -991,22 +995,18 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Now More Than Ever",
-        "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
+        "name": "All Of My Best Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
       },
       "artists": [
         {
-          "name": "Out of the Dust",
-          "url": "https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu"
-        },
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 280413,
-      "name": "Take This",
-      "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+      "duration_ms": 293160,
+      "name": "Lord Send Revival - Acoustic",
+      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
     },
     {
       "added_at": "2021-10-31 01:35:26",

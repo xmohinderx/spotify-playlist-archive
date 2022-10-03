@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6122,
+  "num_followers": 6129,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGQwOTQ0MzJkNGFiNTliMmNjMDkwOWMyNGQxZWRhZTQy",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDQ2NzQ2ODRkYmM1ZDFiYjI4ZjdjNDRhNDJlMmNhNTRi",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -187,8 +187,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Fabulous Sidney Bechet",
-        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
         }
       ],
-      "duration_ms": 232306,
-      "name": "Ballin' The Jack",
-      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
+      "duration_ms": 178960,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -351,8 +351,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Runnin' Wild",
-        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
+        "name": "The Fabulous Sidney Bechet",
+        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
+      "duration_ms": 232306,
+      "name": "Ballin' The Jack",
+      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -883,6 +883,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
+        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "We're Gonna Have Smooth Sailing",
+      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
         "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 182906,
       "name": "Nobody's Sweetheart",
       "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
-        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "We're Gonna Have Smooth Sailing",
-      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
     },
     {
       "added_at": "2020-08-19 17:19:14",

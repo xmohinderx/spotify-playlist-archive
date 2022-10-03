@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vuli Ndlela](https://open.spotify.com/track/68RV0HNYnbkrztSe9sBZ1W) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:25 |
-| 2 | [Life Is Going On](https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:36 |
-| 3 | [Wedding Day](https://open.spotify.com/track/26e8Qw2ABeMtVbYxIYIkMr) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 3:59 |
+| 2 | [Wedding Day](https://open.spotify.com/track/26e8Qw2ABeMtVbYxIYIkMr) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 3:59 |
+| 3 | [Life Is Going On](https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:36 |
 | 4 | [Nakupenda \(I Love You\)](https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:37 |
 | 5 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
 | 6 | [Sum' Bulala](https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 4:05 |
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 14 | [Ngizilalhlela Kuwe](https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:29 |
 | 15 | [Weekend Special](https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:39 |
 | 16 | [Monate](https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:54 |
-| 17 | [Ngiyakuthanda Papa Wemba](https://open.spotify.com/track/4C0GA7K5qTaqpfssY9AEvs) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Now Is The Time](https://open.spotify.com/album/7B7IBtt8hrh1fayumg5JkD) | 3:57 |
+| 17 | [Higher](https://open.spotify.com/track/0Ek44VdlLSiO5MLWISwP5H) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 4:22 |
 | 18 | [My Baby](https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 6:14 |
-| 19 | [Higher](https://open.spotify.com/track/0Ek44VdlLSiO5MLWISwP5H) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 4:22 |
+| 19 | [Ngiyakuthanda Papa Wemba](https://open.spotify.com/track/4C0GA7K5qTaqpfssY9AEvs) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Now Is The Time](https://open.spotify.com/album/7B7IBtt8hrh1fayumg5JkD) | 3:57 |
 | 20 | [Party Time \- Kuya Ngokuthi Ungubani](https://open.spotify.com/track/1BNqCfgKVNePaG8AKR1qzw) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:31 |
-| 21 | [Morena](https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 3:30 |
+| 21 | [Ama\-Gents](https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:28 |
 | 22 | [Ponci Ponci \(Pontjie Pontjie\)](https://open.spotify.com/track/49SjeHQevHY5zP1cqqxi9t) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:21 |
-| 23 | [Ama\-Gents](https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:28 |
+| 23 | [Morena](https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 3:30 |
 | 24 | [Ag Shame Lovey](https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:21 |
 | 25 | [Ngizobuya](https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:04 |
 | 26 | [Mali](https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 49 | [Memeza](https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
 | 50 | [Kutheni](https://open.spotify.com/track/0qrJ1ifPy3j0pUhYx6Lsfh) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Now Is The Time](https://open.spotify.com/album/7B7IBtt8hrh1fayumg5JkD) | 5:04 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDAzMzNjNzdkNmI2ZjQzMjI3YjlmZWYxNTM1OTM0NWVlMA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA2NmFjNWYwODMzMzFjNmQwYjk4NTMxYWRhNDUxNGE0ZA==`

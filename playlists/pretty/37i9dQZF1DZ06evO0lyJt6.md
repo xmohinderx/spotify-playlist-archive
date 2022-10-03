@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,380 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,394 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 18 | [Tú Y Mi Ex](https://open.spotify.com/track/4H3vMhKCS8wn1lJdcwYiBV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Tú Y Mi Ex](https://open.spotify.com/album/4g7nDlkHIw3kZ9TovWje5u) | 2:35 |
 | 19 | [Imagina](https://open.spotify.com/track/54ozAIJWhGeuu0ZnBEuqjU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 2:38 |
 | 20 | [Por Si No Recuerdas](https://open.spotify.com/track/6nvk0d8QlR91kecYzPnBhr) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 3:13 |
-| 21 | [Rayando El Sol](https://open.spotify.com/track/3xFkUmXxESoJFwZGMnNg9u) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Rayando El Sol](https://open.spotify.com/album/76VzECEVvvadmwUh5w8yYS) | 3:24 |
-| 22 | [Según Tus Labios](https://open.spotify.com/track/2gUDXy0cLy2nEvEUDI5m9G) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:09 |
-| 23 | [Te Dedico](https://open.spotify.com/track/2RJOWQ7ZORSXE8MJJNJEhF) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:19 |
+| 21 | [Dentro De Tu Corazón](https://open.spotify.com/track/4oJRZ1TI7S89tnDYZU2y9P) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:17 |
+| 22 | [Te Dedico](https://open.spotify.com/track/2RJOWQ7ZORSXE8MJJNJEhF) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:19 |
+| 23 | [Según Tus Labios](https://open.spotify.com/track/2gUDXy0cLy2nEvEUDI5m9G) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:09 |
 | 24 | [A Poco](https://open.spotify.com/track/518lg2dwAG70BuNJ3aezRU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 2:54 |
-| 25 | [Dentro De Tu Corazón](https://open.spotify.com/track/4oJRZ1TI7S89tnDYZU2y9P) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:17 |
-| 26 | [La Idea](https://open.spotify.com/track/0m8zn0rPVukkX2tQWEHoWz) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 2:56 |
-| 27 | [Amor A Escondidas](https://open.spotify.com/track/5nicx87hWxGgiUbVbMkBdH) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:05 |
+| 25 | [Rayando El Sol](https://open.spotify.com/track/3xFkUmXxESoJFwZGMnNg9u) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Rayando El Sol](https://open.spotify.com/album/76VzECEVvvadmwUh5w8yYS) | 3:24 |
+| 26 | [Amor A Escondidas](https://open.spotify.com/track/5nicx87hWxGgiUbVbMkBdH) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:05 |
+| 27 | [La Idea](https://open.spotify.com/track/0m8zn0rPVukkX2tQWEHoWz) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 2:56 |
 | 28 | [A Una Almohada De Distancia](https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 4:37 |
 | 29 | [No Me Mires Así](https://open.spotify.com/track/6RZX4pPGBsw5fijSmKFFv2) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:07 |
 | 30 | [Lo Mejor Que Me Ha Pasado](https://open.spotify.com/track/0gWF4aNCc8sAwKa82DNuv9) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:25 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 43 | [Psicólogo Privado](https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Psicólogo Privado](https://open.spotify.com/album/1QPGkBHOuIaU2xKAODMBN9) | 3:18 |
 | 44 | [Sigo Adelante](https://open.spotify.com/track/10eFFITOIKej2Z8dTrS711) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sigo Adelante](https://open.spotify.com/album/1V2ZmX5Onv4YaHW4FhlWIC) | 2:50 |
 | 45 | [El Cuento Perfecto](https://open.spotify.com/track/1IT3kGP8FGkq74Co4B6Qm0) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:12 |
-| 46 | [Lo Haces Ver Tan Fácil](https://open.spotify.com/track/1VIEewgA5FctEZtWyCg1Sl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Lo Haces Ver Tan Fácil](https://open.spotify.com/album/3MFCVinGiviBRF5HeGVFv4) | 2:57 |
-| 47 | [Te Prometo](https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Te Prometo](https://open.spotify.com/album/2LP0reDguNHlmKi0C1mS8V) | 3:58 |
+| 46 | [Te Prometo](https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Te Prometo](https://open.spotify.com/album/2LP0reDguNHlmKi0C1mS8V) | 3:58 |
+| 47 | [Lo Haces Ver Tan Fácil](https://open.spotify.com/track/1VIEewgA5FctEZtWyCg1Sl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Lo Haces Ver Tan Fácil](https://open.spotify.com/album/3MFCVinGiviBRF5HeGVFv4) | 2:57 |
 | 48 | [Ese Loco Soy Yo](https://open.spotify.com/track/0bBBOltko9yaIrIzQgYzYp) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Ese Loco Soy Yo](https://open.spotify.com/album/6zEXNn3VL8OzlR0R4X2AEr) | 4:47 |
 | 49 | [Un Año](https://open.spotify.com/track/3X8mWx1MFrCYNmzHq4rDex) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Un Año](https://open.spotify.com/album/2TMzjumn1diO7STR0XMHJx) | 3:10 |
 | 50 | [La Receta \- En Vivo](https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Receta \(En Vivo\)](https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m) | 2:39 |
 | 51 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAyNzk1YzYwOGU2N2IzMjk3YWI0MzFkZjAyYjc1YTFmNA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBkZTIxOTJjZDQzNzViNmI1MzA1ODg3YzMzNjY0MGJmYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,335 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,379 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 35 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
 | 36 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 |
 | 37 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 |
-| 38 | [Skápate](https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Julieta Venegas](https://open.spotify.com/artist/0r0eibQp01HGqJ2G5ZI7ZC), [Cheko Biloba](https://open.spotify.com/artist/15Iv3aQ1jLdyRLvbJ5Vdo2), [Dr\. Shenka](https://open.spotify.com/artist/4y4EPNQdZnWTw0XoNWF7c1) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:37 |
-| 39 | [Yo Tomo](https://open.spotify.com/track/2PKkCGoCc4idF91R6RvFEN) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:32 |
+| 38 | [Yo Tomo](https://open.spotify.com/track/2PKkCGoCc4idF91R6RvFEN) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:32 |
+| 39 | [Skápate](https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Julieta Venegas](https://open.spotify.com/artist/0r0eibQp01HGqJ2G5ZI7ZC), [Cheko Biloba](https://open.spotify.com/artist/15Iv3aQ1jLdyRLvbJ5Vdo2), [Dr\. Shenka](https://open.spotify.com/artist/4y4EPNQdZnWTw0XoNWF7c1) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:37 |
 | 40 | [Aquí No Hay Playa](https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [The Refrescos](https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L) | 3:37 |
 | 41 | [Mis Colegas](https://open.spotify.com/track/0p3rxgmQPN5y6QEMzliGZc) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Que Corra La Voz](https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e) | 4:11 |
 | 42 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 61 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
 | 62 | [Cannabis](https://open.spotify.com/track/3pKEYZcL428BwPWiP2udxz) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:25 |
 | 63 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
-| 64 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
-| 65 | [El crack](https://open.spotify.com/track/3UUtewTLgASbX6afOBHAeQ) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Corazón de Chileno \[Canciones para Alentar a la Roja\] \- EP](https://open.spotify.com/album/2ALuHHVcNfUTLnQVB08MXW) | 3:46 |
-| 66 | [Bicolor](https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI) | [EXILIOS](https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE) | [Sueños de Carpa](https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x) | 4:07 |
-| 67 | [No Tengo Amigos](https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:13 |
+| 64 | [El crack](https://open.spotify.com/track/3UUtewTLgASbX6afOBHAeQ) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Corazón de Chileno \[Canciones para Alentar a la Roja\] \- EP](https://open.spotify.com/album/2ALuHHVcNfUTLnQVB08MXW) | 3:46 |
+| 65 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
+| 66 | [No Tengo Amigos](https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:13 |
+| 67 | [Bicolor](https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI) | [EXILIOS](https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE) | [Sueños de Carpa](https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x) | 4:07 |
 | 68 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 |
 | 69 | [Todo va lento](https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [El Club del Amigo](https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB) | 3:30 |
 | 70 | [No Te Olvidé](https://open.spotify.com/track/05oVLw37812S2eoTVetosi) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj), [Banda Bastón](https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 |
 | 100 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 
-Snapshot ID: `MTY2NDU1MTk3MiwwMDAwMDAwMDZkOGFjZDUwOWRhMTRlMTRjZGZiMmZlZTc2MTY3ZmM4`
+Snapshot ID: `MTY2NDU1MTk3MiwwMDAwMDAwMDVmNzYzZDRkZDNiNmNmMWNhMmZhNTYzNDEzNzBlNjAw`

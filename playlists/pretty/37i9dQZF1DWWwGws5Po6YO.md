@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,332 likes - 59 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,356 likes - 59 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 27 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 |
 | 28 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
 | 29 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
-| 30 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
+| 30 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
 | 31 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 32 | [Wawa by the Ocean](https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces](https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao) | 10:28 |
-| 33 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
+| 33 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
 | 34 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
 | 35 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
 | 36 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 44 | [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 |
 | 45 | [Bassin Bleu](https://open.spotify.com/track/42cBpZJdTAZkn1WvflhuEY) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Bassin Bleu](https://open.spotify.com/album/0TFW0oehN6zQKODIhOxpJB) | 5:59 |
 | 46 | [a path between the clouds](https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Frozen Passages](https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R) | 5:42 |
-| 47 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 |
-| 48 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
+| 47 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
+| 48 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 |
 | 49 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 |
 | 50 | [Kali](https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Kali](https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt) | 6:40 |
 | 51 | [How to build an automaton](https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Welfare / Practice](https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE) | 3:51 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 58 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
 | 59 | [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 |
 
-Snapshot ID: `MTY2MDkyOTg5NywwMDAwMDAwMGMzMTVlMjc5YmQ3NmE1NzBmNWQyNDQ4ZjU5NjZjZjdj`
+Snapshot ID: `MTY2MDkyOTg5NywwMDAwMDAwMDJiYmY3YmQ2M2E2YjIxMjQxZGM4OTQzNTFkNzcxNjgx`

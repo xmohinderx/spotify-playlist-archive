@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: The Psychedelic Furs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,970 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,132 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 38 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 |
 | 39 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 40 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
-| 41 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
-| 42 | [It's a Sin \- 2018 Remaster](https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 4:59 |
+| 41 | [It's a Sin \- 2018 Remaster](https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 4:59 |
+| 42 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
 | 43 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 |
 | 44 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
 | 45 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 74 | [Being Boiled](https://open.spotify.com/track/6fbeOOv9u5JQwZx4pyW4mY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Travelogue](https://open.spotify.com/album/3nRP83YnVmP4TTyEzieq2H) | 4:21 |
 | 75 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 
-Snapshot ID: `MTY2MzQ3NjA5NiwwMDAwMDAwMGRjNTM5NjhhMDc1ZDljNWU1NDdjYTZmOTYxY2IzMDFm`
+Snapshot ID: `MTY2MzQ3NjA5NiwwMDAwMDAwMGMxZDAxYjA2N2IyNTY5MmFjY2I5ODM5ZGNiZTFkN2Fk`

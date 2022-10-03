@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,918 likes - 68 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,925 likes - 68 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 14 | [Heaven Passport](https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN) | 3:07 |
 | 15 | [Go Hard](https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg) | 2:44 |
 | 16 | [Split in De Middle](https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Split in De Middle](https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4) | 2:19 |
-| 17 | [Rate Who Rate You](https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Rate Who Rate You](https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU) | 3:36 |
-| 18 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 |
+| 17 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 |
+| 18 | [Rate Who Rate You](https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Rate Who Rate You](https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU) | 3:36 |
 | 19 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
 | 20 | [Carry On](https://open.spotify.com/track/4trbSqUbXaoBoAPLKu2Ydb) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg) | 3:57 |
-| 21 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
+| 21 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
 | 22 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 |
-| 23 | [Beat Dem Bad](https://open.spotify.com/track/16zJKw4xLkC6ssjawLYsQj) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Beat Dem Bad](https://open.spotify.com/album/1INQWVJOhCcOZHmLC7srG1) | 2:24 |
-| 24 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
-| 25 | [Like Dat](https://open.spotify.com/track/3yKQU0uEWv6ulIKpXDLaip) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/5l7lnLGSa1TFfpKQioDPI0) | 2:16 |
+| 23 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
+| 24 | [Like Dat](https://open.spotify.com/track/3yKQU0uEWv6ulIKpXDLaip) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/5l7lnLGSa1TFfpKQioDPI0) | 2:16 |
+| 25 | [Beat Dem Bad](https://open.spotify.com/track/16zJKw4xLkC6ssjawLYsQj) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Beat Dem Bad](https://open.spotify.com/album/1INQWVJOhCcOZHmLC7srG1) | 2:24 |
 | 26 | [Dear Promoter](https://open.spotify.com/track/4WMQmMmceazgRSRr7har02) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/4ChVmq8YxUPa0F6oaAXkiW) | 4:04 |
 | 27 | [Demon Girl](https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Demon Girl](https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD) | 3:22 |
 | 28 | [Captain](https://open.spotify.com/track/3lZ3eMvVB2V1NOYDh5yACv) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Captain](https://open.spotify.com/album/6tDRBYN5svaPwFcIuJJuYw) | 3:50 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Tombstone](https://open.spotify.com/track/5y3BRj2jk5ifjwRmPvrNk6) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4JufEdzLQ2yJkXOlXknrLG) | 3:50 |
 | 68 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDljYmMwZTJhNzU0MGQ1NTUwNTczMmIwMzgzNzNhZjEw`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDQwMTFlYzA5NzIyNGQ4NDZhODBmZmFmMmZjMTRmN2Fj`

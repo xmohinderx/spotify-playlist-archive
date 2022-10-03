@@ -4762,6 +4762,24 @@
     },
     {
       "album": {
+        "name": "Love Me Loco",
+        "url": "https://open.spotify.com/album/14OiUNiltQEZGyZQviHNyL"
+      },
+      "artists": [
+        {
+          "name": "AZETE",
+          "url": "https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193169,
+      "name": "Love Me Loco",
+      "url": "https://open.spotify.com/track/0vsEfm4TTVrVCQiYcil89k"
+    },
+    {
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/3s5kOpbjLyG7l7N9Ezg1h0"
       },

@@ -4,7 +4,7 @@
 
 > Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB?si=Y5TlZxxtRxSAEdwRMOPGPA">Roddy Ricch</a>
 
-70 songs - 3 hr 58 min - not published yet
+70 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

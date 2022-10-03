@@ -1,12 +1,12 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 5904632,
+  "num_followers": 5905432,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODgwMCwwMDAwMDAwMDE5MzdiN2JhNDNlOTQ0MTcwMjRmMzYxNWNlZTRmYjc3",
+  "snapshot_id": "MTY2NDQ4ODgwMCwwMDAwMDAwMDJkNjJlNjk1MjI5MDJkZjRhZjNhNDIzYjA3MGE2OTk5",
   "tracks": [
     {
       "added_at": "2022-09-29 22:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "G I R L",
         "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
       },
@@ -1391,26 +1407,6 @@
       "duration_ms": 190779,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Magic In The Hamptons (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
-      },
-      "artists": [
-        {
-          "name": "Social House",
-          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Magic In The Hamptons (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1435,18 +1431,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+        "name": "Magic In The Hamptons (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Social House",
+          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+      "duration_ms": 164640,
+      "name": "Magic In The Hamptons (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Holy (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Jerusalema",
         "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 342612,
       "name": "Jerusalema (feat. Nomcebo Zikode)",
       "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1587,22 +1587,46 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 160161,
+      "name": "C'est La Vie (with bbno$ & Rich Brian)",
+      "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1671,30 +1695,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 160161,
-      "name": "C'est La Vie (with bbno$ & Rich Brian)",
-      "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Iko Iko (My Bestie)",
         "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
       },
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Manila",
         "url": "https://open.spotify.com/album/04G5svGohksmXulzf6BbK3"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 144621,
       "name": "Manila",
       "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "Anyone For You (Tiger Lily)",
+        "url": "https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 122226,
-      "name": "CHICKEN TERIYAKI",
-      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
+      "duration_ms": 187682,
+      "name": "Anyone For You (Tiger Lily)",
+      "url": "https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL"
     }
   ],
   "unique_name": "Happy Hits!",

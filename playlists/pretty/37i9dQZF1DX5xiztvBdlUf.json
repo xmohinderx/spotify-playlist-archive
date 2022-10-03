@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 526266,
+  "num_followers": 526474,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MDkzOCwwMDAwMDAwMDNiZDBlYmE4MjlmNjEzYzk1ZjM4MmUzMjcxZWFmZjky",
+  "snapshot_id": "MTY2NDU2MDkzOCwwMDAwMDAwMDQzYTVlYTg4OTM2NDFjNzdhZmY4ZWJiMjA1ZDE1MzBh",
   "tracks": [
     {
       "added_at": "2022-09-30 18:02:18",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Amanh\u00e3",
-      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Les Gout",
         "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 344000,
       "name": "Les Gout",
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -307,18 +307,22 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Like A Friend",
-        "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
+        "name": "Silence & Secrets (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
       },
       "artists": [
         {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 202926,
-      "name": "Like A Friend - Radio Edit",
-      "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
+      "duration_ms": 474093,
+      "name": "Silence & Secrets - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -343,22 +347,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Silence & Secrets (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
+        "name": "Like A Friend",
+        "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
         }
       ],
-      "duration_ms": 474093,
-      "name": "Silence & Secrets - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
+      "duration_ms": 202926,
+      "name": "Like A Friend - Radio Edit",
+      "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -659,6 +659,26 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
+        "name": "Kaleidoscope Colours",
+        "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Maybemahri",
+          "url": "https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Kaleidoscope Colours",
+      "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
       },
@@ -671,22 +691,6 @@
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
-        "name": "Come Back Around",
-        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 231349,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -723,22 +727,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Kaleidoscope Colours",
-        "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
+        "name": "Come Back Around",
+        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
       },
       "artists": [
         {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Maybemahri",
-          "url": "https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 255466,
-      "name": "Kaleidoscope Colours",
-      "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
+      "duration_ms": 231349,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Bind (Remixes)",
         "url": "https://open.spotify.com/album/0ajoDZRY4n3a7KIq9F7qC3"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
       },
       "artists": [
         {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
         }
       ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -887,6 +871,22 @@
       "duration_ms": 362928,
       "name": "Love Language - Imad Remix",
       "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "St Claire",
-        "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        }
-      ],
-      "duration_ms": 214337,
-      "name": "St Claire",
-      "url": "https://open.spotify.com/track/7qrch7xVClA6bB299puPoz"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Sint Maarten",
         "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Sky",
-        "url": "https://open.spotify.com/album/2p4WdaWddQMykUBZZnP8DZ"
+        "name": "St Claire",
+        "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
       },
       "artists": [
         {
-          "name": "M.E.M.O.",
-          "url": "https://open.spotify.com/artist/6BEwwGiWuXadRmIfQU9NSt"
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
         }
       ],
-      "duration_ms": 224591,
-      "name": "Sky",
-      "url": "https://open.spotify.com/track/36wx7z7hXQ11EhYtfgEgM0"
+      "duration_ms": 214337,
+      "name": "St Claire",
+      "url": "https://open.spotify.com/track/7qrch7xVClA6bB299puPoz"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/2p4WdaWddQMykUBZZnP8DZ"
       },
       "artists": [
         {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+          "name": "M.E.M.O.",
+          "url": "https://open.spotify.com/artist/6BEwwGiWuXadRmIfQU9NSt"
         }
       ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+      "duration_ms": 224591,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/36wx7z7hXQ11EhYtfgEgM0"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1011,6 +995,22 @@
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Donde Chile",
-        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 434406,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Voices Above",
         "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
       },
@@ -1079,22 +1063,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Made of Wood Remixed",
-        "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
+        "name": "Donde Chile",
+        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
       },
       "artists": [
         {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        },
-        {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
         }
       ],
-      "duration_ms": 397882,
-      "name": "Copal - Super Flu Remix",
-      "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
+      "duration_ms": 434406,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1115,6 +1095,26 @@
       "duration_ms": 387887,
       "name": "Neverland - Aparde Remix",
       "url": "https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
+        "name": "Made of Wood Remixed",
+        "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "duration_ms": 397882,
+      "name": "Copal - Super Flu Remix",
+      "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Annett Gapstream | Local Dialect",
-        "url": "https://open.spotify.com/album/1K2K06zyyAcB6Twe2mPqWO"
-      },
-      "artists": [
-        {
-          "name": "Local Dialect",
-          "url": "https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j"
-        }
-      ],
-      "duration_ms": 472436,
-      "name": "Yaksha",
-      "url": "https://open.spotify.com/track/1nc5Q3toic9NAPuWI3Kggf"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
+        "name": "Annett Gapstream | Local Dialect",
+        "url": "https://open.spotify.com/album/1K2K06zyyAcB6Twe2mPqWO"
+      },
+      "artists": [
+        {
+          "name": "Local Dialect",
+          "url": "https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j"
+        }
+      ],
+      "duration_ms": 472436,
+      "name": "Yaksha",
+      "url": "https://open.spotify.com/track/1nc5Q3toic9NAPuWI3Kggf"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
         "name": "What U Doing",
         "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
       },
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Heartstrings",
-        "url": "https://open.spotify.com/album/1BKrexLvQyfeVk64nWf5R9"
+        "name": "Lunaire",
+        "url": "https://open.spotify.com/album/1o5rn6aA1xYmeH1iycw4gN"
       },
       "artists": [
         {
-          "name": "Evelynka",
-          "url": "https://open.spotify.com/artist/2GfOeShdTYQziYC2HjP8PN"
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
         }
       ],
-      "duration_ms": 476000,
-      "name": "Heartstrings",
-      "url": "https://open.spotify.com/track/7dXeRXvSYwuAtFwi2JBDXi"
+      "duration_ms": 214591,
+      "name": "Lunaire",
+      "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Lunaire",
-        "url": "https://open.spotify.com/album/1o5rn6aA1xYmeH1iycw4gN"
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/1BKrexLvQyfeVk64nWf5R9"
       },
       "artists": [
         {
-          "name": "Effemar",
-          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+          "name": "Evelynka",
+          "url": "https://open.spotify.com/artist/2GfOeShdTYQziYC2HjP8PN"
         }
       ],
-      "duration_ms": 214591,
-      "name": "Lunaire",
-      "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
+      "duration_ms": 476000,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/7dXeRXvSYwuAtFwi2JBDXi"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Deepest Thoughts",
-        "url": "https://open.spotify.com/album/35OypZ3uJ5qR1OCX4Z3dtI"
-      },
-      "artists": [
-        {
-          "name": "Mantu",
-          "url": "https://open.spotify.com/artist/2LNmyvEklvUDN27ArD6PRK"
-        }
-      ],
-      "duration_ms": 203749,
-      "name": "Deepest Thoughts",
-      "url": "https://open.spotify.com/track/0xYiTAId8EDuHg9RSiP1QR"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "WAIRUNGA",
         "url": "https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 630336,
       "name": "Dig Deep",
       "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
+        "name": "Deepest Thoughts",
+        "url": "https://open.spotify.com/album/35OypZ3uJ5qR1OCX4Z3dtI"
+      },
+      "artists": [
+        {
+          "name": "Mantu",
+          "url": "https://open.spotify.com/artist/2LNmyvEklvUDN27ArD6PRK"
+        }
+      ],
+      "duration_ms": 203749,
+      "name": "Deepest Thoughts",
+      "url": "https://open.spotify.com/track/0xYiTAId8EDuHg9RSiP1QR"
     },
     {
       "added_at": "2022-09-30 18:02:18",

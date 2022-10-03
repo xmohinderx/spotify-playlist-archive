@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Paramore, Ed Sheeran, Shawn Mendes, Maluma, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,965,190 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,965,436 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 82 | [Getting Late](https://open.spotify.com/track/4bYTTDFnNbakdU9NX8uMKj) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Getting Late](https://open.spotify.com/album/3giodvWWNQIgilwpC9Fxfa) | 2:52 |
 | 83 | [Celine Frames](https://open.spotify.com/track/0Gmi0VeJIjybMPkJwLlS80) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Last Man Standing](https://open.spotify.com/album/2aFnmYzaupGK12iAYejKC4) | 2:35 |
 | 84 | [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 |
-| 85 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
+| 85 | [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 |
 | 86 | [California High](https://open.spotify.com/track/1wDBglPaH5ehDDNiNWCHp0) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 3:51 |
 | 87 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 |
 | 88 | [Overrated](https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Overrated](https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm) | 3:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 98 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 |
 | 99 | [Molly](https://open.spotify.com/track/5Bxlchum7dWVpR60j6BMrT) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Molly](https://open.spotify.com/album/1I8Nu2RsxFcZBfSfaYrbGt) | 2:41 |
 
-Snapshot ID: `MTY2NDY0MDk0OSwwMDAwMDAwMGI0YWE4ZWRiOTEyNDA2OTVmYWFhZDc3ZGFjYjUxMzU0`
+Snapshot ID: `MTY2NDY0MDk0OSwwMDAwMDAwMGIyZWYwNDRkYzFiNzdlNTI4YTNjMTg0ZWI4NThhMTI0`

@@ -1,12 +1,12 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3482020,
+  "num_followers": 3482452,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzUyMSwwMDAwMDAwMDNlMGE2MDc0YzE3OWI0MWZiMWY3YjJhMGFiNmNjMjRj",
+  "snapshot_id": "MTY2MTc4MzUyMSwwMDAwMDAwMGM0MDE1ZjEzNjNhZTdkNGQ2NWE5YjQ1OGMxZWFjMWFm",
   "tracks": [
     {
       "added_at": "2021-11-08 19:15:17",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-11-08 19:15:17",
       "album": {
-        "name": "this is what falling in love feels like",
-        "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 120308,
-      "name": "this is what falling in love feels like",
-      "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
-    },
-    {
-      "added_at": "2021-11-08 19:15:17",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2021-11-08 19:15:17",
+      "album": {
+        "name": "this is what falling in love feels like",
+        "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 120308,
+      "name": "this is what falling in love feels like",
+      "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
     },
     {
       "added_at": "2021-11-08 19:15:17",
@@ -531,6 +531,22 @@
     {
       "added_at": "2021-11-08 19:15:17",
       "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
+    },
+    {
+      "added_at": "2021-11-08 19:15:17",
+      "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 249810,
       "name": "Secret Love Song (feat. Jason Derulo)",
       "url": "https://open.spotify.com/track/6KHL1En9v6iNWjcs44mcmU"
-    },
-    {
-      "added_at": "2021-11-08 19:15:17",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
     },
     {
       "added_at": "2021-11-08 19:15:17",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-11-08 19:15:17",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
-    },
-    {
-      "added_at": "2021-11-08 19:15:17",
-      "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 205280,
       "name": "Million Reasons",
       "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+    },
+    {
+      "added_at": "2021-11-08 19:15:17",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
       "added_at": "2021-11-08 19:15:17",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2021-11-08 19:15:17",
       "album": {
+        "name": "A Good Friend Is Nice",
+        "url": "https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk"
+      },
+      "artists": [
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "No One Compares To You",
+      "url": "https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2"
+    },
+    {
+      "added_at": "2021-11-08 19:15:17",
+      "album": {
         "name": "Meet The Vamps",
         "url": "https://open.spotify.com/album/3XDvXyhPzaPRpGoEjoQI8P"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 182826,
       "name": "Somebody To You",
       "url": "https://open.spotify.com/track/2BWWsCwuHAZFE1scLyP6Qe"
-    },
-    {
-      "added_at": "2021-11-08 19:15:17",
-      "album": {
-        "name": "A Good Friend Is Nice",
-        "url": "https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk"
-      },
-      "artists": [
-        {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "No One Compares To You",
-      "url": "https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2"
     },
     {
       "added_at": "2021-11-08 19:15:17",

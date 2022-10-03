@@ -1,12 +1,12 @@
 {
   "description": "A mega mix of 75 favorites from the last few years! ",
-  "num_followers": 6699512,
+  "num_followers": 6702084,
   "original_name": "Mega Hit Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGVhYjlkODhmY2M2NjBhM2NmMzI4YWI2YThmN2M1YWRj",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGI2YzIyZjliZDUyZDE0MzU1ZGU1MjNhYjZkMjM0YjIy",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -99,18 +99,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -131,22 +135,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+      "duration_ms": 204346,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 263400,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -387,34 +403,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -451,6 +451,22 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214289,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -935,26 +955,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214289,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "death bed (coffee for your head)",
         "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 160000,
       "name": "What You Know Bout Love",
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
     },
     {
       "added_at": "2022-09-30 04:00:00",

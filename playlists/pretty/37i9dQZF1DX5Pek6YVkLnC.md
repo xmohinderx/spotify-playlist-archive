@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,901 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,923 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 31 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 |
 | 32 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
 | 33 | [Sexo Virtual](https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:28 |
-| 34 | [Desnudarte](https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desnudarte](https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV) | 4:22 |
-| 35 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 |
+| 34 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 |
+| 35 | [Desnudarte](https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desnudarte](https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV) | 4:22 |
 | 36 | [Llori Pari](https://open.spotify.com/track/5dtzqRtiXKftAk6B6vxUmr) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:35 |
 | 37 | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c) | 3:21 |
 | 38 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 67 | [Puerto Rican Mami](https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Puerto Rican Mami](https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy) | 3:19 |
 | 68 | [Estamos Arriba](https://open.spotify.com/track/4K5cnD7P21Ny0hvbFKXIBc) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Pa' la Calle](https://open.spotify.com/album/3VdE4tEwl2bs4IGjkshN0K) | 2:59 |
 | 69 | [Philliecito](https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Philliecito](https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D) | 4:11 |
-| 70 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 |
+| 70 | [Munchisito y Chao](https://open.spotify.com/track/4O3jVlC5g6crPM0TOsoUjA) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Munchisito y Chao](https://open.spotify.com/album/3p38C0gN42NetsZA02LiX9) | 2:18 |
 
-Snapshot ID: `MTY2MDc2MDY4MiwwMDAwMDAwMDA3N2QxYTZhYTcwMWYzOGYzOGM0MTllYjE1NTgxYTg4`
+Snapshot ID: `MTY2MDc2MDY4MiwwMDAwMDAwMDk2MGU4MGU0NGJhYjUzYzA4YzQ0NmRjYWRkYzFlYjcy`

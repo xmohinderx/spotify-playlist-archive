@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 225813,
+  "num_followers": 226136,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQwOTYwMCwwMDAwMDAwMGZhNTA1MzFhZWYxNDI3YTMzMTc5NGZkNTU3ZjJlZWJl",
+  "snapshot_id": "MTY2NDQwOTYwMCwwMDAwMDAwMDYyMDZiNjUxYTdlZmQwMWM1NDFkY2VjYTNlMzUyNDYz",
   "tracks": [
     {
       "added_at": "2022-09-29 00:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-29 00:00:00",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "30 Something",
-      "url": "https://open.spotify.com/track/1pahWZoPgPOK5yVfmCFxcF"
-    },
-    {
-      "added_at": "2022-09-29 00:00:00",
-      "album": {
         "name": "Oowee",
         "url": "https://open.spotify.com/album/0Woy3KS2tC9r3bStHcpxjW"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 149587,
       "name": "Oowee",
       "url": "https://open.spotify.com/track/0mN7bQaPh3xjcuqElzd1oD"
+    },
+    {
+      "added_at": "2022-09-29 00:00:00",
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "30 Something",
+      "url": "https://open.spotify.com/track/1pahWZoPgPOK5yVfmCFxcF"
     },
     {
       "added_at": "2022-09-29 00:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-29 00:00:00",
       "album": {
-        "name": "Lightning In A Bottle",
-        "url": "https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm"
-      },
-      "artists": [
-        {
-          "name": "Rook Monroe",
-          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Lightning In A Bottle",
-      "url": "https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI"
-    },
-    {
-      "added_at": "2022-09-29 00:00:00",
-      "album": {
         "name": "Just Re'd up 2",
         "url": "https://open.spotify.com/album/6LYs6vCaIZd3kemw1JDGti"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 174602,
       "name": "Im 4rm Bompton",
       "url": "https://open.spotify.com/track/5Zmd9SxFlYLNkvegm4WkJn"
+    },
+    {
+      "added_at": "2022-09-29 00:00:00",
+      "album": {
+        "name": "Lightning In A Bottle",
+        "url": "https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm"
+      },
+      "artists": [
+        {
+          "name": "Rook Monroe",
+          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Lightning In A Bottle",
+      "url": "https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI"
     },
     {
       "added_at": "2022-09-29 00:00:00",

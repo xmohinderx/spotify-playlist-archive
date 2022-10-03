@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 43933,
+  "num_followers": 43978,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjE1MTk1MSwwMDAwMDAwMDMwMjkwN2QzYjgzNDk4MTc2MmI5NjQ3NmFiYzQzM2My",
+  "snapshot_id": "MTY1MjE1MTk1MSwwMDAwMDAwMDgyZWQwYmFiOTBlNjRhZThlM2NkYWFhYTNhYWViMDEz",
   "tracks": [
     {
       "added_at": "2021-07-02 05:03:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
         "name": "Love At First Sting",
         "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 252493,
       "name": "Rock You Like A Hurricane",
       "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2021-07-02 05:03:05",

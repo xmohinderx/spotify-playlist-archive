@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382 likes - 42 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,383 likes - 42 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 41 | [Dirty White Glove \- DOTB B Side](https://open.spotify.com/track/6TQ6PF2QeAFbIISlYOw0FR) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 5:23 |
 | 42 | [The Mohegan \- DOTB B Side](https://open.spotify.com/track/7mlXr4SOCtD142pBgpVZzG) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:19 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBiMjRiYjk3NmM3MjBhNzAzOGQ1YmZiYmZiMjhmMWM2YQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBhNDM0ODE2MmMzNDI2MTA2NWZmYmMyNzgzNjNlOTA4MQ==`

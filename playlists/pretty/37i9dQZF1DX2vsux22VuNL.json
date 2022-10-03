@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: 3030",
-  "num_followers": 232325,
+  "num_followers": 232377,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MzUwOCwwMDAwMDAwMDNmNzk5MDk5NzU3NjU5NDUxYmM0ZmQ2ODRiMTU1MjQz",
+  "snapshot_id": "MTY2NDU1MzUwOCwwMDAwMDAwMDUxMmY2NDdlOGVkZmI0MTc1YjAyODlhMGY0MmQ1NzVl",
   "tracks": [
     {
       "added_at": "2022-09-30 15:58:28",
@@ -403,6 +403,26 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
+        "name": "Amor e Amor",
+        "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Amor e Amor",
+      "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
         "name": "N\u00e3o Demora",
         "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 182003,
       "name": "N\u00e3o Demora",
       "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
-        "name": "Amor e Amor",
-        "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Amor e Amor",
-      "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/1ICIN9SOmYfHl37mWWAxEU"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 218214,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/6moZvXY0OVOnkLT9EA9igu"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
         "name": "Salserin #1 - Para",
         "url": "https://open.spotify.com/album/375MzJOkgq1Dp7PNW0MOF9"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 210429,
       "name": "Salserin #1 - Para",
       "url": "https://open.spotify.com/track/4803QEhCk7Oq6J6sJEY9GB"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
-        "name": "Afrodite",
-        "url": "https://open.spotify.com/album/1ICIN9SOmYfHl37mWWAxEU"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 218214,
-      "name": "Afrodite",
-      "url": "https://open.spotify.com/track/6moZvXY0OVOnkLT9EA9igu"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Te Decifrar",
-        "url": "https://open.spotify.com/album/5uJX90BeQPh4tqIW1rpBLe"
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
       },
       "artists": [
         {
@@ -1012,13 +1012,13 @@
           "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         },
         {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 163199,
-      "name": "Te Decifrar",
-      "url": "https://open.spotify.com/track/3GPPyDAh78UHavPVSGZSfe"
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+        "name": "Te Decifrar",
+        "url": "https://open.spotify.com/album/5uJX90BeQPh4tqIW1rpBLe"
       },
       "artists": [
         {
@@ -1200,13 +1200,13 @@
           "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+      "duration_ms": 163199,
+      "name": "Te Decifrar",
+      "url": "https://open.spotify.com/track/3GPPyDAh78UHavPVSGZSfe"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Surreal",
-        "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
-        },
-        {
-          "name": "FEL",
-          "url": "https://open.spotify.com/artist/5BFA1MzEXTBZTSLgB7cSRd"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        },
+        {
+          "name": "FEL",
+          "url": "https://open.spotify.com/artist/5BFA1MzEXTBZTSLgB7cSRd"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
+        "name": "Como \u00c9 Que Faz",
+        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
+      },
+      "artists": [
+        {
+          "name": "Dogge",
+          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
+        }
+      ],
+      "duration_ms": 160747,
+      "name": "Como \u00c9 Que Faz",
+      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Como \u00c9 Que Faz",
-        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
-      },
-      "artists": [
-        {
-          "name": "Dogge",
-          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
-        }
-      ],
-      "duration_ms": 160747,
-      "name": "Como \u00c9 Que Faz",
-      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
         "name": "Tem Hist\u00f3ria N\u00e3o",
         "url": "https://open.spotify.com/album/110Oo0yN1VHnLh2vOEblr6"
       },
@@ -1603,6 +1603,30 @@
       "duration_ms": 189562,
       "name": "Queria Te Ver",
       "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "Golpe Baixo",
+        "url": "https://open.spotify.com/album/3JTHIZV0FUtTD8gCpSCu10"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Vulto",
+          "url": "https://open.spotify.com/artist/0F70fLZ3B78qjKQg3PguLX"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Golpe Baixo",
+      "url": "https://open.spotify.com/track/0tikP9agfqFyjJS4NLJHxp"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1711,38 +1735,6 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Sentir Saudade",
-        "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Sentir Saudade",
-      "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
       },
@@ -1795,46 +1787,6 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Golpe Baixo",
-        "url": "https://open.spotify.com/album/3JTHIZV0FUtTD8gCpSCu10"
-      },
-      "artists": [
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Vulto",
-          "url": "https://open.spotify.com/artist/0F70fLZ3B78qjKQg3PguLX"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Golpe Baixo",
-      "url": "https://open.spotify.com/track/0tikP9agfqFyjJS4NLJHxp"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
-        "name": "AL\u00c9M DE LOVE",
-        "url": "https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3"
-      },
-      "artists": [
-        {
-          "name": "Agostta",
-          "url": "https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "PRIMEIRA VISTA",
-      "url": "https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
         "name": "Xavequin 2",
         "url": "https://open.spotify.com/album/3U0g88ovbhpQwTzaaJMenm"
       },
@@ -1871,6 +1823,22 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
+        "name": "AL\u00c9M DE LOVE",
+        "url": "https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3"
+      },
+      "artists": [
+        {
+          "name": "Agostta",
+          "url": "https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "PRIMEIRA VISTA",
+      "url": "https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -1887,6 +1855,38 @@
       "duration_ms": 166927,
       "name": "Sabotagem",
       "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "Sentir Saudade",
+        "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Sentir Saudade",
+      "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
     }
   ],
   "unique_name": "brisa",

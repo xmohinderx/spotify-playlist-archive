@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-120 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
+121 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Sandy Foam](https://open.spotify.com/track/3eifjD5zwsrWjKkphFcr5i) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Sandy Foam](https://open.spotify.com/album/47x7s8rWew3mkOc8xgzuIB) | 2:25 | 2022-07-19 | 2022-08-26 |
 | [Sapphire Dunes](https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Sapphire Dunes](https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj) | 3:40 | 2022-07-19 | 2022-07-29 |
 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 | 2022-07-19 |  |
-| [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 | 2022-07-19 |  |
+| [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 | 2022-07-19 | 2022-10-03 |
 | [Semblance](https://open.spotify.com/track/4p0HBAmru8viDonTn7meJM) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/4JIstsrl6fPr8CcgiItzwQ) | 3:03 | 2022-07-05 | 2022-07-29 |
 | [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2022-07-05 |  |
 | [Serenity](https://open.spotify.com/track/1V5NdSG3po303c2e1mwBfX) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Serenity](https://open.spotify.com/album/466IfOAoKcGtopPMuuLjq4) | 2:36 | 2022-07-05 | 2022-07-29 |
@@ -105,6 +105,7 @@
 | [Sleep Sequence](https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleep Sequence](https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm) | 3:23 | 2022-07-19 | 2022-09-05 |
 | [Sleep, Heavenly Sleep](https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Sleep, Heavenly Sleep](https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL) | 3:00 | 2022-07-19 |  |
 | [Sleep, Heavenly Sleep](https://open.spotify.com/track/36AM3FkKz49Iic9MkWvGr1) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Sleep, Heavenly Sleep](https://open.spotify.com/album/0eOtNnA9eqarEySiZOAeb3) | 3:00 | 2022-07-05 | 2022-07-29 |
+| [Sleeping Moons](https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:11 | 2022-09-30 |  |
 | [Slowly Flying](https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Simple Soul](https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku) | 3:34 | 2022-07-05 |  |
 | [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 | 2022-07-19 | 2022-07-26 |
 | [Soft Meadow](https://open.spotify.com/track/4asidk65e0vYOKukqfWMGb) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Soft Meadow](https://open.spotify.com/album/4cNA7atoZuNanhhhkllX8n) | 2:59 | 2022-07-19 | 2022-07-29 |

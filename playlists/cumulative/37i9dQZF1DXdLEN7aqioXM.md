@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-347 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+349 songs - 1 day 1 hr 18 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 | 2021-10-15 |  |
 | [After Hours](https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM) | [Sunset Neon](https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s) | [Starlight \(Deluxe Edition\)](https://open.spotify.com/album/6o57o477VyFrubOJqTMwUV) | 4:00 | 2021-10-15 |  |
 | [After Hours Run](https://open.spotify.com/track/2PZrXkW8QNsJwYdG9lgTmB) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [After Hours](https://open.spotify.com/album/1EBKGI7RyqrGScoPmqxzc1) | 3:40 | 2021-10-15 |  |
-| [Afterburner](https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f) | [Moondragon](https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub) | [Man and Machine](https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP) | 4:00 | 2022-04-01 |  |
+| [Afterburner](https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f) | [Moondragon](https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub) | [Man and Machine](https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP) | 4:00 | 2022-04-01 | 2022-10-03 |
 | [Aftershock](https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [77](https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v) | 2:20 | 2021-10-15 |  |
 | [Align](https://open.spotify.com/track/5gLbWMM5KEp6IKqx0m0AtK) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Align](https://open.spotify.com/album/4xhLEnoyZwuRFzMlP4VgeO) | 3:39 | 2022-08-26 |  |
 | [American Cars](https://open.spotify.com/track/2ybIQegkNqVdUMhLAtqv4d) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Dark Hearts](https://open.spotify.com/album/79w7ntjrEgNuWW1OziZ0zZ) | 3:46 | 2022-07-22 | 2022-09-17 |
@@ -45,6 +45,7 @@
 | [Blitz](https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P) | [Sferro](https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P) | [Ornaments](https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm) | 4:27 | 2022-04-01 |  |
 | [Blood Magic](https://open.spotify.com/track/37GD7jrPe7DubPim1i5kJI) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Corruptor](https://open.spotify.com/album/3p6hvxfVtP5u9jnp9Izqyh) | 3:34 | 2021-10-15 |  |
 | [Breathe](https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [Breathe](https://open.spotify.com/album/7K3KhtyrxHyaMXO5YlB6in) | 3:48 | 2021-10-15 | 2022-07-28 |
+| [Burn It Down \- Rework](https://open.spotify.com/track/3Is5Q2dJMMVXviLh9PmOXD) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Burn It Down \- Rework](https://open.spotify.com/album/1Bj2waZd2HdJrWChKrQJ1F) | 4:16 | 2022-09-30 |  |
 | [Chauma](https://open.spotify.com/track/46U7cjUbIwsMr6XwlEcE35) | [pothOles](https://open.spotify.com/artist/4FsQtPo1pvWq2GKKcKXyRH) | [Chauma](https://open.spotify.com/album/38umTMbcj2n8RB7COoIr18) | 4:50 | 2022-02-04 |  |
 | [Choose Love \- Gerd Janson Remix](https://open.spotify.com/track/6v5cHVwMYQMDvAIlfr2Kwa) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Choose Love \(Gerd Janson Remix\)](https://open.spotify.com/album/4zYngChJ5qPNtbxb6Z3MSo) | 3:44 | 2022-04-01 | 2022-04-16 |
 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 | 2022-07-29 |  |
@@ -206,6 +207,7 @@
 | [Neo\-Tokyo \- Chromatique Remix](https://open.spotify.com/track/4994qi4UjoPStjsbUB8AAF) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [Chromatique](https://open.spotify.com/artist/5cUt6SCHBrAWbxJqfnR275) | [Dreams In Monochrome \(Deluxe Edition\)](https://open.spotify.com/album/7GY9n06edzOtqE8OMubV8F) | 5:19 | 2021-10-15 | 2022-03-21 |
 | [Neon Escapism \- Edit](https://open.spotify.com/track/42Xlg8cKifyHQ8sFgaUBmt) | [Melezz](https://open.spotify.com/artist/7x1EFL4BItTrsqEP8u0CZQ) | [Neon Escapism \(Edit\)](https://open.spotify.com/album/6jmwxY4XJLKcKnHJKOjK6A) | 4:34 | 2021-10-15 |  |
 | [Neon Medusa \- Edit](https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Neon Medusa](https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf) | 4:13 | 2021-10-15 |  |
+| [Neon Vision](https://open.spotify.com/track/0taSsax88qVTIGAm35hegO) | [Vector Seven](https://open.spotify.com/artist/0Aob82fk8XM9qBRhiCvSBO) | [Beyond Reality](https://open.spotify.com/album/555TlFV2ex4wVgdf8jtJPm) | 3:28 | 2022-09-30 |  |
 | [New Tomorrow](https://open.spotify.com/track/1o0qZcfQl31HhZ8KyYMT0B) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1xl2oh7njuwSneP6tLfdvN) | 5:10 | 2022-04-01 | 2022-07-24 |
 | [New Tomorrow](https://open.spotify.com/track/5QYlmR9WamVNeOWBdKcOTu) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU) | 5:10 | 2022-07-22 |  |
 | [Night City](https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46) | [Vogel](https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM) | [Hologram](https://open.spotify.com/album/3VNyqCIJ1pfmiTnHRHw4ox) | 5:43 | 2021-10-15 |  |
@@ -271,7 +273,7 @@
 | [Shame](https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6) | [Older Future](https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa) | [Shame](https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe) | 5:07 | 2021-10-15 | 2022-07-26 |
 | [Shape Of Your Heart](https://open.spotify.com/track/0imHx7hSqyhe4IuMR9QYc5) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Shape Of Your Heart](https://open.spotify.com/album/0tCTCy2HRhWKY3uKC31A2u) | 4:55 | 2022-07-01 | 2022-08-27 |
 | [She Is Young, She Is Beautiful, She Is Next](https://open.spotify.com/track/2MBJZgztmtwcIsKXXwLxZI) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 5:04 | 2022-02-25 | 2022-04-02 |
-| [Shimmer Isle](https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY) | [Shikimo](https://open.spotify.com/artist/322yxVmKeH1lKYRKEAXGhe), [Richard Alfaro](https://open.spotify.com/artist/4fQSVfiu7jVEHsMTdAPols) | [Shimmer Isle](https://open.spotify.com/album/3JHqSgeaDvreMmVXz5ajjU) | 4:00 | 2021-10-15 |  |
+| [Shimmer Isle](https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY) | [Shikimo](https://open.spotify.com/artist/322yxVmKeH1lKYRKEAXGhe), [Richard Alfaro](https://open.spotify.com/artist/4fQSVfiu7jVEHsMTdAPols) | [Shimmer Isle](https://open.spotify.com/album/3JHqSgeaDvreMmVXz5ajjU) | 4:00 | 2021-10-15 | 2022-10-03 |
 | [Shoulder of Orion](https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 5:02 | 2022-04-01 |  |
 | [Shout \- The Forgotten Remix](https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Shout \(The Forgotten Remix\)](https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w) | 3:41 | 2022-04-22 |  |
 | [Sideways in Dreams](https://open.spotify.com/track/7bquaJAoCaaUbCvgPa4Uln) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Sideways in Dreams](https://open.spotify.com/album/1T9LIBX20FwLtO0DA3Mu7T) | 3:57 | 2022-02-25 | 2022-04-24 |

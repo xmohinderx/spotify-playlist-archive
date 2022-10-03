@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Young Miko",
-  "num_followers": 220901,
+  "num_followers": 220923,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMDA3N2QxYTZhYTcwMWYzOGYzOGM0MTllYjE1NTgxYTg4",
+  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMDk2MGU4MGU0NGJhYjUzYzA4YzQ0NmRjYWRkYzFlYjcy",
   "tracks": [
     {
       "added_at": "2022-08-17 18:24:42",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
+        "name": "23 Preguntas",
+        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 251221,
+      "name": "23 Preguntas",
+      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
         "name": "Desnudarte",
         "url": "https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 262200,
       "name": "Desnudarte",
       "url": "https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
     },
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "Proyecto Z",
-        "url": "https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ"
+        "name": "Munchisito y Chao",
+        "url": "https://open.spotify.com/album/3p38C0gN42NetsZA02LiX9"
       },
       "artists": [
         {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
         }
       ],
-      "duration_ms": 199760,
-      "name": "Paz y Bendiciones",
-      "url": "https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa"
+      "duration_ms": 138352,
+      "name": "Munchisito y Chao",
+      "url": "https://open.spotify.com/track/4O3jVlC5g6crPM0TOsoUjA"
     }
   ],
   "unique_name": "Rompiendo: Puerto Rico",

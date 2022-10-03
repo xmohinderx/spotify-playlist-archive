@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-120 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/2dx0vSRjUrUfJCJ8y5zgga)
+121 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/2dx0vSRjUrUfJCJ8y5zgga)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 | 2022-06-08 |  |
 | [Everyday People](https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:19 | 2020-09-04 | 2022-07-29 |
 | [Follow You Follow Me \- Remastered 2007](https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [And Then There Were Three](https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg) | 4:00 | 2020-09-04 | 2022-07-29 |
+| [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2022-06-08 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2022-06-08 |  |
 | [Girls on the Avenue](https://open.spotify.com/track/60NAi3x5XfU8UDMu5WRUSr) | [Richard Clapton](https://open.spotify.com/artist/3M5nxyS3mmuFqHP2N4x5ZH) | [Girls On The Avenue](https://open.spotify.com/album/7gQWHh8iUv8LI70VgSMYOq) | 4:02 | 2020-09-04 | 2022-07-12 |
 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 | 2020-09-04 |  |
@@ -61,7 +62,7 @@
 | [Jive Talkin' \- 2009 Remastered Version](https://open.spotify.com/track/5bKeVLylKwjv8KrAejxGOK) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 3:44 | 2020-09-04 | 2022-07-29 |
 | [Joy To The World](https://open.spotify.com/track/1VZ04sZSpTet7wVMyZphA8) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [The Collection](https://open.spotify.com/album/7aJFK6NvC4oConhV5f8waK) | 3:34 | 2020-09-04 | 2022-07-05 |
 | [Jumpin' Jack Flash \- Mono Version](https://open.spotify.com/track/1gqTXnc7WXBI9AwcCiqcJ1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\)](https://open.spotify.com/album/1Dsx0X79p4owIdoS0kTYgb) | 3:41 | 2020-09-04 | 2022-02-02 |
-| [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 | 2022-06-08 |  |
+| [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 | 2022-06-08 | 2022-10-03 |
 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 | 2020-09-04 | 2022-07-29 |
 | [Lean on Me](https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:17 | 2020-09-04 | 2022-07-28 |
 | [Let's Stick Together](https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Let's Stick Together](https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd) | 2:59 | 2020-09-04 | 2022-07-25 |

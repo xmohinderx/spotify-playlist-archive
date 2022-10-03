@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-458 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+459 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-09-23 | 2022-10-01 |
 | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/track/6vCcveqr0Hw76YcMVGC16R) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [Guilty Empress](https://open.spotify.com/artist/1sqLOPikfBNDEkLPuN8EZh) | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ) | 2:41 | 2022-07-09 | 2022-07-16 |
 | [Losing Control](https://open.spotify.com/track/267gN7cFVleInY2IuDYCEb) | [We Like Beef](https://open.spotify.com/artist/2kzK2nNPe6e42p9fgAIxF3) | [Losing Control](https://open.spotify.com/album/2EzF33SKsWWZ4dCpricX0s) | 3:40 | 2022-05-29 | 2022-06-04 |
+| [Love Me Loco](https://open.spotify.com/track/0vsEfm4TTVrVCQiYcil89k) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Love Me Loco](https://open.spotify.com/album/14OiUNiltQEZGyZQviHNyL) | 3:13 | 2022-10-02 |  |
 | [Love Songs](https://open.spotify.com/track/6nb57vP4sMYeeU2mfzVgr6) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Love Songs](https://open.spotify.com/album/3s5kOpbjLyG7l7N9Ezg1h0) | 3:08 | 2022-09-30 |  |
 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 | 2022-06-10 | 2022-06-18 |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-06-11 |

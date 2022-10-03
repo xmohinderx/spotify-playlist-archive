@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-259 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+261 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [DREAMER](https://open.spotify.com/track/7yKbjz9hzbUY6zmIJ8nDDL) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [パリピ孔明 VOCAL COLLECTION MEGAMORI!!](https://open.spotify.com/album/1i9R3CdEU23BRYGaMkpSEC) | 4:49 | 2022-07-28 | 2022-09-21 |
 | [Dried Up Youthful Fame \- Version:Free](https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | [『劇場版 Free!\-the Final Stroke\-』後編オリジナルサウンドトラック「Never Ending Blue」](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:37 | 2022-05-28 | 2022-06-08 |
 | [eclatante](https://open.spotify.com/track/112WDXECopsAdtn7SsMP0x) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [eclatante](https://open.spotify.com/album/5hKIOSEGI4lWBtgh8by38x) | 4:21 | 2022-07-12 | 2022-08-17 |
-| [Endless Love](https://open.spotify.com/track/0StYBemv9yt0DmbCPNUnC7) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love/仲良ピース](https://open.spotify.com/album/329JSn2SToLHrtusx8fN55) | 1:42 | 2022-10-01 |  |
+| [Endless Love](https://open.spotify.com/track/0StYBemv9yt0DmbCPNUnC7) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love/仲良ピース](https://open.spotify.com/album/329JSn2SToLHrtusx8fN55) | 1:42 | 2022-10-01 | 2022-10-03 |
+| [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / 仲良ピース](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 | 2022-10-01 |  |
 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-15 |  |
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-05-28 | 2022-07-01 |
 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 | 2022-08-02 |  |
@@ -133,6 +134,7 @@
 | [THE SHAPE OF](https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [OPENING THEME FROM TV SERIES MADE IN ABYSS ”THE GOLDEN CITY OF THE SCORCHING SUN” THE SHAPE OF](https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ) | 3:32 | 2022-08-23 |  |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-09 | 2022-08-17 |
 | [Tsubame to Kaze](https://open.spotify.com/track/6k6vxgIhOKVP1GnAMBgQyF) | [Shirai Yusuke](https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io) | [11\-Eleven\-](https://open.spotify.com/album/64UlPpsdOORwv3ta4AwBd8) | 4:36 | 2022-09-20 |  |
+| [Umikaze no Monologue](https://open.spotify.com/track/4738WpIvtp7gautXrTtSsw) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Umikaze no Monologue](https://open.spotify.com/album/39cGk6J25lOSg0ZFK1PuT0) | 4:20 | 2022-10-01 |  |
 | [Under Sail](https://open.spotify.com/track/2pQneHOpBNuRYwJs83hESi) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(躑躅森盧笙\)](https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99) | [どついたれ本舗 \-No double dipping!\-](https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx) | 3:42 | 2022-09-01 | 2022-09-21 |
 | [Venus Line](https://open.spotify.com/track/5OPIulr7qagiGtCthBkqxr) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [Venus Line](https://open.spotify.com/album/1mJo7rsbEzsFGIeVzuume4) | 4:37 | 2022-06-07 | 2022-07-06 |
 | [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-08-02 | 2022-08-24 |
@@ -238,7 +240,7 @@
 | [水鏡の世界](https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [水鏡の世界](https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4) | 4:35 | 2022-07-28 | 2022-09-28 |
 | [流線形メーデー](https://open.spotify.com/track/71DWte8P535ethaQrCfX3G) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [流線形メーデー](https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi) | 3:11 | 2022-07-12 | 2022-09-30 |
 | [海のエンドロール](https://open.spotify.com/track/1ZkTHbCmQKj6xYKla18Rct) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [海のエンドロール](https://open.spotify.com/album/7gByOSWU12BeYLiLPDXxAq) | 4:04 | 2022-08-23 | 2022-08-31 |
-| [海風のモノローグ](https://open.spotify.com/track/6WkHpy9k9HW2biUXUQppJY) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/5zM3FvEhWKAPSrLzhYQZCL) | 4:20 | 2022-10-01 |  |
+| [海風のモノローグ](https://open.spotify.com/track/6WkHpy9k9HW2biUXUQppJY) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/5zM3FvEhWKAPSrLzhYQZCL) | 4:20 | 2022-10-01 | 2022-10-03 |
 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 | 2022-09-08 |  |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-06-02 | 2022-07-27 |
 | [無自覚の天才](https://open.spotify.com/track/6xzThjUK6ZdDVsu73RtmoM) | [Non Stop Rabbit](https://open.spotify.com/artist/3BI27TxQPk2BVbiThvj1EV) | [無自覚の天才](https://open.spotify.com/album/2JXSLIzwcvF5jFiIhC8OPM) | 4:09 | 2022-07-05 | 2022-07-29 |

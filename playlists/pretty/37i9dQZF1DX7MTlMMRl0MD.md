@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Becky G & Daviles de Novelda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,850,287 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,850,491 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 48 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
 | 49 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Directo Al Corazon](https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM) | 4:29 |
 | 50 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
-| 51 | [Veterana](https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Veterana](https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A) | 3:14 |
+| 51 | [No Es una Novela](https://open.spotify.com/track/7I4WMiRLLl0lDn0XmHxkZf) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Uniquehits](https://open.spotify.com/album/60cukXHcYZwS84tTa60i9y) | 3:40 |
 | 52 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
-| 53 | [No Es una Novela](https://open.spotify.com/track/7I4WMiRLLl0lDn0XmHxkZf) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Uniquehits](https://open.spotify.com/album/60cukXHcYZwS84tTa60i9y) | 3:40 |
+| 53 | [Veterana](https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Veterana](https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A) | 3:14 |
 | 54 | [Es Tan Difícil](https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Dime Que Falto](https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N) | 4:11 |
 | 55 | [Quien Sabe](https://open.spotify.com/track/4vOWNHRx4FGlQhs0pyxgJl) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 4:29 |
 | 56 | [Pégame Tu Vicio](https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Vida](https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9) | 5:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Quien Te Ve Te Compra](https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ) | [Ronny Dae](https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId) | [Quien Te Ve Te Compra](https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH) | 3:51 |
 | 100 | [Antes del Lunes](https://open.spotify.com/track/6yVGk00COgjDJbHELkO109) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:42 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDVjYmE2ZmRhOWE4NDk1MmRiNDZmMzI0NmU5ZTEyMmZm`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDljMzY0N2Q2ZTVmNTllNDM2NjRjNmY3ZjEzYTRjODU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,116 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,278 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 31 | [مسجون حزين](https://open.spotify.com/track/0TxEBrs9Py9uOxwOSYBROV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مسجون حزين](https://open.spotify.com/album/5bCHHycTY8di9iZoGO6hYI) | 4:24 |
 | 32 | [محدش يقولي يا خويا](https://open.spotify.com/track/5WMk2uxBimKwASfmSLW4v6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [محدش يقولي يا خويا](https://open.spotify.com/album/4mE3FVSR0PDqA7rodta9Sk) | 3:20 |
 | 33 | [انا ابن ابويا وامى](https://open.spotify.com/track/661ndLkk7B8QFmCeRpeWqc) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [عصام صاصا](https://open.spotify.com/artist/76QlRkE5afjaqYuqN4kufF) | [انا ابن ابويا وامى](https://open.spotify.com/album/228oDfy2FJciEJIn92PnMA) | 5:25 |
-| 34 | [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 3:48 |
+| 34 | [يلا نفتح الحساب](https://open.spotify.com/track/3fTKJkqA0enU1iDrC3QM4H) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا نفتح الحساب](https://open.spotify.com/album/6F6ObdCsn6o5F4QYcSrR4i) | 3:48 |
 | 35 | [انتي قلبي](https://open.spotify.com/track/1z4wa1hxM6Ja7Cpq5cljsb) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/5ql1v6jrdAmSzuyPJPKnNF) | 3:12 |
 | 36 | [ملقتش حد قالي مالك](https://open.spotify.com/track/2rJ6FZ0LQjHCxg0Pi8B4Vl) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [ملقتش حد قالي مالك](https://open.spotify.com/album/6DTMAHdk6AOs4sdKLLOyNi) | 3:41 |
 | 37 | [قمر التيكتوكايه](https://open.spotify.com/track/4NLFg43DInhC8Fik0bp88e) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp), [Nour El Tot](https://open.spotify.com/artist/1SfTMO63F7PCdKmBQao1kq) | [قمر التيكتوكايه](https://open.spotify.com/album/3dI09CzSY6Z3MOCRdsurIn) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 49 | [اللي باعو بالسلامة \- Back Catalog](https://open.spotify.com/track/4UMvvZ7769yVSV7U0t8idv) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [شارع 3 \- ST3](https://open.spotify.com/artist/6ho7BWPqO3FmLyfJw3rnbo) | [اللي باعو بالسلامة](https://open.spotify.com/album/5CSZhvBiT1PXnbp0xxV4V8) | 3:15 |
 | 50 | [موديل باريس](https://open.spotify.com/track/1ezuOtgC76D3bRaDhrqu3S) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [موديل باريس](https://open.spotify.com/album/28rAKLhpEsCkz1A5nK02NG) | 3:17 |
 
-Snapshot ID: `MTY2NDI5NjE2NCwwMDAwMDAwMDlmZDNlMjUwZDVkYjk2MDJiMDM4OGMyMmRiYTAyOGE1`
+Snapshot ID: `MTY2NDI5NjE2NCwwMDAwMDAwMDdhODE5N2UzYjJiOGI4ZDlkODcwMjIzNDRlYzcxMGFm`

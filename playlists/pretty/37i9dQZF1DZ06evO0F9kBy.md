@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,912 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,921 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 19 | [No Body \(feat\. Matt Maher\)](https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:06 |
 | 20 | [My Only Love](https://open.spotify.com/track/3dSvjnkPXd7QqYdwGpBxxY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Love In Between](https://open.spotify.com/album/0VatKO8y9ivCWD4obvX4U7) | 3:34 |
 | 21 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 |
-| 22 | [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 |
-| 23 | [The Stories I Tell Myself](https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:53 |
-| 24 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
+| 22 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
+| 23 | [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 |
+| 24 | [The Stories I Tell Myself](https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:53 |
 | 25 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
 | 26 | [Joyful Noise](https://open.spotify.com/track/2OUV9Ryjnat1z8w1C0Igb0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:12 |
 | 27 | [Your Grace Is Enough/Here I Am Lord \(Live\)](https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 6:05 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 35 | [Abide With Me \- Radio Version](https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Abide With Me \(Radio Version\)](https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t) | 3:41 |
 | 36 | [Hallelujah, You Are Good \(feat\. Matt Maher\)](https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Worship And Believe \(Deluxe Edition\)](https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4) | 3:30 |
 | 37 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 |
-| 38 | [Son Of Heaven \- Live](https://open.spotify.com/track/3Cf8qr0MolfdZ1EqxTSRG4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [House Of Miracles \(Live\)](https://open.spotify.com/album/17fDsLWssfoHLMcMLMF52K) | 15:31 |
-| 39 | [Center of All History](https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:22 |
+| 38 | [Center of All History](https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:22 |
+| 39 | [Son Of Heaven \- Live](https://open.spotify.com/track/3Cf8qr0MolfdZ1EqxTSRG4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [House Of Miracles \(Live\)](https://open.spotify.com/album/17fDsLWssfoHLMcMLMF52K) | 15:31 |
 | 40 | [As It Is In Heaven](https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Empty And Beautiful](https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs) | 4:09 |
 | 41 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
 | 42 | [Firelight](https://open.spotify.com/track/1j5N5RTJPkawg8eYodXo9z) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [Mighty Fortress](https://open.spotify.com/track/0qbgAalYuLrgYKfEhwzUW4) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 5:15 |
 | 50 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBmZGQzM2QzYWY4OGY4N2NkZmYwNTFhODU4NjhkMzI2Nw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBmMDRkNTY0MTFmYzFjYmU4N2UzZTYwNzE2ZWY4ZmNiMw==`

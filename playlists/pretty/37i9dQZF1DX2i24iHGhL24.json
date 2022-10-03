@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Lewis Capaldi",
-  "num_followers": 75695,
+  "num_followers": 75828,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMDQzZTc2YjViZDJhMWE5ZWQxNjIzZGJhYjJjMGYyMmJj",
+  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMDFiM2ZkZTgyZDdlZTMyOWU3MTE4M2Y1MTFkYzAxYWIw",
   "tracks": [
     {
       "added_at": "2022-09-23 04:12:38",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
-      "added_at": "2022-10-02 01:43:41",
+      "added_at": "2022-10-03 01:34:43",
       "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 216110,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 201885,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 216110,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Wouldn't It Be Nice",
         "url": "https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 193015,
       "name": "when the party\u2019s over",
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "U Remind Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 224170,
       "name": "Mirrors - Acoustic",
       "url": "https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "U Remind Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Shut up and Dance",
-        "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
-      },
-      "artists": [
-        {
-          "name": "Anchor + Bell",
-          "url": "https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t"
-        }
-      ],
-      "duration_ms": 176182,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 274830,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Shut up and Dance",
+        "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
+      },
+      "artists": [
+        {
+          "name": "Anchor + Bell",
+          "url": "https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t"
+        }
+      ],
+      "duration_ms": 176182,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "It's Gonna Be Me",
-        "url": "https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
         "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 144570,
       "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
       "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "It's Gonna Be Me",
+        "url": "https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2063,6 +2063,38 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
+      },
+      "artists": [
+        {
+          "name": "SHAED",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        }
+      ],
+      "duration_ms": 156625,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "luckie",
+        "url": "https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU"
+      },
+      "artists": [
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "duration_ms": 174264,
+      "name": "luckie",
+      "url": "https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd"
       },
@@ -2087,54 +2119,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
-      },
-      "artists": [
-        {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
-        }
-      ],
-      "duration_ms": 156625,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "luckie",
-        "url": "https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU"
-      },
-      "artists": [
-        {
-          "name": "tiLLie",
-          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
-        }
-      ],
-      "duration_ms": 174264,
-      "name": "luckie",
-      "url": "https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit"
       },
@@ -2147,38 +2131,6 @@
       "duration_ms": 222857,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Nothing Breaks Like A Heart",
-        "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Nothing Breaks Like A Heart",
-      "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2199,6 +2151,38 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Nothing Breaks Like A Heart",
+        "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Nothing Breaks Like A Heart",
+      "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Walking On The Moon",
         "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 241213,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "I\u2019m With You",
+        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "I\u2019m With You",
+      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2243,22 +2243,6 @@
       "duration_ms": 225721,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "I\u2019m With You",
-        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "I\u2019m With You",
-      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2355,6 +2339,22 @@
       "duration_ms": 266280,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 244315,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2519,6 +2519,26 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Bam Bam (Acoustic)",
+        "url": "https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er"
+      },
+      "artists": [
+        {
+          "name": "Joey Stamper",
+          "url": "https://open.spotify.com/artist/6t70simaQ2YQHec8QqhiwD"
+        },
+        {
+          "name": "Jacquelyn George",
+          "url": "https://open.spotify.com/artist/4aWEpZwvlSTBDRtyNM3eUX"
+        }
+      ],
+      "duration_ms": 143522,
+      "name": "Bam Bam - Acoustic",
+      "url": "https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
@@ -2547,26 +2567,6 @@
       "duration_ms": 156200,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Bam Bam (Acoustic)",
-        "url": "https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er"
-      },
-      "artists": [
-        {
-          "name": "Joey Stamper",
-          "url": "https://open.spotify.com/artist/6t70simaQ2YQHec8QqhiwD"
-        },
-        {
-          "name": "Jacquelyn George",
-          "url": "https://open.spotify.com/artist/4aWEpZwvlSTBDRtyNM3eUX"
-        }
-      ],
-      "duration_ms": 143522,
-      "name": "Bam Bam - Acoustic",
-      "url": "https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "A Blue State",
-        "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
-      },
-      "artists": [
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
-        }
-      ],
-      "duration_ms": 169782,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
       },
@@ -2851,6 +2835,22 @@
       "duration_ms": 259866,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "A Blue State",
+        "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "duration_ms": 169782,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "In Da Club",
-        "url": "https://open.spotify.com/album/7JAUDSWptc3QlTIuqGT3lN"
-      },
-      "artists": [
-        {
-          "name": "Skylar Stecker",
-          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Cover Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 212027,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/7JAUDSWptc3QlTIuqGT3lN"
+      },
+      "artists": [
+        {
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3103,42 +3103,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi"
-      },
-      "artists": [
-        {
-          "name": "Lain Roy",
-          "url": "https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/7JCNbamEBw6AQoTgWbiZhJ"
-      },
-      "artists": [
-        {
-          "name": "Sara Phillips",
-          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
-        },
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "Exile",
-      "url": "https://open.spotify.com/track/2l7PYimEwpigpxWOiYNoRl"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Synth City",
         "url": "https://open.spotify.com/album/2xc7LOrGqYfDvSi0mZqheu"
       },
@@ -3175,6 +3139,42 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi"
+      },
+      "artists": [
+        {
+          "name": "Lain Roy",
+          "url": "https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/7JCNbamEBw6AQoTgWbiZhJ"
+      },
+      "artists": [
+        {
+          "name": "Sara Phillips",
+          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
+        },
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/2l7PYimEwpigpxWOiYNoRl"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa"
       },
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
-        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 218938,
-      "name": "22 - Recorded At Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P"
       },
@@ -3219,6 +3203,22 @@
       "duration_ms": 263800,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 218938,
+      "name": "22 - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3260,7 +3260,7 @@
       "added_at": "2022-09-23 04:12:38",
       "album": {
         "name": "Graveyard",
-        "url": "https://open.spotify.com/album/0rlOrJtwIhltLuEnDfBT0G"
+        "url": "https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc"
       },
       "artists": [
         {
@@ -3270,23 +3270,23 @@
       ],
       "duration_ms": 198786,
       "name": "Graveyard",
-      "url": "https://open.spotify.com/track/358En9GBp4r4Gi6GuMCiJ6"
+      "url": "https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP"
     },
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4iccPwuyNYH4ETLxhdchX6"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
         }
       ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE"
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
     }
   ],
   "unique_name": "Pop Covers",

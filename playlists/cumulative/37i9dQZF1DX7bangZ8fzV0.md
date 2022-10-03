@@ -4,7 +4,7 @@
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=Aj3aoSENTtiX9w3OotK5Yg">Karlien van Jaarsveld</a>
 
-50 songs - 2 hr 47 min - not published yet
+50 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/3e1GdHUgFT8NgWwl0UpVff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

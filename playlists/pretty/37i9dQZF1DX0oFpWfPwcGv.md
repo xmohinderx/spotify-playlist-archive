@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,580 likes - 85 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,647 likes - 85 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 13 | [Ai No Corrida](https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Charles May](https://open.spotify.com/artist/4IyqKACrQ4rsRa3M9KpZaB) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 6:26 |
 | 14 | [I Want Your Love \- 2018 Remaster](https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 6:53 |
 | 15 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
-| 16 | [I Love The Nightlife \(Disco 'Round\)](https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs) | [Alicia Bridges](https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe) | [I Love The Nightlife](https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v) | 3:07 |
-| 17 | [It's My House](https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:34 |
+| 16 | [It's My House](https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:34 |
+| 17 | [I Love The Nightlife \(Disco 'Round\)](https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs) | [Alicia Bridges](https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe) | [I Love The Nightlife](https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v) | 3:07 |
 | 18 | [Can You Feel It \- 7" Version](https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph \(Expanded Version\)](https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7) | 3:50 |
 | 19 | [Never Knew Love Like This Before \(Extended Mix\)](https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Groove On, Vol\. 1](https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa) | 5:28 |
 | 20 | [Spacer](https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [King Of The World](https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr) | 5:54 |
-| 21 | [Nights on Broadway](https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Music Speaks Louder Than Words](https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et) | 3:29 |
-| 22 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
-| 23 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8) | 4:01 |
-| 24 | [The Boss](https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:01 |
+| 21 | [The Boss](https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:01 |
+| 22 | [Nights on Broadway](https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Music Speaks Louder Than Words](https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et) | 3:29 |
+| 23 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
+| 24 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8) | 4:01 |
 | 25 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 |
 | 26 | [Burn This Disco Out](https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:41 |
 | 27 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 79 | [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 |
 | 80 | [Sinner Man](https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8) | [Sarah Dash](https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 5:38 |
 | 81 | [I Wanna Be With You](https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7) | [Coffee](https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h) | [Slippin' and Dippin' \(Bonus Track Version\)](https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO) | 7:40 |
-| 82 | [Victim](https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [The Best of Candi Staton](https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg) | 5:17 |
-| 83 | [Angel in My Pocket \- Extended Version](https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 7:09 |
+| 82 | [Angel in My Pocket \- Extended Version](https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 7:09 |
+| 83 | [Victim](https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [The Best of Candi Staton](https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg) | 5:17 |
 | 84 | [24 Hours a Day](https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN) | [Barbara Pennington](https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR) | [Northern Soul Keep the Faith](https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B) | 3:12 |
 | 85 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 4:03 |
 
-Snapshot ID: `MTY2MzAyMTY3OSwwMDAwMDAwMDkyM2ZlMmI4M2E4MDQ4NjEwZDFkODhkYzc3ODkwMmE4`
+Snapshot ID: `MTY2MzAyMTY3OSwwMDAwMDAwMDI4MzIwM2RiOTZhNGQxYjE3ZmU4MGI2MWE3ZjI1MjYy`

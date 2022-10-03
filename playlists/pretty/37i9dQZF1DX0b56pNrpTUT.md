@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 9 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 10 | [LEAVE ME ALONE](https://open.spotify.com/track/0kbnm3YwSygTFeWZlCGfCw) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:36 |
 | 11 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
-| 12 | [Flipside](https://open.spotify.com/track/6PBVyALVJlwRK97115oiED) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Flipside](https://open.spotify.com/album/2c0TD1qSLFsAhKoAXb7qZd) | 3:11 |
-| 13 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 |
+| 12 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 |
+| 13 | [Flipside](https://open.spotify.com/track/6PBVyALVJlwRK97115oiED) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Flipside](https://open.spotify.com/album/2c0TD1qSLFsAhKoAXb7qZd) | 3:11 |
 | 14 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 |
 | 15 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 16 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 18 | [NEON PEACH feat\. Tyler, The Creator](https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:12 |
 | 19 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/6mDz3yFi4hJeL2mP4lmg51) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Back At Sixes And Sevens](https://open.spotify.com/album/3QX0G9KLHXd84busDSiJxq) | 3:24 |
 | 20 | [Out the Way](https://open.spotify.com/track/4gT03zyHBC3ushZZ16gGFK) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out the Way](https://open.spotify.com/album/2mspUbKzrsZXINyUXBfMhA) | 2:35 |
-| 21 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
-| 22 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 |
+| 21 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 |
+| 22 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
 | 23 | [Pick Up Your Feelings](https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:49 |
 | 24 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
 | 25 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 47 | [Think About You \- Notion Mix](https://open.spotify.com/track/5yRKRnTxUYAEaO8EFypoVn) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:15 |
 | 48 | [Buss A 9](https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:20 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDg1NTk5NTUzYjg1ODY2NmQxNTY4OGI0MjM0OThmMzg4`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGIyNjllM2QyMzE5ZmI2Mjg2Yzk4MTczNTg0ZTc0MmU1`

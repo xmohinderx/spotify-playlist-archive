@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 8384,
+  "num_followers": 8422,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDk5ZWFjMTQ5N2FkZDc3NmNlMmJlNTJhZWEyMTE4N2Nk",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGQyYTcyYzk3YzU3Y2QxYTZmNTJkMTE4M2FiM2E5ZjIw",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -543,34 +543,38 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
-        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
+        "name": "Mickey Taveras (Live)",
+        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
         }
       ],
-      "duration_ms": 311520,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
+      "duration_ms": 296683,
+      "name": "A Pesar del Tiempo - Live",
+      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
     },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
       "artists": [
         {
           "name": "Gilberto Santa Rosa",
           "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
         }
       ],
-      "duration_ms": 517666,
-      "name": "Vivir Sin Ella - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj"
+      "duration_ms": 442960,
+      "name": "Agua que Cae del Cielo (Lluvia) (feat. Willie Rosario) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -591,18 +595,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Mickey Taveras (Live)",
-        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
       },
       "artists": [
         {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
         }
       ],
-      "duration_ms": 296683,
-      "name": "A Pesar del Tiempo - Live",
-      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
+      "duration_ms": 311520,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
     },
     {
       "added_at": "2022-03-18 05:00:00",

@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Men I Trust
 
-699 songs - 1 day 17 hr 20 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+700 songs - 1 day 17 hr 24 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Forever](https://open.spotify.com/track/5IePz2lBFBi1W6UhGxKWTX) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Forever](https://open.spotify.com/album/4ILVXpzzZL4OUYvhos4c77) | 4:24 | 2022-01-28 | 2022-03-05 |
 | [Forever Is A Charm](https://open.spotify.com/track/6TlRcJOQR1vXemRRfTcFw7) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Forever Is A Charm](https://open.spotify.com/album/2tu1YFttjNiRIsCICSMyEl) | 3:11 | 2022-09-09 | 2022-09-24 |
 | [Forget You](https://open.spotify.com/track/54xA4D0ZXwHUNwqxNUa5MW) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Forget You](https://open.spotify.com/album/0zWaiBUml8QNLZrblzmscs) | 2:55 | 2022-02-25 | 2022-04-02 |
-| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 | 2022-10-03 |
 | [Frank](https://open.spotify.com/track/5MX7hLZTQw8VoR5CMJID8x) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Roadhouse 02](https://open.spotify.com/album/7Ax1zEms65X5ZXgK7giwYJ) | 3:41 | 2022-03-18 | 2022-06-04 |
 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 | 2022-02-25 | 2022-04-02 |
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2022-04-22 | 2022-05-14 |

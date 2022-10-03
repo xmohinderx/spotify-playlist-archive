@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 46188,
+  "num_followers": 46294,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzgzMjcxMCwwMDAwMDAwMDY1OWNmYTJlOThkZTI1Zjg3YWFlMzg4OTk0YjNhZTZi",
+  "snapshot_id": "MTY2MzgzMjcxMCwwMDAwMDAwMDg0MzQxMDBjNTc3ZWZiYzAwYjg2MjQwMWY4Y2M5MWMx",
   "tracks": [
     {
       "added_at": "2022-09-22 07:45:10",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
-        "name": "A Garland Of Red",
-        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
       "artists": [
         {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 287400,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+      "duration_ms": 220333,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/46jzREqksE0h6wmTKw3WFD"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
         "name": "Moon Beams",
         "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 299760,
       "name": "Polka Dots And Moonbeams",
       "url": "https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/46jzREqksE0h6wmTKw3WFD"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 217293,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
+        "name": "Everybody Still Digs Bill Evans",
+        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 454186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -1007,22 +1023,6 @@
       "duration_ms": 380240,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
-        "name": "Everybody Still Digs Bill Evans",
-        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 454186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 369760,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
         "name": "Cannonball Adderley Quintet In Chicago",
         "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 334640,
       "name": "You're A Weaver Of Dreams",
       "url": "https://open.spotify.com/track/69XhqUpOIMu9ZNvd00kH8e"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 369760,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 457560,
-      "name": "Love For Sale - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
         "name": "Introducing Nat Adderley",
         "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 198223,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 457560,
+      "name": "Love For Sale - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
-        "name": "Criss-Cross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 424933,
-      "name": "Don't Blame Me (Retake 1)",
-      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -1559,26 +1543,6 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs"
-        }
-      ],
-      "duration_ms": 297533,
-      "name": "I Can't Get Started - Instrumental",
-      "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1599,18 +1563,38 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
-        "name": "Another Workout",
-        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs"
         }
       ],
-      "duration_ms": 483946,
-      "name": "Hello, Young Lovers - Remastered 2006",
-      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+      "duration_ms": 297533,
+      "name": "I Can't Get Started - Instrumental",
+      "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 424933,
+      "name": "Don't Blame Me (Retake 1)",
+      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -1631,6 +1615,38 @@
       "duration_ms": 181666,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
+        "name": "Another Workout",
+        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 483946,
+      "name": "Hello, Young Lovers - Remastered 2006",
+      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2022-09-22 07:45:10",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 363026,
       "name": "What Is This Thing Called Love?",
       "url": "https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M"
+    },
+    {
+      "added_at": "2022-09-22 07:45:10",
+      "album": {
+        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
+        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
     },
     {
       "added_at": "2022-09-22 07:45:10",
@@ -1747,22 +1763,6 @@
       "duration_ms": 447760,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
-    },
-    {
-      "added_at": "2022-09-22 07:45:10",
-      "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 427826,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
     }
   ],
   "unique_name": "Instrumental Jazz Standards",

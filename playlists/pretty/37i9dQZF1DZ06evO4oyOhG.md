@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,594 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,601 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 40 | [BGM \-Instrumental\-](https://open.spotify.com/track/0czSVq9GkW0rcghTgLaeDs) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
 | 41 | [ギミギミコール \-instrumental\-](https://open.spotify.com/track/5PQG6VsDpAjUk0BvkZDt0O) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ミスター・ダーリン / ギミギミコール \(Complete Edition\)](https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL) | 4:04 |
 | 42 | [大人になったね](https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c) | 3:15 |
-| 43 | [それいけ!サラリーマン](https://open.spotify.com/track/2AnxFMRppg8KopG7MUkeje) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ビビっとラブ \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:20 |
-| 44 | [ヒカリ証明論 \-instrumental\-](https://open.spotify.com/track/2Co9ArGiEfgN1p5gihaHFK) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 |
+| 43 | [ヒカリ証明論 \-instrumental\-](https://open.spotify.com/track/2Co9ArGiEfgN1p5gihaHFK) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 |
+| 44 | [それいけ!サラリーマン](https://open.spotify.com/track/2AnxFMRppg8KopG7MUkeje) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ビビっとラブ \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:20 |
 | 45 | [ビビっとラブ \-CHiCO ぼっち ver.\-](https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ビビっとラブ \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:54 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAxNDJkNDNiYTNjYzU3ZDczN2QwMTg4ZDliODNmODViZA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAxZWUxYWQ1MTA1YTY0ODk1YzY5ZDQzNDQ1YWFkMWM3Mw==`

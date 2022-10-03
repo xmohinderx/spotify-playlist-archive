@@ -1,12 +1,12 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 191800,
+  "num_followers": 191845,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1ODIxMCwwMDAwMDAwMDA0MjdkODhjODg1ODliOTNmZmVhNGExMmJlNWIxNGQz",
+  "snapshot_id": "MTY2MDc1ODIxMCwwMDAwMDAwMGFkOTYxM2JjNDI0M2I0N2U3ZmM0MDZhNjliNmExZjQ0",
   "tracks": [
     {
       "added_at": "2022-08-17 17:43:30",
@@ -243,26 +243,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 170760,
       "name": "Una Nota",
       "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -991,6 +991,26 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "Pa' Olvidarme De Ella",
+        "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 227233,
+      "name": "Pa' Olvidarme De Ella",
+      "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "Bubalu",
         "url": "https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Pa' Olvidarme De Ella",
-        "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 227233,
-      "name": "Pa' Olvidarme De Ella",
-      "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "Bajo La Mesa",
         "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 157080,
       "name": "Bajo La Mesa",
       "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1531,18 +1531,30 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok"
+        "name": "Pa Olvidarte (feat. Manuel Turizo) [Remix]",
+        "url": "https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 201226,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB"
+      "duration_ms": 256417,
+      "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
+      "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1579,30 +1591,18 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Pa Olvidarte (feat. Manuel Turizo) [Remix]",
-        "url": "https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0"
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok"
       },
       "artists": [
         {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 256417,
-      "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
-      "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
+      "duration_ms": 201226,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "La Dif\u00edcil",
-        "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/1E3FsITcOH4apvzd9PFVtS"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 220440,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/35hemoZQuo9lEbFSS05I9h"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Gangalee",
+        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 228760,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/0REjFxlMJRQxPqWSdmXiAT"
     }
   ],
   "unique_name": "Latin Drive",

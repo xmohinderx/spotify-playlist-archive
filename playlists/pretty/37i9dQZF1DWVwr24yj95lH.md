@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,552 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,686 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 60 | [I Will Buy You A New Life](https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [So Much For The Afterglow](https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM) | 3:58 |
 | 61 | [Open Your Eyes](https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:58 |
 | 62 | [1000hp](https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3) | 3:46 |
-| 63 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
-| 64 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
+| 63 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
+| 64 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
 | 65 | [Slow Chemical](https://open.spotify.com/track/2h5Kce0Vt3PWgMYkYuUL3E) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [The Punisher: The Album](https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp) | 3:18 |
 | 66 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 |
 | 67 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 73 | [It Only Hurts](https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [One Thing Remains](https://open.spotify.com/album/0KwBPTz8XEqIBv0ry4gqhf) | 3:42 |
 | 74 | [Broken](https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:17 |
 | 75 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
-| 76 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
-| 77 | [Why I'm Here](https://open.spotify.com/track/0hgOGzUYKKQbQcWDoJpM6H) | [Oleander](https://open.spotify.com/artist/7038Bglq6YmpBu6wPvQJiz) | [February Son](https://open.spotify.com/album/3DxLga8esIW4kag2FGPWMI) | 3:58 |
+| 76 | [Why I'm Here](https://open.spotify.com/track/0hgOGzUYKKQbQcWDoJpM6H) | [Oleander](https://open.spotify.com/artist/7038Bglq6YmpBu6wPvQJiz) | [February Son](https://open.spotify.com/album/3DxLga8esIW4kag2FGPWMI) | 3:58 |
+| 77 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
 | 78 | [Welcome To The Fold](https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 7:40 |
 | 79 | [The Otherside](https://open.spotify.com/track/2HLaosNtdbGMZ1pmOBwFeS) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 3:36 |
 | 80 | [Caught In The Rain](https://open.spotify.com/track/1aWjCUq4KU7wCdQ2AuGeB7) | [Revis](https://open.spotify.com/artist/4e27lOSzk1nvSxpw2BrrwT) | [Places For Breathing](https://open.spotify.com/album/5IuW2X71vJlkLVua4Fd2wX) | 3:30 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 95 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 96 | [Not An Addict](https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr) | [K's Choice](https://open.spotify.com/artist/1lO13Grp3I1AsIbcACRWvv) | [10: 1993\-2003 \- Ten Years of K's Choice](https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2) | 4:48 |
 | 97 | [No One](https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [13 Ways To Bleed Onstage](https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn) | 3:17 |
-| 98 | [On & Off](https://open.spotify.com/track/6K6yo0aOwaF14diZao4s4z) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [From the Leaves of Your Garden](https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq) | 3:00 |
-| 99 | [Cumbersome](https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR) | [Seven Mary Three](https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM) | [Churn](https://open.spotify.com/album/6vnsykSsmiy1etv3krbC5T) | 6:02 |
+| 98 | [Cumbersome](https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR) | [Seven Mary Three](https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM) | [Churn](https://open.spotify.com/album/6vnsykSsmiy1etv3krbC5T) | 6:02 |
+| 99 | [On & Off](https://open.spotify.com/track/6K6yo0aOwaF14diZao4s4z) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [From the Leaves of Your Garden](https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq) | 3:00 |
 | 100 | [So Happy](https://open.spotify.com/track/796KVmeIoTOek76YwNduEL) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs \(Special Edition\)](https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B) | 4:11 |
 
-Snapshot ID: `MTY2NDUzNjI5MCwwMDAwMDAwMGVmODFkYzA0OTc4MDcwYzI3NzdkZjdmODg5YTIzODhl`
+Snapshot ID: `MTY2NDUzNjI5MCwwMDAwMDAwMGY4MjYwNDg1Nzg3NDBlMTRhNzY3OGI1NzFkNjdmOGU1`

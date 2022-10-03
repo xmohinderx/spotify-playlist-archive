@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,175 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,188 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 22 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 |
 | 23 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 24 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
-| 25 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
-| 26 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 |
+| 25 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 |
+| 26 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
 | 27 | [The Night](https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ) | 3:41 |
 | 28 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
 | 29 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 59 | [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 |
 | 60 | [All 2 U](https://open.spotify.com/track/1PAdV4YjMKooQzCN8HfJ7o) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq), [UV](https://open.spotify.com/artist/5M7KE2pbTmSQL32wD4sTG9), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [The Call Project No.4](https://open.spotify.com/album/3HFYMKzGPxd9tfRWExm4jR) | 4:07 |
 
-Snapshot ID: `MTY2MjM5MzA3MSwwMDAwMDAwMDZjNTQ0NjNmMWQzYWZjMmE5NTAwN2Y2ZjdhZGJmMDlj`
+Snapshot ID: `MTY2MjM5MzA3MSwwMDAwMDAwMGY2MTA5M2M5YjcxN2Y0MjRmMWFlNDNjMTNkODNjOGY0`

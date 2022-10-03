@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Spencer Crandall
 
-188 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
+189 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [I Know a Girl](https://open.spotify.com/track/2WtFMqCMT0fyTZOWNEiy5w) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [I Know a Girl](https://open.spotify.com/album/6D6FWN8ckh0wOCAi8377eI) | 3:16 | 2021-12-17 | 2022-01-08 |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-12-17 |  |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-02-25 | 2022-08-04 |
+| [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 | 2022-10-01 |  |
 | [I'll Never Stop](https://open.spotify.com/track/6KZEHBZnEGRYIIEinjEEyD) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5E0LXGmyDlFqUkLFzLdxdH) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [If I Didn't Love You](https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:32 | 2022-07-22 |  |
 | [If I Didn't Love You](https://open.spotify.com/track/5f3MXmTmstozFg0BH1yPUk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [If I Didn't Love You](https://open.spotify.com/album/6gYe3uo5YjJslbXYdSzSdf) | 3:32 | 2021-12-17 | 2022-07-29 |
@@ -189,7 +190,7 @@
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 |  |
 | [Who Cares](https://open.spotify.com/track/0AuyO2tufq60YvAFdVYhOn) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Who Cares](https://open.spotify.com/album/0nLAp17gWpv95J2yPdqSK9) | 2:58 | 2021-12-17 | 2022-07-29 |
 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 | 2021-12-17 | 2022-07-29 |
-| [Why Should We](https://open.spotify.com/track/6S0EUBIYewbisWgQKMvuzR) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 2:50 | 2022-09-30 |  |
+| [Why Should We](https://open.spotify.com/track/6S0EUBIYewbisWgQKMvuzR) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 2:50 | 2022-09-30 | 2022-10-03 |
 | [Why Should We](https://open.spotify.com/track/0h6qJZXkVGNUIoM4q8CrFH) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Why Should We](https://open.spotify.com/album/506ax7XUl3ogqAfdnxc3Ad) | 2:52 | 2021-12-17 | 2022-06-24 |
 | [Why Should We](https://open.spotify.com/track/39vy8nZzcfl8VWr4IIYUO1) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 2:52 | 2022-07-22 | 2022-09-11 |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1053498,
+  "num_followers": 1053469,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDg2YWFmZDVlNTkxODhjYTFlM2NkZThkMmViZDE3N2Uz",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGQ2YWQ2ZGZjMDE5ODc4YzQ3MzU1MmJmM2NmZjJmNmI2",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -187,26 +187,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "The Guest (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
-      },
-      "artists": [
-        {
-          "name": "Phantom Planet",
-          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "California - Tchad Blake Mix",
-      "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 222733,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "The Guest (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
+      },
+      "artists": [
+        {
+          "name": "Phantom Planet",
+          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "California - Tchad Blake Mix",
+      "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
     },
     {
       "added_at": "2020-08-27 16:10:25",

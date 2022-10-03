@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 115539,
+  "num_followers": 115536,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMxODI5MiwwMDAwMDAwMDdmMzViNmE5NmRjNjc4Nzk4ZTBhNWNhODYxZDMwYjA4",
+  "snapshot_id": "MTY0MTMxODI5MiwwMDAwMDAwMDk1ZDI4YzdjNjU4ODM4NzE2ZGM0ZWZhMDdkYTY3MjM4",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -239,18 +239,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k"
+        "name": "Wonder (Holiday Deluxe)",
+        "url": "https://open.spotify.com/album/01haNCctw4EUPl8xUHVhdl"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 175318,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q"
+      "duration_ms": 196254,
+      "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
+      "url": "https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -271,22 +275,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Wonder (Holiday Deluxe)",
-        "url": "https://open.spotify.com/album/01haNCctw4EUPl8xUHVhdl"
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 196254,
-      "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
-      "url": "https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56"
+      "duration_ms": 175318,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Christmas Together",
-        "url": "https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t"
-      },
-      "artists": [
-        {
-          "name": "The Tenors",
-          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "When We Are Together",
-      "url": "https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 176788,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Christmas Together",
+        "url": "https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t"
+      },
+      "artists": [
+        {
+          "name": "The Tenors",
+          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "When We Are Together",
+      "url": "https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Moonshine & Mistletoe",
-        "url": "https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg"
-      },
-      "artists": [
-        {
-          "name": "Sons of Daughters",
-          "url": "https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR"
-        }
-      ],
-      "duration_ms": 207347,
-      "name": "Moonshine & Mistletoe",
-      "url": "https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Coming Home (For Christmas)",
         "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 207792,
       "name": "Coming Home (For Christmas)",
       "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Moonshine & Mistletoe",
+        "url": "https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg"
+      },
+      "artists": [
+        {
+          "name": "Sons of Daughters",
+          "url": "https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR"
+        }
+      ],
+      "duration_ms": 207347,
+      "name": "Moonshine & Mistletoe",
+      "url": "https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The Last Christmas (We Ever Spend Apart)",
-        "url": "https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24"
+        "name": "Happy Xmas (War is Over)",
+        "url": "https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA"
       },
       "artists": [
         {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
         }
       ],
-      "duration_ms": 207581,
-      "name": "The Last Christmas (We Ever Spend Apart)",
-      "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
+      "duration_ms": 235354,
+      "name": "Happy Xmas (War is Over)",
+      "url": "https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1039,34 +1039,34 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Sleigh My Name",
-        "url": "https://open.spotify.com/album/40XkCmo1r0p2GVtCMYNpdQ"
+        "name": "The Last Christmas (We Ever Spend Apart)",
+        "url": "https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24"
       },
       "artists": [
         {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
         }
       ],
-      "duration_ms": 170343,
-      "name": "Sleigh My Name",
-      "url": "https://open.spotify.com/track/70bR0gy62cos6Gmfz6PBf2"
+      "duration_ms": 207581,
+      "name": "The Last Christmas (We Ever Spend Apart)",
+      "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
     },
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Happy Xmas (War is Over)",
-        "url": "https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA"
+        "name": "It's Me & You (This Christmas)",
+        "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
       },
       "artists": [
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "Elijah Woods x Jamie Fine",
+          "url": "https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1"
         }
       ],
-      "duration_ms": 235354,
-      "name": "Happy Xmas (War is Over)",
-      "url": "https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9"
+      "duration_ms": 148202,
+      "name": "It\u2019s Me & You (This Christmas)",
+      "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "It's Me & You (This Christmas)",
-        "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
+        "name": "Sleigh My Name",
+        "url": "https://open.spotify.com/album/40XkCmo1r0p2GVtCMYNpdQ"
       },
       "artists": [
         {
-          "name": "Elijah Woods x Jamie Fine",
-          "url": "https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1"
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
         }
       ],
-      "duration_ms": 148202,
-      "name": "It\u2019s Me & You (This Christmas)",
-      "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
+      "duration_ms": 170343,
+      "name": "Sleigh My Name",
+      "url": "https://open.spotify.com/track/70bR0gy62cos6Gmfz6PBf2"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa"
-      },
-      "artists": [
-        {
-          "name": "Guy Lombardo & His Royal Canadians",
-          "url": "https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Rudolph the Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 254562,
       "name": "Love Is Christmas",
       "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa"
+      },
+      "artists": [
+        {
+          "name": "Guy Lombardo & His Royal Canadians",
+          "url": "https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1403,6 +1403,38 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "I'll Be There Christmas Eve",
+        "url": "https://open.spotify.com/album/6lT8g9LU7RGGivYBYR8GvD"
+      },
+      "artists": [
+        {
+          "name": "Alan Doyle",
+          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "I'll Be There Christmas Eve",
+      "url": "https://open.spotify.com/track/0hTCb2EhkJmaYoi4rWRQWb"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "One More Day of Christmas / Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 162749,
+      "name": "One More Day of Christmas",
+      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/1gGhTcbrSPda9mrozwGkJe"
       },
@@ -1415,6 +1447,22 @@
       "duration_ms": 297093,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6fZMHNc6CdBSVLLuRD5MKv"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Someday at Christmas",
+        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 186890,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1463,38 +1511,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "One More Day of Christmas / Do You Hear What I Hear",
-        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 162749,
-      "name": "One More Day of Christmas",
-      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "I'll Be There Christmas Eve",
-        "url": "https://open.spotify.com/album/6lT8g9LU7RGGivYBYR8GvD"
-      },
-      "artists": [
-        {
-          "name": "Alan Doyle",
-          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "I'll Be There Christmas Eve",
-      "url": "https://open.spotify.com/track/0hTCb2EhkJmaYoi4rWRQWb"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Christmas All Over Again",
         "url": "https://open.spotify.com/album/3gJpBRswNsXaxFIiongFJ8"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 186621,
       "name": "Christmas All Over Again",
       "url": "https://open.spotify.com/track/4KjzFAGNJr2SjaA8OIFZJc"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "It Ain't Christmas",
-        "url": "https://open.spotify.com/album/4mUaRHBDV2yzq9DB4TOVzf"
-      },
-      "artists": [
-        {
-          "name": "Autumn Hill",
-          "url": "https://open.spotify.com/artist/18kuM0hOxYgGAvpLXRiqPx"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "It Ain't Christmas",
-      "url": "https://open.spotify.com/track/4sUSJHR1y85TY4SNhF8aRa"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Tinsel Town",
-        "url": "https://open.spotify.com/album/5geLUoFqgN4GpktaxO7zUf"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rankin",
-          "url": "https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU"
-        }
-      ],
-      "duration_ms": 224974,
-      "name": "Tinseltown",
-      "url": "https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Please Come Home For Christmas",
         "url": "https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr"
       },
@@ -1575,18 +1559,34 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Bient\u00f4t ce sera No\u00ebl",
-        "url": "https://open.spotify.com/album/4VQhmcigTJIL2XljKIzeva"
+        "name": "It Ain't Christmas",
+        "url": "https://open.spotify.com/album/4mUaRHBDV2yzq9DB4TOVzf"
       },
       "artists": [
         {
-          "name": "Damien Robitaille",
-          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
+          "name": "Autumn Hill",
+          "url": "https://open.spotify.com/artist/18kuM0hOxYgGAvpLXRiqPx"
         }
       ],
-      "duration_ms": 212866,
-      "name": "Miss Christmas",
-      "url": "https://open.spotify.com/track/5atM92gismXIqb3IVRIEov"
+      "duration_ms": 182773,
+      "name": "It Ain't Christmas",
+      "url": "https://open.spotify.com/track/4sUSJHR1y85TY4SNhF8aRa"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Tinsel Town",
+        "url": "https://open.spotify.com/album/5geLUoFqgN4GpktaxO7zUf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rankin",
+          "url": "https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU"
+        }
+      ],
+      "duration_ms": 224974,
+      "name": "Tinseltown",
+      "url": "https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Bient\u00f4t ce sera No\u00ebl",
+        "url": "https://open.spotify.com/album/4VQhmcigTJIL2XljKIzeva"
+      },
+      "artists": [
+        {
+          "name": "Damien Robitaille",
+          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Miss Christmas",
+      "url": "https://open.spotify.com/track/5atM92gismXIqb3IVRIEov"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/2nZeUxTE6r7lDdkZ7MSqor"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 229247,
       "name": "River",
       "url": "https://open.spotify.com/track/54TRbbKvK1ToJF13ph78Av"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Someday at Christmas",
-        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 186890,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP"
+        "name": "Favorite Christmas Song",
+        "url": "https://open.spotify.com/album/05QDmn6fw0MTjC3RCig5cB"
       },
       "artists": [
         {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+          "name": "Andrew Allen",
+          "url": "https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU"
         }
       ],
-      "duration_ms": 207720,
-      "name": "Christmas Kisses",
-      "url": "https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi"
+      "duration_ms": 205950,
+      "name": "Favorite Christmas Song",
+      "url": "https://open.spotify.com/track/4Q3yYPlcjuQ2umodTkdMeR"
     }
   ],
   "unique_name": "Christmas in Canada",

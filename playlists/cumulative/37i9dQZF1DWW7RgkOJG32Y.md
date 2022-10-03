@@ -4,7 +4,7 @@
 
 > Top trending new and recent tracks from the last few months\. Cover: Megan Moroney
 
-231 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
+232 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 | 2022-05-27 |  |
 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-24 |  |
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-09-09 |  |
-| [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 | 2022-07-22 |  |
+| [Dark Night \- 717 Tapes](https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:37 | 2022-10-01 |  |
+| [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 | 2022-07-22 | 2022-10-03 |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-25 | 2022-07-29 |
 | [Delorean](https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:39 | 2022-05-20 | 2022-09-03 |
 | [DIAMOND](https://open.spotify.com/track/7jZwYDy3LXNJBel7NPQ3zk) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:13 | 2022-03-04 | 2022-06-18 |

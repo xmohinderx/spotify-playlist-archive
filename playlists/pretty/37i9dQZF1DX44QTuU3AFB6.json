@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' pistear con Panchito Arredondo!",
-  "num_followers": 151927,
+  "num_followers": 151929,
   "original_name": "Pisteando con Panchito Arredondo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMGE2MWFiNGZmODM4MTdkNjIyNmExZWJkNGZlOWZiNzkw",
+  "snapshot_id": "MTY1OTY3MjA2MCwwMDAwMDAwMDhjOTQzMTU2Yzc4NzMxZmRiZWRjNWY0ZWMwMjEzZWY2",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Y Por Esa Calle Vive",
-        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Y Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
         "name": "Ando Bien Pedo",
         "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 144146,
       "name": "Ando Bien Pedo",
       "url": "https://open.spotify.com/track/58rgceeiYu1wFneDP2j5LJ"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Y Por Esa Calle Vive",
+        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Y Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
       "added_at": "2022-08-05 04:01:00",

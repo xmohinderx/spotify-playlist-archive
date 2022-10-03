@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 430582,
+  "num_followers": 438517,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDg4OTQ0ZmQ3ZmMyN2JlNTc1NGMzNDlhOTRlYTY5YzUx",
+  "snapshot_id": "MTY2NDcxMTUxNCwwMDAwMDAwMGRhYTE4ZjZhMmY3YmQzNDIzNzM0MTZjNDdlYTVlNzVk",
   "tracks": [
     {
       "added_at": "2022-04-01 16:19:20",
@@ -371,22 +371,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Baptize",
-        "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
+        "name": "Artificial Selection",
+        "url": "https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 185502,
-      "name": "Untouchable",
-      "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
+      "duration_ms": 238984,
+      "name": "Son of Robot",
+      "url": "https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -407,18 +403,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Artificial Selection",
-        "url": "https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y"
+        "name": "Baptize",
+        "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
       },
       "artists": [
         {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
         }
       ],
-      "duration_ms": 238984,
-      "name": "Son of Robot",
-      "url": "https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu"
+      "duration_ms": 185502,
+      "name": "Untouchable",
+      "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Anon.",
-        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "MONOMANIA",
         "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Anon.",
+        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Misery",
         "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 214493,
       "name": "Ivy (Doomsday)",
       "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "DEATH (Ever Colder)",
-        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 287692,
-      "name": "DEATH (Ever Colder)",
-      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 235186,
       "name": "Like a Shadow",
       "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "DEATH (Ever Colder)",
+        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 287692,
+      "name": "DEATH (Ever Colder)",
+      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Smoke Signals",
-        "url": "https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv"
+        "name": "Finding God Before God Finds Me (Deluxe)",
+        "url": "https://open.spotify.com/album/0fPsaPPbXurVDqFC2qE0Bo"
       },
       "artists": [
         {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
         }
       ],
-      "duration_ms": 214057,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH"
+      "duration_ms": 261398,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/4VawjkyqRKLCAj9BwMPyal"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Finding God Before God Finds Me (Deluxe)",
-        "url": "https://open.spotify.com/album/0fPsaPPbXurVDqFC2qE0Bo"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 261398,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/4VawjkyqRKLCAj9BwMPyal"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 163720,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Smoke Signals",
+        "url": "https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -811,6 +811,22 @@
       "duration_ms": 174733,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -891,22 +907,6 @@
       "duration_ms": 221748,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "We\u2019ll Always Have Paris",
-      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "We\u2019ll Always Have Paris",
+      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Brick Wall",
         "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Back Then",
-        "url": "https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX"
-      },
-      "artists": [
-        {
-          "name": "Amoura",
-          "url": "https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Back Then",
-      "url": "https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "The Dead Days",
         "url": "https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 212832,
       "name": "Hell Is Where The Heart Is",
       "url": "https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Back Then",
+        "url": "https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX"
+      },
+      "artists": [
+        {
+          "name": "Amoura",
+          "url": "https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Let Light Overcome",
-        "url": "https://open.spotify.com/album/1eaAMaWcmbP6YsZhUsbbkN"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 216108,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/4KyUg4IdVVqJRoLGowHqyl"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Sudden Sky",
         "url": "https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 260769,
       "name": "Sudden Sky",
       "url": "https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Let Light Overcome",
+        "url": "https://open.spotify.com/album/1eaAMaWcmbP6YsZhUsbbkN"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 216108,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/4KyUg4IdVVqJRoLGowHqyl"
     },
     {
       "added_at": "2022-04-01 16:19:20",

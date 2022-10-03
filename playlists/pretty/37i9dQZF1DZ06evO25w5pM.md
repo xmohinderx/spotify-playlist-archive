@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,509 likes - 50 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,516 likes - 50 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 37 | [Monarda](https://open.spotify.com/track/0at96syawo9G6QQ3cVGNCx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Immortelle](https://open.spotify.com/album/1VJfgOdQJUp4shVpYcIThy) | 5:32 |
 | 38 | [Love's Winged Messenger](https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 7:13 |
 | 39 | [Olive Grove](https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 8:28 |
-| 40 | [The Source](https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Earth Blue](https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5) | 6:21 |
-| 41 | [Venus Rising](https://open.spotify.com/track/2Ugv31yiymtA9NnbJU3igD) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 8:33 |
+| 40 | [Venus Rising](https://open.spotify.com/track/2Ugv31yiymtA9NnbJU3igD) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 8:33 |
+| 41 | [The Source](https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Earth Blue](https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5) | 6:21 |
 | 42 | [Free Forever](https://open.spotify.com/track/7tu8BZz19o4D1zQhLsWSRE) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 8:08 |
 | 43 | [Vollmond im Herbst \(Full Moon in Autumn\)](https://open.spotify.com/track/7I42dEHbS8rKpu19tkQQ2A) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mysterium](https://open.spotify.com/album/10YHfrv4zqC7WjpeEF445V) | 5:36 |
-| 44 | [Loving Touch](https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 10:10 |
-| 45 | [Gaia Dreaming Herself Awake](https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 7:44 |
+| 44 | [Gaia Dreaming Herself Awake](https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 7:44 |
+| 45 | [Loving Touch](https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 10:10 |
 | 46 | [Black Velvet Flirt](https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 7:00 |
 | 47 | [Sea and Silence](https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Sea and Silence](https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH) | 13:27 |
 | 48 | [Endless Horizon](https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Space](https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx) | 18:45 |
 | 49 | [Felsen im Licht](https://open.spotify.com/track/114goyp7beFWnmtoOsYtJo) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 5:27 |
 | 50 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBmNmMxZTlhMmE1N2RjOGU5MmFmNjY1NDAxYjA1MWUwNA==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDAxNGVkOTJhYmVmNjA4MzZjMGJjY2M4YjIwOGE0MTE2MA==`

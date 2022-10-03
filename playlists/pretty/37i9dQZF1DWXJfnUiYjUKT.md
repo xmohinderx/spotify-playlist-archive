@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,660 likes - 89 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,940 likes - 89 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 83 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 |
 | 84 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 |
 | 85 | [Getting Late](https://open.spotify.com/track/4bYTTDFnNbakdU9NX8uMKj) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Getting Late](https://open.spotify.com/album/3giodvWWNQIgilwpC9Fxfa) | 2:52 |
-| 86 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
+| 86 | [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 |
 | 87 | [California High](https://open.spotify.com/track/1wDBglPaH5ehDDNiNWCHp0) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 3:51 |
 | 88 | [Live Life](https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:41 |
 | 89 | [M&M's for Breakfast](https://open.spotify.com/track/4ZZXDm5YWOzHYtuH04OMFF) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/0YctuY3tDGIz4u64vNxUxt) | 3:00 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDljNjJjY2Y5OTVlYTRkNmRjY2E2MDM5OGMzNzFlZDk0`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMGUzOGZjYmViNjE0NmE4MjUzMTVlNWNhZmExNmU3OTFh`

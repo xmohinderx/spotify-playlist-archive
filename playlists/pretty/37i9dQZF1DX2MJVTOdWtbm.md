@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Ramon Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,431 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,461 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,17 +81,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 71 | [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 |
 | 72 | [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 |
 | 73 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
-| 74 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
-| 75 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 |
-| 76 | [Butterfly](https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Butterfly](https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW) | 3:08 |
-| 77 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
+| 74 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
+| 75 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
+| 76 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 |
+| 77 | [Butterfly](https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Butterfly](https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW) | 3:08 |
 | 78 | [Talk Too Much](https://open.spotify.com/track/6xWmOgBNABDWJmYMsemoNK) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Talk Too Much](https://open.spotify.com/album/0v0QagQf2BhQtUa8UAbFLc) | 3:02 |
 | 79 | [Dolor](https://open.spotify.com/track/0q1qAGERR453ach2swvAza) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Perdón](https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo) | 3:05 |
-| 80 | [Mala](https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Mala](https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr) | 2:58 |
-| 81 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
+| 80 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
+| 81 | [nostalgia](https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [nostalgia](https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv) | 2:39 |
 | 82 | [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 |
-| 83 | [nostalgia](https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [nostalgia](https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv) | 2:39 |
-| 84 | [Sensualidad](https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Sensualidad](https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U) | 2:36 |
+| 83 | [Sensualidad](https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Sensualidad](https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U) | 2:36 |
+| 84 | [Mala](https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Mala](https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr) | 2:58 |
 | 85 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
 
-Snapshot ID: `MTY2Mzk0NjgzMiwwMDAwMDAwMGNiZThiYWMyNjMyNjNiM2U3ZmQwY2Q5MDMwOGQxYmNk`
+Snapshot ID: `MTY2Mzk0NjgzMiwwMDAwMDAwMGRkMjE1YmZmYWVlNDc4MDY2MTg5NDdlMDAwYTI1Yzg5`

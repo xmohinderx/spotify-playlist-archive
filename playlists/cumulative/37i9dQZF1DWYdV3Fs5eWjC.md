@@ -4,12 +4,12 @@
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-104 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/0Yxcvo3ladWEVkD3pIGKnm)
+106 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/0Yxcvo3ladWEVkD3pIGKnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A BOY IS A GUN\*](https://open.spotify.com/track/1nXZnTALNXiPlvXotqHm66) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:30 | 2020-06-01 |  |
-| [altar](https://open.spotify.com/track/1GaMFbWeBZeSwgyAEr1s4m) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 4:04 | 2022-05-31 |  |
+| [altar](https://open.spotify.com/track/1GaMFbWeBZeSwgyAEr1s4m) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 4:04 | 2022-05-31 | 2022-10-03 |
 | [Amazona](https://open.spotify.com/track/3cS38w0Q7Jsf8gGpapX8kD) | [Yndi](https://open.spotify.com/artist/31yVSehp4XZiCSlb1sOSpq) | [Noir Brésil](https://open.spotify.com/album/4dk8HjZCAwv5PPkEgjtZp2) | 2:10 | 2022-05-31 | 2022-07-28 |
 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 | 2022-05-31 |  |
 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 | 2021-05-21 |  |
@@ -36,6 +36,7 @@
 | [Don't Worry](https://open.spotify.com/track/6A0MqrWtcTboj4o71mbjCZ) | [Maxi Glamour](https://open.spotify.com/artist/5U2zl4c06LBc18sbEoQL6F) | [Don't Worry](https://open.spotify.com/album/3XZYxsIby5lLMwqB5HzUxA) | 3:20 | 2021-06-01 | 2022-07-29 |
 | [Down For It](https://open.spotify.com/track/2x93RFNdEs1JtWoHsDQqTj) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/0C83wme433FLhE95M4JbvG) | 3:15 | 2022-05-31 | 2022-07-29 |
 | [Down For It](https://open.spotify.com/track/5FhOCIqij24XZePzuJIOOp) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/7yL4gfHBtc66pNOA3Khs5y) | 3:15 | 2022-05-31 |  |
+| [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2022-10-03 |  |
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2021-02-26 |  |
 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 | 2021-08-03 |  |
 | [Fatty Acid](https://open.spotify.com/track/4SFFhWS513mwrr8up8nSFe) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Blue Dream](https://open.spotify.com/album/7yDq7lYlhTJS5JkESBNcXS) | 3:43 | 2020-06-01 | 2022-07-28 |
@@ -52,7 +53,7 @@
 | [Got Her Own](https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:05 | 2020-06-01 |  |
 | [Greed](https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Greed](https://open.spotify.com/album/4IljiFpC1WkmcFkQUbuL8L) | 3:45 | 2021-08-06 | 2022-07-29 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 |  |
-| [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-05-31 |  |
+| [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-05-31 | 2022-10-03 |
 | [Heart Storm \(with NAO\)](https://open.spotify.com/track/54kpPbD47pkThR3qC1necz) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:13 | 2021-05-21 | 2022-08-30 |
 | [Heart Storm \(with NAO\)](https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Heart Storm \(with NAO\)](https://open.spotify.com/album/43vZ7lfU9t7EzSeM4e8I0D) | 3:13 | 2021-05-21 | 2022-07-29 |
 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 | 2022-05-31 |  |
@@ -75,6 +76,7 @@
 | [Little Deer](https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP) | [Spellling](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [The Turning Wheel](https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2) | 5:39 | 2022-05-31 |  |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 | 2022-06-01 |  |
 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 | 2021-06-25 |  |
+| [Mango Butter](https://open.spotify.com/track/2biRwgdbRj553k78fgoz86) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z) | 3:42 | 2022-10-03 |  |
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2022-05-31 |  |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-02-26 |  |
 | [Must Be Something](https://open.spotify.com/track/3gEeg3lRnlBYbC5lwG8C7R) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Just Called to Say](https://open.spotify.com/album/69MhDrxXT730rSnZ6nmXpt) | 2:34 | 2021-06-25 | 2022-07-18 |

@@ -4,7 +4,7 @@
 
 > Todo calor latino está aqui! 🔥  Foto: Christina Aguilera
 
-188 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
+189 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Dream Girl \- Brazil Remix](https://open.spotify.com/track/1YWWEJySeJyhV7ZOZjx6hj) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Dream Girl \(Brazil Remix\)](https://open.spotify.com/album/3vjpCEeoSYkOGQFIIC85ua) | 3:15 | 2021-12-31 | 2022-08-06 |
 | [Dropa Essa Bunda](https://open.spotify.com/track/57QSQD20QzAc9rvdIWCt89) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Dropa Essa Bunda](https://open.spotify.com/album/1cCHfYUeB9ziRecAtcHomo) | 2:19 | 2021-12-31 | 2022-01-15 |
 | [DÁKITI](https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [DÁKITI](https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv) | 3:25 | 2021-12-31 |  |
-| [Déjame Revisarte el Celular 2](https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk) | [Ingrid Laien](https://open.spotify.com/artist/0pqi4oqmXe9hRZvPluv6Rg), [Los del fino](https://open.spotify.com/artist/0rLO1GPW2WuqkcSJrP6FSw) | [Déjame Revisarte el Celular 2](https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5) | 2:38 | 2022-08-19 |  |
+| [Déjame Revisarte el Celular 2](https://open.spotify.com/track/4frBouF2mDqp5wn1cp1zIk) | [Ingrid Laien](https://open.spotify.com/artist/0pqi4oqmXe9hRZvPluv6Rg), [Los del fino](https://open.spotify.com/artist/0rLO1GPW2WuqkcSJrP6FSw) | [Déjame Revisarte el Celular 2](https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5) | 2:38 | 2022-08-19 | 2022-10-03 |
 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 | 2021-12-31 |  |
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2022-08-05 |  |
 | [El Pañuelo](https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Pañuelo](https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5) | 3:54 | 2022-09-06 |  |
@@ -86,6 +86,7 @@
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-12-31 | 2022-01-22 |
 | [Isso É Brasil](https://open.spotify.com/track/1fW4LyOPp3p1J3yUxkyQ4i) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Isso É Brasil](https://open.spotify.com/album/0VTFUIJ84CoTaYDkgWtoO9) | 3:38 | 2022-04-08 | 2022-04-29 |
 | [JOGO PERIGOSO](https://open.spotify.com/track/6aJbnXKoGszrhFsQ75crxt) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:45 | 2022-02-11 | 2022-04-09 |
+| [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2022-09-30 |  |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2021-12-31 |  |
 | [La Equivocada](https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Equivocada](https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l) | 3:18 | 2022-04-08 | 2022-04-29 |
 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2022-07-15 |  |

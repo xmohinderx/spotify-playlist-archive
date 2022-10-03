@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Sensual silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,676 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,796 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 24 | [Face Down](https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Face Down](https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN) | 2:48 |
 | 25 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 |
 | 26 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
-| 27 | [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 |
-| 28 | [Ride With Me](https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Ride With Me](https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R) | 3:52 |
+| 27 | [Ride With Me](https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Ride With Me](https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R) | 3:52 |
+| 28 | [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 |
 | 29 | [Teen Scene feat\. Buddy](https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Teen Scene feat\. Buddy](https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF) | 4:10 |
 | 30 | [Julie.](https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:51 |
 | 31 | [Sunny & 62](https://open.spotify.com/track/0DxUIAw4ZlsOOo2KPFU3Hf) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Magic 8ball](https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5) | 4:21 |
 | 32 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
 | 33 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 |
-| 34 | [everybody knows](https://open.spotify.com/track/5hI3LDMdW5psqk8ClzSHid) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/3Iqj7izDM8MKscAuEtpL4J) | 3:22 |
-| 35 | [When Love's Around \(feat\. Syd\)](https://open.spotify.com/track/4iC9bQomdbH5YPYi4HrECX) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Nobody Is Listening](https://open.spotify.com/album/3uMWm5YRiYJFoqji7wYKsR) | 3:11 |
+| 34 | [When Love's Around \(feat\. Syd\)](https://open.spotify.com/track/4iC9bQomdbH5YPYi4HrECX) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Nobody Is Listening](https://open.spotify.com/album/3uMWm5YRiYJFoqji7wYKsR) | 3:11 |
+| 35 | [everybody knows](https://open.spotify.com/track/5hI3LDMdW5psqk8ClzSHid) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/3Iqj7izDM8MKscAuEtpL4J) | 3:22 |
 | 36 | [Jelly](https://open.spotify.com/track/2uNaZDWpXOuB9r5Wi5wTzk) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:49 |
 | 37 | [Love song](https://open.spotify.com/track/12ZIJvwUlRiu8KXomPkihd) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Love song](https://open.spotify.com/album/0tbJQJEE3eQCdhvD1WJ7PJ) | 3:27 |
 | 38 | [Free Like Me](https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Free Like Me](https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd) | 3:26 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 45 | [Know My Place](https://open.spotify.com/track/0V4htNEkO8aPlPSZZ5XHdx) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Know My Place](https://open.spotify.com/album/4ElozCyJA6lnyll0H4FdTR) | 2:43 |
 | 46 | [Caught Up](https://open.spotify.com/track/2Bm2pjLh2wlYwZ4nrcY6wU) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Caught Up](https://open.spotify.com/album/2h8lT0Ffh2eHz87LXY40v2) | 2:12 |
 | 47 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 |
-| 48 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
-| 49 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
+| 48 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
+| 49 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 50 | [Glitter Ain't Gold](https://open.spotify.com/track/0XrKhZ9Ob6yqxpqcalNMFN) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Glitter Ain't Gold](https://open.spotify.com/album/2KYBKrXIlbnajS0P6UoQ2c) | 3:41 |
 
-Snapshot ID: `MTY2MjY5NjQ4MywwMDAwMDAwMDE3Y2ZkMTVhOGM4ODNiYTUwOWM2ZDdkYTYzMjRjZjI0`
+Snapshot ID: `MTY2MjY5NjQ4MywwMDAwMDAwMDNhNTMyYjU3M2IxMWU5ODcyZWQxOGZiMTU3NmMwNDJm`

@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 329280,
+  "num_followers": 329617,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTExMiwwMDAwMDAwMGRjNTU5MDVkMTk5MTRmOGQzYmY2NDdmNGUzZTVlMzI2",
+  "snapshot_id": "MTY2NDUwOTExMiwwMDAwMDAwMDcyNThmZGY3ODkzNTljNDBhM2QyYzFjNDg3YzA1MDQy",
   "tracks": [
     {
       "added_at": "2022-09-30 03:38:32",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-30 03:38:32",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2022-09-30 03:38:32",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2022-09-30 03:38:32",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2022-09-30 03:38:32",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-09-30 03:38:32",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 210090,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
-    },
-    {
-      "added_at": "2022-09-30 03:38:32",
-      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2022-09-30 03:38:32",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 210090,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
     },
     {
       "added_at": "2022-09-30 03:38:32",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-09-30 03:38:32",
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 163208,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
+    },
+    {
+      "added_at": "2022-09-30 03:38:32",
+      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 223186,
       "name": "Stole the Show",
       "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
-    },
-    {
-      "added_at": "2022-09-30 03:38:32",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 163208,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
     },
     {
       "added_at": "2022-09-30 03:38:32",
@@ -2155,30 +2155,6 @@
     {
       "added_at": "2022-09-30 03:38:32",
       "album": {
-        "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
-        "url": "https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
-      "url": "https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl"
-    },
-    {
-      "added_at": "2022-09-30 03:38:32",
-      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -2203,6 +2179,30 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
+    },
+    {
+      "added_at": "2022-09-30 03:38:32",
+      "album": {
+        "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
+        "url": "https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
+      "url": "https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl"
     },
     {
       "added_at": "2022-09-30 03:38:32",
@@ -2863,26 +2863,6 @@
     {
       "added_at": "2022-09-30 03:38:32",
       "album": {
-        "name": "Heat Waves (Expansion Pack)",
-        "url": "https://open.spotify.com/album/57j3jda1XAM1xFdVamdVue"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 243536,
-      "name": "Heat Waves - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/6yvdWGtowJa7ffgc1UR5SF"
-    },
-    {
-      "added_at": "2022-09-30 03:38:32",
-      "album": {
         "name": "Don't Start Now (Remixes)",
         "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
       },
@@ -2899,6 +2879,26 @@
       "duration_ms": 216774,
       "name": "Don't Start Now - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
+    },
+    {
+      "added_at": "2022-09-30 03:38:32",
+      "album": {
+        "name": "Heat Waves (Expansion Pack)",
+        "url": "https://open.spotify.com/album/57j3jda1XAM1xFdVamdVue"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 243536,
+      "name": "Heat Waves - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/6yvdWGtowJa7ffgc1UR5SF"
     },
     {
       "added_at": "2022-09-30 03:38:32",

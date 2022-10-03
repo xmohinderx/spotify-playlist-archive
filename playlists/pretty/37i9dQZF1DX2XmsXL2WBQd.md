@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,354 likes - 70 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,424 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 33 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
 | 34 | [Bring The Noise](https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 3:46 |
 | 35 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
-| 36 | [Talkin' All That Jazz](https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY) | [Stetsasonic](https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk) | [In Full Gear](https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw) | 4:48 |
-| 37 | [Hold It Now, Hit It](https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:26 |
+| 36 | [Hold It Now, Hit It](https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:26 |
+| 37 | [Talkin' All That Jazz](https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY) | [Stetsasonic](https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk) | [In Full Gear](https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw) | 4:48 |
 | 38 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 39 | [Rapper's Delight](https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [Party](https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8) | 3:54 |
 | 40 | [I Got It Made](https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz) | [Special Ed](https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx) | [Youngest in Charge](https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk) | 3:41 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 50 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 |
 | 51 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
 | 52 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
-| 53 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
+| 53 | [Freaks Come Out at Night](https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:42 |
 | 54 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 |
-| 55 | [Freaks Come Out at Night](https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:42 |
+| 55 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
 | 56 | [I'm Bad](https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:39 |
 | 57 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
 | 58 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 | 70 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
 
-Snapshot ID: `MTY2Mzc2Mzc3NiwwMDAwMDAwMGU0NWY3ZjJhNzI3M2ViM2JmMTI4MzAzMTcwZjFkMmY2`
+Snapshot ID: `MTY2Mzc2Mzc3NiwwMDAwMDAwMDgwYWQ2YmU2NTljOGEyYzY4NTBhODA2NTc5ZjA5MmEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,866 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,881 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 31 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 5:14 |
 | 32 | [Vergüenza Ajena](https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 2:50 |
 | 33 | [Frescura Antigua](https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:12 |
-| 34 | [Cerro de la Virgen](https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 6:55 |
-| 35 | [Si Tú No Estás](https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 3:45 |
+| 34 | [Si Tú No Estás](https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 3:45 |
+| 35 | [Cerro de la Virgen](https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 6:55 |
 | 36 | [Donde Estabas Tú](https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 2:46 |
 | 37 | [Canción del Sur](https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 7:41 |
 | 38 | [La Vida Mágica ¡Ay Si! \(En Vivo, Concierto en Londres 1979\)](https://open.spotify.com/track/4A8IFmoeWBY7cHtAdUllur) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [En el Bar\-Restaurant "Lo Que Nunca Se Supo"](https://open.spotify.com/album/6U7nBpYnjEoCZih1oL2ohZ) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Niña Serrana \(En Vivo\)](https://open.spotify.com/track/1kqutTDOwYGSDilE2jfFdI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Jaivas En Vivo: Gira Chile '88](https://open.spotify.com/album/2zqHuam4s6Fwf2iU7d6Ntp) | 4:15 |
 | 50 | [En la Cumbre de un Cerro](https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 5:09 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA3NmVmZTc3NmNmZDVmMWIzZjNkN2IxMjA3Njc0ZTJlNg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA0YjdmZmEzMDE1MGNjZjkyOTU0NDBkODQ3ODFkZTQzMg==`

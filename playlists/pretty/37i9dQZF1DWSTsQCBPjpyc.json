@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 14686,
+  "num_followers": 14735,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGI3N2FlN2M5OGZhMTU5ZjYxYzIyNTYxZjUzMzc3MjBl",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDQxNDQ1YmY3MDhiNDFmZTE0YzViNzE3NTM3NTkyNWI5",
   "tracks": [
     {
       "added_at": "2021-12-03 05:02:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+        "name": "Back To Bogalusa",
+        "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
       },
       "artists": [
         {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
+      "duration_ms": 266226,
+      "name": "Grape Jelly",
+      "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Back To Bogalusa",
-        "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
         }
       ],
-      "duration_ms": 266226,
-      "name": "Grape Jelly",
-      "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
+      "duration_ms": 205586,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "I Smell Smoke",
-      "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Hoodoo Kings",
         "url": "https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 266426,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Alligator Records Years",
+        "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 231026,
+      "name": "I Smell Smoke",
+      "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
     },
     {
       "added_at": "2020-12-01 05:01:00",

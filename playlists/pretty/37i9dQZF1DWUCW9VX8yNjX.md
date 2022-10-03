@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,868 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,951 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 65 | [A Qué Sabe El Olvido](https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:13 |
 | 66 | [No Sé Olvidar](https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 | 67 | [Guadalajara \- \(En Vivo\)](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 |
-| 68 | [Yo Quiero Ser](https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:56 |
-| 69 | [Te Olvidé](https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Olvidé](https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA) | 3:05 |
+| 68 | [Te Olvidé](https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Olvidé](https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA) | 3:05 |
+| 69 | [Yo Quiero Ser](https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:56 |
 | 70 | [Te Amaré \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/1xoMRgnQY63sYQZNfImUEZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 3:45 |
 | 71 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
 | 72 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [Qué Lástima](https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 | 100 | [Hasta En Mis Huesos](https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:04 |
 
-Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMDczYWZkZWQ1M2ZiZTE5MDhmNzMwOTA3OTA1ZTdlOTJk`
+Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMGNiYWVmNzgyYjBkOGZiNjNiNDg5Njk0ZTM0Mzk0MDkx`

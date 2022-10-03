@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,133 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,187 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 33 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 34 | [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 |
 | 35 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
-| 36 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
-| 37 | [Sweetness](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:40 |
+| 36 | [Sweetness](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:40 |
+| 37 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
 | 38 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 39 | [Safari Song](https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:54 |
 | 40 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 63 | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/track/00okrW9OfjmG0PZJSY3fJd) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK) | 2:31 |
 | 64 | [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 |
 | 65 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 |
-| 66 | [you broke me first](https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [you broke me first](https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf) | 2:48 |
-| 67 | [Sing To Me](https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Sing To Me](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z) | 3:09 |
+| 66 | [Sing To Me](https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Sing To Me](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z) | 3:09 |
+| 67 | [you broke me first](https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [you broke me first](https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf) | 2:48 |
 | 68 | [Jenny](https://open.spotify.com/track/1qhcO9Akt1mP0Y54OSTX9w) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Nothing More](https://open.spotify.com/album/4aBbor9Sqi43RqUcc9g18G) | 3:56 |
 | 69 | [Hills Have Eyes](https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8) | 2:10 |
 | 70 | [Into The Dark \(feat\. Kellin Quinn\)](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 96 | [Come Around](https://open.spotify.com/track/6Mf8ozEDo35UcgKgKajrBY) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx) | 3:30 |
 | 97 | [Alone Again](https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:48 |
 | 98 | [Unforgettable](https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:28 |
-| 99 | [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 |
-| 100 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 |
+| 99 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 |
+| 100 | [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 |
 
-Snapshot ID: `MTY2MjIyMDU5NiwwMDAwMDAwMDc1MGVjY2U5YzVlNzVkNjYwZWU2NzBhMzZhNjZkYjUx`
+Snapshot ID: `MTY2MjIyMDU5NiwwMDAwMDAwMGMxMGI5MjJkYzYyNDYyODRiNGNjYTIxYTQ0YTkzODAx`

@@ -1,12 +1,12 @@
 {
   "description": "Chill. The best indie tracks for just hanging out.",
-  "num_followers": 744040,
+  "num_followers": 744127,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzNTYwMCwwMDAwMDAwMDFhZmQwZWFjMTczYTIzOTUzYmM3ZDFhZTMyOTM5YTAz",
+  "snapshot_id": "MTY2NDUzNTYwMCwwMDAwMDAwMGU3MmZhMzE1ZWVhNWQ4NzZlOTIxODY3ZWNkNjFjNWIw",
   "tracks": [
     {
       "added_at": "2022-09-02 18:24:30",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -929,6 +929,26 @@
       "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
     },
     {
+      "added_at": "2022-10-03 01:46:15",
+      "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 301242,
+      "name": "Diarabi",
+      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+    },
+    {
       "added_at": "2022-09-02 18:24:30",
       "album": {
         "name": "Are We There",
@@ -977,26 +997,6 @@
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
-      "added_at": "2022-10-02 01:54:50",
-      "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
-      },
-      "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 301242,
-      "name": "Diarabi",
-      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
-    },
-    {
       "added_at": "2022-09-02 18:24:30",
       "album": {
         "name": "Rose Pink Cadillac",
@@ -1013,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
     },
     {
-      "added_at": "2022-10-02 01:54:50",
+      "added_at": "2022-10-03 01:46:15",
       "album": {
         "name": "Four Songs",
         "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
         "name": "Letter Blue",
         "url": "https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 220332,
       "name": "Bound (with Blood Orange)",
       "url": "https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "ocean view",
-      "url": "https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Got Weird",
-        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 202435,
-      "name": "Got Weird",
-      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
+      "duration_ms": 174735,
+      "name": "ocean view",
+      "url": "https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -1235,22 +1219,34 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Summer's Over",
-        "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
       },
       "artists": [
         {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        },
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Summer's Over",
-      "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "EP III",
+        "url": "https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "In Camera",
+      "url": "https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB"
     }
   ],
   "unique_name": "Indie Chillout",

@@ -4,7 +4,7 @@
 
 > A collection of the best metal ballads.
 
-249 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
+250 songs - 21 hr 9 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Home Sweet Home](https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain](https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe) | 4:00 | 2022-04-15 | 2022-07-24 |
 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 | 2022-04-15 |  |
 | [I Died For You](https://open.spotify.com/track/4A05kx59z5t6wcX4QXEcCx) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [The Dark Saga](https://open.spotify.com/album/0o0y3WO98mcRODpng4VcXN) | 3:47 | 2022-04-15 | 2022-07-29 |
+| [I Don't Care](https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gonthier](https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM) | [Worlds Collide](https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ) | 3:57 | 2022-04-15 |  |
 | [I Don't Care](https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF) | 3:57 | 2022-04-15 | 2022-09-17 |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG) | 4:58 | 2022-04-15 | 2022-07-29 |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-04-15 |  |
@@ -200,7 +201,7 @@
 | [Tallulah](https://open.spotify.com/track/3G80CgLA7ziD8i40s6uKQN) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Silence](https://open.spotify.com/album/491aVcQHmKwGjVego5VI15) | 5:20 | 2022-04-15 | 2022-07-29 |
 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 | 2022-04-15 |  |
 | [The Ballad](https://open.spotify.com/track/5dZqQns5MwVcbvNqkgocWI) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 6:08 | 2022-04-15 | 2022-07-26 |
-| [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 | 2022-04-15 |  |
+| [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 | 2022-04-15 | 2022-10-03 |
 | [The Ballad Of Mary 2010](https://open.spotify.com/track/1vN8c6WwvYnLQzDBiySvor) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [The Ballad Of Mary](https://open.spotify.com/album/0QH1EzI2foX4ql9iH2afYb) | 5:01 | 2022-04-15 | 2022-07-27 |
 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/3LnePh1mlduj28bGZRFUQS) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/3hZrkR9D98fHIaazzOtmNT) | 3:09 | 2022-04-15 | 2022-07-09 |
 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS) | 3:09 | 2022-04-15 |  |

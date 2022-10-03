@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-584 songs - 1 day 15 hr 14 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+585 songs - 1 day 15 hr 18 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Prologue](https://open.spotify.com/track/3g7Fpu5Ii99ZfR4JytRSeI) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Prologue](https://open.spotify.com/album/5ZWCH7ZaHbqcV8lvdyGNxV) | 3:37 | 2022-06-07 | 2022-07-29 |
 | [Q?](https://open.spotify.com/track/02l4CnXJXM2KE8IN99whsX) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Q?](https://open.spotify.com/album/4eInzp36x0Vjaif6ic8rDf) | 3:15 | 2022-06-07 | 2022-06-16 |
 | [Ready Set Go!!](https://open.spotify.com/track/1Mg2xpVLUfGkSYF33v3o2A) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Ready Set Go!!](https://open.spotify.com/album/18lCeDN7w8m2xqm0CAlM4N) | 3:51 | 2022-06-07 | 2022-07-23 |
+| [REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [ULTRA FLASH](https://open.spotify.com/album/1KodmgSv3GB4xEneIHH6ES) | 4:03 | 2022-08-11 |  |
 | [Realize](https://open.spotify.com/track/1vbWvIDfJYYyLVke6I3Vwk) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「Re:ゼロから始める異世界生活」2nd seasonオープニングテーマ「Realize」](https://open.spotify.com/album/10yod2vdNVJ4gtLT79TdLR) | 4:04 | 2022-06-07 | 2022-07-29 |
 | [Red Criminal](https://open.spotify.com/track/4gedOBx5StsjhlWTjG0Q9g) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Red Criminal](https://open.spotify.com/album/2hYWaDCfd9n6fQ7MAilgLa) | 4:24 | 2022-06-07 |  |
 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [Yoshiki](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 | 2022-06-07 |  |
@@ -274,7 +275,7 @@
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-07 |  |
 | [STACKiNG](https://open.spotify.com/track/0B2ZtMEByFD3MNxgBbL81B) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [STACKiNG](https://open.spotify.com/album/4qovcBWVJKiCAmkOvJwJn4) | 4:10 | 2022-06-07 | 2022-06-30 |
 | [Stay With Me](https://open.spotify.com/track/40bWOGeQYljPPVRQoM8fNk) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Stay With Me](https://open.spotify.com/album/4WJjpxxa5pXCAskyYNrK7k) | 4:41 | 2022-06-07 | 2022-07-29 |
-| [STORY](https://open.spotify.com/track/73mTBbvJiVHW4Wquiws0x8) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [OPENING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/6mxRSY6MkwCe5Y7Pqcjm1E) | 3:44 | 2022-08-11 |  |
+| [STORY](https://open.spotify.com/track/73mTBbvJiVHW4Wquiws0x8) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [OPENING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/6mxRSY6MkwCe5Y7Pqcjm1E) | 3:44 | 2022-08-11 | 2022-10-03 |
 | [STORYSEEKER](https://open.spotify.com/track/4eBgSyDDQqKHyxCvkqghs7) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STORYSEEKER](https://open.spotify.com/album/299bR2AB6obbd0Ar2bLhQr) | 3:52 | 2022-06-07 | 2022-07-29 |
 | [Storyteller](https://open.spotify.com/track/1bylyPZfjMgMEi92lW8nEt) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Storyteller](https://open.spotify.com/album/1FBcRbgIIl21R7VemvQPon) | 4:34 | 2022-06-07 | 2022-08-15 |
 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 | 2022-06-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 361950,
+  "num_followers": 362112,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Nzc1MCwwMDAwMDAwMDkxZDM5NDgyOWEzYTdmNjFiMzRjODVlNWIxMWFhYjUx",
+  "snapshot_id": "MTY2NDE3Nzc1MCwwMDAwMDAwMDlhZjM4OTdhYmQ3NGVmYjAzNTA1N2YzN2UyNjc2YjY2",
   "tracks": [
     {
       "added_at": "2022-09-26 07:35:50",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 242073,
+      "name": "Sky Watcher",
+      "url": "https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 243366,
       "name": "Perfect Sunday",
       "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 242073,
-      "name": "Sky Watcher",
-      "url": "https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Sundance",
-      "url": "https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
         "name": "A Song For You",
         "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 281920,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Sundance",
+      "url": "https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
         "name": "Revolving Door",
         "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 347013,
       "name": "Revolving Door",
       "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Honestly",
-        "url": "https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Low And Slow",
-      "url": "https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 256973,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Low And Slow",
+      "url": "https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/06vu8fZlTlL7okvLGzhr47"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 205733,
       "name": "It's All Love",
       "url": "https://open.spotify.com/track/5popJgopB341MpiXxfmFB5"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/06vu8fZlTlL7okvLGzhr47"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
+      },
+      "artists": [
+        {
+          "name": "Phil Denny",
+          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
         "name": "The Story of Jaz",
         "url": "https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 204826,
       "name": "Amends",
       "url": "https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
-      },
-      "artists": [
-        {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "My Song for You",
-      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
         "name": "G-Stream",
         "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
       },
@@ -907,38 +891,6 @@
       "duration_ms": 260265,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
-        "name": "Smooth Grooves, Vol. 2",
-        "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "Southern Style",
-      "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
-        "name": "Soulfully",
-        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Soulfully",
-      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -963,18 +915,34 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6R5Dme59QovnHLa8bIuwGi"
+        "name": "Smooth Grooves, Vol. 2",
+        "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
         }
       ],
-      "duration_ms": 249300,
-      "name": "It Keeps Coming Back",
-      "url": "https://open.spotify.com/track/5xAQZJVapuHyNPil73LQfI"
+      "duration_ms": 365000,
+      "name": "Southern Style",
+      "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "My Song for You",
+      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -991,6 +959,38 @@
       "duration_ms": 247360,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/5JQbLxZhpnc1YvLTMKACzy"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
+        "name": "Soulfully",
+        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Soulfully",
+      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6R5Dme59QovnHLa8bIuwGi"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 249300,
+      "name": "It Keeps Coming Back",
+      "url": "https://open.spotify.com/track/5xAQZJVapuHyNPil73LQfI"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -1031,38 +1031,6 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
-      },
-      "artists": [
-        {
-          "name": "Spur Of The Moment",
-          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
-        }
-      ],
-      "duration_ms": 281413,
-      "name": "In Key",
-      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
-      },
-      "artists": [
-        {
-          "name": "Jacob Webb",
-          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
-        }
-      ],
-      "duration_ms": 266145,
-      "name": "Groovin' J",
-      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/0GPisGzDAPEDwEcFn3f4kZ"
       },
@@ -1083,18 +1051,18 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Spur Of The Moment",
+          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
         }
       ],
-      "duration_ms": 201866,
-      "name": "Heading Wes",
-      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
+      "duration_ms": 281413,
+      "name": "In Key",
+      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -1115,6 +1083,22 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
+      },
+      "artists": [
+        {
+          "name": "Jacob Webb",
+          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
+        }
+      ],
+      "duration_ms": 266145,
+      "name": "Groovin' J",
+      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 238600,
       "name": "Avenue",
       "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Heading Wes",
+      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Bass Trap",
-        "url": "https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 282547,
-      "name": "Bass Trap",
-      "url": "https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q"
-    },
-    {
-      "added_at": "2022-09-26 07:35:50",
-      "album": {
         "name": "Tim Bowman",
         "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Sippin the Yak",
-        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+        "name": "Bass Trap",
+        "url": "https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM"
       },
       "artists": [
         {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
         }
       ],
-      "duration_ms": 267913,
-      "name": "Sippin the Yak",
-      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
+      "duration_ms": 282547,
+      "name": "Bass Trap",
+      "url": "https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q"
     },
     {
       "added_at": "2022-09-26 07:35:50",
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2022-09-26 07:35:50",
       "album": {
-        "name": "Shine!",
-        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
+        "name": "Global Force",
+        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
       },
       "artists": [
         {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Soulfood Sunday",
-      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
+      "duration_ms": 264280,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
+    },
+    {
+      "added_at": "2022-09-26 07:35:50",
+      "album": {
+        "name": "Sippin the Yak",
+        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 267913,
+      "name": "Sippin the Yak",
+      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
     }
   ],
   "unique_name": "Smooth Jazz",

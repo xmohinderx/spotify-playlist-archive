@@ -4,7 +4,7 @@
 
 > ¡Maluma, Juan Gabriel y Eslabón Armado; Kenia OS, Arctic Monkeys, y más!
 
-1,752 songs - 4 day 1 hr 0 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
+1,753 songs - 4 day 1 hr 4 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,7 +582,8 @@
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 | 2022-09-17 |
 | [Formosa \- Remix](https://open.spotify.com/track/0Xy00DQXCP4d5cjNlcDSFU) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa \(Remix\)](https://open.spotify.com/album/2doxx5Rej4OPfiydalfk0y) | 3:00 | 2022-05-06 | 2022-05-14 |
 | [Forty 7](https://open.spotify.com/track/5fcpj00RK5VDr1IxsLOJvh) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Forty 7](https://open.spotify.com/album/2DzXW0E5vbmrU5daYXiALc) | 4:08 | 2022-07-15 | 2022-07-23 |
-| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 | 2022-10-03 |
 | [Freaks & Geeks](https://open.spotify.com/track/3ZGQI9j7Sal0lMXeNlr0Da) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freaks & Geeks](https://open.spotify.com/album/6cn8UgYmHfsNr6tCQM3xud) | 2:20 | 2022-02-04 | 2022-02-12 |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-02-25 | 2022-03-05 |
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2022-04-22 | 2022-04-29 |
@@ -1313,7 +1314,7 @@
 | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/track/2lN5P2zk7ZHpxCutNHSndT) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/album/0NZbQYjlvpJpiCVOGgXQXH) | 2:43 | 2022-09-09 | 2022-09-17 |
 | [sad girls always finish first](https://open.spotify.com/track/16mFtGFLstwAxII0hUknUk) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [sad girls always finish first](https://open.spotify.com/album/1FaBznYSUrobcSjQEmERFM) | 3:15 | 2022-05-06 | 2022-05-14 |
 | [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 | 2022-02-04 | 2022-02-12 |
-| [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [SALVAJE](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 | 2022-09-30 |  |
+| [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 | 2022-09-30 |  |
 | [Salvavidas](https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Salvavidas](https://open.spotify.com/album/5OGm96jxCkZDkQoKWJcfiK) | 3:22 | 2022-03-25 | 2022-04-02 |
 | [Sanalö](https://open.spotify.com/track/4a3TYChLrUfnKgTjTxZYFB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Sanalö](https://open.spotify.com/album/18N5wazSsD3jkwYlT8AAem) | 3:27 | 2022-07-08 | 2022-07-16 |
 | [Sandcastle](https://open.spotify.com/track/1JxPnxcXUw3XOFHOhnootp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM) | 3:12 | 2022-07-29 | 2022-08-06 |

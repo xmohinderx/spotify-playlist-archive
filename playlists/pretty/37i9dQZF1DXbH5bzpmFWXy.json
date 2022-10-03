@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Luis R Conriquez & Lefty SM en portada.",
-  "num_followers": 91908,
+  "num_followers": 91974,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGViMWVhZDcyZmY3Zjk1NmUzNDE1MTc0OTM3MTZlZTg5",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGM3NDExYTY2OTA4MTZkZGRmYTY1ZjM3NGRiMjEwODkz",
   "tracks": [
     {
       "added_at": "2022-09-30 05:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 163940,
       "name": "Billete Grande (En Vivo)",
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Aka Entre el Humo",
+        "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Aka Entre el Humo",
+      "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 201205,
       "name": "Fumando Mota",
       "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Aka Entre el Humo",
-        "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Aka Entre el Humo",
-      "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Todas Mueren por M\u00ed",
+      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Todas Mueren por M\u00ed",
-      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -963,30 +963,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Tiempos de Guerra",
-        "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "TipoSierraBros",
-          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
-        },
-        {
-          "name": "Jessy Castillo",
-          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
-        }
-      ],
-      "duration_ms": 172248,
-      "name": "Tiempos de Guerra",
-      "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Guisao",
         "url": "https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo"
       },
@@ -1015,6 +991,30 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Tiempos de Guerra",
+        "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "TipoSierraBros",
+          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
+        },
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+        }
+      ],
+      "duration_ms": 172248,
+      "name": "Tiempos de Guerra",
+      "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Requisito 420",
         "url": "https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG"
       },
@@ -1031,6 +1031,30 @@
       "duration_ms": 202517,
       "name": "Requisito 420",
       "url": "https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1071,30 +1095,6 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1365,26 +1365,6 @@
       "url": "https://open.spotify.com/track/2B78AMm67z4kcwpN6IT0mj"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Se Siente Fuego (El Canelo)",
-        "url": "https://open.spotify.com/album/1Hk20C6ntgDwLPBGL9ETHD"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Se Siente Fuego (El Canelo)",
-      "url": "https://open.spotify.com/track/7htlyo49y5j0fOWlVbB10U"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "El Pana",
@@ -1403,6 +1383,26 @@
       "duration_ms": 238000,
       "name": "El Pana",
       "url": "https://open.spotify.com/track/3ve91a9NwVoLfFfoJBtYU8"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Se Siente Fuego (El Canelo)",
+        "url": "https://open.spotify.com/album/1Hk20C6ntgDwLPBGL9ETHD"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Se Siente Fuego (El Canelo)",
+      "url": "https://open.spotify.com/track/7htlyo49y5j0fOWlVbB10U"
     },
     {
       "added_at": "2022-09-23 05:00:00",

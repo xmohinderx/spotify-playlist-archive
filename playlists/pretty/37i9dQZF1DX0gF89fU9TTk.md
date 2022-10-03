@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,909 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,947 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 34 | [BETTER WITH YOU](https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [BETTER WITH YOU](https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz) | 2:46 |
 | 35 | [Momentum](https://open.spotify.com/track/0U6GdW3n6kjIGQ6UM60EWK) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Be Okay \- EP](https://open.spotify.com/album/6zlre1tj8zUG60NB6sSrzV) | 3:14 |
 | 36 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 |
-| 37 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
-| 38 | [Tightrope](https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 3:44 |
+| 37 | [Tightrope](https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 3:44 |
+| 38 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 39 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 |
 | 40 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
 | 41 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 60 | [I Remember \- Studio Version](https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [I Remember \(Studio Version\)](https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o) | 3:27 |
 | 61 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
 | 62 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
-| 63 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
-| 64 | [You Loved Me First](https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Creíste en Mí / You Loved Me First](https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl) | 3:29 |
-| 65 | [Won't Let Me Go](https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Won't Let Me Go](https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy) | 3:17 |
+| 63 | [You Loved Me First](https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Creíste en Mí / You Loved Me First](https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl) | 3:29 |
+| 64 | [Won't Let Me Go](https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Won't Let Me Go](https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy) | 3:17 |
+| 65 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
 | 66 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 |
 | 67 | [I Belong to You](https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:21 |
 | 68 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
 | 69 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 |
-| 70 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
+| 70 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
 | 71 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
-| 72 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
+| 72 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
 | 73 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
 | 74 | [Hear Your Heart](https://open.spotify.com/track/1zI297SasSVNI2TLh3Ypm7) | [myChurch Music](https://open.spotify.com/artist/0kUjsG9rypTopBusbPm43B) | [Hear Your Heart](https://open.spotify.com/album/6zvijC2Xfhb47tuRsEjDkI) | 3:04 |
 | 75 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
 
-Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMGZhOWQwOTNjMGNkNDBlMTY3ODhkZWMzMWUxNDc0NjJi`
+Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMGZjNTVlNjYzYjA4YjZiZTc0MjZjYjZlNzM0NWJhNWVi`

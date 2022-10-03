@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-771 songs - 2 day 6 hr 7 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
+772 songs - 2 day 6 hr 11 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,8 @@
 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 3:57 | 2022-01-05 |  |
 | [Prove Your Love](https://open.spotify.com/track/3pBhwoTMCPIsS0q7v1BPRe) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Heroes Are Hard to Find](https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE) | 3:58 | 2022-01-05 | 2022-07-29 |
 | [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 | 2022-01-05 | 2022-07-28 |
-| [Radancer](https://open.spotify.com/track/0CpP2VQHK5HcxXtUzzOjiB) | [Marmalade](https://open.spotify.com/artist/1tttI1iC4FsS6BM5l38oe5) | [Fine Cuts \- The Best of Marmalade \(Original Recordings\)](https://open.spotify.com/album/06w9dWhGMDvOgw1HHUj2e5) | 4:00 | 2022-01-05 |  |
+| [Radancer](https://open.spotify.com/track/0CpP2VQHK5HcxXtUzzOjiB) | [Marmalade](https://open.spotify.com/artist/1tttI1iC4FsS6BM5l38oe5) | [Fine Cuts \- The Best of Marmalade \(Original Recordings\)](https://open.spotify.com/album/06w9dWhGMDvOgw1HHUj2e5) | 4:00 | 2022-01-05 | 2022-10-03 |
+| [Radancer](https://open.spotify.com/track/3Oh0gMdXMZgavYd74bMFMT) | [Marmalade](https://open.spotify.com/artist/1tttI1iC4FsS6BM5l38oe5) | [Reflections of My Life \(Original Recordings\)](https://open.spotify.com/album/7rPmei7g2Q74CiQXuET5sm) | 4:00 | 2022-01-05 |  |
 | [Railroad Song](https://open.spotify.com/track/5tTVQLUw5HJJHt58MifwQS) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 4:15 | 2022-01-05 |  |
 | [Ramble Tamble](https://open.spotify.com/track/47atuTch0AN7NvP9vp42a5) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 7:11 | 2022-01-05 |  |
 | [Redondo Beach](https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:25 | 2022-01-10 |  |

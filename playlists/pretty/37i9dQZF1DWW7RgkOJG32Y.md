@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few months\. Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,744 likes - 95 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,111 likes - 95 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 52 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
 | 53 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 |
 | 54 | [Talk About](https://open.spotify.com/track/75eGq7M9P5pFrEeJHb4AwH) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Thank God For All The Boys](https://open.spotify.com/album/6XEhHN6bknsDNn0Y8OCP0Z) | 3:15 |
-| 55 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 |
+| 55 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:37 |
 | 56 | [Nashville Or Nothing](https://open.spotify.com/track/27VXGsgJOEj7aYW6uWdJxK) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing](https://open.spotify.com/album/0u7mZIt4MJk667bsC1ZFIf) | 2:45 |
 | 57 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 |
 | 58 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 94 | [Close to You](https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Close to You](https://open.spotify.com/album/40cbsi8Xa1QwomJacJR8EQ) | 3:45 |
 | 95 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
 
-Snapshot ID: `MTY2NDU5MjIxOSwwMDAwMDAwMGYxZWYyYjNhZTNjZGEyNjEyZjg2MDM3MzY4ZGUxOTY0`
+Snapshot ID: `MTY2NDU5MjIxOSwwMDAwMDAwMDljNmNkMjA1ODU5OGI1YzI4OTQyZmJlNzFhNmY0MzAy`

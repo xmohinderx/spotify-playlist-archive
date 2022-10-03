@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,201 likes - 70 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,240 likes - 70 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 30 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
 | 31 | [The Bullfrog Opera](https://open.spotify.com/track/40jZFJBVYMzxdEpMptacUM) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:01 |
 | 32 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
-| 33 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
-| 34 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
+| 33 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
+| 34 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
 | 35 | [All the Pretty Little Horses](https://open.spotify.com/track/5HXDMlAhQDa991t1CSfcdO) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/3VgWRCn0IIHO9h3CADQw1W) | 2:16 |
 | 36 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 |
 | 37 | [Family Time](https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 4:20 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 67 | [Goober Peas](https://open.spotify.com/track/046AO6ZBgRPwA52YufDUIx) | [Arthur Smith](https://open.spotify.com/artist/4a73lr7ZzVCTFqy6d7sHc7) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:53 |
 | 68 | [We Shall Not Be Moved](https://open.spotify.com/track/38UmswDbJCKoyx4Dbi0zeO) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 2:52 |
 | 69 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 |
-| 70 | [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 |
+| 70 | [Old Dan Tucker](https://open.spotify.com/track/1ZLcb3xbst0LEkwinZ7R3Y) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [150 Toddler Favorites](https://open.spotify.com/album/0OFrQEiMbjQvgBiQ9iYXa8) | 1:02 |
 
-Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMDBiNzVkNzI0YmNkYTk2NDNmNDI4YmI4YmQwZTVmNWU3`
+Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMGUxNWZkYzQ5ZjkwNWRlY2U4Y2FlZDdkYTFkYmVhODEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,819 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,852 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 8 | [Un indio quiere llorar](https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:49 |
 | 9 | [La suegra](https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/4EQuspAsyfJtB7A0p5zdZf) | 3:17 |
 | 10 | [Al gato y al ratón](https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:42 |
-| 11 | [Las Nachas](https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:15 |
-| 12 | [La más bonita de todas](https://open.spotify.com/track/5lSl7vLwMnC6uHFzkFLptI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:40 |
+| 11 | [La más bonita de todas](https://open.spotify.com/track/5lSl7vLwMnC6uHFzkFLptI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:40 |
+| 12 | [Las Nachas](https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:15 |
 | 13 | [Tres minutos](https://open.spotify.com/track/0mKKoYIkWf9BeAWNV8OQoP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia sin fin](https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD) | 3:17 |
 | 14 | [Escuadras del sur](https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 3:10 |
-| 15 | [Güerita](https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:45 |
-| 16 | [Las habas](https://open.spotify.com/track/3Q97r3eLlF1qqjWHgUaYYr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:59 |
-| 17 | [No soy monedita de oro](https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:05 |
+| 15 | [Las habas](https://open.spotify.com/track/3Q97r3eLlF1qqjWHgUaYYr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:59 |
+| 16 | [No soy monedita de oro](https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:05 |
+| 17 | [Güerita](https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:45 |
 | 18 | [La Niña Fresa](https://open.spotify.com/track/68ZWi4vyv2Xo8u0FkstaZv) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los Exitos De La Banda Machos, Vol\. 2](https://open.spotify.com/album/27JnOo7RWZnEdcNTt6o3xF) | 2:39 |
 | 19 | [Casimira](https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:52 |
 | 20 | [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 29 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
 | 30 | [Te Lavaste la Cara y el Mono No \(El Mono de Marciana\)](https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Estás Seleccionada](https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7) | 2:56 |
 | 31 | [El viejo joven](https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:38 |
-| 32 | [911](https://open.spotify.com/track/4xr5M4pgpUYpkeTN08Qwo1) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [911](https://open.spotify.com/album/7AdAZUSQ45Pi8m8mQqDdrJ) | 3:24 |
-| 33 | [Motivos](https://open.spotify.com/track/65lfzguWycfHortBjpZAwr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:08 |
+| 32 | [Motivos](https://open.spotify.com/track/65lfzguWycfHortBjpZAwr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:08 |
+| 33 | [911](https://open.spotify.com/track/4xr5M4pgpUYpkeTN08Qwo1) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [911](https://open.spotify.com/album/7AdAZUSQ45Pi8m8mQqDdrJ) | 3:24 |
 | 34 | [Te lo debo a ti](https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:35 |
 | 35 | [Sigues Siendo La Reina](https://open.spotify.com/track/3rQxUDGge46zQq37oQXvHe) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sigues Siendo La Reina](https://open.spotify.com/album/4wVJCqOs4165CP45YOroTy) | 3:15 |
 | 36 | [Muévete morena](https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 49 | [Vivir sin ella](https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:51 |
 | 50 | [El puchoncito](https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las movidas de los machos](https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu) | 2:38 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA5ZjI3NTBmMGY3YmI5ZjhjMjVjZDJmYzM3NzZkN2U0ZQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA0ZWMzOTQ5MWI3ODc2MTZjOGE4NWUzYjQ2OGI5YmE3ZA==`

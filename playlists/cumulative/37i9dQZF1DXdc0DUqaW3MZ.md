@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-292 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
+293 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Leave It All](https://open.spotify.com/track/6aDijFwnaEAcnxIRZkikAg) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz) | [Leave It All](https://open.spotify.com/album/30qeQDDKpUYKaODQbPtUUx) | 2:46 | 2022-04-11 | 2022-04-17 |
 | [Leave The Devil Outside](https://open.spotify.com/track/5p05rqEY8XzV6phRrUAW5m) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Sporadic](https://open.spotify.com/album/5f39C7kB6aOlvf3V0Vsppk) | 2:13 | 2022-04-11 | 2022-04-21 |
 | [Leo Bear](https://open.spotify.com/track/4TGjwsagd5o3IPp1TbCtuq) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Leo Bear](https://open.spotify.com/album/4lKxaGsnDNlMyGkcAmHT4N) | 4:26 | 2022-04-11 | 2022-04-20 |
-| [Leslie](https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Leslie EP](https://open.spotify.com/album/7KFVE1klBqsA9fiqte3Ks8) | 7:26 | 2022-04-11 |  |
+| [Leslie](https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Leslie EP](https://open.spotify.com/album/7KFVE1klBqsA9fiqte3Ks8) | 7:26 | 2022-04-11 | 2022-10-03 |
 | [Let Go](https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Let Go](https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK) | 4:08 | 2021-12-07 |  |
 | [Let Me Know \- The Cypher](https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Geovarn](https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk) | [Let Me Know \(The Cypher\)](https://open.spotify.com/album/3txhzSqd1Lc9Nig7CF5eH0) | 4:01 | 2022-06-20 |  |
 | [Light on Me](https://open.spotify.com/track/1vOxnYBSUeE0bs3Pr5OiG0) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Light on Me](https://open.spotify.com/album/6fkVChPgzviHHVzWazZ8qr) | 3:41 | 2022-04-11 | 2022-04-16 |
@@ -214,6 +214,7 @@
 | [Nobody Scared](https://open.spotify.com/track/0XW3UfxGKohQPt7FxaCuHU) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Nobody Scared](https://open.spotify.com/album/3ssYNO0NqPUMYJFjk9qtAW) | 3:39 | 2021-12-07 | 2022-07-29 |
 | [Nobody Scared](https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1) | 3:39 | 2022-06-20 |  |
 | [Not About Love](https://open.spotify.com/track/6gpgIeEuc8X1Wn4Q70VGYI) | [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [Not About Love](https://open.spotify.com/album/1bZ90o4aElsvWiTgAh8OSJ) | 2:38 | 2022-04-11 | 2022-04-19 |
+| [Not Today Mate](https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Not Today Mate](https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ) | 3:37 | 2022-06-20 |  |
 | [Not Today Mate](https://open.spotify.com/track/7wkKPIBtnWwXpQxDXFSmQO) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Not Today Mate](https://open.spotify.com/album/6a1IXJ5uCSDmNngN10IZRV) | 3:37 | 2022-01-14 | 2022-06-30 |
 | [Nothing Nice \(feat\. Kojey Radical and Gaidaa\)](https://open.spotify.com/track/79LkW0H9OrEtuLiJVcHVcG) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Nothing Nice](https://open.spotify.com/album/3HJN1865caXMyJx3f6lmXr) | 2:30 | 2022-04-11 | 2022-04-17 |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2022-04-11 |  |

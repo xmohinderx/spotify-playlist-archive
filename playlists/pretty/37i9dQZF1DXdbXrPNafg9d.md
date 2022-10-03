@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,389 likes - 174 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,511 likes - 174 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
 | 2 | [new body rhumba \(from the film White Noise\)](https://open.spotify.com/track/2iqA5Na5vlo0bnZUf8KT1N) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [new body rhumba \(from the film White Noise\)](https://open.spotify.com/album/0NIz7gtDhMS3pqFnCgcZCy) | 7:23 |
 | 3 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
-| 4 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
+| 4 | [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 |
 | 5 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 |
 | 6 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 7 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 57 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 58 | [Eggshells](https://open.spotify.com/track/2JXsy8qz9PzqDwX7ozd4Go) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Eggshells](https://open.spotify.com/album/1a7DBuyuqgQA7cGLvkiJVN) | 2:31 |
 | 59 | [Stonecatcher \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/5mY8nk4BPdPmX3MBCaXUWK) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:42 |
-| 60 | [Ovule](https://open.spotify.com/track/3epjx0KBU45yCx7KtOXF2Z) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Ovule](https://open.spotify.com/album/5GQmiJ4JRv6pvcTZbBD4Wu) | 3:38 |
+| 60 | [Ovule](https://open.spotify.com/track/01uiiE7cNaoMAvdtsiDqMd) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 3:38 |
 | 61 | [PIRATE RADIO\*](https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PIRATE RADIO\*](https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3) | 3:09 |
 | 62 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 |
 | 63 | [Fairweather Friends](https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2) | 3:10 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 74 | [Antibiotics](https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Antibiotics](https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji) | 3:06 |
 | 75 | [Summer In My Head](https://open.spotify.com/track/3KquekHc2ApZSvrd9qCiWW) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z) | [Summer In My Head](https://open.spotify.com/album/0qJgh9pLQ3CxXHA4F11kjc) | 3:50 |
 | 76 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
-| 77 | [Atopos](https://open.spotify.com/track/6BggRT92i1xD3MXCTt64J1) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Atopos](https://open.spotify.com/album/4gsVIuKRUMJCdNhHTx5GrI) | 4:46 |
+| 77 | [Atopos](https://open.spotify.com/track/6I1iRZyHuBtsolaGh3knLI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:46 |
 | 78 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 |
 | 79 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
 | 80 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 145 | [Cold](https://open.spotify.com/track/0VAkYFfY6PLyEGFpq7ie6P) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 4:36 |
 | 146 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 |
 | 147 | [i used to](https://open.spotify.com/track/75EStj9OPvWHa9N5KvFo72) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [International Contemporary Ensemble](https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [i used to](https://open.spotify.com/album/5zKGLARoiiUGb2r8R3kLv1) | 3:08 |
-| 148 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 |
+| 148 | [Unfold](https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 1:30 |
 | 149 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 |
 | 150 | [MEMORY](https://open.spotify.com/track/5smrq8X3uBuyy5nzREKnJV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:53 |
 | 151 | [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 173 | [ANTIGRAVITY](https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [ANTIGRAVITY](https://open.spotify.com/album/5MvHUtsrb6kYAQGP6deljn) | 1:53 |
 | 174 | [Dancing Through The Mental Breakdown](https://open.spotify.com/track/2Bp2lz31jToHaktMzMS8KD) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Infinitely Tall](https://open.spotify.com/album/5UkdU2EuwWI43isnwU4kZn) | 4:16 |
 
-Snapshot ID: `MTY2NDU0MjU4NiwwMDAwMDAwMDRiZTdhNDExNmUwMjVkYzBkYjU4YTA3Nzc0YjZmZTVh`
+Snapshot ID: `MTY2NDU0MjU4NiwwMDAwMDAwMGEzNGI3NzhmZjE5ODEzZTEzNDk0ZTVhYTE4ZDQ1MTll`

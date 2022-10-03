@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Fuerza Regida & Snoop Dogg en portada.",
-  "num_followers": 51557,
+  "num_followers": 51643,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDM3ZDk3MjQ5ZjczMWJmMzRmYWFjNDg5OTRlOWI1ZDRi",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDg1ZDBkZGUwYjJlNDIzZjdiNDUyMDhhOWZkODMyMjA0",
   "tracks": [
     {
       "added_at": "2022-09-27 19:03:52",
@@ -577,24 +577,28 @@
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
     },
     {
-      "added_at": "2022-01-25 00:00:59",
+      "added_at": "2022-09-27 19:03:52",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Mexicano",
-      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
+      "duration_ms": 267706,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": "2022-01-25 00:00:59",
@@ -613,20 +617,24 @@
       "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
-      "added_at": "2021-12-17 06:00:00",
+      "added_at": "2022-01-25 00:00:59",
       "album": {
-        "name": "Sencillo Soy",
-        "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
       "artists": [
         {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 172954,
-      "name": "Sencillo Soy",
-      "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
+      "duration_ms": 174193,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -663,6 +671,22 @@
     {
       "added_at": "2021-12-17 06:00:00",
       "album": {
+        "name": "Sencillo Soy",
+        "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 172954,
+      "name": "Sencillo Soy",
+      "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
+    },
+    {
+      "added_at": "2021-12-17 06:00:00",
+      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
-    },
-    {
-      "added_at": "2022-09-27 19:03:52",
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -945,24 +945,20 @@
       "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
     },
     {
-      "added_at": "2022-09-09 05:00:00",
+      "added_at": "2021-12-17 06:00:00",
       "album": {
-        "name": "El Canelo",
-        "url": "https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU"
+        "name": "Miro Lo Que Otros No Miran",
+        "url": "https://open.spotify.com/album/2f0ZAy2JyvNIJGLEVHAp4t"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Emmanuel Delgado",
-          "url": "https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy"
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 158213,
-      "name": "El Canelo",
-      "url": "https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp"
+      "duration_ms": 194742,
+      "name": "Ni Mis Padres Saben Que Rollo",
+      "url": "https://open.spotify.com/track/5LbyrPgyNvJJCsNYeklVor"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -1021,20 +1017,24 @@
       "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
     },
     {
-      "added_at": "2021-12-17 06:00:00",
+      "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Miro Lo Que Otros No Miran",
-        "url": "https://open.spotify.com/album/2f0ZAy2JyvNIJGLEVHAp4t"
+        "name": "El Canelo",
+        "url": "https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU"
       },
       "artists": [
         {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Emmanuel Delgado",
+          "url": "https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy"
         }
       ],
-      "duration_ms": 194742,
-      "name": "Ni Mis Padres Saben Que Rollo",
-      "url": "https://open.spotify.com/track/5LbyrPgyNvJJCsNYeklVor"
+      "duration_ms": 158213,
+      "name": "El Canelo",
+      "url": "https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp"
     },
     {
       "added_at": "2022-09-07 21:15:16",
@@ -1253,26 +1253,6 @@
       "url": "https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY"
     },
     {
-      "added_at": "2022-04-01 18:54:28",
-      "album": {
-        "name": "Relojito Adiamantado",
-        "url": "https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Relojito Adiamantado",
-      "url": "https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6"
-    },
-    {
       "added_at": "2022-09-27 19:03:52",
       "album": {
         "name": "Se Chambiar",
@@ -1291,6 +1271,26 @@
       "duration_ms": 157542,
       "name": "Se Chambiar",
       "url": "https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV"
+    },
+    {
+      "added_at": "2022-04-01 18:54:28",
+      "album": {
+        "name": "Relojito Adiamantado",
+        "url": "https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Relojito Adiamantado",
+      "url": "https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6"
     },
     {
       "added_at": "2022-09-27 19:03:52",

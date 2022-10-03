@@ -1,12 +1,12 @@
 {
   "description": "Throw it back to the biggest, best hits of the 2000's.",
-  "num_followers": 1281753,
+  "num_followers": 1281960,
   "original_name": "Throwback Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU4MTU3OSwwMDAwMDAwMDhlNGNhNmZiNmUzNmI0NWVjMTU1N2YxY2RkOWI5YTIy",
+  "snapshot_id": "MTY2MjU4MTU3OSwwMDAwMDAwMGU3MDk2Yzg0YWI5MTFlZGQ4NjkxMWZlYTMxMzI0Mzky",
   "tracks": [
     {
       "added_at": "2022-01-28 04:45:53",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "added_at": "2022-01-28 04:45:53",
+      "album": {
         "name": "Planet Pit (Deluxe Version)",
         "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
       },
@@ -135,38 +151,22 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
-    },
-    {
-      "added_at": "2022-01-28 04:45:53",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         },
         {
-          "name": "Syleena Johnson",
-          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 223506,
-      "name": "All Falls Down",
-      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
+      "duration_ms": 212360,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -191,22 +191,22 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Smack That",
-      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
+      "duration_ms": 223506,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -323,26 +323,6 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Gold Digger",
-      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
-    },
-    {
-      "added_at": "2022-01-28 04:45:53",
-      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2022-01-28 04:45:53",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
-    },
-    {
-      "added_at": "2022-01-28 04:45:53",
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -471,22 +455,6 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Pon de Replay",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
-    },
-    {
-      "added_at": "2022-01-28 04:45:53",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2022-01-28 04:45:53",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2022-01-28 04:45:53",
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -539,22 +539,6 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2022-01-28 04:45:53",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -623,22 +607,6 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Disturbia",
-      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
-    },
-    {
-      "added_at": "2022-01-28 04:45:53",
-      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 219426,
       "name": "Just Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
+    },
+    {
+      "added_at": "2022-01-28 04:45:53",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
+    },
+    {
+      "added_at": "2022-01-28 04:45:53",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 203600,
-      "name": "I'm a Slave 4 U",
-      "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+      "duration_ms": 203600,
+      "name": "I'm a Slave 4 U",
+      "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
     },
     {
       "added_at": "2022-01-28 04:45:53",

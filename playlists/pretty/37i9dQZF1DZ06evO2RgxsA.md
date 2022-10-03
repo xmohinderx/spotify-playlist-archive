@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,374 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,389 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 17 | [Drugs Are Good](https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:18 |
 | 18 | [Perfect Government](https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:06 |
 | 19 | [All Outta Angst](https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:52 |
-| 20 | [13 Stitches](https://open.spotify.com/track/0Nc3hRP3VVWniBqHQtTjVY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 1:55 |
-| 21 | [Darby Crashing Your Party](https://open.spotify.com/track/2LpbBDD1Qrn8lGGi8B6BxW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Darby Crashing Your Party](https://open.spotify.com/album/1CeF4JeD01o7FbPRmDu25J) | 2:24 |
+| 20 | [Darby Crashing Your Party](https://open.spotify.com/track/2LpbBDD1Qrn8lGGi8B6BxW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Darby Crashing Your Party](https://open.spotify.com/album/1CeF4JeD01o7FbPRmDu25J) | 2:24 |
+| 21 | [13 Stitches](https://open.spotify.com/track/0Nc3hRP3VVWniBqHQtTjVY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 1:55 |
 | 22 | [The Cause](https://open.spotify.com/track/5b2RQDbNlMt7DE8cuv0hsC) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 1:37 |
 | 23 | [Kids Of The K\-Hole](https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:16 |
 | 24 | [The Quitter](https://open.spotify.com/track/1HFz1YvBXVAJ0lSn3rgYgk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 1:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 45 | [Cool and Unusual Punishment](https://open.spotify.com/track/3XIt5NVAgzUteXlfiUE6Yp) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:05 |
 | 46 | [Louise](https://open.spotify.com/track/6JV3drSaqeGAcKjglOtopa) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:49 |
 | 47 | [The Big Drag](https://open.spotify.com/track/79FLRV9bif83LXWIMDYEC4) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 5:48 |
-| 48 | [I Don't Like Me Anymore](https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 2:30 |
-| 49 | [First Call](https://open.spotify.com/track/626xezshYGvfjC9tBG0xqz) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:33 |
+| 48 | [First Call](https://open.spotify.com/track/626xezshYGvfjC9tBG0xqz) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:33 |
+| 49 | [I Don't Like Me Anymore](https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 2:30 |
 | 50 | [Bottles To The Ground](https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:20 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAyYWUwMzkyODk5OGZiY2Y0YTEzZDMyMWRlNjIzY2M4MQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA1MmYyMzk2OGE1NGQzZGRlYzYxMGY0YjQzNzUzZGQzOA==`

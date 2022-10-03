@@ -344,6 +344,28 @@
     },
     {
       "album": {
+        "name": "Flawed (feat. Gunna)",
+        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204455,
+      "name": "Flawed (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
       },
@@ -959,28 +981,6 @@
       "duration_ms": 158427,
       "name": "Top (Remix) feat. Lil Durk",
       "url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb"
-    },
-    {
-      "album": {
-        "name": "Flawed (feat. Gunna)",
-        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "date_added": "2022-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204455,
-      "name": "Track 17",
-      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
     },
     {
       "album": {

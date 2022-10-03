@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 253707,
+  "num_followers": 253852,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMGQ3ODc2YTg3NDJlMzhiYWU3MzExNzVhNzA1MzEyZGI0",
+  "snapshot_id": "MTY2Mzg4NDAwMCwwMDAwMDAwMDQxNWY4MTAyMDFlNzg0ZjRlOTlkNjgwNDVkM2U5ZDc0",
   "tracks": [
     {
       "added_at": "2022-09-22 22:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Mujeres de Fina Estampa",
         "url": "https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Quien encendi\u00f3 la luz",
-        "url": "https://open.spotify.com/album/5195FGFR87Ixc9EjKwpbbu"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 206270,
-      "name": "Quien encendi\u00f3 la luz",
-      "url": "https://open.spotify.com/track/7uI0ZH9w4Fzldb0dj7gngZ"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Unicornio",
         "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 308510,
       "name": "Unicornio",
       "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Quien encendi\u00f3 la luz",
+        "url": "https://open.spotify.com/album/5195FGFR87Ixc9EjKwpbbu"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 206270,
+      "name": "Quien encendi\u00f3 la luz",
+      "url": "https://open.spotify.com/track/7uI0ZH9w4Fzldb0dj7gngZ"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "Cerrando Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kilombo",
+          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Sinmigo",
+      "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "\u00daltimo Acto",
         "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 228413,
       "name": "Desde Que Te Perd\u00ed",
       "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "Cerrando Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
-      },
-      "artists": [
-        {
-          "name": "Mr. Kilombo",
-          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Sinmigo",
-      "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "La vida es m\u00e1s compleja de lo que parece",
+      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
         "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
         "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "La vida es m\u00e1s compleja de lo que parece",
-      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Vestida De Nit",
-        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 158230,
-      "name": "Mechita",
-      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Vestida De Nit",
+        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 158230,
+      "name": "Mechita",
+      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "Aunque t\u00fa no lo sepas",
-        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
-      },
-      "artists": [
-        {
-          "name": "Alba Rojas",
-          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
-        }
-      ],
-      "duration_ms": 131343,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "Aunque t\u00fa no lo sepas",
+        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
+      },
+      "artists": [
+        {
+          "name": "Alba Rojas",
+          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
+        }
+      ],
+      "duration_ms": 131343,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
     },
     {
       "added_at": "2022-09-22 22:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-09-22 22:00:00",
       "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "El Arriero",
-      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
-    },
-    {
-      "added_at": "2022-09-22 22:00:00",
-      "album": {
         "name": "Solo para Ti",
         "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
+    },
+    {
+      "added_at": "2022-09-22 22:00:00",
+      "album": {
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "El Arriero",
+      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
     },
     {
       "added_at": "2022-09-22 22:00:00",

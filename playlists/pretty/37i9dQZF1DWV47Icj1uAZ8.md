@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 10 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 |
 | 11 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 | 12 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 |
-| 13 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
-| 14 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 |
+| 13 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 |
+| 14 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
 | 15 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 |
 | 16 | [The Message](https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 3:54 |
 | 17 | [In A Sentimental Mood](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:15 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 34 | [Wildfire](https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:21 |
 | 35 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 |
 | 36 | [Lovely](https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H) | 4:51 |
-| 37 | [I Used to Love Him \(feat\. Mary J\. Blige\)](https://open.spotify.com/track/3IRdgbdqDcmJBIa6TY2mKX) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:39 |
-| 38 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
+| 37 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
+| 38 | [I Used to Love Him \(feat\. Mary J\. Blige\)](https://open.spotify.com/track/3IRdgbdqDcmJBIa6TY2mKX) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:39 |
 | 39 | [I'm Goin' Down](https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 3:42 |
 | 40 | [Face the World](https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:57 |
 | 41 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 49 | [Young Nigga \(feat\. Puff Daddy\)](https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:56 |
 | 50 | [Lost One](https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:58 |
 
-Snapshot ID: `MTY2NDY1ODUxOSwwMDAwMDAwMDRjMjFmYjQ4NTk4ZGUyYjU0NTFlMjNhYjNhMWFmNzY4`
+Snapshot ID: `MTY2NDY1ODUxOSwwMDAwMDAwMDMxY2JhYzI3NjQ2NDRmZjJmMjllZjc1NDQ3YmMyM2Qz`

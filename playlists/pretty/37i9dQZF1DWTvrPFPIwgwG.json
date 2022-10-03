@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Damares, Can\u00e7\u00e3o & Louvor",
-  "num_followers": 54217,
+  "num_followers": 54241,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MzM2NywwMDAwMDAwMDAwMTgzZmE3NDQ1NWQ2NjgwMGMzYmM4NTc0OGUwOGE2",
+  "snapshot_id": "MTY2NDU0MzM2NywwMDAwMDAwMDA4OGVlYjIyYTk5MTYzOWM2MmE3MjM0NzUzNDJiZmRi",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Despreocupa",
-        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
-      },
-      "artists": [
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        }
-      ],
-      "duration_ms": 310635,
-      "name": "Despreocupa",
-      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "No Sil\u00eancio (Ao vivo)",
         "url": "https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 265183,
       "name": "No Sil\u00eancio - Ao vivo",
       "url": "https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Despreocupa",
+        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
+      },
+      "artists": [
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 310635,
+      "name": "Despreocupa",
+      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Esconderijo do Alt\u00edssimo",
+        "url": "https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL"
+      },
+      "artists": [
+        {
+          "name": "Aurelina Dourado",
+          "url": "https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz"
+        }
+      ],
+      "duration_ms": 285152,
+      "name": "Esconderijo do Alt\u00edssimo",
+      "url": "https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Tempo de Espera",
         "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 319018,
       "name": "Eu Te Toquei - Ao Vivo",
       "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Esconderijo do Alt\u00edssimo",
-        "url": "https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL"
-      },
-      "artists": [
-        {
-          "name": "Aurelina Dourado",
-          "url": "https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz"
-        }
-      ],
-      "duration_ms": 285152,
-      "name": "Esconderijo do Alt\u00edssimo",
-      "url": "https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Um Sobrevivente",
-        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
+        "name": "Quem Aben\u00e7oa Sou Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt"
       },
       "artists": [
         {
           "name": "Eurice Diniz",
           "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
         }
       ],
-      "duration_ms": 301162,
-      "name": "Um Sobrevivente",
-      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
+      "duration_ms": 257000,
+      "name": "Quem Aben\u00e7oa Sou Eu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1119,22 +1123,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "O Desfecho",
-        "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 308059,
-      "name": "O Desfecho",
-      "url": "https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Um Vencedor",
         "url": "https://open.spotify.com/album/3rLP9GSQlADHlNt7dIKCOo"
       },
@@ -1147,6 +1135,22 @@
       "duration_ms": 267136,
       "name": "Um Vencedor",
       "url": "https://open.spotify.com/track/6pRqkptX0mR2nenNo31ENX"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "O Desfecho",
+        "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 308059,
+      "name": "O Desfecho",
+      "url": "https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1219,22 +1223,34 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Quem Aben\u00e7oa Sou Eu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt"
+        "name": "Um Sobrevivente",
+        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
       },
       "artists": [
         {
           "name": "Eurice Diniz",
           "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        },
-        {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Quem Aben\u00e7oa Sou Eu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5"
+      "duration_ms": 301162,
+      "name": "Um Sobrevivente",
+      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Acredite",
-        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 304210,
-      "name": "Acredite",
-      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Nada Vai Te Faltar",
         "url": "https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d"
       },
@@ -1299,26 +1299,6 @@
       "duration_ms": 319936,
       "name": "Nada Vai Te Faltar",
       "url": "https://open.spotify.com/track/7jS1AMXD2KtK0kmVqyOowj"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Vivendo pela Gra\u00e7a",
-        "url": "https://open.spotify.com/album/7FgukpDG6gKCjbJO4HP1sJ"
-      },
-      "artists": [
-        {
-          "name": "Miriam dos Passos",
-          "url": "https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt"
-        },
-        {
-          "name": "Trio Melodia",
-          "url": "https://open.spotify.com/artist/5K0ZOq4qBXap184w0M4CRp"
-        }
-      ],
-      "duration_ms": 284342,
-      "name": "Vivendo pela Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5esJW5MuLVYLCtEm0Vi8lj"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1339,6 +1319,26 @@
       "duration_ms": 302751,
       "name": "Ainda N\u00e3o Acabou",
       "url": "https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Vivendo pela Gra\u00e7a",
+        "url": "https://open.spotify.com/album/7FgukpDG6gKCjbJO4HP1sJ"
+      },
+      "artists": [
+        {
+          "name": "Miriam dos Passos",
+          "url": "https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt"
+        },
+        {
+          "name": "Trio Melodia",
+          "url": "https://open.spotify.com/artist/5K0ZOq4qBXap184w0M4CRp"
+        }
+      ],
+      "duration_ms": 284342,
+      "name": "Vivendo pela Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5esJW5MuLVYLCtEm0Vi8lj"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Olhando Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/1ORbMDUZk2wElpvop4nd6s"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "Olhando Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/52RMRXYZIkVhzfbzV8xBPu"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Ele Te Escolheu",
         "url": "https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 240000,
       "name": "Ele Te Escolheu",
       "url": "https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Olhando Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/1ORbMDUZk2wElpvop4nd6s"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "Olhando Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/52RMRXYZIkVhzfbzV8xBPu"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1453,23 +1453,7 @@
       "url": "https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh"
     },
     {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Maior Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd"
-      },
-      "artists": [
-        {
-          "name": "Alugiana",
-          "url": "https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV"
-        }
-      ],
-      "duration_ms": 383955,
-      "name": "Maior Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO"
-    },
-    {
-      "added_at": "2022-10-02 01:28:03",
+      "added_at": "2022-10-03 01:18:45",
       "album": {
         "name": "Treinar Voc\u00ea",
         "url": "https://open.spotify.com/album/6nvoq8EFg817BBinpcg8Wc"
@@ -1491,6 +1475,22 @@
       "duration_ms": 301454,
       "name": "Treinar Voc\u00ea",
       "url": "https://open.spotify.com/track/2rJMAfn7eB3GQTr276zBiO"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Maior Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd"
+      },
+      "artists": [
+        {
+          "name": "Alugiana",
+          "url": "https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV"
+        }
+      ],
+      "duration_ms": 383955,
+      "name": "Maior Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO"
     }
   ],
   "unique_name": "Louvores Pentecostais",

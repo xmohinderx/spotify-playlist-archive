@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,249 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,258 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 59 | [Mama, What About Your Daughter \- Single Version](https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:29 |
 | 60 | [Atomic Cocktail](https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:43 |
 | 61 | [Robbie\-Doby Boogie](https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:22 |
-| 62 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 |
-| 63 | [She Cooks Me Cabbage](https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues For Everybody](https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7) | 2:36 |
+| 62 | [She Cooks Me Cabbage](https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues For Everybody](https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7) | 2:36 |
+| 63 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 |
 | 64 | [I Got Your Ice Cold Nugrape](https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3) | [Nugrape Twins](https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM) | [The Road Is Rough and Rocky](https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U) | 2:56 |
 | 65 | [Eisenhower Blues \- Single Version](https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:51 |
 | 66 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 | 70 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMGNiMjA4ODNiM2ExNDBkNzBkODc3OWFhY2JjY2FiYzY3`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDJiY2MzNjQwZWU0OWNjYTg0YzY4NWQ0ZTBiYTNjYzgw`

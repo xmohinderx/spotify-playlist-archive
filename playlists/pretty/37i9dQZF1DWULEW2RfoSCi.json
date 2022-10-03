@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1302074,
+  "num_followers": 1302562,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDAzNmVjN2ZmYzhlZjFiN2UxODM0NjBkNjI4MGU4Yzk0",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGY3YWRmM2Y1NjJjOTI2OWNiOTBjMmJiNGVmZWVhOWVh",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Superfly (O.S.T.)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Hang On In There Baby",
         "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 233720,
       "name": "Hang On In There Baby",
       "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Superfly (O.S.T.)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "The Bitch Is Black",
         "url": "https://open.spotify.com/album/0ehXIeOOjIrlCFXv7Bv8CS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 213213,
       "name": "It Should Have Been Me",
       "url": "https://open.spotify.com/track/3lQNVAMwqcxFCJj8mI1izh"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2022-05-11 12:35:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,685 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,714 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 66 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
 | 67 | [September](https://open.spotify.com/track/2ECLI6x33wCKkU49hwfVux) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Colors of Rio](https://open.spotify.com/album/367pDgfdeqOW5hYRwdsRsN) | 4:06 |
 | 68 | [A Kiss to Build a Dream On](https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [A Wonderful World](https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY) | 3:23 |
-| 69 | [A Hard Day´s Night \(Bossa Version\)](https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J) | [Monique Kessous](https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 2:38 |
-| 70 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7hkel5OCjfRuN1j7DW2wxm) | [Kathleen Saadat](https://open.spotify.com/artist/564qZf8izrX2iWB532gVJu), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [Thomas Lauderdale](https://open.spotify.com/artist/6687FLqoLQQnLXQiBC7NxL) | [Love for Sale](https://open.spotify.com/album/2NQRFZ6kUkN35JuB8SeGM9) | 3:54 |
+| 69 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7hkel5OCjfRuN1j7DW2wxm) | [Kathleen Saadat](https://open.spotify.com/artist/564qZf8izrX2iWB532gVJu), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [Thomas Lauderdale](https://open.spotify.com/artist/6687FLqoLQQnLXQiBC7NxL) | [Love for Sale](https://open.spotify.com/album/2NQRFZ6kUkN35JuB8SeGM9) | 3:54 |
+| 70 | [A Hard Day´s Night \(Bossa Version\)](https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J) | [Monique Kessous](https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 2:38 |
 | 71 | [Malaika](https://open.spotify.com/track/5ZMoyCcee60Omi3bNklKvQ) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Shades of Delight](https://open.spotify.com/album/1TmyQu2ABmq5cHbH6Ds2n8) | 4:52 |
 | 72 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 |
 | 73 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
 | 74 | [Beyond the Sea](https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [After Dark](https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL) | 4:17 |
 | 75 | [The Promise](https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [The Promise](https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy) | 2:37 |
 
-Snapshot ID: `MTY2NDE3Njk1MiwwMDAwMDAwMDM5MWUxM2IzMDE3MjRmMTQxYjQyZWY2ZDVmMTVhNDQ3`
+Snapshot ID: `MTY2NDE3Njk1MiwwMDAwMDAwMDM0NDliYjYyNjk4NjRmOTM4ZDUxZmI3NjYzMWQ1NTM0`

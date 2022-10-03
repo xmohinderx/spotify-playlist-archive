@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 18473,
+  "num_followers": 18498,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUyMTI1MSwwMDAwMDAwMGE1NTY2NzcxOWQzNjIzNmI1ZDUzN2ZhZjY4NThkYTFl",
+  "snapshot_id": "MTY2NDUyMTI1MSwwMDAwMDAwMDRhNWQ4NDExNWU4ZjQ4NzE3OWU5YjA2MmU2OTFlMzY1",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -43,26 +43,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 166642,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "kolomental",
-        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "kolomental",
-      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 188629,
       "name": "Confession",
       "url": "https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "kolomental",
+        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "kolomental",
+      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -867,42 +883,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 166642,
-      "name": "emiliana",
-      "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
     },
     {
+      "added_at": "2022-09-19 07:19:33",
+      "album": {
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 141958,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Like (feat. Kizz Daniel)",
@@ -1259,22 +1275,6 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
-    },
-    {
-      "added_at": "2022-09-19 07:19:33",
-      "album": {
-        "name": "LEADER!",
-        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 141958,
-      "name": "LEADER!",
-      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 207473,
-      "name": "FYN",
-      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Asibe Happy",
         "url": "https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA"
       },
@@ -1487,6 +1467,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
       },
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo"
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
       },
       "artists": [
         {
-          "name": "Terri",
-          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 157648,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
       "added_at": "2022-08-05 07:32:03",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
         }
       ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+      "duration_ms": 157648,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
     }
   ],
   "unique_name": "Party Dey!",

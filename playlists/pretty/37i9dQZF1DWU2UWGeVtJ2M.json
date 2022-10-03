@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 135672,
+  "num_followers": 135716,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3NDM3MSwwMDAwMDAwMDZjYmViNDA0Y2RiMDIyMDg3MjMyY2EzOWVmNjNlMTdi",
+  "snapshot_id": "MTY2NDE3NDM3MSwwMDAwMDAwMDY2YTJmMTliOTFhMWI4YmZkYzVhNDA0ZmQ1ZWJhMTEx",
   "tracks": [
     {
       "added_at": "2022-09-26 06:39:31",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-09-26 06:39:31",
       "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/3mS5pfJvDStk99v0QRIsJH"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/59vGBEz1TByo4BCuKFF8P0"
+    },
+    {
+      "added_at": "2022-09-26 06:39:31",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
-    },
-    {
-      "added_at": "2022-09-26 06:39:31",
-      "album": {
-        "name": "Lost In Space",
-        "url": "https://open.spotify.com/album/3mS5pfJvDStk99v0QRIsJH"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Lost In Space",
-      "url": "https://open.spotify.com/track/59vGBEz1TByo4BCuKFF8P0"
     },
     {
       "added_at": "2022-09-26 06:39:31",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-09-26 06:39:31",
       "album": {
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+    },
+    {
+      "added_at": "2022-09-26 06:39:31",
+      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 204400,
       "name": "Sorry - Original Demo",
       "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
-    },
-    {
-      "added_at": "2022-09-26 06:39:31",
-      "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
     },
     {
       "added_at": "2022-09-26 06:39:31",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-09-26 06:39:31",
       "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw"
+    },
+    {
+      "added_at": "2022-09-26 06:39:31",
+      "album": {
         "name": "Love Me / Love Me Not",
         "url": "https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 228389,
       "name": "Feels So Good \u25d1",
       "url": "https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj"
-    },
-    {
-      "added_at": "2022-09-26 06:39:31",
-      "album": {
-        "name": "Blinded",
-        "url": "https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw"
     },
     {
       "added_at": "2022-09-26 06:39:31",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-09-26 06:39:31",
       "album": {
-        "name": "Some Place Else",
-        "url": "https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9"
+        "name": "Serpentina",
+        "url": "https://open.spotify.com/album/0YM67c7AYsZkvCSpPoYrFJ"
       },
       "artists": [
         {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 214885,
-      "name": "Some Place Else",
-      "url": "https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C"
+      "duration_ms": 169818,
+      "name": "Fuck Love",
+      "url": "https://open.spotify.com/track/32p7kD1kyWiy78wuQoICRu"
     },
     {
       "added_at": "2022-09-26 06:39:31",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-09-26 06:39:31",
       "album": {
+        "name": "Some Place Else",
+        "url": "https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 214885,
+      "name": "Some Place Else",
+      "url": "https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C"
+    },
+    {
+      "added_at": "2022-09-26 06:39:31",
+      "album": {
         "name": "Y1",
         "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 186818,
       "name": "Pantone 17 13 30",
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
-      "added_at": "2022-09-26 06:39:31",
-      "album": {
-        "name": "Serpentina",
-        "url": "https://open.spotify.com/album/0YM67c7AYsZkvCSpPoYrFJ"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "Fuck Love",
-      "url": "https://open.spotify.com/track/32p7kD1kyWiy78wuQoICRu"
     },
     {
       "added_at": "2022-09-26 06:39:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-09-26 06:39:31",
       "album": {
-        "name": "Don't Give In",
-        "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 209749,
-      "name": "Don't Give In",
-      "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
-    },
-    {
-      "added_at": "2022-09-26 06:39:31",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 194820,
       "name": "Naturally",
       "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
+    },
+    {
+      "added_at": "2022-09-26 06:39:31",
+      "album": {
+        "name": "Don't Give In",
+        "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 209749,
+      "name": "Don't Give In",
+      "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
     },
     {
       "added_at": "2022-09-26 06:39:31",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2022-09-26 06:39:31",
       "album": {
-        "name": "only in the night (feat. Sarcastic Sounds)",
-        "url": "https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "only in the night (feat. Sarcastic Sounds)",
-      "url": "https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z"
-    },
-    {
-      "added_at": "2022-09-26 06:39:31",
-      "album": {
         "name": "Slowing Down",
         "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm"
+    },
+    {
+      "added_at": "2022-09-26 06:39:31",
+      "album": {
+        "name": "only in the night (feat. Sarcastic Sounds)",
+        "url": "https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "only in the night (feat. Sarcastic Sounds)",
+      "url": "https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z"
     },
     {
       "added_at": "2022-09-26 06:39:31",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2022-09-26 06:39:31",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/11UumVLKD0DqPUpxA4udNX"
+        "name": "Breakup Season",
+        "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
       },
       "artists": [
         {
-          "name": "L.A. Rose",
-          "url": "https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr"
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 190075,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk"
+      "duration_ms": 192750,
+      "name": "Breakup Season",
+      "url": "https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

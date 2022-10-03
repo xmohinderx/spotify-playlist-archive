@@ -1,12 +1,12 @@
 {
   "description": "Easy listening pop for warmer days.",
-  "num_followers": 524587,
+  "num_followers": 524757,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MDk4MCwwMDAwMDAwMDdmZDllMTIyYzI2Y2ZjODEwZDI0OWYwYjJkNDI5ODRl",
+  "snapshot_id": "MTY2MjM5MDk4MCwwMDAwMDAwMDk4N2NkNDIwZTQ5Y2Q4NmVhMThkY2MxZDk2ZjAxZDhk",
   "tracks": [
     {
       "added_at": "2022-09-05 15:16:20",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-09-05 15:16:20",
       "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
+    },
+    {
+      "added_at": "2022-09-05 15:16:20",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
-    },
-    {
-      "added_at": "2022-09-05 15:16:20",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "added_at": "2022-09-05 15:16:20",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-05 15:16:20",
       "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
-      },
-      "artists": [
-        {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2022-09-05 15:16:20",
-      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 164813,
       "name": "Me and Julio Down by the Schoolyard",
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2022-09-05 15:16:20",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2022-09-05 15:16:20",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-05 15:16:20",
       "album": {
-        "name": "Some Mad Hope",
-        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Come On Get Higher",
-      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
-    },
-    {
-      "added_at": "2022-09-05 15:16:20",
-      "album": {
         "name": "GOOD TIME",
         "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 214720,
       "name": "GOOD TIME",
       "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
+    },
+    {
+      "added_at": "2022-09-05 15:16:20",
+      "album": {
+        "name": "Some Mad Hope",
+        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Come On Get Higher",
+      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
     },
     {
       "added_at": "2022-09-05 15:16:20",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-09-05 15:16:20",
       "album": {
-        "name": "Simple Pleasures",
-        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
-      },
-      "artists": [
-        {
-          "name": "Bobby McFerrin",
-          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Don't Worry Be Happy",
-      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
-    },
-    {
-      "added_at": "2022-09-05 15:16:20",
-      "album": {
         "name": "Whoa, Nelly! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
+    },
+    {
+      "added_at": "2022-09-05 15:16:20",
+      "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
     },
     {
       "added_at": "2022-09-05 15:16:20",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-05 15:16:20",
       "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 188877,
-      "name": "First Day of My Life",
-      "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
-    },
-    {
-      "added_at": "2022-09-05 15:16:20",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2022-09-05 15:16:20",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 188877,
+      "name": "First Day of My Life",
+      "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
     },
     {
       "added_at": "2022-09-05 15:16:20",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-09-05 15:16:20",
       "album": {
-        "name": "The Madding Crowd",
-        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
-      },
-      "artists": [
-        {
-          "name": "Nine Days",
-          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Absolutely (Story of a Girl) - Radio Mix",
-      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
-    },
-    {
-      "added_at": "2022-09-05 15:16:20",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 221466,
       "name": "Can't Take My Eyes Off of You - (I Love You Baby)",
       "url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt"
+    },
+    {
+      "added_at": "2022-09-05 15:16:20",
+      "album": {
+        "name": "The Madding Crowd",
+        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+      },
+      "artists": [
+        {
+          "name": "Nine Days",
+          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
     },
     {
       "added_at": "2022-09-05 15:16:20",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-09-05 15:16:20",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
-    },
-    {
-      "added_at": "2022-09-05 15:16:20",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 154800,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
+    },
+    {
+      "added_at": "2022-09-05 15:16:20",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2022-09-05 15:16:20",

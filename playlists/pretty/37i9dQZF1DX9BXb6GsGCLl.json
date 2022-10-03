@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 489988,
+  "num_followers": 489977,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDM3OTcwOWM5MmJkZWVhY2QwYmZmNjRkNjdlNTllZWM1",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDkwODljMGNhOGUyYWYyNzFiMjQwYzk5MTZiMTliYTZm",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Going Dumb",
-        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Going Dumb",
-      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 186594,
       "name": "if we never met - remix",
       "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Going Dumb",
+      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
     },
     {
       "added_at": "2021-08-20 08:20:52",

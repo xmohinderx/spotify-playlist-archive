@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop!",
-  "num_followers": 571313,
+  "num_followers": 571370,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEzMzc5NywwMDAwMDAwMGM5MzQxMWZjZTk4YzM2ZmNhY2RiODk0ZWExMDgxOGEy",
+  "snapshot_id": "MTY2MjEzMzc5NywwMDAwMDAwMGNiMzI5Mzc3YzE0OTQ1YzlmNjkzMjMxMDZjM2Y5MGFl",
   "tracks": [
     {
       "added_at": "2022-08-24 15:19:07",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-24 15:19:07",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "added_at": "2022-08-24 15:19:07",
+      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
-    },
-    {
-      "added_at": "2022-08-24 15:19:07",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2022-08-24 15:19:07",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-24 15:19:07",
       "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
-    },
-    {
-      "added_at": "2022-08-24 15:19:07",
-      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2022-08-24 15:19:07",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 182956,
-      "name": "How You Like That",
-      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
       "added_at": "2022-08-24 15:19:07",
@@ -715,6 +699,22 @@
       "duration_ms": 144933,
       "name": "That's Hilarious",
       "url": "https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc"
+    },
+    {
+      "added_at": "2022-08-24 15:19:07",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 182956,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
     },
     {
       "added_at": "2022-08-24 15:19:07",
@@ -927,30 +927,6 @@
     {
       "added_at": "2022-08-24 15:19:07",
       "album": {
-        "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
-        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 152214,
-      "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
-      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
-    },
-    {
-      "added_at": "2022-08-24 15:19:07",
-      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": "2022-08-24 15:19:07",
+      "album": {
+        "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
+        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 152214,
+      "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
+      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
     },
     {
       "added_at": "2022-08-24 15:19:07",

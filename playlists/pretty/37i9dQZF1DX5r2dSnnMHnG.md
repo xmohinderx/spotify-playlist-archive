@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,861 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,862 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 58 | [Loneliness Amplifier](https://open.spotify.com/track/6yDx0EcCpFa4SvFwe0d0Sr) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 1st](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) | 3:03 |
 | 59 | [Just Can't Say](https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG](https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL) | 3:23 |
 | 60 | [Happy Ending](https://open.spotify.com/track/3HLFIlahbxScNvZhq14qOJ) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Happy Ending](https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp) | 4:01 |
-| 61 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
-| 62 | [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 |
+| 61 | [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 |
+| 62 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
 | 63 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 |
 | 64 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 |
 | 65 | [Mini Stewardess](https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Mini Stewardess](https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 74 | [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 |
 | 75 | [Only I Want To Know](https://open.spotify.com/track/15ecAutv7JSuRkL9I9DrUB) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:31 |
 
-Snapshot ID: `MTY2MjM5MzQwOCwwMDAwMDAwMDk5ODhiNmQ0YTBmODJmOGU2ZGI0MGY4NDQ2Njc0ZThm`
+Snapshot ID: `MTY2MjM5MzQwOCwwMDAwMDAwMGZjNzIyYzBjZDQyMTZkODJhZjdiZWFjMmI4ODAyZmZk`

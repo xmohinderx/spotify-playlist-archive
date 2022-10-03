@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 104418,
+  "num_followers": 104528,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMDM5MmM3ZGE5ZmZjY2FiMjFmY2MxZmQ5OTU3ZjQyZmY5",
+  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMDE3Yzg1ODIxZDdhZGM1Y2JkNDA5ODI5OGUyMWIzMTc1",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Veinte Para Las Doce",
-        "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
-        }
-      ],
-      "duration_ms": 294333,
-      "name": "Aun",
-      "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Veinte Para Las Doce",
+        "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
+        }
+      ],
+      "duration_ms": 294333,
+      "name": "Aun",
+      "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Deseo Carnal",
-        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "C\u00f3mo pudiste hacerme esto a m\u00ed",
-      "url": "https://open.spotify.com/track/6L3rEi9FdKAuwCz1DiWkIk"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "Caja de Canciones",
         "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 210893,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Deseo Carnal",
+        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "C\u00f3mo pudiste hacerme esto a m\u00ed",
+      "url": "https://open.spotify.com/track/6L3rEi9FdKAuwCz1DiWkIk"
     },
     {
       "added_at": "2021-02-24 17:08:59",

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 790314,
+  "num_followers": 790721,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNjcwMCwwMDAwMDAwMDkyOTVlYTc0YmNiN2QyMWYzMTdhZGI2N2MxNDVhZjIy",
+  "snapshot_id": "MTY2NDUxNjcwMCwwMDAwMDAwMDA1NmUwZGViYmQ3NjI4NjczODVlODAzNGMwZTcyNGFi",
   "tracks": [
     {
       "added_at": "2022-09-23 23:48:00",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
     },
     {
-      "added_at": "2022-10-02 01:54:13",
+      "added_at": "2022-10-03 01:46:04",
       "album": {
         "name": "You're The Boss",
         "url": "https://open.spotify.com/album/4Z4w4EAFUrD4B16A1Uy34e"
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Ruby Sparks",
+        "url": "https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+        }
+      ],
+      "duration_ms": 254284,
+      "name": "Ruby Sparks",
+      "url": "https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Tres Hermanos",
         "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Ruby Sparks",
-        "url": "https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t Ngo",
-          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
-        }
-      ],
-      "duration_ms": 254284,
-      "name": "Ruby Sparks",
-      "url": "https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
-      },
-      "artists": [
-        {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "I Think I Left the Stove On",
         "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 201697,
       "name": "Shy",
       "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
     },
     {
       "added_at": "2022-09-23 23:48:00",
@@ -847,22 +831,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/316QBDbmZR0iwmLWKQf48Y"
-      },
-      "artists": [
-        {
-          "name": "Volleyball",
-          "url": "https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/6Yf4SLG6BFUMsPvm6Vol6o"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -879,6 +847,38 @@
       "duration_ms": 230137,
       "name": "Doris",
       "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/316QBDbmZR0iwmLWKQf48Y"
+      },
+      "artists": [
+        {
+          "name": "Volleyball",
+          "url": "https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/6Yf4SLG6BFUMsPvm6Vol6o"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 90127,
-      "name": "Unfold",
-      "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx"
       },
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Oh Uncertainty! A Universe Despairs",
-        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Fun Times",
         "url": "https://open.spotify.com/album/4L5kYzcAbu4AcXoUL4FRPg"
       },
@@ -1079,18 +1047,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
+        "name": "Oh Uncertainty! A Universe Despairs",
+        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
         }
       ],
-      "duration_ms": 204708,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
+      "duration_ms": 213040,
+      "name": "Best for You",
+      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1111,34 +1079,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Blacklight Shine",
-        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
       },
       "artists": [
         {
-          "name": "The Mars Volta",
-          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
         }
       ],
-      "duration_ms": 175657,
-      "name": "Blacklight Shine",
-      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "LUNO",
-        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Set it on Fire",
-      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
+      "duration_ms": 204708,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/213RFtIruWs7V6pAAvArRV"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1159,34 +1111,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+        "name": "Blacklight Shine",
+        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
       },
       "artists": [
         {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
         }
       ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Thanatophobia",
-        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
-      },
-      "artists": [
-        {
-          "name": "Worn-Tin",
-          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
-        }
-      ],
-      "duration_ms": 237741,
-      "name": "Sensitivity",
-      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
+      "duration_ms": 175657,
+      "name": "Blacklight Shine",
+      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1207,18 +1143,50 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+        "name": "Thanatophobia",
+        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "Worn-Tin",
+          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
         }
       ],
-      "duration_ms": 242261,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+      "duration_ms": 237741,
+      "name": "Sensitivity",
+      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "LUNO",
+        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Set it on Fire",
+      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1259,6 +1227,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 242261,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "jams EP",
+        "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 63214,
+      "name": "cloud castle",
+      "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1307,22 +1307,6 @@
       "duration_ms": 470092,
       "name": "Dripping Sun",
       "url": "https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "jams EP",
-        "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 63214,
-      "name": "cloud castle",
-      "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1379,22 +1363,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Optical Wealth + Fox in a Hole",
-        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
-      },
-      "artists": [
-        {
-          "name": "Cap'n Marble",
-          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "Optical Wealth",
-      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Magenta Mountain",
         "url": "https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz"
       },
@@ -1407,6 +1375,22 @@
       "duration_ms": 364599,
       "name": "Magenta Mountain",
       "url": "https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Optical Wealth + Fox in a Hole",
+        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
+      },
+      "artists": [
+        {
+          "name": "Cap'n Marble",
+          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
+        }
+      ],
+      "duration_ms": 181521,
+      "name": "Optical Wealth",
+      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1495,26 +1479,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Edge of the Edge",
-        "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
-      },
-      "artists": [
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        },
-        {
-          "name": "Sonic Boom",
-          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "Edge of the Edge",
-      "url": "https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "magic wand",
         "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
       },
@@ -1535,6 +1499,26 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Edge of the Edge",
+        "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "Edge of the Edge",
+      "url": "https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "In The Darkest Of Nights, Let The Birds Sing",
         "url": "https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX"
       },
@@ -1547,22 +1531,6 @@
       "duration_ms": 279361,
       "name": "Under The Moon",
       "url": "https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "A Song About the Sun",
-        "url": "https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "A Song About the Sun",
-      "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1583,18 +1551,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Emperor Tomato Ketchup (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn"
+        "name": "A Song About the Sun",
+        "url": "https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
         }
       ],
-      "duration_ms": 474542,
-      "name": "Metronomic Underground",
-      "url": "https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl"
+      "duration_ms": 210000,
+      "name": "A Song About the Sun",
+      "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1615,6 +1583,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Emperor Tomato Ketchup (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 474542,
+      "name": "Metronomic Underground",
+      "url": "https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Flavour",
         "url": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
       },
@@ -1631,22 +1615,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Being No One, Going Nowhere",
-        "url": "https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/75fKUcetc638W5uJVF3X7M"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Madison",
         "url": "https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo"
       },
@@ -1659,6 +1627,22 @@
       "duration_ms": 222573,
       "name": "Madison",
       "url": "https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Being No One, Going Nowhere",
+        "url": "https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 276413,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/75fKUcetc638W5uJVF3X7M"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 229595,
+      "name": "America's Cup",
+      "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
     }
   ],
   "unique_name": "Modern Psychedelia",

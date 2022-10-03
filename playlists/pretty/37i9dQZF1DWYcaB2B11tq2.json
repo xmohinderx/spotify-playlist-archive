@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 307607,
+  "num_followers": 307818,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDcyMTE5NWY1MDdiNGFjNDM0ZGU5NDY3YjZiNTJjNWZl",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDFmMWM5MGEyMjhhOTc2YTQ1Mzk2MDBmNDA5NTJmOThi",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -139,22 +139,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+        "name": "Operaci\u00f3n Mundial",
+        "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
       },
       "artists": [
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         },
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 299706,
-      "name": "Preciosa Sangre",
-      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
+      "duration_ms": 270186,
+      "name": "El Nombre De Jes\u00fas (feat. Christine D\u00b4Clario)",
+      "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -175,22 +175,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Operaci\u00f3n Mundial",
-        "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
       "artists": [
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         },
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 270186,
-      "name": "El Nombre De Jes\u00fas (feat. Christine D\u00b4Clario)",
-      "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
+      "duration_ms": 299706,
+      "name": "Preciosa Sangre",
+      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2021-05-21 19:19:27",

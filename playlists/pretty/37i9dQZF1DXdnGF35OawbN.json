@@ -1,12 +1,12 @@
 {
   "description": "The best season of the year, wherever you are! Cover: Karol G",
-  "num_followers": 3855670,
+  "num_followers": 3855680,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MTA1MiwwMDAwMDAwMGZiZjE4OTAyNWQ3NjkxOTQ4YjhmNDc1YzM3NTIxYTVl",
+  "snapshot_id": "MTY2MjQ4MTA1MiwwMDAwMDAwMDg2ZTAzM2I0ODAyZmViMzJlYTVhNDBjZDA5YWY2NTVm",
   "tracks": [
     {
       "added_at": "2022-08-02 14:56:20",
@@ -823,6 +823,30 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 226187,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -851,30 +875,6 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
-        "name": "Una Vaina Loca",
-        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Una Vaina Loca",
-      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 145890,
-      "name": "Sex & Love",
-      "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
         "name": "911 (Remix)",
         "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 208631,
       "name": "911 - Remix",
       "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 145890,
+      "name": "Sex & Love",
+      "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1175,6 +1175,38 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
+        "name": "Otro Trago (Remix)",
+        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Otro Trago - Remix",
+      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1215,38 +1247,6 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
-        "name": "Otro Trago (Remix)",
-        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Otro Trago - Remix",
-      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Jangueo",
-      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
         "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
         "name": "No Te Enamores (Remix)",
         "url": "https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk"
       },
@@ -1691,6 +1671,26 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "Loquita",
-        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199551,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
         "name": "Mala Costumbre",
         "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 230728,
       "name": "Mala Costumbre",
       "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
+        "name": "Loquita",
+        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199551,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "Fan de Tus Fotos",
-        "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Fan de Tus Fotos",
-      "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
         "name": "Qu\u00e9 Rico Fuera",
         "url": "https://open.spotify.com/album/2Xk9iyx7nSm6evrOKCAypb"
       },
@@ -1871,6 +1851,26 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
+        "name": "Fan de Tus Fotos",
+        "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Fan de Tus Fotos",
+      "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
         "name": "Cositas de la USA",
         "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
       },
@@ -1883,6 +1883,26 @@
       "duration_ms": 189015,
       "name": "Cositas de la USA",
       "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
+        "name": "Amor en Coma",
+        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1907,26 +1927,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
-        "name": "Amor en Coma",
-        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
     },
     {
       "added_at": "2022-08-02 14:56:20",

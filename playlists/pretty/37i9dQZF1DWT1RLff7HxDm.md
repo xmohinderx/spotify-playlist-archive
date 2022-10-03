@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,679 likes - 60 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,726 likes - 60 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 48 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 |
 | 49 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 |
 | 50 | [Blue On Black \- Live](https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:59 |
-| 51 | [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 |
-| 52 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Liquid Quartet Live](https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X) | 5:20 |
+| 51 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Liquid Quartet Live](https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X) | 5:20 |
+| 52 | [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 |
 | 53 | [Keep Coming Back \- Live](https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 4:35 |
 | 54 | [Red Light \- Live](https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Live at the Ryman](https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1) | 10:15 |
 | 55 | [Night Train \- Live](https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo) | 4:58 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 57 | [Diamonds & Gold \- Live](https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 6:27 |
 | 58 | [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 |
 | 59 | [West L.A\. Fadeaway \- Live](https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [West L.A\. Fadeaway \(Live\)](https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy) | 12:51 |
-| 60 | [Dyin' To Know \- Live](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
+| 60 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDQwMjQ2NTViNTljN2Q0NTQzNDM5YjkwODQ2ZmRkOTE1`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDEyNzY1ZjcwNGM5NzU2YmQzZDM5YWRlNzUzMTVkMmY2`

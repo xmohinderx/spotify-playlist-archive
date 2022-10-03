@@ -1253,7 +1253,7 @@
     {
       "album": {
         "name": "DEAR 27 pt.2",
-        "url": "https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz"
+        "url": "https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D"
       },
       "artists": [
         {
@@ -1264,6 +1264,24 @@
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219289,
+      "name": "By Design",
+      "url": "https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR"
+    },
+    {
+      "album": {
+        "name": "DEAR 27 pt.2",
+        "url": "https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz"
+      },
+      "artists": [
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
       "duration_ms": 219289,
       "name": "By Design",
       "url": "https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx"
@@ -7013,7 +7031,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 195913,
       "name": "Poppis Visa",
       "url": "https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1"
@@ -7973,7 +7991,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 208043,
       "name": "Slutet av dagen",
       "url": "https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z"

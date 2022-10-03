@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,113 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,145 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 36 | [Good Disease](https://open.spotify.com/track/5pA39NQIP1nZgvFxV5Fi7S) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp), [Stephen Jones](https://open.spotify.com/artist/5fBNvRbs68IKW1ExBBX1wR) | [Hinterland](https://open.spotify.com/album/0oNNaNluLVDg34wMPuLdNS) | 4:23 |
 | 37 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
 | 38 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 |
-| 39 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
-| 40 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
+| 39 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
+| 40 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
 | 41 | [Keep You Kimi](https://open.spotify.com/track/3PlISmMU7prdRBG6zLcGfi) | [Hird](https://open.spotify.com/artist/33nGdwPVGbU7cFuIh9OnTu), [Yukimi Nagano](https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf) | [Moving On](https://open.spotify.com/album/6GNseXyli2wXaeg7LMJVat) | 6:28 |
 | 42 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 43 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
 | 44 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 |
 | 45 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
-| 46 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
-| 47 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
-| 48 | [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 |
-| 49 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
+| 46 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
+| 47 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
+| 48 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
+| 49 | [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 |
 | 50 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDJmMWNmYzM2ZTM0ZmFhNTY2ZTQxZDFjNzA4ZmJmMDgy`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDhhMTRlNzQ5Yjk5MWM4N2E5MjYxYWI1NGZiNjRmMjQ4`

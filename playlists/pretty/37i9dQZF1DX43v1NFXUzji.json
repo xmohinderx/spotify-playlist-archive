@@ -1,12 +1,12 @@
 {
   "description": "Latin music to game to! Cover: Bizarrap",
-  "num_followers": 126014,
+  "num_followers": 126042,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMGUwYTM0ZTI3M2Y1YzQxM2E2MTMwMDQ3MjMzNmU5Yzk0",
+  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMDAyNGFkYTJjNjAxMmNhZDliZWUyN2VlYTc1OThhYmVl",
   "tracks": [
     {
       "added_at": "2022-08-17 21:18:51",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Volando (Remix)",
         "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Si Se da Remix",
         "url": "https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6"
       },
@@ -1011,22 +991,22 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1047,6 +1027,26 @@
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 197586,
       "name": "Mi Cuarto",
       "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Borracho",
-        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "TKN (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Borracho",
+        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 219750,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1683,46 +1683,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "El Incomprendido",
-        "url": "https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Dj Adoni",
-          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
-        }
-      ],
-      "duration_ms": 267546,
-      "name": "El Incomprendido",
-      "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -1743,6 +1703,46 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "El Incomprendido",
+        "url": "https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        }
+      ],
+      "duration_ms": 267546,
+      "name": "El Incomprendido",
+      "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Sci-Fi",
-        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 198540,
-      "name": "Sci-Fi",
-      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "The Bad Boy",
         "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 235626,
       "name": "El Telefono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Sci-Fi",
+        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 198540,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
         "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
       },
@@ -2655,18 +2639,18 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/3uXtARdx2F4KKFH5oSePV6"
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
       },
       "artists": [
         {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 184853,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/2f7NUdkIV8pocxNkgh8efv"
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2707,6 +2691,22 @@
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/3uXtARdx2F4KKFH5oSePV6"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/2f7NUdkIV8pocxNkgh8efv"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2991,6 +2991,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Hace Tiempo",
+        "url": "https://open.spotify.com/album/131BerXzsUmshfyUh9o2Xw"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5PSgIaJp6mjIoO5y8kNkrK"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) [Remix]",
         "url": "https://open.spotify.com/album/2V3oEJWhKr8oYA9VwvPCPX"
       },
@@ -3011,26 +3031,6 @@
       "duration_ms": 213785,
       "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) - Remix",
       "url": "https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Hace Tiempo",
-        "url": "https://open.spotify.com/album/131BerXzsUmshfyUh9o2Xw"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5PSgIaJp6mjIoO5y8kNkrK"
     },
     {
       "added_at": "2022-08-17 21:18:51",

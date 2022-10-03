@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Josh Kelly / JK Group Artwork: Joy Yamusangie
 
-795 songs - 2 day 16 hr 13 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+796 songs - 2 day 16 hr 20 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,8 @@
 | [If I Pray](https://open.spotify.com/track/6JOzu3tXKj3zj3Ieuz3qgU) | [GR3G](https://open.spotify.com/artist/074OZlAWHVEVUIpLmRjyjq) | [Wasted Talent](https://open.spotify.com/album/6wth8qkkWxKdmxpXpVs4Oz) | 3:26 | 2022-06-15 | 2022-07-14 |
 | [Ignorance Is Bliss](https://open.spotify.com/track/29sqqaJonijpHV3fiVRITd) | [More Better](https://open.spotify.com/artist/15ZiwjVD5F5t5CIl7Du0nj) | [More Better](https://open.spotify.com/album/3VmaD0gZgIPEJr3o8i2Zqr) | 8:58 | 2022-07-13 | 2022-07-28 |
 | [Igs' Digs](https://open.spotify.com/track/2bFcUd5XOTS2BU3StaAaKe) | [Matt Ali](https://open.spotify.com/artist/3TsU9b4sKDaVjN9D4KgfNy) | [Closing Remarks From Memphis](https://open.spotify.com/album/53iAoZFaRGgTsbCEsO4xzB) | 4:42 | 2022-07-20 | 2022-09-01 |
-| [III](https://open.spotify.com/track/0fcpjI0H07TAKQVLlLkjGh) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [III](https://open.spotify.com/album/6KzAKasRlT3lvYC1CdOavu) | 6:16 | 2022-09-07 |  |
+| [III](https://open.spotify.com/track/0fcpjI0H07TAKQVLlLkjGh) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [III](https://open.spotify.com/album/6KzAKasRlT3lvYC1CdOavu) | 6:16 | 2022-09-07 | 2022-10-03 |
+| [III](https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [Shebang](https://open.spotify.com/album/1khpMdVH3EXz5RWt4WRAbg) | 6:16 | 2022-09-07 |  |
 | [Il Sogno](https://open.spotify.com/track/5mWTu2PBwjreYBmGF05SfH) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Il Sogno](https://open.spotify.com/album/40705PsPBIDaCQ7BsEsOxb) | 3:01 | 2022-04-06 | 2022-05-05 |
 | [Imagine That](https://open.spotify.com/track/4of2R3xAsBXGr5QZxF3bag) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Imagine That](https://open.spotify.com/album/569WNyO5TCXAmsdEGJ8RLx) | 3:19 | 2022-03-23 | 2022-04-27 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-01-26 | 2022-03-17 |

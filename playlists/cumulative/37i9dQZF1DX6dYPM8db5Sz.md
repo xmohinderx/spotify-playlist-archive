@@ -4,7 +4,7 @@
 
 > The freshest South African alternative & folk pop jams\. Cover: <a href="https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=bbifc8nJSWmzUcCUpgADJQ">aboynamedblu</a>
 
-60 songs - 3 hr 26 min - not published yet
+60 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/725N8DiCOBrEyrBxUeYOar)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

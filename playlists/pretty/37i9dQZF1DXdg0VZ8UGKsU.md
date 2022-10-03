@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 
 > All 80s, all ballads\. Cover: Whitney Houston
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,336 likes - 85 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,499 likes - 85 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 73 | [Meet Me Half Way \- From "Over The Top" Soundtrack](https://open.spotify.com/track/5CdX4HXMRxyldTVxXDrzSA) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Back To Avalon](https://open.spotify.com/album/5WtMgGIexFuhipmaqUMi3Z) | 3:39 |
 | 74 | [All at Once](https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:28 |
 | 75 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
-| 76 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
-| 77 | [She's Like the Wind \(feat\. Wendy Fraser\)](https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV) | [Patrick Swayze](https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD), [Wendy Fraser](https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:50 |
+| 76 | [She's Like the Wind \(feat\. Wendy Fraser\)](https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV) | [Patrick Swayze](https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD), [Wendy Fraser](https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:50 |
+| 77 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
 | 78 | [Almost Over You](https://open.spotify.com/track/5mKqa89zAVKXMRY92haT6p) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Best Kept Secret](https://open.spotify.com/album/3H7htkjBX3E1pMkxnJKKq2) | 3:41 |
 | 79 | [Ever Since the World Began](https://open.spotify.com/track/2yx6DUrIIGXSAwrvfBrTKQ) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 3:42 |
 | 80 | [That's What Friends Are For \(with Elton John, Gladys Knight & Stevie Wonder\)](https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Greatest Hits 1979\-1990](https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo) | 4:16 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 84 | [Eternal Flame](https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:55 |
 | 85 | [How Do You Keep The Music Playing](https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [It's Your Night](https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs) | 4:14 |
 
-Snapshot ID: `MTY1NTM1MjE1NCwwMDAwMDAwMDkzMGE2NGE0ODJiZDBhY2EzMzY1N2IyMDk5N2YxZGI1`
+Snapshot ID: `MTY1NTM1MjE1NCwwMDAwMDAwMDlmOWFmOTRmZmY0NzVjMjBlYzY4MTZiYmYwZjQ4MmQ0`

@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Daniel B\u00e9langer",
-  "num_followers": 101742,
+  "num_followers": 101801,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGJhMWNjYTI4ZjBkNTE0OTdkYThlMWY3NDgwODBmNGY4",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDE0MjE5MGQyYWU5M2RkYjdiM2RjZTA0MjBlNTgyYWUz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -92,7 +92,7 @@
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6"
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
       "artists": [
         {
@@ -101,8 +101,8 @@
         }
       ],
       "duration_ms": 162106,
-      "name": "Grow Into Love",
-      "url": "https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M"
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "Tu danses, condessa",
-      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 158117,
       "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
       "url": "https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Tu danses, condessa",
+      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "La nuit est une panth\u00e8re",
-        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
-      },
-      "artists": [
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 177116,
-      "name": "Platane",
-      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 227446,
       "name": "Le triomphe d'une perruche",
       "url": "https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "La nuit est une panth\u00e8re",
+        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 177116,
+      "name": "Platane",
+      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -915,34 +915,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "\u00c0 bient\u00f4t",
-        "url": "https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "\u00c0 bient\u00f4t",
-      "url": "https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U"
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -979,6 +963,42 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "\u00c0 bient\u00f4t",
+        "url": "https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "\u00c0 bient\u00f4t",
+      "url": "https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Sailors",
+        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        },
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "duration_ms": 241462,
+      "name": "Sailors",
+      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "C'est Plus Comme Avant (Version Acoustique)",
         "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
       },
@@ -1011,38 +1031,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Sailors",
-        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
       "artists": [
         {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        },
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 241462,
-      "name": "Sailors",
-      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "New Waves (Live Recordings \u201919-\u201921)",
-        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 430506,
-      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
-      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "There Will Be Stars",
         "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "New Waves (Live Recordings \u201919-\u201921)",
+        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 430506,
+      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
+      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "L\u00e9g\u00e8rement",
-        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 207338,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "M\u00e8res",
         "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 273760,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "L\u00e9g\u00e8rement",
+        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 207338,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1259,22 +1259,6 @@
       "duration_ms": 299560,
       "name": "Qtv",
       "url": "https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Pourchasser l'aube",
-        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
-      },
-      "artists": [
-        {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Mille et un",
-      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Pourchasser l'aube",
+        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Mille et un",
+      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "AVALANCHE (n.f.)",
         "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "1000 Times",
         "url": "https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 237561,
       "name": "1000 Times",
       "url": "https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "SESSION LIVE H2T",
-        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "Beaut\u00e9 baroque - Session live H2T",
-      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Tatouage",
         "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Rien de plus grand",
+        "url": "https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 276586,
+      "name": "Rien de plus grand",
+      "url": "https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Phil\u00e9douche",
         "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Rien de plus grand",
-        "url": "https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a"
+        "name": "SESSION LIVE H2T",
+        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
         }
       ],
-      "duration_ms": 276586,
-      "name": "Rien de plus grand",
-      "url": "https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi"
+      "duration_ms": 211002,
+      "name": "Beaut\u00e9 baroque - Session live H2T",
+      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
     },
     {
       "added_at": "2022-09-30 04:01:00",

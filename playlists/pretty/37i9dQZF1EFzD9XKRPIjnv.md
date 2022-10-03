@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 114 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 114 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 68 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
 | 69 | [courage](https://open.spotify.com/track/72sQjWR565TtF4yIKnoZZe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 3:29 |
 | 70 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
-| 71 | [up to something](https://open.spotify.com/track/0363Rz5nMpTlYWZ4kmjM2L) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
-| 72 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
+| 71 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
+| 72 | [up to something](https://open.spotify.com/track/0363Rz5nMpTlYWZ4kmjM2L) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
 | 73 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 |
 | 74 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 |
 | 75 | [For Her](https://open.spotify.com/track/62qXENYDqMT6CLE6Ri6WHp) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 5:26 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 88 | [Blame \- Tisoki Remix](https://open.spotify.com/track/7cVaF9J51UOzVIKzIdLqNn) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Blame \(Remixes\)](https://open.spotify.com/album/7kFXvC0W4AYlU0nWAKBCvM) | 3:12 |
 | 89 | [Fear Of Water](https://open.spotify.com/track/3NGulWlwuwKJNdLJNe07qR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 2:51 |
 | 90 | [All The Way Up Here \- From “Star" Season 2](https://open.spotify.com/track/3yyIa8JkuWk42RIo6UE2qw) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [All The Way Up Here \(From “Star" Season 2\)](https://open.spotify.com/album/0Y0Nev0MVEdA3ZajH7KjJf) | 2:46 |
-| 91 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
-| 92 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 |
+| 91 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 |
+| 92 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
 | 93 | [Personally](https://open.spotify.com/track/4OnSrRXUfzhD6jkaB9NWYF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/3sG8tSb0NOMsn2nmf8v9KA) | 3:41 |
 | 94 | [Takes Two](https://open.spotify.com/track/1qYasLtXkp2bXcxyGIxb53) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:33 |
 | 95 | [Bleach](https://open.spotify.com/track/6Z0OvGP9U9pSTSJNkNybmf) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:01 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 102 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 |
 | 103 | [Paradigm](https://open.spotify.com/track/3VX9HKHVjgyP0ttPleaRDE) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:24 |
 | 104 | [Together Now](https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 2:56 |
-| 105 | [The Calling](https://open.spotify.com/track/46Fy5SFlRgziwsV98Iupt3) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:48 |
-| 106 | [HAPPY HURTS](https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 4:56 |
+| 105 | [HAPPY HURTS](https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 4:56 |
+| 106 | [The Calling](https://open.spotify.com/track/46Fy5SFlRgziwsV98Iupt3) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:48 |
 | 107 | [Head Away](https://open.spotify.com/track/6Pq3iabH7bmUzsLW3Ql51G) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [HOPE](https://open.spotify.com/album/5xDFzFfY4gWoTVUfc2JoRB) | 3:56 |
 | 108 | [Sentimental](https://open.spotify.com/track/0kcXLQMWQoEP15U58AM0O5) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Sentimental](https://open.spotify.com/album/3sBSLkTmKNxwCmSnycKqKE) | 3:50 |
 | 109 | [Headlights](https://open.spotify.com/track/03RiXjAkoaqNHi5Vknk9aE) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Bangers & Ballads](https://open.spotify.com/album/6CjL7n64C2bnhjPIN9fvgw) | 3:27 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 113 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 114 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc3NDQ1NTIsMDAwMDAwMDAzNGRjMTQ1NDFmOTM4YmQyZjlkZGM5YzMyNzAyNWM4Yw==`
+Snapshot ID: `Mjc3NDU5OTIsMDAwMDAwMDAzMDQ3ODkyZTBkMzgyMjFjYTkyZmU0NDViYjdjNWY0NA==`

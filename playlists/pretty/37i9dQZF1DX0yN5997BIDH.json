@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 366975,
+  "num_followers": 367033,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1MjMwOSwwMDAwMDAwMGZlMTgzYmRlN2RhMTU5ZDk2NjE2Nzc2MTliMzNkZDc5",
+  "snapshot_id": "MTY2NDY1MjMwOSwwMDAwMDAwMGM0ZTMwZTRhYmJiMDk5MjRjNzgzZGUyMDE4MWE0NTdi",
   "tracks": [
     {
       "added_at": "2022-10-01 19:25:09",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
+        "name": "Infinite Dream",
+        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
         "name": "Lychee",
         "url": "https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 203947,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
-        "name": "Infinite Dream",
-        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "Sofia Carson",
-        "url": "https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD"
-      },
-      "artists": [
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        }
-      ],
-      "duration_ms": 141984,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/1AeBzNjTaDmIlTGv2ObhYn"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/4ApVfr2gmTFvwKgJRF6szr"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 183179,
       "name": "Emily",
       "url": "https://open.spotify.com/track/4vYGDBF9aI3Ro8RbMqKLIb"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
+        "name": "Sofia Carson",
+        "url": "https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "duration_ms": 141984,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/1AeBzNjTaDmIlTGv2ObhYn"
     },
     {
       "added_at": "2022-10-01 19:25:09",

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 64609,
+  "num_followers": 64619,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcxMzYwOCwwMDAwMDAwMDEwNWM1MmE5NWEzYTNlMTc2ZWVjN2I4NGExZjgzZGNm",
+  "snapshot_id": "MTY2MjcxMzYwOCwwMDAwMDAwMGMxNWFlMzA0MTkwNzIyNGI2YWIzZGE5ODgwY2ZiNGY2",
   "tracks": [
     {
       "added_at": "2022-09-09 08:53:28",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "What a Time To Be Alive",
         "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 198101,
       "name": "Just You and I - Acoustic",
       "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 217161,
-      "name": "6 months",
-      "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
       "artists": [
         {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         }
       ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+      "duration_ms": 217161,
+      "name": "6 months",
+      "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 215320,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "i loved you first",
         "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 226386,
       "name": "Warwick Avenue",
       "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 203262,
+      "name": "Need You Now - Acoustic",
+      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Love & Hurt",
         "url": "https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t"
       },
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Same Kind Of Different (Acoustic)",
-        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
         }
       ],
-      "duration_ms": 203262,
-      "name": "Need You Now - Acoustic",
-      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+      "duration_ms": 190266,
+      "name": "Back in the Water",
+      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1651,22 +1667,6 @@
       "duration_ms": 194809,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Back in the Water",
-      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "In My Body",
-        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Wildfire - Alternate Version",
-      "url": "https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Nattely",
         "url": "https://open.spotify.com/album/6ZbsGkNQtTQXQ2sEf5BTo7"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 211766,
       "name": "Nattely",
       "url": "https://open.spotify.com/track/2ySo8G1HaHvgqual8p2Nti"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "In My Body",
+        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Wildfire - Alternate Version",
+      "url": "https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1811,6 +1811,22 @@
       "duration_ms": 225400,
       "name": "Lost Sparks",
       "url": "https://open.spotify.com/track/3SxMBVdL2gxhX5V5dXF9jy"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1859,22 +1875,6 @@
       "duration_ms": 219012,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall",
-        "url": "https://open.spotify.com/album/4Wi489dcX4owpM21EcKKz7"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "The Best You Had - Acoustic Version",
-      "url": "https://open.spotify.com/track/3DUuf2LE8BBuWZUFuwFGkf"
     },
     {
       "added_at": "2022-09-09 08:53:28",

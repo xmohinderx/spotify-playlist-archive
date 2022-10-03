@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby:\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,977 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,981 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 40 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 |
 | 41 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 |
 | 42 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 |
-| 43 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 |
-| 44 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
-| 45 | [Copy Paste](https://open.spotify.com/track/4rF5XqE4UUVM1AtYV5wRfw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:01 |
+| 43 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
+| 44 | [Copy Paste](https://open.spotify.com/track/4rF5XqE4UUVM1AtYV5wRfw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:01 |
+| 45 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 |
 | 46 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
 | 47 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 |
 | 48 | [Hasta Que](https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Hasta Que](https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J) | 3:13 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 62 | [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 |
 | 63 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 |
 | 64 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
-| 65 | [LUV](https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [LUV](https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0) | 2:23 |
+| 65 | [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 |
 | 66 | [A No Llorar](https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [A No Llorar](https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB) | 3:52 |
-| 67 | [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 |
+| 67 | [LUV](https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [LUV](https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0) | 2:23 |
 | 68 | [CLEAN BABY](https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [CLEAN BABY](https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F) | 3:04 |
 | 69 | [Arcoíris](https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Arcoíris](https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs) | 3:37 |
 | 70 | [La Sombra](https://open.spotify.com/track/3monG9SQApxiOwivspTANk) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [La Sombra](https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF) | 3:46 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 75 | [I've Seen Better Days](https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I've Seen Better Days](https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL) | 3:04 |
 | 76 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 |
 | 77 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 |
-| 78 | [Pausa](https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Gian Rojas](https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU) | [Pausa](https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93) | 3:52 |
-| 79 | [New Lane](https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Bowling](https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e) | 1:57 |
+| 78 | [New Lane](https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Bowling](https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e) | 1:57 |
+| 79 | [Pausa](https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Gian Rojas](https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU) | [Pausa](https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93) | 3:52 |
 | 80 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 |
 | 81 | [IN MY ROOM!](https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:42 |
 | 82 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Dónde estás](https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:24 |
 | 100 | [Soltera](https://open.spotify.com/track/54eU7KkafnxQUioXKrWCNm) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Soltera](https://open.spotify.com/album/0Y2d8ymerPASyiF6pDKjO1) | 2:58 |
 
-Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMGJhYTMxNmIxMTAyMWE3NDQ4OWM3NjNlZjZlYWI4Yjg5`
+Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMDU5NzM2NDQ0YjFhYTBkYjRjZTIwY2YyNzQzMzAzYmFi`

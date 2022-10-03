@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Jon Pardi",
-  "num_followers": 418785,
+  "num_followers": 418871,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5MTk0MCwwMDAwMDAwMGZjZTY5NWI3ODE5ZGJlMTg2N2RmNTNlODIzYTVlOWFl",
+  "snapshot_id": "MTY2NDQ5MTk0MCwwMDAwMDAwMDQ0ZjIzZmY5NmYyM2Y4NWY1NGY1MzkzODcxMDFjNzYw",
   "tracks": [
     {
       "added_at": "2022-09-22 18:02:19",
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
-      "added_at": "2022-10-02 01:40:51",
+      "added_at": "2022-10-03 01:31:52",
       "album": {
         "name": "Where'd You Learn How To Do That",
         "url": "https://open.spotify.com/album/7v5wPGa49lcZiDyMdJe1zq"
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
         "name": "She Likes It (feat. Jake Scott)",
         "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
+        "name": "GOOD TIME",
+        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "GOOD TIME",
+      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "GOOD TIME",
-      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "The Way It Feels",
-        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Die From A Broken Heart",
-      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 171333,
       "name": "What\u2019s Your Country Song",
       "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
+        "name": "The Way It Feels",
+        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Die From A Broken Heart",
+      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "Lambs & Lions",
-        "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 193929,
       "name": "Slow Dance In A Parking Lot",
       "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
+        "name": "Lambs & Lions",
+        "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
         "name": "Straight Outta The Country",
         "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 178278,
       "name": "Beers And Sunshine",
       "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Tequila Little Time",
-      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
         "name": "Laps Around The Sun",
         "url": "https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 207933,
       "name": "I Don't Know About You",
       "url": "https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Tequila Little Time",
+      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Down To The Honkytonk",
+      "url": "https://open.spotify.com/track/5g0XcG0apQTlO3X8r38vGf"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Down To The Honkytonk",
-      "url": "https://open.spotify.com/track/5g0XcG0apQTlO3X8r38vGf"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "Single Saturday Night",
-        "url": "https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 187683,
-      "name": "Single Saturday Night",
-      "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
         "name": "Tomorrow Me",
         "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 208733,
       "name": "Tomorrow Me",
       "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
+        "name": "Single Saturday Night",
+        "url": "https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 187683,
+      "name": "Single Saturday Night",
+      "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "To Be Loved By You",
-      "url": "https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
         "name": "Weekends Look A Little Different These Days",
         "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 194293,
       "name": "Lady",
       "url": "https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "To Be Loved By You",
+      "url": "https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
+        "name": "Life Rolls On",
+        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Long Live",
+      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 238493,
       "name": "Burning Man",
       "url": "https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
-        "name": "Life Rolls On",
-        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Long Live",
-      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1535,18 +1535,22 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+        "name": "Bettie James",
+        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 217960,
-      "name": "Slow Down Summer",
-      "url": "https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq"
+      "duration_ms": 158240,
+      "name": "Good Times Roll",
+      "url": "https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1575,22 +1579,18 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 158240,
-      "name": "Good Times Roll",
-      "url": "https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR"
+      "duration_ms": 217960,
+      "name": "Slow Down Summer",
+      "url": "https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "Nothing To Do Town",
-        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 160706,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
         "name": "Born Here Live Here Die Here",
         "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 193426,
       "name": "One Margarita",
       "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
+        "name": "Nothing To Do Town",
+        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 160706,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
     },
     {
       "added_at": "2022-09-22 18:02:19",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-09-22 18:02:19",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Same Boat",
-      "url": "https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7"
-    },
-    {
-      "added_at": "2022-09-22 18:02:19",
-      "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
+    },
+    {
+      "added_at": "2022-09-22 18:02:19",
+      "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Same Boat",
+      "url": "https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7"
     },
     {
       "added_at": "2022-09-22 18:02:19",

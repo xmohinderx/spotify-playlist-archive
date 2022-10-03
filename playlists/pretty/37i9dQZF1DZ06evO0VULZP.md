@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,984 likes - 50 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,992 likes - 50 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 49 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
 | 50 | [Van](https://open.spotify.com/track/2SJHPnqYZPBAOFXqqiMUU9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:01 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAzZjc2OWNhM2I5MjRhM2JlNmFjNTdiMmVhZTgwNTVmNw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBmNDgyMzRlZTVhYTZlZmJkNzhiYjc5MjNjZjI2NzYxNA==`

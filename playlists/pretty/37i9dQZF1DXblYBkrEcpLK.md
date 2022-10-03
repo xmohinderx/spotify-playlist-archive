@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,851 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,019 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 24 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 |
 | 25 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
 | 26 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
-| 27 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
-| 28 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 |
+| 27 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 |
+| 28 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
 | 29 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 |
 | 30 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 |
 | 31 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 37 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 |
 | 38 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 |
 | 39 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |
-| 40 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
+| 40 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
 | 41 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
-| 42 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
+| 42 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 | 43 | [ハニージェットコースター](https://open.spotify.com/track/1SFS6Anu0829AMCXKltlNw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [TVアニメ「可愛いだけじゃない式守さん」オープニングテーマ「ハニージェットコースター」](https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy) | 3:33 |
 | 44 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 |
 | 45 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
 | 46 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 |
 | 47 | [Dark seeks light](https://open.spotify.com/track/2ATxQ2yeUw3CAGjjPTundt) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [Dark seeks light / 散文的LIFE](https://open.spotify.com/album/29oTb4lakrol3FVikzP60X) | 3:34 |
 | 48 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
-| 49 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 |
-| 50 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 |
+| 49 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 |
+| 50 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 |
 
-Snapshot ID: `MTY2MzY5NjA5NSwwMDAwMDAwMGVmMWQxOWU1NWFkZDg1YWUyOTlmN2E2NTVlMTFjNjk0`
+Snapshot ID: `MTY2MzY5NjA5NSwwMDAwMDAwMDBmMTNhNjViYTViMWRkZjAwMjc1MzI1MTlmMGU1NTc1`

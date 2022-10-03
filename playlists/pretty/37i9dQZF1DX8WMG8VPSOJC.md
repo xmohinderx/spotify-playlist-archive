@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,241 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,473 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 13 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 |
 | 14 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
 | 15 | [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 |
-| 16 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 |
+| 16 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 17 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/6HknB8gsOZDaPkJbtuSLp5) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/4tlqBwe5F8ch75CtWhoqDp) | 3:25 |
-| 18 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
+| 18 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 |
 | 19 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 |
 | 20 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:29 |
 | 21 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 62 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 |
 | 63 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 |
 | 64 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 |
-| 65 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
-| 66 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
+| 65 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
+| 66 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
 | 67 | [It's Your Love](https://open.spotify.com/track/503sFkc8Y2eyGnM6cu8kHm) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:47 |
 | 68 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 |
 | 69 | [Ocean](https://open.spotify.com/track/5G6Nf4Ytk3dzxnhfP2AhKR) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:30 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 73 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
 | 74 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
 | 75 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 |
-| 76 | [Ran into You](https://open.spotify.com/track/33V8ZNvopdCm8BsEKzGXgM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ran into You](https://open.spotify.com/album/1oSlbBYaKeG0H5VPGTzICl) | 3:33 |
-| 77 | [The Difference](https://open.spotify.com/track/1zQjzfgYp0ZDSsU1dxi5g8) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Two Thousand Miles](https://open.spotify.com/album/1k2268Pzqb4R3WTlLd6qDP) | 3:06 |
-| 78 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 |
-| 79 | [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 |
+| 76 | [The Difference](https://open.spotify.com/track/1zQjzfgYp0ZDSsU1dxi5g8) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Two Thousand Miles](https://open.spotify.com/album/1k2268Pzqb4R3WTlLd6qDP) | 3:06 |
+| 77 | [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 |
+| 78 | [Ran into You](https://open.spotify.com/track/33V8ZNvopdCm8BsEKzGXgM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ran into You](https://open.spotify.com/album/1oSlbBYaKeG0H5VPGTzICl) | 3:33 |
+| 79 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 |
 | 80 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |
 | 81 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
 | 82 | [Born to Love You](https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 84 | [The Rest of Our Life](https://open.spotify.com/track/19P6cJstaoQJHtHW3HOGcg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:45 |
 | 85 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDFiYjExMGE5YWExYTBmM2I4YTVkMjg5MjE5NjY3Mzcw`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDBkNzI4NGIzZDllNmJiMzBlZGIxZjcwNGYzMjA4NmM0`

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1363358,
+  "num_followers": 1363951,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1MjgxMSwwMDAwMDAwMDQ1OTI2NGY2YzM4ODQwMjNhYjU1YjQ2MDQzMjU5ZTQ3",
+  "snapshot_id": "MTY2Mzk1MjgxMSwwMDAwMDAwMGFlYjU0MTkyNTI5MDc2NWY0OWE3MmY5Yzk2MzZhYjdh",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "The New Look",
         "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -483,38 +483,6 @@
       "duration_ms": 233000,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -535,6 +503,38 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 226213,
       "name": "Fantasy - Single Version",
       "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "The 35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "I Second That Emotion",
-      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "The 35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "I Second That Emotion",
+      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "All Night Long - Single Version",
-      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Curtis (Expanded Edition)",
         "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1035,6 +1019,22 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
         "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 247133,
       "name": "Stomp! - Single Version",
       "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+        "name": "The First Edition",
+        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
       },
       "artists": [
         {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+          "name": "The First Edition",
+          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
         }
       ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
+      "duration_ms": 201213,
+      "name": "Just Dropped In (To See What Condition My Condition Was In)",
+      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
     }
   ],
   "unique_name": "Funk & Soul Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 725 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 22 | [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 |
 | 23 | [Let's Be Still](https://open.spotify.com/track/3QmzlL0tTtDgD1Hwfct68D) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:28 |
 | 24 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 |
-| 25 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 |
-| 26 | [Flavor](https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Flavor](https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy) | 2:32 |
+| 25 | [Flavor](https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Flavor](https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy) | 2:32 |
+| 26 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 |
 | 27 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 |
 | 28 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 |
 | 29 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 |
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 42 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
 | 43 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 |
 | 44 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 |
-| 45 | [Silent](https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Silent](https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf) | 2:13 |
-| 46 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 |
+| 45 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 |
+| 46 | [Silent](https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Silent](https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf) | 2:13 |
 | 47 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
 | 48 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 |
 | 49 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
-| 50 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
-| 51 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 |
+| 50 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 |
+| 51 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 52 | [Pragmatique](https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Pragmatique](https://open.spotify.com/album/4Ex97kKG6Boz9EYF6hivhc) | 2:00 |
 | 53 | [The Grass](https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv) | [Brandon Cason](https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt) | [The Grass](https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX) | 2:37 |
 | 54 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 |
 | 55 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
 | 56 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 |
-| 57 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 |
-| 58 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
-| 59 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 |
+| 57 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
+| 58 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 |
+| 59 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 |
 | 60 | [Story Time](https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Story Time](https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl) | 2:09 |
 | 61 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |
 | 62 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 74 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 |
 | 75 | [On a Clear Day](https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 1:59 |
 
-Snapshot ID: `MTY2NDE3Mjg1NywwMDAwMDAwMGNlMTBiOWM0NWQ3ZGYxN2M4MWZlNmIwOWY5ODE1YjUw`
+Snapshot ID: `MTY2NDE3Mjg1NywwMDAwMDAwMDEwZTg4ZWMyMWY4YzQwNGY5MjBiNDdkMGU5MzE5NmMy`

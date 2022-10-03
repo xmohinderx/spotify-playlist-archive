@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,311 likes - 46 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,465 likes - 46 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 18 | [Full Circle](https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:22 |
 | 19 | [House of the Rising Sun](https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 4:07 |
 | 20 | [Remember Everything](https://open.spotify.com/track/02W7gkxX3cgmddUQeUMwJe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 4:38 |
-| 21 | [Thanks For Asking](https://open.spotify.com/track/1pZwsIB2ogBnbjydoIHQnL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:18 |
+| 21 | [AfterLife](https://open.spotify.com/track/40gGeC397vLmz4eETZDSrG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:03 |
 | 22 | [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 |
 | 23 | [Brighter Side of Grey](https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:29 |
 | 24 | [Coming Down](https://open.spotify.com/track/3OrTQrydMdfQeQJtPXBNSx) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 4:01 |
-| 25 | [AfterLife](https://open.spotify.com/track/40gGeC397vLmz4eETZDSrG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:03 |
+| 25 | [Thanks For Asking](https://open.spotify.com/track/1pZwsIB2ogBnbjydoIHQnL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:18 |
 | 26 | [The Bleeding](https://open.spotify.com/track/4l4ytfBCPSovTX8CB5li3m) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB) | 4:28 |
 | 27 | [Cradle to the Grave](https://open.spotify.com/track/4bpI7WOnEjXDAnZtyvaX5A) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 3:18 |
 | 28 | [The Pride](https://open.spotify.com/track/325DnWQMb1hU1EEfmOFGiF) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:23 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 45 | [Dot Your Eyes](https://open.spotify.com/track/6rPwXyxKZPiGhkcX5lwhps) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 3:15 |
 | 46 | [War Is the Answer](https://open.spotify.com/track/53GK1KimbnONpkyckcWkiD) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:18 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAwZmFlY2FmMjQ0ZDU1NTVjMGIxNTM1YjRhYTY5ZmFhZQ==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDAxMTBhYWM4MzVmNTJmMmUzMTIzYjgxMDJkZmNjM2ZmMg==`

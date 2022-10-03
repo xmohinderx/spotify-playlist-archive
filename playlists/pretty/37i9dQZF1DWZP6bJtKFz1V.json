@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: The Backseat Lovers",
-  "num_followers": 81482,
+  "num_followers": 81501,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDQ2ZmM5MWU4MTQ2NjE0NWY3NWU5OGM4NDhjODA0ZjM0",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGFkODEzYzQ4YTg2MDJkZjcwYTBkODk4M2EwNjNkODM2",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Asphalt Meadows",
+        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Here to Forever",
+      "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "Want Want",
         "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Asphalt Meadows",
-        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 226320,
-      "name": "Here to Forever",
-      "url": "https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq"
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -823,22 +839,6 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "3 outfits",
-        "url": "https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "3 outfits",
-      "url": "https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "CHAMPAGNE",
         "url": "https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 180637,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "3 outfits",
+        "url": "https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "3 outfits",
+      "url": "https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Fruity",
-        "url": "https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Fruity",
-      "url": "https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Better Now (feat. MARO)",
         "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 194110,
       "name": "Better Now (feat. MARO)",
       "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Fruity",
+        "url": "https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Fruity",
+      "url": "https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "100sadsongs",
-        "url": "https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 176830,
-      "name": "100sadsongs",
-      "url": "https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Let U Go",
         "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 168253,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "100sadsongs",
+        "url": "https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 176830,
+      "name": "100sadsongs",
+      "url": "https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 146053,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "pretty kids",
         "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
       },
@@ -1275,38 +1291,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Lost Honor",
-        "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Lost Honor",
-      "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 146053,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Tightrope",
         "url": "https://open.spotify.com/album/6tUJXb2qxc4VBSmPeQYXrp"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 140954,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Lost Honor",
+        "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Lost Honor",
+      "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Bumblebee",
-        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "We're Not In Orbit Yet\u2026",
         "url": "https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "The Rodeo",
+        "url": "https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "The Rodeo",
+      "url": "https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1415,22 +1431,6 @@
       "duration_ms": 154280,
       "name": "High School",
       "url": "https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "The Rodeo",
-        "url": "https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 184253,
-      "name": "The Rodeo",
-      "url": "https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "dear amelia",
-        "url": "https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 173444,
-      "name": "hate the way you love me",
-      "url": "https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 197200,
       "name": "Memory",
       "url": "https://open.spotify.com/track/21kvruyJddCLQguDk9oklX"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "dear amelia",
+        "url": "https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "duration_ms": 173444,
+      "name": "hate the way you love me",
+      "url": "https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "landline",
-        "url": "https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op"
-      },
-      "artists": [
-        {
-          "name": "Arlie",
-          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "landline",
-      "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "landline",
+        "url": "https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op"
+      },
+      "artists": [
+        {
+          "name": "Arlie",
+          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "landline",
+      "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Beautiful World - Echo in the Dark, Pt. II",
         "url": "https://open.spotify.com/album/1hyrW80YTGDz5fWS5kXzuH"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 183586,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/2dPhaqqNSBsmlxVknA2M6F"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     }
   ],
   "unique_name": "Et Alt",

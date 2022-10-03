@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,000 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,024 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 5 | [Seven](https://open.spotify.com/track/6nz7H9YLI6TYGo3riLJBaR) | [Alberto Rigoni](https://open.spotify.com/artist/5YPN5P1LS2tcQZAPEpo0ZM), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR), [Bryan Beller](https://open.spotify.com/artist/2LPwVhvrjOXEvgfLOpHJQ1) | [Grains of Sand](https://open.spotify.com/album/0xSWVE4Rtvo9Se1UanwNLz) | 4:19 |
 | 6 | [Lymaks](https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Batch](https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo) | 6:14 |
 | 7 | [Apocahop](https://open.spotify.com/track/6ZmEv6dHADpoHDFSxIZSzh) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Improvisations Vol II](https://open.spotify.com/album/3zrF1KzyXfuh29rEEl8z5H) | 2:51 |
-| 8 | [Flight of the Murder Hornet](https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Carlos Homs](https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx), [Lenny "The Ox" Reece](https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk) | [Flight of the Murder Hornet](https://open.spotify.com/album/21M84J17hsuB505XLw2w9W) | 3:53 |
-| 9 | [Spanish Eddie](https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [You Know What...?](https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw) | 6:56 |
+| 8 | [Spanish Eddie](https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [You Know What...?](https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw) | 6:56 |
+| 9 | [Flight of the Murder Hornet](https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Carlos Homs](https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx), [Lenny "The Ox" Reece](https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk) | [Flight of the Murder Hornet](https://open.spotify.com/album/21M84J17hsuB505XLw2w9W) | 3:53 |
 | 10 | [The Knew Untitled](https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 4:27 |
 | 11 | [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 6:13 |
 | 12 | [Apostrophe'](https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 5:49 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 17 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 |
 | 18 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 |
 | 19 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
-| 20 | [Fear Not](https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS) | [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK), [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm) | [Fear Not](https://open.spotify.com/album/5cmOcVOWS6fJBI9jMirRlL) | 7:55 |
-| 21 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
+| 20 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
+| 21 | [Fear Not](https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS) | [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK), [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm) | [Fear Not](https://open.spotify.com/album/5cmOcVOWS6fJBI9jMirRlL) | 7:55 |
 | 22 | [Blast Off](https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy) | [Trioscapes](https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs) | [Separate Realities](https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT) | 5:28 |
 | 23 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
 | 24 | [STARGAZER](https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Kevin J Dill](https://open.spotify.com/artist/3HVu17IKkNAlPW7T0OBri9), [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [STARGAZER](https://open.spotify.com/album/2SqQFcZC7UiOAo92C41sLU) | 4:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 47 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 |
 | 48 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
 | 49 | [Truck Fump](https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 5:05 |
-| 50 | [Scorpion](https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ) | [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Scorpion](https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv) | 3:38 |
+| 50 | [Hazard Profile, Pt\. 5 \- 2022 Remaster](https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 5:23 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDczMzRiNDU1YTI1OGQ3ZjlmNmQ1ODFhY2NjZjE3OGVk`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDQ1ZWI3NTJkODJhYjlhNzlmMzQ2NjMzNTBmZGY0ODUz`

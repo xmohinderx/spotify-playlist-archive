@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1?si=A4P7484bQF2d7VsJ551kRw\" > Vector </a> ",
-  "num_followers": 10657,
+  "num_followers": 10681,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxOTcxOCwwMDAwMDAwMDU5OTFmNzkwNjg3MDUwYWI5MGQxZjcxOTU0N2Q4YWYz",
+  "snapshot_id": "MTY2NDUxOTcxOCwwMDAwMDAwMGJiNzU1YmMzNzgxNTkwODU4OWVlNDQ0MzA4MWRkM2Ji",
   "tracks": [
     {
       "added_at": "2022-08-18 23:00:00",
@@ -573,6 +573,26 @@
       "url": "https://open.spotify.com/track/6qFHXH6EmEjL5t56fDNN73"
     },
     {
+      "added_at": "2022-09-30 06:35:17",
+      "album": {
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 221399,
+      "name": "Live Life",
+      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "SKI",
@@ -607,26 +627,6 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
-    },
-    {
-      "added_at": "2022-09-30 06:35:17",
-      "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 221399,
-      "name": "Live Life",
-      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -695,34 +695,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Who U",
         "url": "https://open.spotify.com/album/63jO4I3MPDuq0wp6UvvACu"
       },
@@ -757,22 +729,6 @@
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Holy Gee",
-        "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Holy Gee",
-      "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Bando Diaries",
@@ -791,6 +747,74 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "Holy Gee",
+        "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Holy Gee",
+      "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
+    },
+    {
+      "added_at": "2022-09-30 06:35:17",
+      "album": {
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Bad Design",
+      "url": "https://open.spotify.com/track/77d2unihXnydqo5vWeFGEo"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -831,6 +855,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Cram",
+        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 174658,
+      "name": "Cram",
+      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5"
       },
@@ -847,22 +887,6 @@
       "duration_ms": 135889,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Cram",
-        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 174658,
-      "name": "Cram",
-      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -887,30 +911,6 @@
       "duration_ms": 209264,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/3vWfYFzMoHkioV6sx35n6L"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Clone Wars Vol. 5 - The Algorhythm",
-        "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Mojo",
-          "url": "https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF"
-        }
-      ],
-      "duration_ms": 238857,
-      "name": "Tycoon",
-      "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -961,6 +961,74 @@
       "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
     },
     {
+      "added_at": "2022-09-30 06:35:17",
+      "album": {
+        "name": "prayers",
+        "url": "https://open.spotify.com/album/3h22MOBNM1xtCMIjt5y6Lw"
+      },
+      "artists": [
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        },
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Arif Erdem Ocak",
+          "url": "https://open.spotify.com/artist/74rfDl79T309YeNaQNrrb4"
+        },
+        {
+          "name": "K\u00e1llay Saunders",
+          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "prayers",
+      "url": "https://open.spotify.com/track/24nu4KX3BBhBV8vAXtIUnT"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Clone Wars Vol. 5 - The Algorhythm",
+        "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "Mojo",
+          "url": "https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF"
+        }
+      ],
+      "duration_ms": 238857,
+      "name": "Tycoon",
+      "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Suliya",
@@ -975,30 +1043,6 @@
       "duration_ms": 131500,
       "name": "Suliya",
       "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
-    },
-    {
-      "added_at": "2022-09-30 06:35:17",
-      "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
-        },
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Bad Design",
-      "url": "https://open.spotify.com/track/77d2unihXnydqo5vWeFGEo"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1021,20 +1065,20 @@
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-08-09 11:58:11",
       "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+        "name": "Choosey",
+        "url": "https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq"
       },
       "artists": [
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "SixSaidIt",
+          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+      "duration_ms": 186920,
+      "name": "Choosey",
+      "url": "https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR"
     },
     {
       "added_at": "2022-06-20 11:35:16",
@@ -1051,22 +1095,6 @@
       "duration_ms": 179965,
       "name": "Back To Basics",
       "url": "https://open.spotify.com/track/4CYZ8PB4YzsidixvytgdMa"
-    },
-    {
-      "added_at": "2022-08-09 11:58:11",
-      "album": {
-        "name": "Choosey",
-        "url": "https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq"
-      },
-      "artists": [
-        {
-          "name": "SixSaidIt",
-          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Choosey",
-      "url": "https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1165,32 +1193,20 @@
       "url": "https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz"
     },
     {
-      "added_at": "2022-09-30 06:35:17",
+      "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "prayers",
-        "url": "https://open.spotify.com/album/3h22MOBNM1xtCMIjt5y6Lw"
+        "name": "Guns&Roses (QuestionYaHeart)",
+        "url": "https://open.spotify.com/album/1Peac33r475KxGeggGxKvP"
       },
       "artists": [
         {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
-        },
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Arif Erdem Ocak",
-          "url": "https://open.spotify.com/artist/74rfDl79T309YeNaQNrrb4"
-        },
-        {
-          "name": "K\u00e1llay Saunders",
-          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
         }
       ],
-      "duration_ms": 169756,
-      "name": "prayers",
-      "url": "https://open.spotify.com/track/24nu4KX3BBhBV8vAXtIUnT"
+      "duration_ms": 150666,
+      "name": "Guns&Roses (QuestionYaHeart)",
+      "url": "https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 165000,
       "name": "Okwaraji",
       "url": "https://open.spotify.com/track/4ghRDR6c8VNISdVTCQ5FK4"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Guns&Roses (QuestionYaHeart)",
-        "url": "https://open.spotify.com/album/1Peac33r475KxGeggGxKvP"
-      },
-      "artists": [
-        {
-          "name": "Ay\u00fc\u00fc",
-          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Guns&Roses (QuestionYaHeart)",
-      "url": "https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj"
     },
     {
       "added_at": "2022-06-09 23:00:00",

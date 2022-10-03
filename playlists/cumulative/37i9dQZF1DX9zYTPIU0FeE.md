@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui\-WWOzA">The Brother Moves On</a>
 
-81 songs - 8 hr 38 min - not published yet
+81 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

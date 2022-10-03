@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > Your favourite indie tracks in one place\.  Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,533 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,537 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 16 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 |
 | 17 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 |
 | 18 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 |
-| 19 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
-| 20 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
+| 19 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
+| 20 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
 | 21 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 |
 | 22 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 |
 | 23 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 81 | [Love Proceeding](https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:25 |
 | 82 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
 | 83 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 |
-| 84 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG) | 4:33 |
-| 85 | [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 |
-| 86 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 |
+| 84 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
+| 85 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG) | 4:33 |
+| 86 | [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 |
 | 87 | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/track/20wMPnqHdNdBWaKRaMM7fD) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/album/3dkB97Zw0sisRWTn0Wokjg) | 3:23 |
 | 88 | [Note To Self \(feat\. Empress Of\)](https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:17 |
 | 89 | [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 |
 | 100 | [Cocoa Beach](https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage to Mars](https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP) | 3:58 |
 
-Snapshot ID: `MTY2NDEzMTg5MCwwMDAwMDAwMGQ5ZWRjNDhjNTBkZmY3MzYyOTEzMzQzY2FlODVmZWMw`
+Snapshot ID: `MTY2NDEzMTg5MCwwMDAwMDAwMDZlMTgxNDhhZjRlZTBhMWRhN2E3OWQxNTQxODc0MTBj`

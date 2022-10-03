@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,460 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,461 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 26 | [El Cotorro Enamorado \- Banda Sinaloense](https://open.spotify.com/track/1uILZKZfISEwXkysM6HXSR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [25 Aniversario Grandes Exitos](https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan) | 2:58 |
 | 27 | [El Pescuezo del Pollo](https://open.spotify.com/track/5JjQCDBEc9XHfTrjR1rAOO) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:26 |
 | 28 | [Debajo de los Laureles \- Estilo Tierra Caliente](https://open.spotify.com/track/4x8nrA5hk5pGzaNKFx7dJq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 2:17 |
-| 29 | [El Soltero](https://open.spotify.com/track/0nlIQu9TT46KA47Z4eEQv0) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:52 |
-| 30 | [El Herradero](https://open.spotify.com/track/7msq2GlVEvc8TgnOdI0RGo) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:56 |
+| 29 | [El Herradero](https://open.spotify.com/track/7msq2GlVEvc8TgnOdI0RGo) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:56 |
+| 30 | [El Soltero](https://open.spotify.com/track/0nlIQu9TT46KA47Z4eEQv0) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:52 |
 | 31 | [Camino de Guanajuato Ay Jalisco](https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:27 |
 | 32 | [El Toro Zacatecano \- Banda Sinaloense](https://open.spotify.com/track/5sV57YmR6NT8VvJm2vGvjg) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [25 Aniversario Grandes Exitos](https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan) | 2:27 |
 | 33 | [Gema](https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:20 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 46 | [Ritmo Sabroson](https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:36 |
 | 47 | [Ando Buscando un Amor](https://open.spotify.com/track/0ksbIDHroMobXN8Z0IiZ3I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 2:08 |
 | 48 | [Ahora Puedo Mirar Claro](https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 3:16 |
-| 49 | [Bailala Baila](https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:20 |
-| 50 | [La Calandria \- Estilo Tierra Caliente](https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:48 |
+| 49 | [La Calandria \- Estilo Tierra Caliente](https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:48 |
+| 50 | [Bailala Baila](https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:20 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDA3ZjczMDQ2NDE2MzYxZDNlMmFmYmQ0Y2JmNTYzNDJmMw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBjOWJjMDdjMTVhODA5YTNkN2U5YzljYTkwOGQzNGJiYw==`

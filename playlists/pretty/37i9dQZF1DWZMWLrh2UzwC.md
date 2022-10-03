@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,426 likes - 81 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,438 likes - 81 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 67 | [Dying to Live](https://open.spotify.com/track/6EEJazhtm4nChOc9LfkLKj) | [Yaung](https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12) | [Dying to Live](https://open.spotify.com/album/3G84izcEPwnDWQqv25MjCg) | 4:41 |
 | 68 | [Lifeline](https://open.spotify.com/track/79r75xcWwyfyk97owFATbL) | [Lydia Ang](https://open.spotify.com/artist/5Nw85CjmjyTDC5IJ5pFaZz) | [Days Like These](https://open.spotify.com/album/5T47RxmA2Kame2JAPogxxG) | 4:13 |
 | 69 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 |
-| 70 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 |
+| 70 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 |
 | 71 | [That's My Baby](https://open.spotify.com/track/0YmhNztwrZtE8Z9dBEhsVy) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [That's My Baby](https://open.spotify.com/album/7sG9uqgduI2WH84fSr5fek) | 2:18 |
 | 72 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 73 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 |
-| 74 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
+| 74 | [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 |
 | 75 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 |
 | 76 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 |
 | 77 | [Haze](https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze](https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk) | 3:32 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 80 | [Pray For Pity](https://open.spotify.com/track/2jjZaXP3x47teANF3fsgEN) | [Mango Street Papa 芒果街老爸](https://open.spotify.com/artist/7L3ELK3RL1ghTrhVo3dwS0) | [Pray For Pity](https://open.spotify.com/album/4kBZOf6JhMoy3AyD86hUJU) | 3:40 |
 | 81 | [I Love You, No Matter](https://open.spotify.com/track/46SEEzVoaWlUOSFGe9zyT7) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [STARK](https://open.spotify.com/album/5mHGrgVX70GhEt9AZDK15L) | 4:35 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDBhMTI5NDc1OTY4ZGU0MDkzNTI1OWEzNTBhODcwOGU2`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMGVkNzYxNzUxZjlkYTkzNmE3M2JmYWUwNzQ4N2NlNmIw`

@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 1002703,
+  "num_followers": 1002812,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGU0MWQyMThjOGY5YWFlOGVmMjllNmM2YjVjMjA5ZDk5",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGU3Y2Q3YjQ2NzM3ZmY1YTVhMzdhYjdmNWI4ZWI1ODZk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 224178,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 246306,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Life Is Yours",
+        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 224178,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Uncanny Valley",
-        "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Dirty Heads",
         "url": "https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 225394,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Vacation (feat. Train)",
         "url": "https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 212937,
       "name": "Vacation (feat. Train)",
       "url": "https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Slum Beach Denny",
-        "url": "https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix"
-      },
-      "artists": [
-        {
-          "name": "DENM",
-          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
-        }
-      ],
-      "duration_ms": 240728,
-      "name": "Life's 2 Short",
-      "url": "https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Live It Up",
         "url": "https://open.spotify.com/album/6fTrc7CxLHco921W4qT3u2"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 188416,
       "name": "Crazy Mad Beautiful",
       "url": "https://open.spotify.com/track/7aZkSXM4C6XBspwHaLSvaJ"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Slum Beach Denny",
+        "url": "https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix"
+      },
+      "artists": [
+        {
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
+        }
+      ],
+      "duration_ms": 240728,
+      "name": "Life's 2 Short",
+      "url": "https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Under My Influence",
-        "url": "https://open.spotify.com/album/0KPgrwFMQKpRaBcmeLg1Rw"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 214339,
-      "name": "801",
-      "url": "https://open.spotify.com/track/18uxxfbEuef5zO7KBaKfjV"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Guitar Beat",
         "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Chlorine (Alternative Mix)",
-        "url": "https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O"
+        "name": "Under My Influence",
+        "url": "https://open.spotify.com/album/0KPgrwFMQKpRaBcmeLg1Rw"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
         }
       ],
-      "duration_ms": 191140,
-      "name": "Chlorine - Alternative Mix",
-      "url": "https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN"
+      "duration_ms": 214339,
+      "name": "801",
+      "url": "https://open.spotify.com/track/18uxxfbEuef5zO7KBaKfjV"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1615,6 +1599,22 @@
       "duration_ms": 188257,
       "name": "Tell Me Tell Me",
       "url": "https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Chlorine (Alternative Mix)",
+        "url": "https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 191140,
+      "name": "Chlorine - Alternative Mix",
+      "url": "https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN"
     },
     {
       "added_at": "2022-07-29 04:02:00",

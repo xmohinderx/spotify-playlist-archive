@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,652 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,727 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 28 | [The Great American Nightmare](https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Howard Stern](https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:54 |
 | 29 | [Stuck In The Mud \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/51Ud7nqBTZncq5ev73ReBL) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 1:16 |
 | 30 | [The Serenity of Witches](https://open.spotify.com/track/005PWRWcYm5FQ8z2hmIWxF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 0:56 |
-| 31 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 |
-| 32 | [Werewolf, Baby!](https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:59 |
+| 31 | [Werewolf, Baby!](https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:59 |
+| 32 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 |
 | 33 | [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 |
 | 34 | [The Ballad of Sleazy Rider](https://open.spotify.com/track/2wY5AD0JnaANlabZbx2CFF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:03 |
 | 35 | [Blitzkrieg Bop](https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [The Devil's Rejects](https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:54 |
 | 50 | [Thunder Kiss '65 \- JDevil Number Of The Beast Remix](https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Mondo Sex Head](https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV) | 3:49 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAyYTQxOWRkOTAzZjEyZTk3YTA5OTVlYmY3NzI0NWM5Yg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAwNmE0OGIyMDVjMjUxY2VkMzVjMzBkYzhkYzE5YTVmYg==`

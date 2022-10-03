@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Dos Carnales en portada.",
-  "num_followers": 318755,
+  "num_followers": 319302,
   "original_name": "Norte\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDM5NTg1YTZjMjhjZDg0ZDZkMWUyZjQ2Y2Q3ZTNiMzY1",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGY5ZmYxMGVlMmQ2Y2MyYzA0YmFhNDk1YTZiY2Q4NzAy",
   "tracks": [
     {
       "added_at": "2022-08-29 18:05:53",
@@ -503,22 +503,18 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "M\u00e1s Muerto Que Vivo",
-        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
         }
       ],
-      "duration_ms": 213221,
-      "name": "M\u00e1s Muerto Que Vivo",
-      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -539,18 +535,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+        "name": "M\u00e1s Muerto Que Vivo",
+        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+      "duration_ms": 213221,
+      "name": "M\u00e1s Muerto Que Vivo",
+      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+      "duration_ms": 203794,
+      "name": "La Pregunta del Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Gato de Madrugada",
-        "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Gato de Madrugada",
-      "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 203794,
-      "name": "La Pregunta del Mill\u00f3n",
-      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "No Me Hablen de Amor",
         "url": "https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 189665,
       "name": "No Me Hablen de Amor",
       "url": "https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Gato de Madrugada",
+        "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Gato de Madrugada",
+      "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1231,6 +1231,26 @@
       "duration_ms": 194655,
       "name": "Cada Vez Mas",
       "url": "https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Ya Me Entere (En Vivo)",
+        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Ya Me Entere - En Vivo",
+      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1297,26 +1317,6 @@
       "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
     },
     {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Ya Me Entere (En Vivo)",
-        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Ya Me Entere - En Vivo",
-      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
-    },
-    {
       "added_at": "2022-08-29 18:05:53",
       "album": {
         "name": "Siempre Estoy Pa\u00b4Ti",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/0pDdSWpGQR3kHsKFU9BPvo"
     },
     {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "24 Siete (Studio)",
-        "url": "https://open.spotify.com/album/1rV6nUqCq85wuP9x5OJtfk"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "24 Siete - Studio",
-      "url": "https://open.spotify.com/track/2Tyf0QV9468mwVR70FIBHR"
-    },
-    {
       "added_at": "2022-08-29 18:05:53",
       "album": {
         "name": "EL INFIERNO",
@@ -1403,6 +1387,22 @@
       "duration_ms": 217066,
       "name": "EL INFIERNO",
       "url": "https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "24 Siete (Studio)",
+        "url": "https://open.spotify.com/album/1rV6nUqCq85wuP9x5OJtfk"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "24 Siete - Studio",
+      "url": "https://open.spotify.com/track/2Tyf0QV9468mwVR70FIBHR"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 238779,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "La Miche",
         "url": "https://open.spotify.com/album/5VAP6Y5ff8BBPflsMV77fS"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 249624,
       "name": "La Miche",
       "url": "https://open.spotify.com/track/5qyaHfrDEredbekaDs3PZk"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 238779,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "El Predilecto",
+        "url": "https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy"
+      },
+      "artists": [
+        {
+          "name": "El Predilecto",
+          "url": "https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr"
+        }
+      ],
+      "duration_ms": 186780,
+      "name": "Agarra La Onda",
+      "url": "https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "Por Ella Tomo",
         "url": "https://open.spotify.com/album/0a5Wnsr4Z7LHcqzONGR1XY"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 185987,
       "name": "Por Ella Tomo",
       "url": "https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "El Predilecto",
-        "url": "https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy"
-      },
-      "artists": [
-        {
-          "name": "El Predilecto",
-          "url": "https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr"
-        }
-      ],
-      "duration_ms": 186780,
-      "name": "Agarra La Onda",
-      "url": "https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD"
     },
     {
       "added_at": "2022-08-29 18:05:53",

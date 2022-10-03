@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483 likes - 172 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485 likes - 172 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 91 | [Believed](https://open.spotify.com/track/6gEC3iDuOlcHatGCCcvpO6) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:49 |
 | 92 | [Button \(feat\. Anuel AA & Tainy\)](https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:44 |
 | 93 | [Peace](https://open.spotify.com/track/20JGGCzwmvA9t1vs9HYkxE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Peace](https://open.spotify.com/album/6zM5YxPEEgJTDKzqEBUcWa) | 2:57 |
-| 94 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 |
-| 95 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 |
+| 94 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 |
+| 95 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 |
 | 96 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/2Z2u68PwXoDvaLLrv7EkFQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:07 |
 | 97 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
 | 98 | [Rule The World](https://open.spotify.com/track/44sjRqAOKmsUkUiVdAjUWA) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Most Wanted: The Greatest Hits \(Deluxe\)](https://open.spotify.com/album/7JrRph3NlBQciLSN1WBRfQ) | 3:18 |
@@ -150,16 +150,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 140 | [dark times](https://open.spotify.com/track/67dauMD2RclztbZPgMDBKk) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:06 |
 | 141 | [12 Steps](https://open.spotify.com/track/4ekceoPLIy8EEMKBnjn1S8) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [12 Steps](https://open.spotify.com/album/2yZRspUdm5jezVoUwYkZY8) | 2:41 |
 | 142 | [chasing you](https://open.spotify.com/track/1b9FE0PI47eaWSPrfBW66I) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:02 |
-| 143 | [Up With It](https://open.spotify.com/track/2oPS0YX8XtxtPy3VRgkP1t) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:29 |
-| 144 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
+| 143 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
+| 144 | [Up With It](https://open.spotify.com/track/2oPS0YX8XtxtPy3VRgkP1t) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:29 |
 | 145 | [come back](https://open.spotify.com/track/1QwRhyt1sjYJXAWzFCBjuE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:36 |
 | 146 | [Hopeful](https://open.spotify.com/track/5NYoDiS8tn1pJgZ7z6r6vE) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hopeful](https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM) | 3:18 |
 | 147 | [You Don't Know Me \- Sidekick Remix](https://open.spotify.com/track/2ccYBt0ueoDgsechbxOxAp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Sidekick](https://open.spotify.com/artist/1t3FcaCHl6XU3kkZbF1L3R) | [TREAT MYSELF \(Remixes\)](https://open.spotify.com/album/3rVTt0GeBwr0JRLTxzX1no) | 3:24 |
 | 148 | [Nowhere Left To Go](https://open.spotify.com/track/4PDrhc6Uj2wxn7NDGpe2cM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:24 |
 | 149 | [Numb](https://open.spotify.com/track/5XMVWBm8ZILBhrWqCxQQ7R) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Numb](https://open.spotify.com/album/2Rdk4H50uZaiQUp3I1IZUB) | 2:46 |
 | 150 | [No Love Songs](https://open.spotify.com/track/0OI0XaMptcfdrGBWhZCTvW) | [Jess Kent](https://open.spotify.com/artist/6UAI6cR7qAewlSTWkRc7wI), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bass Bumps](https://open.spotify.com/album/1lcaaSjyiCsPf0ZPzWXCY9) | 3:08 |
-| 151 | [I Don't Think About You \- Luca Schreiner Remix](https://open.spotify.com/track/3XqZHsDUiOBGcbxSFJXemf) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [I Don't Think About You \(Remixes\)](https://open.spotify.com/album/2JMPMwjqeshIByUOk4KXDW) | 3:44 |
-| 152 | [Conversations](https://open.spotify.com/track/3MvTNChVxHQyUBnHfKc9Yg) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:04 |
+| 151 | [Conversations](https://open.spotify.com/track/3MvTNChVxHQyUBnHfKc9Yg) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:04 |
+| 152 | [I Don't Think About You \- Luca Schreiner Remix](https://open.spotify.com/track/3XqZHsDUiOBGcbxSFJXemf) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [I Don't Think About You \(Remixes\)](https://open.spotify.com/album/2JMPMwjqeshIByUOk4KXDW) | 3:44 |
 | 153 | [Break](https://open.spotify.com/track/3OGMwLZ5ZbPTgTZT22XjTd) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Break](https://open.spotify.com/album/3Sh8YKaGZ4tAYfBahniCaC) | 2:51 |
 | 154 | [Lost at Sea](https://open.spotify.com/track/68BsUOVteRYSFRQK830ciG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 3:07 |
 | 155 | [Mother](https://open.spotify.com/track/0breJW7kUS0qXn4tn2w7as) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:57 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 171 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 | 172 | [Wild Dreams](https://open.spotify.com/track/5aRR8YJ6Q7Y7DhurrzgbDY) | [Jay John](https://open.spotify.com/artist/0J1W4llL0TJLG48XsJUSgC) | [Understand Me](https://open.spotify.com/album/0uvBj08KCEjIcXP9aHuDWN) | 3:25 |
 
-Snapshot ID: `Mjc3NDQ1NDgsMDAwMDAwMDA1OGY2ZmQ2YmYxYTdjZWQ3NmIzNTNjMTljY2Q4ZjQxNg==`
+Snapshot ID: `Mjc3NDU5ODgsMDAwMDAwMDBhYjNmNDU3MThmNjg2NTc2NzhjNzE5MzA1OTkzOWViZA==`

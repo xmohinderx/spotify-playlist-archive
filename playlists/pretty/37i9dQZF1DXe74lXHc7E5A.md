@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Stormzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 852 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 870 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 49 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:52 |
 | 50 | [Seoul](https://open.spotify.com/track/1Q8L5GiqKchiwSkdMDXyP6) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Seoul](https://open.spotify.com/album/6fV7M6efvo4Qw9T2jatNbv) | 2:51 |
 | 51 | [NO SECRET \(feat\. Drake\)](https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 0:47 |
-| 52 | [Seeing Green \(with Drake & Lil Wayne\)](https://open.spotify.com/track/1TZv3bujNaYz646eezRE91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 5:39 |
-| 53 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
-| 54 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 |
+| 52 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 |
+| 53 | [Seeing Green \(with Drake & Lil Wayne\)](https://open.spotify.com/track/1TZv3bujNaYz646eezRE91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 5:39 |
+| 54 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
 | 55 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 |
 | 56 | [Hello Mate](https://open.spotify.com/track/76F7T5zPxdpcPndQNs2dQU) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Hello Mate](https://open.spotify.com/album/0WLtXpCoQXJBoWmtcRkmKX) | 3:12 |
 | 57 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [Certified \(feat\. Gunna\)](https://open.spotify.com/track/31xA2Iti4kb3aMiX75e8Y5) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Shiesty Season: Certified](https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE) | 2:29 |
 | 60 | [Blue Chills](https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:51 |
 
-Snapshot ID: `MTY2NDUzNDUzMSwwMDAwMDAwMDJlN2Y0Yzk1N2IxMjE1OGQ2ODkwZTFlYjU2NjVlOWI2`
+Snapshot ID: `MTY2NDUzNDUzMSwwMDAwMDAwMDQxNmM3MzMyNDM0ZjUyZWE4YmZkM2NiNGY2YWM5NWI0`

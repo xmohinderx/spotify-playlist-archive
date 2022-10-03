@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 28168,
+  "num_followers": 28282,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDFjZTY0MmM3MzBhMzA0Y2Q5NjNkMGIzZmI1ZWUzODk2",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDVhYTI3ODRjMDQ0YzU5MzA4ZGM3MGFkYzg0ODQ2MTg3",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -931,6 +931,26 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "Madura",
+        "url": "https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 190995,
+      "name": "Madura",
+      "url": "https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
       },
@@ -971,26 +991,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Madura",
-        "url": "https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 190995,
-      "name": "Madura",
-      "url": "https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Rebota",
         "url": "https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM"
       },
@@ -1007,26 +1007,18 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Est\u00e1 Rico",
-        "url": "https://open.spotify.com/album/3ztJAikTd2AHTixfSPG185"
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        },
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
         }
       ],
-      "duration_ms": 215151,
-      "name": "Est\u00e1 Rico",
-      "url": "https://open.spotify.com/track/2wRkBumdItthjYP9XknImg"
+      "duration_ms": 179693,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg"
     },
     {
       "added_at": "2021-12-16 01:11:32",

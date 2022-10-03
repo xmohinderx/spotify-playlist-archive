@@ -12285,6 +12285,24 @@
     {
       "album": {
         "name": "DEAR 27 pt.2",
+        "url": "https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D"
+      },
+      "artists": [
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219289,
+      "name": "By Design",
+      "url": "https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR"
+    },
+    {
+      "album": {
+        "name": "DEAR 27 pt.2",
         "url": "https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz"
       },
       "artists": [
@@ -12295,7 +12313,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 219289,
       "name": "By Design",
       "url": "https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx"
@@ -16027,8 +16045,12 @@
           "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
         },
         {
-          "name": "Audiosonik & Scarlett",
-          "url": "https://open.spotify.com/artist/4ADVlGYWIVnkXsXw88ZhnZ"
+          "name": "Audiosonik",
+          "url": "https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
         }
       ],
       "date_added": "2022-09-30",
@@ -26869,6 +26891,28 @@
     {
       "album": {
         "name": "Fossora",
+        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259064,
+      "name": "Fossora",
+      "url": "https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y"
+    },
+    {
+      "album": {
+        "name": "Fossora",
         "url": "https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny"
       },
       "artists": [
@@ -26883,7 +26927,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 259064,
       "name": "Fossora",
       "url": "https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC"

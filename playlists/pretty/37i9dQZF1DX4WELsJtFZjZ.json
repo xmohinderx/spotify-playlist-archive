@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 529433,
+  "num_followers": 530032,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzkxOSwwMDAwMDAwMGE0MGE3MTJiZmFiZWVjNmIwZjk2MWRjNDJmYmRlYjYz",
+  "snapshot_id": "MTY1NjA0NzkxOSwwMDAwMDAwMGY1ODBhY2Y0ZDBkZmFkMWJlMGQxNTRkM2EzYjQxOGFl",
   "tracks": [
     {
       "added_at": "2022-05-25 11:38:55",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Mistaken Identity",
-        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
-      },
-      "artists": [
-        {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Mistaken Identity",
+        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "It's Your Night",
-        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
-      },
-      "artists": [
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "There's No Easy Way",
-      "url": "https://open.spotify.com/track/7ePEIbrsRXk9En7noiLAo7"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Winner In You",
         "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "It's Your Night",
+        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "There's No Easy Way",
+      "url": "https://open.spotify.com/track/7ePEIbrsRXk9En7noiLAo7"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Solitude Standing",
         "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 231933,
       "name": "Luka",
       "url": "https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "The Best Of Roxy Music",
-        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 297306,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 242946,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "The Best Of Roxy Music",
+        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 297306,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Share Your Love",
-        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Through The Years - Single Version",
-      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "The Power Of Love: The Best Of Jennifer Rush",
         "url": "https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 268200,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Share Your Love",
+        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 286066,
+      "name": "Through The Years - Single Version",
+      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -2267,34 +2267,22 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Tootsie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7CHXmIYw1PDxJR5795csK7"
+        "name": "Stop!",
+        "url": "https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ"
       },
       "artists": [
         {
-          "name": "Dave Grusin",
-          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "It Might Be You (Theme from Tootsie)",
-      "url": "https://open.spotify.com/track/3TRexXc7XRFVZA1WZPkOGY"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD"
-      },
-      "artists": [
+          "name": "Sam Brown",
+          "url": "https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5"
+        },
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Pete Brown",
+          "url": "https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA"
         }
       ],
-      "duration_ms": 258266,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
+      "duration_ms": 295906,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -2315,22 +2303,34 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Stop!",
-        "url": "https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD"
       },
       "artists": [
         {
-          "name": "Sam Brown",
-          "url": "https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5"
-        },
-        {
-          "name": "Pete Brown",
-          "url": "https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 295906,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8"
+      "duration_ms": 258266,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Tootsie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7CHXmIYw1PDxJR5795csK7"
+      },
+      "artists": [
+        {
+          "name": "Dave Grusin",
+          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "It Might Be You (Theme from Tootsie)",
+      "url": "https://open.spotify.com/track/3TRexXc7XRFVZA1WZPkOGY"
     },
     {
       "added_at": "2022-05-25 11:38:55",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2022-05-25 11:38:55",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Angelia",
-      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
-    },
-    {
-      "added_at": "2022-05-25 11:38:55",
-      "album": {
         "name": "Ammonia Avenue (Expanded Edition)",
         "url": "https://open.spotify.com/album/0RuvKbx3Zwa1LDkL9uEuTX"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 251853,
       "name": "Don't Answer Me",
       "url": "https://open.spotify.com/track/3IeVrRu0jOlwOkTwD9AykT"
+    },
+    {
+      "added_at": "2022-05-25 11:38:55",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Angelia",
+      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
     },
     {
       "added_at": "2022-05-25 11:38:55",

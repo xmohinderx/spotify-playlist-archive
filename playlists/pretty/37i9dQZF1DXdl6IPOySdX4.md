@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,971 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,736 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 21 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 |
 | 22 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 |
 | 23 | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/track/0VOyLRYrUBufrXQibWBipR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Thomas LaRosa](https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR) | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/album/2g9hsnkWRbKARuVIiRwjBl) | 3:33 |
-| 24 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 |
+| 24 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 25 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 |
-| 26 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 26 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 |
 | 27 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 |
 | 28 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 |
 | 29 | [Friends](https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia](https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau) | 3:50 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 45 | [Cruel](https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Cruel](https://open.spotify.com/album/2XVAjpwJNlbMQF5N7cGfIf) | 3:15 |
 | 46 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 |
 | 47 | [Goodbye Paris](https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Goodbye Paris](https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ) | 3:45 |
-| 48 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
-| 49 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
+| 48 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
+| 49 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
 | 50 | [next door \(feat\. ASTN\)](https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [next door \(feat\. ASTN\)](https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv) | 3:28 |
 | 51 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 |
 | 52 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 79 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 |
 | 80 | [Love Is a Bitch](https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Love Is a Bitch](https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s) | 3:01 |
 
-Snapshot ID: `MTY2NDQ1OTM4NCwwMDAwMDAwMGFlZTI3YTM1YTllMDExNTcxZGU2OTFkN2M4ZmQ3N2My`
+Snapshot ID: `MTY2NDQ1OTM4NCwwMDAwMDAwMDE1MTU5ZTg5ZGNjNWJlNDg5NDBiYTY3MGNiNjMwMGY1`

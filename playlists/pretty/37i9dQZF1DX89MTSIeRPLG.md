@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 23 | [RPS & Codeine \(feat\. Gunna\)](https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 3:02 |
 | 24 | [Blackberry Zap](https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:58 |
 | 25 | [DO BETTER](https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:32 |
-| 26 | [Fly Away](https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh) | [Fly Away](https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa) | 2:28 |
-| 27 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
-| 28 | [Treat Me Right](https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 2:56 |
+| 26 | [Treat Me Right](https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 2:56 |
+| 27 | [Fly Away](https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh) | [Fly Away](https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa) | 2:28 |
+| 28 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 29 | [Surgery](https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Life 4Hunnid](https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0) | 3:36 |
 | 30 | [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 |
 | 31 | [Boys To Men](https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:04 |
-| 32 | [Track 17](https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Flawed \(feat\. Gunna\)](https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI) | 3:24 |
-| 33 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 |
-| 34 | [Base' Body](https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe) | [Preaching from the Projects](https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49) | 2:30 |
+| 32 | [Flawed \(feat\. Gunna\)](https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Flawed \(feat\. Gunna\)](https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI) | 3:24 |
+| 33 | [Base' Body](https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe) | [Preaching from the Projects](https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49) | 2:30 |
+| 34 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 |
 | 35 | [Thug Cry](https://open.spotify.com/track/74PG0V0b2yt1xZqTNkL2Tr) | [LBS Kee'vin](https://open.spotify.com/artist/7CnxjDbOLSjMEAcyehjztA) | [Belair Baby](https://open.spotify.com/album/1iegXh1wkEkwo9Z74nwO4K) | 2:18 |
 | 36 | [Zero Tolerance](https://open.spotify.com/track/4jStn4ko3zvyLkY2upthYM) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Zero Tolerance](https://open.spotify.com/album/4XyOdD2CwwEWZbSzjcZhgZ) | 4:17 |
 | 37 | [45 \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 | 50 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 |
 
-Snapshot ID: `MTY2NDY1NjI3MSwwMDAwMDAwMDUyYzcyYmIyNjVmZTFiNGZmN2FkMjJkZjg3MDUzZjgy`
+Snapshot ID: `MTY2NDY1NjI3MSwwMDAwMDAwMDg5OGE0OTE4ZjUxZGQ0YmMwOTg2NThkZjUzZTYxMjAz`

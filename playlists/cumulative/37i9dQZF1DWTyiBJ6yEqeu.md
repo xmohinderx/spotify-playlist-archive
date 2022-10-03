@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-550 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/6yanqWEqV76LNBsD06S3Zl)
+551 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/6yanqWEqV76LNBsD06S3Zl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [After Hours](https://open.spotify.com/track/4eYYIs4VJJmJTfRkKegNq4) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/4M4Lm0G81QTEJDvrdGznP3) | 2:37 | 2022-05-16 | 2022-07-28 |
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2021-08-20 | 2022-02-05 |
 | [AHHH HA](https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [AHHH HA](https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi) | 3:06 | 2022-02-25 | 2022-04-21 |
+| [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 | 2022-09-29 |  |
 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 | 2022-05-04 | 2022-08-19 |
 | [Alive](https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Alive](https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh) | 3:17 | 2022-07-08 | 2022-07-16 |
 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 | 2021-08-20 | 2022-04-29 |
@@ -87,7 +88,7 @@
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2021-11-10 | 2022-07-29 |
 | [commas](https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [commas](https://open.spotify.com/album/3lxNorNFjdQYyr31bFHIT7) | 2:20 | 2022-03-18 | 2022-07-29 |
 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2021-08-20 | 2021-12-31 |
-| [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-13 |  |
+| [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-13 | 2022-10-03 |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2021-08-20 | 2021-12-31 |
 | [Cradles](https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/2fLkonSk9cVovvnRKKYtk5) | 3:29 | 2022-05-04 | 2022-05-06 |
 | [Cry \(with Aluna\)](https://open.spotify.com/track/2HdEtRBwROKFsTiX2VTLCq) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Cry](https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo) | 2:49 | 2022-03-25 | 2022-04-19 |

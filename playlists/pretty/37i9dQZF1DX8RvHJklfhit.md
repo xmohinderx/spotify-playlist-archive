@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie Classics\. Cover: Salt Cathedral, Ximena Sariñana
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,924 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,976 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 22 | [Unbothered](https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr) | 2:04 |
 | 23 | [Confidently Lost](https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Confidently Lost](https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw) | 3:29 |
 | 24 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
-| 25 | [Friends](https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Friends](https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m) | 2:39 |
-| 26 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
+| 25 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
+| 26 | [Friends](https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Friends](https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m) | 2:39 |
 | 27 | [Lo Mejor, Lo Peor](https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [América Supersónica](https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0) | 3:43 |
 | 28 | [Black Lipstick](https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/7hedlsiDZmoOdynJeOqGbs) | 3:49 |
 | 29 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 42 | [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 |
 | 43 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
 | 44 | [Te Vi](https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:36 |
-| 45 | [Bombay](https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp) | [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Pop Negro](https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC) | 3:39 |
-| 46 | [Eras mi persona favorita](https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN) | [Teleradio Donoso](https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt) | [Gran Santiago](https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF) | 3:48 |
-| 47 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
-| 48 | [Mi Fábrica de Baile](https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Baile de Magos](https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f) | 4:25 |
+| 45 | [Mi Fábrica de Baile](https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Baile de Magos](https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f) | 4:25 |
+| 46 | [Bombay](https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp) | [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Pop Negro](https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC) | 3:39 |
+| 47 | [Eras mi persona favorita](https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN) | [Teleradio Donoso](https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt) | [Gran Santiago](https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF) | 3:48 |
+| 48 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 | 49 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 |
 | 50 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 |
 | 51 | [Ejercicio \#16 \- Remastered](https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 4:21 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 83 | [Sunlight](https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9) | [Besos](https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk) | [Sunlight](https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb) | 3:06 |
 | 84 | [The Feel](https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [The Feel](https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ) | 3:00 |
 | 85 | [Shining in the Dark](https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT) | [Shining in the Dark](https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6) | 4:20 |
-| 86 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
-| 87 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 |
+| 86 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 |
+| 87 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
 | 88 | [Lechuguilla](https://open.spotify.com/track/1LsLr4r42RGqvrURggDvzj) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Canta Lechuza](https://open.spotify.com/album/3wFgawqwjWBQxGseSIchGt) | 3:57 |
 | 89 | [La Capacidad](https://open.spotify.com/track/6vDe4MLOQJP5IErm6SGD6s) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Las Acevedo](https://open.spotify.com/artist/14jzwITn4nY03L1n3XkyEV), [Diana Pereira](https://open.spotify.com/artist/3LtFsZsIPmf9LsLAL986yv) | [La Papessa](https://open.spotify.com/album/12L7Zmipk8DEv6jNgsVUNl) | 4:39 |
 | 90 | [Ligera Love](https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [ReconoceR](https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu) | 2:27 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 95 | [Drooling](https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Drooling](https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu) | 3:39 |
 | 96 | [PARIS](https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [PARIS](https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4) | 3:18 |
 | 97 | [Ghost Lover](https://open.spotify.com/track/1eEgXGEztQqnWha85PCu4k) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Cry Out Loud](https://open.spotify.com/album/4T7NZYTAtTQFx3y2RTI989) | 2:43 |
-| 98 | [And Ever.](https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37) | [Daniela Garcia](https://open.spotify.com/artist/134p1mQ6nux5QPalFAupOM) | [And Ever.](https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk) | 2:55 |
-| 99 | [Another Observer](https://open.spotify.com/track/2ccWVWCXvjuOvtFNqzrEqs) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [Lovers & Friends](https://open.spotify.com/album/2FERiB4eV8nWSa8bwnDUh6) | 3:26 |
+| 98 | [Another Observer](https://open.spotify.com/track/2ccWVWCXvjuOvtFNqzrEqs) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [Lovers & Friends](https://open.spotify.com/album/2FERiB4eV8nWSa8bwnDUh6) | 3:26 |
+| 99 | [And Ever.](https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37) | [Daniela Garcia](https://open.spotify.com/artist/134p1mQ6nux5QPalFAupOM) | [And Ever.](https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk) | 2:55 |
 | 100 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
 
-Snapshot ID: `MTY1OTcxNTg5NiwwMDAwMDAwMDI0OThhNjkyOWM3NWRiMGY4NzlkYzQ1M2IwYWQ4Mzg0`
+Snapshot ID: `MTY1OTcxNTg5NiwwMDAwMDAwMGRiOWM3N2Q0MDFmYmQ4YWE5N2RlZTY5ZjAzYjMxNWI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,256 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,333 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 30 | [The Tailor by Trade](https://open.spotify.com/track/4NqeYs9eIrK4qPMlg9gk99) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Irish Festival](https://open.spotify.com/album/7mfyOcjeuUcCI1rwpqPhC0) | 3:25 |
 | 31 | [Cap and Bells](https://open.spotify.com/track/4eIqQjTjTrOfPypkM638PJ) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Paul Dooley](https://open.spotify.com/artist/0HmAOyVgHVa7wEPIAfTUif), [Fergus Feely](https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni), [John Moloney](https://open.spotify.com/artist/4kcdiauFup6jwVT2O2zXqG) | [Man for Galway: The Best of Sean Tyrrell](https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f) | 3:50 |
 | 32 | [Handsome Molly](https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:09 |
-| 33 | [Dicey Reilly](https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 2:17 |
+| 33 | [The Craic Was Ninety](https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 3:16 |
 | 34 | [Paddy Dreaming](https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 2:54 |
 | 35 | [The Ferryman](https://open.spotify.com/track/22UgQjOvNowrKCJ7lgkY1r) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 2:52 |
 | 36 | [Come Up the Stairs](https://open.spotify.com/track/0y8YLiCQmsmG1PLaQGk4gp) | [Lonely Stranded Band](https://open.spotify.com/artist/2SEZuwzh7YLEnD6go7gk2W) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:05 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 39 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/4sjR31gZhrsxyhDn5S4mNP) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Jimmy Fitzgerald](https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8), [Con Ó Drisceoil](https://open.spotify.com/artist/7p2fbihH459PJENgIkCdQX) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:55 |
 | 40 | [Parcel of Rogues](https://open.spotify.com/track/4Ad3hhjcW4ci2VsZEg4NPH) | [Pied Pipers](https://open.spotify.com/artist/07hD0ZRBxt1clnlGk5UPlV) | [Pied Pipers: Music from Ireland and Scotland](https://open.spotify.com/album/1JZFHcBPvTORsQTrfh12At) | 4:21 |
 | 41 | [Naomi Wise](https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 4:41 |
-| 42 | [The Craic Was Ninety](https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 3:16 |
+| 42 | [Dicey Reilly](https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 2:17 |
 | 43 | [Bogie's Bonny Belle](https://open.spotify.com/track/0AYSKDQCs1RaUQh2iLEXRv) | [Fred Johnston](https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm), [Brid Ni Chathain](https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:19 |
 | 44 | [Roseville Fair](https://open.spotify.com/track/7a7GS4avfjMhbN2mnpNWGY) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0k8jMO6MMsBNVFWfYhYhjZ) | 4:16 |
 | 45 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [The Cap and Bells / The Frost Is All Over](https://open.spotify.com/track/61zkyIkZwG6UTAbbNg97zU) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Fergus Feely](https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 5:29 |
 | 50 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
 
-Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDQwNTNmODk2ZDM5OWNhYTc0NjFkODQxZjg1N2U3NmY0`
+Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDczMmVkODE5ZDA5NTgwZDZjYzBkNzViMmE1MDFjMDQ2`

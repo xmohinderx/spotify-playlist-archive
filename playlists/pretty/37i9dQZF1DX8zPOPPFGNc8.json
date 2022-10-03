@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 0,
+  "num_followers": 3,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU5NjgwMCwwMDAwMDAwMDZhNjVhZGYxMDRmOTc1NDFjYTA4MDQ0N2ZkYTUzZTE5",
+  "snapshot_id": "MTY2NDU5NjgwMCwwMDAwMDAwMGYwM2EyNWQ0ZDYxOTA1OWJlNmY5YWY2ZmMzMGRlOWE4",
   "tracks": [
     {
       "added_at": "2022-10-01 04:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Wild Side (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209476,
-      "name": "Wild Side (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 231360,
       "name": "Sidewalks",
       "url": "https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Wild Side (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "Wild Side (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Total Reggae: Summer Hits",
-        "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 191533,
       "name": "Bashment Time Featuring Mr. Easy",
       "url": "https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Total Reggae: Summer Hits",
+        "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
     },
     {
       "added_at": "2022-10-01 04:00:00",

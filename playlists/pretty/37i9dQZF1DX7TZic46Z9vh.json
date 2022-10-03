@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 35762,
+  "num_followers": 35774,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMDFkZWEyYTgxOTI2ZDUyNjNjNzIxNDEyN2NmNjkxN2E0",
+  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMDgxMjhhMTkxZWMxMTU5MmRkNjJmMTYyMTViOTY3YTcx",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
-        "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
-      },
-      "artists": [
-        {
-          "name": "Los Monjes",
-          "url": "https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO"
-        }
-      ],
-      "duration_ms": 125982,
-      "name": "Mi Mami Dijo",
-      "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Toncho Pilatos",
         "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 230973,
       "name": "Tommy Lyz",
       "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
+        "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
+      },
+      "artists": [
+        {
+          "name": "Los Monjes",
+          "url": "https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO"
+        }
+      ],
+      "duration_ms": 125982,
+      "name": "Mi Mami Dijo",
+      "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
     },
     {
       "added_at": "2021-09-06 15:34:44",

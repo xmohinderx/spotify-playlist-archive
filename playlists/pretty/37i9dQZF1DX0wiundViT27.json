@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611871,
+  "num_followers": 611863,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDU2MTQyZmYyNzg5MTIzMWZkZTRkYzJiMWJlMDNkMGMw",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDk4YTZjNDhiMDdlZWJjNmUyMGJmOTI2MTVhMmFmYzYy",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Don't Miss",
-        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
       "artists": [
         {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 186156,
-      "name": "Don't Miss",
-      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
+      "duration_ms": 222146,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Wonderful Wonderful",
-        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+        "name": "Don't Miss",
+        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 222146,
-      "name": "Run For Cover",
-      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+      "duration_ms": 186156,
+      "name": "Don't Miss",
+      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "The Emperor",
-        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "The Emperor",
-      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "TIRED OF WINNING",
         "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 206586,
       "name": "TIRED OF WINNING",
       "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 222738,
+      "name": "Planet Zero",
+      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "you're not special",
         "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
+        "name": "Aggressive",
+        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+      "duration_ms": 211430,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 134266,
       "name": "DIE OUT HERE (feat. POORSTACY)",
       "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Aggressive",
-        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211430,
-      "name": "Hated",
-      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "indieedgycool",
-        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "indieedgycool",
+        "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Outrage! Is Now",
-        "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 198081,
-      "name": "Freeze Me",
-      "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Dear Miss Lonelyhearts",
         "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 180133,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Outrage! Is Now",
+        "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 198081,
+      "name": "Freeze Me",
+      "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Ramon Ayala",
+        "url": "https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "In The Wild",
         "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Ramon Ayala",
-        "url": "https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz"
     }
   ],
   "unique_name": "Rock Me Up",

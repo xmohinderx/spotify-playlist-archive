@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 
 > This is TOOL\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,787 likes - 36 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,907 likes - 36 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 | 35 | [Jerk\-Off \- Live](https://open.spotify.com/track/3jK6mKpZLZSIPZRNCYIm3Q) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:25 |
 | 36 | [Part Of Me](https://open.spotify.com/track/2iL5ns7JhMGFSGpfQ3HQ6k) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 3:17 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBlYmY0N2U1MDcyZjRjYTIxZDc0MzM3ODMyNjA0NDE0Ng==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDA5NWRlNjk3YmJjODBmNzUwYjk0NDRlMTE4Y2VlNmRkMQ==`

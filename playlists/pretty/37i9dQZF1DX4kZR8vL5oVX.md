@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Jeanne Added
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,570 likes - 41 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,557 likes - 41 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 25 | [Dolce Vita](https://open.spotify.com/track/0ReH6t32sAXluk2qg0xi8e) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Dolce Vita](https://open.spotify.com/album/3O5NY1Xn2Yy0R7rM8kvUXL) | 2:34 |
 | 26 | [Home](https://open.spotify.com/track/0zkwUKkvqvlwsWfNfGCUaD) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [Home](https://open.spotify.com/album/6ueq5w8dhXtozs3dbk1Vuc) | 3:23 |
 | 27 | [Leçon2Princess](https://open.spotify.com/track/1NoqnhDb5sfoVzU7uQsa18) | [BabySolo33](https://open.spotify.com/artist/6OpHYcuQqOouW8AEwGc7SL) | [Leçon2Princess](https://open.spotify.com/album/5Av167ij9zDSuFCFGfcxQ6) | 2:43 |
-| 28 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 |
+| 28 | [Unfold](https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 1:30 |
 | 29 | [Quand je suis avec toi](https://open.spotify.com/track/33yv4bW1EHup8BsoGvvPrO) | [Elsa Esnoult](https://open.spotify.com/artist/4UqemBLSwyT41AG6RYp7N9) | [6](https://open.spotify.com/album/1TLZsU8GC8Yuq6sCh5yMQu) | 4:18 |
 | 30 | [Still the One](https://open.spotify.com/track/3iJL22C8i6M0txZXrjeyb9) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Still the One](https://open.spotify.com/album/6TZ1OTwD1GCQyyeLKpE0ux) | 3:02 |
 | 31 | [bootycall](https://open.spotify.com/track/7obibJSl1Dlcr2vHpO99Z5) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [bootycall](https://open.spotify.com/album/4ddGPrHs0PB1aJgt0ReAgj) | 2:28 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 40 | [Claire You Don't Want To Be Saved](https://open.spotify.com/track/66XB5Tr2pwzHeHHeENPIHW) | [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Claire You Don't Want to Be Saved](https://open.spotify.com/album/3BY3Ifhgfl1eOELBwuocO6) | 3:06 |
 | 41 | [Blonde](https://open.spotify.com/track/7hiZSlGcCy8YLeHVsJjyNL) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Blonde](https://open.spotify.com/album/7cikiDel3bgFZLtStaDY7c) | 3:20 |
 
-Snapshot ID: `MTY2MjYyODk2MywwMDAwMDAwMDE1MGEzZDM1NGIzNGZjZjA4YjlhMjVjODQ0YzNjNzIy`
+Snapshot ID: `MTY2MjYyODk2MywwMDAwMDAwMDk0MGMwYWM4NDg1ZWVmYmQzYTU5MDNmY2QzNGQ1YTkx`

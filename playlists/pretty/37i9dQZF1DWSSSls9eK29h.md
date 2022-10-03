@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,188 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,293 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 21 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
 | 22 | [Warm Weather \- 12" Version](https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Pieces Of A Dream](https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC) | 4:06 |
 | 23 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
-| 24 | [Fly Away \(Thinking Of You\)](https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Blue Touch](https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV) | 3:50 |
-| 25 | [101 Eastbound](https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Fourplay](https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy) | 5:56 |
+| 24 | [101 Eastbound](https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Fourplay](https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy) | 5:56 |
+| 25 | [Fly Away \(Thinking Of You\)](https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Blue Touch](https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV) | 3:50 |
 | 26 | [Do You Feel What I'm Feeling?](https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [Truth](https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT) | 5:14 |
 | 27 | [Sunset Bay](https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Steppin' Out](https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi) | 4:57 |
 | 28 | [Burma Road](https://open.spotify.com/track/4E01hW7den04JgdXH2LkOz) | [Greg Adams](https://open.spotify.com/artist/5JLlu8IDh3Aj1nT3cUJUUY) | [Hidden Agenda](https://open.spotify.com/album/4EpH6ucX2QlCa9xlqIHdHA) | 4:48 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 34 | [Just Between Us](https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Backbone](https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo) | 4:49 |
 | 35 | [You've Changed](https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Ties That Bind](https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW) | 5:02 |
 | 36 | [I Want You For Myself](https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Personal](https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4) | 5:29 |
-| 37 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
-| 38 | [Touchdown](https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Touchdown](https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6) | 5:44 |
+| 37 | [Touchdown](https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Touchdown](https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6) | 5:44 |
+| 38 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
 | 39 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
 | 40 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
 | 41 | [Creepin'](https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Trust](https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q) | 3:40 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 52 | [Breakfast with Tiffany](https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Decisions](https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX) | 4:40 |
 | 53 | [I Just Can't Stop Thinking About You](https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [Better Days](https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5) | 5:20 |
 | 54 | [City Lights](https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Long Night Out](https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC) | 5:34 |
-| 55 | [The East from the West](https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [A River In The Desert](https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX) | 5:38 |
-| 56 | [Groovin' In Philly](https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Cliff Brown](https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp) | [It's About Time](https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d) | 4:36 |
+| 55 | [Groovin' In Philly](https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Cliff Brown](https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp) | [It's About Time](https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d) | 4:36 |
+| 56 | [The East from the West](https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [A River In The Desert](https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX) | 5:38 |
 | 57 | [Treasure Hunt](https://open.spotify.com/track/2hcMx8eNF3f2gi5B1oY6Eo) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [The Getaway](https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU) | 5:08 |
 | 58 | [Castine](https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Saxtress](https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj) | 5:02 |
 | 59 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
 | 60 | [Love Will Find A Way](https://open.spotify.com/track/3ylLhJHuvVBbpcW1bcKpB5) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Dancing In The Sun](https://open.spotify.com/album/4riUrx6dAarcgrSLXRfKG9) | 5:59 |
 
-Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMDA4YzFmMTM0ZjNhYWE5NjcyMTdhOWJjNDg0Zjk2YTA5`
+Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMDFjNzMzMThkOTQzOTYyOGJkNmFjY2ZjZTVjOGMzY2Rl`

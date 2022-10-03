@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,210 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,190 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 25 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
 | 26 | [Postcards from Italy](https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V) | 4:17 |
 | 27 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
-| 28 | [Wintersong](https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Blake Mills](https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu) | 4:16 |
-| 29 | [I Think Of You](https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:25 |
-| 30 | [The Wolves \(Act I and II\)](https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:22 |
+| 28 | [I Think Of You](https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:25 |
+| 29 | [The Wolves \(Act I and II\)](https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:22 |
+| 30 | [Wintersong](https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Blake Mills](https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu) | 4:16 |
 | 31 | [This Must Be The Place](https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Sing Into My Mouth](https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl) | 3:32 |
 | 32 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 |
 | 33 | [Farewell Transmission](https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04) | 7:22 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 42 | [The Ocean](https://open.spotify.com/track/1Xm7HoeUAd75qGEyDvLBtQ) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Coles Corner](https://open.spotify.com/album/3Gm6V4tzZaYFbnhrvubylJ) | 5:36 |
 | 43 | [Suzanne](https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Best Of Leonard Cohen](https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt) | 3:47 |
 | 44 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
-| 45 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
-| 46 | [Lucky Now](https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6) | 2:52 |
-| 47 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 |
+| 45 | [Lucky Now](https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6) | 2:52 |
+| 46 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 |
+| 47 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
 | 48 | [Goin' Home](https://open.spotify.com/track/5eeaUZWzQXpBlbkiq4pm5l) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:53 |
 | 49 | [Something About Your Love](https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [In The Ever](https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2) | 4:30 |
 | 50 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 57 | [Dusty Trails](https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Expanded Edition\)](https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj) | 4:24 |
 | 58 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
 | 59 | [The Healing Day](https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People](https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb) | 5:14 |
-| 60 | [Swimming Away](https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE) | 3:08 |
-| 61 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
+| 60 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
+| 61 | [Swimming Away](https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE) | 3:08 |
 | 62 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
 | 63 | [Can't Take You With Me](https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:10 |
 | 64 | [Oliver James](https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [Gospel](https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 4:29 |
 | 70 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
 
-Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMGQyZDk5NjEyMDViY2FiMjE5NzFjZmVmOWJjMDgxODcw`
+Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMDRhNjg4ZTc4NjJlOGY1YTMzNjM2ZDk2Y2I4OWFkMDM0`

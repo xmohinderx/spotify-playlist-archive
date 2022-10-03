@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 154653,
       "name": "Bien Por Ti",
       "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
@@ -3035,7 +3035,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
@@ -3251,7 +3251,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
@@ -11285,7 +11285,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -13803,6 +13803,24 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
     },
     {
       "album": {

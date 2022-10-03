@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,066 likes - 43 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,149 likes - 43 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 42 | [Salem](https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:44 |
 | 43 | [Naeem](https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 4:22 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAxOTYwZGM3OGY2YmMxZjhhZTA0YmNkMjg1NGExMGJlMA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA3NTYzN2UyODE0NmEzOTBiNjg3MWMwMmI2M2EwMDA2NA==`

@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-91 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+92 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-02-24 |  |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-09 |  |
 | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/track/5RmuMcCHkMTkos8SdnRohq) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/album/7jvcy3vt3Jc5JaBiGS9vJO) | 2:28 | 2021-12-16 |  |
-| [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 3:48 | 2022-01-10 |  |
+| [يلا نفتح الحساب](https://open.spotify.com/track/3fTKJkqA0enU1iDrC3QM4H) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا نفتح الحساب](https://open.spotify.com/album/6F6ObdCsn6o5F4QYcSrR4i) | 3:48 | 2022-09-27 |  |
+| [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 3:48 | 2022-01-10 | 2022-10-03 |
 | [يلا نفتح الحساب](https://open.spotify.com/track/12h9Zu7E5LG8pRj0XnPX9A) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/4x1nQ9tP0qe3ZclwgXdCNF) | 3:48 | 2022-07-19 | 2022-09-25 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

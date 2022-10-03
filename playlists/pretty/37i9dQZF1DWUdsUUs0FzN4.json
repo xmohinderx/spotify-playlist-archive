@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMxODk4MywwMDAwMDAwMDFkMTJjM2UyODdlNDkzM2UyZGZjYTkzYzZkYmRjN2Nh",
+  "snapshot_id": "MTY2NDMxODk4MywwMDAwMDAwMDVkOTE0YzRlMjdmZGUzMDM1MmY3YWEyNDBlMjRjZWQy",
   "tracks": [
     {
       "added_at": "2022-09-27 22:49:43",
@@ -499,18 +499,26 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Date Date",
-        "url": "https://open.spotify.com/album/2uclE8FZd2pzAH77DQVVr1"
+        "name": "MODO CHAKALON",
+        "url": "https://open.spotify.com/album/4nsCbDdqTlSIIuHxE4KctY"
       },
       "artists": [
         {
-          "name": "EPA COLOMBIA",
-          "url": "https://open.spotify.com/artist/2IhzfygetoEC4ELz0vop6Q"
+          "name": "Flacco Lapresion",
+          "url": "https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm"
+        },
+        {
+          "name": "Charly whest",
+          "url": "https://open.spotify.com/artist/5EZZZ6q2iwiuxkTE0DK3os"
+        },
+        {
+          "name": "Riko mix",
+          "url": "https://open.spotify.com/artist/7xI6d9mjFghcnsmZc3Gfv5"
         }
       ],
-      "duration_ms": 212304,
-      "name": "Date Date",
-      "url": "https://open.spotify.com/track/4JcuKNOS0F59j9jxZXSDP9"
+      "duration_ms": 159612,
+      "name": "MODO CHAKALON",
+      "url": "https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -543,26 +551,18 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "MODO CHAKALON",
-        "url": "https://open.spotify.com/album/4nsCbDdqTlSIIuHxE4KctY"
+        "name": "Date Date",
+        "url": "https://open.spotify.com/album/2uclE8FZd2pzAH77DQVVr1"
       },
       "artists": [
         {
-          "name": "Flacco Lapresion",
-          "url": "https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm"
-        },
-        {
-          "name": "Charly whest",
-          "url": "https://open.spotify.com/artist/5EZZZ6q2iwiuxkTE0DK3os"
-        },
-        {
-          "name": "Riko mix",
-          "url": "https://open.spotify.com/artist/7xI6d9mjFghcnsmZc3Gfv5"
+          "name": "EPA COLOMBIA",
+          "url": "https://open.spotify.com/artist/2IhzfygetoEC4ELz0vop6Q"
         }
       ],
-      "duration_ms": 159612,
-      "name": "MODO CHAKALON",
-      "url": "https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F"
+      "duration_ms": 212304,
+      "name": "Date Date",
+      "url": "https://open.spotify.com/track/4JcuKNOS0F59j9jxZXSDP9"
     },
     {
       "added_at": "2022-09-27 22:49:43",

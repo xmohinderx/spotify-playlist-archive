@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1454552,
+  "num_followers": 1454612,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg3ODE4MSwwMDAwMDAwMDVkNzU4MGQzYTY0MWYwMmM3MTcyOGYxZTZmY2VmNGQ1",
+  "snapshot_id": "MTY2MTg3ODE4MSwwMDAwMDAwMGEzMjQ4MDg3NmU3OTliY2QxZWY5MThkNmEzZTlhYzcz",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "We'll Never Have Sex",
-        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 99620,
-      "name": "We'll Never Have Sex",
-      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Cold Little Heart (Radio Edit)",
         "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "We'll Never Have Sex",
+        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 99620,
+      "name": "We'll Never Have Sex",
+      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 272346,
       "name": "San Luis",
       "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 231333,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 239027,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -1255,6 +1223,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 239027,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Fallen so Young",
         "url": "https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 232164,
       "name": "Fallen so Young",
       "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 197178,
       "name": "Lost On You",
       "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 181958,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Happier (Acoustic)",
-        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 206209,
-      "name": "Happier - Acoustic",
-      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
+      "duration_ms": 181958,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1515,6 +1499,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Happier (Acoustic)",
+        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206209,
+      "name": "Happier - Acoustic",
+      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "This Town",
-        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Say It Again (Acoustic)",
-        "url": "https://open.spotify.com/album/4skXIqZpJdY12tJy4KJvxV"
-      },
-      "artists": [
-        {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
-        }
-      ],
-      "duration_ms": 181408,
-      "name": "Say It Again - Acoustic",
-      "url": "https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Say It Again (Acoustic)",
+        "url": "https://open.spotify.com/album/4skXIqZpJdY12tJy4KJvxV"
+      },
+      "artists": [
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "duration_ms": 181408,
+      "name": "Say It Again - Acoustic",
+      "url": "https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "sunday",
-      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "In the Waiting",
         "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 198403,
       "name": "For Now",
       "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
     },
     {
       "added_at": "2022-07-22 04:00:00",

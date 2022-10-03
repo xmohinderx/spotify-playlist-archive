@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,493 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,523 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,15 +15,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 5 | [Cada quien](https://open.spotify.com/track/7rD8eGGIOy2G5yxWlmiQH3) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 3:25 |
 | 6 | [Y mi corazón contento](https://open.spotify.com/track/3FUhe43n5NShAfvPWSyPxE) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:28 |
 | 7 | [Estoy bien](https://open.spotify.com/track/3t6qVkQq25yy44BjjsMbUD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 5:34 |
-| 8 | [Guerrero de Jah](https://open.spotify.com/track/4oaBALjaRWh6rNotIWyHSH) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 4:07 |
+| 8 | [Todo Cuadra](https://open.spotify.com/track/0humo0il6SEZs9uI4RS76H) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:32 |
 | 9 | [Se](https://open.spotify.com/track/42sqXlSW3RaektIl6HrFu4) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG) | 4:20 |
 | 10 | [Dos que Brillamos](https://open.spotify.com/track/3g6a9iLkuWfUnqD7bslHC4) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:05 |
 | 11 | [Todo comenzó](https://open.spotify.com/track/4TEERAyxacIcXGaEinMEco) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 3:03 |
-| 12 | [Bendita](https://open.spotify.com/track/6KEplTCsOOfPbnGMR6DyB6) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:11 |
+| 12 | [Guerrero de Jah](https://open.spotify.com/track/4oaBALjaRWh6rNotIWyHSH) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 4:07 |
 | 13 | [Buscar estar](https://open.spotify.com/track/2SbiOwjYdEwPDvGdI9glxW) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG) | 4:11 |
 | 14 | [De la Tierra Crece](https://open.spotify.com/track/7nNhXCXJpRm9GWmeQJ6LwR) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:09 |
 | 15 | [Es Ignorancia](https://open.spotify.com/track/2VpS3jSmRQRx8jprvjz9qM) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:04 |
-| 16 | [Todo Cuadra](https://open.spotify.com/track/0humo0il6SEZs9uI4RS76H) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:32 |
+| 16 | [Bendita](https://open.spotify.com/track/6KEplTCsOOfPbnGMR6DyB6) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:11 |
 | 17 | [Música consciente](https://open.spotify.com/track/5QDBaPPTjNuNwRrRA86Yi1) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 2:42 |
 | 18 | [Somos R](https://open.spotify.com/track/69N8sDFDYqlJxAIjlNIQbt) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:09 |
 | 19 | [Luces de la ciudad](https://open.spotify.com/track/3zznC4iFBLSBcPFg1R0Adk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [Algún día aprenderé](https://open.spotify.com/track/7ot3bEbYib3xXoMsycC2bU) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:12 |
 | 50 | [Lo importante](https://open.spotify.com/track/6aTyDIjOo0oP4zCWTvITBP) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:20 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBjNjJlZmQxZDEwYzY0NmJlMmMzNmI2MmMyMzMzNDQ3MA==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDBiNDg5MzViZjI3MzkzYTQyOWZmOWFiM2VhMGVjNGQwYQ==`

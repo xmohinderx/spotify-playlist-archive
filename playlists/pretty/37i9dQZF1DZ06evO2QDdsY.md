@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,909 likes - 41 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,912 likes - 41 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
 | 2 | [You And I \- Moon And Stars / Acoustic](https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [You And I \(Moon And Stars / Acoustic\)](https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C) | 3:20 |
 | 3 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
-| 4 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 |
+| 4 | [Wanna Be On Your Mind](https://open.spotify.com/track/0sEkBF6SBgYoHTpJ7wfaXs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:56 |
 | 5 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
-| 6 | [Wanna Be On Your Mind](https://open.spotify.com/track/0sEkBF6SBgYoHTpJ7wfaXs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:56 |
+| 6 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 |
 | 7 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:43 |
-| 8 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
+| 8 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
 | 9 | [Long Lonely Road](https://open.spotify.com/track/4l0bi7g9dOp1L3QDBbCTjk) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:56 |
-| 10 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
+| 10 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
 | 11 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 |
-| 12 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 |
-| 13 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
-| 14 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
+| 12 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
+| 13 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 |
+| 14 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
 | 15 | [Look At Miss Ohio](https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Look At Miss Ohio](https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE) | 3:25 |
 | 16 | [Stay](https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:01 |
 | 17 | [Fade Into You](https://open.spotify.com/track/2SF4jGzFzrTdOm7ivfIDqY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fade Into You](https://open.spotify.com/album/0rBigYSvUtkuE4C8qvVg0L) | 4:45 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 40 | [Mad About the Girl](https://open.spotify.com/track/2bNDCbxCEPMa0qBzh26MEm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Universal Love \- Wedding Songs Reimagined](https://open.spotify.com/album/1Roqqh9z76dk77g98fiR2E) | 3:11 |
 | 41 | [The Drifter](https://open.spotify.com/track/0ZX0mqvRzmI7fR5w6eq7UN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:15 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDA0ZGViYjhhMTUyOTg2NTA0MmNmYWY1M2I2MzhjZDk5MA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBhOGFkNDRkZGNkMTg3NDI0NTIwMDQ3MmFmMzc4NTM2Zg==`

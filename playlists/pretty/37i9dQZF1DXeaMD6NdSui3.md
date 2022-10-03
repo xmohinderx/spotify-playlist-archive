@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,160 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,191 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 23 | [I Gotta Let You Go \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 3:09 |
 | 24 | [Crazy Dream](https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 4:47 |
 | 25 | [Brothers](https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 5:05 |
-| 26 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
-| 27 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
+| 26 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
+| 27 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
 | 28 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 | 29 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
 | 30 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MTY0ODQ5OTYyNCwwMDAwMDAwMGY4ZThmMzgzNWY4ZjQ2MTJhNmNiMzU4YzUxODJkNmNl`
+Snapshot ID: `MTY0ODQ5OTYyNCwwMDAwMDAwMGJhZjk3ZmJlNjZmZDliNDMwODNlMmZlNmI4YTRlMjQ0`

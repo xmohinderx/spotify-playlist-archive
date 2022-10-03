@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-510 songs - 1 day 4 hr 34 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+511 songs - 1 day 4 hr 37 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-16 |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2021-05-16 | 2021-05-23 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-30 | 2021-08-31 |
+| [I Wanna Be Yours](https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 3:03 | 2022-10-02 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-04 |  |
 | [I'M THAT GIRL](https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:28 | 2022-07-30 | 2022-08-01 |
 | [I.M](https://open.spotify.com/track/20Sn6oqyImTPlzXANLxtie) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [I.M](https://open.spotify.com/album/3o1NoTy2SpIVmIre5w6rAG) | 3:00 | 2022-02-09 | 2022-02-15 |
@@ -315,7 +316,7 @@
 | [בית משוגעים](https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בית משוגעים](https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR) | 2:49 | 2021-03-27\* | 2022-09-13 |
 | [בלילה](https://open.spotify.com/track/5gZHvM9bgp1bZP7bnatmXd) | [Moti Taka](https://open.spotify.com/artist/3kEhFsAwYboTCzo6Z0wjTN) | [בלילה](https://open.spotify.com/album/6tCZpprjuO5inKC5JaQEdL) | 3:18 | 2021-10-10 | 2021-11-21 |
 | [בסוף נרקוד](https://open.spotify.com/track/1quBoxh2fvPsy4f0ZBLf46) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [בסוף נרקוד](https://open.spotify.com/album/0B08f7onZv05gu5kO9zymf) | 3:53 | 2022-08-31 |  |
-| [בסיבוב](https://open.spotify.com/track/5RnhWaP5VD3eJN3J0chPmh) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Tzlil Danin](https://open.spotify.com/artist/3rzVtsul7Jt3BFcy0UhWgs) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 5:13 | 2022-08-21 | 2022-10-02 |
+| [בסיבוב](https://open.spotify.com/track/5RnhWaP5VD3eJN3J0chPmh) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Tzlil Danin](https://open.spotify.com/artist/3rzVtsul7Jt3BFcy0UhWgs) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 5:13 | 2022-08-21 |  |
 | [בראש השנה](https://open.spotify.com/track/336bQZpuJyMAYOxeXDGZy7) | [Naomi Shemer](https://open.spotify.com/artist/4V6wf2ynZAUYlG8WnyQrIz) | [כיצד שוברים חמסין](https://open.spotify.com/album/0vz5XZBx8h8MaLOFaGHkNQ) | 2:15 | 2021-09-08 | 2022-09-28 |
 | [ברחובות של תל אביב](https://open.spotify.com/track/4JSUFLR3Uo7FPCfNDRxIrx) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 3:01 | 2021-05-21 | 2021-11-25 |
 | [בשורות טובות](https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [בשורות טובות](https://open.spotify.com/album/1oBfvjTLPPfUEO4R6FqzRl) | 2:54 | 2022-06-07 |  |
@@ -382,7 +383,7 @@
 | [לא להיות לבד](https://open.spotify.com/track/3R07e1YzlIJATTjA3aT0Et) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/4Np2OvJnHaEdZiosQLMQJd) | 3:00 | 2022-07-13 | 2022-08-18 |
 | [לא מרגיש טוב](https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [לא מרגיש טוב](https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804) | 2:40 | 2021-12-03 | 2022-02-13 |
 | [לאהובי](https://open.spotify.com/track/5nmq4anDakdMvojDYPkg6S) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [סיבה לנשום](https://open.spotify.com/album/5x3hX8Av6UIZG4ng18QxZl) | 3:29 | 2022-05-05 | 2022-05-07 |
-| [לבד על המיטה](https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לבד על המיטה](https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m) | 2:35 | 2022-02-10 |  |
+| [לבד על המיטה](https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לבד על המיטה](https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m) | 2:35 | 2022-02-10 | 2022-10-03 |
 | [לבחור נכון & פוליטיקה וסקס](https://open.spotify.com/track/2EpdcPssADDCCMeOQ9GVtv) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Amir Dadon](https://open.spotify.com/artist/398u4UqbG8yzv4H08Mc1Eq) | [לבחור נכון & פוליטיקה וסקס](https://open.spotify.com/album/3vZff9NFFWmvMO7jqVUg6h) | 5:44 | 2022-10-01 |  |
 | [להיות שלך](https://open.spotify.com/track/4BBEoERaClW0ROQY9evmE9) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [להיות שלך](https://open.spotify.com/album/7seV7Ag0PPEeNfLiMVa9hJ) | 3:18 | 2022-09-21 | 2022-10-02 |
 | [ליבינג דה דרים](https://open.spotify.com/track/3lc6b4cCbPLWNQ95GYxPkN) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [סטטוס](https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6) | 2:55 | 2022-07-20 | 2022-09-30 |
@@ -501,7 +502,7 @@
 | [שלמים](https://open.spotify.com/track/72W6xVQGdKHQl348KYgwg2) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [שלמים](https://open.spotify.com/album/5rnmY7Z9ADlfFDiaCmvGKo) | 3:41 | 2021-03-27\* | 2021-12-13 |
 | [שלמים \- מתוך חזרות למופע NEXT](https://open.spotify.com/track/3OiFlrXqZtDybOmfAvixcu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [שלמים \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/album/6edgc57nzPbTO30fLP2duc) | 4:11 | 2021-11-11 | 2021-11-21 |
 | [שמלה אדומה](https://open.spotify.com/track/7mddq84umaaly723Nttfmu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [3](https://open.spotify.com/album/5MhbWal97Bbh3Ho7xodWli) | 2:33 | 2021-08-06 | 2021-08-11 |
-| [שמש](https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [שמש](https://open.spotify.com/album/2UdGTuj5xeeRTGyTULrY4U) | 3:58 | 2021-08-25 |  |
+| [שמש](https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [שמש](https://open.spotify.com/album/2UdGTuj5xeeRTGyTULrY4U) | 3:58 | 2021-08-25 | 2022-10-03 |
 | [שני ילדים בעולם](https://open.spotify.com/track/3qWDOGP2SBMLQ3nzMIkNbz) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [שני ילדים בעולם](https://open.spotify.com/album/0LtCEsb3XEhynpgFLiWcLV) | 3:06 | 2021-03-27\* | 2021-09-26 |
 | [שער הרחמים](https://open.spotify.com/track/6OVPuT8LP83moqJYC1GpDm) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU) | [וביניהם](https://open.spotify.com/album/18ckY8CdBUqkrJLmRdRUgU) | 3:46 | 2022-05-05 | 2022-05-07 |
 | [שקיעות אדומות](https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:32 | 2021-12-07 | 2022-09-28 |

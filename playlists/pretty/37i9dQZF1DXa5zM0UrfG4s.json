@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Ringnes-Ronny",
-  "num_followers": 88869,
+  "num_followers": 88927,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODgwMCwwMDAwMDAwMGUwNTZmYjJlYjlmZmE2ZTY0ZmNjMjFiYjk1NmU4ZTJi",
+  "snapshot_id": "MTY2NDQ4ODgwMCwwMDAwMDAwMGNiMmU5N2UzYjIxMTk2NWVkMDIwM2QyZWRjMzM0MGZi",
   "tracks": [
     {
       "added_at": "2022-09-29 22:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "F*CKED UP!",
+        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "F*CKED UP!",
+      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "MISSF\u00d6RST\u00c5TT (Roc Boyz Remix)",
         "url": "https://open.spotify.com/album/0MKKTiQSyTr116fbPq79vf"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 133714,
       "name": "TANTE",
       "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "F*CKED UP!",
-        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "F*CKED UP!",
-      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -291,22 +291,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "HAALAND",
-        "url": "https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl"
+        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
+        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
       },
       "artists": [
         {
-          "name": "Kevin Lauren",
-          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
         },
         {
-          "name": "BEK & Moberg",
-          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 104270,
-      "name": "HAALAND",
-      "url": "https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI"
+      "duration_ms": 186692,
+      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
+      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -327,22 +327,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
-        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
+        "name": "HAALAND",
+        "url": "https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl"
       },
       "artists": [
         {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+          "name": "Kevin Lauren",
+          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
         },
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "BEK & Moberg",
+          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
         }
       ],
-      "duration_ms": 186692,
-      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
-      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
+      "duration_ms": 104270,
+      "name": "HAALAND",
+      "url": "https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -511,8 +511,8 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Gatebil",
-        "url": "https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH"
+        "name": "B\u00f8gda",
+        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
       },
       "artists": [
         {
@@ -520,13 +520,29 @@
           "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         },
         {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 128284,
-      "name": "Gatebil",
-      "url": "https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe"
+      "duration_ms": 164127,
+      "name": "B\u00f8gda",
+      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Stavangerkameratene",
+        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Bare s\u00e5 du vett det",
+      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -551,18 +567,34 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Stavangerkameratene",
-        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
+        "name": "Du kan inte f\u00e5 min \u00f6l",
+        "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
       "artists": [
         {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
         }
       ],
-      "duration_ms": 210093,
-      "name": "Bare s\u00e5 du vett det",
-      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
+      "duration_ms": 136100,
+      "name": "Du kan inte f\u00e5 min \u00f6l",
+      "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -591,38 +623,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Du kan inte f\u00e5 min \u00f6l",
-        "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 136100,
-      "name": "Du kan inte f\u00e5 min \u00f6l",
-      "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "En gammal Amazon",
         "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 166297,
       "name": "En gammal Amazon",
       "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Polare",
-        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
-      },
-      "artists": [
-        {
-          "name": "Prilla Generalen",
-          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Polare",
-      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -671,8 +655,24 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "B\u00f8gda",
-        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
+        "name": "Polare",
+        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
+      },
+      "artists": [
+        {
+          "name": "Prilla Generalen",
+          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Polare",
+      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Gatebil",
+        "url": "https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH"
       },
       "artists": [
         {
@@ -680,13 +680,13 @@
           "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
         }
       ],
-      "duration_ms": 164127,
-      "name": "B\u00f8gda",
-      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
+      "duration_ms": 128284,
+      "name": "Gatebil",
+      "url": "https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Livet p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 153843,
       "name": "Livet p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Supa",
-        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
+        "name": "Levva Livet!",
+        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
         }
       ],
-      "duration_ms": 172106,
-      "name": "Supa",
-      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
+      "duration_ms": 274053,
+      "name": "Levva Livet",
+      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

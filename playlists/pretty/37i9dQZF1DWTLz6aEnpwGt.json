@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 29451,
+  "num_followers": 29486,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkwNTkxMSwwMDAwMDAwMGUyZTQ3MmQyYzdiNzhjOTdhZjU0YTE4ZDI0OWQ1NTZk",
+  "snapshot_id": "MTY2MDkwNTkxMSwwMDAwMDAwMGU5ZWVlZjAzNWZjYmRlNjhhNDFhNzJkMDQ2OGI0YWFi",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -363,6 +363,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
+        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 77093,
+      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
+      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Piano Concertos",
         "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 483600,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
       "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
-        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 77093,
-      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
-      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
-        "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 125760,
-      "name": "Partita No. 6 in E minor, BWV 830 : IV. Air",
-      "url": "https://open.spotify.com/track/1oj8MLlueb0DNDmxoLUX0h"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 95893,
       "name": "Goldberg Variations, BWV 988: Var. 2",
       "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Partita No. 6 in E minor, BWV 830 : IV. Air",
+      "url": "https://open.spotify.com/track/1oj8MLlueb0DNDmxoLUX0h"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -751,26 +751,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 278400,
       "name": "Concerto No. 4 in A Major, BWV 1055: II. Larghetto",
       "url": "https://open.spotify.com/track/6pGymrl8bVVIrK5WpLQObw"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2022-08-19 10:45:11",

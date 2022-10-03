@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,742 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,797 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 9 | [Mientras Tú Jugabas](https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:10 |
 | 10 | [Pistearé](https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:24 |
 | 11 | [Te Darán Ganas De Verme](https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:55 |
-| 12 | [La Escuelita](https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:05 |
+| 12 | [Hasta Que Salga El Sol](https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:23 |
 | 13 | [Cuando Te Entregues A Él](https://open.spotify.com/track/6uh4lKGlcy14su96RvV6df) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 3:07 |
 | 14 | [Recuérdenme Así](https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:59 |
-| 15 | [Hasta Que Salga El Sol](https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:23 |
+| 15 | [La Escuelita](https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:05 |
 | 16 | [Tres Recuerdos](https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 3:17 |
 | 17 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 |
 | 18 | [No Llega El Olvido](https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Amores Fingidos](https://open.spotify.com/track/4J3miVgH4SeSdYf1SN8lB1) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si No Existieras...Pero Existimos](https://open.spotify.com/album/19TgMyTRUaYXQ4dSj84cgn) | 2:35 |
 | 50 | [Popurrí: Cuando Nadie Te Quiera, Debajo De Los Laureles Aka Soy Huerfanito, No Volveré \- En Vivo](https://open.spotify.com/track/1Pik0CB9d3afxL3ICSYund) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 4:50 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBiZjQzZjYxZjcxZmE0YzY4OGEyN2IwMDM5ODUwYmQ1ZQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDAxMTViYjczMzJlN2MwYjNhOWQ1NTFmZDI0NmU5NjAyYw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQQIA+ artists\. Cover: serpentwithfeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,191 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,201 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 23 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
 | 24 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 |
 | 25 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
-| 26 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 |
-| 27 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
+| 26 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
+| 27 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 |
 | 28 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
 | 29 | [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 |
 | 30 | [Power Of Two](https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Swamp Ophelia](https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21) | 5:22 |
 | 31 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
-| 32 | [Outta Time](https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:18 |
-| 33 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
+| 32 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
+| 33 | [Outta Time](https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:18 |
 | 34 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 |
 | 35 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 |
-| 36 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
-| 37 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 |
+| 36 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 |
+| 37 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
 | 38 | [Phanta](https://open.spotify.com/track/6agThDCDlPNwJL6lvU5iYX) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:14 |
 | 39 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 |
 | 40 | [Don't Freak](https://open.spotify.com/track/6IDf8qhBUUi8BUWYRqk1mB) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Don't Freak](https://open.spotify.com/album/5xv8mQtOVEPHSmzUgqKlAx) | 2:46 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 66 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 | 67 | [El Dorado](https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Peak](https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh) | 3:50 |
 | 68 | [You're Still The One](https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [You're Still The One](https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4) | 2:44 |
-| 69 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
-| 70 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 |
+| 69 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 |
+| 70 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
 | 71 | [Ain't That Peculiar](https://open.spotify.com/track/4RAS6QT974bl5blsapzVGq) | [Fanny](https://open.spotify.com/artist/1Pag7p4HbSdZIDzgNLsk39) | [First Time In A Long Time: The Reprise Recordings](https://open.spotify.com/album/2BkEkcphy0liqTVRSBEEpC) | 4:05 |
 | 72 | [California Girl](https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0) | 3:57 |
 | 73 | [Ophelia](https://open.spotify.com/track/3v87pWnjTC90f3yj9OKqYP) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:33 |
 | 74 | [Don't Go Puttin Wishes in My Head](https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 4:21 |
-| 75 | [Everything I’ve Ever Learned](https://open.spotify.com/track/4AwMdsbhwjEdi2RBHTG3ip) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Everything I’ve Ever Learned](https://open.spotify.com/album/7c07uVLXixDIdJYF3v9XIO) | 3:54 |
+| 75 | [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 |
 
-Snapshot ID: `MTY2MDIzOTI2MSwwMDAwMDAwMDMwNDEwYmExMTJkMjgwMjJmN2IwMjllOTk0ZGM5ZmNh`
+Snapshot ID: `MTY2MDIzOTI2MSwwMDAwMDAwMDZkZGJkZmM4NGRhNzU1ZTMxOWVjZjVhODQ5YjExZjc0`

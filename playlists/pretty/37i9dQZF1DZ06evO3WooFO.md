@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,366 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,468 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 46 | [Even If She Falls](https://open.spotify.com/track/4s7qEhuFacYJMJjTISwTSo) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 2:59 |
 | 47 | [Ghost On The Dance Floor](https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 4:17 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDAwYzU3ZTg1ZjRmOTg3ZTYyZGY5NWUzNmEyOWNmZWVlZg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBhMzQ1NTVlYTQ4ZDdmM2I0MWYxODY1NzgwOTE3YTA5NQ==`

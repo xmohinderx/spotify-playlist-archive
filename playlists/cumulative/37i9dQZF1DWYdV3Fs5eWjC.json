@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 244635,
       "name": "altar",
       "url": "https://open.spotify.com/track/1GaMFbWeBZeSwgyAEr1s4m"
@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "album": {
         "name": "F.U.C.K.",
         "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 206000,
       "name": "Green Line",
       "url": "https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk"
@@ -1331,6 +1349,24 @@
       "duration_ms": 170897,
       "name": "macrodosing - Spotify Singles",
       "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
+    },
+    {
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/2biRwgdbRj553k78fgoz86"
     },
     {
       "album": {

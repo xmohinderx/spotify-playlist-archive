@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,124 likes - 90 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,176 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 37 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 38 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
 | 39 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
-| 40 | [Call My Name \- Acoustic](https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:17 |
+| 40 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 |
 | 41 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
-| 42 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 |
+| 42 | [Call My Name \- Acoustic](https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:17 |
 | 43 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
 | 44 | [Where I’ll Find You](https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Joan Shelley](https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n) | 3:14 |
 | 45 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 89 | [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 |
 | 90 | [Putting On Airs](https://open.spotify.com/track/0fRulaanc2K4rmlPhh2MBe) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting On Airs](https://open.spotify.com/album/5y03U2xxe0NBrI5KSr2jGK) | 4:40 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDU5ODg1NzEyMjAxOTVkODA2MDRmNmQzNjNlMTU4Nzcx`
+Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDI1MTE5MGQyYmE1NGJkNGNmMWI5NjFmZDAyZmFmNjIx`

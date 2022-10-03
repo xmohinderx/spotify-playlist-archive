@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 23851,
+  "num_followers": 23852,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDVhMGM4NmRjNjJiNTRjMjkzZjQwODQ5MjZkNDQ3NTFi",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDIyYTlkNjhkNTg5YmQzZmNiOWIxM2UzZGE2ZGUwMDhl",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -107,6 +107,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "L\u00e4ngtan",
         "url": "https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 175066,
       "name": "My Number One",
       "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
-      },
-      "artists": [
-        {
-          "name": "Arvingarna",
-          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Diggiloo Diggiley",
-        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
-      },
-      "artists": [
-        {
-          "name": "Herreys",
-          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Diggiloo Diggiley",
-      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 180893,
       "name": "Manboy",
       "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Diggiloo Diggiley",
+        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
+      },
+      "artists": [
+        {
+          "name": "Herreys",
+          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Diggiloo Diggiley",
+      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Dance You Off",
-        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 182134,
-      "name": "Dance You Off",
-      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
         "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 183746,
       "name": "Det g\u00f6r ont",
       "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Dance You Off",
+        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 182134,
+      "name": "Dance You Off",
+      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -703,22 +703,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
-      },
-      "artists": [
-        {
-          "name": "Anton Ewald",
-          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "H\u00f6gt \u00f6ver havet",
         "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 169226,
       "name": "H\u00f6gt \u00f6ver havet",
       "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
+      },
+      "artists": [
+        {
+          "name": "Anton Ewald",
+          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
     },
     {
       "added_at": "2019-02-28 12:57:58",

@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-559 songs - 1 day 10 hr 15 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+560 songs - 1 day 10 hr 19 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-07-23 | 2022-02-11 |
 | [Guess I’m Falling](https://open.spotify.com/track/1CJBWA8ausf78ToFok1tba) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Guess I’m Falling](https://open.spotify.com/album/5julZrUHJdzEOVdrxrnhkp) | 2:42 | 2022-04-01 | 2022-06-24 |
 | [Half\-Moon Bag](https://open.spotify.com/track/0Y0yykDeSGqg0whcAh5wHR) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Half\-Moon Bag](https://open.spotify.com/album/4lEMfzAAhSGbwH8YaZq3p5) | 4:34 | 2020-05-15 | 2021-07-10 |
-| [Hands Up](https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Hands Up](https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4) | 4:12 | 2022-07-07 |  |
+| [Hands Up](https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Hands Up](https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4) | 4:12 | 2022-07-07 | 2022-10-03 |
 | [Happiest Man](https://open.spotify.com/track/08Z6vAIkLBZodYe1KJaQaB) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Happiest Man](https://open.spotify.com/album/37gx1ywaHPsA5UB0N1For7) | 4:00 | 2020-07-11 | 2020-11-03 |
 | [Hard Life](https://open.spotify.com/track/2taVZUaiDcWhbQILRhwPA3) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Hard Life](https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL) | 3:48 | 2021-07-10 | 2022-04-29 |
 | [Hard Liquor](https://open.spotify.com/track/6ySYUiIMTH7XhGULpN9PA3) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [Hard Liquor](https://open.spotify.com/album/6yHBM4z0lwVaYHm6otSfIS) | 3:18 | 2020-07-11 | 2021-02-24 |
@@ -403,6 +403,7 @@
 | [Rise](https://open.spotify.com/track/6ZKs0LHSpN5fA17tA3lqIT) | [Safa Liron](https://open.spotify.com/artist/7DAy6NPOtahk5F2aOgEjZw), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Rise](https://open.spotify.com/album/2mhIpzfMTGU01Owrq3ydin) | 2:38 | 2021-07-31 | 2021-09-24 |
 | [Rise \- A COLORS SHOW](https://open.spotify.com/track/5MDKKxviGiWc0LHg7N5JKL) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Rise \- A COLORS SHOW](https://open.spotify.com/album/0RDldqqrBC9ftaa0yAgSB7) | 2:50 | 2020-06-02 | 2021-04-23 |
 | [River](https://open.spotify.com/track/7kQsiMaQD3hveS6ejQNOw8) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [River](https://open.spotify.com/album/27zVikKFB0moOYXJanIOct) | 3:49 | 2022-09-22 |  |
+| [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-09-29 |  |
 | [Rome](https://open.spotify.com/track/4tIQSUOeS5lUt0z9bo7I7H) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Rome](https://open.spotify.com/album/63PWuzq9CUkvVjHTfZXPqe) | 3:47 | 2020-03-25\* | 2020-07-03 |
 | [Royal \(Recall\)](https://open.spotify.com/track/3B6NAE4xPwzeGDMy0yMNY2) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Royal \(Recall\)](https://open.spotify.com/album/6DWmlOGZadzy75IdJ6NOop) | 2:54 | 2021-02-28 | 2021-04-23 |
 | [Royal Cologne](https://open.spotify.com/track/1Ms9FqdbzWzDkv6KSJE10U) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Royal Cologne](https://open.spotify.com/album/4FTJg1p495RegTI5viSwQr) | 3:56 | 2021-07-10 | 2022-07-20 |

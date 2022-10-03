@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,506 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,520 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 49 | [Forged By Neron](https://open.spotify.com/track/0FwJA4tBsAmfWo1QlnX033) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Forged By Neron](https://open.spotify.com/album/4jdNvSi7ujZEW8KQ3gk1iD) | 3:05 |
 | 50 | [Fallen Torches](https://open.spotify.com/track/55PBokVAiehQnFfapP54PK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:22 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA1ZTcxMDhlZWQ3Y2I0MzFiN2ZmYzBkYjE4NWE4ZDExNA==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDA1MWYwNjgwY2QwZGI3NGZiMzM4OGIyMjYzNDY3ZTc5ZQ==`

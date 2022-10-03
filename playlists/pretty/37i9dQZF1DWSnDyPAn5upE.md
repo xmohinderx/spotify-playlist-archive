@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,457 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,510 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 16 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
 | 17 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
 | 18 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 |
-| 19 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
-| 20 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
+| 19 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
+| 20 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 21 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 |
 | 22 | [999 Renaissance](https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2) | [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Revival Renaissance Rebirth \(Act 1\)](https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW) | 5:04 |
 | 23 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 45 | [Spirit of the Forest](https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Spirit of the Forest](https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD) | 2:43 |
 | 46 | [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 |
 | 47 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 |
-| 48 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 |
-| 49 | [Fantas Variation for Voices](https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Annie Garlid](https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V), [Stine Janvin](https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 7:40 |
+| 48 | [Fantas Variation for Voices](https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Annie Garlid](https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V), [Stine Janvin](https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 7:40 |
+| 49 | [Haven't Left Home 4 4 Days](https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 4:24 |
 | 50 | [Aurobindo](https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 8:07 |
 
-Snapshot ID: `MTY2NDU2MDc0MSwwMDAwMDAwMGQzZWRkYzdmNmMyYmM2MGY5MjZmM2JmOGQ1Yjk3YjFk`
+Snapshot ID: `MTY2NDU2MDc0MSwwMDAwMDAwMGYxNmM3NTljNzg0NWFmZjExMmNkNGIyMjJlMjNjYWMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. A mixture of sounds and artists\. Cover: Cuco
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,553 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,565 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 61 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 |
 | 62 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 |
 | 63 | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA) | 3:27 |
-| 64 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
-| 65 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 64 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 65 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
 | 66 | [you are, you are \- demo](https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc) | [f\. fin](https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60) | [V](https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3) | 2:17 |
 | 67 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 |
 | 68 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 83 | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe) | 3:00 |
 | 84 | [Focus](https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [Focus](https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb) | 2:00 |
 | 85 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
-| 86 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 |
-| 87 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
+| 86 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
+| 87 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 |
 | 88 | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj) | 3:50 |
 | 89 | [Too Much](https://open.spotify.com/track/4641GJZLmYVBT8mRXRKaid) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Too Much](https://open.spotify.com/album/4dZQkNMhgBKHOx9QOgqWWW) | 2:11 |
 | 90 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [No Es Normal](https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 3:32 |
 | 100 | [Made of Gold \- Edit](https://open.spotify.com/track/3pMtWCYO44ow0AOj1RL99O) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Made of Gold](https://open.spotify.com/album/3tD15FVyV5uiCKsTPiTTNP) | 3:33 |
 
-Snapshot ID: `MTY2MjQ4MjQ0MywwMDAwMDAwMDkxMTgwYTM0NjliN2ZjMTM1MDQyNTNkNTJlNjA3NDYw`
+Snapshot ID: `MTY2MjQ4MjQ0MywwMDAwMDAwMDBlNzAxMmQ4ZjczNzVmMTg5YWZlNGU3YTc1ZTBmMjMz`

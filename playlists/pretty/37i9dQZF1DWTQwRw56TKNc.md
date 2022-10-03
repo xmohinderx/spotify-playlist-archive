@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 
 > Relax with these timeless tunes\. Cover: John Denver
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,342 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,743 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 33 | [The Wind \- Remastered 2021](https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 1:42 |
 | 34 | [Danny's Song](https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [The Best: Loggins & Messina Sittin' In Again](https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf) | 4:14 |
 | 35 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 |
-| 36 | [Carolina in My Mind](https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 3:58 |
-| 37 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Expanded Edition\)](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) | 2:35 |
+| 36 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Expanded Edition\)](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) | 2:35 |
+| 37 | [Carolina in My Mind](https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 3:58 |
 | 38 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:47 |
 | 39 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 3:37 |
 | 40 | [I'll Have To Say I Love You In A Song](https://open.spotify.com/track/4t8tx6o7oM6Ax66ZUU361y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq) | 2:34 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 42 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
 | 43 | [Leader of the Band](https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Love Songs](https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID) | 4:16 |
 | 44 | [Mr\. Tambourine Man](https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 5:30 |
-| 45 | [The Night They Drove Old Dixie Down](https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 3:31 |
-| 46 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
+| 45 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
+| 46 | [The Night They Drove Old Dixie Down](https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 3:31 |
 | 47 | [New York State of Mind](https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 6:02 |
-| 48 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
-| 49 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
+| 48 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
+| 49 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 50 | [The Way We Were](https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:31 |
 | 51 | [Walkin' Back to Georgia](https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:50 |
 | 52 | [Sunshine On My Shoulders](https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 5:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 69 | [Keep Me in Your Heart](https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [The Wind](https://open.spotify.com/album/6WNzWYrf563I7TCiSB1fO3) | 3:28 |
 | 70 | [Lean on Me](https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:17 |
 
-Snapshot ID: `MTY2MzA3OTc2MSwwMDAwMDAwMDJlMDk3NWE1ZTBmNWIzMTk2ZjRmMjM4NDkxMDUwMDE5`
+Snapshot ID: `MTY2MzA3OTc2MSwwMDAwMDAwMGNmYjkxZWFlNTVkYjE5MzBhZDYxMGZmNGQ1MGM4YTQ4`

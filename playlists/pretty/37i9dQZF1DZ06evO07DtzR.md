@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,122 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,144 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 41 | [永遠 \-Instrumental\-](https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:16 |
 | 42 | [キミソラキセキ〜Instrumental〜](https://open.spotify.com/track/3LWpdadHbtQ5ryvUGHa7JY) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 5:05 |
 | 43 | [名前のない怪物 \-Instrumetal\-](https://open.spotify.com/track/1pNSSNluazasQujT6XiCip) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
-| 44 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
-| 45 | [リローデッド \-Instrumental\-](https://open.spotify.com/track/61j4VXpUIhV2dLUECFAEkO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:07 |
+| 44 | [リローデッド \-Instrumental\-](https://open.spotify.com/track/61j4VXpUIhV2dLUECFAEkO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:07 |
+| 45 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
 | 46 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/6OPsaDrvyEGBGxV0ovL7Ea) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 7:55 |
 | 47 | [名前のない怪物 \(TV Edit 92s ver\) \-Instrumetal\-](https://open.spotify.com/track/01hMjltcNqB9NweZlSxWvE) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 1:40 |
 | 48 | [Departures 〜あなたにおくるアイの歌〜\(TV Edit\)\-Instrumental\-](https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 1:35 |
 | 49 | [All Alone With You \-Instrumental\-](https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
 | 50 | [英雄 運命の詩 \-Instrumental\-](https://open.spotify.com/track/6lXrGuKbaNnT56kfBJu3fu) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:43 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA2YjU2MDgyOTVlZTlkZjEyMGUzNjA0NGM1NTk4YzBjNw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA0NmM4YWIyZmFiMzhhZjFkNjgwZDUyNmRkMTE2NGFhOQ==`

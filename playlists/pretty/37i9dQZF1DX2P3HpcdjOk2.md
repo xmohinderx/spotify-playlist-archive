@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,748 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,926 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 24 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 |
 | 25 | [Fox On The Run](https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 3:27 |
 | 26 | [Cum on Feel the Noize](https://open.spotify.com/track/1agVrzicFWExgEiAtk8lmr) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Sladest \(Expanded\)](https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW) | 4:24 |
-| 27 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/2rgHxOarlO4W35mg0IZ5u8) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Kimono My House](https://open.spotify.com/album/7KOmuu3cbJQEQYGt3XmLmY) | 3:04 |
-| 28 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
+| 27 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
+| 28 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/2rgHxOarlO4W35mg0IZ5u8) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Kimono My House](https://open.spotify.com/album/7KOmuu3cbJQEQYGt3XmLmY) | 3:04 |
 | 29 | [Rock On](https://open.spotify.com/track/0uPIwcT6OdJ5BAJdYkxVp9) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [Rock On](https://open.spotify.com/album/4yMLfb3f5fo7lPgHAUqx8P) | 3:24 |
 | 30 | [Ziggy Stardust \- 2012 Remaster](https://open.spotify.com/track/5IyL3XOaRPpTgxVjRIAxXU) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 3:13 |
 | 31 | [Some Girls](https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX) | [Racey](https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl) | [Smash and Grab](https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 49 | [Looking For A Kiss](https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:18 |
 | 50 | [See My Baby Jive \- 2006 Remaster](https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [Wizzard Brew](https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N) | 5:02 |
 
-Snapshot ID: `MTY2MzAxMDU4MiwwMDAwMDAwMGIwOGQ3YTdhNjJhM2NmMzBkMDJhMzU5OTAxMzRiNjVi`
+Snapshot ID: `MTY2MzAxMDU4MiwwMDAwMDAwMDg0MGJhYmE4MTAwZjNlZDZhM2I1MzdmMWFmYzA4OGNl`

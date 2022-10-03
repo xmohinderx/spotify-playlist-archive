@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,446 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,543 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 12 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 | 13 | [Movin' Out \(Anthony's Song\)](https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:30 |
 | 14 | [Two Tickets to Paradise](https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Eddie Money](https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye) | 3:57 |
-| 15 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
-| 16 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 |
+| 15 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 |
+| 16 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
 | 17 | [Rikki Don't Lose That Number](https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:31 |
 | 18 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
 | 19 | [When You're In Love With A Beautiful Woman](https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:58 |
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 61 | [This Night Won't Last Forever](https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [Dialogue](https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK) | 4:01 |
 | 62 | [In Your Letter](https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:16 |
 | 63 | [If I Saw You Again](https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/1qdncgTUWG6mnVUfTyYdIG) | 3:24 |
-| 64 | [You Belong to Me](https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Carry On](https://open.spotify.com/album/49gYESUIs0Wk80IhUgnbsY) | 3:11 |
-| 65 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
+| 64 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
+| 65 | [You Belong to Me](https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Carry On](https://open.spotify.com/album/49gYESUIs0Wk80IhUgnbsY) | 3:11 |
 | 66 | [Better Love Next Time](https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:00 |
 | 67 | [The Nightfly](https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 5:47 |
 | 68 | [Say You'll Be Mine](https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 2:56 |
 | 69 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
 | 70 | [Casablanca](https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 4:03 |
-| 71 | [Still Right Here In My Heart](https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Something In The Night](https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti) | 2:56 |
-| 72 | [Reminiscing \- 2002 Digital Remaster](https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [The Definitive Collection](https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN) | 4:09 |
+| 71 | [Reminiscing \- 2002 Digital Remaster](https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [The Definitive Collection](https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN) | 4:09 |
+| 72 | [Still Right Here In My Heart](https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Something In The Night](https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti) | 2:56 |
 | 73 | [Boys of Autumn](https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 4:14 |
 | 74 | [Just One Look \- 2015 Remaster](https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Greatest Hits](https://open.spotify.com/album/1OLaHAb4ZU4epzZ3k7JV0T) | 3:12 |
 | 75 | [You're the Love](https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Takin' It Easy](https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Who's Right, Who's Wrong](https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Future Street](https://open.spotify.com/album/7KBgZw2zPPQes5Oo1vNQha) | 4:19 |
 | 80 | [Baby I Need Your Lovin'](https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Change Of Heart](https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw) | 3:16 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDNhNTAxNGNmNTE3MzlkNzE4NGVlN2IyNDQzN2E4NDU3`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGIyYzQ1ODEzM2U1ZmI2ZjdlZGJmNDlmMmM4YzIzMGUx`

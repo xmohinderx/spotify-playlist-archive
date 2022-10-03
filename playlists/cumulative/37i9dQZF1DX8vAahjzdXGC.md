@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ed Sheeran
 
-13,266 songs - 31 day 17 hr 45 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+13,268 songs - 31 day 17 hr 54 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3907,7 +3907,8 @@
 | [Fortune](https://open.spotify.com/track/0QqO1HXOG0wPiCkorNQFzQ) | [Dekat](https://open.spotify.com/artist/2cfeDiShASddu7VxhoG3ce) | [Fortune](https://open.spotify.com/album/4KjbgtCa7PIvHmbbHBsCMu) | 3:13 | 2022-07-07 | 2022-07-15 |
 | [Fortune Teller \(feat\. Stella Jang\)](https://open.spotify.com/track/66216rH0JIcTsLCEDq2yeD) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [I'll see you when I see you](https://open.spotify.com/album/0Tg70L8Bneo43Ml3chP19k) | 2:47 | 2021-04-23 | 2021-04-30 |
 | [Forward](https://open.spotify.com/track/6QTXKL1bGtIqSD4Gag0wDQ) | [Dimas Jimbo](https://open.spotify.com/artist/5iFYAR3d454wcmfqDz9Ril) | [Forward](https://open.spotify.com/album/7GzEwsGSG33PWgoBE9IFCQ) | 2:14 | 2020-06-12 | 2020-06-19 |
-| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-29 |  |
+| [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 |  |
+| [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-29 | 2022-10-03 |
 | [Foto Lama](https://open.spotify.com/track/4xXl0Nvt6lG8LepHgrdKBR) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Sebuah Cerita](https://open.spotify.com/album/2s1MfOgZZetupfPMptd49j) | 3:50 | 2021-05-28 | 2021-06-04 |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2021-03-14 | 2021-03-19 |
 | [Found](https://open.spotify.com/track/6JTzLOggj77NHWhsSJLAaK) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [Found](https://open.spotify.com/album/5JoQkHKixYjBhsDF7qLR28) | 4:06 | 2022-07-28 | 2022-08-05 |
@@ -8115,7 +8116,8 @@
 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 | 2020-05-01 | 2020-05-08 |
 | [Nonton Bola](https://open.spotify.com/track/4Vg37GcMBlQVpSPLdQpdGA) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [Nonton Bola](https://open.spotify.com/album/32fNig9D3A2beri0eA7qtV) | 3:47 | 2022-03-24 | 2022-04-01 |
 | [Noppakku!!!](https://open.spotify.com/track/1rybEcay2OtGd1Rawq3Yjt) | [Sway D](https://open.spotify.com/artist/3HfWEOcXit3EkuRCt5M3Yd) | [Noppakku!!!](https://open.spotify.com/album/544PxZvYCyDvOQU87roU9L) | 2:19 | 2020-04-10 | 2020-04-16 |
-| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-29 |  |
+| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-29 | 2022-10-03 |
+| [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 | 2022-09-30 |  |
 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 | 2022-09-15 | 2022-09-23 |
 | [Nosedive \(feat\. noovv\)](https://open.spotify.com/track/3i0rAJfL3wdCrBB4axJ9kx) | [SERO](https://open.spotify.com/artist/1k8bimEiofocWUzKRmPHKt), [Noovv](https://open.spotify.com/artist/3ksWmDlBeF6Dnn3u36TUrT) | [Fairy Tale](https://open.spotify.com/album/4v6lhJdobrQR9hxYkqGE9Q) | 3:10 | 2022-01-20 | 2022-01-28 |
 | [Nosferatu](https://open.spotify.com/track/2NsWFGN88Y0iPRvKYVJdgH) | [Alien Lipstick Fire](https://open.spotify.com/artist/0qUBeJccabYr4f14h49NMa) | [Nosferatu](https://open.spotify.com/album/0BY1ApgbSMJODB9X0qQmJP) | 3:56 | 2021-06-11 | 2021-06-18 |

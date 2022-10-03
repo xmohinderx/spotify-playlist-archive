@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,127 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,370 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 15 | [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 |
 | 16 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 17 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 |
-| 18 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
+| 18 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
 | 19 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
-| 20 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
+| 20 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
 | 21 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 |
 | 22 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 |
 | 23 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 37 | [And I Love You So](https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 3:17 |
 | 38 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 |
 | 39 | [Georgia on My Mind \- Original Master Recording](https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Georgia on My Mind \(Original Master Recording\)](https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb) | 3:37 |
-| 40 | [Misty](https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Heavenly](https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9) | 3:36 |
-| 41 | [Stardust](https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN) | [Hoagy Carmichael](https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk) | [The Stardust Road](https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx) | 2:26 |
+| 40 | [Stardust](https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN) | [Hoagy Carmichael](https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk) | [The Stardust Road](https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx) | 2:26 |
+| 41 | [Misty](https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Heavenly](https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9) | 3:36 |
 | 42 | [Let There Be Love](https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 2:45 |
-| 43 | [Tennessee Waltz \- 1950 Single Version](https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 3:05 |
+| 43 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 |
 | 44 | [Spanish Eyes](https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [My Cherie](https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0) | 2:46 |
-| 45 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 |
+| 45 | [Tennessee Waltz \- 1950 Single Version](https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 3:05 |
 | 46 | [Someone To Watch Over Me](https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:16 |
 | 47 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
 | 48 | [The Glory of Love](https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Hello Young Lovers](https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg) | 2:49 |
 | 49 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
 | 50 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |
 
-Snapshot ID: `MTY2MjY1MzA5NiwwMDAwMDAwMDcyMzljMGQ5OGRjNjcxNDBiYmNkYjY3MWNkODI2Mjk5`
+Snapshot ID: `MTY2MjY1MzA5NiwwMDAwMDAwMDk0MjA1YTNlOGI5MTNlYzJhZmYyMDgzZDc2YjdmNWU2`

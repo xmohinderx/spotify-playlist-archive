@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,995 likes - 103 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,016 likes - 103 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 36 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 |
 | 37 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 |
 | 38 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
-| 39 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 |
+| 39 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 |
 | 40 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 |
 | 41 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 |
 | 42 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 67 | [That's My Baby](https://open.spotify.com/track/0YmhNztwrZtE8Z9dBEhsVy) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [That's My Baby](https://open.spotify.com/album/7sG9uqgduI2WH84fSr5fek) | 2:18 |
 | 68 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 69 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 |
-| 70 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
+| 70 | [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 |
 | 71 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 |
 | 72 | [Untuk Kamu](https://open.spotify.com/track/2YdH2VwGqqm343hRwioFmW) | [Daffa](https://open.spotify.com/artist/7BEbjlezcLCZcPZRwX6AqX) | [Untuk Kamu](https://open.spotify.com/album/4fWszxU9C6IMghqgGBTXhZ) | 4:17 |
 | 73 | [KELAS](https://open.spotify.com/track/7teNnbI376QvOwGq2MdzT1) | [Devin Adamn](https://open.spotify.com/artist/6kwOdX0GkoTAGArEzSD9fd) | [BETA MALE](https://open.spotify.com/album/4RjYTscNnHsSaK0uOowmw6) | 2:56 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 102 | [Kaqotun](https://open.spotify.com/track/4Go5gWOhnFCqn6RpEjZmm7) | [Sillas](https://open.spotify.com/artist/1DGiCzaCRZdqGyOC3c2Z6y) | [Kaqotun](https://open.spotify.com/album/2mqq8dZc8acR395hXcXVhL) | 5:13 |
 | 103 | [Hidup Dan Matiku Untukmu](https://open.spotify.com/track/7aRD9z9kDgYenTi90kPfU2) | [Fauzan Razak](https://open.spotify.com/artist/13h5mUWujXWtmhG85D3LVM), [Kaka Instrum](https://open.spotify.com/artist/5ix9REpZlwxI1WWUJz3OEE) | [Hidup dan Matiku Untukmu](https://open.spotify.com/album/36SyY8Qqe4OSufbUFrkr30) | 4:10 |
 
-Snapshot ID: `MTY2NDUxOTUzNSwwMDAwMDAwMDk3YjExYTM1MGI0NzJmZjk3YmZmMzJiMWJkODgzYjlm`
+Snapshot ID: `MTY2NDUxOTUzNSwwMDAwMDAwMDNlZTk5ZjkyNzExYjQ0NTQ2YWI4ZjRhYzdlNGU5MmEx`

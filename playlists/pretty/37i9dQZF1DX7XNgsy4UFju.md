@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,184 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,193 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 11 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 |
 | 12 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
 | 13 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 |
-| 14 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 |
+| 14 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 |
 | 15 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 16 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 |
 | 17 | [Baggage](https://open.spotify.com/track/5vW6dhzAkClmMivcSJwxvu) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Baggage](https://open.spotify.com/album/1M0Dcx7g5wAmW1g56zFOHC) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Survivor's Guilt](https://open.spotify.com/track/2dPYz3ceO14cgKZzsrTx5A) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Survivor's Guilt](https://open.spotify.com/album/482gKoUvLQrjPmTx8ihrXm) | 3:30 |
 | 100 | [Motel](https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Hi\-Fidelity](https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q) | 3:29 |
 
-Snapshot ID: `MTY2NDU1ODgzMCwwMDAwMDAwMGNiYTNlZTQ4NjVkYjhkNjYwMWU1ZjQ2YWY2ZjUyY2I0`
+Snapshot ID: `MTY2NDU1ODgzMCwwMDAwMDAwMDg4MmVkMTBiYjZlNDQzNDg0Yzk4ZTVkYjYyNjNkNmQy`

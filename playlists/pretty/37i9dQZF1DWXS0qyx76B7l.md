@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,047 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,048 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 28 | [Angel Of Harlem](https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 3:49 |
 | 29 | [Brooklyn In The Summer](https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L) | 3:28 |
 | 30 | [Brooklyn](https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31) | 3:47 |
-| 31 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
-| 32 | [Bleecker Street](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:43 |
+| 31 | [Bleecker Street](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:43 |
+| 32 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
 | 33 | [Downtown Train](https://open.spotify.com/track/3fPqUl4lPDUQmY0T7dKUv2) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK) | 3:50 |
 | 34 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:10 |
 | 35 | [Nights On Broadway](https://open.spotify.com/track/4JjcCdm0RSPuvQWnZyrNkm) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 4:31 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 43 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
 | 44 | [NEW DORP\. NEW YORK](https://open.spotify.com/track/2QFHyK2SV2YWyJzu6kpGhk) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Wonder Where We Land](https://open.spotify.com/album/4J9gt4YOazmavlYw4hMrfY) | 3:00 |
 | 45 | [Take the "A" Train](https://open.spotify.com/track/6KBsivP3Of4z2x6uNMAyE3) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Piano In The Background](https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo) | 5:31 |
-| 46 | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/6EIAHyD9gIDnz2hvEynZJz) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/album/35qwUQ9VvCwVgwPT7QM7yt) | 3:44 |
-| 47 | [Harlem](https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:23 |
+| 46 | [Harlem](https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:23 |
+| 47 | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/track/6EIAHyD9gIDnz2hvEynZJz) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Still New York \(feat\. Joey Bada$$\)](https://open.spotify.com/album/35qwUQ9VvCwVgwPT7QM7yt) | 3:44 |
 | 48 | [Welcome To New York City](https://open.spotify.com/track/6GJe7xXJVxmPZpMBVb7kOc) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 5:09 |
 | 49 | [NYC](https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:19 |
-| 50 | [Living Room, NY](https://open.spotify.com/track/06gM89NFOONFE0pzW6rRRV) | [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [The Big Freeze](https://open.spotify.com/album/7unXiwafDHQziqHxKg3xd1) | 3:22 |
+| 50 | [Across 110th Street](https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Best Of Bobby Womack \- The Soul Years](https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd) | 3:44 |
 
-Snapshot ID: `MTY2MDIzOTE0NiwwMDAwMDAwMGE5NWJmNmIxN2Y4NGM2OTIwNDZlMThjMTkxZmRkZDBh`
+Snapshot ID: `MTY2MDIzOTE0NiwwMDAwMDAwMGMxOGUzMjA5NmM3NjQ0NjhiOTk4YzdhZmU1ODc5NmYy`

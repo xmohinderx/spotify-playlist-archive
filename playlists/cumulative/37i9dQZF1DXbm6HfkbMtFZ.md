@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-428 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+429 songs - 1 day 2 hr 5 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Moving On and Getting Over](https://open.spotify.com/track/1CdEcheLJU6SgxnbFEj2WX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything \- Wave One](https://open.spotify.com/album/5GkyQHN2jO9L05VV0gBnGH) | 4:21 | 2022-03-30 | 2022-04-21 |
 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 | 2022-03-30 |  |
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-05-24 | 2022-07-29 |
-| [My Stove's on Fire](https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2) | 2:48 | 2022-08-19 |  |
+| [My Stove's on Fire](https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2) | 2:48 | 2022-08-19 | 2022-10-03 |
 | [My Stove's On Fire](https://open.spotify.com/track/7CqtU7m36JwR5rxyKKxgGN) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music And Dreams](https://open.spotify.com/album/780zhYt7wiroYXHLYPhPiJ) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [Na Verdade Não Tá](https://open.spotify.com/track/665AwXHDziganl1HWvAxls) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. 2\)](https://open.spotify.com/album/56JLHwd02Av3sKJC5qfuOZ) | 2:55 | 2022-03-30 | 2022-04-20 |
 | [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 | 2022-06-21 | 2022-07-29 |
@@ -371,6 +371,7 @@
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-12-16 | 2022-06-16 |
 | [The Keys](https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Soft Times](https://open.spotify.com/album/2m5JZAFs0blQ8S4Gm8VJ7a) | 3:37 | 2021-12-16 | 2022-09-25 |
 | [The Next Time Around](https://open.spotify.com/track/6sT8KTifge2F0lcdtyDkDa) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy \(US Edition\)](https://open.spotify.com/album/6uoMTt6m0GlGFASfdfEIVE) | 2:36 | 2022-03-30 | 2022-04-19 |
+| [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 | 2022-09-26 |  |
 | [The Rain Song](https://open.spotify.com/track/4cpEjk1FaYNiv5jrUMQuaH) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [Midnight Movement / The Rain Song](https://open.spotify.com/album/7BG7bh5EW2SwKOyBkKd7ho) | 3:52 | 2021-12-16 | 2022-07-29 |
 | [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 | 2021-12-16 | 2022-07-29 |
 | [The Weight Is Gone](https://open.spotify.com/track/1wYlzUVWctxU8taZ5OjCzM) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [The Weight is Gone](https://open.spotify.com/album/6nrByBETfiav5wLAcUCybG) | 3:32 | 2022-03-30 | 2022-04-20 |

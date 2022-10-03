@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 1802283,
+  "num_followers": 1802621,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDc5M2I0NWJjYjg5ZmUxOGQ2YTA3MGNhZWZjOWNlYjcx",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDg3NDVmOTg0Y2MyMjE4MGI5ZTBmMGVjM2MwNjAzMjMy",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 218801,
-      "name": "m y . l i f e (with 21 Savage & Morray)",
-      "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 232048,
       "name": "Run It Up (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 218801,
+      "name": "m y . l i f e (with 21 Savage & Morray)",
+      "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "I'M ON ONE (feat. Drake)",
-      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 144349,
       "name": "Headshot (feat. Polo G & Fivio Foreign)",
       "url": "https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Big 3",
-        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Body Head Bangerz, Vol. 1",
         "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 214400,
       "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
       "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "GREECE (feat. Drake)",
         "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
       },
@@ -1135,30 +1151,6 @@
       "duration_ms": 218901,
       "name": "GREECE (feat. Drake)",
       "url": "https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "U-Digg (feat. 42 Dugg & Veeze)",
-        "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "U-Digg (feat. 42 Dugg & Veeze)",
-      "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
     }
   ],
   "unique_name": "Rap Workout",

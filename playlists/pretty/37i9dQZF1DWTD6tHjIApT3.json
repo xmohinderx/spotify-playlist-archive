@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u6a4b\u672c\u7d75\u8389\u5b50",
-  "num_followers": 84061,
+  "num_followers": 84101,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMGM1NjlhYzU3NDE0OGExOTQwOWRkMTMzN2NmNWRhMjlm",
+  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMDc1NjhiMTcyMjkxNGJkNzg0MDQzNjIxOWIzZjhhMjA3",
   "tracks": [
     {
       "added_at": "2022-09-29 15:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
       },
       "artists": [
         {
-          "name": "satomoka",
-          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 258974,
-      "name": "\u9b54\u6cd5",
-      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+        "name": "\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
         }
       ],
-      "duration_ms": 187000,
-      "name": "\u30df\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
+      "duration_ms": 258974,
+      "name": "\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Where the Wind Blows",
+      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "\u8896\u306e\u30ad\u30eb\u30c8",
         "url": "https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 255173,
       "name": "\u8896\u306e\u30ad\u30eb\u30c8",
       "url": "https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14"
-      },
-      "artists": [
-        {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
-        }
-      ],
-      "duration_ms": 322146,
-      "name": "Hikare Inochi",
-      "url": "https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "duration_ms": 322146,
+      "name": "Hikare Inochi",
+      "url": "https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
         "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
       },
@@ -955,6 +971,22 @@
       "duration_ms": 309662,
       "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
       "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "The World's Continuation",
+      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -975,22 +1007,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u30d6\u30ec\u30b9",
-        "url": "https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 264954,
-      "name": "\u30d6\u30ec\u30b9",
-      "url": "https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "\u4f38\u3073\u4ed5\u8349\u61f2\u308a\u3066\u6687\u4e5e\u3044",
         "url": "https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 219693,
       "name": "\u9055\u3046\u66f2\u306b\u3057\u3088\u3046\u3088",
       "url": "https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Where the Wind Blows",
-      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1039,6 +1039,22 @@
       "duration_ms": 233920,
       "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "\u30d6\u30ec\u30b9",
+        "url": "https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 264954,
+      "name": "\u30d6\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "UTA'S SONGS ONE PIECE FILM RED",
-        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "The World's Continuation",
-      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
         "url": "https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 273293,
       "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
       "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "\u611b\u306e\u3057\u308b\u3057",
+        "url": "https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh"
+      },
+      "artists": [
+        {
+          "name": "\u68ee\u4e03\u83dc",
+          "url": "https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "\u611b\u306e\u3057\u308b\u3057",
+      "url": "https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 227740,
       "name": "TSUBASA",
       "url": "https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "\u611b\u306e\u3057\u308b\u3057",
-        "url": "https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh"
-      },
-      "artists": [
-        {
-          "name": "\u68ee\u4e03\u83dc",
-          "url": "https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "\u611b\u306e\u3057\u308b\u3057",
-      "url": "https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "Pre-Romance / Finale.",
+        "url": "https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "duration_ms": 242367,
+      "name": "Finale.",
+      "url": "https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "Spinning World",
         "url": "https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ"
       },
@@ -1247,24 +1263,8 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Pre-Romance / Finale.",
-        "url": "https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 242367,
-      "name": "Finale.",
-      "url": "https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "Voice",
-        "url": "https://open.spotify.com/album/4klegJeSCAMEI1FjRvPcLs"
+        "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6"
       },
       "artists": [
         {
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 281761,
-      "name": "Voice",
-      "url": "https://open.spotify.com/track/3kpvLEb1RrLPRwtuzS15u1"
+      "duration_ms": 193343,
+      "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
-        "url": "https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND"
+        "name": "\u9178\u6b20\u5c11\u5973",
+        "url": "https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO"
       },
       "artists": [
         {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
         }
       ],
-      "duration_ms": 233266,
-      "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
-      "url": "https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU"
+      "duration_ms": 248386,
+      "name": "\u9178\u6b20\u5c11\u5973",
+      "url": "https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6"
+        "name": "Voice",
+        "url": "https://open.spotify.com/album/4klegJeSCAMEI1FjRvPcLs"
       },
       "artists": [
         {
@@ -1368,25 +1368,25 @@
           "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 193343,
-      "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP"
+      "duration_ms": 281761,
+      "name": "Voice",
+      "url": "https://open.spotify.com/track/3kpvLEb1RrLPRwtuzS15u1"
     },
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u9178\u6b20\u5c11\u5973",
-        "url": "https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO"
+        "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
+        "url": "https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND"
       },
       "artists": [
         {
-          "name": "Sayuri",
-          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
         }
       ],
-      "duration_ms": 248386,
-      "name": "\u9178\u6b20\u5c11\u5973",
-      "url": "https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP"
+      "duration_ms": 233266,
+      "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
+      "url": "https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "\u70b9\u706f",
+        "url": "https://open.spotify.com/album/2E5Pq4Abnn7pBSotdqREqV"
+      },
+      "artists": [
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+        }
+      ],
+      "duration_ms": 298194,
+      "name": "\u70b9\u706f",
+      "url": "https://open.spotify.com/track/1x66l1vEQ7gl0I5zZWlKku"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "Suisei \u00d7 Konyawa Boogie Back nice vocal",
         "url": "https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ"
       },
@@ -1551,26 +1567,6 @@
       "duration_ms": 301413,
       "name": "Suisei \u00d7 Konyawa Boogie Back nice vocal",
       "url": "https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "\u6c34\u9762\u306b\u3001\u30a2\u30a4\u30b9",
-        "url": "https://open.spotify.com/album/5JaPNZPx00FhqlyCTutJgA"
-      },
-      "artists": [
-        {
-          "name": "YeYe",
-          "url": "https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp"
-        },
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 270450,
-      "name": "\u6c34\u9762\u306b\u3001\u30a2\u30a4\u30b9",
-      "url": "https://open.spotify.com/track/79XFskNpEhl8uEWHWRqReH"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -1591,22 +1587,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u70b9\u706f",
-        "url": "https://open.spotify.com/album/2E5Pq4Abnn7pBSotdqREqV"
-      },
-      "artists": [
-        {
-          "name": "Toko Miura",
-          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
-        }
-      ],
-      "duration_ms": 298194,
-      "name": "\u70b9\u706f",
-      "url": "https://open.spotify.com/track/1x66l1vEQ7gl0I5zZWlKku"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "\u7a74\u7a7a\u304d\u306e\u7a7a",
         "url": "https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 246453,
       "name": "\u7a74\u7a7a\u304d\u306e\u7a7a",
       "url": "https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "\u6c34\u9762\u306b\u3001\u30a2\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/5JaPNZPx00FhqlyCTutJgA"
+      },
+      "artists": [
+        {
+          "name": "YeYe",
+          "url": "https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp"
+        },
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 270450,
+      "name": "\u6c34\u9762\u306b\u3001\u30a2\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/79XFskNpEhl8uEWHWRqReH"
     },
     {
       "added_at": "2022-09-29 15:00:00",

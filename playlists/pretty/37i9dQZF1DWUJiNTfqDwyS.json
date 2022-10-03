@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 187879,
+  "num_followers": 188089,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMGViMDhhYTZlMzg0Mzc3MDg1NjVjYjQyNzM0YTZiMDVm",
+  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMDNiMWNkMzNmODI2ODUyZmJhODQzYWNjZTNmMWE0ZWIw",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Gimme Shelter",
-        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 238317,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
@@ -455,6 +439,38 @@
       "duration_ms": 229499,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Gimme Shelter",
+        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 238317,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -479,18 +495,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+        "name": "Drowning in the Sound",
+        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 162690,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
+      "duration_ms": 223200,
+      "name": "Drowning in the Sound",
+      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -527,34 +543,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Drowning in the Sound",
-        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Drowning in the Sound",
-      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Born Dead",
-        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
+      "duration_ms": 248333,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+        "name": "Born Dead",
+        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
         }
       ],
-      "duration_ms": 248333,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+      "duration_ms": 268240,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Graveyard Classics",
         "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 208533,
       "name": "TNT",
       "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "No More Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Mein Herz brennt",
-        "url": "https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu"
+        "name": "CMFB \u2026Sides",
+        "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
       },
       "artists": [
         {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 281373,
-      "name": "Mein Herz brennt",
-      "url": "https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU"
+      "duration_ms": 250600,
+      "name": "Holier Than Thou",
+      "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Mein Herz brennt",
+        "url": "https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Mein Herz brennt",
+      "url": "https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 217600,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "CMFB \u2026Sides",
-        "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
-      },
-      "artists": [
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Holier Than Thou",
-      "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Symphony of Destruction - cover version",
-      "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Devil Inside",
         "url": "https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 314357,
       "name": "Devil Inside",
       "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Covered In Blood",
+        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Symphony of Destruction - cover version",
+      "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
     },
     {
       "added_at": "2022-06-13 06:46:14",

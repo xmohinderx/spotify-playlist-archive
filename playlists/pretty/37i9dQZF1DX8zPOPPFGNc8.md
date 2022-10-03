@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="http://tbhits.com/">Tommy Brown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 | 21 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 |
 | 22 | [Love Lies \(with Normani\)](https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Lies \(with Normani\)](https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9) | 3:21 |
 | 23 | [All Mine](https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 2:25 |
-| 24 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
-| 25 | [Sidewalks](https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:51 |
+| 24 | [Sidewalks](https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:51 |
+| 25 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 26 | [Hollywood's Bleeding](https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:36 |
 | 27 | [Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:14 |
 | 28 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 | 39 | [Oh Yeah](https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 4:20 |
 | 40 | [Throwback \(feat\. Jadakiss\)](https://open.spotify.com/track/1bPbiotvwSAYHG3ycVC2CV) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:46 |
 | 41 | [I Really Mean It \- Skit 1](https://open.spotify.com/track/1IQPLs3r6lt4iNrQzAhnWs) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:22 |
-| 42 | [Bam Bam](https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:10 |
-| 43 | [Bashment Time Featuring Mr\. Easy](https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7) | [Finally](https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw) | 3:11 |
+| 42 | [Bashment Time Featuring Mr\. Easy](https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7) | [Finally](https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw) | 3:11 |
+| 43 | [Bam Bam](https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:10 |
 | 44 | [Back To Life](https://open.spotify.com/track/7fis60AUmZQI3maiU08Whd) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:39 |
 | 45 | [Hey Ma](https://open.spotify.com/track/2vN5Hb3lVKRHj0LzBvafzo) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Freekey Zeekey](https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3), [Toya](https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:40 |
 | 46 | [1+1](https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 | 49 | [Fade](https://open.spotify.com/track/3cCxoOgfi6hgt8MNteuiiD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:13 |
 | 50 | [Blood On The Leaves](https://open.spotify.com/track/42GcjriRK6srwHkfbkBqVl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 5:59 |
 
-Snapshot ID: `MTY2NDU5NjgwMCwwMDAwMDAwMDZhNjVhZGYxMDRmOTc1NDFjYTA4MDQ0N2ZkYTUzZTE5`
+Snapshot ID: `MTY2NDU5NjgwMCwwMDAwMDAwMGYwM2EyNWQ0ZDYxOTA1OWJlNmY5YWY2ZmMzMGRlOWE4`

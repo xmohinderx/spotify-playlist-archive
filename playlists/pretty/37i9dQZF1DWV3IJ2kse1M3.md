@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>怎麼先熾熱的卻先變冷了，慢熱的卻停不了還在沸騰著。
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,756 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,791 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 8 | [她說](https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 5:18 |
 | 9 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 |
 | 10 | [後來的我們](https://open.spotify.com/track/13AruKdh8wJhWx6i5dV8X1) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX) | 5:46 |
-| 11 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
-| 12 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
+| 11 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
+| 12 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
 | 13 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 |
 | 14 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 |
 | 15 | [獨家記憶](https://open.spotify.com/track/3cSHn8YDBsq4Tlc4RXKSUe) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [獨家記憶](https://open.spotify.com/album/4q9kSxmIeeJgRMhZC6AE0J) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 49 | [如果沒有你](https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [如果沒有你](https://open.spotify.com/album/67rYAc50qw4Da0Rp2PavMK) | 4:47 |
 | 50 | [街角的祝福](https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [Just Sing It](https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz) | 4:08 |
 
-Snapshot ID: `MTY1NDA0Nzg4OSwwMDAwMDAwMDhhNzZkNTY3ODcyYmYyNGU0NWNmM2YzMjA2M2YyNjAz`
+Snapshot ID: `MTY1NDA0Nzg4OSwwMDAwMDAwMDM2MWU5YzM5MmYyMmM5MTI1Y2M3ZTA2MjY1NmViZGRh`

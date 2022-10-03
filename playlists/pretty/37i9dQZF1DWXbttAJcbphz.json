@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Rihanna",
-  "num_followers": 1005805,
+  "num_followers": 1007166,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMxOTEyOCwwMDAwMDAwMDVkZDMyOTRhMTM3NjJiZDVkMmZiMWY5ZjY5MDM2NDZj",
+  "snapshot_id": "MTY2NDMxOTEyOCwwMDAwMDAwMGQ5MWFmYWVjZDRmN2RkODgxZmM2ZjkxZmNmZDdlNzhm",
   "tracks": [
     {
       "added_at": "2022-08-17 16:54:52",
@@ -267,26 +267,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 177922,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "4",
@@ -739,6 +723,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 177922,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
     },
     {
       "added_at": "2022-08-04 19:06:56",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 263013,
       "name": "OTW",
       "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1231,26 +1231,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Sex Playlist",
-        "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
       "artists": [
         {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 226580,
-      "name": "Post to Be (feat. Chris Brown & Jhene Aiko)",
-      "url": "https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n"
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1275,6 +1267,30 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "Sex Playlist",
+        "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 226580,
+      "name": "Post to Be (feat. Chris Brown & Jhene Aiko)",
+      "url": "https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "Late Nights: The Album",
         "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
@@ -1291,6 +1307,22 @@
       "duration_ms": 240320,
       "name": "Planez",
       "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1311,38 +1343,6 @@
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2022-08-21 21:13:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,305 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,298 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 11 | [There U Go](https://open.spotify.com/track/7oF2WD5RByyNQQmmI5a283) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:16 |
 | 12 | [Indo Smoke](https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK) | [Mista Grimm](https://open.spotify.com/artist/5kPhNBw1YtAwQgYUETh8iK) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:22 |
 | 13 | [Top Shotter](https://open.spotify.com/track/15fphOUhL5KyT8pWbP2zxA) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Belly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Z4BjsVx8KRQwegUl2zJ2R) | 3:22 |
-| 14 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 |
-| 15 | [Da' Butt \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 5:14 |
+| 14 | [Da' Butt \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 5:14 |
+| 15 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 |
 | 16 | [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 3:24 |
 | 17 | [Why You Get Funky On Me \- From "House Party" Soundtrack](https://open.spotify.com/track/4EmdSvY5pvzu9COEtPOiR0) | [Today](https://open.spotify.com/artist/3pDK1CHKwrk6hCTqos024e) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 3:44 |
 | 18 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 38 | [Part Time Lover](https://open.spotify.com/track/17EMfJzJqG8ND5oroo5o6j) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:06 |
 | 39 | [Gonna Give It To Ya](https://open.spotify.com/track/2oqXUzTy8Pt1FMXrsdD4De) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:51 |
 
-Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMGEyMWJiMjMyZDFmZjcwYjBiYTYyNTAwZDA0YTY2ZDJl`
+Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMDNjNGIzODVlODY4N2NiNjFhM2I4MGUyMDViMjJiNWM0`

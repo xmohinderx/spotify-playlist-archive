@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Ckay
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,748 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,829 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 38 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 |
 | 39 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 40 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 |
-| 41 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
-| 42 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
-| 43 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 |
+| 41 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
+| 42 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 |
+| 43 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
 | 44 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 |
 | 45 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 |
 | 46 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 49 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 |
 | 50 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
 
-Snapshot ID: `MTY2NDU1NjM3OCwwMDAwMDAwMDFjZTgxYzEzZDZiMDNhZmVmMTNlMmY5OTFlYTYyYjBh`
+Snapshot ID: `MTY2NDU1NjM3OCwwMDAwMDAwMGNjNTE2ZDM5NzBjOTVkMzIyM2E4MDcyMGUzMmUyMDVl`

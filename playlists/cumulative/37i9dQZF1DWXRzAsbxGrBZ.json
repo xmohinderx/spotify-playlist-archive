@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-01",
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer. Cover: <a href=\"https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ-vZNiOsQ\">beatsbyhand</a>",
   "name": "Deep House Session",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6reWCzCyOkzCijlcHOaUin"
+  ],
   "tracks": [
     {
       "album": {
@@ -192,6 +194,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Get Me Wrong",
+        "url": "https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh"
+      },
+      "artists": [
+        {
+          "name": "Deepconsoul",
+          "url": "https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf"
+        },
+        {
+          "name": "Freeman Gumede",
+          "url": "https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473861,
+      "name": "Don\u2019t Get Me Wrong",
+      "url": "https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK"
+    },
+    {
+      "album": {
         "name": "Dusty Streets",
         "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
       },
@@ -301,6 +325,24 @@
       "duration_ms": 435179,
       "name": "Gambiando Caras",
       "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
+    },
+    {
+      "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "album": {
@@ -465,7 +507,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 444444,
       "name": "M.A.U.R",
       "url": "https://open.spotify.com/track/6FN2OCdwgB83jSf5DS3hIn"
@@ -831,7 +873,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"

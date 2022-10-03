@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,397 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,422 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 34 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 |
 | 35 | [Peace](https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Peace](https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9) | 2:23 |
 | 36 | [Hush](https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd) | [Jón Einarsson](https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7) | [Hush](https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt) | 2:21 |
-| 37 | [Sleep, Heavenly Sleep](https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Sleep, Heavenly Sleep](https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL) | 3:00 |
-| 38 | [Silent Waters](https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Silent Waters](https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT) | 2:24 |
+| 37 | [Silent Waters](https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Silent Waters](https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT) | 2:24 |
+| 38 | [Sleep, Heavenly Sleep](https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Sleep, Heavenly Sleep](https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL) | 3:00 |
 | 39 | [Floating Without Gravity](https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh) | 2:42 |
 | 40 | [Dreamstate](https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Dreamstate](https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL) | 2:43 |
 | 41 | [Lights on Water](https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Lights on Water](https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp) | 3:37 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 47 | [Hush](https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C) | 2:41 |
 | 48 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
 | 49 | [Air in the Morning](https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF) | 3:04 |
-| 50 | [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 |
+| 50 | [Sleeping Moons](https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:11 |
 
-Snapshot ID: `MTY2NDU2MjgxOCwwMDAwMDAwMGZlOTYyODE1MWYwZGViYzg3NzBlZmY3YTlmNTY0Zjgx`
+Snapshot ID: `MTY2NDU2MjgxOCwwMDAwMDAwMGY0NTQwMzIzNDVkNzllYTU1N2I4YWM1N2FmYTdjNzBi`

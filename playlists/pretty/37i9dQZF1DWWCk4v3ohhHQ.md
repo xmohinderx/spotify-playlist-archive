@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,759 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,883 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 91 | [Different Colors](https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:42 |
 | 92 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
 | 93 | [Red Hands](https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [R.E.V.O.](https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP) | 3:00 |
-| 94 | [Love Is Bigger Than Anything In Its Way](https://open.spotify.com/track/7EAthm9rv2LKuLifv3K6nt) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:00 |
-| 95 | [Power](https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:29 |
+| 94 | [Power](https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:29 |
+| 95 | [Love Is Bigger Than Anything In Its Way](https://open.spotify.com/track/7EAthm9rv2LKuLifv3K6nt) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:00 |
 | 96 | [Silenced By The Night](https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland \(Deluxe Version\)](https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr) | 3:16 |
 | 97 | [All Eyes On You](https://open.spotify.com/track/0NWTC6EoKYbTdnl2rSXYDE) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Godsent & All Eyes On You](https://open.spotify.com/album/6AqHQHsbeyr6G94BGyslQN) | 3:07 |
 | 98 | [Called Out In The Dark](https://open.spotify.com/track/4BBt0kc625eUAdG2XpWPHm) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Fallen Empires](https://open.spotify.com/album/56D3j08rASJg9ZGAyoq2ZZ) | 4:01 |
 | 99 | [Out Of My Mind](https://open.spotify.com/track/2foU3yN5SE5IUasPTs91YV) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:43 |
 | 100 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
 
-Snapshot ID: `MTY1MzQyMjIwMywwMDAwMDAwMDZmY2YwMmJhOGVmZmRhYzY1NzI4YmM4Y2Y2YTFlOWMz`
+Snapshot ID: `MTY1MzQyMjIwMywwMDAwMDAwMDhiYzI4YTkyMzQ3ODZkMDgxNTY2MDJkZDQxYWQzNDgy`

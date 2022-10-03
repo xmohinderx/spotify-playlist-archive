@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,935 likes - 110 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,216 likes - 110 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 99 | [Black Flame \- Single Edit](https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Black Flame](https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I) | 3:53 |
 | 100 | [Keep Your Distance](https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe) | [The Other Side](https://open.spotify.com/album/6wkTgZzU6KpCazo4vJInGH) | 2:51 |
 | 101 | [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 |
-| 102 | [Ordinary Story](https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Colony](https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l) | 4:16 |
-| 103 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
+| 102 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
+| 103 | [Ordinary Story](https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Colony](https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l) | 4:16 |
 | 104 | [A Flag to Wave](https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Way It Ends](https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr) | 3:34 |
 | 105 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
 | 106 | [Choke](https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Choke](https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK) | 3:47 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 109 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |
 | 110 | [Afflicted](https://open.spotify.com/track/2gpw73Uq840rdD5YqJZkWk) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Loose Threads](https://open.spotify.com/album/4f6ro439F9DJRDnXDIpnkP) | 4:51 |
 
-Snapshot ID: `MTY1NDg2MTA1OCwwMDAwMDAwMDQ5YzBhODkxMTA0NWZkZDhiODU5ODg2YmRhZTg1ZTdl`
+Snapshot ID: `MTY1NDg2MTA1OCwwMDAwMDAwMGUzYzhjNzM1MzEyNWZkZTE0OWU1NmZhZmJjMTIwYTIz`

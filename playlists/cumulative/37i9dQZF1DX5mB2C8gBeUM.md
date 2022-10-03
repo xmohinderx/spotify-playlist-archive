@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: MacKenzie Porter
 
-276 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+277 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 | 2022-02-25 |  |
 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 | 2022-04-22 |  |
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-08-19 |  |
-| [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 | 2022-07-22 |  |
+| [Dark Night \- 717 Tapes](https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:37 | 2022-10-01 |  |
+| [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 | 2022-07-22 | 2022-10-03 |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-04 | 2022-07-29 |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-02-04 |  |
 | [Dear Alcohol \(feat\. Elle King\)](https://open.spotify.com/track/2JspXl1hD5EUfyBln7r0F6) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Dear Alcohol feat\. Elle King](https://open.spotify.com/album/23RUi91AHXz67vI3sgpgLS) | 3:08 | 2022-06-10 |  |

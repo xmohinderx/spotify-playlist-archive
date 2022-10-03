@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,446 likes - 70 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,555 likes - 70 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 38 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 |
 | 39 | [Killing Time](https://open.spotify.com/track/3Qgr5fOPZ0ug2kt6yfP7oX) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX) | 5:32 |
 | 40 | [Haunt Me](https://open.spotify.com/track/17zdyEVw9oe9FBDevjOl5c) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4EMZGTv76C32KyS0dZRwad) | 4:59 |
-| 41 | [FAST LAND](https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND](https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb) | 3:39 |
-| 42 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
+| 41 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
+| 42 | [FAST LAND](https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND](https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb) | 3:39 |
 | 43 | [Finja](https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Finja](https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg) | 3:38 |
 | 44 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
 | 45 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 57 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
 | 58 | [The Tribe](https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [The Tribe](https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk) | 8:28 |
 | 59 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 |
-| 60 | [Quarantine \- Original](https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS) | [Ante Perry](https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW) | [Quarantine](https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy) | 5:33 |
-| 61 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
+| 60 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
+| 61 | [Quarantine \- Original](https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS) | [Ante Perry](https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW) | [Quarantine](https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy) | 5:33 |
 | 62 | [La Veleta](https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Made of Wood](https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW) | 6:30 |
-| 63 | [Ve](https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Ve](https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA) | 5:04 |
-| 64 | [Love We Found](https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Desire](https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k) | 5:52 |
+| 63 | [Love We Found](https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Desire](https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k) | 5:52 |
+| 64 | [Ve](https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Ve](https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA) | 5:04 |
 | 65 | [on air \(4am version\)](https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air \(versions\)](https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6) | 9:16 |
 | 66 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
-| 67 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 |
-| 68 | [Unconditional Love](https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V) | [Umami](https://open.spotify.com/artist/67qmoqrkr162LFix4Czmlv), [Headwaters](https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm) | [Unconditional Love](https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H) | 6:17 |
+| 67 | [Unconditional Love](https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V) | [Umami](https://open.spotify.com/artist/67qmoqrkr162LFix4Czmlv), [Headwaters](https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm) | [Unconditional Love](https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H) | 6:17 |
+| 68 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 |
 | 69 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 | 70 | [Follow \(Extended Mix\)](https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Follow](https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w) | 4:56 |
 
-Snapshot ID: `MTY2NDU2MDk1MiwwMDAwMDAwMGU4MTZkMmVjOTU0ZDdlMDhkMzIwOGNiNjczODUyNTg0`
+Snapshot ID: `MTY2NDU2MDk1MiwwMDAwMDAwMDFkMjNiZWUxMmNlMjE5MWQ0ZTkwMDEzMTA2ZjkyMjY3`

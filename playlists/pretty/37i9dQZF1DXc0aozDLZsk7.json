@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 386159,
+  "num_followers": 386197,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMGE3YWRlNTY0NGFhMWRkZWU3NDFhNWNmMjU2OGY5MWYx",
+  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMDIzODAwMDNmOWU3YmJhZGY2YmFkOWJmNTgzZDBiMGE4",
   "tracks": [
     {
       "added_at": "2022-09-23 08:12:38",
@@ -475,38 +475,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
-        "name": "Lucky Girl",
-        "url": "https://open.spotify.com/album/5nNa2lGhpqMnu0V7753T3u"
-      },
-      "artists": [
-        {
-          "name": "Thony",
-          "url": "https://open.spotify.com/artist/23wRPCFyOHaPhUVrsvg9eE"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Lucky Girl",
-      "url": "https://open.spotify.com/track/136QuvKnhCzkiv9dx6AlZe"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Life By Misadventure",
         "url": "https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ"
       },
@@ -527,18 +495,34 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "evermore (deluxe version)",
-        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
+        "name": "Lucky Girl",
+        "url": "https://open.spotify.com/album/5nNa2lGhpqMnu0V7753T3u"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Thony",
+          "url": "https://open.spotify.com/artist/23wRPCFyOHaPhUVrsvg9eE"
         }
       ],
-      "duration_ms": 254640,
-      "name": "it\u2019s time to go - bonus track",
-      "url": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
+      "duration_ms": 151875,
+      "name": "Lucky Girl",
+      "url": "https://open.spotify.com/track/136QuvKnhCzkiv9dx6AlZe"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -559,6 +543,22 @@
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "evermore (deluxe version)",
+        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "it\u2019s time to go - bonus track",
+      "url": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Hopeless Romantic",
-        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 181178,
-      "name": "Hopeless Romantic",
-      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 273106,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 181178,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -763,6 +763,26 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
+      },
+      "artists": [
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 203300,
+      "name": "Is It Just Me? (feat. JP Cooper)",
+      "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
         "name": "Chemtrails Over The Country Club",
         "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
-        "name": "Is It Just Me?",
-        "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
-      },
-      "artists": [
-        {
-          "name": "Emily Burns",
-          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 203300,
-      "name": "Is It Just Me? (feat. JP Cooper)",
-      "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329666,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 329666,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Coming Up for Air (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 219093,
       "name": "Nothing Arrived - Live from Spotify London",
       "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Coming Up for Air (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 176946,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Rush (feat. Jessie Reyez)",
         "url": "https://open.spotify.com/album/5uwgv6t86N0WpA0IxtFkFn"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 231754,
+      "name": "Call It Dreaming",
+      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
         "name": "Falling Up",
         "url": "https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Beast Epic",
-        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 231754,
-      "name": "Call It Dreaming",
-      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+      "duration_ms": 176946,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Weed Garden",
         "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 195200,
       "name": "Autumn Town Leaves",
       "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/1Xf5RZ7zQjF2WEkk7KpZVi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 179997,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/1Fo4OvzP9PThFKMeMIAEYu"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "L\u00c9ON",
         "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 225868,
       "name": "Come Home To Me",
       "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/1Xf5RZ7zQjF2WEkk7KpZVi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/1Fo4OvzP9PThFKMeMIAEYu"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 211881,
-      "name": "Girl - Acoustic",
-      "url": "https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 221706,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 211881,
+      "name": "Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY"
     },
     {
       "added_at": "2022-09-23 08:12:38",

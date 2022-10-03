@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Lupita Infante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,591 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,648 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 52 | [Vengo A Verte](https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Éxitos 15](https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ) | 3:28 |
 | 53 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 | 54 | [Celosa](https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos De Oro](https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10) | 3:03 |
-| 55 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
-| 56 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
-| 57 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
-| 58 | [La Feria de las Flores](https://open.spotify.com/track/1tBz9r3XIP2qRhEmrFUj4J) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:07 |
+| 55 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
+| 56 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
+| 57 | [La Feria de las Flores](https://open.spotify.com/track/1tBz9r3XIP2qRhEmrFUj4J) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:07 |
+| 58 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 59 | [Taco Placero](https://open.spotify.com/track/4ZnlLJNLuSfy8kcD8fzcCf) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Taco Placero](https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh) | 2:47 |
 | 60 | [Llamarada](https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:17 |
 | 61 | [Las Margaritas](https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:23 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 72 | [El Herradero](https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA) | [Angeles Ochoa](https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu) | [Divas Rancheras](https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM) | 3:26 |
 | 73 | [Échame a Mí la Culpa](https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [Los Exitos De Amalia Mendoza](https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl) | 3:11 |
 | 74 | [Cielito Lindo](https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:48 |
-| 75 | [La Tequilera](https://open.spotify.com/track/2XuJmv5Cc4N1gYEPzLshVl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga](https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt) | 2:26 |
-| 76 | [El Puente Roto \- Tema Remasterizado](https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 2:37 |
+| 75 | [El Puente Roto \- Tema Remasterizado](https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 2:37 |
+| 76 | [La Tequilera](https://open.spotify.com/track/2XuJmv5Cc4N1gYEPzLshVl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga](https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt) | 2:26 |
 | 77 | [No Me Amenaces](https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [No Me Amenaces](https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh) | 2:54 |
 | 78 | [Burbujas de Amor](https://open.spotify.com/track/1k0YnZAX4bcTCGsKCtmNSu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 4:20 |
 | 79 | [¿Por Qué Te Vas?](https://open.spotify.com/track/0nDbGRrxLJggLRi5ErHPIK) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [¿Por Qué Te Vas?](https://open.spotify.com/album/1Wjp0bh15AzLi7JbersDl5) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Un Mundo Raro](https://open.spotify.com/track/3zVKulPXU2MxM6UPItu1Ri) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Un Mundo Raro](https://open.spotify.com/album/56LrNumPVbrJ5Vqnuor0mb) | 2:41 |
 | 100 | [Amor de un Rato](https://open.spotify.com/track/6VenhGZLU1sw7I4qkh30ln) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 4:32 |
 
-Snapshot ID: `MTY1NDcxMTA3MiwwMDAwMDAwMDA3NjdlZTUxZGUzZGVkY2QxOTU4ZGQ1NmFhYjhhZTY0`
+Snapshot ID: `MTY1NDcxMTA3MiwwMDAwMDAwMGI5MzNlMjFiMWNlMTg5YmY0YjRmZDM4YzJlMjk1YTNk`

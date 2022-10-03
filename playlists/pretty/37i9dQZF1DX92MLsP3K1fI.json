@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofi Mata en portada.",
-  "num_followers": 51166,
+  "num_followers": 51212,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMGQwOTMwODJlOWM2OTZjNDVlZDdjZjJkM2U3YmU4OGEz",
+  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMDNiZTUxODhlNDBiMzI1OGQ4M2I5NGM0MzQ2MjlmZmFj",
   "tracks": [
     {
       "added_at": "2022-09-23 20:11:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "Bailando al Amanecer",
-        "url": "https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5"
-      },
-      "artists": [
-        {
-          "name": "Motel",
-          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
-        }
-      ],
-      "duration_ms": 236613,
-      "name": "Bailando al Amanecer",
-      "url": "https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG"
-    },
-    {
-      "added_at": "2022-09-23 20:11:17",
-      "album": {
         "name": "Ya No Dueles",
         "url": "https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S"
       },
@@ -887,22 +871,34 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp"
+        "name": "Bailando al Amanecer",
+        "url": "https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5"
       },
       "artists": [
         {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
         }
       ],
-      "duration_ms": 222200,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg"
+      "duration_ms": 236613,
+      "name": "Bailando al Amanecer",
+      "url": "https://open.spotify.com/track/2cqBQjsnfRpZhqqEULcjWG"
+    },
+    {
+      "added_at": "2022-09-23 20:11:17",
+      "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 173231,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw"
     }
   ],
   "unique_name": "Oye Pop",

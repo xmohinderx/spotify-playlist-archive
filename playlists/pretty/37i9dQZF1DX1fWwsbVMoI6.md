@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Puro Sentimiento
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,612 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,704 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,18 +37,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 27 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
 | 28 | [Amor a Primera Vista](https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv) | [Amor a Primera Vista](https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN) | 3:35 |
 | 29 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 |
-| 30 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
-| 31 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 |
+| 30 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 |
+| 31 | [Lárgate](https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [A Llorar a Otra Parte](https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc) | 3:53 |
 | 32 | [Pensando en Ti](https://open.spotify.com/track/6ZRWmk8bYmHCcseZqyykWR) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7qMhIUFDDzM9uEIlhT5mnE) | 3:33 |
-| 33 | [Lárgate](https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [A Llorar a Otra Parte](https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc) | 3:53 |
+| 33 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
 | 34 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
 | 35 | [Cuerpo de Sirena](https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Cuerpo de Sirena](https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U) | 4:03 |
-| 36 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 |
-| 37 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
+| 36 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
+| 37 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 |
 | 38 | [Necesito un Amor](https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Necesito un Amor](https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1) | 4:10 |
-| 39 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 |
-| 40 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
-| 41 | [No Te Creas Tan Importante](https://open.spotify.com/track/51dGIhiWCWP6zUz9CS4irJ) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543) | 4:08 |
+| 39 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 40 | [No Te Creas Tan Importante](https://open.spotify.com/track/51dGIhiWCWP6zUz9CS4irJ) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543) | 4:08 |
+| 41 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 |
 | 42 | [Amor Incomparable](https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Amor Incomparable](https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88) | 3:14 |
 | 43 | [Me Vas a Extrañar](https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Me Vas a Extrañar](https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj) | 3:53 |
 | 44 | [Si Esta Casa Hablara](https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras!](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [El Solitario](https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Goza Tu Cumbia: Peruvian Cumbia](https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi) | 4:21 |
 | 50 | [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 |
 
-Snapshot ID: `MTY1OTY3NTYwMCwwMDAwMDAwMDJlYzZhZTlhNTU2OTUzYTI0ZTg0MDkxMzc4ODE2YTgw`
+Snapshot ID: `MTY1OTY3NTYwMCwwMDAwMDAwMGQ5NzNjZDgxMTFkNjczMmQ4Zjg5NGUwNDdkNWIxZmVj`

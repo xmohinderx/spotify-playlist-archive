@@ -4,10 +4,11 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-261 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+262 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 Things](https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 Things](https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S) | 3:11 | 2022-09-30 |  |
 | [4Ever](https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [4Ever](https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib) | 2:39 | 2022-07-08 | 2022-07-23 |
 | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Gustavo Dotch](https://open.spotify.com/artist/4BVrKqgmtI33WIxB6aabYZ), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Afterbloom \(feat\. Deza\)](https://open.spotify.com/album/4VHGQcaaY2tPDJnSzt6IEm) | 2:34 | 2021-10-29 |  |
 | [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
@@ -45,7 +46,7 @@
 | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 |  |
 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 | 2021-10-29 |  |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2022-01-21 |  |
-| [Cheque](https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Cheque](https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g) | 2:45 | 2021-10-29 |  |
+| [Cheque](https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Cheque](https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g) | 2:45 | 2021-10-29 | 2022-10-03 |
 | [Collect Check \(feat\. EMIDA\)](https://open.spotify.com/track/0vQukqQmHy0ZesKFssyvEW) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Emida](https://open.spotify.com/artist/5qRPvk1z9F31rWTmAN8tnL) | [Collect Check \(feat\. EMIDA\)](https://open.spotify.com/album/5LO1GI3mh8iDSxW7w30ssZ) | 3:26 | 2021-10-29 | 2022-07-14 |
 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 | 2021-10-29 |  |
 | [Cum Check This](https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Cum Check This](https://open.spotify.com/album/3b7bk20U1R74sAi7xKHQxJ) | 3:11 | 2021-10-29 | 2022-06-07 |

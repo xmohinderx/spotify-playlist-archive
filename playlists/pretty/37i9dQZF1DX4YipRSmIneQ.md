@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > ur favorite queer bedroom club
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,642 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,713 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dealer's Gone \- DJ\_Dave Remix](https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Von](https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc) | [Dealer's Gone \- DJ\_Dave Remix](https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA) | 2:52 |
+| 1 | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Von](https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc) | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA) | 2:52 |
 | 2 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 |
 | 3 | [Muscles](https://open.spotify.com/track/4dhQBSI0aefh1Plz46OPXy) | [Healthy Boys](https://open.spotify.com/artist/3lcfA1wekEQXEjnoTIEIV5) | [Muscles](https://open.spotify.com/album/09xZZWkOPxwyJXJkVS3scw) | 5:03 |
 | 4 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |

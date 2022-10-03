@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,082 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,266 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 30 | [We'll Burn the Sky \- 2015 \- Remaster](https://open.spotify.com/track/05aYS67B9WxWDA5ZWVkvCf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 6:31 |
 | 31 | [Lorelei](https://open.spotify.com/track/6mwS9ssEVKK7dmVVXwpbv7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 4:32 |
 | 32 | [Dust in the Wind \- Live](https://open.spotify.com/track/2goTjpiBRV0qd2gZrAtpIZ) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 3:49 |
-| 33 | [Children of the Revolution](https://open.spotify.com/track/4D3er4MMJDsRR2Oj6ESWM1) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:33 |
-| 34 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 |
+| 33 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 |
+| 34 | [Children of the Revolution](https://open.spotify.com/track/4D3er4MMJDsRR2Oj6ESWM1) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:33 |
 | 35 | [Restless Nights](https://open.spotify.com/track/6zmFoe68ejOMgw0XHDh9db) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:47 |
 | 36 | [Raised on Rock](https://open.spotify.com/track/21wukp6132v5Y165Lxg17H) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 3:58 |
 | 37 | [Loving You Sunday Morning](https://open.spotify.com/track/3cP1PTtWpmft6mIXeZaRpS) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [The Future Never Dies](https://open.spotify.com/track/4O9w9kufIaWXCOzKzzInmw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \(Hour I\)](https://open.spotify.com/album/4a8dsVJekhZm9CRRVWLHuJ) | 4:03 |
 | 50 | [When I Lay My Bones To Rest](https://open.spotify.com/track/58hNqg1Odj9xm76jt4cjT4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:07 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAyZDMwOThiMDcxZDA3OTg5MjJjMmMxODJhOWJmMGM4Yg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBlYzU4YTRmMmFiY2ZlMGQ4YjNiMDQzN2Y0Y2EzZDc4Yg==`

@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-220 songs - 23 hr 18 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
+221 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 | 2022-06-10 |  |
 | [All Night Long \(All Night\) \- 12" Version](https://open.spotify.com/track/3iEhpm51ZQ6HETqQ06Doky) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC) | 6:42 | 2022-06-10 | 2022-07-22 |
 | [All Night Long \(All Night\) \- 12" Version](https://open.spotify.com/track/4y74IZV5B511nMPRrAeNme) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 6:42 | 2021-12-22 | 2022-07-27 |
+| [Always on My Mind / In My House \- 2018 Remaster](https://open.spotify.com/track/21akfkoBT6W38XFeNYX57d) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 9:04 | 2022-06-10 |  |
 | [Always On My Mind/In My House \- 2001 Remastered Version](https://open.spotify.com/track/77oZRe0LMP9vfDOUxK9Hv3) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective](https://open.spotify.com/album/3LSFOygcqME1JSV0Pr5VtA) | 9:04 | 2020-08-07 | 2022-07-29 |
 | [Axel F \- Extended Mix](https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74) | [Forever 80](https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM) | [Axel F \(Theme from "Beverly Hills Cop"\)](https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV) | 5:10 | 2021-12-22 | 2022-05-11 |
 | [Baker Street \- Extended Mix](https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Baker Street](https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW) | 5:11 | 2020-08-07 |  |
@@ -144,7 +145,7 @@
 | [Poison Arrow](https://open.spotify.com/track/7abGerACQx9G1OBqHYFKAb) | [ABC](https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh) | [The Lexicon Of Love](https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66) | 3:24 | 2022-06-10 |  |
 | [Pop Muzik \- 1989 remix](https://open.spotify.com/track/0SHbehTzk01RfLDVAVaCtA) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI) | [The History](https://open.spotify.com/album/7JBktJSLnyraztsdHGhgYD) | 4:54 | 2020-08-07 | 2022-07-29 |
 | [Pop Muzik \- Nik Launay '79 12"](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 | 2022-06-10 |  |
-| [Precious Little Diamond \- 12" Mix](https://open.spotify.com/track/2IilSSaVhuQLjCqlubC4qE) | [Fox the Fox](https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9) | [Collections](https://open.spotify.com/album/4zEi9uAv9KKrYTG2bLDeCT) | 5:09 | 2022-06-10 |  |
+| [Precious Little Diamond \- 12" Mix](https://open.spotify.com/track/2IilSSaVhuQLjCqlubC4qE) | [Fox the Fox](https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9) | [Collections](https://open.spotify.com/album/4zEi9uAv9KKrYTG2bLDeCT) | 5:09 | 2022-06-10 | 2022-10-03 |
 | [Precious Little Diamond \- 12" Mix](https://open.spotify.com/track/4dDedpTkRp1rekQjfeovwS) | [Fox the Fox](https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9) | [Modern Eighties Long Versions](https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m) | 5:10 | 2020-08-07 | 2022-07-29 |
 | [Pretty Young Girl](https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT) | [Bad Boys Blue](https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa) | [Hot Girls, Bad Boys](https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y) | 5:46 | 2022-06-10 |  |
 | [Pulstar](https://open.spotify.com/track/1vuON4Kz4tQW1icz92PVGK) | [Hypnosis](https://open.spotify.com/artist/7GlFV8o2NCkvCu29FMZkUb) | [80s Hit News](https://open.spotify.com/album/1J0bVbWjvmDTolPacJLWjE) | 3:49 | 2021-12-22 | 2022-07-28 |

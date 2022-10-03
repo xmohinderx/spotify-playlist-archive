@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2010s.",
-  "num_followers": 29804,
+  "num_followers": 29821,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc1OCwwMDAwMDAwMDU2ZDUzNTdlMDY3ZTc1MDJlNzA4ZjA1MGMyOGRjOGVl",
+  "snapshot_id": "MTY1MDkxNjc1OCwwMDAwMDAwMGQzNWYxNmQxMjg2ZTVmY2Q4MTU3MWFhODkyMGRkOWRk",
   "tracks": [
     {
       "added_at": "2020-05-15 11:36:11",
@@ -251,6 +251,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "Hotel Diablo",
         "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 169397,
       "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
       "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 259093,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 259093,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Unsteady",
-      "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 182693,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Unsteady",
+      "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -535,6 +535,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Asylum (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Blue on Black",
         "url": "https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 274615,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Asylum (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Dark Before Dawn",
-        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
       "artists": [
         {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9"
+      "duration_ms": 243520,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+        "name": "Dark Before Dawn",
+        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 243520,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
+      "duration_ms": 214853,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "The Hunting Party",
-        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Until It's Gone",
-      "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Lazaretto",
         "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 219400,
       "name": "Lazaretto",
       "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "Until It's Gone",
+      "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
     },
     {
       "added_at": "2020-05-15 11:36:11",

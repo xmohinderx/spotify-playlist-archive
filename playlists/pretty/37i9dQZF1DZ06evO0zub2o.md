@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,435 likes - 41 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,525 likes - 41 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 40 | [We'll Grind That Axe for a Long Time](https://open.spotify.com/track/1vIWmTJEagdqfcrVe5MIKl) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:44 |
 | 41 | [I'll Cast a Shadow](https://open.spotify.com/track/4zwzfzX5nXgD5Ro2tXIxhf) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:19 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA0ZDgzMWYyNmE0Yzk3YjQ3YWFmZjlmMjc4MjdjZTk1MA==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDBiNDc2Y2NmYWVlNzcwYzE3MTFjM2M5NGZiN2EyM2JlNQ==`

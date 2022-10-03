@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-64 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
+65 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Africa](https://open.spotify.com/track/2VQoGtt4uLmv5qTpei7BgB) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Africa](https://open.spotify.com/album/1fAwh435ehVSq2uEuNJsZb) | 3:43 | 2022-06-29 |  |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2022-06-29 |  |
 | [Allo Mama](https://open.spotify.com/track/0X3j7PKZYinokK4csqWKdZ) | [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Allo Mama](https://open.spotify.com/album/4eInwPKDlzgMU0c9s90UdV) | 3:05 | 2022-06-29 |  |
-| [Bambina](https://open.spotify.com/track/09NO7m5tTpmYhiEL5sBPwt) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/1Kfc1pIltwwiY27TLdFwrs) | 3:20 | 2022-06-29 |  |
+| [Bambina](https://open.spotify.com/track/09NO7m5tTpmYhiEL5sBPwt) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/1Kfc1pIltwwiY27TLdFwrs) | 3:20 | 2022-06-29 | 2022-10-03 |
 | [Bambina](https://open.spotify.com/track/0lOLxwEXLME2ErktCMPCqM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/4X7dvnMEgl6DU8K3QW3IYT) | 3:20 | 2022-06-29 | 2022-07-29 |
+| [Bambina](https://open.spotify.com/track/7GRkUt2D8RZJVn8uWVpa9o) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/6pVwkIiwNhL0Vd3auyMEjj) | 3:20 | 2022-07-29 |  |
 | [Bent Bledi](https://open.spotify.com/track/6pmfgLXdjDGh7yZNJm9UzE) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN) | [Bent Bledi](https://open.spotify.com/album/7fGghF4qh710J4MH17PkdD) | 3:25 | 2022-06-29 |  |
 | [Camarade](https://open.spotify.com/track/0CfObNLYtMjLl48C6mas3e) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Camarade](https://open.spotify.com/album/793etT1bYUi0QuQYKaXwjq) | 2:42 | 2022-06-29 |  |
 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 | 2022-06-29 |  |

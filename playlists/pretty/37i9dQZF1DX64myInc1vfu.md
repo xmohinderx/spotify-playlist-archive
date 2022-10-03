@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era just for you\. Los boleritos de hoy\. Cover: Yoss Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,122 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,195 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 38 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 |
 | 39 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
 | 40 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
-| 41 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
-| 42 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 |
+| 41 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 |
+| 42 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
 | 43 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
 | 44 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
 | 45 | [Salvavidas](https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Salvavidas](https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 49 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
 | 50 | [Tú](https://open.spotify.com/track/6OQWXsydNnIVHfbJrTMNer) | [Elisa](https://open.spotify.com/artist/1Rz2UCxkUlzuT6Kxe47wxc), [Cristobal Sarmiento](https://open.spotify.com/artist/2AIg5VYeWoMaGDuINUQwKC) | [Tú](https://open.spotify.com/album/1O88OBOAtX6c8DUMEkq5HY) | 2:51 |
 
-Snapshot ID: `MTY2MzYwMDM1MiwwMDAwMDAwMGRiZTg0NjY5NTYzYjQ3YWFjYjNkNWY3NTk5ODhmZDJh`
+Snapshot ID: `MTY2MzYwMDM1MiwwMDAwMDAwMDk4YWU0YTg1N2Q0NzAyNDMxOTg3MDMxMjczNTcwOGRh`

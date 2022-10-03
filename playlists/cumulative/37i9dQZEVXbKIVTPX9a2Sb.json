@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 214864,
       "name": "3:59",
       "url": "https://open.spotify.com/track/3cmi2jWihhNRk7W6QhuHAZ"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 179815,
       "name": "b a b y . r e l a x",
       "url": "https://open.spotify.com/track/1VAWL9pNSsdyTLHYvmPhcm"
@@ -5091,7 +5091,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 140624,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/38mwzF0ib0Wsqcnhy0PbBm"
@@ -6061,7 +6061,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 250000,
       "name": "Hey G!",
       "url": "https://open.spotify.com/track/1i6Q39TzaIp6EkJL9k51qd"
@@ -14825,7 +14825,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -14995,7 +14995,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 210245,
       "name": "Stroj",
       "url": "https://open.spotify.com/track/6LhuehVA6IXU92z4q01lDU"
@@ -15181,7 +15181,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -15903,7 +15903,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 206432,
       "name": "To neni hra",
       "url": "https://open.spotify.com/track/5mC6tVYVscr1YR4zD6p94h"
@@ -17246,6 +17246,24 @@
     },
     {
       "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
+    },
+    {
+      "album": {
         "name": "PROTOTYPES",
         "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
       },
@@ -18077,7 +18095,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 182000,
       "name": "Za mojej \u00e9ry",
       "url": "https://open.spotify.com/track/1c8zjkNnLKqLfqOUwNZHrn"

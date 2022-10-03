@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,048 songs - 4 day 22 hr 2 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,049 songs - 4 day 22 hr 6 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,7 @@
 | [Deep Blue](https://open.spotify.com/track/2aC3o6HJIy281CZMKjzxqI) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF) | [Deep Blue](https://open.spotify.com/album/7MDGm85TgjIyM1aC6jWL2C) | 3:07 | 2021-09-24 | 2022-01-14 |
 | [Deep Blue](https://open.spotify.com/track/302BJCCUiipYnTYwJcbZID) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Semana / Deep Blue](https://open.spotify.com/album/4gn3EDwvCo89NblFiTQj31) | 1:46 | 2021-03-14 | 2021-06-11 |
 | [Deep Blue](https://open.spotify.com/track/77l6NKJEMpm3I2smPwpw1a) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Deep Blue](https://open.spotify.com/album/1yEPFzmgOLSShR2OhpB4w2) | 2:20 | 2021-03-19 | 2021-05-14 |
-| [Deep Down](https://open.spotify.com/track/59TBfOXD5YhMkWdX82QhBi) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Deep Down](https://open.spotify.com/album/7KUQNdk7kQeijn6IAbPEzs) | 1:36 | 2022-02-17 |  |
+| [Deep Down](https://open.spotify.com/track/59TBfOXD5YhMkWdX82QhBi) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Deep Down](https://open.spotify.com/album/7KUQNdk7kQeijn6IAbPEzs) | 1:36 | 2022-02-17 | 2022-10-03 |
 | [Deepdreams](https://open.spotify.com/track/1FssCeCDq5moq2aNt5BdZM) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k) | [Deepdreams](https://open.spotify.com/album/7gEuY8wmahNebfSqQv1LI4) | 2:21 | 2020-06-16 | 2020-08-24 |
 | [Delicious](https://open.spotify.com/track/2h9Mvp0AsbMkO4ucUQ1D4m) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Delicious](https://open.spotify.com/album/7dgYaAbNLrKtzIAuzzROJA) | 2:04 | 2022-05-05 | 2022-08-12 |
 | [Delivery](https://open.spotify.com/track/68yTtuPJ7nuADkvdVPzV30) | [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK), [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Delivery](https://open.spotify.com/album/0DL5h6XREfSe1ox2NMVvxq) | 2:27 | 2021-05-14 | 2022-05-13 |
@@ -1664,6 +1664,7 @@
 | [Million Ways](https://open.spotify.com/track/54T6TzUUfpskcJJdxtYNFO) | [Linkrust](https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z) | [Million Ways](https://open.spotify.com/album/45eaOyfaEliCMYI7hPXvXm) | 2:43 | 2022-09-08 |  |
 | [Mindfulness](https://open.spotify.com/track/2WYiVWTXflf49CyF5Vgn93) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Mindfulness](https://open.spotify.com/album/4ETO8VzkUgPmkGO7ymqgEf) | 2:35 | 2020-12-18 | 2021-02-24 |
 | [Mindgames](https://open.spotify.com/track/4Qn7Fc5IzroNOFpyUn7Iqi) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Mindgames](https://open.spotify.com/album/3TEikbgKZSk9S2MMOZKv43) | 2:44 | 2021-01-23 | 2021-05-07 |
+| [Minding My Business](https://open.spotify.com/track/33ApfIRi2oHlFFGhK5ItFC) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Minding My Business](https://open.spotify.com/album/6TLvjKFXQRzkqg6kSrB8EX) | 3:45 | 2022-09-22 |  |
 | [Mindset](https://open.spotify.com/track/1XVgFVQItXGPYDeVSSDSsc) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [High Five](https://open.spotify.com/album/5svDax1tvwNgxI2MJW4rat) | 2:17 | 2022-01-27 | 2022-02-07 |
 | [Minor Sights](https://open.spotify.com/track/1B03EmZj66nS4PDes73721) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Minor Sights](https://open.spotify.com/album/3IVViyY8IjbLMxnAQICfA7) | 3:06 | 2021-09-26 | 2021-10-22 |
 | [Minotauro](https://open.spotify.com/track/2xRx7kBUyD31nuC6GLoCbu) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Minotauro](https://open.spotify.com/album/48QyC6oT01dzuOz7vFBwVH) | 3:18 | 2021-10-16 | 2021-12-11 |

@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2114,
+  "num_followers": 2115,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGQ0NTJiMDk1NmFlZTY5OGUyOGFjOTNlNmM4MDk0Yzky",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGRjMzg3OTQyMTVjNGYzNDAzNjM1YTdhNGNjMTkyNDEz",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "La lumineuse",
         "url": "https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188400,
       "name": "La lumineuse",
       "url": "https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Abri de fortune (pour fin du monde)",
-        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Corde \u00e0 linge",
-      "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 232786,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Abri de fortune (pour fin du monde)",
+        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Corde \u00e0 linge",
+      "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Homme Autonome",
+        "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
+      },
+      "artists": [
+        {
+          "name": "Damien Robitaille",
+          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Mot de passe",
+      "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Givmeall Hit Stars",
         "url": "https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 225833,
       "name": "Encore et encore",
       "url": "https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Homme Autonome",
-        "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
-      },
-      "artists": [
-        {
-          "name": "Damien Robitaille",
-          "url": "https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Mot de passe",
-      "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Excalibur",
+        "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Les Rois",
+      "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Petite nature",
         "url": "https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Excalibur",
-        "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Les Rois",
-      "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Roi",
-        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 153846,
-      "name": "Roi",
-      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Citoyen d'Am\u00e9rique",
         "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 146106,
       "name": "Am\u00e8ne-toi chez nous",
       "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Roi",
+        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "Roi",
+      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Airs pa\u00efens",
-        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "SITKA",
         "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 203666,
       "name": "Les fleurs d\u2019une autre dimension",
       "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Airs pa\u00efens",
+        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Haute M\u00e8re",
-        "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
-      },
-      "artists": [
-        {
-          "name": "Lynda Lemay",
-          "url": "https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Le souhait de Carmen",
-      "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Grand voyage d\u00e9sorganis\u00e9",
         "url": "https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 155626,
       "name": "La grande \u00e9vasion",
       "url": "https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Haute M\u00e8re",
+        "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
+      },
+      "artists": [
+        {
+          "name": "Lynda Lemay",
+          "url": "https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Le souhait de Carmen",
+      "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Mille ouvrages mon coeur",
         "url": "https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 200186,
       "name": "Tes yeux \u00e0 Barcelone",
       "url": "https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Incarnat",
-        "url": "https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS"
+        "name": "Br\u00fbler des condos",
+        "url": "https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk"
       },
       "artists": [
         {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+          "name": "Dope.Gng",
+          "url": "https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE"
         }
       ],
-      "duration_ms": 209306,
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce"
+      "duration_ms": 123000,
+      "name": "Br\u00fbler des condos",
+      "url": "https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The Corridos of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,054 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,074 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 38 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
 | 39 | [Radicamos En South Central](https://open.spotify.com/track/1kHpljP6paUsQyZgwFDfxn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3](https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS) | 3:48 |
 | 40 | [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 |
-| 41 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
-| 42 | [El Crimen De Culiacán](https://open.spotify.com/track/5pkr9BmnShPMoo5QLnpmnA) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:10 |
+| 41 | [El Crimen De Culiacán](https://open.spotify.com/track/5pkr9BmnShPMoo5QLnpmnA) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:10 |
+| 42 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
 | 43 | [Mis Tres Animales](https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/5poff6oDNapTa60LAq46O0) | 2:43 |
 | 44 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 |
-| 45 | [Es Dificil Ser Un Santo](https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Es Dificil Ser Un Santo](https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h) | 3:05 |
-| 46 | [El Buho](https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:57 |
+| 45 | [El Buho](https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:57 |
+| 46 | [Es Dificil Ser Un Santo](https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Es Dificil Ser Un Santo](https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h) | 3:05 |
 | 47 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 |
 | 48 | [Lamberto Quintero](https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:04 |
 | 49 | [En Preparacion](https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:07 |
-| 50 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 |
-| 51 | [Mario Peralta](https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:10 |
+| 50 | [Mario Peralta](https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:10 |
+| 51 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 |
 | 52 | [Soy De Rancho](https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Soy De Rancho](https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo) | 3:29 |
 | 53 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 |
 | 54 | [La Botella \(Dos Botellas De Mescal\)](https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez) | [Los Morros Del Norte](https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG) | [La Cadena](https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3) | 2:54 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 76 | [Corrido De Los Perez](https://open.spotify.com/track/7xXWDI8CFLjQq2TX5iv6iR) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Coleccion Suprema](https://open.spotify.com/album/50KCA0ApBGnJpJ0hHk0SrX) | 2:40 |
 | 77 | [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDc3Y2M4YmQ5NTQwZDdlYzZkZjA0Y2E5MDIxMTJlNmI2`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDA3NTVlYTgwYThjNmFmZTI4OGFhODRjZWNjZjIyMjQw`

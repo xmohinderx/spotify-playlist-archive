@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,198 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,257 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 49 | [Say What!](https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 5:23 |
 | 50 | [Superstition \- Live](https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:40 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA1ZDI4ZTE0MmIxNWE2ZjllNzZlMzQxYzU5NzkwZTgwMw==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDAwY2Q1ZjA0MTc1OTBiZTNjZTQzNmNlZDNhYWE0YTY1Yg==`

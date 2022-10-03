@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -9205,7 +9205,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -12891,7 +12891,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -13173,6 +13173,28 @@
       "duration_ms": 119233,
       "name": "Tell 'Em",
       "url": "https://open.spotify.com/track/6IuN5rqcAeHmzK5d5r0RWL"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "album": {
@@ -13877,6 +13899,28 @@
       "duration_ms": 174386,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+    },
+    {
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "Too Much (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5BJUEEgABE4mB2WzVITSHH"
     },
     {
       "album": {
@@ -14883,6 +14927,24 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
     },
     {
       "album": {

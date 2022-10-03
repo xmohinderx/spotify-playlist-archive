@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,833 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,885 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 14 | [Y mi corazón contento](https://open.spotify.com/track/3FUhe43n5NShAfvPWSyPxE) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:28 |
 | 15 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
 | 16 | [Si El Amor Se Cae](https://open.spotify.com/track/0fzgd6DgpsSYg5igdOUGJR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:31 |
-| 17 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
-| 18 | [Love Song](https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:58 |
+| 17 | [Love Song](https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:58 |
+| 18 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
 | 19 | [Tu Eres Como el Fuego](https://open.spotify.com/track/6BeEanS54uM91bsGiIJ193) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Indica Sound](https://open.spotify.com/artist/5VcnstRhnyK8Bft8RLIsC7) | [Tu Eres Como el Fuego](https://open.spotify.com/album/5V6p6q9Z0qDkTAzDTKtbAT) | 3:31 |
 | 20 | [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 |
 | 21 | [Con Vos](https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibrasound](https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6) | 5:16 |
 | 22 | [Véngase I](https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:22 |
-| 23 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
-| 24 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
-| 25 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
-| 26 | [Tu Presencia](https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:41 |
+| 23 | [Tu Presencia](https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:41 |
+| 24 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
+| 25 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
+| 26 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
 | 27 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
 | 28 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
 | 29 | [Sentimento Original](https://open.spotify.com/track/221XD85dLV8jiMyrEz1JBQ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 4:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [Llegaste a Mí](https://open.spotify.com/track/6wiG6K6xHQd8Nj9CPblg2V) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/2qj7avJ1IwhmIXZQkj0Ro4) | 3:50 |
 | 60 | [Distancia y Ficción](https://open.spotify.com/track/6YZFu1qIZA9o8ryEeoCVpl) | [Tarará](https://open.spotify.com/artist/3pOCFYJe0tWqFlX7XqF4cn) | [Distancia y Ficción](https://open.spotify.com/album/3dpycFGnz2H4v4CGOHs1kO) | 2:15 |
 
-Snapshot ID: `MTY0NTU1MDUyMywwMDAwMDAwMGM3YmEyMmY2YzViMTUwMzkwMGQ2NGU3ZmNmZmRiMzI3`
+Snapshot ID: `MTY0NTU1MDUyMywwMDAwMDAwMDliOGE5Nzg0MjEyZGFmZmZjOWIxMWUzMWMzYTVmMTNl`

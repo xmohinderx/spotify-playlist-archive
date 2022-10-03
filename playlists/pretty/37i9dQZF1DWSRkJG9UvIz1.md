@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,920 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,974 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 23 | [+ 1 Minuto](https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Amanhã](https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq) | 2:52 |
 | 24 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 25 | [Gabriela](https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Bossatrap](https://open.spotify.com/album/4qh46kTMwWrfA2Xyw57uV9) | 3:04 |
-| 26 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
-| 27 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
+| 26 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
+| 27 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
 | 28 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
 | 29 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |
 | 30 | [Amor em Jacumã](https://open.spotify.com/track/0LbDTSA6QB9nA3Wjtkbx9N) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/78k0Tn5KyFMcPdTIAHqKh8) | 3:34 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 32 | [Sexy](https://open.spotify.com/track/3hX4oYznwMulMXCMeT6Ia9) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:43 |
 | 33 | [Um Corpo no Mundo](https://open.spotify.com/track/2kEGhFlJxjVtXnIpudVLtI) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 6:25 |
 | 34 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
-| 35 | [Sonho Bossa Nova](https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Dança Entre Casais](https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA) | 3:52 |
-| 36 | [Vem Menina](https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq) | 4:19 |
+| 35 | [Vem Menina](https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq) | 4:19 |
+| 36 | [Sonho Bossa Nova](https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Dança Entre Casais](https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA) | 3:52 |
 | 37 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
 | 38 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
 | 39 | [Ameixa](https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Fejuca](https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj) | [Ameixa](https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz) | 4:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 |
 | 60 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 
-Snapshot ID: `MTY1NTE3MjQxOSwwMDAwMDAwMGI2ZDYwMmU1NTdhOGMwY2VhMDgwNmYzYzdlMDNhNWYx`
+Snapshot ID: `MTY1NTE3MjQxOSwwMDAwMDAwMDBmODc4YjcyY2RhZWRiNWRmYmZiMWFlNDk5NjE1OTdm`

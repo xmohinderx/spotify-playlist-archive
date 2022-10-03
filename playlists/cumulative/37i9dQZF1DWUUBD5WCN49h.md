@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od?si=u\-jJ8QFIR8KCr2\-tje4T1g"> Ria Sean</a>
 
-90 songs - 4 hr 37 min - not published yet
+90 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

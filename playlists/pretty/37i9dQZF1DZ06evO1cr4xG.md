@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,741 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,768 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 38 | [Snøfall](https://open.spotify.com/track/6EDhenm0Rc3MJBAQ2SpbGZ) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 1:28 |
 | 39 | [Becoming the Dragon](https://open.spotify.com/track/1nrX903hwRGFc2G0hHb8iv) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade](https://open.spotify.com/album/42MixogSAsobX5po649Y0j) | 4:43 |
 | 40 | [Villainy Thrives](https://open.spotify.com/track/7LUxLggr0vvXXGS9o8Xq80) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:54 |
-| 41 | [Departure](https://open.spotify.com/track/0RtYoUK6JwYeofPsaPsBD5) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:41 |
-| 42 | [Sever the Hand](https://open.spotify.com/track/51NZCggjFj5NGcleguitxM) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:25 |
+| 41 | [Sever the Hand](https://open.spotify.com/track/51NZCggjFj5NGcleguitxM) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:25 |
+| 42 | [Departure](https://open.spotify.com/track/0RtYoUK6JwYeofPsaPsBD5) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:41 |
 | 43 | [When All Light Dies](https://open.spotify.com/track/0lDHRUqiDBfmvf5lJpmV7X) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ember to Inferno](https://open.spotify.com/album/3hnOE93weJxgpQZOkVC4as) | 6:23 |
 | 44 | [Through Blood and Dirt and Bone](https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:26 |
-| 45 | [Ascendancy](https://open.spotify.com/track/25mSOE3LW1IREKGhSeRUVx) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:25 |
-| 46 | [The Wretchedness Inside](https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:31 |
+| 45 | [The Wretchedness Inside](https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:31 |
+| 46 | [Ascendancy](https://open.spotify.com/track/25mSOE3LW1IREKGhSeRUVx) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:25 |
 | 47 | [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 |
 | 48 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
 | 49 | [Watch the World Burn](https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:53 |
 | 50 | [Rain](https://open.spotify.com/track/4P23Pn5zl9QCkyto32fAaR) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:11 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBlODVlZjllMWI0YjRjZGFiNGE0ZmNhNTg3NmMzOWQ5Zg==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDA2YTkzZmMyNDU1MmJlNmMzY2ViZGVhMDhjNGJhY2I4Ng==`

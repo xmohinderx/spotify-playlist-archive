@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Natti Natasha, Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,656 likes - 68 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,888 likes - 68 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 3 | [Besos Moja2](https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Besos Moja2](https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn) | 3:49 |
 | 4 | [LET'S GET CRAZY! \(Mambo Drop\)](https://open.spotify.com/track/4q5pdsB1bsZRu9BgewM7j9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [LET'S GET CRAZY! \(Mambo Drop\)](https://open.spotify.com/album/0o18HO4i1RMnJR2wXHDpfb) | 2:39 |
 | 5 | [CALENTÓN](https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [CALENTÓN](https://open.spotify.com/album/3H1b3UUzaCAqLSvDzjowjB) | 3:22 |
-| 6 | [La 2blea](https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [La 2blea](https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76) | 5:14 |
+| 6 | [La 2blea](https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [La 2blea](https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76) | 5:25 |
 | 7 | [Qué Rico \(feat\. El Clooy\) \- Remix](https://open.spotify.com/track/53fQfzienlCQks52Bztdpt) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Qué Rico \(feat\. El Clooy\) \[Remix\]](https://open.spotify.com/album/0MPj6gzF6jNWOZLHmqMWtk) | 3:37 |
 | 8 | [BEBE](https://open.spotify.com/track/3qIKikzA0EypwZJjK4k9PG) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [BEBE](https://open.spotify.com/album/0sQn7p0DAy7V2w8ys6OxUD) | 2:25 |
 | 9 | [Avemaría](https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Avemaría](https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q) | 2:12 |
-| 10 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [SALVAJE](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
+| 10 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
 | 11 | [Nazareno \- Remix](https://open.spotify.com/track/0RE6QKlznWDuPzG5n0MOMS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Nazareno \(Remix\)](https://open.spotify.com/album/7bkJ3sRXUoazTaz4QDkdUk) | 4:59 |
 | 12 | [Flores](https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Flores](https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B) | 2:51 |
 | 13 | [7D](https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [7D](https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS) | 3:56 |

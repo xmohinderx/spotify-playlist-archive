@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,759 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,772 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 12 | [Eat](https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Eat](https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW) | 2:41 |
 | 13 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 |
 | 14 | [Come Back To Me](https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Just Listen.......](https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U) | 4:06 |
-| 15 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
-| 16 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
+| 15 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
+| 16 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
 | 17 | [Oasis](https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 3:11 |
 | 18 | [JOAH \- Remastered](https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Remastered](https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 3:50 |
 | 19 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J](https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
 | 50 | [If You Comeback](https://open.spotify.com/track/7A8iC2yCrq39b2DKej9ek1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:48 |
 
-Snapshot ID: `MTYxNTQ4MDYxMCwwMDAwMDAwMDQxODUzNWZiMzllMWU1YWEyODY1ZDJmODA3MTE1Yjc5`
+Snapshot ID: `MTYxNTQ4MDYxMCwwMDAwMDAwMDNhMmUyMDA1ODgwMzllYjI4YjczMDczZTVjNmYzNDkx`

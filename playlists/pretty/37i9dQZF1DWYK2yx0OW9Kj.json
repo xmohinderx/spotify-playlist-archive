@@ -1,12 +1,12 @@
 {
   "description": "Ritmo latino!",
-  "num_followers": 97835,
+  "num_followers": 98148,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMDBkMDIwZDgzZmExNTNhNTkyYmJlZTZhMTg0YWUzMGJm",
+  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMDRmNTA4OTQ1ZDUxYTlhY2I0YmMwNWFmOTM2NDc1Zjcy",
   "tracks": [
     {
       "added_at": "2022-09-29 22:01:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230125,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Volv\u00ed",
-        "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230125,
-      "name": "Volv\u00ed",
-      "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "La Triple T",
         "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 222346,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1255,22 +1239,18 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Sigue/Forever My Love",
-        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 159386,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1299,22 +1279,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1339,18 +1319,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
         }
       ],
-      "duration_ms": 178080,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg"
+      "duration_ms": 157714,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1379,42 +1363,18 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
+      "duration_ms": 178080,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1455,6 +1415,46 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-09-29 22:01:00",

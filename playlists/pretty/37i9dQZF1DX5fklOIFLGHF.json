@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: El Cuarteto De Nos.",
-  "num_followers": 13461,
+  "num_followers": 13472,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NjQwMywwMDAwMDAwMDAzZDExODczYWM1MjkxOThlNmQ5ODIxYTliMWNkNzIw",
+  "snapshot_id": "MTY2NDU0NjQwMywwMDAwMDAwMGExY2FlZGE0MjZhMjUyZDQwZTIxMDIxZmI2MWJlODMz",
   "tracks": [
     {
       "added_at": "2022-09-30 14:00:03",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-30 14:00:03",
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2022-09-30 14:00:03",
-      "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2022-09-30 14:00:03",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2022-09-30 14:00:03",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-30 14:00:03",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2022-09-30 14:00:03",
-      "album": {
         "name": "La Mosca y la Sopa",
         "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 206200,
       "name": "Un Poco de Amor Franc\u00e9s",
       "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
+    },
+    {
+      "added_at": "2022-09-30 14:00:03",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2022-09-30 14:00:03",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-09-30 14:00:03",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
-    },
-    {
-      "added_at": "2022-09-30 14:00:03",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 262000,
       "name": "Zafar",
       "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
+    },
+    {
+      "added_at": "2022-09-30 14:00:03",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
       "added_at": "2022-09-30 14:00:03",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-30 14:00:03",
       "album": {
-        "name": "Bella Donna (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 329413,
-      "name": "Edge of Seventeen - 2016 Remaster",
-      "url": "https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu"
-    },
-    {
-      "added_at": "2022-09-30 14:00:03",
-      "album": {
         "name": "Oktubre",
         "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
+    },
+    {
+      "added_at": "2022-09-30 14:00:03",
+      "album": {
+        "name": "Bella Donna (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 329413,
+      "name": "Edge of Seventeen - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu"
     },
     {
       "added_at": "2022-09-30 14:00:03",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2022-09-30 14:00:03",
       "album": {
-        "name": "Venganza",
-        "url": "https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/1kHURU8vA2xIjtjp43yE8b"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 202376,
-      "name": "Venganza",
-      "url": "https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7"
+      "duration_ms": 349893,
+      "name": "Qu\u00e9 Es Dios?",
+      "url": "https://open.spotify.com/track/5P29BFj3HVX4iEsK7lCa0t"
     }
   ],
   "unique_name": "La Frecuencia",

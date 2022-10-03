@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,550 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,590 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 8 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
 | 9 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
 | 10 | [Heart And Soul](https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:17 |
-| 11 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
-| 12 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
+| 11 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
+| 12 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
 | 13 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
 | 14 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
 | 15 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Hey Senorita](https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 1:46 |
 | 50 | [Chapel of Dreams](https://open.spotify.com/track/3HgV08D7OOay214URalpnZ) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [Rmg's Top Doo\-Wop Cloud Hits Volume 1](https://open.spotify.com/album/3x0X3yqeVppSX30KzKWSiU) | 2:32 |
 
-Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDIxYjQ1ODg0MDUzZTM0ZWQ1ZmM2ODM5MjQ5Y2JhNmI4`
+Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMGYwZTBjMDYzNTg5OTk4YTEyZjBiNzA1NGY2MDQwYjRm`

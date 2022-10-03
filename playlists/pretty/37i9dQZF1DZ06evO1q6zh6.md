@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,504 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,573 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Blood Red Skies](https://open.spotify.com/track/7g796noAmjjQOibxStn85a) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 7:50 |
 | 50 | [Diamonds and Rust](https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 3:23 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA4Yjc1ODI5NmIwYjA4OTRmODZiMTUwMjRlOWUyYzZjZQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA1NjA5MDI3YTg0NDk2ZWI0NWRjMTAzOThjMDA4NjNlZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Ashley McBryde",
-  "num_followers": 424893,
+  "num_followers": 424985,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDcwNzM4OTZiZDhhOGUzMmYxOWZkZTdlNzA4ZmI1YTA3",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGY2NzAwOGJjYzdlNjczZGY1NzA5OTMyNjRmZDFmMjli",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Pickup",
-        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
-      },
-      "artists": [
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        }
-      ],
-      "duration_ms": 168447,
-      "name": "Pickup",
-      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Every Night Every Morning",
         "url": "https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 196890,
       "name": "Every Night Every Morning",
       "url": "https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "I Could Use a Love Song",
-      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "I Hope You Dance",
         "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 294533,
       "name": "I Hope You Dance",
       "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "I Could Use a Love Song",
+      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dates In Pickup Trucks",
-        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "Dates In Pickup Trucks",
-      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 197453,
       "name": "Settling Down",
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Dates In Pickup Trucks",
+        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "Dates In Pickup Trucks",
+      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Just Drive",
-        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 147693,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 147693,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Frame By Frame",
-        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
-      },
-      "artists": [
-        {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Wasting All These Tears",
-      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 290466,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Frame By Frame",
+        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Wasting All These Tears",
+      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Woman You Got",
-        "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 177951,
-      "name": "Woman You Got",
-      "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 255233,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Woman You Got",
+        "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 177951,
+      "name": "Woman You Got",
+      "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Watermelon Moonshine",
-        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Watermelon Moonshine",
-      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Greener Pasture",
         "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 189442,
       "name": "Greener Pasture",
       "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Watermelon Moonshine",
+        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Remember Her Name",
-        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
+        "name": "Never Been in Love",
+        "url": "https://open.spotify.com/album/6cps0yIKzYYVyHTW0TsEvN"
       },
       "artists": [
         {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+          "name": "Haley Mae Campbell",
+          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
         }
       ],
-      "duration_ms": 189720,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
+      "duration_ms": 179189,
+      "name": "Never Been in Love",
+      "url": "https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1535,34 +1535,34 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Never Been in Love",
-        "url": "https://open.spotify.com/album/6cps0yIKzYYVyHTW0TsEvN"
+        "name": "Remember Her Name",
+        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
       },
       "artists": [
         {
-          "name": "Haley Mae Campbell",
-          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 179189,
-      "name": "Never Been in Love",
-      "url": "https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB"
+      "duration_ms": 189720,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
     },
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Found It In You",
-        "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
+        "name": "I Don't Go Back",
+        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
       },
       "artists": [
         {
-          "name": "Tiera Kennedy",
-          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 183444,
-      "name": "Found It In You",
-      "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
+      "duration_ms": 200573,
+      "name": "I Don't Go Back",
+      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Don't Go Back",
-        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+        "name": "Found It In You",
+        "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
         }
       ],
-      "duration_ms": 200573,
-      "name": "I Don't Go Back",
-      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
+      "duration_ms": 183444,
+      "name": "Found It In You",
+      "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
     },
     {
       "added_at": "2022-09-30 04:00:00",

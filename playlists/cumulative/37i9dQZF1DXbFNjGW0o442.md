@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3](https://open.spotify.com/track/1uRihlRJsDwZDua2HzUTMs) | [Caro Luisa](https://open.spotify.com/artist/5jpYEIn8PiFl8HmZ0sFpOb) | [\#3](https://open.spotify.com/album/2ngqOCSgr6VREfGkEsmm3m) | 3:45 | 2022-01-20 | 2022-07-28 |
-| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-01-20 |  |
+| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-01-20 | 2022-10-03 |
 | [2 Espinas](https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [2 Espinas](https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV) | 3:31 | 2022-01-20 |  |
 | [420](https://open.spotify.com/track/3YwPUBBP5zKXqnsmpbOKka) | [Boconas](https://open.spotify.com/artist/5QUMXH6cu4OHbGqT4uQRJI) | [420](https://open.spotify.com/album/5TWt1ln4nz4OxObp3QJPqW) | 2:36 | 2022-01-20 | 2022-07-17 |
 | [A 1200 Km](https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 3:49 | 2022-01-20 |  |
@@ -87,7 +87,7 @@
 | [Fuelle](https://open.spotify.com/track/42QHBGWom9xsyQWuZFCbZ8) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Cromático](https://open.spotify.com/album/3GS37VPkPoUmvh4606wr2E) | 2:50 | 2022-01-20 | 2022-07-28 |
 | [Fumar de día](https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 2:58 | 2022-01-20 |  |
 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 | 2022-07-15 |  |
-| [Gira por el Interior](https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Gira por el Interior](https://open.spotify.com/album/3PdyLzRWeHoOAnkD4dONO3) | 3:54 | 2022-01-20 | 2022-07-27 |
+| [Gira por el Interior](https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Gira por el Interior](https://open.spotify.com/album/3PdyLzRWeHoOAnkD4dONO3) | 3:54 | 2022-01-20 |  |
 | [give/UP](https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle) | 3:40 | 2022-01-20 |  |
 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 | 2022-01-20 |  |
 | [Hey](https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Hey](https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM) | 3:12 | 2022-01-20 | 2022-07-28 |

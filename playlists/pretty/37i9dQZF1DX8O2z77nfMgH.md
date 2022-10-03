@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Natti Natasha y María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,499 likes - 66 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,551 likes - 66 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 6 | [BEBE](https://open.spotify.com/track/3qIKikzA0EypwZJjK4k9PG) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [BEBE](https://open.spotify.com/album/0sQn7p0DAy7V2w8ys6OxUD) | 2:25 |
 | 7 | [LET'S GET CRAZY! \(Mambo Drop\)](https://open.spotify.com/track/4q5pdsB1bsZRu9BgewM7j9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [LET'S GET CRAZY! \(Mambo Drop\)](https://open.spotify.com/album/0o18HO4i1RMnJR2wXHDpfb) | 2:39 |
 | 8 | [Avemaría](https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Avemaría](https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q) | 2:12 |
-| 9 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [SALVAJE](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
+| 9 | [SALVAJE](https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Salvaje](https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r) | 3:30 |
 | 10 | [CALENTÓN](https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [CALENTÓN](https://open.spotify.com/album/3H1b3UUzaCAqLSvDzjowjB) | 3:22 |
 | 11 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 |
 | 12 | [Ferrari](https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Ferrari](https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw) | 3:07 |

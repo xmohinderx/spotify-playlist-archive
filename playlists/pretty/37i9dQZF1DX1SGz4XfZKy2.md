@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,287 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,316 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 30 | [Lucent Path](https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 3:44 |
 | 31 | [Faragh](https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM) | [Hawa Dafi](https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0) | [Our Story](https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f) | 3:27 |
 | 32 | [Rain Drops](https://open.spotify.com/track/3NI3Cc0IbCZuDsNQrC4sxf) | [Shardad Rohani](https://open.spotify.com/artist/3riIYGDJMkjK1OenmRUMrW), [Scheherazade Quartet](https://open.spotify.com/artist/4YuORJGHaZw7VCi8ENOqcD) | [Scheherazade Quartet](https://open.spotify.com/album/6Z6dWvnag0xnNSw1XArZLD) | 3:31 |
-| 33 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
-| 34 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 |
+| 33 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 |
+| 34 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
 | 35 | [Kupia](https://open.spotify.com/track/78shHmYJjbCNxY69yfWo6l) | [Arash Badie](https://open.spotify.com/artist/6xGJlTZ5odUFdrBzmCUR13), [Kian Kazemi](https://open.spotify.com/artist/55riDVEaIh9wcoW4r4rZ4B) | [Hejar](https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo) | 3:28 |
 | 36 | [Deeper Sun](https://open.spotify.com/track/72U3GaKjHnwdfKNWoeciA5) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Deeper Sun](https://open.spotify.com/album/1IXO9DNXjDs7DCWfIZlQSZ) | 2:22 |
 | 37 | [One day November](https://open.spotify.com/track/1wkF4uBhhP41Lm6CQpxKTS) | [Farhad Asadian](https://open.spotify.com/artist/1lVexJkMvQ6hs943AQ1j62) | [One day November](https://open.spotify.com/album/6HpOPx4W6b3gjZ84o9qzP8) | 4:30 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 48 | [Baraamad](https://open.spotify.com/track/2hITyZ541vVH3TElcLIlTh) | [Golnoosh salehi](https://open.spotify.com/artist/7gi9wcNqidI9zivuE4IEXF), [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm), [Sattar Khatabi](https://open.spotify.com/artist/34wwisNKAfgq1WV7viNxwF), [Harutyun Chkolyan](https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq) | [First Of July](https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v) | 4:17 |
 | 49 | [Farewell With Mirror](https://open.spotify.com/track/1xXueslGJ24IAlwlU73k5r) | [Amir Farhang Eskandari](https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu), [Zakaria Yousefi](https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r) | [And](https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s) | 4:27 |
 | 50 | [Tare Tanha](https://open.spotify.com/track/3wq6LqC40TuXAbdPapGK9Q) | [Arash Badie](https://open.spotify.com/artist/6xGJlTZ5odUFdrBzmCUR13) | [Hejar](https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo) | 3:05 |
-| 51 | [Kawkab Abad \- Live](https://open.spotify.com/track/46qO8r10VMl72reCQgaqwo) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [Kawkab Abad \(Live\)](https://open.spotify.com/album/6ZhekGr3KKTbX4yfQ4oQym) | 6:54 |
-| 52 | [First Gāh](https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa) | [Yasamin Shahhosseini](https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl) | [Gāhān](https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY) | 8:00 |
+| 51 | [First Gāh](https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa) | [Yasamin Shahhosseini](https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl) | [Gāhān](https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY) | 8:00 |
+| 52 | [Kawkab Abad \- Live](https://open.spotify.com/track/46qO8r10VMl72reCQgaqwo) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [Kawkab Abad \(Live\)](https://open.spotify.com/album/6ZhekGr3KKTbX4yfQ4oQym) | 6:54 |
 | 53 | [Affection](https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46) | [Siavash Roshan](https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS) | [The Passage](https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF) | 5:03 |
 | 54 | [Improvisation In Shour](https://open.spotify.com/track/0bXMGGXGsglxFQcaDhymz0) | [Amir Farhang Eskandari](https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu), [Zakaria Yousefi](https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r) | [And](https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s) | 2:44 |
 | 55 | [Pause](https://open.spotify.com/track/7g3L86HLw2p9jXb3NPpMzD) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [In Turn](https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe) | 4:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 |
 | 60 | [Can You Think a Solution?](https://open.spotify.com/track/7kVuOdiC2BH8IxzHaWf1Ea) | [Rasool Poursangari](https://open.spotify.com/artist/0NWX3Qjs9lAXo3dpuB2mlz) | [The Landscapes That Escape the Frame](https://open.spotify.com/album/7HRySZGFrRZzm6g0IXnus9) | 3:14 |
 
-Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDBjMzgyN2VjZjc5YTRmYTU4OGUyNGRkZWMxZTE0Y2Qz`
+Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDJhMzE0NGQ1ZTliNzhlNzYwYWFjY2UwMGQ2NzM0M2Fl`

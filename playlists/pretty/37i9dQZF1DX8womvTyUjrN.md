@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Pol Granch
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,014 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,079 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 36 | [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 |
 | 37 | [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 |
 | 38 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
-| 39 | [Cuando Te Veo](https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Cuando Te Veo](https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5) | 3:19 |
-| 40 | [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 |
+| 39 | [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 |
+| 40 | [Cuando Te Veo](https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Cuando Te Veo](https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5) | 3:19 |
 | 41 | [Loco](https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Loco](https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0) | 2:30 |
 | 42 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 43 | [YA NO](https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Diablo](https://open.spotify.com/artist/38cfgJjmUEknY8JKyFBipW) | [YA NO](https://open.spotify.com/album/2sHKdDqfzkwXyVZoHVA4PZ) | 3:46 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 57 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 |
 | 58 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 |
 | 59 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 |
-| 60 | [Gracias x Nada](https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Gracias x Nada](https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0) | 2:52 |
-| 61 | [Colores](https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Colores](https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4) | 3:35 |
+| 60 | [Colores](https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Colores](https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4) | 3:35 |
+| 61 | [Gracias x Nada](https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Gracias x Nada](https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0) | 2:52 |
 | 62 | [Brindaré](https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Brindaré](https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT) | 2:26 |
 | 63 | [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 |
 | 64 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 |
 | 65 | [Pa Que Te Digo Que No](https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr) | 2:54 |
 
-Snapshot ID: `MTY2Mzk1ODkxNywwMDAwMDAwMDFjNDM3M2ViYzYxNWYwYjcxYWY3MDBkZWQwYzExMzk2`
+Snapshot ID: `MTY2Mzk1ODkxNywwMDAwMDAwMGU2YjQ3NTRmZWM4Mzg0Y2M4ZGI3NGNiNzkzYmFkMTRh`

@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 25940,
+  "num_followers": 25957,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMDRjYjY4ZmMwNGJkZGQ0YWExODAxM2QzYjkyODNjYzg5",
+  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMDYwMmYwNTVmODczNDhiMmM5ZjgzNTI1NGM5MzY4YmNi",
   "tracks": [
     {
       "added_at": "2022-09-29 22:01:00",
@@ -403,8 +403,8 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
       "artists": [
         {
@@ -412,17 +412,17 @@
           "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
         },
         {
           "name": "Solar State",
           "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -439,26 +439,6 @@
       "duration_ms": 217377,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Waves (feat. Grace Tither)",
-        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Grace Tither",
-          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
-        }
-      ],
-      "duration_ms": 202501,
-      "name": "Waves (feat. Grace Tither)",
-      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -483,22 +463,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
+        "name": "Waves (feat. Grace Tither)",
+        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
       "artists": [
         {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+          "name": "Grace Tither",
+          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
         }
       ],
-      "duration_ms": 174193,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
+      "duration_ms": 202501,
+      "name": "Waves (feat. Grace Tither)",
+      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -527,8 +507,28 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
+      },
+      "artists": [
+        {
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+        },
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
       "artists": [
         {
@@ -536,17 +536,17 @@
           "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         },
         {
           "name": "Solar State",
           "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "No One Hurries Time",
-        "url": "https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Andrea Hamilton",
-          "url": "https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "No One Hurries Time",
-      "url": "https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -851,18 +831,38 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+        "name": "No One Hurries Time",
+        "url": "https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Andrea Hamilton",
+          "url": "https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+      "duration_ms": 156610,
+      "name": "No One Hurries Time",
+      "url": "https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
+      },
+      "artists": [
+        {
+          "name": "Sem Vox",
+          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
       },
       "artists": [
         {
-          "name": "Sem Vox",
-          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 155520,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Talk (Remixes)",
         "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
       },
@@ -959,6 +939,42 @@
       "duration_ms": 192928,
       "name": "Talk (with Royal & the Serpent)",
       "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 156393,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 162782,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        },
+        {
+          "name": "Pool Blue",
+          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+        }
+      ],
+      "duration_ms": 147599,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Some Kind Of Love",
         "url": "https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 166451,
       "name": "Some Kind Of Love",
       "url": "https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/0vsRGsVo9fxGyuCOYiIvey"
-      },
-      "artists": [
-        {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        },
-        {
-          "name": "Pool Blue",
-          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
-        }
-      ],
-      "duration_ms": 147599,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Sweet Side (feat. Caitlyn Scarlett)",
-        "url": "https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR"
-      },
-      "artists": [
-        {
-          "name": "Crazy Cousinz",
-          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
-        },
-        {
-          "name": "Caitlyn Scarlett",
-          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "Sweet Side (feat. Caitlyn Scarlett)",
-      "url": "https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Down from this High",
         "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 115297,
       "name": "Down from this High",
       "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Sweet Side (feat. Caitlyn Scarlett)",
+        "url": "https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "Sweet Side (feat. Caitlyn Scarlett)",
+      "url": "https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Can't Let You Go",
-        "url": "https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF"
-      },
-      "artists": [
-        {
-          "name": "Mats Westbroek",
-          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "Can't Let You Go",
-      "url": "https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Mound\u00e9",
         "url": "https://open.spotify.com/album/00NBfbmr2f5PWiFRrqxn1q"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 194000,
       "name": "Mound\u00e9",
       "url": "https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Can't Let You Go",
+        "url": "https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF"
+      },
+      "artists": [
+        {
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ"
     }
   ],
   "unique_name": "Dance Chill",

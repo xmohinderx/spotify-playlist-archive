@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Laurent Coulondre
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,784 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,830 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 3 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 |
 | 4 | [You and the Night and the Music](https://open.spotify.com/track/0pv0fKJSALa9MWseuzQFUR) | [Jean\-Pierre Como](https://open.spotify.com/artist/2Ljlfck4EICwQziKkapzlO), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL) | [My Days in Copenhagen](https://open.spotify.com/album/7uHalLMcXcHRQxtI8usglb) | 6:16 |
 | 5 | [West Coast Blues](https://open.spotify.com/track/0iwOlDvcknjVHDuOjMiDB1) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [West Coast Blues](https://open.spotify.com/album/0PWh0Tcn9Vy2YPU33H9I4E) | 2:39 |
-| 6 | [Sentimental Mode](https://open.spotify.com/track/5nxBcToLYc4iUPAbi7tQDS) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Sentimental Mode](https://open.spotify.com/album/16jnTCEIibPTNfBTRnbGrz) | 6:26 |
+| 6 | [Sentimental Mode](https://open.spotify.com/track/67YeOUwdxg8bECbnUvi2RA) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Common Ground](https://open.spotify.com/album/1TxksZoZOYltLztkow77CS) | 6:26 |
 | 7 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 |
 | 8 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
 | 9 | [Just One of Those Things](https://open.spotify.com/track/5lXB6VECoq3guxWmuCmBOL) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Andrea Rea Trio](https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG), [Joe Rehmer](https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa), [Marcello Di Leonardo](https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU) | [Just One of Those Things](https://open.spotify.com/album/2O9rzxiqE9GI1dDK5thSQ0) | 5:22 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 33 | [First Shot](https://open.spotify.com/track/0vnArNTn5aLJmqrnZnK4Li) | [Pierre Manetti](https://open.spotify.com/artist/4MN4pIzuUjcY7enfxPEzva), [Christophe Cravero](https://open.spotify.com/artist/1c2wYQGmM8aipjqZQm2wzZ), [Laurent Locuratolo](https://open.spotify.com/artist/5ZKgs9QELqj8p7rMCKHxBy), [Henri Dorina](https://open.spotify.com/artist/3zxBY3Jc6y5vRfeFE3USbk) | [First Shot](https://open.spotify.com/album/4r919vmWnr9CeRv3FpROhI) | 3:45 |
 | 34 | [I Wanna](https://open.spotify.com/track/61A6308e5tKhzjux8izA0m) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [I Wanna](https://open.spotify.com/album/470Kz5BJ7kw59izc0Kn4p9) | 3:42 |
 | 35 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 |
-| 36 | [Passaic](https://open.spotify.com/track/4xamnZxVJxOWQhww1SYBpH) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Passaic](https://open.spotify.com/album/7EDkIqmqmBeEoPq0hlFJTM) | 6:11 |
+| 36 | [Passaic](https://open.spotify.com/track/2j3u6MfjffdvS7TNGOj1BM) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Common Ground](https://open.spotify.com/album/1TxksZoZOYltLztkow77CS) | 6:11 |
 | 37 | [Si tu vois ma mère](https://open.spotify.com/track/6KnkNyo795dy3IgMoC8YMe) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Si tu vois ma mère](https://open.spotify.com/album/3CPy3IZU5eNpduzy8AZoez) | 3:57 |
 | 38 | [Delta Lady](https://open.spotify.com/track/2LU7TTi6IBhCwn3g1vyQ1N) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Delta Lady](https://open.spotify.com/album/7dJygQ3xuMrppaDbrBeJYL) | 3:03 |
 | 39 | [E Basta \- Vincent Peirani](https://open.spotify.com/track/5TJfACNTfIZGwX36a5gONX) | [Simone Prattico](https://open.spotify.com/artist/5vMEIPZjcvn7bmnMjF1BIZ), [Vincent Peirani](https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO) | [That's it \(Oriundo\)](https://open.spotify.com/album/7mZ22LtynPQGkYueUtyUxQ) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Sing as One](https://open.spotify.com/track/5GIfm1C24I2fHYpVxM7yAG) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Maya Fadeeva](https://open.spotify.com/artist/3gIcFcSyNnXAmdsl5YrtYb) | [Sing as One](https://open.spotify.com/album/1gQvCVTBmZLXebIXBsueDU) | 3:31 |
 | 50 | [Remembering](https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 5:44 |
 
-Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMDI1OWRkMGFiN2Y3YTQzYWNjNWRmMzkzMGNmOGZlNWJi`
+Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMGRmYmJlOGRlNTM2OWM4MzBlNjQxZDMxYTJiMzUzMDFm`

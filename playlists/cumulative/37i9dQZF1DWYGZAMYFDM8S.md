@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-295 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
+296 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 | 2022-07-22 |  |
 | [Call It Dreaming](https://open.spotify.com/track/0iWUW8UNkmyUa8Aa6anow6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Call It Dreaming](https://open.spotify.com/album/05I7y2yV3DTJWf0VNwiVjW) | 3:51 | 2021-11-05 | 2022-07-29 |
 | [Catholic Country](https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:01 | 2021-11-05 |  |
-| [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 | 2022-02-07 |  |
+| [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 | 2022-02-07 | 2022-10-03 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-07-22 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2021-11-05 | 2022-07-29 |
 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 | 2021-11-05 |  |
@@ -95,6 +95,7 @@
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-07-22 |  |
 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 | 2022-07-22 | 2022-08-03 |
 | [Fly \- Acoustic](https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Dual](https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4) | 3:31 | 2022-07-22 | 2022-08-03 |
+| [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 | 2022-08-02 |  |
 | [Fool's Gold](https://open.spotify.com/track/4c3zxAgmvnSHRqesr14tdZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 4:14 | 2021-11-05 | 2022-06-07 |
 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2022-06-27 | 2022-07-29 |
 | [For All We Know](https://open.spotify.com/track/5hfSLlzvYnQLJES48uZMJc) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Think Of Spring](https://open.spotify.com/album/5W5yys0OV0fFSg9VmIWfDd) | 2:57 | 2021-11-05 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 48 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,716 likes - 48 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 47 | [I Didn't Mean It at All](https://open.spotify.com/track/4jHirbWhDM6YPVLiIEiobH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [I Didn't Mean It at All](https://open.spotify.com/album/2i5xewJm3dZVGO5TeCmCrW) | 4:32 |
 | 48 | [Where Is Your Love](https://open.spotify.com/track/3QIwoc5zELFOJGSiLrnE3r) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:57 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDA5MzY3MGZhMzBkNTM5NGYzOGRlYmNmZDBhMjg1ZjNiYg==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA3YzU5YTVkMzY5YTQ3MTg0NTNhNzllMTEyYjdkMTY0YQ==`

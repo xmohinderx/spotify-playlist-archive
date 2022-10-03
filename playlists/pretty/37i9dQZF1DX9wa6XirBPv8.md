@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,351,077 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,351,603 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 46 | [False Pretense](https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 2:29 |
 | 47 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 48 | [Hands Down](https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [A Mark, A Mission, A Brand, A Scar](https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82) | 3:06 |
-| 49 | [A Boy Brushed Red Living In Black And White](https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:28 |
-| 50 | [The Great Escape](https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:26 |
+| 49 | [The Great Escape](https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:26 |
+| 50 | [A Boy Brushed Red Living In Black And White](https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:28 |
 | 51 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 |
-| 52 | [The Feel Good Drag](https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:27 |
-| 53 | [You And I](https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Free Your Mind](https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP) | 2:57 |
+| 52 | [You And I](https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Free Your Mind](https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP) | 2:57 |
+| 53 | [The Feel Good Drag](https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:27 |
 | 54 | [Little Things](https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Charlotte](https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs) | 3:23 |
 | 55 | [Vindicated](https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Dusk And Summer](https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U) | 3:21 |
 | 56 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 74 | [Jersey](https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:29 |
 | 75 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
 
-Snapshot ID: `MTY2MTIwNDg2NywwMDAwMDAwMGE1MDJmYTdiODE3ZTQwNmUxY2U5ZDc3YjFjZGFjMmNl`
+Snapshot ID: `MTY2MTIwNDg2NywwMDAwMDAwMDI1N2E1OWFmMDQxOTk4MTBkZjZhMTQ0NjgyYWIzMzkw`

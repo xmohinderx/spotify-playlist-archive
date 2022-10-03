@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,048 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,092 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 25 | [Long Life](https://open.spotify.com/track/2N2A6MMehPqIQ6w7keCUDc) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Long Life](https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF) | 3:02 |
 | 26 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 |
 | 27 | [Asylum](https://open.spotify.com/track/65s5gtYGSoF2BcbQ6oPuCy) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [The Thread](https://open.spotify.com/album/3F5nmrHMSyFjEkATZQO7cz) | 3:11 |
-| 28 | [Reach](https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Reach](https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9) | 5:12 |
-| 29 | [Split Tongue](https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Sentimental](https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO) | 1:41 |
-| 30 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 |
-| 31 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 |
+| 28 | [Split Tongue](https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Sentimental](https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO) | 1:41 |
+| 29 | [Reach](https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Reach](https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9) | 5:12 |
+| 30 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 |
+| 31 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 |
 | 32 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 |
 | 33 | [NYE](https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Random Acts of Total Control](https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C) | 3:52 |
 | 34 | [Afterlife](https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k) | [Animal Triste](https://open.spotify.com/artist/4w7FwiYOd9cJQ7Pr5o31Eh) | [Night of the Loving Dead](https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh) | 3:23 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 50 | [The Password](https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx) | [Merge](https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m) | [Ineffable](https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz) | 4:14 |
 | 51 | [My time](https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [Garage Is Dead](https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH) | 3:44 |
 | 52 | [Bones](https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Bones](https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3) | 4:33 |
-| 53 | [Second To None](https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Little Armageddon](https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN) | 3:06 |
-| 54 | [Bride](https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Bride](https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj) | 2:58 |
+| 53 | [Bride](https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Bride](https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj) | 2:58 |
+| 54 | [Second To None](https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Little Armageddon](https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN) | 3:06 |
 | 55 | [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 |
 | 56 | [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 |
 | 57 | [Stick It Out](https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Hara](https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU) | 3:24 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 59 | [Three Years Later](https://open.spotify.com/track/5uLNjGZb5uJzRx3iTYr4Z2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Three Years Later](https://open.spotify.com/album/4u8IttkEAoD3FEQPZgKGQ7) | 2:58 |
 | 60 | [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 |
 | 61 | [I Don't Give A Shit](https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Teenage Ends](https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt) | 2:15 |
-| 62 | [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 |
+| 62 | [Lust of the Dead](https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV) | 5:22 |
 | 63 | [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 |
-| 64 | [Lust of the Dead](https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV) | 5:22 |
-| 65 | [A Glorious Time](https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh) | [Team Ghost](https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW) | [You Never Did Anything Wrong to Me](https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT) | 4:19 |
+| 64 | [A Glorious Time](https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh) | [Team Ghost](https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW) | [You Never Did Anything Wrong to Me](https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT) | 4:19 |
+| 65 | [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 |
 | 66 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 |
-| 67 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 |
-| 68 | [Sometimes I Wanna Fight](https://open.spotify.com/track/55u6h5OS21Z7Zm0saxjpt4) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Sometimes I Wanna Fight](https://open.spotify.com/album/1Mw2YPYz9Ed4TzjFo0pgSG) | 3:22 |
-| 69 | [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 |
-| 70 | [Can't Wait to Be Fine](https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Can't Wait to Be Fine](https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD) | 5:58 |
-| 71 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 |
+| 67 | [Sometimes I Wanna Fight](https://open.spotify.com/track/55u6h5OS21Z7Zm0saxjpt4) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Sometimes I Wanna Fight](https://open.spotify.com/album/1Mw2YPYz9Ed4TzjFo0pgSG) | 3:22 |
+| 68 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 |
+| 69 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 |
+| 70 | [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 |
+| 71 | [Can't Wait to Be Fine](https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Can't Wait to Be Fine](https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD) | 5:58 |
 | 72 | [Wait On Me](https://open.spotify.com/track/21hHG6wPAOsnSeGZYAoS0C) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [As Safe As Yesterday](https://open.spotify.com/album/1uufU9XE4QdcM6BzwrEy4C) | 3:32 |
-| 73 | [Stepping On Snails](https://open.spotify.com/track/7ogd6ybezUKwYxeLWb2nvB) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Stepping On Snails](https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286) | 4:21 |
-| 74 | [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 |
+| 73 | [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 |
+| 74 | [Stepping On Snails](https://open.spotify.com/track/7ogd6ybezUKwYxeLWb2nvB) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Stepping On Snails](https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286) | 4:21 |
 | 75 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 |
 
-Snapshot ID: `MTY2Mzg0MjAzNSwwMDAwMDAwMGJlZjIzMGNiYWNhZTQzODNiNjEzZGZkNTI0YjljZjgw`
+Snapshot ID: `MTY2Mzg0MjAzNSwwMDAwMDAwMDc4N2E4YmVjZGFiMjc1ODExYWVhMjhlMTQ1NjIzN2Qz`

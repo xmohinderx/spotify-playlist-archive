@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,231 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,363 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 7 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
 | 8 | [Shalala](https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:48 |
 | 9 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
-| 10 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
+| 10 | [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 |
 | 11 | [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 |
 | 12 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
 | 13 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 |
 | 14 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 |
 | 15 | [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 |
-| 16 | [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 |
+| 16 | [Smoke and Mirrors](https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Forest of Lost Children](https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA) | 7:16 |
 | 17 | [9 Vueltas al Sol](https://open.spotify.com/track/7zbGn6Qui3UL9DFpexCKBs) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [El Eterno Retorno](https://open.spotify.com/album/3dEdpu1O1ZicjBvchw2Swh) | 5:20 |
 | 18 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
-| 19 | [Smoke and Mirrors](https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Forest of Lost Children](https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA) | 7:16 |
+| 19 | [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 |
 | 20 | [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 |
 | 21 | [Roky Said](https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla) | 3:16 |
 | 22 | [Bright Blue Day Haze](https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Desert Island](https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB) | 4:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 39 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 |
 | 40 | [Shell Island](https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:23 |
 | 41 | [Lost Heads](https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5) | 6:26 |
-| 42 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 |
-| 43 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 |
+| 42 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 |
+| 43 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 |
 | 44 | [you\\me\\everyone](https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 3:39 |
 | 45 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
 | 46 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 |
@@ -60,18 +60,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 50 | [Planet Caravan](https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Planet Caravan](https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS) | 9:11 |
 | 51 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
 | 52 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 |
-| 53 | [Without a Trace](https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Without a Trace](https://open.spotify.com/album/27UKpA4WsdR8mCfPjYByJj) | 4:07 |
-| 54 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
+| 53 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
+| 54 | [Without a Trace](https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Without a Trace](https://open.spotify.com/album/27UKpA4WsdR8mCfPjYByJj) | 4:07 |
 | 55 | [Who dreams of cats?](https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Something Else](https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc) | 3:34 |
 | 56 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
 | 57 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 |
-| 58 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 |
-| 59 | [Venus](https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu) | 2:54 |
+| 58 | [Venus](https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu) | 2:54 |
+| 59 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 |
 | 60 | [Döngüm](https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ) | [Journers](https://open.spotify.com/artist/1poI3l63ENJgUiWAKGv2Sp), [Burak Yeşildurak](https://open.spotify.com/artist/3qM6QIAv4X4nCNZd69VFgA), [Metin Akdülger](https://open.spotify.com/artist/0FEcDP4V2l2ktoG1DQL5Qr) | [Döngüm](https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7) | 4:30 |
 | 61 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 |
-| 62 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
-| 63 | [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 |
-| 64 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
+| 62 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
+| 63 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
+| 64 | [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 |
 | 65 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
 | 66 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 |
 | 67 | [Panic In Babylon](https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 74 | [Acid Crusher](https://open.spotify.com/track/1Jl2QiqrBXJOVxDx2WqnvO) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [Acid Crusher / Mount Swan](https://open.spotify.com/album/1jnKtfbJTAo2WddUGjuLyZ) | 14:56 |
 | 75 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDMwNmFjYmU5YWU4NDY3ZWJjYzY3Yjc4ZDI4YmQ4OGJk`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDQ5YzU3ZmU3ODRjZDA2ZWE3NWFhNGVjMDcwZmVlOWE4`

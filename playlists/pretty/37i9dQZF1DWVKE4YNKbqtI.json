@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 6463,
+  "num_followers": 6479,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGQzZWNkY2E5ODYyZTcyMGFhNzY1YzRjZDM3ZWZmNTM5",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDc4ZjI5OGFlOTFiYmU2MGJkMjY0NDkxYzA0MzhhMWVl",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Louisiana Legend",
+        "url": "https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa"
+      },
+      "artists": [
+        {
+          "name": "Raful Neal",
+          "url": "https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "Blues On The Moon",
+      "url": "https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Dirty Memory",
         "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 362486,
       "name": "Jason Solo",
       "url": "https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Louisiana Legend",
-        "url": "https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa"
-      },
-      "artists": [
-        {
-          "name": "Raful Neal",
-          "url": "https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "Blues On The Moon",
-      "url": "https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -647,26 +647,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Dirty Memory",
-        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
-      },
-      "artists": [
-        {
-          "name": "JJ Appleton",
-          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
-        },
-        {
-          "name": "Jason Ricci",
-          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "Can't Believe It's This Good",
-      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Whoopin'",
         "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 337246,
       "name": "Who's the Fool",
       "url": "https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Dirty Memory",
+        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
+      },
+      "artists": [
+        {
+          "name": "JJ Appleton",
+          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
+        },
+        {
+          "name": "Jason Ricci",
+          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "Can't Believe It's This Good",
+      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
     },
     {
       "added_at": "2020-10-22 17:19:34",

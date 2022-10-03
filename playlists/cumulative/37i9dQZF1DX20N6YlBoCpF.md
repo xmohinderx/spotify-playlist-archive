@@ -4,7 +4,7 @@
 
 > Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262?si=Vs4aByj4SRSSW\_bcV7\-TrA">Jacques Leonard</a>
 
-50 songs - 2 hr 44 min - not published yet
+50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/0RKP7WChEoliblztnGqALh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

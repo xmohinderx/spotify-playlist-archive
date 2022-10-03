@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,686 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,735 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 28 | [Crosscut Saw](https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 7:44 |
 | 29 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 |
 | 30 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 |
-| 31 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 |
+| 31 | [Grape Jelly](https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Back To Bogalusa](https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0) | 4:26 |
 | 32 | [Put That Back](https://open.spotify.com/track/68c1MV92ptINojyzzheUJu) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:47 |
-| 33 | [Grape Jelly](https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Back To Bogalusa](https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0) | 4:26 |
+| 33 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 |
 | 34 | [Same Ole Feeling](https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:04 |
 | 35 | [The Moon Is Full](https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:06 |
 | 36 | [Stop On By](https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [All The Way](https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs) | 4:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 45 | [I'm Not Havin' It](https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:13 |
 | 46 | [Break on Free](https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 4:12 |
 | 47 | [Pots And Pans](https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Shine Bright](https://open.spotify.com/album/5yP8HnU8eGBDjRN6GxOgVh) | 4:33 |
-| 48 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
-| 49 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
+| 48 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
+| 49 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
 | 50 | [A Man's Got To Do What A Man's Got To Do](https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:03 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMGI3N2FlN2M5OGZhMTU5ZjYxYzIyNTYxZjUzMzc3MjBl`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDQxNDQ1YmY3MDhiNDFmZTE0YzViNzE3NTM3NTkyNWI5`

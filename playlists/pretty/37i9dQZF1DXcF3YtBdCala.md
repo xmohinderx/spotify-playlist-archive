@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Río Roma & Pepe Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,999 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,041 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 37 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
 | 38 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
 | 39 | [Te He Prometido](https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Te He Prometido](https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR) | 3:06 |
-| 40 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
-| 41 | [Ya Lo Superé](https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Lo Superé](https://open.spotify.com/album/2N2i8N1tAzeghEYR0Shgbp) | 3:24 |
+| 40 | [Ya Lo Superé](https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Lo Superé](https://open.spotify.com/album/2N2i8N1tAzeghEYR0Shgbp) | 3:24 |
+| 41 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
 | 42 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
 | 43 | [Fue un Placer Amarte](https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Fue un Placer Amarte](https://open.spotify.com/album/6lkzoOCU8gJ1Vtt6cV9659) | 3:49 |
 | 44 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
 | 45 | [Ven Porque Te Necesito](https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ven Porque Te Necesito](https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX) | 3:05 |
-| 46 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
+| 46 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
 | 47 | [Te Quise Olvidar](https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Quise Olvidar](https://open.spotify.com/album/2Zt6BjmuPDe7uAbSjj4RmN) | 3:48 |
 | 48 | [A Mi Manera](https://open.spotify.com/track/5PeaVtXNXfu8EWDZfpSEgb) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [A Mi Manera](https://open.spotify.com/album/6jXRZyYOZsFtUsT8ckn42J) | 5:17 |
 | 49 | [Los Besos Jamás](https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Los Besos Jamás](https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM) | 3:15 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 52 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 |
 | 53 | [Te Seguiré Queriendo \- Versión Mariachi](https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Te Seguiré Queriendo \(Versión Mariachi\)](https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX) | 3:12 |
 | 54 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 |
-| 55 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
+| 55 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
 | 56 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
 | 57 | [Te Seguiré Queriendo](https://open.spotify.com/track/20QNDtc0S5p4CracDvoG94) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Te Seguiré Queriendo](https://open.spotify.com/album/0dulJ0c8NRZ33f7VswWSxH) | 3:35 |
-| 58 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
-| 59 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
+| 58 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
+| 59 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
 | 60 | [Decidí Olvidarte](https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Decidí Olvidarte](https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P) | 2:20 |
 | 61 | [Se Olvidó \- Versión Mariachi](https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Se Olvidó \(Versión Mariachi\)](https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys) | 3:11 |
 | 62 | [Buscando el Olvido](https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Buscando el Olvido](https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 74 | [No Te Dejes Engañar](https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Dejes Engañar](https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME) | 3:13 |
 | 75 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
 
-Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMDE3ZmNkMDQ1ZTNmNmFjMTEwN2UyMTk0YjJkNDkzNGVm`
+Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMDM3NTAwODA1MjQ5YzI3OGY2NmJhZWQ5YTFhMGFhZTVm`

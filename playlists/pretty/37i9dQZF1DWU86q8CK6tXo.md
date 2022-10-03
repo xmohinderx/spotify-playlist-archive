@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying only grooves, with some of  <a href=“spotify:artist:3R80OE4RViOWbnuvqh0j8a”>Thuy's</a> inspirations\. Cover: Thuy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,579 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,596 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 26 | [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 |
 | 27 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
 | 28 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
-| 29 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 |
-| 30 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 |
+| 29 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 |
+| 30 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 |
 | 31 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 |
 | 32 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 |
 | 33 | [ME WITHOUT U](https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [ME WITHOUT U](https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
 | 50 | [gurl](https://open.spotify.com/track/2tTTIbAAHYFgulsKMTTUkN) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [cupids out tonight](https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3) | 2:36 |
 
-Snapshot ID: `MTY2MzM0NjU0NSwwMDAwMDAwMDc1NmQyYzc5NDNmYmI1ODBmMGI3NzRlNTdjMGJmMTZl`
+Snapshot ID: `MTY2MzM0NjU0NSwwMDAwMDAwMDE0MTU5OWEwZmM0ZDVlMWU2NzZhYmY4OTJiYjY3ZWVm`

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-01",
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
   "name": "Praise and Worship",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7augvUBLA6t5dcDdUKo5Km"
+  ],
   "tracks": [
     {
       "album": {
@@ -87,7 +89,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 297250,
       "name": "April Celebrants Special (Live)",
       "url": "https://open.spotify.com/track/6s4JdeAKoimUzDkClTadeg"
@@ -499,6 +501,28 @@
       "duration_ms": 258893,
       "name": "Green Land",
       "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
+      },
+      "artists": [
+        {
+          "name": "Celebrate Africa",
+          "url": "https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224203,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
     },
     {
       "album": {

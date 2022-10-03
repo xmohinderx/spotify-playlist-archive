@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,988 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,977 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 60 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 |
 | 61 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 |
 | 62 | [I Got A Feeling](https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [I Got A Feeling](https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt) | 2:24 |
-| 63 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 |
-| 64 | [if we never met \- remix](https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [if we never met \(remix\)](https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE) | 3:06 |
+| 63 | [if we never met \- remix](https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [if we never met \(remix\)](https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE) | 3:06 |
+| 64 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 |
 | 65 | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I) | 2:33 |
 | 66 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\)](https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Close To Me \(feat\. Swae Lee\)](https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ) | 3:02 |
 | 67 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE) | 3:34 |
 | 80 | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9) | 2:43 |
 
-Snapshot ID: `MTYyOTQ0NzY1MywwMDAwMDAwMDM3OTcwOWM5MmJkZWVhY2QwYmZmNjRkNjdlNTllZWM1`
+Snapshot ID: `MTYyOTQ0NzY1MywwMDAwMDAwMDkwODljMGNhOGUyYWYyNzFiMjQwYzk5MTZiMTliYTZm`

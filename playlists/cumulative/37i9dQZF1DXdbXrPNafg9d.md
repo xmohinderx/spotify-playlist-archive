@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: EKKSTACY
 
-4,227 songs - 10 day 8 hr 26 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,231 songs - 10 day 8 hr 40 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,8 @@
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-10-09 | 2021-11-20 |
 | [Atomic Vomit](https://open.spotify.com/track/3YBfHJTZPHn5DqgMnD6g5g) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 | 2020-12-04 | 2021-02-12 |
 | [Atomized](https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Atomized](https://open.spotify.com/album/057lK6W2g5aC8x8gtvtkII) | 4:45 | 2022-03-18 | 2022-04-23 |
-| [Atopos](https://open.spotify.com/track/6BggRT92i1xD3MXCTt64J1) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Atopos](https://open.spotify.com/album/4gsVIuKRUMJCdNhHTx5GrI) | 4:46 | 2022-09-09 |  |
+| [Atopos](https://open.spotify.com/track/6BggRT92i1xD3MXCTt64J1) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Atopos](https://open.spotify.com/album/4gsVIuKRUMJCdNhHTx5GrI) | 4:46 | 2022-09-09 | 2022-10-03 |
+| [Atopos](https://open.spotify.com/track/6I1iRZyHuBtsolaGh3knLI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:46 | 2022-09-09 |  |
 | [Attention](https://open.spotify.com/track/2U76RhZDZjih41gBygnces) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/1jrikGtnJksIVgzNzkVLRy) | 2:57 | 2021-04-03 | 2021-05-22 |
 | [AUATC](https://open.spotify.com/track/2X1PJ3l0wM4D42EiEdVh5W) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/22PYhoWaopcOplvKR6o5BA) | 2:22 | 2020-08-07 | 2020-09-18 |
 | [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 | 2021-11-05 | 2022-01-08 |
@@ -2583,7 +2584,8 @@
 | [Nomatterday](https://open.spotify.com/track/5SIuyYZIVW9WU90puvFG1x) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doggerel](https://open.spotify.com/album/2Z7bVVJJrnoLILscuubJIU) | 4:11 | 2022-09-30 |  |
 | [Nominated](https://open.spotify.com/track/0jPrAVbnZFZaxCkDtxLbK2) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Rikki](https://open.spotify.com/album/3nIDxmxWDPzCjlR2Y4Lq9G) | 3:31 | 2020-10-24 | 2020-12-22 |
 | [None Of My Friends](https://open.spotify.com/track/2yFRJ1eJjycB5auItpeT5S) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [None Of My Friends](https://open.spotify.com/album/0TiI60k04lezj48csbPYWu) | 2:46 | 2019-07-26 | 2019-09-13 |
-| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-30 |  |
+| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-30 | 2022-10-03 |
+| [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 | 2022-09-30 |  |
 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 | 2019-08-30 | 2019-10-18 |
 | [Norton Commander \(All We Need\)](https://open.spotify.com/track/5KZiiK8dvTgXaVnegsvvBz) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Norton Commander \(All We Need\)](https://open.spotify.com/album/7Lc8WAp0aFlQyIvlHSBAJh) | 3:26 | 2019-05-26\* | 2019-06-21 |
 | [Nostalgia](https://open.spotify.com/track/7gtj3FWoAiQDPbON9EXNbH) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Nostalgia](https://open.spotify.com/album/3hFBnq1H23hlLwIooVXl1T) | 4:03 | 2019-11-08 | 2019-12-13 |
@@ -2724,7 +2726,8 @@
 | [Overhead](https://open.spotify.com/track/1D2NHhsEq7Pl6JFSGP0KBh) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Overhead](https://open.spotify.com/album/4Jg63kH9WA5GeoQ2pJk3WD) | 3:57 | 2020-06-05 | 2020-07-24 |
 | [Overlord](https://open.spotify.com/track/1mC2VSgfVnG2RxUQqIrWM8) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Overlord](https://open.spotify.com/album/7wJikw2OmvCwWMbLCdiyft) | 2:43 | 2020-02-28 | 2020-03-27 |
 | [Overtime](https://open.spotify.com/track/4cahtZlZA1qbMGnx1TOD42) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Overtime](https://open.spotify.com/album/6pk9Wz3HV6XySLU5Q4KjdN) | 2:54 | 2020-01-17 | 2020-02-14 |
-| [Ovule](https://open.spotify.com/track/3epjx0KBU45yCx7KtOXF2Z) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Ovule](https://open.spotify.com/album/5GQmiJ4JRv6pvcTZbBD4Wu) | 3:38 | 2022-09-16 |  |
+| [Ovule](https://open.spotify.com/track/01uiiE7cNaoMAvdtsiDqMd) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 3:38 | 2022-09-30 |  |
+| [Ovule](https://open.spotify.com/track/3epjx0KBU45yCx7KtOXF2Z) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Ovule](https://open.spotify.com/album/5GQmiJ4JRv6pvcTZbBD4Wu) | 3:38 | 2022-09-16 | 2022-10-03 |
 | [Owe Me](https://open.spotify.com/track/2VUgqXdxcpOITQAzVyBrov) | [Lily Konigsberg](https://open.spotify.com/artist/0C0xVsusgtna2fFBSPQzQS) | [Owe Me](https://open.spotify.com/album/672qQMledMXvblyKIUgOEV) | 3:35 | 2021-03-14 | 2021-04-24 |
 | [Own Alone](https://open.spotify.com/track/6L9dQCAjZqZJ4SHuRaA433) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Own Alone](https://open.spotify.com/album/5RXlKGbdYyXFret6YuObJp) | 3:15 | 2020-08-14 | 2020-09-18 |
 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 | 2021-10-29 | 2022-02-05 |
@@ -3847,7 +3850,8 @@
 | [Uneventful Days](https://open.spotify.com/track/0cq5E0XfR8qiXKJEwXxORy) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Uneventful Days](https://open.spotify.com/album/46EzyjR0pvVP3PMyaEaQ7U) | 3:17 | 2019-10-18 | 2019-11-15 |
 | [UNFAIR](https://open.spotify.com/track/35ohdMj17ie2y5I8cTWzbt) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [UNFAIR](https://open.spotify.com/album/1fYjRRgUP0hpl4jgN8avC1) | 3:51 | 2019-09-20 | 2019-10-11 |
 | [Unfazed \- Edit](https://open.spotify.com/track/61XYi3MM2ViG6VzVbvotNV) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Unfazed](https://open.spotify.com/album/4jwQZ3yGj87pliS5bzs4Q1) | 3:50 | 2021-03-14 | 2021-04-24 |
-| [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-08-26 |  |
+| [Unfold](https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 1:30 | 2022-09-30 |  |
+| [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-08-26 | 2022-10-03 |
 | [Unfold](https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:45 | 2021-04-24 | 2021-06-26 |
 | [Unfold You](https://open.spotify.com/track/6DvXURYvXYnxuCQCHDbopQ) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Unfold You](https://open.spotify.com/album/1hck4Vo6NaORoIZoV4C753) | 3:54 | 2020-10-16 | 2020-12-04 |
 | [unforgettable](https://open.spotify.com/track/3JWY0CF813tcDNSP18jIqo) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [unforgettable](https://open.spotify.com/album/2XTj6tzAHKoOeveUdbpqNc) | 2:51 | 2020-08-21 | 2020-09-18 |

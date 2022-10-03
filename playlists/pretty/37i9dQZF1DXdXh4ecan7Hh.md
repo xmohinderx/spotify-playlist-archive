@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Ingrid Andress
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,102 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,122 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

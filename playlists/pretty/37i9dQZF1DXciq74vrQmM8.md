@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. red leather
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,499 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,907 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Love You Better](https://open.spotify.com/track/1nXKFCz88CcR0ACWmyHrDS) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Love You Better](https://open.spotify.com/album/5Rr2SAaepFLbCSI955PEf9) | 3:57 |
 | 80 | [KILLIN](https://open.spotify.com/track/0QNXRzvMbrX2NC6eZ8nLSl) | [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G), [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [KILLIN](https://open.spotify.com/album/3Oy7WMxX7dtnKx4HVCnyHP) | 2:03 |
 
-Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMDRhOGI1OWJkOTk1NTI5MTlkNGQyMmZiNTRmOGMwZDY4`
+Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMGRlMmIzN2E2ZjUzZTY4OThhZTYwMWY4Yjk0ZmM5OTEw`

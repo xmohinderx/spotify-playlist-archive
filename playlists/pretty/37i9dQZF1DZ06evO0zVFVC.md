@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,736 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,794 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 46 | [Writings on the Wall](https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
 | 47 | [Devil's Calling](https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:26 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBiOWE1MzU2MzZlZjA3YjUyM2QyMDAwMWMxYThhZDQxMw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA5YjcxNzk5Nzg5YWFiYzk0MTE3N2M5MTc2OTViN2JiNQ==`

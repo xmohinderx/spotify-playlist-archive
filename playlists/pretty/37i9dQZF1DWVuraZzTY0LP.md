@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,574 likes - 70 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,685 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 26 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 27 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
 | 28 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 |
-| 29 | [Cosmic Girl \- Remastered](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 |
+| 29 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
 | 30 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 |
 | 31 | [Lisztomania](https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 4:01 |
 | 32 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
 | 33 | [Monday](https://open.spotify.com/track/747LeNCUC3bF2h43E73rFh) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:07 |
-| 34 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
+| 34 | [Cosmic Girl \- Remastered](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 |
 | 35 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 |
 | 36 | [No You Girls](https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:43 |
 | 37 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 44 | [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:35 |
 | 45 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 |
 | 46 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
-| 47 | [Hey!](https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Jaibol](https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM) | 4:17 |
-| 48 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 |
-| 49 | [Because I’m Me](https://open.spotify.com/track/3f3HHRPF5vAo90GwdpDMaQ) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Wildflower](https://open.spotify.com/album/0j0djiGxLnBiW7meVc2PER) | 4:12 |
+| 47 | [Because I’m Me](https://open.spotify.com/track/3f3HHRPF5vAo90GwdpDMaQ) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Wildflower](https://open.spotify.com/album/0j0djiGxLnBiW7meVc2PER) | 4:12 |
+| 48 | [Hey!](https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Jaibol](https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM) | 4:17 |
+| 49 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 |
 | 50 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
 | 51 | [Bonnie Hill](https://open.spotify.com/track/6nU0Y6B5TEtAdiavOLP7lO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 3:11 |
 | 52 | [For Sure](https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:25 |
@@ -65,18 +65,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 55 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 56 | [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 |
 | 57 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
-| 58 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 |
-| 59 | [Theworstthing](https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:03 |
+| 58 | [Theworstthing](https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:03 |
+| 59 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 |
 | 60 | [Peach](https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Peach](https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu) | 3:14 |
 | 61 | [Désolé \(feat\. Fatoumata Diawara\)](https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine Episode 2](https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN) | 3:56 |
 | 62 | [It's Got To Be You](https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 3:55 |
 | 63 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 |
-| 64 | [Galáctica](https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Galáctica](https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m) | 3:27 |
-| 65 | [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 |
+| 64 | [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 |
+| 65 | [Veneno](https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Veneno](https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0) | 3:20 |
 | 66 | [SKR](https://open.spotify.com/track/4UShyGW0d8C8j8npDZ8img) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [SKR](https://open.spotify.com/album/5lat79fNUWI7gyQlx6yFka) | 5:18 |
-| 67 | [Veneno](https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Veneno](https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0) | 3:20 |
+| 67 | [Galáctica](https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Galáctica](https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m) | 3:27 |
 | 68 | [Blowback](https://open.spotify.com/track/7aZ1Grktl7RBHLwxem7DE7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 3:59 |
 | 69 | [Divergencia](https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Divergencia](https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C) | 3:45 |
 | 70 | [Curious](https://open.spotify.com/track/3v6r9OEOEyzecbwmvSNCmK) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hits To The Head](https://open.spotify.com/album/1NKpK2wzsNlIf59OvO2RVb) | 2:49 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDk2YmI4ZGI0NTJiYTE2OTM2YjM2Y2U0ODIxMzYwZWZk`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDhlMzAxNTc2YTk2ODUyNjYxZTc0MzJkNmU3MDEwN2Yz`

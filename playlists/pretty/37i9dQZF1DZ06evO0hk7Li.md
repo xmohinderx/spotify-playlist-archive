@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,763 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,777 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 19 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 |
 | 20 | [Monster 2.0](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Monster 2.0](https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX) | 3:37 |
 | 21 | [Coolin](https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 2:51 |
-| 22 | [Be Good To Me \(feat\. Seinabo Sey\)](https://open.spotify.com/track/7juealXfkel1kLInjvY4W8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:10 |
-| 23 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 |
+| 22 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 |
+| 23 | [Be Good To Me \(feat\. Seinabo Sey\)](https://open.spotify.com/track/7juealXfkel1kLInjvY4W8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:10 |
 | 24 | [Alive](https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Brand New Machine \(Deluxe Version\)](https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs) | 3:26 |
 | 25 | [Too Much](https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 4:50 |
-| 26 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 |
-| 27 | [Bang](https://open.spotify.com/track/5cECPK2MfXHYncVB9wLoMR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Bang](https://open.spotify.com/album/2nqTrXkTZV9pQgDU8Bde00) | 3:22 |
+| 26 | [Bang](https://open.spotify.com/track/5cECPK2MfXHYncVB9wLoMR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Bang](https://open.spotify.com/album/2nqTrXkTZV9pQgDU8Bde00) | 3:22 |
+| 27 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 |
 | 28 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
 | 29 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
-| 30 | [Prosecco](https://open.spotify.com/track/1OWu2Vin6WH1gVvgO05Pw8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:28 |
-| 31 | [Sink or Swim](https://open.spotify.com/track/5ldyAFx6EaPRi9vw9GgUNf) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:38 |
+| 30 | [Sink or Swim](https://open.spotify.com/track/5ldyAFx6EaPRi9vw9GgUNf) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:38 |
+| 31 | [Prosecco](https://open.spotify.com/track/1OWu2Vin6WH1gVvgO05Pw8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:28 |
 | 32 | [Something Beautiful](https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:28 |
 | 33 | [Just When I Thought](https://open.spotify.com/track/5NerE4vzq2j1B5a8NVP6eK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:42 |
 | 34 | [Photograph](https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [SOMEONE ELSE \(feat\. Jacob Banks\)](https://open.spotify.com/track/4R6rTr9UY7r9aeSHpy4GBB) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [SOMEONE ELSE \(feat\. Jacob Banks\)](https://open.spotify.com/album/7GcRDb1Li5vr4q1hLQCWdM) | 3:42 |
 | 50 | [Silver Lining](https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 4:36 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBlNWQ1YWRlNzRkZjA3MjhlOTlkOWFmMTk3MGYxNWM2NQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBhMTYwMWFjMmRjY2M2NjRiYTMxMjRlZWRjN2FiMDZjOQ==`

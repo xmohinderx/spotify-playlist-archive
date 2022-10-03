@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,748 likes - 46 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,828 likes - 46 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 23 | [Blues Run the Game \- Studio Outtake \- 1965](https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:51 |
 | 24 | [The Times They Are A\-Changin'](https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:50 |
 | 25 | [Blessed](https://open.spotify.com/track/1NsReekFMb5e2wVcOQGoAL) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:13 |
-| 26 | [At the Zoo](https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:22 |
-| 27 | [My Little Town](https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:51 |
+| 26 | [My Little Town](https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:51 |
+| 27 | [At the Zoo](https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:22 |
 | 28 | [Sparrow](https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:47 |
 | 29 | [American Tune \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/6xoFYGW7KJsF4SfTz8nxOk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:35 |
 | 30 | [A Poem on the Underground Wall](https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 1:54 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 45 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 |
 | 46 | [50 Ways to Leave Your Lover \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/5R7BOhW46EhAb8B7dnRciJ) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:49 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAwM2Y3MDkxZTg2ZGE3N2Y1YWExNWMwZDU5YWZlZGExMA==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBmOWQ1ZGZlMzc5NzkxYTU2MGU4NTlmNGYyMDc5YzhjOA==`

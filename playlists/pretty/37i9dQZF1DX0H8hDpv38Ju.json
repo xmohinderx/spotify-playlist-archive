@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 713321,
+  "num_followers": 713573,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMDA5YzAxOTc1ZGMwZjQ1MWFkZmJjMzNiZWQzYmI0YWQ1",
+  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMDU0MTk3MDczNTA4MzkyMDhiODBlYzIwOTQ1M2JlNzA0",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Give It To Me Baby",
-      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Word Up",
         "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Give It To Me Baby",
+      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
     },
     {
       "added_at": "2021-07-01 19:39:13",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Guy",
-        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 273760,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
         "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 287000,
       "name": "Let It Whip",
       "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
     },
     {
       "added_at": "2021-04-01 19:37:56",

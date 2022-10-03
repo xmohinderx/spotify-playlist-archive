@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,844 likes - 67 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,357 likes - 67 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 4 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
 | 5 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 |
 | 6 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
-| 7 | [Endless Love](https://open.spotify.com/track/0StYBemv9yt0DmbCPNUnC7) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love/仲良ピース](https://open.spotify.com/album/329JSn2SToLHrtusx8fN55) | 1:42 |
-| 8 | [海風のモノローグ](https://open.spotify.com/track/6WkHpy9k9HW2biUXUQppJY) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/5zM3FvEhWKAPSrLzhYQZCL) | 4:20 |
+| 7 | [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / 仲良ピース](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 |
+| 8 | [Umikaze no Monologue](https://open.spotify.com/track/4738WpIvtp7gautXrTtSsw) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Umikaze no Monologue](https://open.spotify.com/album/39cGk6J25lOSg0ZFK1PuT0) | 4:20 |
 | 9 | [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 |
 | 10 | [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 |
 | 11 | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/track/1nzPt6k4X0jyNutJ0F8LCy) | [all at once](https://open.spotify.com/artist/48BElNPYehUg03qOO3puCo), [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/album/08AYBn8vne85ZsuZpydVIB) | 2:49 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 66 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 |
 | 67 | [No Man's Dawn](https://open.spotify.com/track/5XvmEVOlh8S0FvZQyaYnzo) | [criminal](https://open.spotify.com/artist/01x2ElR5LGoZ3HTwn0u4eH) | [No Man's Dawn](https://open.spotify.com/album/5emNQodJSciI2Ib281UrG3) | 3:53 |
 
-Snapshot ID: `MTY2NDY0NDI0NSwwMDAwMDAwMGY5ZGI3NDc1Nzg1ZWJjZjZhZmQ2NDE3OGE0MDM1MWQw`
+Snapshot ID: `MTY2NDY0NDI0NSwwMDAwMDAwMDZkYWVlMDI2NzYwNGMxMTcwYmFiMTk0YTE2NmI3NTEw`

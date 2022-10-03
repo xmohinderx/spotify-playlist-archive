@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 309231,
+  "num_followers": 309363,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDMwNmFjYmU5YWU4NDY3ZWJjYzY3Yjc4ZDI4YmQ4OGJk",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDQ5YzU3ZmU3ODRjZDA2ZWE3NWFhNGVjMDcwZmVlOWE4",
   "tracks": [
     {
       "added_at": "2022-09-03 04:25:40",
@@ -155,8 +155,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Norfolk Hotel",
-        "url": "https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ"
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
       },
       "artists": [
         {
@@ -166,7 +166,7 @@
       ],
       "duration_ms": 274176,
       "name": "Norfolk Hotel",
-      "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
+      "url": "https://open.spotify.com/track/78YBItbz15ENXz3F67cDno"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Corsicana Lemonade",
-        "url": "https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz"
+        "name": "Forest of Lost Children",
+        "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
       },
       "artists": [
         {
-          "name": "White Denim",
-          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 244346,
-      "name": "At Night In Dreams",
-      "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
+      "duration_ms": 436171,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
     },
     {
       "added_at": "2022-09-03 03:58:17",
@@ -299,18 +299,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Forest of Lost Children",
-        "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
+        "name": "Corsicana Lemonade",
+        "url": "https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz"
       },
       "artists": [
         {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+          "name": "White Denim",
+          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
         }
       ],
-      "duration_ms": 436171,
-      "name": "Smoke and Mirrors",
-      "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
+      "duration_ms": 244346,
+      "name": "At Night In Dreams",
+      "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
     },
     {
-      "added_at": "2022-04-22 19:38:56",
-      "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Sleeping Through The War",
@@ -711,6 +695,22 @@
       "duration_ms": 400853,
       "name": "Bulls",
       "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
+    },
+    {
+      "added_at": "2022-04-22 19:38:56",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 261556,
+      "name": "Imaginary Girl",
+      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
     },
     {
-      "added_at": "2022-08-13 00:54:36",
-      "album": {
-        "name": "Without a Trace",
-        "url": "https://open.spotify.com/album/27UKpA4WsdR8mCfPjYByJj"
-      },
-      "artists": [
-        {
-          "name": "The Black Angels",
-          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Without a Trace",
-      "url": "https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Rose City Band",
@@ -887,6 +871,22 @@
       "duration_ms": 394323,
       "name": "Rivers of Mind",
       "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
+    },
+    {
+      "added_at": "2022-08-13 00:54:36",
+      "album": {
+        "name": "Without a Trace",
+        "url": "https://open.spotify.com/album/27UKpA4WsdR8mCfPjYByJj"
+      },
+      "artists": [
+        {
+          "name": "The Black Angels",
+          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Without a Trace",
+      "url": "https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Steeple",
-        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 318960,
-      "name": "Silbury Sands",
-      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "The Exorcist GBG",
         "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 174803,
       "name": "Venus",
       "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Steeple",
+        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 318960,
+      "name": "Silbury Sands",
+      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Sophomore",
+        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
+      },
+      "artists": [
+        {
+          "name": "Speck Joliet",
+          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
+        }
+      ],
+      "duration_ms": 332335,
+      "name": "Time Frame",
+      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
+    },
+    {
       "added_at": "2022-08-29 23:45:03",
       "album": {
         "name": "El Tiempo",
@@ -1039,22 +1055,6 @@
       "duration_ms": 176120,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Sophomore",
-        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
-      },
-      "artists": [
-        {
-          "name": "Speck Joliet",
-          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
-        }
-      ],
-      "duration_ms": 332335,
-      "name": "Time Frame",
-      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
       "added_at": "2022-04-05 16:05:08",

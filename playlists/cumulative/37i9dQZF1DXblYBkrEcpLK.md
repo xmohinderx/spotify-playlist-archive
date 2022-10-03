@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-345 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+346 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 | 2022-06-14 | 2022-07-14 |
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-07-28 |  |
+| [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-09-20 |  |
 | [Labyrinth](https://open.spotify.com/track/4gfrsAiT2SFaPqMovxjTWM) | [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Labyrinth](https://open.spotify.com/album/7zRMS627gQSee5r8S9PZtU) | 3:59 | 2022-06-14 | 2022-07-10 |
 | [Lapis](https://open.spotify.com/track/2dLePVS1r2mw2L0uE0k8zD) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Lapis](https://open.spotify.com/album/2GL9ZK5r1hgBBrTn2evF1r) | 3:59 | 2022-06-09 | 2022-07-23 |
 | [Leap of faith](https://open.spotify.com/track/0EtjeTBZiL6wcKMpRein57) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [Leap of faith](https://open.spotify.com/album/3W2pY2vDliZZtnlWvuJtwn) | 5:45 | 2022-06-21 | 2022-07-27 |
@@ -332,7 +333,7 @@
 | [箱庭の幸福](https://open.spotify.com/track/5lLfoz7xP0jKyjFbCYWQ1Q) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [箱庭の幸福](https://open.spotify.com/album/7wVBxbqGcZZ9t7uHoZ1ULC) | 4:55 | 2022-06-09 | 2022-07-26 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-07-28 |  |
 | [紅蓮華](https://open.spotify.com/track/1hFsEbHxsfflhLEPCq5tzk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:58 | 2022-06-09 | 2022-07-23 |
-| [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 | 2022-07-28 |  |
+| [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 | 2022-07-28 | 2022-10-03 |
 | [聴こえる?](https://open.spotify.com/track/7yO6MXpbXh2Va2n6DOr9fT) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [聴こえる?](https://open.spotify.com/album/555t5S8CPEHq2EMHXYXohY) | 4:05 | 2022-06-24 | 2022-07-07 |
 | [航海の唄](https://open.spotify.com/track/6jZBvlt3xG6gdPh1vFMBhs) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [About a Voyage \(My Hero Academia Ending Theme Song\) \[World Edition\]](https://open.spotify.com/album/6RJpk9d7aZWVij0NnSVYbl) | 4:44 | 2022-06-09 | 2022-06-12 |
 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 | 2022-06-09 |  |

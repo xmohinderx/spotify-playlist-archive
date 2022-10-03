@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 75230,
+  "num_followers": 75285,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMGUwZGUxOTI2OGMyOGM1OWQ4NmFhNDc0NTM0MjdhMzky",
+  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMGFmMDliYTdkZDY5YzFmYzE4NmRjNjA1NTYzOWNlYWNl",
   "tracks": [
     {
       "added_at": "2022-09-15 12:23:59",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
-      "added_at": "2022-10-02 01:37:13",
+      "added_at": "2022-10-03 01:27:37",
       "album": {
         "name": "Stechm\u00fcck",
         "url": "https://open.spotify.com/album/3loW6CAy3YilP4SdZBkIqu"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
-      "added_at": "2022-10-02 01:37:13",
+      "added_at": "2022-10-03 01:27:37",
       "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
         "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
     },
     {
-      "added_at": "2022-07-08 04:56:00",
-      "album": {
-        "name": "Spirit Exit",
-        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 619200,
-      "name": "Knot of Spirit - Synth Version",
-      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "No Mind",
@@ -543,6 +527,22 @@
       "duration_ms": 135269,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj"
+    },
+    {
+      "added_at": "2022-07-08 04:56:00",
+      "album": {
+        "name": "Spirit Exit",
+        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 619200,
+      "name": "Knot of Spirit - Synth Version",
+      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
-      "added_at": "2022-03-30 15:08:41",
-      "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Panspermia",
@@ -607,6 +591,22 @@
       "duration_ms": 188000,
       "name": "Panspermia",
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
+    },
+    {
+      "added_at": "2022-03-30 15:08:41",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Twilight Sea",
         "url": "https://open.spotify.com/album/1EK0o47MPbqz6khTEN4u64"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 233499,
       "name": "Lone Swordsman",
       "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -901,6 +901,26 @@
       "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Tar (Jan Jelinek Remix)",
+        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "duration_ms": 359543,
+      "name": "Tar - Jan Jelinek Remix",
+      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
+    },
+    {
       "added_at": "2022-01-12 02:35:30",
       "album": {
         "name": "This Is An Advertisement",
@@ -923,22 +943,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Tar (Jan Jelinek Remix)",
-        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
       },
       "artists": [
         {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        },
-        {
-          "name": "Jan Jelinek",
-          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
         }
       ],
-      "duration_ms": 359543,
-      "name": "Tar - Jan Jelinek Remix",
-      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
+      "duration_ms": 293294,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -959,22 +975,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
-        }
-      ],
-      "duration_ms": 293294,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "Anxi.",
+      "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Street Talk",
         "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
       },
@@ -1071,22 +1091,6 @@
       "duration_ms": 229367,
       "name": "Street Talk",
       "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -1121,6 +1125,22 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+    },
+    {
       "added_at": "2022-08-24 01:27:39",
       "album": {
         "name": "Eve",
@@ -1135,6 +1155,22 @@
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1155,42 +1191,6 @@
       "duration_ms": 191000,
       "name": "FlimFlam",
       "url": "https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Kelly Lee Owens",
-        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        },
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "Anxi.",
-      "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
-    },
-    {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2022-01-11 02:28:09",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
     },
     {
-      "added_at": "2022-08-03 02:50:08",
-      "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
-      },
-      "artists": [
-        {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Seelen",
@@ -1339,6 +1323,22 @@
       "duration_ms": 275271,
       "name": "Seele III",
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+    },
+    {
+      "added_at": "2022-08-03 02:50:08",
+      "album": {
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+      },
+      "artists": [
+        {
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1395,6 +1395,38 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Ficciones Del Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
+      },
+      "artists": [
+        {
+          "name": "Molero",
+          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Phasma Gigas",
+      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Angel Tears in Sunlight",
         "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
       },
@@ -1427,38 +1459,6 @@
       "duration_ms": 311480,
       "name": "Dub Protection",
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Ficciones Del Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
-      },
-      "artists": [
-        {
-          "name": "Molero",
-          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Phasma Gigas",
-      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
     },
     {
       "added_at": "2022-08-17 17:11:39",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
-      "added_at": "2022-04-29 18:23:46",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Inkjet / Fluo",
@@ -1639,6 +1623,22 @@
       "duration_ms": 502161,
       "name": "Fluo",
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
+    },
+    {
+      "added_at": "2022-04-29 18:23:46",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1661,6 +1661,22 @@
       "url": "https://open.spotify.com/track/7ELFgIC6BEMI1BgEA3xDE5"
     },
     {
+      "added_at": "2022-02-25 03:47:46",
+      "album": {
+        "name": "Plonk",
+        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 382111,
+      "name": "Plonk III",
+      "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "SIGN",
@@ -1675,26 +1691,6 @@
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Badwater Psalm (Khotin Remix)",
-        "url": "https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        },
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Badwater Psalm - Khotin Remix",
-      "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
     }
   ],
   "unique_name": "Refractions",

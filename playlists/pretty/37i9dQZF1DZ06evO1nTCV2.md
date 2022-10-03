@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,053 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,073 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,19 +28,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 18 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
 | 19 | [Someday](https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:09 |
 | 20 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 |
-| 21 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
+| 21 | [Big Colors](https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:07 |
 | 22 | [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 |
 | 23 | [When She Smiles](https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:41 |
-| 24 | [Big Colors](https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:07 |
-| 25 | [Out Of The Woods](https://open.spotify.com/track/4kl5l7LzhTLOO3RoUJ59ei) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 6:07 |
-| 26 | [My Winding Wheel](https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:12 |
+| 24 | [Out Of The Woods](https://open.spotify.com/track/4kl5l7LzhTLOO3RoUJ59ei) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 6:07 |
+| 25 | [My Winding Wheel](https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:12 |
+| 26 | [Desire](https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:40 |
 | 27 | [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 |
-| 28 | [Desire](https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:40 |
-| 29 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 |
+| 28 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 |
+| 29 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
 | 30 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
 | 31 | [Fairweather](https://open.spotify.com/track/6CiJ9RWyu7YlRioyrGLDZZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 4:38 |
-| 32 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 |
-| 33 | [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 |
+| 32 | [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 |
+| 33 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 |
 | 34 | [Style](https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 2:44 |
 | 35 | [Wild and Hopeless](https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:55 |
 | 36 | [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 49 | [I'm Sorry and I Love You](https://open.spotify.com/track/2fwAHp0tMsBedFwvR6h8RX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/5iCnW230jyzcbTLdJalSA6) | 3:34 |
 | 50 | [Somethings Missing](https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:17 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA3MzliMmNjOGM5Nzg4N2QzMTRjNWVmMGQxN2MzNDMwYQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA2NDZlM2RmMTY4M2ViZTQ2OTY0YTE4OTdiNjEyOTg0NA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Kimberley Tell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,400 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,428 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,16 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 56 | [Te Voy a Extrañar](https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Te Voy a Extrañar](https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8) | 3:37 |
 | 57 | [Colores cromáticos](https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Colores cromáticos](https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed) | 4:15 |
 | 58 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
-| 59 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
-| 60 | [Gravedad](https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Gravedad](https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN) | 4:25 |
+| 59 | [Gravedad](https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Gravedad](https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN) | 4:25 |
+| 60 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
 | 61 | [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 |
 | 62 | [Triste Pop](https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Triste Pop](https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt) | 5:22 |
 | 63 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 64 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 |
 | 65 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 |
 | 66 | [Como Nadie](https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys) | [Jardín](https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP) | [Como Nadie](https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT) | 3:47 |
-| 67 | [Mirando](https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mirando](https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0) | 3:37 |
-| 68 | [Mr\. Baby](https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mr\. Baby](https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW) | 3:08 |
+| 67 | [Mr\. Baby](https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mr\. Baby](https://open.spotify.com/album/6vIIwphk7WTFX560uYyYDW) | 3:08 |
+| 68 | [Mirando](https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mirando](https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0) | 3:37 |
 | 69 | [Dí Que No](https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Dí Que No](https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh) | 3:55 |
 | 70 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 |
 | 71 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Una Sola Vez](https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Una Sola Vez](https://open.spotify.com/album/4WsPV4Bh44VtunOPOeYbmT) | 4:16 |
 | 75 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMGQ5ZDMxODNmMTE2YzIxYTdhZWQyNjM2YWRiMDU3NTZk`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDI5ZjhkOTllZmQxMzA4MzYzMWMyYTk5ZjRkZTcxNWM2`

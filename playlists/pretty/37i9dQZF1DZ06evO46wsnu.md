@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,112 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,155 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 48 | [Forfeit](https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:44 |
 | 49 | [This Time It's Personal](https://open.spotify.com/track/5OSOOi6C57ZLah8SRatNOd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 4:00 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBlZGUwY2Y1OWU5NThmMTE3OGYzZTRiNDQ2Yzc0MjUwOQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDA1ZmVkNTg5ZGVjNWY0ZDdjMWViNjAwNzE4ZjRkNmQ4ZA==`

@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Oscar Jerome",
-  "num_followers": 266021,
+  "num_followers": 266074,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzNDU3MSwwMDAwMDAwMDRmMDA2NzFmNTc2YWUyZWZkYTQ5MTM3YjRjNTRhYzEx",
+  "snapshot_id": "MTY2NDUzNDU3MSwwMDAwMDAwMGNiZDdiN2M5ZTFmOGUzNjllMGUxZWU5MTc3MWUxY2Nk",
   "tracks": [
     {
       "added_at": "2022-09-30 10:42:51",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Channel Your Anger",
-        "url": "https://open.spotify.com/album/6S9uyhVqKUzLbxom8YMlTF"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 287133,
-      "name": "Channel Your Anger",
-      "url": "https://open.spotify.com/track/7eMzWIZCj6Q6GY1MEj1QbG"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
         "name": "Bring Backs",
         "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
@@ -367,6 +351,26 @@
       "duration_ms": 292200,
       "name": "Run Outs",
       "url": "https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
+        "name": "(Why You So) Green With Envy",
+        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "(Why You So) Green With Envy",
+      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -491,22 +495,6 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Yellow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "The Rings Of Saturn",
-      "url": "https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
         "name": "The Antidote Is in the Poison",
         "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
       },
@@ -519,6 +507,22 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
+        "name": "Yellow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "The Rings Of Saturn",
+      "url": "https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -539,22 +543,18 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "(Why You So) Green With Envy",
-        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
+        "name": "Channel Your Anger",
+        "url": "https://open.spotify.com/album/6S9uyhVqKUzLbxom8YMlTF"
       },
       "artists": [
         {
           "name": "Oscar Jerome",
           "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Oscar #Worldpeace",
-          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
         }
       ],
-      "duration_ms": 292306,
-      "name": "(Why You So) Green With Envy",
-      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+      "duration_ms": 287133,
+      "name": "Channel Your Anger",
+      "url": "https://open.spotify.com/track/7eMzWIZCj6Q6GY1MEj1QbG"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
-      },
-      "artists": [
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 302822,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 400800,
-      "name": "Words Left Unspoken",
-      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 233120,
       "name": "The Morning Side of Love",
       "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 400800,
+      "name": "Words Left Unspoken",
+      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -831,18 +831,22 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "DiVine Ascension",
-        "url": "https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq"
+        "name": "Motherland Journey",
+        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
       "artists": [
         {
-          "name": "muva of Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/147JrO3YiY9nLD40wAlFvi"
         }
       ],
-      "duration_ms": 269589,
-      "name": "DiVine Ascension",
-      "url": "https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF"
+      "duration_ms": 286184,
+      "name": "Dat It",
+      "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -863,22 +867,34 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Motherland Journey",
-        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
+        "name": "DiVine Ascension",
+        "url": "https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq"
       },
       "artists": [
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        },
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/147JrO3YiY9nLD40wAlFvi"
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
         }
       ],
-      "duration_ms": 286184,
-      "name": "Dat It",
-      "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
+      "duration_ms": 269589,
+      "name": "DiVine Ascension",
+      "url": "https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
+        "name": "Shapes",
+        "url": "https://open.spotify.com/album/7uTAl4dESGV2JyvUONqURW"
+      },
+      "artists": [
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Odysea",
+      "url": "https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -903,22 +919,6 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Shapes",
-        "url": "https://open.spotify.com/album/7uTAl4dESGV2JyvUONqURW"
-      },
-      "artists": [
-        {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Odysea",
-      "url": "https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 229499,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/3dAVMvD7oPW9HtaoQG680C"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
+        "name": "Ego Killah",
+        "url": "https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 355493,
+      "name": "Ego Killah",
+      "url": "https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -991,38 +1007,6 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Ego Killah",
-        "url": "https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 355493,
-      "name": "Ego Killah",
-      "url": "https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
         "name": "We Will Rise",
         "url": "https://open.spotify.com/album/1fXAO1H68AvYYtCz9yOjmQ"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 308600,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
         "name": "It's All Relative",
         "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
       },
@@ -1055,6 +1055,26 @@
       "duration_ms": 198843,
       "name": "Begotten",
       "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
+        "name": "Collage 2",
+        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "ELSAS",
+          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
+        }
+      ],
+      "duration_ms": 192859,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -1083,22 +1103,26 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Collage 2",
-        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
+        "name": "Motherland Journey",
+        "url": "https://open.spotify.com/album/6BcDKqYRTb0OBjRZTrndjT"
       },
       "artists": [
         {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
         },
         {
-          "name": "ELSAS",
-          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
+          "name": "KillBeatz",
+          "url": "https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy"
+        },
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 192859,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
+      "duration_ms": 259247,
+      "name": "Motherland Journey",
+      "url": "https://open.spotify.com/track/5Rd4IgnXeREcqfv71DZ5tf"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -1139,22 +1163,6 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
         "name": "Invisible Things",
         "url": "https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6"
       },
@@ -1171,6 +1179,22 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
         "name": "Kyoto Rain",
         "url": "https://open.spotify.com/album/7JlPtr8IOZTJ9O6IEGfETE"
       },
@@ -1183,30 +1207,6 @@
       "duration_ms": 333712,
       "name": "Kyoto Rain",
       "url": "https://open.spotify.com/track/4WhojvMvXY107kbYjD2KvM"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
-        "name": "Motherland Journey",
-        "url": "https://open.spotify.com/album/6BcDKqYRTb0OBjRZTrndjT"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        },
-        {
-          "name": "KillBeatz",
-          "url": "https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy"
-        },
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 259247,
-      "name": "Motherland Journey",
-      "url": "https://open.spotify.com/track/5Rd4IgnXeREcqfv71DZ5tf"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Epistrophy",
-        "url": "https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL"
-      },
-      "artists": [
-        {
-          "name": "Theon Cross",
-          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Epistrophy",
-      "url": "https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET"
-    },
-    {
-      "added_at": "2022-09-30 10:42:51",
-      "album": {
         "name": "Two For Mistake",
         "url": "https://open.spotify.com/album/7lQnb1YRhpJnlX86NYqq7N"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2022-09-30 10:42:51",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
+        "name": "Epistrophy",
+        "url": "https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL"
       },
       "artists": [
         {
-          "name": "Ugolino",
-          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
+      "duration_ms": 211426,
+      "name": "Epistrophy",
+      "url": "https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET"
     },
     {
       "added_at": "2022-09-30 10:42:51",
@@ -1291,6 +1275,22 @@
       "duration_ms": 363554,
       "name": "Badeep",
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
+    },
+    {
+      "added_at": "2022-09-30 10:42:51",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
+      },
+      "artists": [
+        {
+          "name": "Ugolino",
+          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
     },
     {
       "added_at": "2022-09-30 10:42:51",

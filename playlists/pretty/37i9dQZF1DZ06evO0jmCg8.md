@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,332 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,387 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 42 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
 | 43 | [Aces High \- cover version](https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 4:24 |
 | 44 | [Enemy Within](https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:19 |
-| 45 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 |
-| 46 | [Dead Eyes See No Future](https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
+| 45 | [Dead Eyes See No Future](https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
+| 46 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 |
 | 47 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 48 | [Beast of Man \- 2009 Version](https://open.spotify.com/track/65MwtwKP0YlnmLf4R5nhf0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [The Root of All Evil](https://open.spotify.com/album/3lPgwuzDBUYL5eDb4n0w41) | 3:46 |
-| 49 | [Yesterday Is Dead and Gone](https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:21 |
-| 50 | [Dark Insanity](https://open.spotify.com/track/3CUjLbCW7Xn1raSw4sRE2F) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 3:16 |
+| 49 | [Dark Insanity](https://open.spotify.com/track/3CUjLbCW7Xn1raSw4sRE2F) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 3:16 |
+| 50 | [Yesterday Is Dead and Gone](https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:21 |
 
-Snapshot ID: `Mjc3NDM4MzQsMDAwMDAwMDBjYzBlMTk4OTJjZGVhZDRmYTU1ZWI1ODNlOTA5OTRiMQ==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBkNTZkNjhlNWYwZjYxZmExZmEwNWI1MTVmMTA0NWE3MQ==`

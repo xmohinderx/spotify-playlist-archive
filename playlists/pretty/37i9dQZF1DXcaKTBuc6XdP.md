@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,716 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,734 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 27 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
 | 28 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 |
 | 29 | [Here We Go](https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [The Art of Translation](https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w) | 3:19 |
-| 30 | [Do Not Worry \(feat\. Ellie Holcomb\)](https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo) | [Rain For Roots](https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Kingdom of Heaven Is Like This](https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x) | 3:02 |
-| 31 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 |
+| 30 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 |
+| 31 | [Do Not Worry \(feat\. Ellie Holcomb\)](https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo) | [Rain For Roots](https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Kingdom of Heaven Is Like This](https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x) | 3:02 |
 | 32 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
 | 33 | [Brokenness Aside](https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Season One](https://open.spotify.com/album/0SKZC7cvktjidQLucmftED) | 5:52 |
 | 34 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMGUzNjcyODMzYzhlYTA1MmE2YWY3ZDI3ZTQ4MzRjNGIy`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDVlOGU5YjJlZTJhZjk0OWVjOGI0ODJlZjg1MmNmMjg3`

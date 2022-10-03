@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,482 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,488 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 14 | [Angry, Young and Poor](https://open.spotify.com/track/1PySNm0y4MSIfPhQ8iMHbH) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 2:42 |
 | 15 | [Brandenburg Gate](https://open.spotify.com/track/34dVpPh6DpkCJ58sAQqYhp) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 3:30 |
 | 16 | [Drink Drank Punk](https://open.spotify.com/track/2b9H8ocxdhOXoV6HeRvJNg) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:41 |
-| 17 | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/track/7M0dXjcXs8JgdMSkHtoLZi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Ashrita Kumar](https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua) | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/album/5qGVr4SEf2QP6eEed7C3C5) | 2:56 |
-| 18 | [You Make Me Sick](https://open.spotify.com/track/4ymvRa2W35pidqnOX7Ruiy) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 3:01 |
+| 17 | [You Make Me Sick](https://open.spotify.com/track/4ymvRa2W35pidqnOX7Ruiy) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 3:01 |
+| 18 | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/track/7M0dXjcXs8JgdMSkHtoLZi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Ashrita Kumar](https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua) | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/album/5qGVr4SEf2QP6eEed7C3C5) | 2:56 |
 | 19 | [Fabled World](https://open.spotify.com/track/6aJQVrRpRyXSEN4ExRZ1RK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee) | 3:14 |
-| 20 | [Racists](https://open.spotify.com/track/0JkYtPkStJkOyMbSaVEFB1) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 3:20 |
-| 21 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 |
+| 20 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 |
+| 21 | [Racists](https://open.spotify.com/track/0JkYtPkStJkOyMbSaVEFB1) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 3:20 |
 | 22 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
 | 23 | [F\*\*k Police Brutality](https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:20 |
 | 24 | [When The Wall Falls](https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [When The Wall Falls](https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 49 | [Stars and Stripes](https://open.spotify.com/track/61QnLM7lbEhwIe3umKpeNI) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 3:33 |
 | 50 | [Kill the Rich](https://open.spotify.com/track/5JC5yGA0tcayDEWMMUbcYR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:04 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDAwZDJlZjZjMWNjNTQ0MDRkOTM4YjRjOTAxOGNkZjYxNQ==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDBhNWFkZjM1ZDQ1NTJkNzEwNTI4Y2I5N2RmNzA3Mjc2MA==`

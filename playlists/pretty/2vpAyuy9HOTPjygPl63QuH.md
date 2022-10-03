@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,293 likes - 29 songs - 1 hr 35 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,295 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,5 +37,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 27 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 |
 | 28 | [Love Songs](https://open.spotify.com/track/6nb57vP4sMYeeU2mfzVgr6) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Love Songs](https://open.spotify.com/album/3s5kOpbjLyG7l7N9Ezg1h0) | 3:08 |
 | 29 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 |
+| 30 | [Love Me Loco](https://open.spotify.com/track/0vsEfm4TTVrVCQiYcil89k) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Love Me Loco](https://open.spotify.com/album/14OiUNiltQEZGyZQviHNyL) | 3:13 |
 
-Snapshot ID: `NjA5NiwzYzU4MzA3ZDQ0OTgyMTQwYWUwZjI1MzBjZjgxODM0NGQyODllYmEy`
+Snapshot ID: `NjA5Nyw0NDk3MzNlYTNiN2Y3YTk5YTE1MTE1OGI5M2M0NDgwYWZjMWY4YjFl`

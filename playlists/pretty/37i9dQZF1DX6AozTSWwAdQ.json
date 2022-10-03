@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 53421,
+  "num_followers": 53436,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE2NTY4OSwwMDAwMDAwMGRjYzJjMTIxMjgzMWUyOTMwYjA5YjgwOTc0OTg5MDYw",
+  "snapshot_id": "MTY2NDE2NTY4OSwwMDAwMDAwMDVlOTQ5ZDA4ZGJhYTU4MjRlYTE1MzJjZjhjYjIwMjYz",
   "tracks": [
     {
       "added_at": "2022-09-26 04:14:49",
@@ -599,18 +599,22 @@
     {
       "added_at": "2022-09-26 04:14:49",
       "album": {
-        "name": "Something to Someone",
-        "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
+        "name": "Let's Love",
+        "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Something to Someone",
-      "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
+      "duration_ms": 200645,
+      "name": "Let's Love",
+      "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
     },
     {
       "added_at": "2022-09-26 04:14:49",
@@ -631,22 +635,18 @@
     {
       "added_at": "2022-09-26 04:14:49",
       "album": {
-        "name": "Let's Love",
-        "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
+        "name": "Something to Someone",
+        "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 200645,
-      "name": "Let's Love",
-      "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
+      "duration_ms": 198106,
+      "name": "Something to Someone",
+      "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
     },
     {
       "added_at": "2022-09-26 04:14:49",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-09-26 04:14:49",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
+    },
+    {
+      "added_at": "2022-09-26 04:14:49",
+      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2022-09-26 04:14:49",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2022-09-26 04:14:49",

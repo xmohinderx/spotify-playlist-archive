@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,359 likes - 39 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,376 likes - 39 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 | 38 | [Rock & Roll](https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 4:03 |
 | 39 | [City \- Soul Kiss 88](https://open.spotify.com/track/1KncvzweVpOpMmKgth4yok) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 2:30 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDBkNjc0ZGFkOGIzNmIxYTc3ZTQ1NTBlNDkwY2JmNDNlNw==`
+Snapshot ID: `Mjc3NDUzMTQsMDAwMDAwMDBjN2U4MDhjYWY2MzY3MTNlY2IwNTRkNmY3N2E4OWM1MA==`

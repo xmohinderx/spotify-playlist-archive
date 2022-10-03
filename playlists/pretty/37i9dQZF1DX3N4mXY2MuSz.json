@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favorite punks. Cover: jxdn",
-  "num_followers": 33998,
+  "num_followers": 33997,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMGI5YjgzMWJlYTI0Mjk5MjIzMzA3NGE5ZDU0OWFkNjU5",
+  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMGZlNDk4ODA0MDEyYzk5NDdlYWY1YWQ1MGQzNmQxNGVk",
   "tracks": [
     {
       "added_at": "2021-11-19 13:39:50",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "This Christmas (I'll Burn It To The Ground)",
-      "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Nightmare Revisited",
         "url": "https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 206280,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "This Christmas (I'll Burn It To The Ground)",
+      "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "This Holiday",
-      "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Bleed American (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 267773,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "This Holiday",
+      "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Somewhere in My Memory",
-        "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 149173,
-      "name": "Somewhere in My Memory",
-      "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Merry MeX-mas",
-        "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
+        "name": "Somewhere in My Memory",
+        "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
       },
       "artists": [
         {
-          "name": "El Vez",
-          "url": "https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob"
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
+      "duration_ms": 149173,
+      "name": "Somewhere in My Memory",
+      "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -955,6 +939,22 @@
       "duration_ms": 206000,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Merry MeX-mas",
+        "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
+      },
+      "artists": [
+        {
+          "name": "El Vez",
+          "url": "https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Stoke Extinguisher",
-        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 139133,
-      "name": "New Year's Revolution",
-      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "December's Here",
         "url": "https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 179054,
       "name": "December's Here",
       "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Stoke Extinguisher",
+        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "New Year's Revolution",
+      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Tis The Season To Be Fearless",
-        "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
-      },
-      "artists": [
-        {
-          "name": "Artist Vs Poet",
-          "url": "https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe"
-        }
-      ],
-      "duration_ms": 238422,
-      "name": "Christmas With You",
-      "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Hopeless For The Holidays",
         "url": "https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 194000,
       "name": "West Coast Christmas",
       "url": "https://open.spotify.com/track/0tk0q4170soGn03XGksWfn"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Tis The Season To Be Fearless",
+        "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
+      },
+      "artists": [
+        {
+          "name": "Artist Vs Poet",
+          "url": "https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe"
+        }
+      ],
+      "duration_ms": 238422,
+      "name": "Christmas With You",
+      "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
     },
     {
       "added_at": "2021-11-19 13:39:50",

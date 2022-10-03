@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,951 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,026 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 55 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
 | 56 | [Eso da Pa To](https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN) | [Marino Castellanos](https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz) | [Bachatas Para La Historia](https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU) | 3:30 |
 | 57 | [Perdido](https://open.spotify.com/track/18tS6OYnEJfHWokX62T322) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 4:05 |
-| 58 | [El Profesor](https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Bachatas Pal' Pueblo: Mas Pueblo Que Nunca](https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb) | 3:41 |
-| 59 | [Loco de Amor](https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Canciones Inmortales Bachatas](https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA) | 7:52 |
+| 58 | [Loco de Amor](https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Canciones Inmortales Bachatas](https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA) | 7:52 |
+| 59 | [El Profesor](https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Bachatas Pal' Pueblo: Mas Pueblo Que Nunca](https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb) | 3:41 |
 | 60 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
 | 61 | [Bachata En Kingston](https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:59 |
 | 62 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Payasos](https://open.spotify.com/track/1soECbw2IFdWt5W8Rb4uG7) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:23 |
 | 100 | [La Demanda](https://open.spotify.com/track/3zVibdZHsVH05p5Crux6xX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:54 |
 
-Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMGM1NTcwZTc2NDMxMzI4YTJiNGNjNjFlMmZjMDhhNzVi`
+Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMDYwZDUwNDM2N2UzM2RjMDYzMTA2ZDVmNDFkZDFmOTM2`

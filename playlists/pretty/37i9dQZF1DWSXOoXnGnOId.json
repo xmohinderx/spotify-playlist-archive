@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14215,
+  "num_followers": 14235,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDkzZjQ5MjFiZGZlMTFiNzlhNjg0ZDY3NDhlOTk4MjEx",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDYxZmVhMmJiODA3MDVhZGJiNjRiOGMzNjY1MGYwMmJi",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Arcade (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "Arcade - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
         "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Arcade (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Arcade - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Pump the Brakes (LP Giobbi Remix)",
-        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 279685,
-      "name": "Pump the Brakes - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Silver Lining (DubVision Remix)",
         "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 194645,
       "name": "Silver Lining - DubVision Remix",
       "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Pump the Brakes (LP Giobbi Remix)",
+        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 279685,
+      "name": "Pump the Brakes - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Alive - Solomun Remix Edit",
-      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Spa (James Hype Remix)",
         "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
       },
@@ -1439,26 +1419,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Higher (feat. iann dior) [VIZE Remix]",
-        "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         },
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 151820,
-      "name": "Higher (feat. iann dior) - VIZE Remix",
-      "url": "https://open.spotify.com/track/7AY9zVsDed72P0CytpQpL3"
+      "duration_ms": 269508,
+      "name": "Alive - Solomun Remix Edit",
+      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1487,6 +1463,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Higher (feat. iann dior) [VIZE Remix]",
+        "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 151820,
+      "name": "Higher (feat. iann dior) - VIZE Remix",
+      "url": "https://open.spotify.com/track/7AY9zVsDed72P0CytpQpL3"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Teen Scene (Remixes)",
         "url": "https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I"
       },
@@ -1507,30 +1507,6 @@
       "duration_ms": 271915,
       "name": "Teen Scene (ft Buddy) - Wax Motif Remix",
       "url": "https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1559,6 +1535,30 @@
       "duration_ms": 158654,
       "name": "Way Too Long (feat. Anne-Marie & MoStack) [Clean Bandit Remix]",
       "url": "https://open.spotify.com/track/5PTsOdz21tg6lwzEXYEiY0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1639,6 +1639,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Nightlight (The Remixes, Vol. 2)",
+        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Nightlight - MOTi Remix",
+      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Oops (I'm Sorry) (Remixes)",
         "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
       },
@@ -1663,30 +1687,6 @@
       "duration_ms": 205645,
       "name": "Oops (I'm Sorry) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Nightlight (The Remixes, Vol. 2)",
-        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Nightlight - MOTi Remix",
-      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Rise (twocolors Remix)",
-        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Rise - twocolors Remix",
-      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Hadal Ahbek (R3HAB Club Remix)",
         "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 176343,
       "name": "Hadal Ahbek - R3HAB Club Remix",
       "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Rise (twocolors Remix)",
+        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Rise - twocolors Remix",
+      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2087,50 +2087,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Paradise (Wh0 Remix)",
-        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Paradise - Wh0 Remix",
-      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Keleketla! Remixes",
         "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
       },
@@ -2171,6 +2127,50 @@
       "duration_ms": 336954,
       "name": "Papua Merdeka - Machinedrum Remix",
       "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Paradise (Wh0 Remix)",
+        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Paradise - Wh0 Remix",
+      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",

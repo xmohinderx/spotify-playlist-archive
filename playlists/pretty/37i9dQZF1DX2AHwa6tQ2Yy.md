@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,966 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,081 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 8 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 |
 | 9 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 |
 | 10 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 |
-| 11 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
-| 12 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
+| 11 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
+| 12 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 13 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
 | 14 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
 | 15 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 39 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
 | 40 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
 | 41 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 |
-| 42 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
+| 42 | [Falling in Love Again](https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:50 |
 | 43 | [No Flowers](https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [No Flowers](https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs) | 3:04 |
-| 44 | [Falling in Love Again](https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:50 |
+| 44 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
 | 45 | [Explore](https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 4:46 |
 | 46 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
 | 47 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 69 | [Perfect Day](https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Glenn Lumanta](https://open.spotify.com/artist/1ZrIkUK72f4v7tYetjxxme) | [Perfect Day](https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL) | 3:48 |
 | 70 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 |
 
-Snapshot ID: `MTY2MjY1MjU2NiwwMDAwMDAwMDI1YjMwYWE5NTg1ZTE5ZDZiMjVkNDYyMWI0YmQ0N2Uz`
+Snapshot ID: `MTY2MjY1MjU2NiwwMDAwMDAwMDEzZDUzZGFhOTdjZGNiNzQ3NmIyOTQ1N2Q3NTJmNmRl`

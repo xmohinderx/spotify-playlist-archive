@@ -1,12 +1,12 @@
 {
   "description": "The warm sound and the cozy mood of classic Jazz. A soundtrack in the background for relaxing, dinner or focus. Cover: Hank Mobley",
-  "num_followers": 26587,
+  "num_followers": 26640,
   "original_name": "In the Mood for Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM1MjM5MiwwMDAwMDAwMDUxNTMyYWMyZjhhYTdmNTI1OTY4ZjZjNmNlYjBhNzRm",
+  "snapshot_id": "MTY2NDM1MjM5MiwwMDAwMDAwMDI0YzUwNmI4ZDZlNmJlNzcwMmU1ZTBhODA3MzYxNWY2",
   "tracks": [
     {
       "added_at": "2022-09-28 08:06:32",
@@ -255,22 +255,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
         }
       ],
-      "duration_ms": 291173,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
+      "duration_ms": 165560,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -295,18 +291,22 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
       "artists": [
         {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         }
       ],
-      "duration_ms": 165560,
-      "name": "It's Easy To Remember",
-      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
+      "duration_ms": 291173,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
+        "name": "The Best Of Benny Goodman",
+        "url": "https://open.spotify.com/album/1I1E1ZUYFDK0Dn4DK5YmrH"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/5TjO0GOOon3R6YOnRFPwzk"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
         "name": "Walkin'",
         "url": "https://open.spotify.com/album/7nFwdPkEbfMUb1c5xuHGR6"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 282866,
       "name": "Solar - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/16KZuJfRKqMZQvmOibsVqX"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
-        "name": "That's Where It's At",
-        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 374626,
-      "name": "Dorene Don't Cry, I - Remastered",
-      "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "The Best Of Benny Goodman",
-        "url": "https://open.spotify.com/album/1I1E1ZUYFDK0Dn4DK5YmrH"
+        "name": "That's Where It's At",
+        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
       "artists": [
         {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
         }
       ],
-      "duration_ms": 179840,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/5TjO0GOOon3R6YOnRFPwzk"
+      "duration_ms": 374626,
+      "name": "Dorene Don't Cry, I - Remastered",
+      "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Today And Now",
-        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
-        }
-      ],
-      "duration_ms": 284680,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
         "name": "Cookin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/50J57uCvPub0yK2kjkfC9J"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 360826,
       "name": "My Funny Valentine - Rudy Van Gelder Remaster 2007",
       "url": "https://open.spotify.com/track/4Ti7XXjHWi4P3ygJ1GAZMn"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
+        "name": "Today And Now",
+        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 284680,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 327773,
-      "name": "You'd Be So Nice to Come Home To",
-      "url": "https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 389640,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 327773,
+      "name": "You'd Be So Nice to Come Home To",
+      "url": "https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 184293,
       "name": "Excerpts From The Blues",
       "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
-        "name": "Dinah Sings, Previn Plays",
-        "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "My Melancholy Baby",
-      "url": "https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -1295,6 +1279,22 @@
       "duration_ms": 329986,
       "name": "The Feeling Of Jazz",
       "url": "https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
+        "name": "Dinah Sings, Previn Plays",
+        "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "My Melancholy Baby",
+      "url": "https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Sarah Vaughan In Hi-Fi",
-        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
         "name": "Dream with Dean",
         "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
@@ -1395,34 +1379,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Mary Lou Williams Presents Black Christ of the Andes",
-        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+        "name": "Sarah Vaughan In Hi-Fi",
+        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
       },
       "artists": [
         {
-          "name": "Mary Lou Williams",
-          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 285000,
-      "name": "It Ain\u2019t Necessarily So",
-      "url": "https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
+      "duration_ms": 203000,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -1443,6 +1411,22 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
+        "name": "Mary Lou Williams Presents Black Christ of the Andes",
+        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "It Ain\u2019t Necessarily So",
+      "url": "https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
         "name": "Unforgettable (Expanded Edition)",
         "url": "https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 165800,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/7anBVIyitaxEZIlMDJPjfb"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -1519,6 +1503,22 @@
       "duration_ms": 171000,
       "name": "Lullaby Of Birdland",
       "url": "https://open.spotify.com/track/4JQiUSWsle7d4MAnsSi3hO"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Jo Stafford",
-        "url": "https://open.spotify.com/album/5QuOghrD0EombfA6qOnMMz"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "Autumn Leaves - 1996 Digital Remaster",
-      "url": "https://open.spotify.com/track/3FG4FK19MJD7XiuHfZLwGj"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 138373,
       "name": "I've Never Been In Love Before",
       "url": "https://open.spotify.com/track/4nlXp4DkTHfeI8uSbG6bTC"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
+        "name": "Great Ladies Of Song / Spotlight On Jo Stafford",
+        "url": "https://open.spotify.com/album/5QuOghrD0EombfA6qOnMMz"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "Autumn Leaves - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/3FG4FK19MJD7XiuHfZLwGj"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -1983,22 +1983,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Social Call",
-        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
+        "name": "Oscar Peterson For Lovers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        },
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 158106,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/0eijtL958nCP1dy7OR1hUA"
+      "duration_ms": 280866,
+      "name": "Time And Again",
+      "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2019,18 +2015,22 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Oscar Peterson For Lovers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv"
+        "name": "Social Call",
+        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        },
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
         }
       ],
-      "duration_ms": 280866,
-      "name": "Time And Again",
-      "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
+      "duration_ms": 158106,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/0eijtL958nCP1dy7OR1hUA"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Jazz Giant",
-        "url": "https://open.spotify.com/album/0r4iPO0YkeupxvYQVMl3h7"
+        "name": "This Is June Christy",
+        "url": "https://open.spotify.com/album/0r274gvTVTQlx7MwUeWDEC"
       },
       "artists": [
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
         }
       ],
-      "duration_ms": 358733,
-      "name": "A Walkin' Thing",
-      "url": "https://open.spotify.com/track/22RGDChN7CrjZ2mtCWuK1t"
+      "duration_ms": 149373,
+      "name": "You Took Advantage Of Me - Remastered",
+      "url": "https://open.spotify.com/track/25lrKinv3HY7jqMYGMHjtx"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2099,18 +2099,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "This Is June Christy",
-        "url": "https://open.spotify.com/album/0r274gvTVTQlx7MwUeWDEC"
+        "name": "Jazz Giant",
+        "url": "https://open.spotify.com/album/0r4iPO0YkeupxvYQVMl3h7"
       },
       "artists": [
         {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 149373,
-      "name": "You Took Advantage Of Me - Remastered",
-      "url": "https://open.spotify.com/track/25lrKinv3HY7jqMYGMHjtx"
+      "duration_ms": 358733,
+      "name": "A Walkin' Thing",
+      "url": "https://open.spotify.com/track/22RGDChN7CrjZ2mtCWuK1t"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Newk's Time",
-        "url": "https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Namely You",
-      "url": "https://open.spotify.com/track/29naPagLSF8eIFdJXgBmVi"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
+        "name": "Newk's Time",
+        "url": "https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Namely You",
+      "url": "https://open.spotify.com/track/29naPagLSF8eIFdJXgBmVi"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "New York Jazz",
-        "url": "https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 376653,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/4iNPS4Z7MxtOSOv8zU7ePl"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
         "name": "Chris Connor Sings the George Gershwin Almanac Of Song",
         "url": "https://open.spotify.com/album/6kebEq4pm5COztcs9YGzgN"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 138626,
       "name": "I've Got A Crush On You",
       "url": "https://open.spotify.com/track/2Iz3PxlHXmgNvqsj2UHE3H"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
+        "name": "New York Jazz",
+        "url": "https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 376653,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/4iNPS4Z7MxtOSOv8zU7ePl"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 417693,
-      "name": "Driftin' - Remastered",
-      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
+      "duration_ms": 270333,
+      "name": "Lover Man - Remastered",
+      "url": "https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
       "artists": [
         {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 270333,
-      "name": "Lover Man - Remastered",
-      "url": "https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg"
+      "duration_ms": 417693,
+      "name": "Driftin' - Remastered",
+      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
+        "name": "June Christy Recalls Those Kenton Days",
+        "url": "https://open.spotify.com/album/7LiaPDVtP6eWdpO6MCkiIS"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "How High The Moon - Remastered",
+      "url": "https://open.spotify.com/track/5KbYlvQhNwlyfTcOGeWQ2e"
+    },
+    {
+      "added_at": "2022-09-28 08:06:32",
+      "album": {
         "name": "Ben Webster Meets Oscar Peterson",
         "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
       },
@@ -2387,34 +2403,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Unforgettable (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1"
+        "name": "Dino The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 161026,
-      "name": "I Understand",
-      "url": "https://open.spotify.com/track/02B878qmLiO19I44u0DtqN"
-    },
-    {
-      "added_at": "2022-09-28 08:06:32",
-      "album": {
-        "name": "June Christy Recalls Those Kenton Days",
-        "url": "https://open.spotify.com/album/7LiaPDVtP6eWdpO6MCkiIS"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "How High The Moon - Remastered",
-      "url": "https://open.spotify.com/track/5KbYlvQhNwlyfTcOGeWQ2e"
+      "duration_ms": 220560,
+      "name": "On The Street Where You Live - Remastered",
+      "url": "https://open.spotify.com/track/5fpjOiMF4I6hYWZEKxwPNe"
     },
     {
       "added_at": "2022-09-28 08:06:32",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2022-09-28 08:06:32",
       "album": {
-        "name": "Dino The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
+        "name": "Unforgettable (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 220560,
-      "name": "On The Street Where You Live - Remastered",
-      "url": "https://open.spotify.com/track/5fpjOiMF4I6hYWZEKxwPNe"
+      "duration_ms": 161026,
+      "name": "I Understand",
+      "url": "https://open.spotify.com/track/02B878qmLiO19I44u0DtqN"
     },
     {
       "added_at": "2022-09-28 08:06:32",

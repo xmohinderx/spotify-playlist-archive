@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,769 likes - 108 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,767 likes - 108 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 17 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 |
 | 18 | [Dream Of Gold](https://open.spotify.com/track/7JyxzQFZj5HUHfj66HLWxw) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Dream Of Gold](https://open.spotify.com/album/5XA5XzJokccaXcbt9R2run) | 3:01 |
 | 19 | [Bye Bye Bye](https://open.spotify.com/track/0Ye0D6M8PVSD0y5p1Ov0Ag) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Bye Bye Bye](https://open.spotify.com/album/3YQGSnNzihiOI3eTxetUAE) | 2:20 |
-| 20 | [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 |
+| 20 | [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 |
 | 21 | [Summer Is Over](https://open.spotify.com/track/78nvT4euebtCsEigaNt4aa) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Summer Is Over](https://open.spotify.com/album/6RtywjU8C5NqmQPKUYeROd) | 3:08 |
 | 22 | [Monster](https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Monster](https://open.spotify.com/album/0ZNVOeu0n0XPdSkqRCfk6w) | 2:40 |
 | 23 | [To The Moon](https://open.spotify.com/track/2PZju4y2KHcX1aMYXtg6Vv) | [Clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [OFF](https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf) | 3:02 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 43 | [maracuya massage](https://open.spotify.com/track/7d2h2TZnnKeen1KjSsFCXs) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/00TuHvmHHVOk7bXeXry8mm) | 3:35 |
 | 44 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 |
 | 45 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 |
-| 46 | [Conga](https://open.spotify.com/track/4uYQIfG7I2a2215Xdlf4iT) | [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [Mastik Lickers](https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN), [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Audiosonik & Scarlett](https://open.spotify.com/artist/4ADVlGYWIVnkXsXw88ZhnZ) | [Conga](https://open.spotify.com/album/39DG1QAm3KtNkQMAZDzrm5) | 2:20 |
+| 46 | [Conga](https://open.spotify.com/track/4uYQIfG7I2a2215Xdlf4iT) | [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [Mastik Lickers](https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN), [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Audiosonik](https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Conga](https://open.spotify.com/album/39DG1QAm3KtNkQMAZDzrm5) | 2:20 |
 | 47 | [Slow It Down](https://open.spotify.com/track/18171YdqDGzCBecaLOo1ea) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Slow It Down](https://open.spotify.com/album/7IL0Nz2Z9TniZfpZ42dUDL) | 2:34 |
 | 48 | [Hollow](https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi) | 4:05 |
 | 49 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 86 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 |
 | 87 | [Father](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Weapons Of The Modern Age](https://open.spotify.com/album/53VtJpStdfdFG2MSJRgZgC) | 4:38 |
 | 88 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
-| 89 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 |
+| 89 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 |
 | 90 | [new body rhumba \(from the film White Noise\)](https://open.spotify.com/track/2iqA5Na5vlo0bnZUf8KT1N) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [new body rhumba \(from the film White Noise\)](https://open.spotify.com/album/0NIz7gtDhMS3pqFnCgcZCy) | 7:23 |
 | 91 | [Can We Always Be Friends?](https://open.spotify.com/track/0KhuWA0Of3CdpJlBaZRKrp) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Can We Always Be Friends?](https://open.spotify.com/album/4FISYlK0nXwDIUbma2Z9Xk) | 2:48 |
 | 92 | [LAZY](https://open.spotify.com/track/2pUsVdWX8cCwznDqTKil2G) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [LAZY](https://open.spotify.com/album/5R4N50KXCR8YzZ5JaNqNue) | 3:23 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [YOUYOUYOU](https://open.spotify.com/track/3pcXeak63CYJcn5KddRxz1) | [IGA](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [YOUYOUYOU](https://open.spotify.com/album/4r8S48bruG4AhPSLfGFTUL) | 2:13 |
 | 108 | [Boutique](https://open.spotify.com/track/3IGwony24xorxlTwoTMw9r) | [Mr\. Tophat](https://open.spotify.com/artist/1kOFYTseUHhnkFnEwJLIgw), [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [This Is Pop](https://open.spotify.com/album/3iT0lrEbyZFw2Xkq26NMc9) | 4:31 |
 
-Snapshot ID: `MTY2NDUyNTgzMSwwMDAwMDAwMDBkOTU2NTA3NDZlYmNiYjY0ZGY5YzU4MTQzZTgxOGQz`
+Snapshot ID: `MTY2NDUyNTgzMSwwMDAwMDAwMDg1ZmNiMGJhZmFlZjFjMWI4ODgwODFmYjkwODMyOGM0`

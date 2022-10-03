@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,879 likes - 49 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,262 likes - 49 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 48 | [Dancing Days \- Remaster](https://open.spotify.com/track/4YsNkF22bkppExAF3kOTYv) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Deluxe Edition\)](https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S) | 3:43 |
 | 49 | [Friends \- Remaster](https://open.spotify.com/track/7jP44G0vKQLkfJ3x19pqPn) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:53 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA5ODMzN2U5MzQzMjUwNTE1NWZmYjI1OGY5NzgxZGYyOQ==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDBiOWEyY2M4ZjM4MDQyMDc5NzBhNGVlZGM1OTFlZWFiYg==`

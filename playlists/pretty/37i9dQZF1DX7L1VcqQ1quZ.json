@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 246494,
+  "num_followers": 246683,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU3NDIyNiwwMDAwMDAwMGVhNGM3NWFiMzAxMzA4ZjJiZTZjOWQ3NDE0MzY1NWZk",
+  "snapshot_id": "MTY2NDU3NDIyNiwwMDAwMDAwMGQzOWUyYTM5ZTRiNjk0OWY3ODA2ZmZiM2ZjODNlM2E5",
   "tracks": [
     {
       "added_at": "2022-09-30 21:43:46",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-30 21:43:46",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "Have You Ever Really Loved A Woman?",
-      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
-    },
-    {
-      "added_at": "2022-09-30 21:43:46",
-      "album": {
         "name": "Love Always",
         "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+    },
+    {
+      "added_at": "2022-09-30 21:43:46",
+      "album": {
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "Have You Ever Really Loved A Woman?",
+      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "added_at": "2022-09-30 21:43:46",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-09-30 21:43:46",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+        "name": "The Comfort Zone",
+        "url": "https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV"
       },
       "artists": [
         {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
         }
       ],
-      "duration_ms": 270400,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+      "duration_ms": 218733,
+      "name": "Save The Best For Last",
+      "url": "https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM"
     },
     {
       "added_at": "2022-09-30 21:43:46",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-09-30 21:43:46",
       "album": {
-        "name": "The Comfort Zone",
-        "url": "https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV"
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
       "artists": [
         {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Save The Best For Last",
-      "url": "https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM"
+      "duration_ms": 270400,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
     },
     {
       "added_at": "2022-09-30 21:43:46",

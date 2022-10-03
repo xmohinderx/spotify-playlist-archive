@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Nicolle Galyon",
-  "num_followers": 34144,
+  "num_followers": 34203,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDRkNjEyYWFkNGUxZWMzOTU5OGM5ZDIzNmQ1MDJmMjc2",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDI3YWRkNjNlM2UyYmEyOGYxZDE3ZDhkOTQ0YjliOGZm",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Songs for the Drunk and Broken Hearted",
-        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Midnight",
@@ -999,6 +983,22 @@
       "duration_ms": 228066,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted",
+        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "And I'm Still Thinking About That",
         "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Favorite Peeps",
         "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 181514,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/0kJmIaK9zElQON3tKCw8Pn"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "alchemy",
-        "url": "https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW"
+        "name": "Foreign Sea",
+        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 157184,
-      "name": "parasite",
-      "url": "https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH"
+      "duration_ms": 192489,
+      "name": "Far from Home",
+      "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "alchemy",
+        "url": "https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 157184,
+      "name": "parasite",
+      "url": "https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Bad For Me",
         "url": "https://open.spotify.com/album/76v1LQXUBTB1tmqYrTohmv"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 146573,
       "name": "cigarette holes",
       "url": "https://open.spotify.com/track/4WxxPiwiWxrhnJPnsNoOLO"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Foreign Sea",
-        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 192489,
-      "name": "Far from Home",
-      "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
     },
     {
       "added_at": "2022-08-12 04:00:00",

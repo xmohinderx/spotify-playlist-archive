@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,376 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,397 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 9 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
 | 10 | [20 år på vegen](https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [Søvnlaus](https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp) | 4:06 |
 | 11 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 |
-| 12 | [Det Fine Vi Hadd' Sammen](https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Jippi](https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u) | 4:19 |
+| 12 | [Bak En Sky Heim](https://open.spotify.com/track/1Wpp1RuDRTeZxpwHFDhWiI) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/1GRdz7YDT3ozghg5VWlSY9) | 4:34 |
 | 13 | [Liten fuggel](https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Liten fuggel \(Med kommentarer\)](https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr) | 3:11 |
-| 14 | [Bak En Sky Heim](https://open.spotify.com/track/1Wpp1RuDRTeZxpwHFDhWiI) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/1GRdz7YDT3ozghg5VWlSY9) | 4:34 |
+| 14 | [Det Fine Vi Hadd' Sammen](https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Jippi](https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u) | 4:19 |
 | 15 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU) | 4:13 |
 | 16 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
 | 17 | [Stormens Øye](https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Stormens Øye](https://open.spotify.com/album/6Fp9e8OcPdzlOCDgtUpntI) | 3:36 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 42 | [den tyngste turen](https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc) | [den tyngste turen \(med Aslag Haugen\)](https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS) | 3:25 |
 | 43 | [Så lett som ingenting](https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Så lett som ingenting](https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3) | 3:49 |
 | 44 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
-| 45 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
-| 46 | [Det Hainnle Om Å Leve](https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX) | [Kine Hellebust](https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec) | [Det Hainnle Om Å Leve \- Mellom Anna](https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9) | 4:14 |
+| 45 | [Det Hainnle Om Å Leve](https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX) | [Kine Hellebust](https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec) | [Det Hainnle Om Å Leve \- Mellom Anna](https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9) | 4:14 |
+| 46 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
 | 47 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 |
 | 48 | [God morgen, min kjære](https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV) | [Benny Borg](https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0), [Sigmund Groven](https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT) | [Den største reisen](https://open.spotify.com/album/6SztCAuymcjUkhwCITQozJ) | 4:08 |
 | 49 | [Siste reis](https://open.spotify.com/track/3zEYZy5WKMCAiQ1A19KAm0) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Stemmer i gresset](https://open.spotify.com/album/4pShZqbj6GLGA1WOJN1z8p) | 5:00 |
-| 50 | [Fingeravtrykk](https://open.spotify.com/track/7176c184pups4Q02ZPhTAl) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Fingeravtrykk](https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW) | 7:01 |
+| 50 | [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 |
 
-Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMGQ3MTQyYjM0MTUyYWZiZGE5ZDVlZjMyNTQxZDlkMmM2`
+Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMDFkODRkNDVmOWJjZmM3NGVkNWEzZTdlYTBiZjlhMGU3`

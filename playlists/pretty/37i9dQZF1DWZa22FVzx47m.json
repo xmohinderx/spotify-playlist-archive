@@ -1,12 +1,12 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 252681,
+  "num_followers": 253055,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk5Nzc2OCwwMDAwMDAwMDczY2NhMGYxYjY5OGJkYzk1OThmNDlhZDBmYzA0YjQ0",
+  "snapshot_id": "MTY1OTk5Nzc2OCwwMDAwMDAwMDJlZWM2Y2E4MjNmMDNhNDBlNGNkYzFhOWY4N2QwOTI2",
   "tracks": [
     {
       "added_at": "2022-05-09 23:19:16",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 227613,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+      "duration_ms": 227613,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
     },
     {
-      "added_at": "2022-08-08 22:29:28",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
       "added_at": "2022-05-09 23:19:16",
       "album": {
         "name": "Luz Y Sombra",
@@ -463,6 +447,22 @@
       "duration_ms": 280040,
       "name": "Las Mil Y Una Noches",
       "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+    },
+    {
+      "added_at": "2022-08-08 22:29:28",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2022-05-09 23:19:16",

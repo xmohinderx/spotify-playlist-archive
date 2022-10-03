@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-571 songs - 1 day 6 hr 23 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+572 songs - 1 day 6 hr 27 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-05-13 |
-| [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 | 2022-09-29 |  |
+| [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 | 2022-09-29 |  |
+| [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 | 2022-09-29 | 2022-10-03 |
 | [Bygga Nytt](https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Bygga Nytt](https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl) | 3:40 | 2022-09-15 |  |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR) | 2:52 | 2022-09-15 |  |
@@ -381,7 +382,7 @@
 | [Piller](https://open.spotify.com/track/5O7wcEKtYa8T7aAPPYEK4B) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Piller](https://open.spotify.com/album/4e12w2ks3KmvLjodwRN7W1) | 3:48 | 2021-12-16 | 2022-02-19 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-16 | 2022-03-11 |
 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 | 2022-06-02 |  |
-| [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 | 2022-10-01 |
+| [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 |  |
 | [Precious Cargo](https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Precious Cargo](https://open.spotify.com/album/65BYiMcbsbO8ZUdlMKltgV) | 2:55 | 2021-12-16 | 2022-03-28 |
 | [Psykopat](https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Puss & Kram](https://open.spotify.com/track/55Naz76St5cjVtWnmo8SBs) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:35 | 2021-12-16 | 2022-01-11 |
@@ -433,7 +434,7 @@
 | [Skies](https://open.spotify.com/track/5UfHl6LcGtkUAe7UItl3KH) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Skies](https://open.spotify.com/album/3QsQU7HHMeIKXMUyl9MHef) | 3:05 | 2021-12-16 | 2022-05-12 |
 | [Skräck eller lycka?](https://open.spotify.com/track/0X04NMcv87lgoJW1AxreT4) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Skräck eller lycka?](https://open.spotify.com/album/7kWgErSsJxYRJawnzHLVSa) | 4:59 | 2022-03-24 | 2022-04-21 |
 | [Skål](https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Skål](https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W) | 2:55 | 2022-06-30 |  |
-| [Slutet av dagen](https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Slutet av dagen](https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q) | 3:28 | 2022-09-01 |  |
+| [Slutet av dagen](https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Slutet av dagen](https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q) | 3:28 | 2022-09-01 | 2022-10-03 |
 | [Släpp mig](https://open.spotify.com/track/2EZmE6pdwIhsOEJKS3nUFI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Släpp mig](https://open.spotify.com/album/74bF6o1WKlI2ZkWwOCY7Gx) | 2:36 | 2022-03-10 | 2022-05-12 |
 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Smile for You](https://open.spotify.com/track/5g8Blci6F1FQTlHEEt6xUo) | [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Smile For You](https://open.spotify.com/album/0JVEngez3de3wsfiUdLNvk) | 2:51 | 2022-03-10 | 2022-04-01 |

@@ -4,7 +4,7 @@
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-50 songs - 2 hr 42 min - not published yet
+50 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/46IiJHvMHpIvKHbQ9JVNFO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,164 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,212 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 7 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
 | 8 | [Two Bugs and a Roach](https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 4:19 |
 | 9 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
-| 10 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
-| 11 | [Should I Wait](https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 5:04 |
+| 10 | [Should I Wait](https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 5:04 |
+| 11 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
 | 12 | [Rock Me Baby](https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC) | [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL) | [The Sonet Blues Story](https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY) | 3:58 |
 | 13 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 | 14 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 18 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
 | 19 | [Sittin' On Top Of The World](https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k) | [Eddie Shaw](https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO) | [Living Chicago Blues, Vol\. 1](https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu) | 3:42 |
 | 20 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
-| 21 | [Call My Wife](https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1) | [Linsey Alexander](https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan) | [Come Back Baby](https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb) | 4:47 |
+| 21 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
 | 22 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 |
-| 23 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
+| 23 | [Call My Wife](https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1) | [Linsey Alexander](https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan) | [Come Back Baby](https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb) | 4:47 |
 | 24 | [Driving Wheel](https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC) | [Johnny Laws](https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6) | [Blues Burnin' In My Soul](https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY) | 3:53 |
 | 25 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
 | 26 | [Somebody Have Mercy](https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt) | [Luther "Guitar Junior" Johnson](https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MTY0ODQ5OTcyOCwwMDAwMDAwMDFkODU3MDExOTlmMWQ1MDIxNGU2NjkxZjgxOWRkNDli`
+Snapshot ID: `MTY0ODQ5OTcyOCwwMDAwMDAwMDhiMzkxYWI1NzQ0M2Y0MmRkNjhmOGRkNjQ3NWY5Y2Zm`

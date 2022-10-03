@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,048 likes - 51 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,175 likes - 51 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 13 | [Love Conquers All](https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 3:44 |
 | 14 | [Lazy \- Remastered 2012](https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 7:22 |
 | 15 | [Hell to Pay \- Instrumental Version](https://open.spotify.com/track/26ZMByyHCWlVOqKLuCbESO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 5:11 |
-| 16 | [Wasted Sunsets](https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 3:55 |
+| 16 | [A Gypsy's Kiss](https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:12 |
 | 17 | [White Room](https://open.spotify.com/track/2RMp39cxDzwxu9ITM8HVB7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/0PSAOfLIqsdfWbwWkF1Hu2) | 4:53 |
 | 18 | [Space Truckin' \- Remastered 2012](https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 4:32 |
 | 19 | [Speed King \- 1995 Remaster](https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 5:52 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 34 | [Strange Kind Of Woman](https://open.spotify.com/track/0Q56LPrOBBRbh0XfyqbhXR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple: The Very Best of Deep Purple](https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8) | 3:53 |
 | 35 | [King of Dreams](https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 5:26 |
 | 36 | [No Need to Shout](https://open.spotify.com/track/4ctOXWzCBVNvoZFHeeQapU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 3:30 |
-| 37 | [Might Just Take Your Life \- Remastered 2004](https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:40 |
-| 38 | [Woman From Tokyo \- Remastered 2000](https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:51 |
+| 37 | [Woman From Tokyo \- Remastered 2000](https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:51 |
+| 38 | [Might Just Take Your Life \- Remastered 2004](https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:40 |
 | 39 | [First Sign of Madness](https://open.spotify.com/track/1iVSSLaV1feQFIBV2pKEaf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 4:27 |
 | 40 | [Step by Step](https://open.spotify.com/track/6rcw9c24I75ZQIvQ2YXrBf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 3:34 |
 | 41 | [Anthem \- 2000 Remaster](https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 6:31 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 43 | [Dopamine \- Studio](https://open.spotify.com/track/2p9VEV4D1bPiz8uSBEMgc5) | [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf), [Trapeze](https://open.spotify.com/artist/7b2jbuy6iMUbuvWrvoxnJW), [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [This Time Around](https://open.spotify.com/album/5x0mRaXuS5gjbpUNcvUeaH) | 4:10 |
 | 44 | [Gettin' Tighter \- 2010 Digital Remaster](https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 3:38 |
 | 45 | ['A' 200 \- Remastered 2004](https://open.spotify.com/track/0EtgP3pfCIDvEcu8dfJA7d) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:16 |
-| 46 | [Son Of Alerik](https://open.spotify.com/track/2dNaODA8kNiR6oAJnDs6wM) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 10:02 |
-| 47 | [Help \- 2000 Remaster](https://open.spotify.com/track/1Xn1zGitnNwuVuBbY1naBx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 6:01 |
-| 48 | [Green Onions / Hush \- Live in Gaevle](https://open.spotify.com/track/0AaHIhvJoQJK1EwTi52gH3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 7:59 |
-| 49 | [All the Time in the World](https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Now What ?!](https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5) | 4:21 |
+| 46 | [Help \- 2000 Remaster](https://open.spotify.com/track/1Xn1zGitnNwuVuBbY1naBx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 6:01 |
+| 47 | [Nobody's Home](https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:00 |
+| 48 | [All the Time in the World](https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Now What ?!](https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5) | 4:21 |
+| 49 | [Green Onions / Hush \- Live in Gaevle](https://open.spotify.com/track/0AaHIhvJoQJK1EwTi52gH3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 7:59 |
 | 50 | [April \- 2000 Remaster](https://open.spotify.com/track/242juCDbq2XKb7FaPALYfO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc) | 12:10 |
 | 51 | [Kentucky Woman \- 1998 Remaster](https://open.spotify.com/track/3rI5e4tFTlWEwJi4TjLeGT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 4:43 |
 
-Snapshot ID: `Mjc3NDM4MzMsMDAwMDAwMDA5OWJjN2I1OWIzMzk5MjZlMTNlMmJhYWRhNDA3ZDQ3OQ==`
+Snapshot ID: `Mjc3NDUzMTMsMDAwMDAwMDAwOWNlNDhiYzBjMDlmY2U1MDJmNTIwMGRjNmI1NzNlYw==`

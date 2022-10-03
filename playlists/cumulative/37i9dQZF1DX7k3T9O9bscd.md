@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-239 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+240 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [nijimu](https://open.spotify.com/track/6mSoV1VR4E0q7imROwCYw7) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [nijimusi](https://open.spotify.com/album/7HzdnY7KZwknO1dhQ9i5Wt) | 4:21 | 2021-11-12 | 2022-07-14 |
 | [Ninja Partisi](https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I) | [Lalalar](https://open.spotify.com/artist/6CWQ7KWveleaeFagKCz26T) | [Ninja Partisi](https://open.spotify.com/album/4onGiuk6cVH5MTREVJb2ZX) | 2:35 | 2021-11-12 | 2022-07-19 |
 | [No Me Conoces](https://open.spotify.com/track/2dluCYr9wx0vkzp9bwrHqT) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [No Me Conoces](https://open.spotify.com/album/4UP0FdMJwjCiJxXRZfONDN) | 3:06 | 2022-02-12 | 2022-07-18 |
-| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-30 |  |
+| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-30 | 2022-10-03 |
+| [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 | 2022-09-30 |  |
 | [Nànnuflày](https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 5:03 | 2021-11-12 |  |
 | [Nànnuflày](https://open.spotify.com/track/3ufQJOCGyXCzoXIuGEAvpG) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Elwan](https://open.spotify.com/album/55iBUPoUCslfK6Wt1WKY2v) | 5:03 | 2021-11-12 | 2022-07-29 |
 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 | 2021-11-12 |  |
