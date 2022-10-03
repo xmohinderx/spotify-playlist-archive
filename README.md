@@ -776,6 +776,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [CMA Music Fest](/playlists/pretty/37i9dQZF1DX4yQ5BwwlSiC.md)
 - [COBRAH's track IDs](/playlists/pretty/37i9dQZF1DWYoioDxgMsjZ.md)
 - [CODE GEASS SERIES \-コードギアスシリーズ\-](/playlists/pretty/37i9dQZF1DX05YNpFuDzLK.md)
+- [CODING FOCUS](/playlists/pretty/15ngsvOmlTkARCg7ipoNvG.md)
 - [COWBOY BEBOP \-カウボーイビバップ\-](/playlists/pretty/37i9dQZF1DX2niMzbAczXW.md)
 - [CST](/playlists/pretty/37i9dQZF1DX91gZ5XTbTPm.md)
 - [Cafezinho](/playlists/pretty/37i9dQZF1DWV6hddfqLW3Z.md)
