@@ -1175,6 +1175,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [De TODO](/playlists/pretty/37i9dQZF1DX4Y9tVO1TwDw.md)
 - [Dear Mama](/playlists/pretty/3D8eZBmcXjAjFzUjYtrl6f.md)
 - [Deathcore](/playlists/pretty/37i9dQZF1DX1cJWWyylDuw.md)
+- [Deathcore \(2\)](/playlists/pretty/1WQ9A9zKTTU5msWTMqraiP.md)
 - [Deep Dark Indie](/playlists/pretty/37i9dQZF1DWTtTyjgd08yp.md)
 - [Deep Dive \- 00s Metal](/playlists/pretty/37i9dQZF1DWUrdml94k1Rt.md)
 - [Deep Dive \- 90s Metal](/playlists/pretty/37i9dQZF1DWZ0C2766By5p.md)
