@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-461 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+462 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Beso de 3](https://open.spotify.com/track/2t8uNSGe0gaAG9KhQ8m55N) | [Nico Mastre](https://open.spotify.com/artist/5NescwT8CJqGf64LVVD6td), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Beso de 3](https://open.spotify.com/album/0M7gEqM3GR1wrXvptaHT5D) | 3:49 | 2022-05-03 | 2022-05-11 |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-13 | 2022-08-24 |
 | [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 | 2022-10-01 |  |
-| [Biutyful](https://open.spotify.com/track/2L2mM3rEO3arNIMQnb3dou) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:12 | 2022-09-26 |  |
+| [Biutyful](https://open.spotify.com/track/2L2mM3rEO3arNIMQnb3dou) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:12 | 2022-09-26 | 2022-10-04 |
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-04-15 | 2022-05-04 |
 | [Blin Blin Blin Blan](https://open.spotify.com/track/71zt6MfZmy1kcOXaLqS5Ie) | [King Blvck](https://open.spotify.com/artist/03EM6UHgNRnx8RGKQApVQA) | [Blin Blin Blin Blan](https://open.spotify.com/album/44LSJkLPRq6cK96LWqzo3o) | 1:51 | 2022-08-26 | 2022-09-18 |
 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 | 2022-06-21 | 2022-07-04 |
@@ -123,6 +123,7 @@
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-09-27 |  |
 | [Duro 2 Horas](https://open.spotify.com/track/1tXPHKD791iwGJxvSKo8oc) | [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn) | [Duro 2 Horas](https://open.spotify.com/album/1Gtu3w8lsEZfkxPmu1Y1uF) | 2:20 | 2022-04-15 | 2022-05-08 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-31 | 2022-08-24 |
+| [El Alma Que Te Trajo](https://open.spotify.com/track/5pGz6FrmpHjOuso83azbik) | [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [El Alma Que Te Trajo](https://open.spotify.com/album/7J9BzqMQTX0ne8M8dn57Uo) | 2:24 | 2022-10-03 |  |
 | [El Costillar](https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y) | [Conjunto Alerce](https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb) | [Folklore en Mi Escuela\. Danzas y Cantos de América, Vol\. 1](https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww) | 1:53 | 2022-09-16 | 2022-09-24 |
 | [El Guantón Loyola / La Rosa Con el Clavel / La Consentida](https://open.spotify.com/track/3A1LoTe5GVBSsBSXBrZXJ4) | [Los Hermanos Campos](https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6) | [Mas De 100 Cuecas \- Para No Parar Be Bailar](https://open.spotify.com/album/6EIvPjP1nbWEdWUUn7hxcU) | 6:03 | 2022-09-18 | 2022-09-25 |
 | [El Guatón Loyola](https://open.spotify.com/track/3aFCdWQnmCskffgpP9UN8L) | [Los Hermanos del Campos](https://open.spotify.com/artist/4eZsJrNBEqoOwRG1ZMASOR) | [30 Cuecas de Oro](https://open.spotify.com/album/2b7Ig3ikoHTNHLhNAmZLrY) | 2:20 | 2022-09-19 | 2022-09-22 |

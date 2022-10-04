@@ -4,7 +4,7 @@
 
 > Our favorite R&B artists on the rise! Cover: Baby Tate
 
-365 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+366 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Southside](https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Southside](https://open.spotify.com/album/136E0FzmsWqfjBbiT29CMW) | 3:22 | 2022-02-25 | 2022-03-26 |
 | [SPF](https://open.spotify.com/track/1CONbh9I0awPEZ6VUVowW1) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [SPF](https://open.spotify.com/album/1hmZCRXu4CDl7DfxIOEo2U) | 2:43 | 2022-03-11 | 2022-03-26 |
 | [Spoon & Bang](https://open.spotify.com/track/2RkvnSmAzC49zlXmzKfisn) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Spoon & Bang](https://open.spotify.com/album/4lBjA3mBpNpZpYh52mtvjF) | 2:09 | 2022-07-09 | 2022-07-23 |
+| [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 | 2022-10-03 |  |
 | [Spring Cleaning](https://open.spotify.com/track/2JkXhRy52nxXS6Fgx8kimn) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Spring Cleaning](https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ) | 2:12 | 2022-03-25 | 2022-05-07 |
 | [STFU \(feat\. JANE HANDCOCK\)](https://open.spotify.com/track/27aoYhbhmJzTqnNMGho90D) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Last Call](https://open.spotify.com/album/2P5gs9MUqFrG2qi5gy0qgO) | 4:00 | 2022-01-29 | 2022-03-18 |
 | [Still Got 4ever](https://open.spotify.com/track/0lT3BPJaW1LFCUjpxNHIaq) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Still Got 4ever](https://open.spotify.com/album/3G3kujnBjUxC2etYtHDto6) | 2:17 | 2022-09-16 |  |

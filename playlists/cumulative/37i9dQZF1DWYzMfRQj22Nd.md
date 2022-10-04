@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-366 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/302liozpy9kx91eTyMB6S5)
+367 songs - 1 day 1 hr 44 min - [published](https://open.spotify.com/playlist/302liozpy9kx91eTyMB6S5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Into the Blue](https://open.spotify.com/track/7tXsQW0VXHIuo9WVuGIC3X) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Into the Blue](https://open.spotify.com/album/5XUjjSycJJCJsuvGkbryky) | 5:02 | 2022-02-18 | 2022-04-21 |
 | [Into The Night](https://open.spotify.com/track/60FYYWyVBHGWgVOEsQweuS) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [After Dark](https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y) | 4:13 | 2022-09-23 |  |
 | [Intro \[UKato Remix\]](https://open.spotify.com/track/1gT0yZk5x1XKSOYpGu48KG) | [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [UKato](https://open.spotify.com/artist/3Ab5cmMFplOMvYwWOaMWUI) | [Intro \[UKato Remix\]](https://open.spotify.com/album/1mrggYAYSnyrM2FsJaYWnc) | 1:40 | 2021-11-12 | 2022-07-14 |
+| [Jack \- Sophon Remix](https://open.spotify.com/track/46ecCazSzxaZm4BVj5Cejv) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Jack \(Sophon Remix\)](https://open.spotify.com/album/0eZU27VDhr5erKQcYSVL5Y) | 3:23 | 2022-09-30 |  |
 | [Jack It Operator \- Fracture's 'Jacket Operator' Remix](https://open.spotify.com/track/1WeMrGxspRdUk4Gxta8sXo) | [Missing](https://open.spotify.com/artist/4B9sESZ5Lzsln4KM71YWf1), [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Jack It Operator \(Fracture's 'Jacket Operator' Remix\)](https://open.spotify.com/album/0Ag0PsKWUWQn5DAq6VAsvc) | 4:54 | 2021-11-12 | 2022-06-09 |
 | [Jackpot](https://open.spotify.com/track/2GKCfiJhlZc2GvNgxZ5VQq) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Jackpot](https://open.spotify.com/album/7oukAXggSXbB1dLVLons2r) | 3:13 | 2022-02-18 | 2022-04-16 |
 | [Jungle Demon](https://open.spotify.com/track/2Ryti3BJiqrtocL1lYcpDv) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [Jungle Demon](https://open.spotify.com/album/2u6pk6SGzG1uaWT7UBVcpl) | 4:06 | 2021-11-12 | 2022-07-20 |
@@ -368,7 +369,7 @@
 | [Wonder](https://open.spotify.com/track/0AZRYgE5LSRn2FQNio8sgu) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Wonder](https://open.spotify.com/album/1h4zCPrQEtEk9hWzlxtRDP) | 2:53 | 2021-11-12 | 2022-07-29 |
 | [Work It](https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Work It](https://open.spotify.com/album/0f5bJlD8g4R2iQU7Qa6aJk) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Worldwide Jungle](https://open.spotify.com/track/2QKNReG2gJGigayZIlqcqm) | [JFB](https://open.spotify.com/artist/5ncNJNBW6jRC3xnY7ZSzLj) | [Shake It / Worldwide Jungle](https://open.spotify.com/album/0CUrrw5tSWfyR2jYy2x3R8) | 4:58 | 2022-02-18 | 2022-04-12 |
-| [Write It Down \- Fred V Remix](https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Write It Down \(Fred V Remix\)](https://open.spotify.com/album/627WnQHOKDrmV9e4O3FSAa) | 4:08 | 2021-11-12 |  |
+| [Write It Down \- Fred V Remix](https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Write It Down \(Fred V Remix\)](https://open.spotify.com/album/627WnQHOKDrmV9e4O3FSAa) | 4:08 | 2021-11-12 | 2022-10-04 |
 | [WRK](https://open.spotify.com/track/7IXjp7fnKtKrwLZ0C3q0v7) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [WHO IS WHIPPED CREAM?](https://open.spotify.com/album/0UbawIfwVpyhGTb1YA55dp) | 2:45 | 2021-11-12 | 2022-07-10 |
 | [Wubplate](https://open.spotify.com/track/081OWO4CMZvDxh7U7M788H) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Boogers / Wubplate](https://open.spotify.com/album/32A99iBzJ1f0zuGMH3R79P) | 4:14 | 2022-02-18 | 2022-04-18 |
 | [Yeah](https://open.spotify.com/track/2wi8T9sCamDnvyXFVh82SJ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Liff Up](https://open.spotify.com/album/6P2kCwYaRNOEyy0vb1mWO4) | 4:13 | 2022-02-18 | 2022-04-18 |

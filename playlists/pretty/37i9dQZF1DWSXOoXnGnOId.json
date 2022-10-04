@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14235,
+  "num_followers": 14245,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDYxZmVhMmJiODA3MDVhZGJiNjRiOGMzNjY1MGYwMmJi",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDRiMWNjYTMxY2RlYjBlZmQ1ZWQzOTBlZTUxNGM5MDI3",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Pump the Brakes (LP Giobbi Remix)",
-        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 279685,
-      "name": "Pump the Brakes - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Pump the Brakes (LP Giobbi Remix)",
+        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 279685,
+      "name": "Pump the Brakes - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Do It Like Me (feat. B-Case) [Robin Schulz Remix]",
-        "url": "https://open.spotify.com/album/0x8JzrQkNVJJ6GHZOsOJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "B-Case",
-          "url": "https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 172020,
-      "name": "Do It Like Me (feat. B-Case) - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/4Zy6ClzaV1UbBPxhw1J1RP"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Spa (James Hype Remix)",
         "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 266666,
       "name": "Spa - James Hype Remix",
       "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Do It Like Me (feat. B-Case) [Robin Schulz Remix]",
+        "url": "https://open.spotify.com/album/0x8JzrQkNVJJ6GHZOsOJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "B-Case",
+          "url": "https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 172020,
+      "name": "Do It Like Me (feat. B-Case) - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/4Zy6ClzaV1UbBPxhw1J1RP"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
         "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 185652,
       "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
       "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",

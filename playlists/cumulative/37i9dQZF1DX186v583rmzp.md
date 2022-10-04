@@ -2,7 +2,7 @@
 
 ### [I Love My '90s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX186v583rmzp)
 
-> Real rap music from the golden era.
+> Remembering Coolio.
 
 198 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/3nluuMc1ut66d8EDvyctJz)
 
@@ -182,7 +182,7 @@
 | [Thuggish Ruggish Bone](https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Creepin on Ah Come Up](https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l) | 4:41 | 2022-07-13 |  |
 | [Tonight's Da Night](https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Whut? Thee Album](https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF) | 3:21 | 2021-12-16 |  |
 | [Triumph \(feat\. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U\-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon\)](https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Wu\-Tang Forever](https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43) | 5:38 | 2021-12-16 |  |
-| [Twinz \(Deep Cover 98\) \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment \(Explicit Version\)](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 | 2021-12-16 |  |
+| [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment \(Explicit Version\)](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 | 2021-12-16 |  |
 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 | 2022-01-13 | 2022-07-24 |
 | [Vivrant Thing \- Club Mix](https://open.spotify.com/track/4YCBBxP0AeWPpEwidahrha) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Something From Nothing: The Art of Rap](https://open.spotify.com/album/2HJClOfhggFQYWDIeBQenb) | 3:10 | 2022-05-10 | 2022-07-19 |
 | [We Run Things \(It's Like Dat\)](https://open.spotify.com/track/22GbJVEc04zY06E5g8K5Qz) | [Da Bush Babees](https://open.spotify.com/artist/445m4qe3Nu9I2UojhBnTWz) | [Ambushed](https://open.spotify.com/album/20eZEGI9tz7OjI3oAWC4fT) | 4:11 | 2021-12-16 | 2022-05-24 |

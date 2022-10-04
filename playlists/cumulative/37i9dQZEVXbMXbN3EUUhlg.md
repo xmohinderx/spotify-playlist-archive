@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-492 songs - 1 day 1 hr 9 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+493 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Aquelas Coisas](https://open.spotify.com/track/6sahduZe4u8569HG7mcs2r) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/5G3EWPNUe0y32f98mQMKwd) | 2:27 | 2021-06-24 | 2021-07-01 |
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/3IMLoeLerS7TMpKjxUgAhx) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 2:33 | 2021-12-12 |  |
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 | 2021-08-08 | 2021-12-12 |
-| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
+| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-10-04 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-25 |
 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 | 2022-01-21 | 2022-03-13 |
 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Cola Aqui, Pt\. 3 \(Ao Vivo\)](https://open.spotify.com/album/4TBovTffAvKSHeHn5ppnai) | 2:51 | 2022-05-07 | 2022-07-08 |
@@ -447,6 +447,7 @@
 | [Troca](https://open.spotify.com/track/6HV630GY0GT3RN2efFRmbP) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:51 | 2021-04-26 | 2021-10-17 |
 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 | 2021-03-27\* | 2022-01-03 |
 | [Tu Tava Na Revoada \- Ao Vivo](https://open.spotify.com/track/5etfNcFAD9M8uibXpYMxfQ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Tu Tava Na Revoada \(Ao Vivo\)](https://open.spotify.com/album/6KiQVCd1SfxKtrJ4yF9wH4) | 2:36 | 2022-07-10 | 2022-08-17 |
+| [Tubarao Te Amo vs Andou Na Prancha Cuidado Tubarao Vai te Pegar](https://open.spotify.com/track/20AZdKe5RIGArK9rjqwcAg) | [diorrboy](https://open.spotify.com/artist/1txNI43n0I4SIvKeOEfM7g) | [Tubarao Te Amo vs Andou Na Prancha Cuidado Tubarao Vai te Pegar](https://open.spotify.com/album/1srwuY94jh8m6OYYCbA1Dv) | 2:32 | 2022-10-03 |  |
 | [Tudo Indica \(feat\. Jorge & Mateus\) \- Ao Vivo](https://open.spotify.com/track/0eoMMLrWtXbLk64baeESkc) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cumpra\-se \(Ao Vivo\)](https://open.spotify.com/album/17k2RAZkXJwm7bmiGAr0FZ) | 3:03 | 2021-03-27\* | 2021-05-12 |
 | [Tudo Nosso](https://open.spotify.com/track/5qtQJJqJUjk2zNjRroqgLk) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:48 | 2022-06-17 | 2022-06-24 |
 | [Turn It Up](https://open.spotify.com/track/3912zNANDuLatGYzGSobcE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:39 | 2022-04-14 | 2022-04-16 |

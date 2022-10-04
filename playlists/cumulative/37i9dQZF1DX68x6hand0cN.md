@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-86 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
+87 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/4WAHWXqbl799pc8cRS91Pp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [C'est la cité](https://open.spotify.com/track/0PBLRJSxoXpxWRsKjXQw24) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:44 | 2022-07-28 |  |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-07-28 |  |
 | [Clearest of Signs](https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv) | [Clearest of Signs](https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN) | 2:15 | 2022-07-28 |  |
+| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-10-03 |  |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-07-28 |  |
 | [Cuando Ella Sale](https://open.spotify.com/track/0bxzF2Kyql0pQ58Mymztue) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Ella Sale](https://open.spotify.com/album/4izXmDJvboFTIVxs8gkO94) | 3:42 | 2022-07-28 |  |
 | [Cœur de pirate](https://open.spotify.com/track/2InKuNaoyiBDf4dmr780BZ) | [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Le classico organisé](https://open.spotify.com/album/5Qiln6hgo90OKyf9x0ci4y) | 6:05 | 2022-07-28 |  |

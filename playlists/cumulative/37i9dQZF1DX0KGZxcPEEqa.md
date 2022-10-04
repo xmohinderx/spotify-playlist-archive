@@ -2,7 +2,7 @@
 
 ### [Deep Dive: 10s Pop](https://open.spotify.com/playlist/37i9dQZF1DX0KGZxcPEEqa)
 
-> Digging deep into the history of 10s pop.
+> Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
 584 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 

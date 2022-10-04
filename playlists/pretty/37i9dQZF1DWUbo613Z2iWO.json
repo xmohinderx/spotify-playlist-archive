@@ -1,12 +1,12 @@
 {
   "description": "Our favorite R&B artists on the rise! Cover: Baby Tate",
-  "num_followers": 23932,
+  "num_followers": 23962,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDcxOCwwMDAwMDAwMGRjOWE1M2JmMjM4OTA5YzRkNDgyZmQwNDVlZDliZGRi",
+  "snapshot_id": "MTY2NDgyMDc0MCwwMDAwMDAwMGE5MDdjMWUzYThkMzFhZjE1NmYzYzVmYjNjYzNkYzUw",
   "tracks": [
     {
       "added_at": "2022-09-30 04:05:18",
@@ -143,6 +143,22 @@
       "duration_ms": 147792,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+    },
+    {
+      "added_at": "2022-10-03 18:12:20",
+      "album": {
+        "name": "Buckles Laboratories Presents: The Intermission",
+        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Spread Thin",
+      "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
     },
     {
       "added_at": "2022-07-15 04:05:26",

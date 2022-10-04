@@ -2,18 +2,19 @@
 
 ### [Workout Bangers](https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS)
 
-> The best workout playlist is here\. Listen to rap and electronic bangers from Nicki Minaj, DJ Snake, and others to power you through.
+> The best workout playlist is here\. Listen to rap and electronic bangers from Nicki Minaj, DJ Snake, and more.
 
-65 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7g7wPnfrY0sMCexNWzHf2K)
+66 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/7g7wPnfrY0sMCexNWzHf2K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 | 2022-06-09 | 2022-09-07 |
 | [All White Forces](https://open.spotify.com/track/6dOdhKRcxIM2d1tFOe5Gcv) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [All White Forces](https://open.spotify.com/album/6aTvi6grLG7ataWKAal3pG) | 2:35 | 2022-07-04 | 2022-09-07 |
 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2OYfxjLnQuPo7Co1WH0Z1S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti](https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 2:32 | 2022-06-09 |  |
-| [Blessed \- Maliboux Remix](https://open.spotify.com/track/5hb3WmB7mSQoJCxe1PjWak) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Blessed More Blessed \(Dance Remixes\)](https://open.spotify.com/album/2oD8fM25zVCNzNHdeICq5W) | 2:37 | 2022-06-09 |  |
+| [Blessed \- Maliboux Remix](https://open.spotify.com/track/5hb3WmB7mSQoJCxe1PjWak) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Blessed More Blessed \(Dance Remixes\)](https://open.spotify.com/album/2oD8fM25zVCNzNHdeICq5W) | 2:37 | 2022-06-09 | 2022-10-04 |
 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 | 2022-06-09 |  |
 | [BLOOD SWEAT & TEARS](https://open.spotify.com/track/2sGHNzT76rKbSmAGs8ENH2) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 2:42 | 2022-06-20 |  |
+| [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2022-10-03 |  |
 | [BOOM](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99) | 2:59 | 2022-06-09 |  |
 | [Bounce Back](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 3:42 | 2022-06-09 |  |
 | [Bussin](https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bussin](https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n) | 2:16 | 2022-06-09 |  |

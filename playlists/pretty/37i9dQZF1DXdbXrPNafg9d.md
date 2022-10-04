@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,511 likes - 174 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,670 likes - 174 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 23852,
+  "num_followers": 23859,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDIyYTlkNjhkNTg5YmQzZmNiOWIxM2UzZGE2ZGUwMDhl",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDVmYmUyMjllOTZkNDdhOWEzZDJlMjU3YTA3ZGNhYzRi",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -107,6 +107,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "My Number One",
+        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "My Number One",
+      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "Eloise",
         "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 178946,
       "name": "Kom",
       "url": "https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "My Number One",
-        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
-      },
-      "artists": [
-        {
-          "name": "Helena Paparizou",
-          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "My Number One",
-      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -347,22 +347,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Stand By For...",
         "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
       },
       "artists": [
         {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
         }
       ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -423,6 +407,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+      },
+      "artists": [
+        {
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
-        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
-      },
-      "artists": [
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Det g\u00f6r ont",
-      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Dance You Off",
         "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 182134,
       "name": "Dance You Off",
       "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
+        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
+      },
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Det g\u00f6r ont",
+      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -671,22 +671,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Live Forever - The Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Busy Doin' Nothin'",
         "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Live Forever - The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -751,22 +751,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Projekt sega gubbar: 60-tals l\u00e5tar med Claes-G\u00f6ran Hederstr\u00f6m",
-        "url": "https://open.spotify.com/album/3k3FLzu6mlNS2PduQe1Ypy"
-      },
-      "artists": [
-        {
-          "name": "Claes-G\u00f6ran Hederstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mig",
-      "url": "https://open.spotify.com/track/63jf2xCWGFcq8KyQ5sme3T"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Den l\u00e5ngsamma blomman",
         "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "Projekt sega gubbar: 60-tals l\u00e5tar med Claes-G\u00f6ran Hederstr\u00f6m",
+        "url": "https://open.spotify.com/album/3k3FLzu6mlNS2PduQe1Ypy"
+      },
+      "artists": [
+        {
+          "name": "Claes-G\u00f6ran Hederstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mig",
+      "url": "https://open.spotify.com/track/63jf2xCWGFcq8KyQ5sme3T"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "40 \u00e5r 40 hits ett samlingsalbum 1972 - 2012",
         "url": "https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 167440,
       "name": "Just nu",
       "url": "https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Gamla Stan",
-        "url": "https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "M\u00f6t mig i Gamla Stan",
-      "url": "https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -843,6 +827,22 @@
       "duration_ms": 182306,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
+        "url": "https://open.spotify.com/album/4gkvAo6QefcyNnTkNf9vaz"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
+      "url": "https://open.spotify.com/track/4WXnFwrGkrGYzwCImeuob6"
     }
   ],
   "unique_name": "Schlagerfest",

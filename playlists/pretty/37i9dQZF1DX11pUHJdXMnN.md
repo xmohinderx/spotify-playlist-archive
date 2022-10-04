@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,509 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,534 likes - 45 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 41 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 |
 | 42 | [You And I \- Late Nite Tuff Guy Dub Remix](https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl) | 6:24 |
 | 43 | [What Are U Gonna Do](https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ) | [Ladebare](https://open.spotify.com/artist/5AnAdS3TumeVuPszRkY13h), [Janai](https://open.spotify.com/artist/0x9rtwsyJne349H9TJGDk0) | [What Are U Gonna Do](https://open.spotify.com/album/243U9nGlE63ErtM8fE1g4U) | 3:00 |
-| 44 | [Accidentally We Rushed](https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym) | [Nothing Stays in One Place for Long](https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9) | 5:18 |
-| 45 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
+| 44 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
+| 45 | [A Rose Between Two Thorns \(VERONICA\)](https://open.spotify.com/track/2qo8npLusT0JtbIHvkd1zO) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [A Rose Between Two Thorns \(VERONICA\)](https://open.spotify.com/album/6ZYlLI0F0LJJbrgM8hEML1) | 3:41 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDY0ZTNlMjliOTk1NzNmOWNlYTIyY2IzNGU3NjNjODk4`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDEzMWFmYWE2MzQxMjk2MDk4OTA5MTVlYTY3YmQwY2Ey`

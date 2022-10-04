@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 14735,
+  "num_followers": 14770,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDQxNDQ1YmY3MDhiNDFmZTE0YzViNzE3NTM3NTkyNWI5",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDFjOGM1MzhjMjM5NTZjZTI3MGYyNmZiMTgyMTVmMTBl",
   "tracks": [
     {
       "added_at": "2021-12-03 05:02:00",
@@ -411,8 +411,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+      "duration_ms": 229973,
+      "name": "I Always Get My Man",
+      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -441,36 +441,20 @@
       "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "On Tap",
-        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Samuel Ashton",
+          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
         }
       ],
-      "duration_ms": 245826,
-      "name": "Watch Me Move",
-      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Come To Mama",
-      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
+      "duration_ms": 199960,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -491,34 +475,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 229973,
-      "name": "I Always Get My Man",
-      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
+      "duration_ms": 288360,
+      "name": "Come To Mama",
+      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
+        "name": "On Tap",
+        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
       },
       "artists": [
         {
-          "name": "Samuel Ashton",
-          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 199960,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
+      "duration_ms": 245826,
+      "name": "Watch Me Move",
+      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -551,6 +535,22 @@
       "duration_ms": 227880,
       "name": "Put That Back",
       "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Iceman",
-        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Put The Shoe On The Other Foot",
-      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
-    },
-    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -703,22 +687,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Bad Axe",
-      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Let's Roll",
         "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 210773,
       "name": "Lie No Better",
       "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Iceman",
+        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Put The Shoe On The Other Foot",
+      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Bad Axe",
+      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
     },
     {
       "added_at": "2020-12-01 05:01:00",

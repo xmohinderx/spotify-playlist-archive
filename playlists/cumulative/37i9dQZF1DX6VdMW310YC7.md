@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,338 songs - 3 day 20 hr 53 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,339 songs - 3 day 20 hr 57 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,6 +813,7 @@
 | [Never Say Never \- Namatjira Remix](https://open.spotify.com/track/3gGMOsnKNL5dNnlZK8otrD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Namatjira](https://open.spotify.com/artist/6sxWQCIa5q75kyfUXQmEY0) | [Never Say Never \(Namatjira Remix\)](https://open.spotify.com/album/1V7KLpTEmGXtmOZecmSg9C) | 3:27 | 2020-05-19 | 2020-07-03 |
 | [Never Seen You Dance](https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Never Seen You Dance](https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6) | 4:48 | 2022-08-26 | 2022-09-10 |
 | [New Beginnings](https://open.spotify.com/track/2dIbIbzsIhjxYGyUELbNjM) | [Daydreamer](https://open.spotify.com/artist/7pcwfhcdyYJqkCV098EgYl) | [Senses](https://open.spotify.com/album/0ALxr1bwap4ptl8rjpLNop) | 2:54 | 2020-10-23 | 2021-03-06 |
+| [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-09-30 |  |
 | [New Love](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Reminders](https://open.spotify.com/album/5jqeOZVEhtWzvTFMatjDic) | 4:16 | 2022-05-27 |  |
 | [New Shapes](https://open.spotify.com/track/5B5NW1VuWFBsrRDaY7lwTe) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [New Shapes](https://open.spotify.com/album/5VJ4Wp1stme4t0UUIfpila) | 2:45 | 2020-03-16 | 2020-10-09 |
 | [New Sky](https://open.spotify.com/track/29tIhq8ByVaG5GVlnS4XRL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:27 | 2020-03-20 | 2021-10-02 |
@@ -1004,7 +1005,7 @@
 | [Scared to Go Home](https://open.spotify.com/track/5gXLhbWoo01qNyGois2Doc) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Scared to Go Home](https://open.spotify.com/album/4ZXSq1eXkwdgEOAtxurhmD) | 2:59 | 2020-05-16 | 2020-10-09 |
 | [Schools Out](https://open.spotify.com/track/1RtNv5YOoY0ODeAekDHAga) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Schools Out](https://open.spotify.com/album/64cTvTckUDWDLU9xRtdnlq) | 2:55 | 2020-03-17 | 2022-04-21 |
 | [Sea To Sky](https://open.spotify.com/track/7CGhUAQcsn81EVNqCHfxGc) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven) | 4:24 | 2022-03-18 | 2022-07-27 |
-| [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-04-29 |  |
+| [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-04-29 | 2022-10-04 |
 | [Seeker](https://open.spotify.com/track/6weYVdQPXtbS7CjdCdBgZs) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Seeker](https://open.spotify.com/album/4keAjNKZJURwQIgMIkzthP) | 4:57 | 2020-07-18 | 2020-10-09 |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2021-03-10 | 2021-06-19 |
 | [Sentir](https://open.spotify.com/track/5xb2vxUeGJ7Yeclvfaq1O8) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/3CqVFoJ77PdxzkiXxm8gjG) | 2:20 | 2021-11-12 |  |

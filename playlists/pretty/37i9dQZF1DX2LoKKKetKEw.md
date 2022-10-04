@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,219 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,346 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 43 | [Wait 4 Me](https://open.spotify.com/track/1hoD8vWdFVWzKRiD2BFgZl) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Wait 4 Me](https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM) | 3:02 |
 | 44 | [Nobody Like You \- Radio Edit](https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You EP](https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL) | 3:05 |
 | 45 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 |
-| 46 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 |
-| 47 | [Regardless](https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Kunle Zakariya](https://open.spotify.com/artist/2T5MR0ZRAo0VH5quEfnN3m), [Pure Streams](https://open.spotify.com/artist/0M2IMlSX6lnDQZMdFsnzgr) | [Regardless](https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE) | 4:59 |
+| 46 | [Regardless](https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Kunle Zakariya](https://open.spotify.com/artist/2T5MR0ZRAo0VH5quEfnN3m), [Pure Streams](https://open.spotify.com/artist/0M2IMlSX6lnDQZMdFsnzgr) | [Regardless](https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE) | 4:59 |
+| 47 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 |
 | 48 | [Revival](https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o) | [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [Revival](https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ) | 2:35 |
 | 49 | [Blessings](https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Blessings](https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6) | 3:04 |
 | 50 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 |
 | 51 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 |
 | 52 | [True Love](https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Break The Eyes](https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p) | [True Love](https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4) | 2:56 |
 | 53 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 |
-| 54 | [The One](https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [The One](https://open.spotify.com/album/3WZgCYXQjjKQSJcZ76UqhO) | 3:07 |
-| 55 | [No Stress](https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z) | [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [No Stress](https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL) | 3:20 |
+| 54 | [No Stress](https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z) | [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [No Stress](https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL) | 3:20 |
+| 55 | [The One](https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [The One](https://open.spotify.com/album/3WZgCYXQjjKQSJcZ76UqhO) | 3:07 |
 
-Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMGFjNDVmNDMyN2EyYjU2ODQxOTk1YjExMGRkZDVkMDRh`
+Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMGIxMGZhMDFhYzNjNjRhMTYyOTUyMmJiN2ViYWVjNzNl`

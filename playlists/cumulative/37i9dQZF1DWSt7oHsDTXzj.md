@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-153 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+154 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 | 2021-11-12 |  |
 | [Merry Christmas](https://open.spotify.com/track/7I53IhL7CuLvRs9g6jyliB) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Merry Christmas](https://open.spotify.com/album/6nnv2sz5aO6ckFWn1Vhxfr) | 3:18 | 2021-11-12 | 2022-07-23 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/18FRF0G84dYW6BQaJ92BcM) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Merry Christmas Everyone](https://open.spotify.com/album/5HpjZ3vpbjj3sxAELe7gHk) | 2:41 | 2021-11-12 | 2022-07-27 |
-| [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl) | 3:38 | 2021-11-12 |  |
+| [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl) | 3:38 | 2021-11-12 | 2022-10-04 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 | 2021-11-12 | 2022-03-21 |
 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 | 2021-11-12 |  |
 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 | 2021-12-03 | 2022-09-21 |
@@ -132,6 +132,7 @@
 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 | 2021-11-12 |  |
 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6pL6TOmzoMq6ckBFGTaAT5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [The Blizzard](https://open.spotify.com/track/0442MxTJy5BBYDLYtTB3Gr) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/6BLCOiSMOaY1pFZ2hTWrxW) | 4:14 | 2021-11-12 | 2022-07-28 |
+| [The Blizzard](https://open.spotify.com/track/4iykPMYOPGgIRu3G8oicHo) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/5unn4URn3OrLsgpdUJblN4) | 4:14 | 2021-11-12 |  |
 | [The Christmas Song \(Alternative Version\)](https://open.spotify.com/track/5jQrmU5rPtQaaztvCXixje) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [The Christmas Song](https://open.spotify.com/album/1M8hInKX0KKrYEH5Bu2fVX) | 2:05 | 2021-11-12 | 2022-07-01 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5PLycideUdqJhZlNOn7DKh) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/2HvjWs3N4yuO6ie8tdGhMC) | 5:17 | 2021-11-12 | 2022-07-27 |
 | [The Loneliest Christmas](https://open.spotify.com/track/0GJC2CqdaMPMPxrdATNl65) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ), [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [The Loneliest Christmas](https://open.spotify.com/album/1ehSsoiUERBfN9b2YO5tBv) | 2:08 | 2021-11-12 | 2022-07-28 |

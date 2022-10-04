@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-248 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+250 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Here](https://open.spotify.com/track/0UuMg7nCoCLnaG9qG7B9Ft) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [HERE](https://open.spotify.com/album/1ZLSVYADHHdOKThHW9Ywux) | 4:04 | 2022-02-25 | 2022-03-06 |
 | [High Up](https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [High Up](https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz) | 3:00 | 2022-02-25 | 2022-08-27 |
 | [Higher Ground](https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Episode 1 \- EP](https://open.spotify.com/album/2fARr0hI02WNfm4vL6MsWx) | 3:06 | 2022-02-25 | 2022-03-21 |
-| [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 | 2022-08-26 |  |
+| [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 | 2022-08-26 | 2022-10-04 |
 | [Hold You Tight](https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:55 | 2022-07-08 |  |
 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 | 2022-02-25 | 2022-05-14 |
 | [Holy Spirit Come](https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Holy Spirit Come](https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG) | 4:14 | 2022-08-26 | 2022-10-02 |
@@ -174,7 +174,7 @@
 | [On Our Way \(feat\. Sam Wesley\)](https://open.spotify.com/track/0DSV7Ce0wbQrj85N3sNmnd) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Sam Wesley](https://open.spotify.com/artist/4vqMBTfYzKa1c5TOTim9mO) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 3:26 | 2022-02-25 | 2022-06-11 |
 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-10-01 |  |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-04-22 | 2022-04-29 |
-| [Our Eyes Are on You \(feat\. Elle Limebear\) \- Radio Edit](https://open.spotify.com/track/0oZhJWU3KrgOMIMulgQauu) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are on You \(feat\. Elle Limebear\) \[Radio Edit\]](https://open.spotify.com/album/5NRfD3h5nnigXlXZRojIeH) | 4:24 | 2022-07-08 |  |
+| [Our Eyes Are on You \(feat\. Elle Limebear\) \- Radio Edit](https://open.spotify.com/track/0oZhJWU3KrgOMIMulgQauu) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are on You \(feat\. Elle Limebear\) \[Radio Edit\]](https://open.spotify.com/album/5NRfD3h5nnigXlXZRojIeH) | 4:24 | 2022-07-08 | 2022-10-04 |
 | [Our Eyes Are On You \- Radio Edit](https://open.spotify.com/track/6Kg6BHRQAd0xKDGGJ7LJoK) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are On You](https://open.spotify.com/album/6kvDlhfUy3TmrtrNPTurmw) | 4:24 | 2022-02-25 | 2022-07-29 |
 | [Over and Over](https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A) | 3:35 | 2022-04-22 | 2022-09-22 |
 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 | 2022-08-26 | 2022-10-02 |
@@ -231,6 +231,7 @@
 | [There Is Freedom](https://open.spotify.com/track/5v9XGYeVeVbuGnYJEaesoh) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/5XarmAjYxAdXTOQObOztgO) | 3:58 | 2022-07-08 | 2022-08-27 |
 | [Things That I'm Afraid Of](https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Things That I'm Afraid Of](https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop) | 2:46 | 2022-03-05 |  |
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/71gmThHplhegRGnswUTD2O) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/7cYdBWyaoE8UCUW3cHlZhU) | 3:42 | 2022-10-01 |  |
+| [To Not Worship You](https://open.spotify.com/track/0sqnqnvPogsfvALIv1OVMM) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [To Not Worship You](https://open.spotify.com/album/1CdbYMYRRGYB5rxO8syz4P) | 3:45 | 2022-10-01 |  |
 | [Today](https://open.spotify.com/track/36zPLlwvrQjDm2oDG7KbmJ) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Today](https://open.spotify.com/album/5OcFeJQu3euDRmtOd2P19D) | 4:05 | 2022-02-25 | 2022-05-14 |
 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 | 2022-02-25 |  |
 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 | 2022-02-25 |  |
@@ -247,6 +248,7 @@
 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 | 2022-04-29 | 2022-10-02 |
 | [Without Your Love](https://open.spotify.com/track/0fZrPbrELvooERHd4r6ZQj) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Without Your Love](https://open.spotify.com/album/66mhmcFBDn1DCxPOJd2wRI) | 2:42 | 2022-02-25 | 2022-06-11 |
 | [Won't Let Me Go](https://open.spotify.com/track/4FNan8GUauT5ZdZONLCzdq) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Won't Let Me Go](https://open.spotify.com/album/1XIHJlUQDa7CFghiCQw1Nt) | 3:35 | 2022-04-22 | 2022-10-02 |
+| [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 | 2022-10-01 |  |
 | [Wonder](https://open.spotify.com/track/5JTUzRWxGBR8GgkAyqjfvR) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Wonder](https://open.spotify.com/album/00xTOJwRmfTABsNNQCZkHA) | 4:07 | 2022-02-25 |  |
 | [Wonderful Life](https://open.spotify.com/track/346GYD2oczDYEzUCVxd9zl) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Wonderful Life](https://open.spotify.com/album/4iNhPj8ULyXqKAS13Zeuht) | 3:47 | 2022-04-22 | 2022-08-27 |
 | [Worry](https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Worry](https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2) | 3:29 | 2022-04-22 |  |

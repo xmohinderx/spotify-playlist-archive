@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Giulia Be
 
-159 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+160 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,10 @@
 | [48K Apresenta \#4: Eu Ainda Te Amo](https://open.spotify.com/track/5UvrBOUdaADTBCV63v9cqD) | [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [48K Apresenta \#4: Eu Ainda Te Amo](https://open.spotify.com/album/4oTmatehS94y8mIDCHACbx) | 2:43 | 2022-05-13 |  |
 | [A Vida Não Erra](https://open.spotify.com/track/1vT7MW3pMQfYC8ZsVbLIGD) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [A Vida Não Erra](https://open.spotify.com/album/71rL4hsd3a7mI0qQVNcfVM) | 3:05 | 2022-05-13 | 2022-07-29 |
 | [A Vida Não Erra](https://open.spotify.com/track/3JPTkwFCf0SHfRVWOpZetC) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv) | 3:05 | 2022-07-01 |  |
-| [A Vida É Boa Com Você \- Voz E Violão](https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 2:50 | 2022-05-13 |  |
+| [A Vida É Boa Com Você \- Voz E Violão](https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 2:50 | 2022-05-13 | 2022-10-04 |
 | [Acorda Amor](https://open.spotify.com/track/3wcfLGyG8FRCWxZOO7NsII) | [MARCEL](https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX) | [Acorda Amor](https://open.spotify.com/album/5qCDzPx6lP6XKlYO6sbHBx) | 2:27 | 2022-05-13 | 2022-06-15 |
 | [Adoro Amar Você](https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adoro Amar Você](https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl) | 4:33 | 2022-09-09 |  |
+| [Agridoce](https://open.spotify.com/track/7vMa1EWSLnbjSCcaniuZsL) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Agridoce](https://open.spotify.com/album/5N6IeS8Ebyiwk0qC20MItk) | 2:37 | 2022-09-30 |  |
 | [Aguei](https://open.spotify.com/track/3hCJ7bncN6wjLxWCxhUSkp) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Aguei](https://open.spotify.com/album/2vOz8ssYDr5H8LTusYbmzd) | 3:11 | 2022-05-13 |  |
 | [Ai Bebê](https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Ai Bebê](https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX) | 2:44 | 2022-06-14 |  |
 | [Aliança](https://open.spotify.com/track/2tLfyFT8X6MmdYsyo9x5Gg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aliança](https://open.spotify.com/album/6xTuOYTLMwNqwbyNHTtAot) | 3:13 | 2022-06-14 | 2022-06-25 |

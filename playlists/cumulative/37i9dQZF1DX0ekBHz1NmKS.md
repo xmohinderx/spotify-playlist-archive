@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-572 songs - 1 day 6 hr 27 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+573 songs - 1 day 6 hr 30 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Om det ändå räckte att ångra sig](https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Djur och människa](https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd) | 3:03 | 2022-06-09 |  |
 | [Once in a While \[smile\]](https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Once in a While \[smile\]](https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s) | 2:59 | 2022-09-08 |  |
 | [One More Time](https://open.spotify.com/track/4rQSkio3a0iiLSEuoWMwOF) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [One More Time](https://open.spotify.com/album/6oG8wiEJIcBjXehs0lbiLN) | 2:57 | 2022-04-07 | 2022-07-27 |
-| [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 |  |
+| [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 | 2022-10-04 |
 | [Oron](https://open.spotify.com/track/50yVZ2s5nmodWAvKGDdnxT) | [O!](https://open.spotify.com/artist/7nza9FCmRyw0Kha7Sqv2K6) | [Oron](https://open.spotify.com/album/4NHcks6sxG0wXXFv7CBjhL) | 2:40 | 2022-04-01 | 2022-04-21 |
 | [Oscillating Love](https://open.spotify.com/track/3OkCg0FmQic1z61kpzMmkI) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Oscillating Love](https://open.spotify.com/album/0px93W1pVB6l4matH0a2TK) | 4:58 | 2021-12-16 | 2022-02-06 |
 | [Our Night](https://open.spotify.com/track/7FBjqWG2unTeEHV2Hi6Mcg) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Our Night](https://open.spotify.com/album/1OTQVr8JLKQ3vwBjSDb3Ry) | 2:45 | 2021-12-16 | 2021-12-25 |
@@ -509,6 +509,7 @@
 | [Through The Fire](https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK) | [Alex Alexander](https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj) | [Through The Fire](https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf) | 3:53 | 2022-09-15 |  |
 | [Tidsmaskin](https://open.spotify.com/track/6Nmeso3ijBsLrIpSMboYm0) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Underbart i all misär](https://open.spotify.com/album/51Pbz9gnabh4ouprPLUx29) | 4:08 | 2021-12-16 | 2022-03-11 |
 | [Till slutet av augusti \- Live från Benjamin's](https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Till slutet av augusti \(Live från Benjamin's\)](https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR) | 4:10 | 2022-04-07 |  |
+| [Till Solen Brinner Ut](https://open.spotify.com/track/2DTa2kupO7EwBcVDJrENJ2) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Till Solen Brinner Ut](https://open.spotify.com/album/6PlbjhdgIeBavM5EcNztvB) | 3:19 | 2022-09-29 |  |
 | [Tilt](https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Tilt](https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI) | 3:34 | 2022-04-28 | 2022-07-29 |
 | [Timmar](https://open.spotify.com/track/5sXAGhrXIeUtAVLzpdJIfH) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Timmar](https://open.spotify.com/album/4gajMx6fgWWLyPrrPCfc1Z) | 3:33 | 2021-12-16 | 2022-01-13 |
 | [Tjugofyra sju](https://open.spotify.com/track/5Fz8257fkwgpnUMNlbvtP4) | [Amanda Mattsson](https://open.spotify.com/artist/5BftYI9ZzOxA6tKAbAHdQF) | [Tjugofyra sju](https://open.spotify.com/album/2PWptHPalgmRvTz5GaeVpb) | 3:10 | 2022-04-07 | 2022-05-11 |

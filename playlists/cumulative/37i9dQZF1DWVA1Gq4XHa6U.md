@@ -2,7 +2,7 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: Kanye West
+> Taking it way back! Cover: Coolio
 
 175 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
 

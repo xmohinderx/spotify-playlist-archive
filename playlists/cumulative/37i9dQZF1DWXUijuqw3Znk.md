@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-327 songs - 19 hr 8 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
+328 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [RAPSTAR \- Remix](https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn) | [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA) | 3:38 | 2022-07-22 |  |
 | [Reborn](https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 3:19 | 2022-05-11 | 2022-07-24 |
 | [REBORN](https://open.spotify.com/track/1CyTCsONfJ1IdUjOHtQgeV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/2hDjVKHLLiCgkqe6unmyHm) | 3:55 | 2022-05-11 | 2022-07-28 |
-| [REBORN](https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq) | 3:55 | 2022-07-22 |  |
+| [REBORN](https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq) | 3:55 | 2022-07-22 | 2022-10-04 |
 | [Red Light \(Feat\. BIG Naughty\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3) | [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 4:30 | 2022-05-11 |  |
 | [Remember](https://open.spotify.com/track/4T9Dv3ax2ccJ1VEejTNQ75) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Remember](https://open.spotify.com/album/3RMda0UfpzxcaoSQLYP1Yr) | 3:25 | 2022-05-11 | 2022-07-26 |
 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 | 2022-07-04 |  |
@@ -303,6 +303,7 @@
 | [wish](https://open.spotify.com/track/1i8Gii2k5VTJqf8UNEve9U) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/3eX0C672y1Y2HQTotIGU8V) | 3:41 | 2022-05-11 | 2022-07-26 |
 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 | 2022-07-22 |  |
 | [Won It All](https://open.spotify.com/track/2GWC2LNfVXnfUBn2l4OZGD) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [MBA](https://open.spotify.com/artist/0c6EF9zv5mQX7pkyrPawKS) | [Foundation, Vol\. 4](https://open.spotify.com/album/4Gvraz4H3ASYB9DL7PYgBO) | 5:30 | 2022-05-11 | 2022-07-27 |
+| [WORLDWIDE](https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 6:02 | 2022-08-17 |  |
 | [Worldwide \(feat\. Dok2 & The Quiett\)](https://open.spotify.com/track/0Tf5Ah7sNOHjDKzfHOPgo5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH) | 6:02 | 2022-06-20 | 2022-07-29 |
 | [Writer's Block](https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [The Anecdote](https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q) | 3:38 | 2022-07-22 |  |
 | [Writer's Block](https://open.spotify.com/track/5GcokZlosL9XeWnSn0zugo) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [The Anecdote](https://open.spotify.com/album/1ZzV8Yt4fDGrbmLC7BC3yn) | 3:38 | 2022-05-11 | 2022-07-27 |

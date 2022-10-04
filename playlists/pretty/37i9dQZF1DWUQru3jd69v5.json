@@ -1,15 +1,15 @@
 {
   "description": "La nuova generazione del rap italiano. Cover: N\u00e9za",
-  "num_followers": 212958,
+  "num_followers": 212997,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMDM3OWMxMWE0ZTU0ZTlmZGU2ZDI3ZDdiODkzZmY3MmZh",
+  "snapshot_id": "MTY2NDc4NTI1NywwMDAwMDAwMDFjZTEwODU1MGY2NGUwNDgxOWI4MDUyNjQwNzI0MWNm",
   "tracks": [
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1gDOQhITnrLJtvL1q3aTm2"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4IUW8x8SdDkcbm8LivZRC1"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Plaquette",
         "url": "https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Giro La Nuit",
         "url": "https://open.spotify.com/album/5OdTbldVWMzYUmJKy6zw0M"
@@ -73,7 +73,43 @@
       "url": "https://open.spotify.com/track/1bBuTSK4KzCBveyk8999Qa"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
+      "album": {
+        "name": "YO",
+        "url": "https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "YO",
+      "url": "https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m"
+    },
+    {
+      "added_at": "2022-10-03 08:20:57",
+      "album": {
+        "name": "Walkie Talkie",
+        "url": "https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Walkie Talkie",
+      "url": "https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa"
+    },
+    {
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Strade Unite (feat. Helmi sa7bi, emanuelino)",
         "url": "https://open.spotify.com/album/4pqW2BaSQ7qOdg8KMSxId3"
@@ -101,7 +137,7 @@
       "url": "https://open.spotify.com/track/6PYMcSZlBqCgFOojTLMJgD"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Cartier #1",
         "url": "https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D"
@@ -117,7 +153,7 @@
       "url": "https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Immigrato",
         "url": "https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ"
@@ -141,43 +177,7 @@
       "url": "https://open.spotify.com/track/1tC2jyKepT8S8xd7vzBcPK"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Walkie Talkie",
-        "url": "https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B"
-      },
-      "artists": [
-        {
-          "name": "Delaru\u00e0",
-          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Walkie Talkie",
-      "url": "https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "YO",
-        "url": "https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT"
-      },
-      "artists": [
-        {
-          "name": "Mikush",
-          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
-        },
-        {
-          "name": "Timongothekeys",
-          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "YO",
-      "url": "https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Best Life",
         "url": "https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "PLAYA",
         "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Giri",
         "url": "https://open.spotify.com/album/6kuZ4J857hZmRKnqP6wyTU"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/14oEkVkKtqMOFsPw2Uas7v"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "SOCIAL",
         "url": "https://open.spotify.com/album/3G79iLNwARWJRjGSED29fP"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/2Q7XAHQ0bk3GooyDG8Nlb6"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "RS6",
         "url": "https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "MUJER",
         "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Dark Days",
         "url": "https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/197sltAUVMru0iJmJwPcho"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Wroom Wroom",
         "url": "https://open.spotify.com/album/1jVXH8SRRkuLIgLXn9JsD1"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Immigrato",
         "url": "https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/2MwQjdvvuYF5XaXyJmlygR"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/5qEPyzaTjIr9HRisws1uFm"
@@ -353,27 +353,23 @@
       "url": "https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
-        "name": "BLCK MAMBA",
-        "url": "https://open.spotify.com/album/4h6LvD4A3oTBdpaZwHu5q5"
+        "name": "OMC 2",
+        "url": "https://open.spotify.com/album/2Jdeflesd2uNZJ6DKTlEIq"
       },
       "artists": [
         {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fri2",
-          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
         }
       ],
-      "duration_ms": 165176,
-      "name": "BLCK MAMBA",
-      "url": "https://open.spotify.com/track/2dw9segQF74a75R4F5moeh"
+      "duration_ms": 146672,
+      "name": "OMC 2",
+      "url": "https://open.spotify.com/track/3nMLwOUE2U8KWOMWZK7ve6"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Vita",
         "url": "https://open.spotify.com/album/0SVrYSdrhwIblseZvJXtqS"
@@ -397,7 +393,7 @@
       "url": "https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
@@ -441,7 +437,7 @@
       "url": "https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "4MEGA SHOO",
         "url": "https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn"
@@ -461,7 +457,7 @@
       "url": "https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Speranza e Fame",
         "url": "https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ"
@@ -481,7 +477,27 @@
       "url": "https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
+      "album": {
+        "name": "BLCK MAMBA",
+        "url": "https://open.spotify.com/album/4h6LvD4A3oTBdpaZwHu5q5"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "BLCK MAMBA",
+      "url": "https://open.spotify.com/track/2dw9segQF74a75R4F5moeh"
+    },
+    {
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Dream Team",
         "url": "https://open.spotify.com/album/6NxPuLnfHoj7X2akdm2mFw"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/5Cv7syuN0JoYSCzj4Ow2mi"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "QUATTERI #2",
         "url": "https://open.spotify.com/album/5rwB4fDaWfORiDU7KOhmuT"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/2mhjSMEAbReJIguSuAUP0Y"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "ItalGarage",
         "url": "https://open.spotify.com/album/2wA2lNv7d0fsO7sxTFpdap"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/43CigdSvQSNuQs1ccxS7V1"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7pVf3kW6pBORKlEjnAzTek"
@@ -569,23 +585,7 @@
       "url": "https://open.spotify.com/track/1aOZK97dwvvi3oaSBdGAXh"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "OMC 2",
-        "url": "https://open.spotify.com/album/2Jdeflesd2uNZJ6DKTlEIq"
-      },
-      "artists": [
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        }
-      ],
-      "duration_ms": 146672,
-      "name": "OMC 2",
-      "url": "https://open.spotify.com/track/3nMLwOUE2U8KWOMWZK7ve6"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Possessivo",
         "url": "https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Minor\u00e8",
         "url": "https://open.spotify.com/album/1qjHdrXzVMs4ielAd5IkIZ"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/7LlYj0RhsOxFY3prYoj9Y3"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "TUTTO PERFETTO",
         "url": "https://open.spotify.com/album/3F6ggobCxry9HTbiAtKO1W"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/4jAXYpNXo2lUvJLoQ3tIRW"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "A TE",
         "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
@@ -661,7 +661,23 @@
       "url": "https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
+      "album": {
+        "name": "ESTATE ZANZA",
+        "url": "https://open.spotify.com/album/5fvmpFRfoI3V4hJJw7WZTi"
+      },
+      "artists": [
+        {
+          "name": "LA PLATA",
+          "url": "https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ"
+        }
+      ],
+      "duration_ms": 173883,
+      "name": "ESTATE ZANZA",
+      "url": "https://open.spotify.com/track/2Zcm4bfzIeOyR2FPp2DMmt"
+    },
+    {
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Estorsione",
         "url": "https://open.spotify.com/album/6foFbS96f9s22rApLXyEOa"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/2GRi9N2LVatxmdwHekDxpX"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "ARABO II",
         "url": "https://open.spotify.com/album/34D1MyNHzgH3k4WUNC89y4"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/7L0tQzr8bmHwgD06Va8OP8"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Lycamobile",
         "url": "https://open.spotify.com/album/7CnUxTj8QB1OybIkKwXRBc"
@@ -713,23 +729,7 @@
       "url": "https://open.spotify.com/track/1VFhL47A4eXjEkb8Posmdq"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "ESTATE ZANZA",
-        "url": "https://open.spotify.com/album/5fvmpFRfoI3V4hJJw7WZTi"
-      },
-      "artists": [
-        {
-          "name": "LA PLATA",
-          "url": "https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ"
-        }
-      ],
-      "duration_ms": 173883,
-      "name": "ESTATE ZANZA",
-      "url": "https://open.spotify.com/track/2Zcm4bfzIeOyR2FPp2DMmt"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "TMax Nero",
         "url": "https://open.spotify.com/album/0OTdXFFM6J7Hy3WuH4CVIM"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/1uJla0JBNlxpx09X5cpLNn"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "10 MILA",
         "url": "https://open.spotify.com/album/6ZguOUjKVLCrAq6hLxSRvb"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/2kesPCCmnyLpygemxcgNT5"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Maledette vie",
         "url": "https://open.spotify.com/album/6XPdshvT5iqqposfyo5ndb"
@@ -785,7 +785,83 @@
       "url": "https://open.spotify.com/track/1vR6UrRJD9quE4aIrO08In"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
+      "album": {
+        "name": "La Night",
+        "url": "https://open.spotify.com/album/2euZMLQOMqxiepkLCGm8bg"
+      },
+      "artists": [
+        {
+          "name": "4m",
+          "url": "https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "La Night",
+      "url": "https://open.spotify.com/track/25BMe4HvZhR33AKt0feyYt"
+    },
+    {
+      "added_at": "2022-10-03 08:20:57",
+      "album": {
+        "name": "NO CONFIDENCE",
+        "url": "https://open.spotify.com/album/2I3c5Ebl05sIArI3uy3mtj"
+      },
+      "artists": [
+        {
+          "name": "Rione",
+          "url": "https://open.spotify.com/artist/7iMfaY3weGRYnarHrFogVH"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "NO CONFIDENCE",
+      "url": "https://open.spotify.com/track/4aCdjK8tuejHwGSTpgRCez"
+    },
+    {
+      "added_at": "2022-10-03 08:20:57",
+      "album": {
+        "name": "QUANTO CASINO",
+        "url": "https://open.spotify.com/album/0JzBL0zjYqwzU1edd9DZUk"
+      },
+      "artists": [
+        {
+          "name": "Venz",
+          "url": "https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5"
+        },
+        {
+          "name": "Thierry",
+          "url": "https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx"
+        }
+      ],
+      "duration_ms": 166516,
+      "name": "QUANTO CASINO",
+      "url": "https://open.spotify.com/track/2UYfrM2ulvxYroL2ZQjRVY"
+    },
+    {
+      "added_at": "2022-10-03 08:20:57",
+      "album": {
+        "name": "Delinquendo",
+        "url": "https://open.spotify.com/album/6YC6UsqOCmC0TZ95LkivYx"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Blaze Drumz",
+          "url": "https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ"
+        }
+      ],
+      "duration_ms": 139342,
+      "name": "Delinquendo",
+      "url": "https://open.spotify.com/track/5w37bmfEjH2atbVTuupyfo"
+    },
+    {
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "GRA",
         "url": "https://open.spotify.com/album/0EPDrZtlH0TSj42kpu7Tnx"
@@ -813,63 +889,7 @@
       "url": "https://open.spotify.com/track/4VRirVonlTpWDjIZBwqALo"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "La Night",
-        "url": "https://open.spotify.com/album/2euZMLQOMqxiepkLCGm8bg"
-      },
-      "artists": [
-        {
-          "name": "4m",
-          "url": "https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "La Night",
-      "url": "https://open.spotify.com/track/25BMe4HvZhR33AKt0feyYt"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "NO CONFIDENCE",
-        "url": "https://open.spotify.com/album/2I3c5Ebl05sIArI3uy3mtj"
-      },
-      "artists": [
-        {
-          "name": "Rione",
-          "url": "https://open.spotify.com/artist/7iMfaY3weGRYnarHrFogVH"
-        },
-        {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "NO CONFIDENCE",
-      "url": "https://open.spotify.com/track/4aCdjK8tuejHwGSTpgRCez"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "QUANTO CASINO",
-        "url": "https://open.spotify.com/album/0JzBL0zjYqwzU1edd9DZUk"
-      },
-      "artists": [
-        {
-          "name": "Venz",
-          "url": "https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5"
-        },
-        {
-          "name": "Thierry",
-          "url": "https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx"
-        }
-      ],
-      "duration_ms": 166516,
-      "name": "QUANTO CASINO",
-      "url": "https://open.spotify.com/track/2UYfrM2ulvxYroL2ZQjRVY"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "BANDOLERO (feat. Kerim Levrai, Madprince, Marsiglia, Orfedi)",
         "url": "https://open.spotify.com/album/2xU8gbWf3TmX1cWQ1jwmen"
@@ -905,7 +925,7 @@
       "url": "https://open.spotify.com/track/5qlWyJHbr7X31fhnfwaley"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "Fogli strappati",
         "url": "https://open.spotify.com/album/5rQJ4922Vw9chnwYjabaG3"
@@ -921,7 +941,7 @@
       "url": "https://open.spotify.com/track/5ETvYjfhCSHcCSYVTco7oP"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "MISS YOU",
         "url": "https://open.spotify.com/album/570ebPHKPWtW1K7jInF0Ic"
@@ -937,27 +957,7 @@
       "url": "https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb"
     },
     {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Delinquendo",
-        "url": "https://open.spotify.com/album/6YC6UsqOCmC0TZ95LkivYx"
-      },
-      "artists": [
-        {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
-        },
-        {
-          "name": "Blaze Drumz",
-          "url": "https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ"
-        }
-      ],
-      "duration_ms": 139342,
-      "name": "Delinquendo",
-      "url": "https://open.spotify.com/track/5w37bmfEjH2atbVTuupyfo"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
+      "added_at": "2022-10-03 08:20:57",
       "album": {
         "name": "CRACK COCA",
         "url": "https://open.spotify.com/album/6dEYHcH5MzuOuGkEqZvJbQ"

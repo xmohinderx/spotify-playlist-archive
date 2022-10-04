@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 31833,
+  "num_followers": 31880,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5MjQwMCwwMDAwMDAwMGFiYWQwMTM2ZTg5NDQ2OGZiMWVhZDhmOWRmODA3NzYy",
+  "snapshot_id": "MTY2NDQ5MjQwMCwwMDAwMDAwMGQxNTEzZDZjOTI5ZDFlMzQ5MjIxMTY4NWQ3YTU1NmM0",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Deepak Looper",
-        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 193492,
-      "name": "Impec",
-      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -403,34 +403,18 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "Deepak Looper",
+        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 158114,
-      "name": "1 de Abril",
-      "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+      "duration_ms": 193492,
+      "name": "Impec",
+      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 207720,
       "name": "Dado",
       "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 158114,
+      "name": "1 de Abril",
+      "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
         "name": "Bimba Y Lola",
         "url": "https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "Vivi Good",
         "url": "https://open.spotify.com/album/2bqAN9XzrQnnspO2LBfMVp"
       },
@@ -701,39 +701,7 @@
       "url": "https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP"
     },
     {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
-    },
-    {
-      "added_at": "2022-10-03 01:41:41",
+      "added_at": "2022-10-04 01:49:39",
       "album": {
         "name": "Trilogia P\u00e3o Na Mesa",
         "url": "https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi"
@@ -791,6 +759,38 @@
       "duration_ms": 243692,
       "name": "Gravidade",
       "url": "https://open.spotify.com/track/1xKyLu1AbYauopjoAi0bQU"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
     },
     {
-      "added_at": "2022-10-03 01:41:41",
+      "added_at": "2022-10-04 01:49:39",
       "album": {
         "name": "Marcas De Bikini",
         "url": "https://open.spotify.com/album/7FOJWf7cL28upX4jHRdEL3"
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
+        "name": "Conto",
+        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Conto",
+      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
       },
@@ -891,6 +907,30 @@
       "duration_ms": 278211,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Hospedeira",
+        "url": "https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 265631,
+      "name": "Hospedeira",
+      "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -921,7 +961,23 @@
       "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
     },
     {
-      "added_at": "2022-10-03 01:41:41",
+      "added_at": "2022-10-04 01:49:39",
+      "album": {
+        "name": "N\u00e3o h\u00e1 imposs\u00edveis",
+        "url": "https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "duration_ms": 154431,
+      "name": "N\u00e3o h\u00e1 imposs\u00edveis",
+      "url": "https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP"
+    },
+    {
+      "added_at": "2022-10-04 01:49:39",
       "album": {
         "name": "Noite De Loucura",
         "url": "https://open.spotify.com/album/4Y3A4edz8Uqya0a1eIk7qn"
@@ -947,58 +1003,18 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Conto",
-        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
+        "name": "Perseus",
+        "url": "https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 202886,
-      "name": "Conto",
-      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "Hospedeira",
-        "url": "https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Deezy",
-          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 265631,
-      "name": "Hospedeira",
-      "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
-    },
-    {
-      "added_at": "2022-10-03 01:41:41",
-      "album": {
-        "name": "N\u00e3o h\u00e1 imposs\u00edveis",
-        "url": "https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI"
-      },
-      "artists": [
-        {
-          "name": "Sippinpurpp",
-          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
-        }
-      ],
-      "duration_ms": 154431,
-      "name": "N\u00e3o h\u00e1 imposs\u00edveis",
-      "url": "https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP"
+      "duration_ms": 214654,
+      "name": "Perseus",
+      "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -1017,23 +1033,7 @@
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
     },
     {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "Perseus",
-        "url": "https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 214654,
-      "name": "Perseus",
-      "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
-    },
-    {
-      "added_at": "2022-10-03 01:41:41",
+      "added_at": "2022-10-04 01:49:39",
       "album": {
         "name": "STAY FLY",
         "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "2020 (feat. Slow J)",
-        "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
       },
       "artists": [
         {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 203812,
-      "name": "2020 (feat. Slow J)",
-      "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
     }
   ],
   "unique_name": "Rap Tuga Hits",

@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-259 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+260 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Spain](https://open.spotify.com/track/6A4RctQaBHHU9dmhecNgQy) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 4:46 | 2022-06-29 | 2022-07-29 |
 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 | 2022-07-19 |  |
 | [Sparrow Meadow](https://open.spotify.com/track/1pYCC6TVtgVxumhsLNplbu) | [Min Sosa](https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0) | [Sparrow Meadow](https://open.spotify.com/album/2kJFfzwMj8jdiXJ4OjBZc2) | 3:02 | 2022-06-29 | 2022-07-29 |
-| [Spectral Morning](https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN) | 4:00 | 2022-09-13 |  |
+| [Spectral Morning](https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN) | 4:00 | 2022-09-13 | 2022-10-04 |
 | [Spectral Morning](https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z) | 4:00 | 2022-06-29 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
 | [String of Raindrops](https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 3:10 | 2022-06-29 |  |
@@ -249,6 +249,7 @@
 | [The Sounds of Nature](https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [The Sounds of Nature](https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp) | 3:04 | 2022-06-29 |  |
 | [Timeline of the Magellan](https://open.spotify.com/track/6tmA9HzNzTa7wP2NxkaYHg) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Timeline of the Magellan](https://open.spotify.com/album/3lN0OcfkKbpIUw1DW6jlqV) | 3:03 | 2022-06-29 | 2022-07-29 |
 | [Toulouse](https://open.spotify.com/track/3xtVrtdGTnoYvDY0ra5MGY) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Toulouse](https://open.spotify.com/album/5Oo8aMBO6zxhlUBrn9mdhj) | 2:22 | 2022-07-19 | 2022-07-29 |
+| [Toulouse](https://open.spotify.com/track/4wvMF7ZYxzd2lLUThMpSAg) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Toulouse](https://open.spotify.com/album/0elj9tMQi6XMfd0FXlAdgj) | 2:22 | 2022-09-13 |  |
 | [Tranquillity](https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs) | 3:21 | 2022-07-19 |  |
 | [Tranquillity](https://open.spotify.com/track/4SicYFBGOGcfRHUG7YvJdg) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/1EvF3Q8ZtqnOTKmjsbwvi0) | 3:21 | 2022-06-29 | 2022-07-29 |
 | [Transcendental Heart](https://open.spotify.com/track/0jNgAQRBtZ3YxG4DdlXolj) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/6h3JRnJcVZsSZdaz8H3SXP) | 2:21 | 2022-06-29 | 2022-07-29 |

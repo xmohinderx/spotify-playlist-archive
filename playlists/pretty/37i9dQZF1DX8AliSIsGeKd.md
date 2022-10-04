@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Christian Löffler, Henry Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,074 likes - 79 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,137 likes - 79 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

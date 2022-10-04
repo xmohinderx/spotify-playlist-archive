@@ -1503,10 +1503,32 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 483082,
       "name": "Azul (feat. Mfana Kah Gogo)",
       "url": "https://open.spotify.com/track/2b5yxtBC6752lc8jsCESN5"
+    },
+    {
+      "album": {
+        "name": "Ba Straata",
+        "url": "https://open.spotify.com/album/2kTW8SQzsbrQwoLkctS8ze"
+      },
+      "artists": [
+        {
+          "name": "Officixl Megaohms",
+          "url": "https://open.spotify.com/artist/1zQrvGYvxwgSNCys79x3PV"
+        },
+        {
+          "name": "2wo Stones",
+          "url": "https://open.spotify.com/artist/6chKjXuTrsB6NobmkAn1GW"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363337,
+      "name": "Ba Straata",
+      "url": "https://open.spotify.com/track/37xCJFDUpuLicwYfK7PahH"
     },
     {
       "album": {
@@ -2683,7 +2705,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 411428,
       "name": "Chipi ke Chipi",
       "url": "https://open.spotify.com/track/1C2gBONK9MWmAo3HrCnzTQ"
@@ -4094,6 +4116,62 @@
     },
     {
       "album": {
+        "name": "Eningi (feat. Njelic, Simmy & Mhaw Keys)",
+        "url": "https://open.spotify.com/album/3wsRtKDPuxMFenDELyXgzl"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Mhaw Keys",
+          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407826,
+      "name": "Eningi (feat. Njelic, Simmy & Mhaw Keys)",
+      "url": "https://open.spotify.com/track/5JrMNZpXZ7CvFXhpc6cIp1"
+    },
+    {
+      "album": {
+        "name": "Ephathini",
+        "url": "https://open.spotify.com/album/27MC4CRf1IA1nDKjdytl6A"
+      },
+      "artists": [
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        },
+        {
+          "name": "King Strouck",
+          "url": "https://open.spotify.com/artist/5lyEByW7b7dBT0xQ2u7WHq"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320757,
+      "name": "Ephathini",
+      "url": "https://open.spotify.com/track/7xtrmREosfI3gsTD7yAaUG"
+    },
+    {
+      "album": {
         "name": "Etema",
         "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
       },
@@ -4895,6 +4973,36 @@
       "duration_ms": 498108,
       "name": "Halala (feat. Mellow & Sleazy)",
       "url": "https://open.spotify.com/track/2P22nuGMf26qeoX7P0oOuT"
+    },
+    {
+      "album": {
+        "name": "Scorpion Kings Live 2.0",
+        "url": "https://open.spotify.com/album/2OAuhg4AEBflBW2y0kOdCI"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407787,
+      "name": "Hamba Haa (feat. Nobantu Vilakazi & Young Stunna)",
+      "url": "https://open.spotify.com/track/7fOjvfsHsPQt0Tlyd5douJ"
     },
     {
       "album": {
@@ -5781,6 +5889,28 @@
       "duration_ms": 404212,
       "name": "Ingabe (feat. Spartz)",
       "url": "https://open.spotify.com/track/4FZCD4NAN5Joz1wKCB0AKT"
+    },
+    {
+      "album": {
+        "name": "Ingane Yabantu",
+        "url": "https://open.spotify.com/album/6GUDaCtnRUkXc7i5OARKEI"
+      },
+      "artists": [
+        {
+          "name": "MalumNator",
+          "url": "https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK"
+        },
+        {
+          "name": "Rusell Zuma",
+          "url": "https://open.spotify.com/artist/1d9DPUXhLCCtJGdVLd8Rx3"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465859,
+      "name": "Ingane Yabantu",
+      "url": "https://open.spotify.com/track/02Lo4dGKnI0MFudPAawTiu"
     },
     {
       "album": {
@@ -8549,7 +8679,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 419192,
       "name": "Marinate",
       "url": "https://open.spotify.com/track/5XFgSWhFtug2luDBjYJ565"
@@ -9065,6 +9195,28 @@
       "duration_ms": 325982,
       "name": "Mpho",
       "url": "https://open.spotify.com/track/3luCaFmvuKefOKazyvABNm"
+    },
+    {
+      "album": {
+        "name": "Mpolaye",
+        "url": "https://open.spotify.com/album/1wpjcYefHgg85JK4zt4IvM"
+      },
+      "artists": [
+        {
+          "name": "Dlala Regal",
+          "url": "https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK"
+        },
+        {
+          "name": "Maximum & Cowboy",
+          "url": "https://open.spotify.com/artist/5wKcsIerUHBpTLItqqGenP"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351450,
+      "name": "Mpolaye",
+      "url": "https://open.spotify.com/track/0TVYnw5g6Dz7Prt9qbrpa8"
     },
     {
       "album": {
@@ -11051,6 +11203,24 @@
       "duration_ms": 338272,
       "name": "Reya Mojolong (feat. Dr Malinga & LEON LEE)",
       "url": "https://open.spotify.com/track/2GNZurienmEqbGMpAcLudE"
+    },
+    {
+      "album": {
+        "name": "XpensiveClections, Vol. 41",
+        "url": "https://open.spotify.com/album/3d2jVmROpZoUKqDAAnmG94"
+      },
+      "artists": [
+        {
+          "name": "Muziqal Tone",
+          "url": "https://open.spotify.com/artist/0dswN69mvtfnBkONPK7ZkK"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411480,
+      "name": "Right Path",
+      "url": "https://open.spotify.com/track/76nN5lPc6vXweHee0mrBdf"
     },
     {
       "album": {

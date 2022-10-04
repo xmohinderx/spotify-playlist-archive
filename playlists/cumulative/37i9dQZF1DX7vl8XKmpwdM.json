@@ -310,6 +310,32 @@
     },
     {
       "album": {
+        "name": "Dhoom Dhaam (From \"Dasara\") - Tamil",
+        "url": "https://open.spotify.com/album/4mu7FeEKwUlcHTj5N9TxD5"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Santhosh Hariharan",
+          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
+        },
+        {
+          "name": "Meenakshi Elayaraja",
+          "url": "https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242019,
+      "name": "Dhoom Dhaam",
+      "url": "https://open.spotify.com/track/03CC6SSI9i2E8BG3f1MvEs"
+    },
+    {
+      "album": {
         "name": "Kaathuvaakula Rendu Kaadhal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz"
       },

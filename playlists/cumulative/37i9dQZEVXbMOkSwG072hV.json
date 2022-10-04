@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 170000,
       "name": "202",
       "url": "https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL"
@@ -453,10 +453,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "album": {
+        "name": "Agora Eu Quero \u00c9 Lula L\u00e1",
+        "url": "https://open.spotify.com/album/3qbZvptmrwlVfqLeyFQVJT"
+      },
+      "artists": [
+        {
+          "name": "Maderada",
+          "url": "https://open.spotify.com/artist/4Y8oZmeJmbpooOF0uD1NRp"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320872,
+      "name": "Agora Eu Quero \u00c9 Lula L\u00e1",
+      "url": "https://open.spotify.com/track/084RRLE3vLyu8PfonriKuu"
     },
     {
       "album": {
@@ -927,7 +945,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 180504,
       "name": "Assunto Delicado - Ao Vivo",
       "url": "https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 163426,
       "name": "Bagulho \u00c9 Loco Mano - Ao Vivo",
       "url": "https://open.spotify.com/track/5D6xHKz2ma8odghPs5zMgG"
@@ -2008,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "Bolsonaro \u00c9 o Melhor",
+        "url": "https://open.spotify.com/album/4lVh9qehVWf9u9nQzWPBSD"
+      },
+      "artists": [
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/6pmfJpKyAAUnKTiqq1xsDE"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182968,
+      "name": "Bolsonaro \u00c9 o Melhor",
+      "url": "https://open.spotify.com/track/1wiwxozTgRbZYIxW0XtjvL"
+    },
+    {
+      "album": {
         "name": "Bolsonaro \u00c9 o Melhor pro Meu Pa\u00eds",
         "url": "https://open.spotify.com/album/6N4OmGG4GbctZaMonTVh3Z"
       },
@@ -2113,6 +2149,28 @@
       "duration_ms": 135046,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
+    },
+    {
+      "album": {
+        "name": "Brasil Acordou (O Mito Chegou 2)",
+        "url": "https://open.spotify.com/album/5euEm4ADEYpmbkzLwTKAcF"
+      },
+      "artists": [
+        {
+          "name": "EL VENECO LOCO",
+          "url": "https://open.spotify.com/artist/2RVoEy4bdcyuwglLVCS9Vj"
+        },
+        {
+          "name": "VHEROINTER",
+          "url": "https://open.spotify.com/artist/5OLQ5LZeiXPFfQ44QA1US7"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233340,
+      "name": "Brasil Acordou (O Mito Chegou 2)",
+      "url": "https://open.spotify.com/track/1UxjBTNe076P3P5EUXvAZI"
     },
     {
       "album": {
@@ -4167,7 +4225,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 120503,
       "name": "Eu Acho Que Vi um Gatinho",
       "url": "https://open.spotify.com/track/3JJXjB4TtfJMQSqVl1Ul9y"
@@ -5012,6 +5070,24 @@
     },
     {
       "album": {
+        "name": "Vitroles",
+        "url": "https://open.spotify.com/album/4CWKYfKmyda017kDNMjIW7"
+      },
+      "artists": [
+        {
+          "name": "Vitroles",
+          "url": "https://open.spotify.com/artist/4xhEOz8sNMC2kkXsgyThuG"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275435,
+      "name": "Gatinha Comunista",
+      "url": "https://open.spotify.com/track/0LjY5kfLP4TfD8wX3plY62"
+    },
+    {
+      "album": {
         "name": "Pack De Ver\u00e3o",
         "url": "https://open.spotify.com/album/2jbR7bg87ugges28tYtOEA"
       },
@@ -5585,7 +5661,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
@@ -5789,7 +5865,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 139703,
       "name": "Imprevisto",
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
@@ -6602,6 +6678,24 @@
     },
     {
       "album": {
+        "name": "Lula 2022",
+        "url": "https://open.spotify.com/album/0gwfNewnKwiQCuk4CXAnE3"
+      },
+      "artists": [
+        {
+          "name": "Maderada",
+          "url": "https://open.spotify.com/artist/4Y8oZmeJmbpooOF0uD1NRp"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196388,
+      "name": "Lula 2022",
+      "url": "https://open.spotify.com/track/3J3oeKeRYWzYRuPKoOxzdY"
+    },
+    {
+      "album": {
         "name": "Lula L\u00e1 2022",
         "url": "https://open.spotify.com/album/6UzlPDtPjiPU2ukr9pCf6M"
       },
@@ -6617,6 +6711,50 @@
       "duration_ms": 110137,
       "name": "Lula L\u00e1 2022",
       "url": "https://open.spotify.com/track/7b1P6Ut5ehjeXhJ6SiPTrf"
+    },
+    {
+      "album": {
+        "name": "Festa do Lula, Vol. 1",
+        "url": "https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o"
+      },
+      "artists": [
+        {
+          "name": "Festa do Lula",
+          "url": "https://open.spotify.com/artist/3ZOpvSIzCBGbEeqiTcJxsG"
+        },
+        {
+          "name": "DJ F\u00e1bio ACM",
+          "url": "https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106444,
+      "name": "Lula L\u00e1 no Funk (O Pai T\u00e1 On)",
+      "url": "https://open.spotify.com/track/3ZKwh2EZwtbLl36lhJONuA"
+    },
+    {
+      "album": {
+        "name": "Festa do Lula, Vol. 1",
+        "url": "https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o"
+      },
+      "artists": [
+        {
+          "name": "Festa do Lula",
+          "url": "https://open.spotify.com/artist/3ZOpvSIzCBGbEeqiTcJxsG"
+        },
+        {
+          "name": "DJ F\u00e1bio ACM",
+          "url": "https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103594,
+      "name": "Lula L\u00e1 no Funk 150 Bpm",
+      "url": "https://open.spotify.com/track/33IX6O7YB75VvNQOmxzlry"
     },
     {
       "album": {
@@ -7219,7 +7357,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 217845,
       "name": "Medley S\u00f3 das Nova 2.0",
       "url": "https://open.spotify.com/track/1IdopRa5QT9qoQMppQjlzp"
@@ -7369,7 +7507,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 145960,
       "name": "Mega do Akon",
       "url": "https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7"
@@ -8815,7 +8953,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 205256,
       "name": "N\u00e3o Fosse T\u00e3o Tarde",
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
@@ -9598,6 +9736,28 @@
     },
     {
       "album": {
+        "name": "Passinho do Lula Livre (Brega Funk)",
+        "url": "https://open.spotify.com/album/08PzeVAinjZyDgDTYWMuXo"
+      },
+      "artists": [
+        {
+          "name": "KONG",
+          "url": "https://open.spotify.com/artist/2sUUeYWv54N5yOBwgNor6U"
+        },
+        {
+          "name": "Mano Neto",
+          "url": "https://open.spotify.com/artist/3S1JlDW2aGJBIazYQQYxgG"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134113,
+      "name": "Passinho do Lula Livre",
+      "url": "https://open.spotify.com/track/3H1ryMuJhgOCNx5e640u7L"
+    },
+    {
+      "album": {
         "name": "As 20 Mais",
         "url": "https://open.spotify.com/album/4H4QhPQO53houbnuplv7u6"
       },
@@ -9627,7 +9787,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 166930,
       "name": "Pega o Guanabara",
       "url": "https://open.spotify.com/track/57rCopayc4wJL7jQZaRvtn"
@@ -9763,7 +9923,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 118740,
       "name": "PHONK ANTIDEPRESSIVO",
       "url": "https://open.spotify.com/track/4C8fQhQ9qvLxJ2B2xd9ILg"
@@ -10565,6 +10725,24 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "Rap do Bolsonaro",
+        "url": "https://open.spotify.com/album/3jP4MUdG00FRJgmCxaDtO3"
+      },
+      "artists": [
+        {
+          "name": "Raylton Soares",
+          "url": "https://open.spotify.com/artist/0M2bYjItaK1AJ3dRuAJR7e"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143830,
+      "name": "Rap do Bolsonaro",
+      "url": "https://open.spotify.com/track/7xbMrAhm25dmsl2YJsuHbW"
     },
     {
       "album": {
@@ -11513,7 +11691,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 578666,
       "name": "Set Wesley Alem\u00e3o",
       "url": "https://open.spotify.com/track/5fstoJBdyj9Yvhe4W5hmEP"
@@ -12378,6 +12556,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
       },
@@ -12916,6 +13112,28 @@
     },
     {
       "album": {
+        "name": "Traz de Volta o Lula e Manda Embora o Bolsonaro",
+        "url": "https://open.spotify.com/album/3XXHD09mS7ND3cACWcilwZ"
+      },
+      "artists": [
+        {
+          "name": "MC Lil",
+          "url": "https://open.spotify.com/artist/70Xuy7hYKF1SMmWsrIuwit"
+        },
+        {
+          "name": "MC Koban",
+          "url": "https://open.spotify.com/artist/1DbHXtBNm674GMpTHOj7iy"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132949,
+      "name": "Traz de Volta o Lula e Manda Embora o Bolsonaro",
+      "url": "https://open.spotify.com/track/3zHhmDnPEKM4ZbeDStAmXH"
+    },
+    {
+      "album": {
         "name": "TREM MAIS CARO",
         "url": "https://open.spotify.com/album/1qTSxVOkahEJIEg9wCpOuG"
       },
@@ -13096,6 +13314,46 @@
     },
     {
       "album": {
+        "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
+        "url": "https://open.spotify.com/album/2iMogSRFO3aYVPaubhxlsT"
+      },
+      "artists": [
+        {
+          "name": "Tiago Doid\u00e3o",
+          "url": "https://open.spotify.com/artist/6JyfXyzoX303xiXFwhT9Za"
+        },
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202342,
+      "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
+      "url": "https://open.spotify.com/track/3pgKhQdt8MNXUhh9698qmi"
+    },
+    {
+      "album": {
+        "name": "T\u00f4 Com Jair de Novo",
+        "url": "https://open.spotify.com/album/3XZY3Fup1F5n3vdc5tZiRO"
+      },
+      "artists": [
+        {
+          "name": "Alcides Fernandes",
+          "url": "https://open.spotify.com/artist/76D4MgycxhaRzPkouX1s0A"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141076,
+      "name": "T\u00f4 Com Jair de Novo",
+      "url": "https://open.spotify.com/track/5D9IdfkaEot66SIXMqNlxO"
+    },
+    {
+      "album": {
         "name": "T\u00f4 Com Saudade do Tempo de Lula",
         "url": "https://open.spotify.com/album/3Mpe6QRkfPEDM7NOIEvSiR"
       },
@@ -13253,7 +13511,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -13341,6 +13599,24 @@
       "duration_ms": 132922,
       "name": "Uptown Funk Remix RJ",
       "url": "https://open.spotify.com/track/30oKgF1npDvpJCtXXum3zz"
+    },
+    {
+      "album": {
+        "name": "Vai dar PT",
+        "url": "https://open.spotify.com/album/5meX0ewl7cSOu4hwzXC5Ez"
+      },
+      "artists": [
+        {
+          "name": "MC Rahell",
+          "url": "https://open.spotify.com/artist/3A1pTNTVgpjpO39ORulNs2"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165558,
+      "name": "Vai dar PT",
+      "url": "https://open.spotify.com/track/4Ti7WdCbPoxBBURxuY6sT9"
     },
     {
       "album": {

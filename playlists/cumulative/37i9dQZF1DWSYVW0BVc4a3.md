@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Tchami
 
-176 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+177 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Home \- Boys Noize Remix](https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nobody Is Not Loved, Remixes, Pt\. 4](https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4) | 6:17 | 2022-08-18 |  |
 | [Honestly](https://open.spotify.com/track/3vDDjEp1Lz1bMEk8aTjsnh) | [Hans Göran](https://open.spotify.com/artist/6F7CMx98eH22djdP4iCkpf) | [After Party With Hans Göran](https://open.spotify.com/album/218naG7hza42P4SKV3qna7) | 3:58 | 2022-09-15 | 2022-09-23 |
 | [Hours and Hours](https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Hours and Hours](https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df) | 4:05 | 2022-09-22 |  |
-| [Human Shape \- warner case Remix](https://open.spotify.com/track/6JlDfotRZUlQ61TQSMfA1A) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [DREAM SOUP \(Remixes\)](https://open.spotify.com/album/6ShdN890xoqUKFSZRngm1A) | 4:15 | 2022-09-01 |  |
+| [Human Shape \- warner case Remix](https://open.spotify.com/track/6JlDfotRZUlQ61TQSMfA1A) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [DREAM SOUP \(Remixes\)](https://open.spotify.com/album/6ShdN890xoqUKFSZRngm1A) | 4:15 | 2022-09-01 | 2022-10-04 |
 | [Hunger For Your Vibe \- Moonwalk Remix](https://open.spotify.com/track/4YUM6w6KqQLEwxi3ShRA8T) | [Arm In Arm](https://open.spotify.com/artist/1nWTuAPoIl3Ig7QUxuFgdl), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Hunger for Your Vibe](https://open.spotify.com/album/214rxKKvsoEgvjDgZ7aUDk) | 6:32 | 2022-08-19 | 2022-08-26 |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2022-08-18 | 2022-08-20 |
 | [I Wanna \- Tchami Remix](https://open.spotify.com/track/4Z0OyS2aO8BXWY5sXSTwQc) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [I Wanna \(Tchami Remix\)](https://open.spotify.com/album/3YKX15J8s5PYibjYBwoSoz) | 3:35 | 2022-08-25 |  |
@@ -112,6 +112,7 @@
 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 | 2022-08-18 |  |
 | [My Purple iPod Nano](https://open.spotify.com/track/0Zp9bIm1BeIyFiYNAof3Sm) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/3GSIeTBRBAxSji76YI1uHn) | 6:52 | 2022-09-22 |  |
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2022-08-18 | 2022-08-20 |
+| [Never Forget](https://open.spotify.com/track/1TVnI6At2nP5bnWFKk2s5y) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 6:05 | 2022-09-30 |  |
 | [Never Gonna Get It](https://open.spotify.com/track/0QEbtIIK5pwcZZYuzjTOZB) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Never Gonna Get It](https://open.spotify.com/album/3CxpaBghJW3Rjm6cY3WWRS) | 2:50 | 2022-09-01 |  |
 | [Nice To Arise \- Edit](https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt) | [Nice To Arise](https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf) | 4:01 | 2022-08-18 | 2022-09-30 |
 | [No One Anyone](https://open.spotify.com/track/1IGVRVFUV0OtktKxymfLg7) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [No One Anyone](https://open.spotify.com/album/6Xc2f9tYdZtXMoO0aTosLV) | 4:25 | 2022-08-18 |  |

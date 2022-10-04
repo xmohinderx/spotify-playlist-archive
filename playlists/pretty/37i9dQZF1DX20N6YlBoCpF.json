@@ -1,13 +1,29 @@
 {
   "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262?si=Vs4aByj4SRSSW_bcV7-TrA\">Jacques Leonard</a>",
-  "num_followers": 589,
+  "num_followers": 697,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMGIxZjM2YzljNzZjNTcxMzU2YmY3YWUzOWJjODNhZTM4",
+  "snapshot_id": "MTY2NDc5NjU0OSwwMDAwMDAwMGUwMTI1YWUzYWY4NDg3MzYzOGM0ZWZiZGM3ODliNjk2",
   "tracks": [
+    {
+      "added_at": "2022-10-03 11:29:09",
+      "album": {
+        "name": "Seisoen 2 - Top 5",
+        "url": "https://open.spotify.com/album/7mY9sILLbKkZjJOeoJp4Fp"
+      },
+      "artists": [
+        {
+          "name": "Samantha Leonard",
+          "url": "https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw"
+        }
+      ],
+      "duration_ms": 186439,
+      "name": "My Hele Lyf",
+      "url": "https://open.spotify.com/track/3HTL5qBOzXLFU5snDl5krF"
+    },
     {
       "added_at": "2022-09-29 21:59:00",
       "album": {
@@ -343,6 +359,22 @@
       "duration_ms": 145684,
       "name": "EEN TWEE",
       "url": "https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2"
+    },
+    {
+      "added_at": "2022-10-03 11:29:09",
+      "album": {
+        "name": "Skuiling",
+        "url": "https://open.spotify.com/album/3lsrsVNzUET0EIbUMCIda2"
+      },
+      "artists": [
+        {
+          "name": "Bouwer Bosch",
+          "url": "https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te"
+        }
+      ],
+      "duration_ms": 219498,
+      "name": "Skuiling",
+      "url": "https://open.spotify.com/track/2Zxrvy0wT08SxsVkrlI8As"
     },
     {
       "added_at": "2022-09-01 21:59:00",
@@ -709,22 +741,6 @@
       "url": "https://open.spotify.com/track/265KkVKacgXwcrLQuLj9ON"
     },
     {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Die Breils",
-        "url": "https://open.spotify.com/album/5TW1O0JwrQHoEm99vysUjQ"
-      },
-      "artists": [
-        {
-          "name": "Frans Karoo",
-          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Die Breils",
-      "url": "https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM"
-    },
-    {
       "added_at": "2022-08-11 21:59:00",
       "album": {
         "name": "Ry of Bly",
@@ -739,30 +755,6 @@
       "duration_ms": 226688,
       "name": "Ry of Bly",
       "url": "https://open.spotify.com/track/311QQk1V1MiuEC4qB5CR50"
-    },
-    {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "Happy Family",
-        "url": "https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        },
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd"
-        },
-        {
-          "name": "Bliksemstraal",
-          "url": "https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ"
-        }
-      ],
-      "duration_ms": 244956,
-      "name": "Happy Family",
-      "url": "https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir"
     },
     {
       "added_at": "2022-08-11 21:59:00",

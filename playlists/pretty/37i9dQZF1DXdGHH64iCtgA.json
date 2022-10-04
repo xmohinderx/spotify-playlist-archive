@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 53277,
+  "num_followers": 53319,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMwNDg2NywwMDAwMDAwMGVkYmVmNjNmZDNkNTg3NmJkOTA1NzkxMDQ4YzQyZGIy",
+  "snapshot_id": "MTY2NDMwNDg2NywwMDAwMDAwMGU3MTI4YjY2ZGIyMjdlZGNjY2I3ZTk1MDgzZTg2OGUx",
   "tracks": [
     {
       "added_at": "2022-09-27 18:54:27",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "Han Jan",
+        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 242982,
+      "name": "Han Jan - Edit",
+      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Mind Fruit",
         "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 228586,
       "name": "Zhudio54",
       "url": "https://open.spotify.com/track/2mIHEm6ZbKQ6ieeUeAlag3"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "Han Jan",
-        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 242982,
-      "name": "Han Jan - Edit",
-      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "Crispy Bacon",
+      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Sharevari",
         "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 351306,
       "name": "Sharevari",
       "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
-      },
-      "artists": [
-        {
-          "name": "Laurent Garnier",
-          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "Crispy Bacon",
-      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Woodpecker",
-        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
-      },
-      "artists": [
-        {
-          "name": "Castelle",
-          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
       },
@@ -927,22 +911,18 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "First Album (2009 Reissue)",
-        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
+        "name": "Woodpecker",
+        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
       },
       "artists": [
         {
-          "name": "Miss Kittin",
-          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
-        },
-        {
-          "name": "The Hacker",
-          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+          "name": "Castelle",
+          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
         }
       ],
-      "duration_ms": 319493,
-      "name": "1982",
-      "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
+      "duration_ms": 206440,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -963,6 +943,26 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "First Album (2009 Reissue)",
+        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
+      },
+      "artists": [
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "1982",
+      "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "F*ck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "F*ck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 187000,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Family Portrait",
-        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 306118,
-      "name": "Thank God I'm A Lizard",
-      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Pain In The Ass",
         "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 400373,
       "name": "Pain In The Ass - Original Mix",
       "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Family Portrait",
+        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 306118,
+      "name": "Thank God I'm A Lizard",
+      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Amniotic",
         "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 432266,
       "name": "Return to Oz",
       "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Galazy EP",
-        "url": "https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 412197,
-      "name": "Electrian",
-      "url": "https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Club Eat",
         "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 234146,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Galazy EP",
+        "url": "https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 412197,
+      "name": "Electrian",
+      "url": "https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 405768,
-      "name": "Just Us",
-      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Young Lies",
         "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 230839,
       "name": "Young Lies",
       "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 405768,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 244499,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "DIAMOND TAPE",
         "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
       },
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
-      },
-      "artists": [
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 149051,
-      "name": "Composure",
-      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Delicate Limbs (feat. serpentwithfeet)",
         "url": "https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr"
       },
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
         }
       ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+      "duration_ms": 149051,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
     }
   ],
   "unique_name": "Runway",

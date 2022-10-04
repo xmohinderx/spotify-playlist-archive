@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-159 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+160 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All Of Me](https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 3:18 | 2022-02-23 |  |
 | [All the Things You Are](https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 5:51 | 2022-02-23 |  |
 | [Alone Together](https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:51 | 2022-02-23 |  |
+| [April In Paris](https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54) | [Lionel Hampton Quintet](https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd) | [The Lionel Hampton Quintet](https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh) | 6:22 | 2022-09-22 |  |
 | [Autumn Leaves](https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 6:10 | 2022-09-15 |  |
 | [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 | 2022-02-23 |  |
 | [Blue Friday \- Rudy Van Gelder Remaster](https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn) | 8:44 | 2022-02-23 |  |
@@ -149,7 +150,7 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 4:45 | 2022-02-23 |  |
 | [Twelve More Bars To Go](https://open.spotify.com/track/64zWqacsqNgPPYtjunGYxj) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Juju](https://open.spotify.com/album/34UpyT7OR59DvQjUsf4ufY) | 5:28 | 2022-04-08 | 2022-07-29 |
 | [Twelve More Bars To Go \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 5:31 | 2022-06-22 |  |
-| [Two Left Feet](https://open.spotify.com/track/1USso5XOEXTvwWTwW5zS2V) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Jump For Joy](https://open.spotify.com/album/0A5J6BzWSkpp8l4ju04hCu) | 3:15 | 2022-02-23 |  |
+| [Two Left Feet](https://open.spotify.com/track/1USso5XOEXTvwWTwW5zS2V) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Jump For Joy](https://open.spotify.com/album/0A5J6BzWSkpp8l4ju04hCu) | 3:15 | 2022-02-23 | 2022-10-04 |
 | [Uncharted](https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Lee Konitz Meets Jimmy Giuffre](https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs) | 3:55 | 2022-02-23 |  |
 | [Under A Blanket Of Blue](https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:36 | 2022-02-23 |  |
 | [Unsentimental](https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Unsentimental](https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d) | 5:00 | 2022-02-23 | 2022-09-01 |

@@ -1,12 +1,12 @@
 {
   "description": "That unbridled, unholy, loud and dirty 90s rock goodness you know you love",
-  "num_followers": 106158,
+  "num_followers": 106233,
   "original_name": "Cranked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzY4MCwwMDAwMDAwMDczOTAyZWEwYmFlODk2MzZiZjIxNmI0MjQ0NjI2NzYy",
+  "snapshot_id": "MTY1NjUyNzY4MCwwMDAwMDAwMDYwOGYzYTJkZDg2ZTc0YTE3ODhiMDgzZGYwZjgwZTVk",
   "tracks": [
     {
       "added_at": "2022-06-29 18:33:46",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Saint Joe On The School Bus",
-      "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Saint Joe On The School Bus",
+      "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
     },
     {
       "added_at": "2022-06-29 18:33:46",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Boggy Depot",
-        "url": "https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5"
-      },
-      "artists": [
-        {
-          "name": "Jerry Cantrell",
-          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cut You In",
-      "url": "https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Title Of Record (Expanded Edition)",
         "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 460400,
       "name": "Welcome To The Fold",
       "url": "https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Boggy Depot",
+        "url": "https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5"
+      },
+      "artists": [
+        {
+          "name": "Jerry Cantrell",
+          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Cut You In",
+      "url": "https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz"
     },
     {
       "added_at": "2022-06-29 18:33:46",

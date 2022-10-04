@@ -1,12 +1,12 @@
 {
   "description": "ft. Bladee",
-  "num_followers": 343294,
+  "num_followers": 343469,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1NDAzMywwMDAwMDAwMDJjN2NhMGFiNDM0NTUwN2E3NjQwMDlmMGI5YzU2MjU3",
+  "snapshot_id": "MTY2NDgwNTI0NywwMDAwMDAwMDZkZGUwNDU1MDZlMDhhZmExMGM2NTE0NjU5ZTgzM2M0",
   "tracks": [
     {
       "added_at": "2022-09-30 04:05:00",
@@ -595,6 +595,26 @@
       "duration_ms": 212415,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi"
+    },
+    {
+      "added_at": "2022-10-03 13:54:06",
+      "album": {
+        "name": "memoryland enhanced",
+        "url": "https://open.spotify.com/album/5sZPUIuGwiLmESF5oUYHDs"
+      },
+      "artists": [
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        },
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 215207,
+      "name": "Self Service 1999 - Instupendo Remix",
+      "url": "https://open.spotify.com/track/5Kvt6aNWqK7o1fjmo12RzQ"
     },
     {
       "added_at": "2022-09-23 07:48:00",

@@ -1,15 +1,15 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: Social Club Misfits",
-  "num_followers": 106073,
+  "num_followers": 106088,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MDAxMywwMDAwMDAwMDg5OTNiYmVmNDYwODFhODFiYzgzNTU2YTEzZTFmYWUw",
+  "snapshot_id": "MTY2NDU0MDAxMywwMDAwMDAwMGZjYmM4YzZjMGFlYzQ2MDZjOGUyY2E4OTkyNDU2MDg3",
   "tracks": [
     {
-      "added_at": "2022-10-03 01:52:40",
+      "added_at": "2022-10-04 01:59:23",
       "album": {
         "name": "Everyone Loves A Comeback Story",
         "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5"
     },
     {
-      "added_at": "2022-10-03 01:52:40",
+      "added_at": "2022-10-04 01:59:23",
       "album": {
         "name": "NEW HOLLYWOOD",
         "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/0FhAXhjJFYLsY9FLiIG7hG"
     },
     {
-      "added_at": "2022-10-03 01:52:40",
+      "added_at": "2022-10-04 01:59:23",
       "album": {
         "name": "Hero or Heretic",
         "url": "https://open.spotify.com/album/1bmnYHC80kpCd4VXygxgK8"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/4vlHqh3N5W8L1uyf8PQp0a"
     },
     {
-      "added_at": "2022-10-03 01:52:40",
+      "added_at": "2022-10-04 01:59:23",
       "album": {
         "name": "josiah.",
         "url": "https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q"
     },
     {
-      "added_at": "2022-10-03 01:52:40",
+      "added_at": "2022-10-04 01:59:23",
       "album": {
         "name": "Some Mud Mud",
         "url": "https://open.spotify.com/album/4VPgVqmIQaKSnyWhGkVviF"
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Who That Is",
-        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
-      },
-      "artists": [
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Dj Laz",
-          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Who That Is",
-      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 150169,
       "name": "Glory",
       "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "Who That Is",
+        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Dj Laz",
+          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Who That Is",
+      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ"
     },
     {
+      "added_at": "2022-10-04 01:59:23",
+      "album": {
+        "name": "SLEEPIN!",
+        "url": "https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "SLEEPIN!",
+      "url": "https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz"
+    },
+    {
       "added_at": "2022-09-16 10:23:50",
       "album": {
         "name": "GOD IS THE BEST",
@@ -837,6 +853,26 @@
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
     },
     {
+      "added_at": "2022-10-04 01:59:23",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
+    },
+    {
       "added_at": "2022-09-16 10:23:50",
       "album": {
         "name": "Ghost",
@@ -859,22 +895,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
       },
@@ -893,24 +913,36 @@
       "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
     },
     {
-      "added_at": "2022-10-03 01:52:40",
+      "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
       "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
         {
           "name": "Aaron Cole",
           "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2022-10-04 01:59:23",
+      "album": {
+        "name": "I Need Peace",
+        "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 201632,
+      "name": "I Need Peace",
+      "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -931,38 +963,6 @@
       "duration_ms": 163578,
       "name": "WAY MAKER",
       "url": "https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG"
-    },
-    {
-      "added_at": "2022-10-03 01:52:40",
-      "album": {
-        "name": "I Need Peace",
-        "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 201632,
-      "name": "I Need Peace",
-      "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
-    },
-    {
-      "added_at": "2022-10-03 01:52:40",
-      "album": {
-        "name": "SLEEPIN!",
-        "url": "https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "SLEEPIN!",
-      "url": "https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Night Club",
-        "url": "https://open.spotify.com/album/1KS3JLb1BNIQbAITY60fZr"
-      },
-      "artists": [
-        {
-          "name": "DaShawn Shaunt\u00e1",
-          "url": "https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9"
-        }
-      ],
-      "duration_ms": 202468,
-      "name": "Night Club",
-      "url": "https://open.spotify.com/track/2ie1cOWQet91iWwmAQVkWB"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "I Will Not",
         "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
+        "name": "M.I.A",
+        "url": "https://open.spotify.com/album/6TNEfEoTnAGI5z3PNCglnP"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/0K8B3du7m7vKt7HOVSd6jo"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
         "name": "Pray 2 God",
         "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "M.I.A",
-        "url": "https://open.spotify.com/album/6TNEfEoTnAGI5z3PNCglnP"
+        "name": "Night Club",
+        "url": "https://open.spotify.com/album/1KS3JLb1BNIQbAITY60fZr"
       },
       "artists": [
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+          "name": "DaShawn Shaunt\u00e1",
+          "url": "https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9"
         }
       ],
-      "duration_ms": 222040,
-      "name": "M.I.A",
-      "url": "https://open.spotify.com/track/0K8B3du7m7vKt7HOVSd6jo"
+      "duration_ms": 202468,
+      "name": "Night Club",
+      "url": "https://open.spotify.com/track/2ie1cOWQet91iWwmAQVkWB"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
+        "name": "Underdogs",
+        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+        }
+      ],
+      "duration_ms": 197064,
+      "name": "Underdogs",
+      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
         "name": "Catch These Hands (Remix)",
         "url": "https://open.spotify.com/album/7APamlqElimCKW62z0yKFf"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 207068,
       "name": "ON THA SEAT",
       "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
-        "name": "Underdogs",
-        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
-        }
-      ],
-      "duration_ms": 197064,
-      "name": "Underdogs",
-      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1307,22 +1307,18 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
-        "url": "https://open.spotify.com/album/16pKMIfIYBEjM07BbecHyt"
+        "name": "CEMENT",
+        "url": "https://open.spotify.com/album/53vr8FfzSeDiHXkQSiPRy0"
       },
       "artists": [
         {
-          "name": "GOOD",
-          "url": "https://open.spotify.com/artist/4aKNNQeNgCES2nItLl3WbN"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
         }
       ],
-      "duration_ms": 215225,
-      "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
-      "url": "https://open.spotify.com/track/1tgeZZiy44qDSWtOSttxPH"
+      "duration_ms": 153495,
+      "name": "CEMENT",
+      "url": "https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "CEMENT",
-        "url": "https://open.spotify.com/album/53vr8FfzSeDiHXkQSiPRy0"
+        "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
+        "url": "https://open.spotify.com/album/16pKMIfIYBEjM07BbecHyt"
       },
       "artists": [
         {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+          "name": "GOOD",
+          "url": "https://open.spotify.com/artist/4aKNNQeNgCES2nItLl3WbN"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 153495,
-      "name": "CEMENT",
-      "url": "https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ"
+      "duration_ms": 215225,
+      "name": "I Think (Securus Original Hip Hop Track Winner, Carmela Mose)",
+      "url": "https://open.spotify.com/track/1tgeZZiy44qDSWtOSttxPH"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1371,6 +1371,30 @@
       "duration_ms": 120888,
       "name": "butterfly vibes 2",
       "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
+    },
+    {
+      "added_at": "2022-10-04 01:59:23",
+      "album": {
+        "name": "Grind (feat. Kaleb Mitchell)",
+        "url": "https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Kaleb Mitchell",
+          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Grind (feat. Kaleb Mitchell)",
+      "url": "https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1427,22 +1451,6 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "Ten Thousand Hours",
-        "url": "https://open.spotify.com/album/15c44B9FUOfV2YdzouRKRE"
-      },
-      "artists": [
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        }
-      ],
-      "duration_ms": 140511,
-      "name": "Ten Thousand Hours",
-      "url": "https://open.spotify.com/track/53kWZsSMteWce3cjqFGiXJ"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
         "name": "shadows",
         "url": "https://open.spotify.com/album/3kgOrJKObfGSJpNKhUimF2"
       },
@@ -1463,18 +1471,18 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "ALREADY",
-        "url": "https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt"
+        "name": "Ten Thousand Hours",
+        "url": "https://open.spotify.com/album/15c44B9FUOfV2YdzouRKRE"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
         }
       ],
-      "duration_ms": 181846,
-      "name": "ALREADY",
-      "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
+      "duration_ms": 140511,
+      "name": "Ten Thousand Hours",
+      "url": "https://open.spotify.com/track/53kWZsSMteWce3cjqFGiXJ"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1495,6 +1503,22 @@
       "duration_ms": 158508,
       "name": "After",
       "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
+        "name": "ALREADY",
+        "url": "https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "ALREADY",
+      "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1579,30 +1603,6 @@
       "duration_ms": 149427,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB"
-    },
-    {
-      "added_at": "2022-10-03 01:52:40",
-      "album": {
-        "name": "Grind (feat. Kaleb Mitchell)",
-        "url": "https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Kaleb Mitchell",
-          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Grind (feat. Kaleb Mitchell)",
-      "url": "https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
+      },
+      "artists": [
+        {
+          "name": "Yung Titan",
+          "url": "https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU"
+        }
+      ],
+      "duration_ms": 245643,
+      "name": "Already Won",
+      "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
+    },
+    {
+      "added_at": "2022-09-16 10:23:50",
+      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf"
       },
@@ -1781,20 +1797,24 @@
       "url": "https://open.spotify.com/track/0VEWtaWmA0ATE9KlL4ifOF"
     },
     {
-      "added_at": "2022-09-16 10:23:50",
+      "added_at": "2022-10-04 01:59:23",
       "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
+        "name": "Stickin",
+        "url": "https://open.spotify.com/album/3U8Vj4e07qmOWWcs2O3uBX"
       },
       "artists": [
         {
-          "name": "Yung Titan",
-          "url": "https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU"
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Foolie Vision",
+          "url": "https://open.spotify.com/artist/2nDlD7zB6lFms9wIabvCfd"
         }
       ],
-      "duration_ms": 245643,
-      "name": "Already Won",
-      "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
+      "duration_ms": 111549,
+      "name": "Stickin",
+      "url": "https://open.spotify.com/track/7Bch9LNK8Ukbi6yKoMBV6W"
     },
     {
       "added_at": "2022-09-16 10:23:50",
@@ -1827,46 +1847,18 @@
     {
       "added_at": "2022-09-16 10:23:50",
       "album": {
-        "name": "BEST NIGHT",
-        "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
+        "name": "Back n Bold (Freestyle)",
+        "url": "https://open.spotify.com/album/1yJUJuRAFOBMraPspNinhk"
       },
       "artists": [
         {
-          "name": "RAY G",
-          "url": "https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C"
-        },
-        {
-          "name": "OnBeatMusic",
-          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
-        },
-        {
-          "name": "Joey Vantes",
-          "url": "https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc"
-        },
-        {
-          "name": "A. Ruiz",
-          "url": "https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 161965,
-      "name": "BEST NIGHT",
-      "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
-    },
-    {
-      "added_at": "2022-09-16 10:23:50",
-      "album": {
-        "name": "On E",
-        "url": "https://open.spotify.com/album/4gQCujCBEvRnIQXqBAsMhT"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 131562,
-      "name": "On E",
-      "url": "https://open.spotify.com/track/5uqL2uoXy0nEWa89wyPn6N"
+      "duration_ms": 139413,
+      "name": "Back n Bold (Freestyle)",
+      "url": "https://open.spotify.com/track/3EaGISYIc4dx7KRIHwkzhK"
     }
   ],
   "unique_name": "The Flow",

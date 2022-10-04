@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-160 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
+163 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,12 +17,14 @@
 | [24H](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [24H](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) | 3:08 | 2022-05-27 |  |
 | [9\-TEEN](https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN2 Part.2](https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk) | 3:17 | 2022-05-27 |  |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-21 |  |
+| [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 | 2022-10-03 |  |
 | [A\-TEEN](https://open.spotify.com/track/5P0Uo1LqAgvFuxabQMe81X) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN Part.3](https://open.spotify.com/album/62kX5esOPtWPjfCbT7tQwb) | 3:16 | 2022-05-27 |  |
 | [Adore U](https://open.spotify.com/track/6wtgR5ZVbOZPHIeMNQwugp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:06 | 2022-05-27 |  |
 | [Ah Yeah](https://open.spotify.com/track/6HzEfSRlDNkgmOZBvedvM6) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:29 | 2022-05-27 |  |
 | [AH! LOVE](https://open.spotify.com/track/5TgfB8nBnuKaytBbjmrzO7) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:14 | 2022-05-27 |  |
 | [All My Love](https://open.spotify.com/track/11zGbqR6W7biyOgSm3WGSO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:21 | 2022-05-27 |  |
 | [Anyone](https://open.spotify.com/track/12jngD7Hu6if6sIzPkO2k4) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 2:56 | 2022-05-27 |  |
+| [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 | 2022-10-03 |  |
 | [Back it up](https://open.spotify.com/track/4pN9w7hR7aJfLggCeeEzfA) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:07 | 2022-05-27 | 2022-07-29 |
 | [Back it up](https://open.spotify.com/track/6c5ccrEzRtGQdIM04xNtSI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:07 | 2022-07-21 |  |
 | [BEAUTIFUL](https://open.spotify.com/track/0fK4XOE0TjcXOcMezZtncZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:37 | 2022-05-27 |  |
@@ -102,6 +104,7 @@
 | [Lie Again](https://open.spotify.com/track/5uUK45snr9SPeUuI2aubcF) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:20 | 2022-07-21 |  |
 | [Light a Flame](https://open.spotify.com/track/2QeqvHnADmf2fN5sowptuO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:09 | 2022-05-27 |  |
 | [Lilili Yabbay](https://open.spotify.com/track/55M6WlPDc8WID9UcmWjbYM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 | 2022-05-27 |  |
+| [LIMBO \(Korean Version\)](https://open.spotify.com/track/54p6HYutzI4V4aXN0UiJ8n) | [文俊辉](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [LIMBO](https://open.spotify.com/album/29gF3Vhnhbl33dNe9VPRkJ) | 3:10 | 2022-10-03 |  |
 | [Looped Up \(feat\. VERNON\)](https://open.spotify.com/track/5InZzHAvyMPSMEXT4AeDQ3) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:31 | 2022-05-27 |  |
 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 | 2022-05-27 |  |
 | [Love Letter](https://open.spotify.com/track/5UZJPEEup9UVUojRKXcv0f) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1ST ALBUM \[FIRST ‘LOVE&LETTER’\]](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 2:58 | 2022-05-27 |  |

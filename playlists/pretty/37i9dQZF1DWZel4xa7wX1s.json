@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89342,
+  "num_followers": 89337,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDViNzU5ZmUwODZkNzFiOGI5ZTJmMDNiOTgxZGQyNjU3",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDg2MmJmZDhjY2JkN2NiNzJjMzczMGE5MjY2OWY4ZjQ1",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -127,6 +127,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -283,22 +283,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Orphans / Arabesque",
-        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Orphans",
-      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Chip Tooth Smile",
         "url": "https://open.spotify.com/album/0vCpM6bbidKly1aRrf8wmz"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 167586,
       "name": "Need To Know",
       "url": "https://open.spotify.com/track/6EkQmHBoux7iqK4vjfHq4V"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Orphans / Arabesque",
+        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Orphans",
+      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -411,6 +411,38 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "CLOSURE",
+        "url": "https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 176044,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/0HT2pC2Wcl2GGyDTcCWpLU"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 197839,
+      "name": "Until The Hurting Is Gone",
+      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Ahimsa",
         "url": "https://open.spotify.com/album/7N2UQW7AWRh40cWqlB7JvL"
       },
@@ -427,22 +459,6 @@
       "duration_ms": 230540,
       "name": "Ahimsa",
       "url": "https://open.spotify.com/track/588dEScku8LSP1Ubp2wyaG"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "CLOSURE",
-        "url": "https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 176044,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/0HT2pC2Wcl2GGyDTcCWpLU"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -475,22 +491,6 @@
       "duration_ms": 224703,
       "name": "Blind Leading the Blind",
       "url": "https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "1975",
-        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 197839,
-      "name": "Until The Hurting Is Gone",
-      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -683,6 +683,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Tucson Train",
+      "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "WHO (Deluxe)",
         "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 216800,
       "name": "My Love Goes On (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Tucson Train",
-      "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -995,6 +995,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Fuh You",
+        "url": "https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 203719,
+      "name": "Fuh You",
+      "url": "https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Streets of You",
         "url": "https://open.spotify.com/album/55TITZzyt9c9nDAljqL1l0"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 241226,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/0JahrDBriRtoaO473f00rk"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Fuh You",
-        "url": "https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 203719,
-      "name": "Fuh You",
-      "url": "https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ"
     },
     {
       "added_at": "2019-11-29 09:37:55",

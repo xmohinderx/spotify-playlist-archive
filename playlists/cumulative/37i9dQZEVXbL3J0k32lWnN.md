@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-802 songs - 1 day 17 hr 58 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+803 songs - 1 day 18 hr 1 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [hvad skal verden med sådan en som mig?](https://open.spotify.com/track/3lt2vb4iuIJrvIccs2IlBU) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hvad skal verden med sådan en som mig?](https://open.spotify.com/album/0xzd8eDk9uNa8VoqecuEHz) | 2:46 | 2022-08-20 |  |
 | [Hver Gang](https://open.spotify.com/track/444QL7u04SrHw1ioOj95zr) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:21 | 2022-02-19 | 2022-02-25 |
 | [Hvor Fuck Er Min Drink? \(Artigeardit X Lamin\)](https://open.spotify.com/track/30KGnbcvT3AccikrqNKmek) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Hvor Fuck Er Min Drink? \(Artigeardit X Lamin\)](https://open.spotify.com/album/5ZEG6UxnoC4X9X60TT5GoA) | 2:19 | 2021-10-10 | 2021-10-21 |
-| [Hvor Fuck Er Min Drink? \(Artigeardit X Lamin\)](https://open.spotify.com/track/5JpI77kH18RMNM0WmPtx99) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 2:19 | 2021-10-21 |  |
+| [Hvor Fuck Er Min Drink? \(Artigeardit X Lamin\)](https://open.spotify.com/track/5JpI77kH18RMNM0WmPtx99) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 2:19 | 2021-10-21 | 2022-10-04 |
 | [Hvor Har Du Lært Det](https://open.spotify.com/track/7zBD2Y6xoOMgm4ftGHFWfW) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Hvor Har Du Lært Det](https://open.spotify.com/album/5kkb92eCnhK5bJPDKEUB2d) | 2:18 | 2022-05-23 | 2022-08-06 |
 | [Hvor Vi Fra](https://open.spotify.com/track/749czLOsKVhocGuNaF87WK) | [Landsholdet](https://open.spotify.com/artist/3pUk1ndVKDCVrXXUhVONOf), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [B\-Boys](https://open.spotify.com/artist/0VCBHwEXckS4LgmgGl0RJU), [Birthe Kjær](https://open.spotify.com/artist/0IfpyCP48pZ9kkFVSeHbC5) | [Danske Fodboldsange](https://open.spotify.com/album/5h6UgLuiatq2Tetg0Jw4rE) | 3:19 | 2021-07-05 | 2021-07-10 |
 | [HYGGE MYGGE](https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [HYGGE MYGGE](https://open.spotify.com/album/4rKa3KaGe8wg90d9Vpni7i) | 2:14 | 2022-03-26 | 2022-06-13 |
@@ -807,6 +807,7 @@
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-30 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-27 |
 | [Zombie](https://open.spotify.com/track/4osCG0whKGmnEe7SZfHGA1) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [4 Til Gulvet](https://open.spotify.com/album/251r5Jv5psSP10WVu4eSyD) | 3:19 | 2022-08-20 | 2022-08-28 |
+| [Årstider](https://open.spotify.com/track/21h80Cfo35Foa17LFp6O0A) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 3:23 | 2022-10-03 |  |
 | [Æstetisk](https://open.spotify.com/track/4PCcN37jm4tDj8RPZuvC1H) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Æstetisk](https://open.spotify.com/album/6wV9sbuZnumfF8mRnzODZn) | 2:31 | 2022-03-12 | 2022-03-14 |
 | [Øjne Som Dine](https://open.spotify.com/track/7hQltyI2tgXb4lRNFncJdk) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Øjne Som Dine](https://open.spotify.com/album/7t5XWRm0jDYuKnuHlB50SQ) | 2:39 | 2021-10-23 | 2021-11-27 |
 | [Øve Os På Hinanden](https://open.spotify.com/track/5KLDajsSLvA5n2zTwKycvF) | [Fyr Og Flamme](https://open.spotify.com/artist/7EuzcvdfScUqksgKfyN7J0) | [Øve Os På Hinanden](https://open.spotify.com/album/4TWKMqtrWaLhZEpUVVyfY2) | 3:06 | 2021-03-27\* | 2021-05-28 |

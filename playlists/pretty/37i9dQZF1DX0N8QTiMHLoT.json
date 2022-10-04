@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 112663,
+  "num_followers": 112724,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMDNjMWFmNzgxYmRlNzk5NjVlN2JlNTExODAyYWJlN2Mz",
+  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMDNiNzJlMWVhOGMxOTk5ZTI2MDZjNTA1NDdlM2Q1NTJh",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "U Can't Hold No Groove (If You Ain't Got No Pocket)",
+      "url": "https://open.spotify.com/track/2Yrvgx1OgSlTlEcaR8izUh"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 355986,
       "name": "7-T's",
       "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "U Can't Hold No Groove (If You Ain't Got No Pocket)",
-      "url": "https://open.spotify.com/track/2Yrvgx1OgSlTlEcaR8izUh"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -283,6 +283,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "What Did He Say? (Remastered)",
+        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "What Did He Say? (Remastered)",
-        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 282946,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Way Up!",
         "url": "https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm"
       },
@@ -359,6 +359,38 @@
       "duration_ms": 258360,
       "name": "Get Down On It",
       "url": "https://open.spotify.com/track/41BisXehQCshqh06t1is99"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
+        "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
+      },
+      "artists": [
+        {
+          "name": "Ida Nielsen",
+          "url": "https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3"
+        }
+      ],
+      "duration_ms": 96096,
+      "name": "Purple Interlude",
+      "url": "https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Pocket Fulla Nasty",
+        "url": "https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC"
+      },
+      "artists": [
+        {
+          "name": "Doug Johns",
+          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+        }
+      ],
+      "duration_ms": 265946,
+      "name": "Chump Suey",
+      "url": "https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -387,18 +419,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
-        "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
+        "name": "Not of This World",
+        "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
       },
       "artists": [
         {
-          "name": "Ida Nielsen",
-          "url": "https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3"
+          "name": "Adam Nitti",
+          "url": "https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR"
         }
       ],
-      "duration_ms": 96096,
-      "name": "Purple Interlude",
-      "url": "https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW"
+      "duration_ms": 397640,
+      "name": "Cosmic Underground",
+      "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -419,22 +451,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Pocket Fulla Nasty",
-        "url": "https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC"
-      },
-      "artists": [
-        {
-          "name": "Doug Johns",
-          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
-        }
-      ],
-      "duration_ms": 265946,
-      "name": "Chump Suey",
-      "url": "https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "A Show of Hands 15",
         "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 279693,
       "name": "Classical Thump",
       "url": "https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Not of This World",
-        "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
-      },
-      "artists": [
-        {
-          "name": "Adam Nitti",
-          "url": "https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR"
-        }
-      ],
-      "duration_ms": 397640,
-      "name": "Cosmic Underground",
-      "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Romancing the Bass",
-        "url": "https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ"
-      },
-      "artists": [
-        {
-          "name": "Tony Saunders",
-          "url": "https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q"
-        }
-      ],
-      "duration_ms": 309839,
-      "name": "Just Letting Go",
-      "url": "https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 261866,
       "name": "P.A.C. Man",
       "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Romancing the Bass",
+        "url": "https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ"
+      },
+      "artists": [
+        {
+          "name": "Tony Saunders",
+          "url": "https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q"
+        }
+      ],
+      "duration_ms": 309839,
+      "name": "Just Letting Go",
+      "url": "https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -831,26 +831,6 @@
       "duration_ms": 240339,
       "name": "Love on the Run",
       "url": "https://open.spotify.com/track/5qxN363wsERfecdjGiReyy"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Trust and Faith",
-        "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
-      },
-      "artists": [
-        {
-          "name": "Barry Likumahuwa",
-          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
-        },
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 258312,
-      "name": "Trust and Faith",
-      "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -883,6 +863,26 @@
       "duration_ms": 330969,
       "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
       "url": "https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Trust and Faith",
+        "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
+      },
+      "artists": [
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        },
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 258312,
+      "name": "Trust and Faith",
+      "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
     }
   ],
   "unique_name": "Bottoms Up",

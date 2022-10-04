@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206531,
+  "num_followers": 206556,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDAyZmUyODllZjQ5NzJkMmYyNzY4NzZmMDRjZjY3NzVm",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDI1ZmE2ODllZGI1ZTA5ZDcyYWUwYzA4Y2QxYTMyMGNk",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Hijo de Puta",
         "url": "https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 179440,
       "name": "Hijo de Puta",
       "url": "https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "El Mar De Las Almas",
-        "url": "https://open.spotify.com/album/52tcNhROdl0187orh4tB3N"
-      },
-      "artists": [
-        {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Acido",
-      "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -155,18 +155,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+        "name": "El Mar De Las Almas",
+        "url": "https://open.spotify.com/album/52tcNhROdl0187orh4tB3N"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "Carajo",
+          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
+      "duration_ms": 223440,
+      "name": "Acido",
+      "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "De La Tierra",
-        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
-      },
-      "artists": [
-        {
-          "name": "De La Tierra",
-          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Maldita Historia",
-      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -267,6 +251,38 @@
       "duration_ms": 209373,
       "name": "El nuevo camino del hombre",
       "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "De La Tierra",
+        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
+      },
+      "artists": [
+        {
+          "name": "De La Tierra",
+          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Maldita Historia",
+      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -299,22 +315,6 @@
       "duration_ms": 267746,
       "name": "R\u00edo Extra\u00f1o",
       "url": "https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Panel Optico",
-        "url": "https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT"
-      },
-      "artists": [
-        {
-          "name": "Bandera de Niebla",
-          "url": "https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L"
-        }
-      ],
-      "duration_ms": 87302,
-      "name": "Macho Alfa",
-      "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Legiones",
         "url": "https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Llora Chiapas",
-        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
+        "name": "Panel Optico",
+        "url": "https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT"
       },
       "artists": [
         {
-          "name": "Leprosy",
-          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
+          "name": "Bandera de Niebla",
+          "url": "https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L"
         }
       ],
-      "duration_ms": 312447,
-      "name": "Residentes Olvidados",
-      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
+      "duration_ms": 87302,
+      "name": "Macho Alfa",
+      "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -815,6 +799,22 @@
       "duration_ms": 309054,
       "name": "O\u00eddos Sordos",
       "url": "https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Llora Chiapas",
+        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
+      },
+      "artists": [
+        {
+          "name": "Leprosy",
+          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
+        }
+      ],
+      "duration_ms": 312447,
+      "name": "Residentes Olvidados",
+      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
     }
   ],
   "unique_name": "Metal del Nuestro",

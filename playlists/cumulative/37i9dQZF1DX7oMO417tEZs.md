@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: EKKSTACY
 
-510 songs - 1 day 4 hr 30 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+511 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,8 @@
 | [SHELL](https://open.spotify.com/track/3tYkvqIjHFS8O56DrWGYvO) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [SHELL](https://open.spotify.com/album/7tZkP62cFpLp5VPPJSYTOV) | 2:31 | 2022-09-30 |  |
 | [Shine](https://open.spotify.com/track/3EsoE2Wbt866R7da3ImJf6) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG), [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Shine](https://open.spotify.com/album/1KbGKw3Cy3XpiLnBznm59x) | 5:28 | 2022-06-17 | 2022-08-27 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-02-18 | 2022-02-26 |
-| [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 | 2022-09-30 |  |
+| [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 | 2022-09-30 | 2022-10-04 |
+| [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2022-10-03 |  |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ) | 3:58 | 2022-04-01 | 2022-05-28 |
 | [Ski Goggles](https://open.spotify.com/track/5zvIkkzyThJniF4xoJhkAJ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [Ski Goggles](https://open.spotify.com/album/5euW1q7o3akFcGbk3XPU8V) | 2:47 | 2022-07-22 | 2022-08-20 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-05-20 |

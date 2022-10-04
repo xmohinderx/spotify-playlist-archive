@@ -1,12 +1,12 @@
 {
   "description": "Love at its most dramatic. Cover: Moulin Rouge",
-  "num_followers": 6660,
+  "num_followers": 6683,
   "original_name": "Broadway in Love!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQ0NDM4NywwMDAwMDAwMDA0YjdlYTI5NGMwOWVkN2ZlZTE4NGI5ZWM1ZDE2M2Zl",
+  "snapshot_id": "MTY0NDQ0NDM4NywwMDAwMDAwMDQ1NDNjYzZmZWYzOGQ2MzFlYmZiMGY0NGIxZTNkNmY2",
   "tracks": [
     {
       "added_at": "2022-02-09 21:53:30",
@@ -459,22 +459,22 @@
     {
       "added_at": "2022-02-09 21:53:30",
       "album": {
-        "name": "Newsies (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
+        "name": "Waitress (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
       },
       "artists": [
         {
-          "name": "Jeremy Jordan",
-          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+          "name": "Drew Gehling",
+          "url": "https://open.spotify.com/artist/7ejlBSnnDMNIhEcL7MN868"
         },
         {
-          "name": "Kara Lindsay",
-          "url": "https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv"
+          "name": "Jessie Mueller",
+          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
         }
       ],
-      "duration_ms": 211704,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/1AD6IcfzMTyQGrNsH37SMV"
+      "duration_ms": 261186,
+      "name": "You Matter to Me",
+      "url": "https://open.spotify.com/track/3OIoLMnnWzAUORFQxRAhdF"
     },
     {
       "added_at": "2022-02-09 21:53:30",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-02-09 21:53:30",
       "album": {
+        "name": "Newsies (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Kara Lindsay",
+          "url": "https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv"
+        }
+      ],
+      "duration_ms": 211704,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/1AD6IcfzMTyQGrNsH37SMV"
+    },
+    {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
         "name": "Les Miserables (The Original London Cast Recording)",
         "url": "https://open.spotify.com/album/4h0K87rOHZXeuOqeXAsah8"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 239466,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0whLBafLYqsuFouLM2ZT9O"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
-        "name": "Waitress (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
-      },
-      "artists": [
-        {
-          "name": "Drew Gehling",
-          "url": "https://open.spotify.com/artist/7ejlBSnnDMNIhEcL7MN868"
-        },
-        {
-          "name": "Jessie Mueller",
-          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "You Matter to Me",
-      "url": "https://open.spotify.com/track/3OIoLMnnWzAUORFQxRAhdF"
     },
     {
       "added_at": "2022-02-09 21:53:30",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-02-09 21:53:30",
       "album": {
+        "name": "Oliver! (1994 London Palladium Cast Recording)",
+        "url": "https://open.spotify.com/album/6zAJfB7geKqidKaRiu574H"
+      },
+      "artists": [
+        {
+          "name": "Sally Dexter",
+          "url": "https://open.spotify.com/artist/6EYopXpSuAk852aUix9YvR"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "As Long As He Needs Me",
+      "url": "https://open.spotify.com/track/5U08WCE89uN4otg1RJvfep"
+    },
+    {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
         "name": "The Best Of Rent",
         "url": "https://open.spotify.com/album/1HsvK3RNYq8I61Orf6OQ8D"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 148600,
       "name": "I'll Cover You",
       "url": "https://open.spotify.com/track/5fsqHu4hpOiFMVy1rqKpzm"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
-        "name": "Oliver! (1994 London Palladium Cast Recording)",
-        "url": "https://open.spotify.com/album/6zAJfB7geKqidKaRiu574H"
-      },
-      "artists": [
-        {
-          "name": "Sally Dexter",
-          "url": "https://open.spotify.com/artist/6EYopXpSuAk852aUix9YvR"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "As Long As He Needs Me",
-      "url": "https://open.spotify.com/track/5U08WCE89uN4otg1RJvfep"
     },
     {
       "added_at": "2022-02-09 21:53:30",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/4uQqE8J8Yn4izuKz9Eu9x3"
     },
     {
+      "added_at": "2022-02-09 21:53:30",
+      "album": {
+        "name": "Anything Goes (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL"
+      },
+      "artists": [
+        {
+          "name": "Colin Donnell",
+          "url": "https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Easy to Love",
+      "url": "https://open.spotify.com/track/3hNRNKpFhsKRWRqPt2Lex3"
+    },
+    {
       "added_at": "2022-02-09 22:06:27",
       "album": {
         "name": "Guys and Dolls (New Broadway Cast Recording (1992))",
@@ -1219,22 +1235,6 @@
       "duration_ms": 126506,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/00TD6nk39R6exWABp54IUD"
-    },
-    {
-      "added_at": "2022-02-09 21:53:30",
-      "album": {
-        "name": "Anything Goes (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL"
-      },
-      "artists": [
-        {
-          "name": "Colin Donnell",
-          "url": "https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Easy to Love",
-      "url": "https://open.spotify.com/track/3hNRNKpFhsKRWRqPt2Lex3"
     },
     {
       "added_at": "2022-02-09 21:53:30",

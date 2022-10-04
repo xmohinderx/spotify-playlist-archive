@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Dos Carnales en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Duelo en portada.",
   "name": "Norte\u00f1o 2022",
   "published_playlist_ids": [
     "4CWnohjaUvTAEcQVufM78y"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 199197,
       "name": "Caricatura",
       "url": "https://open.spotify.com/track/2T5nAEkXMX49j29nMVt6qU"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 179226,
       "name": "Cuando Me Besas",
       "url": "https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 156595,
       "name": "La \u00daltima y Nos Vamos",
       "url": "https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb"
@@ -1977,6 +1977,24 @@
       "duration_ms": 187240,
       "name": "No",
       "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
+    },
+    {
+      "album": {
+        "name": "No Digas No",
+        "url": "https://open.spotify.com/album/1AUg2PEpmCRm9G82UH0NGb"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199298,
+      "name": "No Digas No",
+      "url": "https://open.spotify.com/track/16358eKjCVFsvHs7fy0UCC"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 185549,
+  "num_followers": 185668,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0OTA1NywwMDAwMDAwMGM2MjU5MGU2MjlmNzU3ZDJiYWE3ODc3ZDE2NTczNzRi",
+  "snapshot_id": "MTY1NzA0OTA1NywwMDAwMDAwMDI3MTM0ZGFlODIzNDA2OTczMDNhNmEwNmE4ZjAxZTgx",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Brother To Brother",
         "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 218306,
       "name": "I Just Wanna Stop",
       "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Foot Loose & Fancy Free",
-        "url": "https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 367400,
-      "name": "I Was Only Joking",
-      "url": "https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 222400,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Foot Loose & Fancy Free",
+        "url": "https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 367400,
+      "name": "I Was Only Joking",
+      "url": "https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
+        "name": "50 Years - Don't Stop",
+        "url": "https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 270986,
-      "name": "Ace of Hearts",
-      "url": "https://open.spotify.com/track/72wERbZ4yx2cNaoEj5jYnl"
+      "duration_ms": 182586,
+      "name": "Sentimental Lady - 2018 Remaster",
+      "url": "https://open.spotify.com/track/58gin7AIJheIrPffOdiE1z"
     }
   ],
   "unique_name": "Soft Rock Drive",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,192 likes - 80 songs - 4 hr 13 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,185 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 65 | [One](https://open.spotify.com/track/3do8rQ8ePlwXN2wlsvIADl) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [One](https://open.spotify.com/album/5uuMzVqYEr28d5Hb7bqkO8) | 2:45 |
 | 66 | [Save Me \- HAVOQ Remix](https://open.spotify.com/track/106NUdEpeKc6viVKe4Dejr) | [Maori](https://open.spotify.com/artist/3WgX9Ioo1Qcug9H0tNmmUH), [Hunter Falls](https://open.spotify.com/artist/1eYaa3AJoGw6LVJNi5XSNZ), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Save Me \(HAVOQ Remix\)](https://open.spotify.com/album/6tt2AsnVVe6Kq7BNfZ6sYH) | 2:41 |
 | 67 | [Hurricane](https://open.spotify.com/track/1KGxCcjV2D8jgUnMHoZggt) | [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Hurricane](https://open.spotify.com/album/7bz61NaPnWWrTNt7fLDG4G) | 2:56 |
-| 68 | [There's Still Time](https://open.spotify.com/track/7yh0Nvp2RacQ42AIWZu8Py) | [STARLYTE](https://open.spotify.com/artist/32UL2dRIFoeUL3ViLatNGv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [There’s Still Time](https://open.spotify.com/album/0vnDRzYHPonEaDzQTMqnMw) | 3:30 |
-| 69 | [Find A Way](https://open.spotify.com/track/7zM4RlICmXyA7TyEPigVZq) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Find A Way](https://open.spotify.com/album/7a3JWPQfnxDKkDYVn7oSJ1) | 3:08 |
+| 68 | [Find A Way](https://open.spotify.com/track/7zM4RlICmXyA7TyEPigVZq) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Find A Way](https://open.spotify.com/album/7a3JWPQfnxDKkDYVn7oSJ1) | 3:08 |
+| 69 | [Hurricane](https://open.spotify.com/track/44fKrt6SHESPvP3H1IpvBy) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [ASTER](https://open.spotify.com/artist/6Jt9U8bJ56jqNdEKdLZ7Yw), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Hurricane](https://open.spotify.com/album/43UsFyzWE1Uom2rpVohnJg) | 3:19 |
 | 70 | [Till The Stars Come Out Again](https://open.spotify.com/track/11M4dB6YEtbucEmdwGlT1T) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [ASTER](https://open.spotify.com/artist/6Jt9U8bJ56jqNdEKdLZ7Yw), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Darkness Into Light EP](https://open.spotify.com/album/3HuVxjs4Ht6LVyHvgRYANO) | 3:02 |
 | 71 | [This Feeling](https://open.spotify.com/track/4gzdGjwIXhM3EzjKZMIq6b) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [Alex Aspen](https://open.spotify.com/artist/6Q5kFbxHkQQRIbah391oiE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [This Feeling](https://open.spotify.com/album/5aYxX3kMdOJx9sZLAnRsuN) | 2:58 |
 | 72 | [Chase The Sun](https://open.spotify.com/track/18vGqlZqxpAwlepFrqIkOG) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chase The Sun](https://open.spotify.com/album/4sm3DeCmr4ppnUnxdRtJEG) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 79 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
 | 80 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
 
-Snapshot ID: `MjAxNSxlM2QzZjY2MWM2ZGVlY2JkZWY5YzE3NWEwNzVkMWIwMWQ3M2MzMjcz`
+Snapshot ID: `MjAxNyxkNzQxMTAwNDBjMWQ0ZWMwYjdmZDEzYjgyNTg1NThhMzA3MTg5MWNi`

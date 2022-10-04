@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: \u00d8rdop Wolkenscheidt Artwork: Thami Nabil",
-  "num_followers": 92827,
+  "num_followers": 92890,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMyMTY1NiwwMDAwMDAwMGNhNjNkYTYwMTFjZDU1OTExYzdkOTQ4ZTdkMGVmMjc4",
+  "snapshot_id": "MTY2NDMyMTY1NiwwMDAwMDAwMDNmNTUyMTllNTJiNjIyZWM4ZTg1NTA1ZDAyYWVkOGFi",
   "tracks": [
     {
       "added_at": "2022-09-07 04:00:00",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/1pQVBLUSWkiUYj2UozVruk"
     },
     {
-      "added_at": "2022-09-14 04:00:00",
-      "album": {
-        "name": "Heaven Come Crashing",
-        "url": "https://open.spotify.com/album/15hyxv55DQ8mUaqQVLlrBP"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Our Wretched Fantasy",
-      "url": "https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E"
-    },
-    {
       "added_at": "2022-09-21 02:54:10",
       "album": {
         "name": "caso de estudio",
@@ -363,6 +347,22 @@
       "duration_ms": 225822,
       "name": "to all the plants i loved",
       "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
+    },
+    {
+      "added_at": "2022-09-14 04:00:00",
+      "album": {
+        "name": "Heaven Come Crashing",
+        "url": "https://open.spotify.com/album/15hyxv55DQ8mUaqQVLlrBP"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Our Wretched Fantasy",
+      "url": "https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E"
     },
     {
       "added_at": "2022-08-31 04:02:01",
@@ -513,38 +513,6 @@
       "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "To The Room",
-        "url": "https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ"
-      },
-      "artists": [
-        {
-          "name": "Gabe Gurnsey",
-          "url": "https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu"
-        }
-      ],
-      "duration_ms": 314410,
-      "name": "To The Room",
-      "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
-    },
-    {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
-    },
-    {
       "added_at": "2022-09-07 04:00:00",
       "album": {
         "name": "UMMA (Remix)",
@@ -565,6 +533,58 @@
       "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
     },
     {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "To The Room",
+        "url": "https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ"
+      },
+      "artists": [
+        {
+          "name": "Gabe Gurnsey",
+          "url": "https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu"
+        }
+      ],
+      "duration_ms": 314410,
+      "name": "To The Room",
+      "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
+    },
+    {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Castlefields",
+        "url": "https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin",
+          "url": "https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6"
+        },
+        {
+          "name": "Sunny Joe Paradisos",
+          "url": "https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI"
+        }
+      ],
+      "duration_ms": 494686,
+      "name": "Castlefields",
+      "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
+    },
+    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "Fiber",
@@ -579,22 +599,6 @@
       "duration_ms": 434383,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm"
-    },
-    {
-      "added_at": "2022-08-31 04:02:01",
-      "album": {
-        "name": "Oneness",
-        "url": "https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18"
-      },
-      "artists": [
-        {
-          "name": "Teielte",
-          "url": "https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU"
-        }
-      ],
-      "duration_ms": 181366,
-      "name": "Oneness",
-      "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
     },
     {
       "added_at": "2022-09-21 02:54:10",
@@ -633,24 +637,20 @@
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
-      "added_at": "2022-09-21 02:54:10",
+      "added_at": "2022-08-31 04:02:01",
       "album": {
-        "name": "Castlefields",
-        "url": "https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh"
+        "name": "Oneness",
+        "url": "https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18"
       },
       "artists": [
         {
-          "name": "Tara Clerkin",
-          "url": "https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6"
-        },
-        {
-          "name": "Sunny Joe Paradisos",
-          "url": "https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI"
+          "name": "Teielte",
+          "url": "https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU"
         }
       ],
-      "duration_ms": 494686,
-      "name": "Castlefields",
-      "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
+      "duration_ms": 181366,
+      "name": "Oneness",
+      "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy"
     },
     {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
-    },
-    {
       "added_at": "2022-09-21 02:54:10",
       "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
@@ -719,6 +703,22 @@
       "duration_ms": 265200,
       "name": "Exile on \u00c6r\u00f8",
       "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
+        "name": "Ensayo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
+      },
+      "artists": [
+        {
+          "name": "Panoptica",
+          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
+      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
         "name": "Betsu No Jikan",
         "url": "https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 247488,
       "name": "4 Ya Kiss",
       "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Ensayo de un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
-      },
-      "artists": [
-        {
-          "name": "Panoptica",
-          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
-      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

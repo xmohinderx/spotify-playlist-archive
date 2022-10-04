@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-204 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+205 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 | 2021-02-05 | 2022-04-21 |
 | [Excuses](https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J) | [The Morning Benders](https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD) | [Big Echo](https://open.spotify.com/album/4GGwYDNw2tNHbmK93bygqm) | 5:17 | 2021-02-05 | 2022-06-29 |
 | [Feeling Ok](https://open.spotify.com/track/0pufbBQTb9Voh9ZtpCpYLH) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/3lobKWYjPRZWL6gFLKYE4P) | 3:16 | 2021-02-05 | 2022-04-20 |
+| [Fire Flower](https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Favorite Holiday, Vol\. 1](https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer) | 4:10 | 2022-09-22 |  |
 | [Fire Flower](https://open.spotify.com/track/4zSZfVqbXLFFvNfT4RLDlM) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Fire Flower](https://open.spotify.com/album/2DHEZDsm02YY3MLxvNkPcA) | 4:10 | 2021-02-05 | 2022-06-30 |
 | [Fish On The Sand](https://open.spotify.com/track/62ZxTubCrtxe31QedetTTT) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish On The Sand](https://open.spotify.com/album/60XDrObKGHZnKMQ8KOGvcT) | 3:38 | 2021-02-05 | 2022-04-20 |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2021-04-13 |  |
@@ -179,7 +180,7 @@
 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 | 2022-07-22 |  |
 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/3h1iu4HvBlLqRuft2kJEcr) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 2:45 | 2021-02-05 | 2022-07-27 |
 | [Taking Up Space](https://open.spotify.com/track/7i28aaEucsoEeEfZLHZHb1) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/5pzZw40gzDD1WR5lKkvzqZ) | 3:37 | 2021-02-05 | 2022-09-16 |
-| [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 | 2021-02-05 |  |
+| [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 | 2021-02-05 | 2022-10-04 |
 | [Tangerine](https://open.spotify.com/track/5rpI91rFVNaK9ACHBIvvFO) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Tangerine](https://open.spotify.com/album/2UBJeCouDLytZCKVnWve6F) | 3:14 | 2021-02-05 | 2022-07-29 |
 | [TERMS](https://open.spotify.com/track/57AUprrPPO1UpdwKsk80yg) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [HOT WHEELS / TERMS](https://open.spotify.com/album/3OORhTzZtBdNwSRixMdNGg) | 1:48 | 2021-11-19 | 2022-07-23 |
 | [That Thing](https://open.spotify.com/track/6IDcZXJXQzIfhkjlvVB3Gp) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/4tKnS9Q0lgN3i7SmXi4mGI) | 3:08 | 2021-02-05 | 2022-06-25 |

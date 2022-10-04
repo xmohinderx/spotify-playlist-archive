@@ -4,7 +4,7 @@
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: Shawn Mendes
 
-959 songs - 2 day 4 hr 53 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+960 songs - 2 day 4 hr 56 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -910,6 +910,7 @@
 | [What Do You Think Of?](https://open.spotify.com/track/4S5qPSkDocZakNYjzZjqZh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Getting Over Him](https://open.spotify.com/album/2m4CrEo9yZx4g0Kgz5uv2A) | 3:38 | 2020-09-04 | 2021-01-29 |
 | [What Happens Next \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/46YRGurAqnefqUbKwVGyjP) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Blade Runner Black Lotus \(Original Television Soundtrack\)](https://open.spotify.com/album/336Vo0ixkxxaehT3f6bBMk) | 3:02 | 2021-11-06 | 2021-12-24 |
 | [What Makes A Woman](https://open.spotify.com/track/1tH2L4hkZU7IMJbreHFcMs) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [What Makes A Woman](https://open.spotify.com/album/6WwtlRrCrGP0u02Bf7p46T) | 2:11 | 2020-08-21 | 2020-09-18 |
+| [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-10-03 |  |
 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2021-02-06 | 2021-07-10 |
 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 | 2020-07-18 | 2020-07-31 |
 | [Whatever Forever Is](https://open.spotify.com/track/1fNznqiu5d1wLezuTyy1UB) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [The Pink Slip EP](https://open.spotify.com/album/125iPOINAQO7FJ4GbyZ332) | 3:37 | 2021-01-15 | 2021-08-21 |

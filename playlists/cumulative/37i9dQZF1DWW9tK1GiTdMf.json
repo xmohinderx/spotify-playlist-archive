@@ -2191,6 +2191,32 @@
     {
       "album": {
         "name": "STO NELLA SAD",
+        "url": "https://open.spotify.com/album/5wRGqfBO1sjjq8Gsa71bQn"
+      },
+      "artists": [
+        {
+          "name": "Fiks",
+          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+        },
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        },
+        {
+          "name": "Plant",
+          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230787,
+      "name": "LA SAD ITALIANA",
+      "url": "https://open.spotify.com/track/4aJJ9HEu9aE2LBmXFCCEtn"
+    },
+    {
+      "album": {
+        "name": "STO NELLA SAD",
         "url": "https://open.spotify.com/album/3UStaV5uSDqOmGVXbK6lgN"
       },
       "artists": [
@@ -2209,7 +2235,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 230787,
       "name": "LA SAD ITALIANA",
       "url": "https://open.spotify.com/track/6Y4025mVnPucBiUDdQZk1p"
@@ -4571,10 +4597,36 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 171563,
       "name": "SUMMERSAD 3",
       "url": "https://open.spotify.com/track/2sVK7UjS87H83ryrVq8vbY"
+    },
+    {
+      "album": {
+        "name": "SUMMERSAD 3",
+        "url": "https://open.spotify.com/album/6lHH4atRiu0NzfWnn7xiIs"
+      },
+      "artists": [
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        },
+        {
+          "name": "Plant",
+          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+        },
+        {
+          "name": "Fiks",
+          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171563,
+      "name": "SUMMERSAD 3",
+      "url": "https://open.spotify.com/track/3ya2HVjnFFV9y52uhj3qch"
     },
     {
       "album": {
@@ -5144,6 +5196,36 @@
     },
     {
       "album": {
+        "name": "WALE RMX",
+        "url": "https://open.spotify.com/album/7lZQkoJORLeNJb5ZakJwks"
+      },
+      "artists": [
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        },
+        {
+          "name": "Plant",
+          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+        },
+        {
+          "name": "Fiks",
+          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+        },
+        {
+          "name": "Dari",
+          "url": "https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183983,
+      "name": "WALE RMX",
+      "url": "https://open.spotify.com/track/0b9eZe50TvLivR8cH1BjB4"
+    },
+    {
+      "album": {
         "name": "WALE RMX (feat. Dari)",
         "url": "https://open.spotify.com/album/5r2ABj05lL1z3qyAJFWC4a"
       },
@@ -5167,7 +5249,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 183983,
       "name": "WALE RMX (feat. Dari)",
       "url": "https://open.spotify.com/track/40CHbHBXQRiwE3fSHAFEbD"

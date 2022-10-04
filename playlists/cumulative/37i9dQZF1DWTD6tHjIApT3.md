@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 橋本絵莉子
 
-754 songs - 2 day 1 hr 46 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+755 songs - 2 day 1 hr 49 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bokuniwa](https://open.spotify.com/track/69s0IVOvuBBAoG7rF9N7U0) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Bokuniwa](https://open.spotify.com/album/6j9z4vps160XP2idd7RSB3) | 6:11 | 2022-06-02 | 2022-07-21 |
 | [Borderless](https://open.spotify.com/track/0c3XfRGN51u29l7IviP7wd) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Borderless](https://open.spotify.com/album/4Hk7K5YuyMqg6Mqxqv1XWB) | 2:59 | 2022-05-29 | 2022-07-29 |
 | [BOYFRIEND](https://open.spotify.com/track/0GetObkAObITplks2Ye5Nb) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [BOYFRIEND](https://open.spotify.com/album/1Uho2SdndCiP3n0Jrvljqq) | 3:42 | 2022-05-29 | 2022-07-27 |
+| [bye bye](https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [bye bye](https://open.spotify.com/album/355jantKZOHA8IzbjeSi5A) | 2:48 | 2022-09-29 |  |
 | [bye\-bye myself](https://open.spotify.com/track/35LiQQ6j1aWtACMt6mDcHh) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [bye\-bye myself](https://open.spotify.com/album/5EI9MVCZcd3qP4gMvr8H67) | 5:13 | 2022-06-21 | 2022-07-29 |
 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 | 2022-09-20 |  |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-05-29 | 2022-07-29 |
@@ -275,7 +276,7 @@
 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 | 2022-08-23 |  |
 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 |  |
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 | 2022-09-16 |
-| [páː](https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [páː](https://open.spotify.com/album/4u2bc1tj84eBXr6XPe5zOh) | 3:28 | 2022-09-27 |  |
+| [páː](https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [páː](https://open.spotify.com/album/4u2bc1tj84eBXr6XPe5zOh) | 3:28 | 2022-09-27 | 2022-10-04 |
 | [Rain](https://open.spotify.com/track/6qZu1EgDfzDRGPrNtxJ3Vt) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [Rain](https://open.spotify.com/album/5k0YCzq4A7zvCmIIgJYrHK) | 4:09 | 2022-08-02 | 2022-08-17 |
 | [Reality](https://open.spotify.com/track/6NmXOBqYN96jb8qGubot2Z) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality](https://open.spotify.com/album/4eEfNctnzXQ0lqKNgjnrw0) | 3:45 | 2022-07-14 | 2022-07-20 |
 | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/track/0WDhwnZ325K5LUvx1FywgW) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/album/13jQMgxK2VECQAxVSz89Ja) | 4:57 | 2022-05-31 | 2022-06-27 |

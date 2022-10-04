@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-400 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+402 songs - 1 day 2 hr 15 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Asymmetry](https://open.spotify.com/track/3DKSM1HppHmGgEztFS5q2T) | [Eradicate Me](https://open.spotify.com/artist/1PqHlQtpYfnuWGNoWhZB6l) | [Asymmetry](https://open.spotify.com/album/5ArIhP5EoNogavKjUzWg89) | 3:13 | 2022-01-07 | 2022-07-25 |
 | [Awakened Salvation](https://open.spotify.com/track/03rvFxNjwXwNUMaBBVDpDT) | [Resist The Thought](https://open.spotify.com/artist/48RlvjoKZtNIcimFZ6BDbL) | [Awakened Salvation](https://open.spotify.com/album/4aXmofWOwUJ6tZv446Cpqy) | 4:54 | 2021-12-31 | 2022-04-09 |
 | [Baba Yaga](https://open.spotify.com/track/2qk76H18li0kh0hPJTZmMk) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Baba Yaga](https://open.spotify.com/album/1fUP56lgqAS5bzycn35WAl) | 4:15 | 2021-12-17 | 2022-07-29 |
-| [Baba Yaga](https://open.spotify.com/track/3BI1nr32dmrPTTMmywXZZp) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 4:15 | 2022-07-08 |  |
+| [Baba Yaga](https://open.spotify.com/track/3BI1nr32dmrPTTMmywXZZp) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 4:15 | 2022-07-08 | 2022-10-04 |
 | [Banquet of Enigmatic Horrors Pt1: Terror](https://open.spotify.com/track/4vjralLcZQXtoCFTQajZQu) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Banquet of Enigmatic Horrors Pt 1: Terror](https://open.spotify.com/album/4t6hqON21Pp8pkNAXKd9lK) | 4:22 | 2021-12-17 | 2022-07-28 |
 | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/track/4RxrwJYJ3gRnxrUBpyKkzz) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Oliver Rae Aleron](https://open.spotify.com/artist/2IHcesdgSqwFOxH6n7GOXQ) | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/album/2zwDvKAqalRZTDl4luS9bW) | 4:45 | 2021-12-17 | 2022-07-29 |
 | [Banshee](https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm) | [Seeing Things](https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH) | [Banshee](https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj) | 3:10 | 2022-05-27 | 2022-07-24 |
@@ -103,7 +103,7 @@
 | [Deathbed](https://open.spotify.com/track/2Z1GInPPpxZkc2B2ZHPA68) | [Engrossed](https://open.spotify.com/artist/1hv2s5LpM3wCsYTNHLuHdP) | [Deathbed](https://open.spotify.com/album/3vdzyOymFCOC2C4k4PbNtC) | 3:37 | 2022-01-07 | 2022-07-26 |
 | [Deathtouch](https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Deathtouch](https://open.spotify.com/album/4lK1lZBV3S2o8XhMvSbvHH) | 3:45 | 2022-03-11 |  |
 | [Deathtouch](https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Deathtouch](https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ) | 3:21 | 2021-12-17 |  |
-| [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 | 2021-12-17 |  |
+| [Deathwish](https://open.spotify.com/track/1Qdz2l8hr4mNwGj43AyVIR) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW) | [Deathwish](https://open.spotify.com/album/4HJfPe3SlTU1qoT2qHGLCh) | 3:47 | 2021-12-17 | 2022-10-04 |
 | [Defiled](https://open.spotify.com/track/7lJREQdTv5g2PdTtWMUBSA) | [Hive](https://open.spotify.com/artist/5DA5dDq3y1s10tuBK4HVn6) | [Hive](https://open.spotify.com/album/4pIygQy4Bn15AtMgXh4a0y) | 3:49 | 2021-12-17 | 2022-01-01 |
 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 | 2021-12-17 |  |
 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 | 2022-05-27 |  |
@@ -293,6 +293,7 @@
 | [Red Mist](https://open.spotify.com/track/7dc1X1HsYMAN7nxNEOrjCa) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Red Mist](https://open.spotify.com/album/2xjFTKvlEzxeE4BR6hbNsM) | 3:44 | 2021-12-17 | 2022-06-05 |
 | [Reflections of a Monster](https://open.spotify.com/track/271q2bXjvyjZCL7wiTQXVk) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Reflections of a Monster](https://open.spotify.com/album/6ZPFa0dwjstnXkroKXM16j) | 3:59 | 2021-12-17 | 2022-06-28 |
 | [Remember Me](https://open.spotify.com/track/0ikvtIegu5Yh9vOOhCkc5L) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Remember Me](https://open.spotify.com/album/5I3SxQcAEwoiiE6GQw2Ngz) | 3:30 | 2021-12-17 | 2022-04-29 |
+| [Remember Me](https://open.spotify.com/track/5JSpp4LKuqnaR3f5MZVWrc) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Burn in the Flood](https://open.spotify.com/album/1qBh6vpLqGU19T3ICllOp2) | 3:30 | 2022-10-03 |  |
 | [Remenissions](https://open.spotify.com/track/2Y8dLFDDhjOpBm0PitrieQ) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Remenissions](https://open.spotify.com/album/24gge9fvwFfzWwV8ZV4j3D) | 6:04 | 2021-12-17 | 2022-04-09 |
 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 | 2022-07-08 |  |
 | [Remnants in Time](https://open.spotify.com/track/5HlLaivd9yiou56KJFnkHz) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Remnants in Time](https://open.spotify.com/album/6FdfWezc4GtIKEXuEkHM7b) | 4:53 | 2021-12-17 | 2022-07-26 |
@@ -356,6 +357,7 @@
 | [The Sabbath](https://open.spotify.com/track/7HL0huoU88eTvZppMElAD6) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Sabbath](https://open.spotify.com/album/1ofDlelW6YGKcFO7A9qSsF) | 4:26 | 2021-12-31 | 2022-07-28 |
 | [The Sea of Tragic Beasts](https://open.spotify.com/track/38CoewUWWrkI3LUnA6IvdY) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/7gHcRen2sOUKx2POnezfLT) | 4:24 | 2021-12-17 | 2022-07-29 |
 | [The Sea of Tragic Beasts](https://open.spotify.com/track/79yvAWlqVukArNOxtyyKCI) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/75layqZM0WaToNzpj3jiC9) | 4:24 | 2022-07-08 |  |
+| [The Servant](https://open.spotify.com/track/1RPmmTSJhDfMg1V6qTHA0u) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [The Servant](https://open.spotify.com/album/00csdb1K13QsTHTImL15em) | 3:39 | 2022-10-03 |  |
 | [The Shadowy Descent of Gaia](https://open.spotify.com/track/0MCP9JP5ikBXncq8zlhkCK) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [The Shadowy Descent of Gaia](https://open.spotify.com/album/4Ifi7nuaAuagUnBj7yY4rG) | 4:42 | 2021-12-17 | 2022-07-28 |
 | [The Soil](https://open.spotify.com/track/1B5N4Uv5ueJw5rbiga5asV) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [The Soil](https://open.spotify.com/album/5NrHpWyWCGVya29slLU2QG) | 3:29 | 2021-12-17 | 2022-07-28 |
 | [The Soil](https://open.spotify.com/track/1zwypBAsxWePrtVBaabDmf) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:29 | 2022-07-08 |  |

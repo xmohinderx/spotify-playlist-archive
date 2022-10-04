@@ -4,7 +4,7 @@
 
 > ☀️!
 
-214 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/7FjuojaNhU1Q6SErzdT98D)
+215 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/7FjuojaNhU1Q6SErzdT98D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 | 2022-07-26 |  |
 | [Colour Me Blue](https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Colour Me Blue](https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA) | 3:16 | 2022-05-27 | 2022-07-26 |
 | [Come fanno le onde](https://open.spotify.com/track/1J6hprnp5GS0U5B1JLPwff) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Le tasche bucate di felicità](https://open.spotify.com/album/3ZgnE2pYJIDpG6iSMJqNCT) | 2:21 | 2022-05-06 | 2022-07-29 |
+| [Come First](https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Come First](https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb) | 2:12 | 2022-09-23 |  |
 | [Come With Me](https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:29 | 2022-05-06 |  |
 | [COMINCIA TU \(feat\. Rosa Chemical\)](https://open.spotify.com/track/00aZI3Ds8liGrcqEetsEYf) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [COMINCIA TU \(feat\. Rosa Chemical\)](https://open.spotify.com/album/4gv0l18cRn8WKpn84WeY8U) | 2:29 | 2022-07-15 | 2022-07-29 |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-05-06 | 2022-09-24 |
@@ -174,7 +175,7 @@
 | [Our Little World](https://open.spotify.com/track/1n8JThYIQZXrCBC5pODu1y) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Our Little World](https://open.spotify.com/album/6zouGkQjC4MMduqamE9j6V) | 3:29 | 2022-07-15 | 2022-07-19 |
 | [Papaoutai](https://open.spotify.com/track/34dx8DACTJsc3rsJdaEIQw) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:52 | 2022-07-15 | 2022-07-17 |
 | [Paraocchi](https://open.spotify.com/track/3c1hhyuDTsP3hqRztpg2S5) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Paraocchi](https://open.spotify.com/album/2JFiCRthCdXKwqZBbVulT7) | 2:36 | 2022-05-06 | 2022-07-29 |
-| [Paraocchi](https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:36 | 2022-09-23 |  |
+| [Paraocchi](https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:36 | 2022-09-23 | 2022-10-04 |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-07-26 | 2022-08-30 |
 | [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2022-05-06 | 2022-05-14 |
 | [Quanto ti vorrei](https://open.spotify.com/track/1AC9rHDPQC3QoC3iYPeSEI) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Quanto ti vorrei](https://open.spotify.com/album/7euSTXADo7aG1X9FbgMBKN) | 3:00 | 2022-07-15 | 2022-07-29 |

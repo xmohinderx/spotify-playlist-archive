@@ -6137,7 +6137,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 219310,
       "name": "Muita Atividade",
       "url": "https://open.spotify.com/track/1EsgC6YzdQkKmPKB1QyEiE"
@@ -8464,6 +8464,24 @@
     },
     {
       "album": {
+        "name": "Adeus Tokyo Part II",
+        "url": "https://open.spotify.com/album/3lXVOBlBz0s2iun2ocA5Gn"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169956,
+      "name": "Quarto",
+      "url": "https://open.spotify.com/track/2OXzRAorEoKl90G8n8tu5t"
+    },
+    {
+      "album": {
         "name": "Que Nem Crian\u00e7a",
         "url": "https://open.spotify.com/album/4wrYuwiRAIrhkpf5z8Nbtt"
       },
@@ -9023,7 +9041,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 267130,
       "name": "Sem D\u00f3",
       "url": "https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl"
@@ -9419,6 +9437,36 @@
       "duration_ms": 240746,
       "name": "SUV",
       "url": "https://open.spotify.com/track/5hnZtQxFxe1wE8MFAkza53"
+    },
+    {
+      "album": {
+        "name": "S\u00e1bado Freestyle",
+        "url": "https://open.spotify.com/album/3s2y1f3OUiGYejtDToklJu"
+      },
+      "artists": [
+        {
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Jorge Bask",
+          "url": "https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy"
+        },
+        {
+          "name": "Orange Money Gang",
+          "url": "https://open.spotify.com/artist/7tUDcOWnGnKjNfTVQus7HQ"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138559,
+      "name": "S\u00e1bado Freestyle",
+      "url": "https://open.spotify.com/track/5Uiq0ckUNrjOCzZ2p6MtOx"
     },
     {
       "album": {

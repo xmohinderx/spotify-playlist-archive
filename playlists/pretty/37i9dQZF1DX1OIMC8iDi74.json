@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 864751,
+  "num_followers": 864822,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGNhYjU3MjQ3ZDkzODc0OGE1YzM0ZWM1ZWYwNjhkYzNl",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGEzNjQ1M2E5ZTlkZDRlZTFjZTgzMTEyZmFlYzAzODI3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -123,6 +123,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "NOVA",
+        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "UCLA",
+      "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Blame (Tim Gunter Remix)",
         "url": "https://open.spotify.com/album/6NjGSlcPZwXDPRHcS7gVth"
       },
@@ -143,6 +163,26 @@
       "duration_ms": 193714,
       "name": "Blame (Tim Gunter Remix)",
       "url": "https://open.spotify.com/track/4wzHOPBchA7Ab5wOmBHkiO"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Thief (Flux Pavilion Remix)",
+        "url": "https://open.spotify.com/album/4kFd3dIqukGfolHILzWddZ"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 271749,
+      "name": "Thief - Flux Pavilion Remix",
+      "url": "https://open.spotify.com/track/6btkdvumrTmcFzy3oFpZqS"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -171,26 +211,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Thief (Flux Pavilion Remix)",
-        "url": "https://open.spotify.com/album/4kFd3dIqukGfolHILzWddZ"
-      },
-      "artists": [
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 271749,
-      "name": "Thief - Flux Pavilion Remix",
-      "url": "https://open.spotify.com/track/6btkdvumrTmcFzy3oFpZqS"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Brighter Future",
         "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 228169,
       "name": "All of Me (feat. Logic, ROZES)",
       "url": "https://open.spotify.com/track/3ISiZ0GzocM9ssIwqRn1AW"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "NOVA",
-        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "UCLA",
-      "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Bap U",
+        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 168206,
+      "name": "Bap U",
+      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Birdz (with Smokepurpp)",
         "url": "https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 162375,
       "name": "Birdz (with Smokepurpp)",
       "url": "https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Bap U",
-        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 168206,
-      "name": "Bap U",
-      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
-      },
-      "artists": [
-        {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
-        },
-        {
-          "name": "Lucii",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Dark Night Sweet Light",
         "url": "https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 235186,
       "name": "The Buzz - Bonus Track",
       "url": "https://open.spotify.com/track/6HDUnr41uGjxhMTzI1Hjmt"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        {
+          "name": "Lucii",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 127900,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Blood For Mercy",
         "url": "https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 168641,
       "name": "In My Room (feat. Ty Dolla $ign & Tyga)",
       "url": "https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 127900,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "AUTOPILOT",
-        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "SUB ZERO",
-      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Shiawase",
         "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 217787,
       "name": "Shiawase",
       "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "AUTOPILOT",
+        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "SUB ZERO",
+      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 160874,
       "name": "Pop Off",
       "url": "https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1191,6 +1191,42 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Tanglewood",
+        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "O.G.",
+        "url": "https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Foramic",
+          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "O.G.",
+      "url": "https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Blow the Roof",
         "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
       },
@@ -1211,18 +1247,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Tanglewood",
-        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
+        "name": "Redo",
+        "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
       },
       "artists": [
         {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         }
       ],
-      "duration_ms": 158961,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
+      "duration_ms": 197260,
+      "name": "Redo",
+      "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1251,22 +1287,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Redo",
-        "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 197260,
-      "name": "Redo",
-      "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Animal Vegetable Mineral Pt. 1",
         "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 249600,
       "name": "Flying Spaghetti Monster",
       "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "O.G.",
-        "url": "https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Foramic",
-          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "O.G.",
-      "url": "https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Rumor",
         "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "In Motion",
         "url": "https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy"
       },
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Pour All Night",
+        "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
+        }
+      ],
+      "duration_ms": 209016,
+      "name": "Pour All Night",
+      "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Active",
         "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 150370,
       "name": "Active",
       "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "It's Our Destiny",
-        "url": "https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "It's Our Destiny",
-      "url": "https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1679,22 +1679,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Pour All Night",
-        "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
+        "name": "It's Our Destiny",
+        "url": "https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         },
         {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
         }
       ],
-      "duration_ms": 209016,
-      "name": "Pour All Night",
-      "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
+      "duration_ms": 153600,
+      "name": "It's Our Destiny",
+      "url": "https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1967,18 +1967,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "futura",
-        "url": "https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND"
+        "name": "PHASE III",
+        "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
       },
       "artists": [
         {
-          "name": "Knapsack",
-          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "OG Maco",
+          "url": "https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu"
         }
       ],
-      "duration_ms": 206086,
-      "name": "Nothing Less",
-      "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
+      "duration_ms": 178333,
+      "name": "Mumbai Mode",
+      "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
     }
   ],
   "unique_name": "Trap Mojito",

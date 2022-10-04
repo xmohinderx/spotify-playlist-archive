@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127193,
+  "num_followers": 127205,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY1NSw0ZjQzMWI1YjcwZGJiZjhjYjRjYmM0OGFiNjM1OGY1MmU5OWM0NjYz",
+  "snapshot_id": "MzY1NyxmMjQ1NTI5NDlmNjhmMDMzYTQ1YjFkYzcyNmZlMzhmYzVkNDhhMDUz",
   "tracks": [
+    {
+      "added_at": "2022-10-03 16:05:57",
+      "album": {
+        "name": "RAD",
+        "url": "https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "RAD",
+      "url": "https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu"
+    },
     {
       "added_at": "2022-09-30 16:43:34",
       "album": {

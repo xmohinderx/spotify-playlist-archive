@@ -2,7 +2,7 @@
 
 ### [Stoner Rock](https://open.spotify.com/playlist/37i9dQZF1DXdpVGstUksUC)
 
-> You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Celebrating 20 years of Songs For The Deaf
+> You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
 257 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 

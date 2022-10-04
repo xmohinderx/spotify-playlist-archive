@@ -1,12 +1,12 @@
 {
   "description": "Tz da Coronel e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 151842,
+  "num_followers": 151960,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMDBjZDU5YzFiNmU0NzVlZDY5YTJkYTI3ZmY0YTQyMzc4",
+  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMGViZmQ1NTEyM2IxZjQwZDlmMWYyZjZmYjliZTEyZWNl",
   "tracks": [
     {
       "added_at": "2022-09-30 03:01:00",
@@ -771,30 +771,6 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "O Justo N\u00e3o Treme",
-        "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 169057,
-      "name": "O Justo N\u00e3o Treme",
-      "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
         "name": "Trap Funk Star",
         "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 206068,
       "name": "Pe\u00e7as De Griffe",
       "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "O Justo N\u00e3o Treme",
+        "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 169057,
+      "name": "O Justo N\u00e3o Treme",
+      "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Kim N Kanye",
-        "url": "https://open.spotify.com/album/7gQ2aVBOespHG0nqvJGSwu"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Kim N Kanye",
-      "url": "https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
         "name": "Contagem",
         "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 209032,
       "name": "Contagem",
       "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Kim N Kanye",
+        "url": "https://open.spotify.com/album/7gQ2aVBOespHG0nqvJGSwu"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Kim N Kanye",
+      "url": "https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI"
     },
     {
       "added_at": "2022-09-30 03:01:00",

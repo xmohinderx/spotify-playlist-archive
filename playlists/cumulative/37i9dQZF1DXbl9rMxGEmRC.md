@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-307 songs - 1 day 2 hr 49 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+308 songs - 1 day 2 hr 53 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,12 +238,13 @@
 | [Seance](https://open.spotify.com/track/71lFE7VKJwpeV7YhqgbATO) | [Black Royal](https://open.spotify.com/artist/33lkAv8r2X0dsr8AWzZ6MY) | [Seance](https://open.spotify.com/album/1aXSQVKyOk4gYUZPnC3eqN) | 4:46 | 2021-12-17 | 2022-03-11 |
 | [Seeds Of The Ancient Gods](https://open.spotify.com/track/1r9HG7xOQ2D51jYXuLWfwN) | [Old Man's Child](https://open.spotify.com/artist/4LT73i2bqTazQQkmODMaYf) | [Devil's Path / In The Shades Of Life](https://open.spotify.com/album/6kajasqy9oJmS8kacjAvJe) | 6:37 | 2022-07-13 | 2022-07-27 |
 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 | 2022-03-10 | 2022-04-02 |
-| [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 |  |
+| [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 | 2022-10-04 |
 | [Serpents](https://open.spotify.com/track/0wox07C2h9VVLmYoGwaFgZ) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Decade of Silence](https://open.spotify.com/album/0zImQSij3CAhYMlkGiCW78) | 5:50 | 2022-05-06 | 2022-07-21 |
 | [Sharpened Narcotics](https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Encased in Chrome](https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF) | 2:01 | 2022-03-18 | 2022-04-23 |
 | [Shrines in Cinder](https://open.spotify.com/track/5iitxeQ3eMPteFo9EmSpyb) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Shrines in Cinder](https://open.spotify.com/album/6oreJErT6gkTrUR6WFhABi) | 3:49 | 2022-04-22 | 2022-07-29 |
 | [Silence/Motion](https://open.spotify.com/track/42TSRptSYJCEiUHGDJgqFE) | [Blackwater Holylight](https://open.spotify.com/artist/2fqEhs5dZBrDLUqHvWRtBc) | [Silence/Motion](https://open.spotify.com/album/06rY9A3QaKVqDZRXXSjUYf) | 5:37 | 2021-12-17 | 2022-01-15 |
 | [Slaughterday \(The Heathen Blood Of Ours\)](https://open.spotify.com/track/1YIQen5eaBq0x0qvN4bKm7) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Memoria Vetusta I \- Fathers Of The Icy Age](https://open.spotify.com/album/3hVaadUlQTPQLoixWP6RDw) | 6:47 | 2022-07-13 | 2022-07-20 |
+| [Slaughterer of Souls](https://open.spotify.com/track/65lPFRIFFc1BPZaQMZAOx2) | [Autopsy](https://open.spotify.com/artist/6hR8mUd2yyHFazoCuweiIJ) | [Morbidity Triumphant](https://open.spotify.com/album/0rNeQyZdV5rD6U4xjXj21T) | 4:26 | 2022-10-04 |  |
 | [Slaves](https://open.spotify.com/track/4US8QCvhkPnO1D8pTznkom) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Massive Cauldron of Chaos](https://open.spotify.com/album/5KkMZp4jYbFgwwe8S9w13f) | 4:53 | 2022-07-13 | 2022-07-25 |
 | [Slaves Shall Serve](https://open.spotify.com/track/7fqAKOrf2T2wxCnN6u3MkJ) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [In Absentia Dei](https://open.spotify.com/album/3LAuN7xpQgqsrcA6q3oJd5) | 3:33 | 2021-12-17 | 2022-05-28 |
 | [Snowblood](https://open.spotify.com/track/3pkfVWPONcWQU5UAxWyALx) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [ERRA](https://open.spotify.com/album/3OuLJUIq1lBj8EUaoIQvWZ) | 4:13 | 2022-03-18 | 2022-04-23 |

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-191 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+193 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blame](https://open.spotify.com/track/1id6mxWTXeXYXgsriXJyTf) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Blame](https://open.spotify.com/album/59dntsJjxfrBurSijHw97J) | 3:03 | 2022-06-08 | 2022-06-17 |
 | [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 | 2022-06-08 | 2022-07-14 |
 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 | 2022-09-28 |  |
+| [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-10-03 |  |
 | [Bootstrap Jubilee](https://open.spotify.com/track/3NARbwmd4ssFkmFyYzTZkt) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [The Zug](https://open.spotify.com/album/20mNGpd1RlPbS0PZEW5uB5) | 2:32 | 2022-06-08 | 2022-06-23 |
 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 | 2022-08-24 |  |
 | [Bubble Guts \- Braxe + Falcon Remix](https://open.spotify.com/track/6la7L4Q1gUg7tvuDT5wMXI) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Bubble Guts \(Braxe + Falcon Remix\) \[feat\. Alan Braxe & DJ Falcon\]](https://open.spotify.com/album/64bSE3p846wtptM5cIaoAn) | 4:01 | 2022-06-16 | 2022-07-14 |
@@ -38,6 +39,7 @@
 | [C Tactile Afferent](https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [C Tactile Afferent](https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2) | 3:36 | 2022-06-22 | 2022-08-04 |
 | [Cherokee \- Dennis Bovell Remix](https://open.spotify.com/track/7e7g3iAm9dzSDMvk4zEFvt) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj), [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [Cherokee \(Dennis Bovell Remix\)](https://open.spotify.com/album/6N9DVmuPR2hWuJF9NYZVZP) | 7:46 | 2022-06-08 | 2022-06-23 |
 | [Choreograph](https://open.spotify.com/track/4TVCdDqsS0ciRGBaJaDaTX) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Choreograph](https://open.spotify.com/album/6EIxrBPdwROWiRipfElubz) | 3:53 | 2022-09-28 |  |
+| [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 | 2022-10-03 |  |
 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 | 2022-06-08 | 2022-06-30 |
 | [Cold Stones \- James Holden Remix](https://open.spotify.com/track/70WlQKVZ69JRYMmwCLyav7) | [XAM Duo](https://open.spotify.com/artist/4gkMjhOHSgudaN161imvTQ), [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Cold Stones \(James Holden Remix\)](https://open.spotify.com/album/451e5h6dw72kPMmAGzhH7h) | 11:23 | 2022-09-28 |  |
 | [Colour Film](https://open.spotify.com/track/1gjuzva1eaMj9nS8mldgmz) | [Joyeria](https://open.spotify.com/artist/4mECc7MwRyuIDdZdXRi5SB) | [Colour Film](https://open.spotify.com/album/4GjmRobInDP4UY65ZOZHI8) | 3:29 | 2022-08-10 | 2022-09-22 |

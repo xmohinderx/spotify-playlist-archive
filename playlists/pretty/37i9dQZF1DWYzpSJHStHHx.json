@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 470546,
+  "num_followers": 470640,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMDVjYjgxMDUyMDBlZGY4Y2U2MTFkNWQ3Yjc2ZDFkMTQ2",
+  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMGMwMjUzM2VlZDQxZmUxMmE3MmEyMGM5ZmM5ZWFjYjBl",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "off the grid",
         "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 191640,
       "name": "down bad",
       "url": "https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "The Double EP: A Sea of Split Peas",
-        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 152684,
       "name": "What a Pleasure",
       "url": "https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "The Babe Rainbow",
-        "url": "https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 156811,
-      "name": "Johny Says Stay Cool",
-      "url": "https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Dancin' With Wolves",
         "url": "https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 174586,
       "name": "Out In The Country",
       "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 156811,
+      "name": "Johny Says Stay Cool",
+      "url": "https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Talking Backwards",
-      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Tomorrow Is Alright",
         "url": "https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 199693,
       "name": "Too Young to Burn",
       "url": "https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Favorite Holiday, Vol. 1",
+        "url": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Fire Flower",
+      "url": "https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

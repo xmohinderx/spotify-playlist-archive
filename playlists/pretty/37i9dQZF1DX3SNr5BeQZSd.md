@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,151 likes - 91 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,425 likes - 91 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 53 | [i love being with you](https://open.spotify.com/track/1SJkTuUNKe4rYQgX8wmqku) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:36 |
 | 54 | [my new love](https://open.spotify.com/track/23gcQr3NRKzLXsP9H5jFQ1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:05 |
 | 55 | [Romantic Lofi Mashup](https://open.spotify.com/track/6rCt3zQpc2wRHjHhM8EwHB) | [Visual Chinmay](https://open.spotify.com/artist/6OQun0qxoOjStLIqxcmYK6) | [Romantic Lofi Mashup](https://open.spotify.com/album/6uLTofOp4wij6YCcb0Mwlu) | 4:00 |
-| 56 | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/track/76mGXrB0IiySJaDVePVFB4) | [Dj Vicky Belgaum](https://open.spotify.com/artist/6siFtgDx2JelAyqUsn1JmY) | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/album/2Mx02ZYosQ9v6Fuhfrj1ci) | 3:04 |
+| 56 | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/track/3GJTFYJKyOBuJoWpsfowXe) | [Dj Vicky Belgaum](https://open.spotify.com/artist/3iZYzGUWgZKf8yoKLWKlxy) | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/album/63tA1oIiubxZf1qHKWSQ1V) | 3:39 |
 | 57 | [One Summer Day \(Spirited Away\)](https://open.spotify.com/track/7eo2HVkRxrDU3bQPwEiIBT) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:25 |
 | 58 | [Is It Too Much to Ask For](https://open.spotify.com/track/5KPSKv02jtAsI7fmpT7enC) | [me7k](https://open.spotify.com/artist/5yXMtEjaBVEtGSyICT1w2b) | [Is It Too Much to Ask For](https://open.spotify.com/album/0IzYrQln8FJY0XwfYq3X6c) | 1:40 |
 | 59 | [one year has passed \(look at all we've been through\)](https://open.spotify.com/track/40MySZuE1XLm9ytnL3qDqy) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [one year has passed \(look at all we've been through\)](https://open.spotify.com/album/4R4XVKZaOXM88yX8W2YBIX) | 2:21 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 90 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 91 | [Drifting Off](https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:33 |
 
-Snapshot ID: `MTY2Mzg5MTIwMCwwMDAwMDAwMGUwNGIxNGUzNzgyYjE4ZWMyMTE0MDNlMWMxMDdiZGE2`
+Snapshot ID: `MTY2Mzg5MTIwMCwwMDAwMDAwMDA0YjZiZmE4NDM2NGNlOTU5NTA1YzhlMGU5YTRhNjU2`

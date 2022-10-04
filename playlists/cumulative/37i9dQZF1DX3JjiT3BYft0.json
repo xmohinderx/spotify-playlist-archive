@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315766,
+      "name": "A DECLARATION OF \u00d7\u00d7\u00d7",
+      "url": "https://open.spotify.com/track/5tmdbGdlFk5MckinctDpMj"
+    },
+    {
+      "album": {
         "name": "A DECLARATION OF \u00d7\u00d7\u00d7",
         "url": "https://open.spotify.com/album/6I9fsaIls8q8daqfyf38Qo"
       },
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 287033,
       "name": "CORUSCATE -DNA-",
       "url": "https://open.spotify.com/track/626g1z5FryZH84PZ4wsWhi"
@@ -1133,6 +1151,24 @@
       "duration_ms": 240666,
       "name": "fly with the night",
       "url": "https://open.spotify.com/track/4KvQX4py0s4DQJeeOBlRoB"
+    },
+    {
+      "album": {
+        "name": "fly with the night",
+        "url": "https://open.spotify.com/album/6AB9VDT1C7eTy8HGp82AEI"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240668,
+      "name": "fly with the night",
+      "url": "https://open.spotify.com/track/12PJ1yyFK9ksMl1vlFF1du"
     },
     {
       "album": {
@@ -2583,7 +2619,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 313266,
       "name": "Sonorous",
       "url": "https://open.spotify.com/track/7u4RhMcMNUEJS0T17OhumZ"
@@ -3591,7 +3627,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 235100,
       "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a~\u307f\u3093",
       "url": "https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY"
@@ -3947,7 +3983,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 279000,
       "name": "\u307d\u3063\u3074\u3093'\u3057\u3083\u3063\u3075\u308b",
       "url": "https://open.spotify.com/track/4oWEDswsb31s9ARNOu3Jhi"
@@ -4431,7 +4467,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 242166,
       "name": "\u30bc\u30c3\u30bf\u30a4\u5ba3\u8a00~Recital~",
       "url": "https://open.spotify.com/track/6R4xCec3924oT1bZBOmVwu"
@@ -4507,6 +4543,24 @@
       "duration_ms": 248626,
       "name": "\u30c4\u30ca\u30b0\u3001\u30bd\u30e9\u30e2\u30e8\u30a6",
       "url": "https://open.spotify.com/track/6HJSR4oCtRxucJxjWPrjVX"
+    },
+    {
+      "album": {
+        "name": "Poppin\u2019on!",
+        "url": "https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9",
+      "url": "https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ"
     },
     {
       "album": {

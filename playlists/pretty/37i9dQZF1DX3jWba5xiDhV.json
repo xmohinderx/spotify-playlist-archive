@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 49602,
+  "num_followers": 49857,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDE2OGE0NTQ4ZDQ0ZWUwZTM2MTgwMjhjODMwOGQwOGNh",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDJhN2JjMTQ1YTJhZmM1MzFmMTAwNjBmMWY0ZjY2M2M2",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Melanch\u00f3lia",
         "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 255000,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Barbara e altri Carella",
         "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 261330,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2022-09-08 22:01:00",

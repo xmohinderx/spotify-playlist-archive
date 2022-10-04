@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-757 songs - 1 day 15 hr 29 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+758 songs - 1 day 15 hr 33 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-07-31 |  |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-28 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-03 |
-| [Destiny](https://open.spotify.com/track/1kzbetwn68lwGzlV9Iifbe) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Destiny](https://open.spotify.com/album/1RO93xPA7ZSpzpuThSY9Rn) | 3:05 | 2022-10-01 |  |
+| [Destiny](https://open.spotify.com/track/1kzbetwn68lwGzlV9Iifbe) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Destiny](https://open.spotify.com/album/1RO93xPA7ZSpzpuThSY9Rn) | 3:05 | 2022-10-01 | 2022-10-04 |
 | [Deze Nacht Is Van Mij](https://open.spotify.com/track/4MKUsmY01wehe128yUmKm0) | [Thomas van der Vlugt](https://open.spotify.com/artist/4k93TM9rMTGkzdNFNkI6UX) | [Deze Nacht Is Van Mij](https://open.spotify.com/album/2WxBtDieSgNrJnFMCamFK0) | 2:49 | 2021-10-02 | 2021-10-05 |
 | [Did A Lotta Shit](https://open.spotify.com/track/1H1BM6ZjJQXZSd91Plo9UQ) | [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Did A Lotta Shit](https://open.spotify.com/album/0U8l6f8EoXe9km9Rt3fBJH) | 2:49 | 2022-09-03 | 2022-09-05 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-26 |
@@ -658,6 +658,7 @@
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-10-01 |  |
 | [Super Max!](https://open.spotify.com/track/4gqOzJPGNCvEnS1u5YHOkp) | [Pitstop Boys](https://open.spotify.com/artist/24UwzhsMtaOjBOL6483Jr6) | [Super Max!](https://open.spotify.com/album/5giBzXuOs4UpWuKEV7bHXX) | 3:45 | 2021-12-14 | 2021-12-16 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-16 | 2022-07-31 |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-10-03 |  |
 | [Sweet Water](https://open.spotify.com/track/3hV5aeKZrkVG1mwEOWeD82) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Sweet Water](https://open.spotify.com/album/1Bj66SUwZSlP6JAvD5d7AS) | 3:22 | 2021-05-21 | 2021-08-01 |
 | [Swim Deep](https://open.spotify.com/track/7mtvlvxKkwbHaINqnD3nLn) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Jordan Wayne](https://open.spotify.com/artist/3xq3F6vVN9QKcnEgpCDvQJ) | [Swim Deep](https://open.spotify.com/album/7jA1GELln53dMixAM8IVYy) | 3:03 | 2022-09-24 |  |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-11-11 |

@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-560 songs - 1 day 10 hr 19 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+561 songs - 1 day 10 hr 22 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO) | 3:07 | 2020-10-09 | 2021-09-24 |
 | [Imagine](https://open.spotify.com/track/3twYhdFChj2gHF0PZzDkHV) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 2\)](https://open.spotify.com/album/6i6aGouu4Zr6BAcSGJI5JT) | 3:41 | 2022-07-28 | 2022-09-23 |
 | [Imagine \[Feat\. PJ\]](https://open.spotify.com/track/2MntSatbcikLjKbpJoPgVV) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Imagine \[Feat\. PJ\]](https://open.spotify.com/album/5lMP421zrGKA48fUtdaDp0) | 3:41 | 2021-07-02 | 2022-07-29 |
-| [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 | 2022-07-21 |  |
+| [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 | 2022-07-21 | 2022-10-04 |
 | [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 | 2020-04-14 | 2021-09-24 |
 | [In Time You'll See](https://open.spotify.com/track/4zqhpVOEeNmlcJul331Oww) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [In Time You’ll See](https://open.spotify.com/album/70YPiQYnwbUDraYw5i3AnC) | 3:12 | 2022-04-01 | 2022-07-22 |
 | [In Your Head](https://open.spotify.com/track/6ICR8w1QJVh2vgKPj326W9) | [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [In Your Head](https://open.spotify.com/album/1MQ9lqM791VaRYnAyJepQ3) | 2:57 | 2020-10-30 | 2021-07-02 |
@@ -359,6 +359,7 @@
 | [Out Of Love](https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:50 | 2020-08-25 | 2022-01-28 |
 | [Out Of Love \- Version Française](https://open.spotify.com/track/7FJuyR7uB1j6Jo2bRYqqEk) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Out Of Love \(Version Française\)](https://open.spotify.com/album/2eSMD34MeXoeScV5nPQcJi) | 3:22 | 2020-11-28 | 2021-07-02 |
 | [Out Of My Hands \(feat\. Oddisee\)](https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Out Of My Hands \(feat\. Oddisee\)](https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB) | 3:36 | 2020-03-25\* | 2020-04-12 |
+| [Outside](https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Outside](https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO) | 3:09 | 2022-09-29 |  |
 | [Over](https://open.spotify.com/track/5hr67pD8cO73MfCpTJ3SbP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Over](https://open.spotify.com/album/06iYh595ysL4oYy3pxjnYB) | 2:56 | 2020-03-25\* | 2020-04-12 |
 | [Over & Out](https://open.spotify.com/track/5osNYKCZ2KckJadZ6HgHFf) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Over & Out](https://open.spotify.com/album/4UYgvGLKVw7sE8zrzrEZW1) | 3:05 | 2020-10-30 | 2020-12-05 |
 | [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 | 2021-02-24 | 2022-07-30 |

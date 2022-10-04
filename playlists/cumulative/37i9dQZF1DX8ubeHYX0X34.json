@@ -1760,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Lagan",
+        "url": "https://open.spotify.com/album/0G3x2gvv9mln6cJvCdyML2"
+      },
+      "artists": [
+        {
+          "name": "Haroon",
+          "url": "https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278813,
+      "name": "Mahbooba",
+      "url": "https://open.spotify.com/track/33QlB4QT6ch7weJkrziPzZ"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc"
       },
@@ -3313,7 +3331,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 314493,
       "name": "Ucchayan Majajan Aali",
       "url": "https://open.spotify.com/track/290a4qvrJNMeJQaxotj9X1"

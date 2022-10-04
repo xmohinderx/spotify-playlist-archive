@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373708,
+  "num_followers": 373707,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDY3ZTUwZGU2OGY5ZDg5ODZmOGMwMThmNzBkZGM5YTJk",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDhhNmE1NzQ5YzRjMzg2MmQ4MjYyMTU5MjBlZmMyODlj",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -339,6 +339,22 @@
       "duration_ms": 167551,
       "name": "The Kids Are All Dying",
       "url": "https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -563,26 +579,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "The Juicebox",
-        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 177409,
-      "name": "Bonafide (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "RELAXER",
         "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
       },
@@ -599,18 +595,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Home of Sanity (the playlist)",
-        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
         }
       ],
-      "duration_ms": 236167,
-      "name": "ophelie",
-      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+      "duration_ms": 177409,
+      "name": "Bonafide (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Phase (Deluxe)",
-        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
       "artists": [
         {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
         }
       ],
-      "duration_ms": 260866,
-      "name": "Surprise Yourself",
-      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -663,6 +663,22 @@
       "duration_ms": 231625,
       "name": "Ndokulandela",
       "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Phase (Deluxe)",
+        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+      },
+      "artists": [
+        {
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Surprise Yourself",
+      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -791,22 +807,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Boy in Jeans",
-        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 216003,
-      "name": "Haircut",
-      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Concrete",
         "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 152051,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Boy in Jeans",
+        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 216003,
+      "name": "Haircut",
+      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 235464,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Naive",
         "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
       },
@@ -1155,38 +1187,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
-      },
-      "artists": [
-        {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 235464,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 247934,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1387,26 +1403,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Run Run (Japanese Wallpaper Remix)",
-        "url": "https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr"
+        "name": "Roses & Revolutions",
+        "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        },
-        {
-          "name": "Samuraii",
-          "url": "https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO"
-        },
-        {
-          "name": "Japanese Wallpaper",
-          "url": "https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM"
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
         }
       ],
-      "duration_ms": 205002,
-      "name": "Run Run - Japanese Wallpaper Remix",
-      "url": "https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX"
+      "duration_ms": 187466,
+      "name": "The Pines",
+      "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1427,18 +1435,26 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Roses & Revolutions",
-        "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
+        "name": "Run Run (Japanese Wallpaper Remix)",
+        "url": "https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr"
       },
       "artists": [
         {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        },
+        {
+          "name": "Samuraii",
+          "url": "https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO"
+        },
+        {
+          "name": "Japanese Wallpaper",
+          "url": "https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM"
         }
       ],
-      "duration_ms": 187466,
-      "name": "The Pines",
-      "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
+      "duration_ms": 205002,
+      "name": "Run Run - Japanese Wallpaper Remix",
+      "url": "https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "The Mathematics of Nature",
-        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
-      },
-      "artists": [
-        {
-          "name": "Matthew Chaim",
-          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
-        }
-      ],
-      "duration_ms": 363841,
-      "name": "Winter/Fall",
-      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "One & Only",
         "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 246750,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "The Mathematics of Nature",
+        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
+      },
+      "artists": [
+        {
+          "name": "Matthew Chaim",
+          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
+        }
+      ],
+      "duration_ms": 363841,
+      "name": "Winter/Fall",
+      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1619,6 +1635,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 173375,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
       },
@@ -1635,18 +1667,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI"
       },
       "artists": [
         {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 173375,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl"
+      "duration_ms": 213936,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1667,22 +1699,6 @@
       "duration_ms": 218506,
       "name": "Interstellar Love (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI"
-      },
-      "artists": [
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 213936,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1735,22 +1751,6 @@
       "duration_ms": 246409,
       "name": "A Million Times - HONNE remix",
       "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Cold Blood",
-        "url": "https://open.spotify.com/album/0sC0ZuAkEzQcBVbE9tV9ZS"
-      },
-      "artists": [
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
-        }
-      ],
-      "duration_ms": 236338,
-      "name": "Cold Blood",
-      "url": "https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK"
     }
   ],
   "unique_name": "Creativity Boost",

@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 81293,
+  "num_followers": 81389,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDFjNzMzMThkOTQzOTYyOGJkNmFjY2ZjZTVjOGMzY2Rl",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGI5NGM2YTI4NGQyYWNiNGFlN2Y1Mjc4NmE4ZDdkZmMx",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Caravan Of Dreams",
+        "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 360160,
+      "name": "Caravan of Dreams",
+      "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Chill Factor",
         "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Caravan Of Dreams",
-        "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
+        "name": "Just Between Us",
+        "url": "https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 360160,
-      "name": "Caravan of Dreams",
-      "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
+      "duration_ms": 308906,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -183,22 +199,6 @@
       "duration_ms": 314080,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Just Between Us",
-        "url": "https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -347,18 +347,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Pieces Of A Dream",
-        "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
+        "name": "Fourplay",
+        "url": "https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy"
       },
       "artists": [
         {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
         }
       ],
-      "duration_ms": 246653,
-      "name": "Warm Weather - 12\" Version",
-      "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
+      "duration_ms": 356040,
+      "name": "101 Eastbound",
+      "url": "https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Fourplay",
-        "url": "https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy"
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
       },
       "artists": [
         {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
         }
       ],
-      "duration_ms": 356040,
-      "name": "101 Eastbound",
-      "url": "https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1"
+      "duration_ms": 246653,
+      "name": "Warm Weather - 12\" Version",
+      "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -619,6 +619,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Straight To You",
         "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 327733,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 308133,
       "name": "Treasure Hunt",
       "url": "https://open.spotify.com/track/2hcMx8eNF3f2gi5B1oY6Eo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
     },
     {
       "added_at": "2020-08-19 00:00:21",

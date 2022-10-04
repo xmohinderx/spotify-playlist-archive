@@ -4,7 +4,7 @@
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Ayra Starr & Kelly Rowland
 
-195 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
+196 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Solid \(feat\. Blxst & Kehlani\)](https://open.spotify.com/track/1XhaUSmhANVIRtDvs7p2UP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:15 | 2022-07-08 |  |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2021-12-17 | 2022-03-26 |
 | [Soul Talk](https://open.spotify.com/track/136YrbHq6kb1sb1a5lJSQ4) | [Jay Loud](https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A) | [Soul Talk](https://open.spotify.com/album/1VbiUBo1Sf4ajLnNILyEG8) | 2:29 | 2021-12-17 | 2022-03-26 |
+| [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 | 2022-10-03 |  |
 | [Star \(feat\. Lucky Daye\)](https://open.spotify.com/track/3mgN4TJIX6hXrytf0qKhYt) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:30 | 2022-08-12 | 2022-09-10 |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2021-12-17 | 2022-07-16 |
 | [Stay Down \(feat\. Yung Bleu\)](https://open.spotify.com/track/3HLb8PRE1JcZTJoveY3Mez) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Stay Down \(feat\. Yung Bleu\)](https://open.spotify.com/album/3cD1mioxU5VL4gTD70U11D) | 3:50 | 2021-12-17 | 2022-06-04 |

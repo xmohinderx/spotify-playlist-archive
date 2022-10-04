@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2914,
+  "num_followers": 2928,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDE2ZWEzOGUzY2Y2YjI2NDM1NmIzN2IxNzZmNDc5YWVi",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGI5ZmNjZDJhZGE2NGIxMDI5NDM0YzQ3NDhiZGI2M2Qy",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
-      },
-      "artists": [
-        {
-          "name": "Swoope",
-          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
-        }
-      ],
-      "duration_ms": 156749,
-      "name": "Put In Work",
-      "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "WAITING",
         "url": "https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 177230,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
+      },
+      "artists": [
+        {
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+        }
+      ],
+      "duration_ms": 156749,
+      "name": "Put In Work",
+      "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Not for Sale",
-        "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
-      },
-      "artists": [
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 222916,
-      "name": "1994 (feat. Aaron Cole)",
-      "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Marty For President 2",
         "url": "https://open.spotify.com/album/5q0lLOpbosrUJTR3oRztJw"
       },
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Not for Sale",
+        "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 222916,
+      "name": "1994 (feat. Aaron Cole)",
+      "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "My Way - Deluxe",
         "url": "https://open.spotify.com/album/41NpQCQDvSjmFQKdDVUavh"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 152080,
       "name": "It's Ok To Cry",
       "url": "https://open.spotify.com/track/1g44VevpKcRL9v7Pt6Cyc4"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "97",
+        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1259,22 +1275,6 @@
       "duration_ms": 214554,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "97",
-        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Genes",
-        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 134399,
-      "name": "Genes",
-      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -1411,22 +1395,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "ABOVE ME (feat. Parris Chariz)",
-        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
+        "name": "Genes",
+        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
         }
       ],
-      "duration_ms": 167142,
-      "name": "ABOVE ME (feat. Parris Chariz)",
-      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
+      "duration_ms": 134399,
+      "name": "Genes",
+      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1447,6 +1427,26 @@
       "duration_ms": 220000,
       "name": "In the Garden",
       "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "ABOVE ME (feat. Parris Chariz)",
+        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "ABOVE ME (feat. Parris Chariz)",
+      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1503,26 +1503,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/17kgXPWtd9Km3qeZjjovrD"
+        "name": "I's On Him",
+        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Jay Violet",
+          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
         },
         {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        },
-        {
-          "name": "Not Klyde",
-          "url": "https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw"
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
         }
       ],
-      "duration_ms": 226031,
-      "name": "WATER 4 ME (feat. Not Klyde, Parris Chariz)",
-      "url": "https://open.spotify.com/track/6kgt5uW1TRJW4FSgL44WBe"
+      "duration_ms": 181416,
+      "name": "I's On Him",
+      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1547,26 +1543,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "I's On Him",
-        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
-      },
-      "artists": [
-        {
-          "name": "Jay Violet",
-          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "I's On Him",
-      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "STILL GOING",
         "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
       },
@@ -1579,6 +1555,30 @@
       "duration_ms": 88294,
       "name": "STILL GOING",
       "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/17kgXPWtd9Km3qeZjjovrD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "Not Klyde",
+          "url": "https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw"
+        }
+      ],
+      "duration_ms": 226031,
+      "name": "WATER 4 ME (feat. Not Klyde, Parris Chariz)",
+      "url": "https://open.spotify.com/track/6kgt5uW1TRJW4FSgL44WBe"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Everywhere + Nowhere (Black Edition Deluxe)",
+        "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 188443,
+      "name": "Very Original",
+      "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Only U Forever",
         "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
       },
@@ -1671,26 +1691,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Everywhere + Nowhere (Black Edition Deluxe)",
-        "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
-      },
-      "artists": [
-        {
-          "name": "Guvna B",
-          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        }
-      ],
-      "duration_ms": 188443,
-      "name": "Very Original",
-      "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Enemies and Foes",
         "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
       },
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Little Longer",
         "url": "https://open.spotify.com/album/6N6y7ags2X6ZQPXJuAH3PC"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 198152,
       "name": "Little Longer",
       "url": "https://open.spotify.com/track/7gETe38EeZmGFM6Ij0rClG"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        },
-        {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1955,26 +1955,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Heard Not Seen III",
-        "url": "https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk"
+        "name": "Tru Talk Tony, Vol. 1",
+        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
       },
       "artists": [
         {
-          "name": "theBeatbreaker",
-          "url": "https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "TNED",
-          "url": "https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 195927,
-      "name": "Striking Matches (feat. 1K Phew & TNED)",
-      "url": "https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5"
+      "duration_ms": 192000,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
     }
   ],
   "unique_name": "Blessings",

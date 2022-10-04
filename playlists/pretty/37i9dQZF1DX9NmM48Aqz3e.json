@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 49019,
+  "num_followers": 49028,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDYwMjNhYmE2OGRmYzMyZDVjNDhlYTgyN2YwYTIyNmU5",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMGUwYzI0Yjg2NTlhZjY1YmQ5MGNkZDNjYmQ2OTY0MGVi",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Wide Mouth Mason",
+        "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
+      },
+      "artists": [
+        {
+          "name": "Wide Mouth Mason",
+          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Cash Crop + Bonus Track",
         "url": "https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 247706,
       "name": "Northern Touch (feat. Kardinal Offishall, Thrust, Choclair & Checkmate)",
       "url": "https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Wide Mouth Mason",
-        "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
-      },
-      "artists": [
-        {
-          "name": "Wide Mouth Mason",
-          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
     },
     {
       "added_at": "2021-09-21 20:57:50",

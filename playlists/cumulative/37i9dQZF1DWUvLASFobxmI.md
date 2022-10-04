@@ -2,9 +2,9 @@
 
 ### [Norteño 2022](https://open.spotify.com/playlist/37i9dQZF1DWUvLASFobxmI)
 
-> Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Dos Carnales en portada.
+> Bravías, románticas y rancheras, las mejores canciones norteñas\. Duelo en portada.
 
-163 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+164 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,11 @@
 | [Bonita](https://open.spotify.com/track/3lMpb1ihVyjs2rI4hEsFuB) | [Los Dorados](https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE) | [Bonita](https://open.spotify.com/album/0TMcUlPu5tEb9a2c8EcX0a) | 3:21 | 2022-02-22 | 2022-07-29 |
 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 | 2022-02-22 |  |
 | [Cada Vez Mas](https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 3:14 | 2022-07-01 |  |
-| [Caricatura](https://open.spotify.com/track/2T5nAEkXMX49j29nMVt6qU) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [La Proxima Semana](https://open.spotify.com/album/2qtB3x29yzmsfy5Qm0U4cx) | 3:19 | 2022-09-02 |  |
+| [Caricatura](https://open.spotify.com/track/2T5nAEkXMX49j29nMVt6qU) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [La Proxima Semana](https://open.spotify.com/album/2qtB3x29yzmsfy5Qm0U4cx) | 3:19 | 2022-09-02 | 2022-10-04 |
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2022-03-11 |  |
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-07-01 |  |
 | [Corazón Mágico](https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:13 | 2022-06-20 |  |
-| [Cuando Me Besas](https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D) | [La Fe Norteña De Toño Aranda](https://open.spotify.com/artist/6MMoDGT2Mm3lz5sfVcd3Ck) | [Cuando Me Besas](https://open.spotify.com/album/3iy4zgwoDyLZ9kLRza45nx) | 2:59 | 2022-07-15 |  |
+| [Cuando Me Besas](https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D) | [La Fe Norteña De Toño Aranda](https://open.spotify.com/artist/6MMoDGT2Mm3lz5sfVcd3Ck) | [Cuando Me Besas](https://open.spotify.com/album/3iy4zgwoDyLZ9kLRza45nx) | 2:59 | 2022-07-15 | 2022-10-04 |
 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 | 2022-07-01 | 2022-09-03 |
 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 | 2022-07-01 | 2022-08-06 |
 | [Cuervo Sierra](https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX) | 2:55 | 2022-01-14 | 2022-07-29 |
@@ -91,7 +91,7 @@
 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 | 2022-07-01 |  |
 | [La Siembra](https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Para Valientes, Vol.1](https://open.spotify.com/album/7mGVKM49bCCwGshz1kEOLl) | 3:54 | 2022-09-19 |  |
 | [La Vieja Escuela](https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F) | [4 de a Caballo](https://open.spotify.com/artist/41JHmI3S4Jo07FN7oXyeMI), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Vieja Escuela](https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz) | 3:11 | 2022-07-01 | 2022-08-06 |
-| [La Última y Nos Vamos](https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Última y Nos Vamos](https://open.spotify.com/album/6FrH1j5lnmSaYUoAkVCQRU) | 2:36 | 2022-07-01 | 2022-10-01 |
+| [La Última y Nos Vamos](https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Última y Nos Vamos](https://open.spotify.com/album/6FrH1j5lnmSaYUoAkVCQRU) | 2:36 | 2022-07-01 |  |
 | [Las Dos Cruces](https://open.spotify.com/track/3smZXzA9dK9vtp8FCdmcWu) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Las Dos Cruces](https://open.spotify.com/album/03bmyBTbfySmUISLdPPdMj) | 4:05 | 2022-07-01 | 2022-09-03 |
 | [Las Pisteadas del Cholo](https://open.spotify.com/track/27anj0A7YhGw0rKCHZqy34) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Hombres de Honor](https://open.spotify.com/album/3ovOIwg4sOP0ElTa9yg8Wz) | 4:24 | 2022-07-01 |  |
 | [Levantando Polvadera](https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Levantando Polvadera \(Versión Deluxe\)](https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6) | 3:05 | 2022-07-01 | 2022-08-06 |
@@ -114,6 +114,7 @@
 | [Ni Con Labios Prestados](https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ni Con Labios Prestados](https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx) | 4:04 | 2022-07-15 |  |
 | [Ni Volviendo a Nacer](https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Ni Volviendo a Nacer](https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W) | 2:46 | 2022-08-29 |  |
 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 | 2022-06-10 |  |
+| [No Digas No](https://open.spotify.com/track/16358eKjCVFsvHs7fy0UCC) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [No Digas No](https://open.spotify.com/album/1AUg2PEpmCRm9G82UH0NGb) | 3:19 | 2022-10-03 |  |
 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 | 2022-04-15 |  |
 | [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 | 2022-08-16 |  |
 | [No Me Hubiera Enamorado](https://open.spotify.com/track/6XiSceaDaO2vaYF2B2A70t) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:27 | 2021-12-17 |  |

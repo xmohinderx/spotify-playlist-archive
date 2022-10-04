@@ -4,7 +4,7 @@
 
 > Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262?si=Vs4aByj4SRSSW\_bcV7\-TrA">Jacques Leonard</a>
 
-50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/0RKP7WChEoliblztnGqALh)
+52 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/0RKP7WChEoliblztnGqALh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 |  |
 | [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 | 2022-09-08 |  |
 | [C'est La Vie](https://open.spotify.com/track/5Ih49pHF0yWdgMVmiFOZOV) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [C'est La Vie](https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ) | 3:19 | 2022-09-01 |  |
-| [Die Breils](https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Die Breils](https://open.spotify.com/album/5TW1O0JwrQHoEm99vysUjQ) | 3:03 | 2022-09-15 |  |
+| [Die Breils](https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Die Breils](https://open.spotify.com/album/5TW1O0JwrQHoEm99vysUjQ) | 3:03 | 2022-09-15 | 2022-10-04 |
 | [Dolla](https://open.spotify.com/track/76sB2FlXnGnayUOR10SJwu) | [Touch Of Class](https://open.spotify.com/artist/5gmWNn07FGOGzN2qFhfOuW) | [Dolla](https://open.spotify.com/album/1uyQorBHkPN1BHBBfhFmdL) | 2:31 | 2022-09-08 |  |
 | [EEN TWEE](https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [EEN TWEE](https://open.spotify.com/album/3MO3xOBykVnnbqOCXzg1JB) | 2:25 | 2022-08-11 |  |
 | [Ek Is Daar](https://open.spotify.com/track/43t3KXhjckS3XWoglELKfx) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Ek Is Daar](https://open.spotify.com/album/2vVmvc6mx1a8Qme5By7nEK) | 2:51 | 2022-09-01 |  |
@@ -23,7 +23,7 @@
 | [Glo](https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ) | [Jacques Leonard](https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262) | [Glo](https://open.spotify.com/album/50ehh8dDKeB8qjwLboZ2ez) | 3:28 | 2022-09-29 |  |
 | [H2Oë](https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [H2Oë](https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP) | 2:55 | 2022-08-25 |  |
 | [Haai Haai](https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Haai Haai](https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y) | 3:18 | 2022-08-11 |  |
-| [Happy Family](https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd), [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Happy Family](https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21) | 4:04 | 2022-09-22 |  |
+| [Happy Family](https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd), [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Happy Family](https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21) | 4:04 | 2022-09-22 | 2022-10-04 |
 | [Honeymoon\-gevoel](https://open.spotify.com/track/2643ylNVzFIUMxlIaS9g31) | [Khail West](https://open.spotify.com/artist/6WIYP1qpwG4xW3zOMFAUz2) | [Honeymoon\-gevoel](https://open.spotify.com/album/4GEXphU8yCdhXywnsm2zFm) | 3:15 | 2022-09-15 |  |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-08-11 |  |
 | [Jy Moet Weet](https://open.spotify.com/track/5Xm5GGCHsfRFU2lEvzuBDy) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Jy Moet Weet](https://open.spotify.com/album/3nQ2cPzgpbuA5QwUhwBhRj) | 3:17 | 2022-09-01 |  |
@@ -36,6 +36,7 @@
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-08-11 |  |
 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-11 |  |
 | [Meisie Van Fraserburg](https://open.spotify.com/track/2TwzvxiOUxwC1FGrrzAamc) | [Francois Boyce](https://open.spotify.com/artist/0Hyqs3YkRrCLahzGsb8qk3) | [Meisie van Fraserburg](https://open.spotify.com/album/73e09G7FUYUGzXlktr5I5g) | 3:04 | 2022-09-22 |  |
+| [My Hele Lyf](https://open.spotify.com/track/3HTL5qBOzXLFU5snDl5krF) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Seisoen 2 \- Top 5](https://open.spotify.com/album/7mY9sILLbKkZjJOeoJp4Fp) | 3:06 | 2022-10-03 |  |
 | [Namib Woestyn](https://open.spotify.com/track/1ebyQrrQOHHJbtgwFOSTiF) | [Gian Groen](https://open.spotify.com/artist/1AUYjVNNS9NRuu6wHeXSqg) | [Namib Woestyn](https://open.spotify.com/album/7lOdh3muDFGlPCsJgfTEZb) | 3:25 | 2022-09-15 |  |
 | [Naweek Vibes](https://open.spotify.com/track/4DvuCPPkfeJwb2yKaqM4DN) | [Ché](https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90) | [Naweek Vibes](https://open.spotify.com/album/1SxMdba2nA4k8Phj8jiRXs) | 3:21 | 2022-08-11 |  |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-09-22 |  |
@@ -51,6 +52,7 @@
 | [Skattie](https://open.spotify.com/track/1VJKNRIZ1LYNAOxIN01iNd) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Skattie](https://open.spotify.com/album/36cu3ZQxgHuLvIj3BUEynA) | 3:30 | 2022-09-29 |  |
 | [Skildery \(Remix\)](https://open.spotify.com/track/4Sy3SykXit0psixwPq0KtO) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Skildery \(Remix\)](https://open.spotify.com/album/4kHqoFMstt9NCU6WJfejDn) | 4:52 | 2022-09-29 |  |
 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 | 2022-08-11 |  |
+| [Skuiling](https://open.spotify.com/track/2Zxrvy0wT08SxsVkrlI8As) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Skuiling](https://open.spotify.com/album/3lsrsVNzUET0EIbUMCIda2) | 3:39 | 2022-10-03 |  |
 | [Slaap Jy Al](https://open.spotify.com/track/66F6n7idekMz8lu3s5sTwq) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Van Der Aven](https://open.spotify.com/album/3szF7dfZ2BtD2wr4aHNkN5) | 3:46 | 2022-09-29 |  |
 | [Vanaand](https://open.spotify.com/track/265KkVKacgXwcrLQuLj9ON) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Vanaand](https://open.spotify.com/album/0iwYj6LKFLhSUVDXF5vygz) | 3:27 | 2022-08-25 |  |
 | [Vertrou](https://open.spotify.com/track/3JczmBfhHBvYBpnwRZz5It) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Vertrou](https://open.spotify.com/album/73zmr0JdcAv2MkwfnY91BB) | 3:50 | 2022-08-25 |  |

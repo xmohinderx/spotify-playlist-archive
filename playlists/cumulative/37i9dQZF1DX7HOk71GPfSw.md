@@ -4,7 +4,7 @@
 
 > ft\. Bladee
 
-1,450 songs - 2 day 17 hr 55 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,451 songs - 2 day 17 hr 59 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1109,6 +1109,7 @@
 | [selective altruism](https://open.spotify.com/track/5t1L2Es0faTlZsAkfLTHVA) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [selective altruism](https://open.spotify.com/album/794UU4K5mVMCdraXNCSnvB) | 3:23 | 2022-06-10 | 2022-08-20 |
 | [Self Defense](https://open.spotify.com/track/0LGEep2AyBWAGLgVKWH6XP) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Stretch 2](https://open.spotify.com/album/0EENZAipASKMdo404CPRwE) | 2:20 | 2021-05-08 | 2021-05-15 |
 | [Self Destruct](https://open.spotify.com/track/4ysFUHV0U6cxRECKZat00X) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Self Destruct \(feat\. Wuki\)](https://open.spotify.com/album/0fmFrDxcDUO2EUkdgnazA8) | 2:15 | 2021-02-10 | 2021-02-26 |
+| [Self Service 1999 \- Instupendo Remix](https://open.spotify.com/track/5Kvt6aNWqK7o1fjmo12RzQ) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [memoryland enhanced](https://open.spotify.com/album/5sZPUIuGwiLmESF5oUYHDs) | 3:35 | 2022-10-03 |  |
 | [self\-esteem](https://open.spotify.com/track/02wZeI0pdVXOv3ZeTJVFlB) | [webcage](https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8) | [peer2peer](https://open.spotify.com/album/15ekvk8A3UT9LEz2bWsTVp) | 2:58 | 2022-03-10 | 2022-06-04 |
 | [selfdestruct](https://open.spotify.com/track/0JEViMA9EhoTE501kxvJMU) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [selfdestruct](https://open.spotify.com/album/38MgHK12c40SSoNDvMrtlK) | 2:33 | 2022-01-07 | 2022-04-09 |
 | [selfish](https://open.spotify.com/track/5WvgvCFMADGVDAX0WfFqJd) | [polearm](https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC) | [selfish](https://open.spotify.com/album/3mopMvb61AwluDDpjnv9js) | 1:47 | 2021-01-23 | 2021-12-20 |

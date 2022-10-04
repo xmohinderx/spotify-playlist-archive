@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Prince
 
-88 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+89 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alaikadal](https://open.spotify.com/track/7kcMEKsmqgfq68gSQk6F9c) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Antara Nandy](https://open.spotify.com/artist/5t0Sf8M5KByD2fIBiVKavT) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 5:14 | 2022-09-13 |  |
 | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/track/78xl1agm6jjt1u7YvgWtLo) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH) | 3:44 | 2022-07-23 |  |
 | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/track/5TCmpwdXWcTvUvX52tHuOa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/album/5wGTuwwxCEhotwZpDTs6nL) | 3:01 | 2021-12-22 |  |
+| [Azhagula Rasathi \- From "Pistha"](https://open.spotify.com/track/2fmRdVTuJV8pvxEP972DHI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Vaishali Jaishankar](https://open.spotify.com/artist/2X0hRi1b1JJboBlbgHYtak), [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF) | [Pistha](https://open.spotify.com/album/2m9Ps55nhonZ3Lggc4IHJT) | 4:13 | 2022-10-03 |  |
 | [Azhaikiradhae](https://open.spotify.com/track/1hsGje3u3fxklQlKXF39xY) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Samrat Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:02 | 2022-05-19 | 2022-06-29 |
 | [Baby](https://open.spotify.com/track/4t14FoGOyLUyadT7RkzZNO) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Baby \(From "Madhil Mel Kaadhal"\)](https://open.spotify.com/album/1lbLfuJjIfjOMA21icZGzw) | 4:27 | 2022-06-20 |  |
 | [Baby Gurl \- From "Coffee With Kadhal"](https://open.spotify.com/track/4QMMw7v3KYc7lXFWqPXd8L) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Baby Gurl \(From "Coffee With Kadhal"\)](https://open.spotify.com/album/7yiREHekAr0JxfJRyjTRmL) | 3:40 | 2022-07-15 |  |

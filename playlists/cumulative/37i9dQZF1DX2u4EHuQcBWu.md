@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-268 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
+269 songs - 17 hr 45 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [El Platanal](https://open.spotify.com/track/1mxZqUgZsaBbt4R6hmova4) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [La 22](https://open.spotify.com/album/3kv7qONi9RFW5RngcBN6Zj) | 3:15 | 2021-09-24 | 2022-07-29 |
 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 | 2021-09-24 |  |
 | [El Wall](https://open.spotify.com/track/00MXsjYKxtLgohKqsXAAHA) | [Jarana Beat](https://open.spotify.com/artist/34y5NnlN2zQYqZZWwYSy60), [Ana Tijuox](https://open.spotify.com/artist/2TEJXR9asamFJ7EMuuFpKE), [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [El Wall](https://open.spotify.com/album/4L1giQreKUcrCX2gJo8O6A) | 2:54 | 2021-09-24 | 2022-07-28 |
-| [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 | 2021-09-24 |  |
+| [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 | 2021-09-24 | 2022-10-04 |
 | [En la Lucha](https://open.spotify.com/track/1kLszuJWePIjSPW6r9f7il) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [En la Lucha](https://open.spotify.com/album/05jjkEykkTgTt59mYV6ZUg) | 3:39 | 2021-09-24 | 2022-07-29 |
 | [En Paro](https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 4:32 | 2021-09-24 |  |
 | [Escribo Rap Con R De Revolución](https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:17 | 2021-09-24 |  |
@@ -193,6 +193,7 @@
 | [OjoxOjo](https://open.spotify.com/track/4drsa9wk7jamFo12KbLsBh) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X), [Waikil](https://open.spotify.com/artist/189qjfWGFO4zb5aDu5lFCk) | [OjoxOjo](https://open.spotify.com/album/0dnLO8O0VP5vKorPYzQ7Ft) | 3:35 | 2021-09-24 | 2022-07-28 |
 | [Otra Humanidad](https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws) | [Marta](https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q) | [Marta](https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR) | 3:27 | 2021-09-24 | 2022-07-26 |
 | [Otros Nosotros](https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf) | [Sax](https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1), [Salvador Moreno](https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs) | [Otros Nosotros](https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ) | 3:34 | 2021-09-24 | 2022-07-25 |
+| [Paco Vampiro](https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX) | 3:21 | 2021-09-24 |  |
 | [Paco Vampiro](https://open.spotify.com/track/2otUwrengshAA1KlSTCZvR) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/02ETw0EbNXJGl6LlBjgdUm) | 3:21 | 2021-09-24 | 2022-09-11 |
 | [Papá Se Fue en un Barco](https://open.spotify.com/track/58okzh74KT9IIFnPNSsF7A) | [Patiño](https://open.spotify.com/artist/4eepaYCA8Byw10I7CuXhgx), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Papá Se Fue en un Barco](https://open.spotify.com/album/6yIl7k6CkwUF5xhIiOCJPv) | 3:06 | 2021-09-24 | 2022-07-28 |
 | [Para Que Nunca Mas](https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Antología del Canto Nuevo Vol\. 2](https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu) | 2:27 | 2021-09-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: GLAY",
-  "num_followers": 236585,
+  "num_followers": 236618,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMGY2ZDMyODAzOGE0YzRhNzJhNjUzMmIyOTg4ZmE3MGRk",
+  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMDAzMGJmNmY3Yzk3Mjk1ZWFkOTBhZWJmMzJjNWVlOGI5",
   "tracks": [
     {
       "added_at": "2022-09-29 15:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
+        "name": "\u97f3\u697d",
+        "url": "https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "\u7dd1\u9152",
+      "url": "https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
         "name": "Unleash",
         "url": "https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 190840,
       "name": "Unleash!!!!!",
       "url": "https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
-        "name": "yoake",
-        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "yoake",
-      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
     }
   ],
   "unique_name": "Big in Japan",
