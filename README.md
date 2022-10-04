@@ -4500,6 +4500,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Top Picks holiday](/playlists/pretty/4uLnCAHJw65SyFXXmBSuc0.md)
 - [Top Sharqi Hits](/playlists/pretty/37i9dQZF1DXe3aCmUoBd8n.md)
 - [Top Shower Songs](/playlists/pretty/0RTz1jFo5BXGPfI8eVf8sj.md)
+- [Top Songs \- Taiwan](/playlists/pretty/37i9dQZEVXbMVY2FDHm6NN.md)
 - [Top Streaming Artists of 2021](/playlists/pretty/0mfbHbmy45RZa77K1Us3cd.md)
 - [Top Tracks for Children 2021](/playlists/pretty/37i9dQZF1DXdYpPM74QBGK.md)
 - [Top Tracks for Kids and Families 2021](/playlists/pretty/37i9dQZF1DXbfRwViuerGJ.md)
