@@ -1,12 +1,12 @@
 {
   "description": "Portola Festival takes over the metropolis playlist bringing you some heaters.",
-  "num_followers": 809188,
+  "num_followers": 809373,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM4NzIwMCwwMDAwMDAwMDAyMDY0MmNhMjVkODdmZTcyZDExOTdmMzZkZjhmZTkx",
+  "snapshot_id": "MTY2MzM4NzIwMCwwMDAwMDAwMGE3NTVkMDFhNThhZjZjZTc2M2U5YzUyNzIyNjcyZTMy",
   "tracks": [
     {
       "added_at": "2022-09-17 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Casita",
-        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Casita",
-      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
+        "name": "Casita",
+        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Casita",
+      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Who's Gonna Love You Tonight (with Tinashe)",
-        "url": "https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "Who's Gonna Love You Tonight (with Tinashe)",
-      "url": "https://open.spotify.com/track/0HPJa3SJksQakwtOrJT7pj"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
         "name": "ADOLESCENCE",
         "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 192138,
       "name": "Esther",
       "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
+        "name": "Who's Gonna Love You Tonight (with Tinashe)",
+        "url": "https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "Who's Gonna Love You Tonight (with Tinashe)",
+      "url": "https://open.spotify.com/track/0HPJa3SJksQakwtOrJT7pj"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 122617,
-      "name": "up all week (with slowthai)",
-      "url": "https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG"
+      "duration_ms": 181873,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1331,34 +1327,22 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 181873,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
-      },
-      "artists": [
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
         }
       ],
-      "duration_ms": 281381,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
+      "duration_ms": 122617,
+      "name": "up all week (with slowthai)",
+      "url": "https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1"
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
       },
       "artists": [
         {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
         }
       ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
+      "duration_ms": 281381,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1411,6 +1395,22 @@
       "duration_ms": 253121,
       "name": "Love Letter (feat. The Knocks)",
       "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Giving Up",
-        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
+        "name": "Hi-Fidelity",
+        "url": "https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
         },
         {
-          "name": "Mafro",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 203751,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
+      "duration_ms": 199088,
+      "name": "Hi-Fidelity",
+      "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Hi-Fidelity",
-        "url": "https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7"
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         },
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 199088,
-      "name": "Hi-Fidelity",
-      "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Missing You / Something About Your Love",
-        "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 202253,
       "name": "Can't Do Without (My Baby)",
       "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
+        "name": "Missing You / Something About Your Love",
+        "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1607,26 +1607,18 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "hollaback bitch (with Shygirl & Channel Tres)",
-        "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 203549,
-      "name": "hollaback bitch (with Shygirl & Channel Tres)",
-      "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
+      "duration_ms": 263418,
+      "name": "Tunnel of You",
+      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1655,22 +1647,6 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 263418,
-      "name": "Tunnel of You",
-      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
         "name": "When the Lights Go",
         "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
       },
@@ -1687,6 +1663,30 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
+        "name": "hollaback bitch (with Shygirl & Channel Tres)",
+        "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 203549,
+      "name": "hollaback bitch (with Shygirl & Channel Tres)",
+      "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU"
       },
@@ -1699,6 +1699,22 @@
       "duration_ms": 215760,
       "name": "Domino",
       "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
+    },
+    {
+      "added_at": "2022-09-17 04:00:00",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 225368,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
     },
     {
       "added_at": "2022-09-17 04:00:00",
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 225368,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
-    },
-    {
-      "added_at": "2022-09-17 04:00:00",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
       },
@@ -1763,38 +1763,42 @@
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Admit It (u don't want 2)",
-        "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
+        "name": "EXCEPTIONAL",
+        "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
         },
         {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         }
       ],
-      "duration_ms": 385074,
-      "name": "Admit It (u don't want 2)",
-      "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
+      "duration_ms": 137739,
+      "name": "EXCEPTIONAL",
+      "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
     },
     {
       "added_at": "2022-09-17 04:00:00",
       "album": {
-        "name": "Frisco",
-        "url": "https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4"
+        "name": "Time Is Mine",
+        "url": "https://open.spotify.com/album/1TPWBqLB1wLkDTWpoWLHp2"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Kidswaste",
+          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
+        },
+        {
+          "name": "Olivia Reid",
+          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
         }
       ],
-      "duration_ms": 222911,
-      "name": "Frisco",
-      "url": "https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP"
+      "duration_ms": 169246,
+      "name": "Time Is Mine",
+      "url": "https://open.spotify.com/track/7qohJZZBpGDUHuUozqAwoS"
     }
   ],
   "unique_name": "metropolis",

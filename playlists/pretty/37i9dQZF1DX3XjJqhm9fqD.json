@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69932,
+  "num_followers": 69942,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDgyODI4NDQyMGU2YTg3YWM1NTNiZGNhOTg3ZWFjMzJl",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGQwYTdkZTZmY2MyZjIwMmI3OWNjMjQ4YzNlM2Y3MTA3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "Dejanbem",
+      "url": "https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Kanvaz",
         "url": "https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 178556,
       "name": "NS Bounce",
       "url": "https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "Dejanbem",
-      "url": "https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "F\u00f2s",
-        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        },
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        }
-      ],
-      "duration_ms": 234248,
-      "name": "Crush la",
-      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Apre bal la",
         "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 237362,
       "name": "Apre bal la",
       "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "F\u00f2s",
+        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 234248,
+      "name": "Crush la",
+      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 286840,
-      "name": "Flanm",
-      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Bal Tout",
         "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 286840,
+      "name": "Flanm",
+      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Ba L on Bye (Remix)",
+        "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
+      },
+      "artists": [
+        {
+          "name": "Enposib",
+          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 216412,
+      "name": "Ba L on Bye (Remix)",
+      "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Rap ap rete Rap",
         "url": "https://open.spotify.com/album/3HYHXy8NXQNGjVQ3V60fgI"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 236996,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1wk7KUjKk2n5K8xXlkIKRe"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Ba L on Bye (Remix)",
-        "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
-      },
-      "artists": [
-        {
-          "name": "Enposib",
-          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
-        },
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        }
-      ],
-      "duration_ms": 216412,
-      "name": "Ba L on Bye (Remix)",
-      "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Siw Ta Wem Grog",
         "url": "https://open.spotify.com/album/1hjgREdbJAR3KeLVHk2N93"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 235389,
       "name": "Siw Ta Wem Grog",
       "url": "https://open.spotify.com/track/7HszwH62rCq3olTTkbbbY7"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
-      },
-      "artists": [
-        {
-          "name": "Freedom",
-          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
-        },
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "U.F.O.",
-      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 211000,
       "name": "Destine",
       "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
+      },
+      "artists": [
+        {
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "U.F.O.",
+      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Zeptima",
-        "url": "https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a"
-      },
-      "artists": [
-        {
-          "name": "Ayiiti",
-          "url": "https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz"
-        }
-      ],
-      "duration_ms": 241104,
-      "name": "Zeptima",
-      "url": "https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy"
       },
@@ -1907,22 +1891,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp"
+        "name": "Zeptima",
+        "url": "https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a"
       },
       "artists": [
         {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Ayiiti",
+          "url": "https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz"
         }
       ],
-      "duration_ms": 187658,
-      "name": "Baby Who",
-      "url": "https://open.spotify.com/track/0BNZpLxBQFNgJTXhGmZEbs"
+      "duration_ms": 241104,
+      "name": "Zeptima",
+      "url": "https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1939,6 +1919,26 @@
       "duration_ms": 165720,
       "name": "Hallyday",
       "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Baby Who",
+      "url": "https://open.spotify.com/track/0BNZpLxBQFNgJTXhGmZEbs"
     }
   ],
   "unique_name": "Haitian Heat",

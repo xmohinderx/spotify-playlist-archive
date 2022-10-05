@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,330 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,307 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 30 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 |
 | 31 | [RDMDA](https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:50 |
 | 32 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
-| 33 | [En La Disco Revela](https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [En La Disco Revela](https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b) | 3:03 |
+| 33 | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc) | 2:51 |
 | 34 | [Honey](https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:06 |
-| 35 | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc) | 2:51 |
+| 35 | [En La Disco Revela](https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [En La Disco Revela](https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b) | 3:03 |
 | 36 | [atrapada en el cielo](https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:14 |
 | 37 | [Somebody That You Don't Know \(feat\. Rauw Alejandro\)](https://open.spotify.com/track/2wHNBYCfnVNEXCOORj4tyV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cheers to the Best Memories](https://open.spotify.com/album/1WNwlBvoohUFZcJt3uLrd4) | 2:56 |
 | 38 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
 | 39 | [Fuego](https://open.spotify.com/track/1XlcDTgLG4B7IZU9UFmvRB) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [VAYU](https://open.spotify.com/album/0rHCpDokbS3UGKGB64mOhY) | 2:36 |
-| 40 | [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 |
-| 41 | [lyu2 \(with marcos g\)](https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [lyu2 \(with marcos g\)](https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3) | 3:02 |
+| 40 | [lyu2 \(with marcos g\)](https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [lyu2 \(with marcos g\)](https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3) | 3:02 |
+| 41 | [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 |
 | 42 | [No Me Llames](https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:08 |
 | 43 | [NO MAN](https://open.spotify.com/track/5pZhTh1X9lQQQoknYuM3Ds) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Mike Snell](https://open.spotify.com/artist/2fxKX3blmv0SZfVvuwopd8) | [NO MAN](https://open.spotify.com/album/2QqkPOYsFBdvpFq6RFfAnz) | 3:28 |
 | 44 | [do you come here often?](https://open.spotify.com/track/0ShHM5WuJOUCexBXVi52My) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/4glGICjO9phzJWlRMZAw9r) | 2:34 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 76 | [Your Plug feat\. Mariah Angeliq & Jenn Morel](https://open.spotify.com/track/4Kgmokx4QE2y5dDEUGt3kR) | [Angelica Vila](https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Deception Szn 1](https://open.spotify.com/album/6pwLDRaJ9WNYY6QHX5KEZg) | 3:50 |
 | 77 | [Me Fui](https://open.spotify.com/track/5ZJd9k7DEOy3hBJmhd0DDW) | [Izma](https://open.spotify.com/artist/0Hxv2atG2UFJAA8DC2nAVJ) | [Me Fui](https://open.spotify.com/album/576cHKgH3sclXYicBXSiXm) | 4:15 |
 | 78 | [Embeleso](https://open.spotify.com/track/5OMX4q4yknfdEFLBU0ufWl) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Embeleso](https://open.spotify.com/album/4tvKQtkJEk1dkFs53jh1ue) | 3:20 |
-| 79 | [yourplace](https://open.spotify.com/track/3zahH6mfmPZz4q038rk3Hu) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:29 |
-| 80 | [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 |
+| 79 | [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 |
+| 80 | [yourplace](https://open.spotify.com/track/3zahH6mfmPZz4q038rk3Hu) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:29 |
 
-Snapshot ID: `MTY2MjQ5NTQ3NywwMDAwMDAwMDFkZjlmMjIxZGQzMzVkNWJmMmM5MTA0MTdiZDhhYTlm`
+Snapshot ID: `MTY2MjQ5NTQ3NywwMDAwMDAwMDEyMWY5Y2Y0YjRmMWE5MmZhNjg5MWNkNDk2ZTMzODBh`

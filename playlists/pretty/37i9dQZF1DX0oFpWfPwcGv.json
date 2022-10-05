@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 29704,
+  "num_followers": 29771,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDdhMzNjNjJlYzgyMTNjZWI1NTNkNDYwYTk2NTI3YmQ2",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDAyMmEwNGFkY2U1NTA1OTE2YjA4NGU4ZjkxYWZlYjkw",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Love is Back",
-        "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "I'm So Glad That I'm a Woman",
-      "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Love is Back",
+        "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "I'm So Glad That I'm a Woman",
+      "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -911,18 +911,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
+        "name": "Delusions (Bonus Version)",
+        "url": "https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        },
+        {
+          "name": "Shep Pettibone",
+          "url": "https://open.spotify.com/artist/6lGq0HC3OQxpPsoSuTwqKr"
         }
       ],
-      "duration_ms": 244733,
-      "name": "Put Your Body In It",
-      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
+      "duration_ms": 481506,
+      "name": "Let No Man Put Asunder - Shep Pettibone 12\" Mix",
+      "url": "https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -943,22 +947,18 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Delusions (Bonus Version)",
-        "url": "https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
       },
       "artists": [
         {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        },
-        {
-          "name": "Shep Pettibone",
-          "url": "https://open.spotify.com/artist/6lGq0HC3OQxpPsoSuTwqKr"
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
         }
       ],
-      "duration_ms": 481506,
-      "name": "Let No Man Put Asunder - Shep Pettibone 12\" Mix",
-      "url": "https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd"
+      "duration_ms": 244733,
+      "name": "Put Your Body In It",
+      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "The Best of Candi Staton",
-        "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 317480,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 429813,
       "name": "Angel in My Pocket - Extended Version",
       "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "The Best of Candi Staton",
+        "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 317480,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
     },
     {
       "added_at": "2022-09-12 22:27:59",

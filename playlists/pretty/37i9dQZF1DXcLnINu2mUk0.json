@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 18322,
+  "num_followers": 18376,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5MjQwMCwwMDAwMDAwMDJiY2I5ZmEzZDg5MmJmN2I2ZTI3YWI3MWQ0MTkyN2Nk",
+  "snapshot_id": "MTY2NDQ5MjQwMCwwMDAwMDAwMGYyM2I0MDk2MWU5OGRhZTcwNWJiMTUzZjczOTViMmEz",
   "tracks": [
     {
       "added_at": "2022-09-29 23:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-09-29 23:00:00",
       "album": {
+        "name": "#Sextou",
+        "url": "https://open.spotify.com/album/5frLo4MkqwQKGro67Ot3he"
+      },
+      "artists": [
+        {
+          "name": "colombianacallmegringo",
+          "url": "https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB"
+        }
+      ],
+      "duration_ms": 182420,
+      "name": "#Sextou",
+      "url": "https://open.spotify.com/track/2hISKDI87Hj34dIPIWiqVP"
+    },
+    {
+      "added_at": "2022-09-29 23:00:00",
+      "album": {
         "name": "I THINK I THINK TOO MUCH",
         "url": "https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-09-29 23:00:00",
       "album": {
-        "name": "#Sextou",
-        "url": "https://open.spotify.com/album/5frLo4MkqwQKGro67Ot3he"
-      },
-      "artists": [
-        {
-          "name": "colombianacallmegringo",
-          "url": "https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB"
-        }
-      ],
-      "duration_ms": 182420,
-      "name": "#Sextou",
-      "url": "https://open.spotify.com/track/2hISKDI87Hj34dIPIWiqVP"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
         "name": "Foste um V\u00edcio",
         "url": "https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs"
       },
@@ -959,26 +959,6 @@
       "duration_ms": 201212,
       "name": "Foste um V\u00edcio",
       "url": "https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Punk Selva",
-        "url": "https://open.spotify.com/album/57R1K6WPgo4cU9iswHE1kp"
-      },
-      "artists": [
-        {
-          "name": "Daxuva",
-          "url": "https://open.spotify.com/artist/752OuY81ZX07jkHLw1eBR2"
-        },
-        {
-          "name": "Itaya",
-          "url": "https://open.spotify.com/artist/5YvFDsN1VX5PxvtA0MIVOp"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/29znaDmtQgktCpwPFaE2YE"
     },
     {
       "added_at": "2022-09-29 23:00:00",
@@ -999,6 +979,26 @@
       "duration_ms": 158813,
       "name": "Chilla Chilla",
       "url": "https://open.spotify.com/track/3Ujr8v4IABZpysC8WBhuPu"
+    },
+    {
+      "added_at": "2022-09-29 23:00:00",
+      "album": {
+        "name": "Punk Selva",
+        "url": "https://open.spotify.com/album/57R1K6WPgo4cU9iswHE1kp"
+      },
+      "artists": [
+        {
+          "name": "Daxuva",
+          "url": "https://open.spotify.com/artist/752OuY81ZX07jkHLw1eBR2"
+        },
+        {
+          "name": "Itaya",
+          "url": "https://open.spotify.com/artist/5YvFDsN1VX5PxvtA0MIVOp"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/29znaDmtQgktCpwPFaE2YE"
     },
     {
       "added_at": "2022-09-29 23:00:00",
@@ -1059,26 +1059,18 @@
     {
       "added_at": "2022-09-29 23:00:00",
       "album": {
-        "name": "Cashh",
-        "url": "https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5"
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/7bSGqZgFrAhPYWeZsVUjVk"
       },
       "artists": [
         {
-          "name": "DIGGA",
-          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
-        },
-        {
-          "name": "JNY",
-          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
-        },
-        {
-          "name": "FreshhhLife",
-          "url": "https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O"
+          "name": "Boss Proud",
+          "url": "https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v"
         }
       ],
-      "duration_ms": 268851,
-      "name": "Cashh",
-      "url": "https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF"
+      "duration_ms": 221538,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/0hJQmqriIYh2lL8nqOPQLq"
     }
   ],
   "unique_name": "Seda",

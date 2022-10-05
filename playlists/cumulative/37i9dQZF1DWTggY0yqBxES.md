@@ -2,7 +2,7 @@
 
 ### [Alternative Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWTggY0yqBxES)
 
-> New, leftfield, and for the real hip\-hop stans! Cover: AJRADICO
+> New, leftfield, and for the real hip\-hop stans! Cover: Kenny Mason
 
 260 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Russell Dickerson, Ashley McBryde, Zac Brown Band and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,476 likes - 76 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,655 likes - 76 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

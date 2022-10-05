@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Kang Min Kyung & Choi Jung Hoon\(강민경 & 최정훈\)\) \(당신의 감성에 발라드, 려요\)
 
-546 songs - 1 day 11 hr 28 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+548 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Two Letters](https://open.spotify.com/track/1WWHM83WMlkceHY1XqnaNs) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be My Reason](https://open.spotify.com/album/20rBBVeawY0f6do5SXQnWn) | 3:33 | 2021-12-23 | 2022-06-19 |
 | [Two People](https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91) | 4:27 | 2021-12-20 | 2022-07-07 |
 | [U Hoo Hoo](https://open.spotify.com/track/3fRKoqpAB9jOAMDQXg2fwa) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Dali and Cocky Prince \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/1LRhRZYaIhHtoMOupKaZUP) | 3:20 | 2021-12-20 | 2022-07-08 |
+| [Unbearable Pain](https://open.spotify.com/track/41LundrJaKNT2kLlfG1ufe) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Unbearable Pain](https://open.spotify.com/album/0nBw2E2j7OlAXHh1959DW8) | 4:03 | 2022-10-04 |  |
 | [understand](https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [understand](https://open.spotify.com/album/0RluOrRGTkAJ6Z8jtj11Ru) | 4:41 | 2022-03-24 | 2022-04-19 |
 | [Unhateable](https://open.spotify.com/track/7oXQfEySOUukDThklMkr76) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Unhateable](https://open.spotify.com/album/4RfLKMKI3rnk5Qxgl6F7YW) | 4:20 | 2021-12-23 | 2022-04-22 |
 | [Unnamed Emotion](https://open.spotify.com/track/1dBbh8gtRtVCbXxyIyW86c) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [Unnamed Emotion](https://open.spotify.com/album/2WKF3O9QfxUNv16IeD2FXo) | 3:59 | 2022-02-17 | 2022-02-20 |
@@ -526,6 +527,7 @@
 | [Without you](https://open.spotify.com/track/4F2U7mSwbYkf6jJ0TGnGS1) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Without you](https://open.spotify.com/album/6clWWq80REaFUvZH15r2DS) | 4:30 | 2021-12-23 | 2022-04-18 |
 | [Without You 네가 없는 하루](https://open.spotify.com/track/6SBFKVJwcgI204Yic1yESA) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Without You 네가 없는 하루](https://open.spotify.com/album/3JBG1fn2G6gAqToSJVwjrl) | 3:27 | 2022-03-04 | 2022-04-19 |
 | [wooden shoes](https://open.spotify.com/track/4VHjRm6Ok4pdl1kdw7lEmy) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [CHOI](https://open.spotify.com/artist/5phfMKsr54C4WieISO2j9j) | [wooden shoes](https://open.spotify.com/album/41P2aRYuHgSyHhw0HGwfVT) | 5:13 | 2022-07-07 |  |
+| [Worse than friends](https://open.spotify.com/track/4OfeoCwjK4xFGn5XQ0dbfu) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [친구보다 더 못한 사이](https://open.spotify.com/album/2JsY4V9OqKbQRXezTHhj76) | 3:59 | 2022-10-04 |  |
 | [YOU](https://open.spotify.com/track/3EbIEcLVkzpBEt2wKty6Iu) | [이준호 Lee Junho](https://open.spotify.com/artist/0gZSJwPrA4KC8S9bVOwE9m) | [YOU](https://open.spotify.com/album/2U9rzSHkcPOnq3q55U6RV0) | 3:40 | 2022-07-07 |  |
 | [You know everything](https://open.spotify.com/track/3gUbxvr8LQ3OhT69E82crb) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Someone's playlist \#8](https://open.spotify.com/album/7tNp4kGCYT55TKWDdciZ94) | 4:55 | 2022-09-29 |  |
 | [You said you don't know what love is](https://open.spotify.com/track/4vEKICOyJxKiAivrgpQbtS) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [A Kiss at Tiffany's \(Original Soundtrack\), Part.2](https://open.spotify.com/album/0iDjYCpxzPyZDEKfjrO8CZ) | 3:03 | 2022-03-31 | 2022-04-20 |

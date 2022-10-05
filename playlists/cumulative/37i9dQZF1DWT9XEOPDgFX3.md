@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Adam Melchor
 
-250 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+251 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cady Road](https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/7ncOxJlRQGqWHcTeXXe3mz) | 3:10 | 2022-04-29 |  |
 | [Cady Road](https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/6zBwMl6GARPzqmZtv0YK8Z) | 3:10 | 2022-04-13 | 2022-07-28 |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2022-04-13 |  |
-| [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 | 2022-01-21 |  |
+| [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 | 2022-01-21 | 2022-10-05 |
 | [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 | 2022-04-29 |  |
 | [Campfire](https://open.spotify.com/track/41ME5dAx2Qe1pfZ0ypuCBu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Campfire](https://open.spotify.com/album/6kXIKI0RpjMBNKT80mc4Ni) | 5:19 | 2022-01-21 | 2022-07-29 |
 | [Carnival Mirror](https://open.spotify.com/track/1ZrtOVdyTQe4LNXtxZwLPv) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 3:24 | 2022-04-13 | 2022-07-29 |
@@ -90,6 +90,7 @@
 | [Giving Up](https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Giving Up](https://open.spotify.com/album/07Bsd2TfdTUXq6DBtKdDuY) | 3:10 | 2022-01-21 | 2022-07-28 |
 | [Gone](https://open.spotify.com/track/72wXVHnHpgRUYB8d8XhO9A) | [Painted Shrines](https://open.spotify.com/artist/0guseeF8efQNK8hjGacEAU), [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Gone](https://open.spotify.com/album/4TqTNuedy5AfullWj5g09c) | 3:28 | 2022-01-21 | 2022-07-25 |
 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 | 2022-01-21 |  |
+| [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-09-30 |  |
 | [Graves](https://open.spotify.com/track/2AMh8Toy9gNVutZN0V8bmn) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/2Pn1ZcmnqkFAVflaBEnHkg) | 3:12 | 2022-01-21 | 2022-07-29 |
 | [Graves](https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 3:12 | 2022-04-29 |  |
 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 | 2022-04-29 |  |

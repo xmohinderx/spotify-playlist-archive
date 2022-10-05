@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,193 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,199 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 29 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
 | 30 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 |
 | 31 | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/track/39dOryTx3VzlSwmzEDdf7O) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/album/15nzETgvAOJeGMhqmcDGAR) | 2:52 |
-| 32 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 |
+| 32 | [Someday my prince will come](https://open.spotify.com/track/66TcAzggm7K6qGrp5e82c3) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 4:12 |
 | 33 | [GIGGLE](https://open.spotify.com/track/6i64lLGBXrXxkJ5y5yUiFC) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [GIGGLE](https://open.spotify.com/album/2D0xcHpatH08bxmjLzi8aq) | 2:48 |
 | 34 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 |
 | 35 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 |
 | 36 | [墜落](https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [墜落](https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb) | 3:17 |
 | 37 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
-| 38 | [Now You See Me](https://open.spotify.com/track/6Oex5FIRjSH56Q1e3Z5JFA) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/2QUtniCVdNz7EEZHx8M0Od) | 2:54 |
+| 38 | [Now You See Me](https://open.spotify.com/track/3heiV6V4Hyb3KPlC30Zazj) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 2:54 |
 | 39 | [列車](https://open.spotify.com/track/16VxP8nA8hfedGcO6qQufW) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/2pYtIJDaTsExRe9XPIIOpK) | 4:40 |
 | 40 | [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 |
 | 41 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 |
 | 42 | [Jennie](https://open.spotify.com/track/07ZymFLkrJfiWIJBbr2HAG) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:16 |
 | 43 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 |
 | 44 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 |
-| 45 | [On My Way Home](https://open.spotify.com/track/2oaTpgQ9Mow7dnH3CTbXy2) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [DIZIWASTRIPPY](https://open.spotify.com/artist/2N23SDzDpduiMR58p4hQPe) | [On My Way Home](https://open.spotify.com/album/44yBdfGLBK6RXyWaEhnWkx) | 3:48 |
+| 45 | [On my way Home](https://open.spotify.com/track/4H7JPVjWKHP12vHq6cOJef) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:48 |
 | 46 | [跌嘢唔好搵](https://open.spotify.com/track/4i1RCwJXyCM8ay5sXJTK2s) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/1qjK50aArwff8NhitLm8KT) | 3:11 |
 | 47 | [Cozy City](https://open.spotify.com/track/2BbjYvro6HGorIwGCoDcCw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [小王子](https://open.spotify.com/album/0dMrxzd1C8h1wITGmdLsWj) | 2:59 |
 | 48 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 |
 | 49 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 |
-| 50 | [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 |
+| 50 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 |
 
-Snapshot ID: `MTY2MzI1ODUwMCwwMDAwMDAwMDRjMjBmMGQ4NTI0N2IxOTMwNTljZTZkNGU4YmFjODkw`
+Snapshot ID: `MTY2MzI1ODUwMCwwMDAwMDAwMDczMDE4YThmOWNmNzhkOWJmNjg2NDI5M2FiYTcwNTU1`

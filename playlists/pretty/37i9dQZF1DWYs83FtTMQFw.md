@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring Drake, Rod Wave, and Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133,811 likes - 91 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,134,111 likes - 91 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 36 | [9 Lives \(feat\. Polo G & NLE Choppa\)](https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Not Me It's You](https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN) | 3:48 |
 | 37 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
 | 38 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
-| 39 | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
+| 39 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 | 40 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 |
 | 41 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 |
 | 42 | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz) | 2:11 |

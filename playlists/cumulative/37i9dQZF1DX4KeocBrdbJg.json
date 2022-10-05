@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "album": {
         "name": "Duro 2 Horas",
         "url": "https://open.spotify.com/album/1Gtu3w8lsEZfkxPmu1Y1uF"
       },
@@ -1197,6 +1215,24 @@
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+    },
+    {
+      "album": {
+        "name": "El poder",
+        "url": "https://open.spotify.com/album/2xcyJsdn7bYfseEUbYr7c3"
+      },
+      "artists": [
+        {
+          "name": "Cray Dalton",
+          "url": "https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183198,
+      "name": "El poder",
+      "url": "https://open.spotify.com/track/2Sur4LiJLj4grpAK3u0xmX"
     },
     {
       "album": {
@@ -2688,6 +2724,24 @@
     },
     {
       "album": {
+        "name": "No Wind Resistance SPED UP!",
+        "url": "https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1"
+      },
+      "artists": [
+        {
+          "name": "Kinneret",
+          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "No Wind Resistance SPED UP!",
+      "url": "https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq"
+    },
+    {
+      "album": {
         "name": "Nos Da Igual",
         "url": "https://open.spotify.com/album/3RQzEGZ1F64jVRUA2MTncJ"
       },
@@ -3353,7 +3407,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 96825,
       "name": "Rocking A Cardigan in Atlanta",
       "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
@@ -3541,7 +3595,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 161617,
       "name": "Seize the Power",
       "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
@@ -4735,7 +4789,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 232019,
       "name": "Yo Voy (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"

@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Kany Garc\u00eda & Christian Nodal. ",
-  "num_followers": 16025,
+  "num_followers": 16045,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDY1YWQ1Mzk3ZGNkOWZhNzBhYjkxMzYwYjVjZTU1YjRm",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDg4ZGFhMWZlOTZhZDcyNzg5OTcwYjk5Nzk1ZDMyN2Yy",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Apolonio",
+        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 187417,
+      "name": "Dos Uno Nueve (219)",
+      "url": "https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "LVV the Real Rondon",
         "url": "https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 208361,
       "name": "Billetes de 100",
       "url": "https://open.spotify.com/track/7wUFaxBGcFTME9OJKJqvLu"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Apolonio",
-        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 187417,
-      "name": "Dos Uno Nueve (219)",
-      "url": "https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32"
     },
     {
       "added_at": "2022-09-23 04:00:00",

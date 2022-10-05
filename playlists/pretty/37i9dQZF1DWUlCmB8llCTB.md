@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Esto es un perreo a lo Wisin & Yandel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,848 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,040 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 | 25 | [TU AMIGO](https://open.spotify.com/track/25EpqnbVRzegM4RxXlHhDW) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:53 |
 | 26 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 |
 | 27 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 |
-| 28 | [Carro Nuevo](https://open.spotify.com/track/0OLLQD6ujaoOWnO6AbjV9W) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 4:00 |
+| 28 | [Carro Nuevo](https://open.spotify.com/track/0OLLQD6ujaoOWnO6AbjV9W) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 4:00 |
 | 29 | [Qué Me Contás](https://open.spotify.com/track/3tyl9sCGLh17nDtZo73Lrz) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 3:29 |
 | 30 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 |
 | 31 | [Si Me Toca](https://open.spotify.com/track/29jLR2tvOAtko7AqIhFVqf) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Si Me Toca](https://open.spotify.com/album/3MArTs3zf0ZIi2ADWLp91P) | 5:31 |

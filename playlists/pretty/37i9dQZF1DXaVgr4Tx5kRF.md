@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,377 likes - 65 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,508 likes - 65 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 32 | [A Design for Life \- Remastered](https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 10th Anniversary Edition](https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2) | 4:17 |
 | 33 | [Good Enough](https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Free Peace Sweet](https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl) | 4:01 |
 | 34 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
-| 35 | [Shine On](https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg) | [The House of Love](https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP) | [House Of Love](https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ) | 4:00 |
-| 36 | [Stupid Girl](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
+| 35 | [Stupid Girl](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
+| 36 | [Shine On](https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg) | [The House of Love](https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP) | [House Of Love](https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ) | 4:00 |
 | 37 | [The Universal](https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:00 |
 | 38 | [Staying Out For The Summer](https://open.spotify.com/track/0Z8CJq9ntVrA8PHT35ZANv) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Homegrown](https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7) | 3:12 |
 | 39 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
 | 65 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
 
-Snapshot ID: `MTY1MTY4NDMwOSwwMDAwMDAwMDgxNDhlNmVjMjUxZWFiMzI1ZmFlY2M3YjJlNDUxOWJi`
+Snapshot ID: `MTY1MTY4NDMwOSwwMDAwMDAwMDcwNjZlNDViMjUyYzc5NzA3NTE5YmFjMWVhMmRmMmM5`

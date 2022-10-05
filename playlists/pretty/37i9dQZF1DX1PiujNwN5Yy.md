@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Canciones tristes para uno de esos días\. Sad songs just 4 you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,896 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,936 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 32 | [nadie va a pensar en ti mejor que yo \- En Vivo](https://open.spotify.com/track/2czpzliEFyUYpeyPvYfgMO) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [nadie va a pensar en ti mejor que yo \(En Vivo\)](https://open.spotify.com/album/4H1ntgZSzhZsYQxyLNrglM) | 3:42 |
 | 33 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 |
 | 34 | [Nunca Estoy](https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Nunca Estoy](https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9) | 2:42 |
-| 35 | [Anhelos](https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Anhelos](https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy) | 3:42 |
+| 35 | [Ya mi mama me decía](https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 3:11 |
 | 36 | [NASA](https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [NASA](https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn) | 3:40 |
-| 37 | [Ya mi mama me decía](https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 3:11 |
+| 37 | [Anhelos](https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Anhelos](https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy) | 3:42 |
 | 38 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 |
 | 39 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 |
 | 40 | [Quién Dice](https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Quién Dice](https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK) | 3:45 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 60 | [guerrera](https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [guerrera](https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo) | 4:30 |
 | 61 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 |
 | 62 | [La Banqueta](https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [La Banqueta](https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG) | 3:08 |
-| 63 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
-| 64 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
-| 65 | [Ser tu depresión \- acústica](https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Ser tu depresión \(acústica\)](https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz) | 3:16 |
+| 63 | [Ser tu depresión \- acústica](https://open.spotify.com/track/49Ca6orePlBwJpRmxt2Umy) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Ser tu depresión \(acústica\)](https://open.spotify.com/album/74qpyntfKwYKxV9xmKNOgz) | 3:16 |
+| 64 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
+| 65 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 66 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 67 | [Se que te iras](https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK) | [Jordano](https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW) | [Amor Insustancial](https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX) | 3:25 |
 | 68 | [Ayer yo estaba bien](https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg) | [De Los Santos](https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY) | [Ayer yo estaba bien](https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5) | 2:32 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 96 | [Take All Your Things](https://open.spotify.com/track/0Z6JPPinWTnMr2IewL15J2) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 3:36 |
 | 97 | [Aclárate](https://open.spotify.com/track/2LewcRYN0lmAPcqzhPiDnx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Aclárate](https://open.spotify.com/album/57A8urKomczwMQNjCIIFQC) | 3:02 |
 | 98 | [Despecho Nuevo](https://open.spotify.com/track/1bjbn61QLOt2sf96LE55Ng) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Despecho Nuevo](https://open.spotify.com/album/0rbz1GmxsruvzYckQhcK73) | 3:37 |
-| 99 | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/track/5xpBHHSL7zwrZfE9QnqHI2) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/album/7uDxV8cJyWJGai8ARnYSbZ) | 3:17 |
-| 100 | [A Estas Horas Del Amor](https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [A Estas Horas Del Amor](https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz) | 5:02 |
+| 99 | [A Estas Horas Del Amor](https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [A Estas Horas Del Amor](https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz) | 5:02 |
+| 100 | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/track/5xpBHHSL7zwrZfE9QnqHI2) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/album/7uDxV8cJyWJGai8ARnYSbZ) | 3:17 |
 
-Snapshot ID: `MTY1OTM3NzQwOSwwMDAwMDAwMGZkYjU2OGNlMGFlNjljMTAxMDNmMDY2YzM1MmJlMDA0`
+Snapshot ID: `MTY1OTM3NzQwOSwwMDAwMDAwMDI4NTEwMTVmNzYyYTljNzQ4ZjdlZjdiY2NiZDZlMThm`

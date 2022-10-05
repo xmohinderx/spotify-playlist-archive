@@ -4,7 +4,7 @@
 
 > Soul meets blues\. Cover: Bettye LaVette
 
-81 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/4x3y9tbJcqa6IgGXE6xIIK)
+82 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/4x3y9tbJcqa6IgGXE6xIIK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [I Can't Hold It](https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 4:25 | 2020-12-01 |  |
 | [I Can't Stop](https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Back In The Game](https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ) | 4:17 | 2020-12-01 |  |
 | [I Know](https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Makin Love is Good For You \(Expanded Edition\)](https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY) | 3:49 | 2020-12-01 |  |
+| [I Want My Soul Back](https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Midnight Blues](https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK) | 3:35 | 2022-09-30 |  |
 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 | 2020-12-01 | 2022-10-04 |
 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/2wB9CDJ3AlpGxau0KF3Xy7) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 5:19 | 2020-12-01 |  |
 | [I'm So Proud](https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:48 | 2020-12-01 |  |
@@ -88,6 +89,6 @@
 | [You Can Stay But The Noise Must Go On](https://open.spotify.com/track/4tqT8X8t0hrZDnLgodafSt) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [Out Of The Dark](https://open.spotify.com/album/1WgkGmeDIjbxmJU7uu9MyP) | 6:20 | 2020-12-01 |  |
 | [You Got the Goods on You](https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Sitting on Top of the Blues](https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10) | 4:03 | 2020-12-01 |  |
 | [You Push Me to My Limit](https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF) | [Ellis Hooks](https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru) | [Black Market](https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD) | 3:16 | 2020-12-01 |  |
-| [You're Only Good For One Thang Baby](https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 3:28 | 2020-12-01 |  |
+| [You're Only Good For One Thang Baby](https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 3:28 | 2020-12-01 | 2022-10-05 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,943 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,962 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 57 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
 | 58 | [Mami](https://open.spotify.com/track/5bpHHnpjPsNiq5AmyU7o8j) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Mami](https://open.spotify.com/album/6n5CukxEAe6wQDgx0Aep6D) | 3:08 |
 | 59 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
-| 60 | [Molle Twist Vanille\-Vanille](https://open.spotify.com/track/1ZYsc0atLLow4S6f6ugxLZ) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Molle Twist Vanille\-Vanille](https://open.spotify.com/album/1wk0ZW3FAXjV95BM11YQlB) | 2:42 |
+| 60 | [Molle Twist Vanille\-Vanille](https://open.spotify.com/track/1ZYsc0atLLow4S6f6ugxLZ) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Molle Twist Vanille\-Vanille](https://open.spotify.com/album/1wk0ZW3FAXjV95BM11YQlB) | 2:43 |
 | 61 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 |
 | 62 | [Diamant](https://open.spotify.com/track/3b4wIxzd5f8C9k8azA9hPx) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Diamant](https://open.spotify.com/album/72SQDw88bPAybqZ1wICJ9e) | 3:31 |
 | 63 | [Ce soir je danse](https://open.spotify.com/track/7A2RNX0JUMC9ZYWl7a5pyC) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:09 |

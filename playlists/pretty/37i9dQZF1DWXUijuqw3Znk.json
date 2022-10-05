@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2203,
+  "num_followers": 2206,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDcyODUzOCwwMDAwMDAwMDI1NDQ0MjQ3MTc2NTA4NTVhYzMwZTM5ZTZhZTE2YzRi",
+  "snapshot_id": "MTY2MDcyODUzOCwwMDAwMDAwMDdiMDk0YjMxMTM1MWY1MzVmZmU0ZTU1NDc5MDQ3YjYx",
   "tracks": [
     {
       "added_at": "2022-08-17 09:28:58",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-08-17 09:28:58",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        }
-      ],
-      "duration_ms": 231182,
-      "name": "COMPASS (Feat. Chin)",
-      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2022-08-17 09:28:58",
-      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 214000,
       "name": "Press F5 (Feat. GRAY)",
       "url": "https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473"
+    },
+    {
+      "added_at": "2022-08-17 09:28:58",
+      "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        }
+      ],
+      "duration_ms": 231182,
+      "name": "COMPASS (Feat. Chin)",
+      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
     },
     {
       "added_at": "2022-08-17 09:28:58",
@@ -1267,38 +1267,18 @@
     {
       "added_at": "2022-08-17 09:28:58",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
       },
       "artists": [
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 186644,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
-    },
-    {
-      "added_at": "2022-08-17 09:28:58",
-      "album": {
-        "name": "20/22",
-        "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
-      },
-      "artists": [
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
-        }
-      ],
-      "duration_ms": 182578,
-      "name": "20/22",
-      "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
+      "duration_ms": 161191,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
     },
     {
       "added_at": "2022-08-17 09:28:58",
@@ -1315,6 +1295,22 @@
       "duration_ms": 176244,
       "name": "Genius (Behind the scene)",
       "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
+    },
+    {
+      "added_at": "2022-08-17 09:28:58",
+      "album": {
+        "name": "20/22",
+        "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "duration_ms": 182578,
+      "name": "20/22",
+      "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
     },
     {
       "added_at": "2022-08-17 09:28:58",
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2022-08-17 09:28:58",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
       },
       "artists": [
         {
           "name": "Loco",
           "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 161191,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
+      "duration_ms": 186644,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
     },
     {
       "added_at": "2022-08-17 09:28:58",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-08-17 09:28:58",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
-    },
-    {
-      "added_at": "2022-08-17 09:28:58",
-      "album": {
         "name": "BLAZE",
         "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 131493,
       "name": "SLASH (Feat. BIGONE)",
       "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
+    },
+    {
+      "added_at": "2022-08-17 09:28:58",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
     },
     {
       "added_at": "2022-08-17 09:28:58",
@@ -1751,26 +1751,22 @@
     {
       "added_at": "2022-08-17 09:28:58",
       "album": {
-        "name": "Yessir!",
-        "url": "https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV"
+        "name": "Show Me the Money 9 Episode 2",
+        "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
       },
       "artists": [
         {
-          "name": "BLSP",
-          "url": "https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2"
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
         },
         {
-          "name": "unofficialboyy",
-          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
-        },
-        {
-          "name": "YLN Foreign",
-          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
         }
       ],
-      "duration_ms": 129600,
-      "name": "Yessir!",
-      "url": "https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6"
+      "duration_ms": 253800,
+      "name": "Upgrade 2020",
+      "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
     },
     {
       "added_at": "2022-08-17 09:28:58",
@@ -1795,22 +1791,26 @@
     {
       "added_at": "2022-08-17 09:28:58",
       "album": {
-        "name": "Show Me the Money 9 Episode 2",
-        "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
+        "name": "Yessir!",
+        "url": "https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV"
       },
       "artists": [
         {
-          "name": "Swings",
-          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+          "name": "BLSP",
+          "url": "https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2"
         },
         {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        },
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Upgrade 2020",
-      "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
+      "duration_ms": 129600,
+      "name": "Yessir!",
+      "url": "https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6"
     },
     {
       "added_at": "2022-08-17 09:28:58",

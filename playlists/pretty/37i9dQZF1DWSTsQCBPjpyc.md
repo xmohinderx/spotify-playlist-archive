@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,770 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,814 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 |
-| 2 | [Telephone Song](https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 3:28 |
+| 1 | [Telephone Song](https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 3:28 |
+| 2 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 |
 | 3 | [Travelin' Man](https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 2:51 |
 | 4 | [Voodoo Woman](https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 3:48 |
 | 5 | [Big Legged Woman](https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 4:00 |
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 30 | [Grape Jelly](https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Back To Bogalusa](https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0) | 4:26 |
 | 31 | [Put That Back](https://open.spotify.com/track/68c1MV92ptINojyzzheUJu) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:47 |
 | 32 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
-| 33 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 |
-| 34 | [Same Ole Feeling](https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:04 |
+| 33 | [Same Ole Feeling](https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:04 |
+| 34 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 |
 | 35 | [The Moon Is Full](https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:06 |
 | 36 | [Stop On By](https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [All The Way](https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs) | 4:07 |
 | 37 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 |
 | 38 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 |
-| 39 | [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 |
+| 39 | [Put The Shoe On The Other Foot](https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 5:32 |
 | 40 | [Take Me Just As I Am](https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [LaDonna Gales](https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:03 |
-| 41 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 |
-| 42 | [Put The Shoe On The Other Foot](https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 5:32 |
+| 41 | [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 |
+| 42 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 |
 | 43 | [Bad Axe](https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Deluxe Edition](https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL) | 3:13 |
 | 44 | [Give It Back](https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8) | [Hamilton Loomis](https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Give It Back](https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML) | 4:39 |
 | 45 | [I'm Not Havin' It](https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 49 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
 | 50 | [A Man's Got To Do What A Man's Got To Do](https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:03 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDFjOGM1MzhjMjM5NTZjZTI3MGYyNmZiMTgyMTVmMTBl`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMGNjN2U3MWU3MWE1MGU1NDRiNWM0NDY3MzE2NWZhMzUy`

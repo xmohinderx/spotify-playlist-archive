@@ -1,12 +1,12 @@
 {
   "description": "The Latin Pop hits of yesterday and today all in one place!\n\n",
-  "num_followers": 1134439,
+  "num_followers": 1134476,
   "original_name": "Now & Then Latin Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMGJlZGIyNjQyN2Q5MGU5Y2M0ZGFjOTdjMzYyNmY3ZDU4",
+  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMGU4OWNkMmUzYzNjNmEzMzlhZDIxMWMyZTg4ZThkZWU4",
   "tracks": [
     {
       "added_at": "2022-04-07 20:26:02",
@@ -659,6 +659,26 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
+        "name": "Independiente + Demos",
+        "url": "https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 265306,
+      "name": "Fuiste T\u00fa (feat. Gaby Moreno)",
+      "url": "https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
-        "name": "Independiente + Demos",
-        "url": "https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "Fuiste T\u00fa (feat. Gaby Moreno)",
-      "url": "https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
         "name": "\u00bfA D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 183693,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/0cS0bJ0oBylj3TFtz6x9pC"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Bajo La Mesa",
-        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Bajo La Mesa",
-      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Bajo La Mesa",
+        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Bajo La Mesa",
+      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 238628,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Corazon Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Ave Mar\u00eda",
-      "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "En Extasis",
         "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 282893,
       "name": "Piel Morena",
       "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Corazon Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Ave Mar\u00eda",
+      "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Al Lau",
-        "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        }
-      ],
-      "duration_ms": 164184,
-      "name": "Al Lau",
-      "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "Thalia",
         "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 225840,
       "name": "A Quien Le Importa",
       "url": "https://open.spotify.com/track/0R5da1qbsZ8juxK3Dm8XCw"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Al Lau",
+        "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "duration_ms": 164184,
+      "name": "Al Lau",
+      "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
     }
   ],
   "unique_name": "Now & Then Latin Pop",

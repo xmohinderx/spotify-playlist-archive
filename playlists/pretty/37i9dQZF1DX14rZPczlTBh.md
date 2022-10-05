@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,767 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,781 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 13 | [Iraga Iraga](https://open.spotify.com/track/2RCigtiYWf4LBCbp60m7Qg) | [Rahul Sipligunj, Mohana Bhogaraju](https://open.spotify.com/artist/61QdqNUW0qSz0GoaeVe6Gw) | [Naa Peru Surya Naa Illu India](https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R) | 4:00 |
 | 14 | [The Karma Theme \- Telugu \(From "U Turn"\)](https://open.spotify.com/track/0K2CU7TTmFBSbFm1Lt50Sx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [The Karma Theme \[Telugu \(From "U Turn"\)\]](https://open.spotify.com/album/7JzWYvbRsMEBBbufyXnkcL) | 3:34 |
 | 15 | [Swing Zara](https://open.spotify.com/track/1SJOGijQV7cRrfLstfZHzE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Dsp](https://open.spotify.com/artist/2TxDLvRVA0F4LAIyqakei7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Swing Zara \(From "Jai Lava Kusa"\)](https://open.spotify.com/album/6GEMkqLNtpGvCicpkWRQv5) | 4:21 |
-| 16 | [Champesaave Nannu](https://open.spotify.com/track/1soYqSnez9gGQepWQ50Fc1) | [Kapil, Sameera Bharadwaj](https://open.spotify.com/artist/2p90GSbbnImJrBEdsnYvuM) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:20 |
-| 17 | [Dhruva Dhruva](https://open.spotify.com/track/4JPr25ag4mVbYtNEZ3QGVE) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:27 |
+| 16 | [Dhruva Dhruva](https://open.spotify.com/track/4JPr25ag4mVbYtNEZ3QGVE) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:27 |
+| 17 | [Champesaave Nannu](https://open.spotify.com/track/1soYqSnez9gGQepWQ50Fc1) | [Kapil, Sameera Bharadwaj](https://open.spotify.com/artist/2p90GSbbnImJrBEdsnYvuM) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:20 |
 | 18 | [Colorful Chilaka](https://open.spotify.com/track/73AMbnpUdXdJGciNl8Fsp5) | [Narendra](https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9) | [Holi Special Songs](https://open.spotify.com/album/5B8AmuHx5y2pKQWTTDOo6A) | 3:48 |
 | 19 | [Pedda Puli](https://open.spotify.com/track/4PYJiAIsR6JlgGZbhXPPK1) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chal Mohan Ranga](https://open.spotify.com/album/3c1DvyiyWk9a7v4or97bWW) | 3:51 |
 | 20 | [Ismart Title Song](https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:12 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 66 | [Let's Party All Night](https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Jaya Janaki Nayaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM) | 4:11 |
 | 67 | [Singilu Singilu DJ Song](https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [90ml \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH) | 3:41 |
 
-Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMGVkZmZkOWVjMzI5ZTVkYzkzMjY5MGQyNzYxNzI1ZDcz`
+Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMGNkN2RiOWQxODFmYTdhMjNkMTNmMzY5OTQ5ZTU2OGYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,189 likes - 63 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,925 likes - 63 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 62 | [Ravel: Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/3MRQn2RYo2VLYMoStnLRxu) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 5:46 |
 | 63 | [Sarabande](https://open.spotify.com/track/2iHfxxA58scvsi5P0L1B4i) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Toby Carr](https://open.spotify.com/artist/5zNhfoSYfBlwIffqIExoB3) | [Sarabande](https://open.spotify.com/album/7pTnWPUbgVoojmLt3mwZRR) | 2:12 |
 
-Snapshot ID: `MTY2Mzc2NjcxOCwwMDAwMDAwMDQyNWYzNmEwZWYwODgwZTE5MDEzYjdlNzBmZDA3NTBl`
+Snapshot ID: `MTY2NDg3NTEyMywwMDAwMDAwMDRhZDM0ZmM3MDljNDg4NTUwMTFjNTQ4N2U3ZDQ2YjRm`

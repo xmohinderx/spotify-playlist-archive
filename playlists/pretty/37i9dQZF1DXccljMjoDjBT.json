@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 177674,
+  "num_followers": 177924,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDJjYTY1MDFjMmEwODU3ZDE2YjNkYjBmMjkxYWMxNjRl",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDI1ZWJlZThlYmNjYzAyMTI4NThlOWZhNDJiZWVjNzZm",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Chicago 18 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 253280,
-      "name": "Will You Still Love Me? - Alternate",
-      "url": "https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 239306,
       "name": "A Face In The Crowd",
       "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Chicago 18 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 253280,
+      "name": "Will You Still Love Me? - Alternate",
+      "url": "https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb"
     },
     {
       "added_at": "2020-12-08 17:52:17",

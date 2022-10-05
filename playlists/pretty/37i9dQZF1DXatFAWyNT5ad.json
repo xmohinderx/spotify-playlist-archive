@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 86606,
+  "num_followers": 86639,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQwMjQwMCwwMDAwMDAwMGFmY2FmOGY4MWY1ZjM2NWM0MGE2OWQ4ZTlhNmU5MDky",
+  "snapshot_id": "MTY2NDQwMjQwMCwwMDAwMDAwMGY1MGQ4MTJmYzQwOGI2YWNiMTgzMDM5ZDY4NTA5YTA4",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
-      "added_at": "2022-10-04 01:58:20",
+      "added_at": "2022-10-05 02:00:13",
       "album": {
         "name": "5SOS5",
         "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Pass The Nirvana",
-        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 197374,
-      "name": "Pass The Nirvana",
-      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Isabelle",
         "url": "https://open.spotify.com/album/1rzy7MA291nlNOf957qlLG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 135000,
       "name": "Isabelle",
       "url": "https://open.spotify.com/track/1w9L6dvttZalWd8XqFYvSa"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Pass The Nirvana",
+        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 197374,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Love Of Mine (Night Visions Demo)",
-        "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 249995,
-      "name": "Love Of Mine - Night Visions Demo",
-      "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/0fsUPGZdjtXb5F7KJ4FSzk"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Love Of Mine (Night Visions Demo)",
+        "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 249995,
+      "name": "Love Of Mine - Night Visions Demo",
+      "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -559,18 +543,38 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "DiE4u",
-        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 207141,
-      "name": "DiE4u",
-      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "fmk (with blackbear)",
+      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -595,22 +599,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "fmk (with blackbear)",
-        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+        "name": "DiE4u",
+        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 189075,
-      "name": "fmk (with blackbear)",
-      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
+      "duration_ms": 207141,
+      "name": "DiE4u",
+      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/50DMJJpAeQv4fIpxZvQz2e"
     },
     {
+      "added_at": "2022-10-05 02:00:13",
+      "album": {
+        "name": "saddest soundtrack",
+        "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 169789,
+      "name": "saddest soundtrack",
+      "url": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
+    },
+    {
       "added_at": "2022-09-15 22:00:00",
       "album": {
         "name": "Love Sux",
@@ -945,22 +961,6 @@
       "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
     },
     {
-      "added_at": "2022-10-04 01:58:20",
-      "album": {
-        "name": "saddest soundtrack",
-        "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 169789,
-      "name": "saddest soundtrack",
-      "url": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
-    },
-    {
       "added_at": "2022-09-15 22:00:00",
       "album": {
         "name": "KULT (feat. Jasiah)",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "<maybe> it's my fault",
         "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Tell Me About Tomorrow",
         "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 155673,
       "name": "BETTER OFF DEAD",
       "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "ZITTI E BUONI",
-        "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 192654,
-      "name": "ZITTI E BUONI",
-      "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 176988,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "ZITTI E BUONI",
+        "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 192654,
+      "name": "ZITTI E BUONI",
+      "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
     },
     {
       "added_at": "2022-09-15 22:00:00",

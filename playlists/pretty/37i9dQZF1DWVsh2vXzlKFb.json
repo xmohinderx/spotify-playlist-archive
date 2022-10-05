@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 265154,
+  "num_followers": 265127,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGUxMGUxOTUzODQ1YTEyNjljNDljNWFjNWY2NGYzZjMz",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDE0ZWQ3NjIyZGUzMjI5YzZlZGZiM2Y2OGUxYmRjMWZi",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Bad Dream Baby",
         "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 173889,
       "name": "Solar Power - Spotify Singles",
       "url": "https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Catch Me In The Air",
-        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 215814,
-      "name": "Catch Me In The Air",
-      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 261560,
       "name": "Soundcheck",
       "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Catch Me In The Air",
+        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 156772,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Acting My Age",
         "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 160066,
       "name": "Diane Young",
       "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 156772,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Wachito Rico",
-        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
         }
       ],
-      "duration_ms": 214146,
-      "name": "wachito rico",
-      "url": "https://open.spotify.com/track/0OYf62rdwDouKohtCALD55"
+      "duration_ms": 162880,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Wachito Rico",
+        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "wachito rico",
+      "url": "https://open.spotify.com/track/0OYf62rdwDouKohtCALD55"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 196562,
       "name": "Woo!",
       "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Not High On Drugz",
+        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 252372,
+      "name": "Not High On Drugz",
+      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 193731,
       "name": "Hot Crush Lover",
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Not High On Drugz",
-        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 252372,
-      "name": "Not High On Drugz",
-      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
     },
     {
       "added_at": "2022-08-25 23:00:00",

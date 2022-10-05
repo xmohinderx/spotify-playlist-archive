@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Viagra Boys",
-  "num_followers": 246634,
+  "num_followers": 246694,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMGMyMDhlZWMwYTEzMmU3MTYyNTkyMTkwMWQ5ZTA2MGU2",
+  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMGU3ZWNlNzk2YzVlOGQ1OGJmNGZkNjk2ZmQwYWU4NTk2",
   "tracks": [
     {
       "added_at": "2022-08-25 20:35:49",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 120268,
-      "name": "Book",
-      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Skinty Fia",
         "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 241093,
       "name": "Jackie Down The Line",
       "url": "https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 120268,
+      "name": "Book",
+      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 146978,
-      "name": "Don't Cling To Life",
-      "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Sweet Princess EP",
         "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
       },
@@ -379,22 +363,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Sun Coming Down",
-        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
-      },
-      "artists": [
-        {
-          "name": "Ought",
-          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
-        }
-      ],
-      "duration_ms": 463545,
-      "name": "Beautiful Blue Sky",
-      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 149360,
       "name": "Calling It",
       "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 146978,
+      "name": "Don't Cling To Life",
+      "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Sun Coming Down",
+        "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
+      },
+      "artists": [
+        {
+          "name": "Ought",
+          "url": "https://open.spotify.com/artist/2VhVBXSB8n2KxuzKVZNxTY"
+        }
+      ],
+      "duration_ms": 463545,
+      "name": "Beautiful Blue Sky",
+      "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Every Bad (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "A Hero's Death",
         "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
+        "name": "Every Bad (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 481813,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 204354,
-      "name": "Best Behavior",
-      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -599,6 +583,22 @@
       "duration_ms": 241746,
       "name": "Tennis",
       "url": "https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 204354,
+      "name": "Best Behavior",
+      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
     },
     {
       "added_at": "2022-08-25 20:35:49",

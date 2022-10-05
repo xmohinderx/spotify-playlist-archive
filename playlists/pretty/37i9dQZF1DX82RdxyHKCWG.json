@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Maluma\n\n",
-  "num_followers": 101034,
+  "num_followers": 101114,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MzQ3NywwMDAwMDAwMDI1MzFkZjcxMjkzOWNhNThmOTFhMGI2NjQwZDQxNmNl",
+  "snapshot_id": "MTY2NDU1MzQ3NywwMDAwMDAwMGNlYmUxYjcxNzAzZmZhZmRlMWZkMmJhNDVhNDMzMjJj",
   "tracks": [
     {
       "added_at": "2022-09-30 15:51:47",
@@ -555,26 +555,22 @@
     {
       "added_at": "2022-09-30 15:51:47",
       "album": {
-        "name": "La Loto",
-        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 190666,
-      "name": "La Loto",
-      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
       "added_at": "2022-09-30 15:51:47",
@@ -599,22 +595,26 @@
     {
       "added_at": "2022-09-30 15:51:47",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "La Loto",
+        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+      "duration_ms": 190666,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
     },
     {
       "added_at": "2022-09-30 15:51:47",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-09-30 15:51:47",
       "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 192947,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR"
-    },
-    {
-      "added_at": "2022-09-30 15:51:47",
-      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "added_at": "2022-09-30 15:51:47",
+      "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 192947,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR"
     },
     {
       "added_at": "2022-09-30 15:51:47",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2022-09-30 15:51:47",
       "album": {
+        "name": "Besos Moja2",
+        "url": "https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 229064,
+      "name": "Besos Moja2",
+      "url": "https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8"
+    },
+    {
+      "added_at": "2022-09-30 15:51:47",
+      "album": {
         "name": "PIRATA",
         "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 157837,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v"
-    },
-    {
-      "added_at": "2022-09-30 15:51:47",
-      "album": {
-        "name": "Besos Moja2",
-        "url": "https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 229064,
-      "name": "Besos Moja2",
-      "url": "https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8"
     },
     {
       "added_at": "2022-09-30 15:51:47",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-30 15:51:47",
       "album": {
+        "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 140443,
+      "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz"
+    },
+    {
+      "added_at": "2022-09-30 15:51:47",
+      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
-    },
-    {
-      "added_at": "2022-09-30 15:51:47",
-      "album": {
-        "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 140443,
-      "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz"
     },
     {
       "added_at": "2022-09-30 15:51:47",
@@ -1267,6 +1267,42 @@
     {
       "added_at": "2022-09-30 15:51:47",
       "album": {
+        "name": "numb (feat. blackbear)",
+        "url": "https://open.spotify.com/album/4jrLreiCKIGcxG0z7WcQkt"
+      },
+      "artists": [
+        {
+          "name": "lilspirit",
+          "url": "https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 177729,
+      "name": "numb (feat. blackbear)",
+      "url": "https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU"
+    },
+    {
+      "added_at": "2022-09-30 15:51:47",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 149451,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
+    },
+    {
+      "added_at": "2022-09-30 15:51:47",
+      "album": {
         "name": "2step (feat. Chefin)",
         "url": "https://open.spotify.com/album/1Cu9w3jFSFKHa1YckwnUFW"
       },
@@ -1321,40 +1357,24 @@
       "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
     },
     {
-      "added_at": "2022-09-30 15:51:47",
+      "added_at": "2022-10-05 01:55:12",
       "album": {
-        "name": "numb (feat. blackbear)",
-        "url": "https://open.spotify.com/album/4jrLreiCKIGcxG0z7WcQkt"
+        "name": "Better Thangs",
+        "url": "https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77"
       },
       "artists": [
         {
-          "name": "lilspirit",
-          "url": "https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 177729,
-      "name": "numb (feat. blackbear)",
-      "url": "https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU"
-    },
-    {
-      "added_at": "2022-09-30 15:51:47",
-      "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
+      "duration_ms": 214352,
+      "name": "Better Thangs (with Summer Walker)",
+      "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
     },
     {
       "added_at": "2022-09-30 15:51:47",
@@ -1375,26 +1395,6 @@
       "duration_ms": 216546,
       "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
       "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
-    },
-    {
-      "added_at": "2022-10-04 01:52:34",
-      "album": {
-        "name": "Better Thangs",
-        "url": "https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 214352,
-      "name": "Better Thangs (with Summer Walker)",
-      "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
     },
     {
       "added_at": "2022-09-30 15:51:47",

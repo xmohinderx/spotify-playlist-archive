@@ -1481,6 +1481,24 @@
     {
       "album": {
         "name": "Mirror Lake",
+        "url": "https://open.spotify.com/album/5tTymJqGUyFkmklHSyRRRU"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271374,
+      "name": "Mirror Lake",
+      "url": "https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc"
+    },
+    {
+      "album": {
+        "name": "Mirror Lake",
         "url": "https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll"
       },
       "artists": [
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 271387,
       "name": "Mirror Lake",
       "url": "https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9"

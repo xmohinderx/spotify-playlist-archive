@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 25596,
+  "num_followers": 25630,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA3NTA1OCwwMDAwMDAwMGNhNDhjZTllMDEzNWMxNjNlOTAzYThkY2FhOGYzMjY1",
+  "snapshot_id": "MTY1MDA3NTA1OCwwMDAwMDAwMGQ0NDY0ZDQyZjc4OWM1OTY0MDllNzQ2ODI5MmYzM2I2",
   "tracks": [
     {
       "added_at": "2022-04-16 02:10:58",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Be the One",
-        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 202914,
-      "name": "Be the One",
-      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Never Really Over",
         "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Be the One",
+        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 202914,
+      "name": "Be the One",
+      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Half Written Story",
-        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
+        "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
         }
       ],
-      "duration_ms": 216083,
-      "name": "I Love You's",
-      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
+      "duration_ms": 255360,
+      "name": "Untouched",
+      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Hook Me Up",
-        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Untouched",
-      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 211360,
       "name": "Focus",
       "url": "https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Half Written Story",
+        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 216083,
+      "name": "I Love You's",
+      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "We Don\u2019t Stop",
-        "url": "https://open.spotify.com/album/49COhQ043jM1vTH7VSFUlq"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "Joan of Arc on the Dance Floor",
-      "url": "https://open.spotify.com/track/7cYLxxt7szZ5tkOPVWZyfO"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 177946,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "We Don\u2019t Stop",
+        "url": "https://open.spotify.com/album/49COhQ043jM1vTH7VSFUlq"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Joan of Arc on the Dance Floor",
+      "url": "https://open.spotify.com/track/7cYLxxt7szZ5tkOPVWZyfO"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "TURN OFF THE LIGHT",
+        "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 197651,
+      "name": "There Will Be Blood",
+      "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 177816,
       "name": "Genetics (feat. Pussycat Dolls)",
       "url": "https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "TURN OFF THE LIGHT",
-        "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 197651,
-      "name": "There Will Be Blood",
-      "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 170716,
-      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
-      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 251320,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "duration_ms": 170716,
+      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
+      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1827,22 +1827,6 @@
       "duration_ms": 315466,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1899,6 +1883,22 @@
       "duration_ms": 255866,
       "name": "Holler",
       "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "It Was All A Dream",
-        "url": "https://open.spotify.com/album/1BFRUB6584v1J2aew1vKEE"
-      },
-      "artists": [
-        {
-          "name": "Dream",
-          "url": "https://open.spotify.com/artist/5glaXGC2Bpd4z4HsVhzhjN"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "He Loves You Not",
-      "url": "https://open.spotify.com/track/2ozJmnjqCMJavEKoHqiou0"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Dignity",
         "url": "https://open.spotify.com/album/2OD92YQZuME96A0b1aJzQF"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 181000,
       "name": "With Love",
       "url": "https://open.spotify.com/track/7DjTfU6kIcoXaAO02f5EOz"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "It Was All A Dream",
+        "url": "https://open.spotify.com/album/1BFRUB6584v1J2aew1vKEE"
+      },
+      "artists": [
+        {
+          "name": "Dream",
+          "url": "https://open.spotify.com/artist/5glaXGC2Bpd4z4HsVhzhjN"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "He Loves You Not",
+      "url": "https://open.spotify.com/track/2ozJmnjqCMJavEKoHqiou0"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2543,18 +2543,18 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "I Don't Wanna Grow Up",
-        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 207775,
-      "name": "I'm Gonna Show You Crazy",
-      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
+      "duration_ms": 214080,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
     }
   ],
   "unique_name": "Deserved",

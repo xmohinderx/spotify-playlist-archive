@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Perreo del bueno!\nCover: Maria Becerra",
-  "num_followers": 1270698,
+  "num_followers": 1270924,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgzNDAwMSwwMDAwMDAwMDJmYTNjMzkyOTlkYjIxOTBjZmQxMmJmNDNkMGZkZjgz",
+  "snapshot_id": "MTY2NDgzNDAwMSwwMDAwMDAwMGZhNWQ2NGJlYWQ4NmUxZjM1YzIyNWU0YjIwOWI0MjJk",
   "tracks": [
     {
       "added_at": "2022-10-03 21:53:21",
@@ -267,42 +267,6 @@
     {
       "added_at": "2022-10-03 21:53:21",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
-        "name": "Avemar\u00eda",
-        "url": "https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Avemar\u00eda",
-      "url": "https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -327,6 +291,42 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
+        "name": "Avemar\u00eda",
+        "url": "https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Avemar\u00eda",
+      "url": "https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2022-10-03 21:53:21",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-10-03 21:53:21",
       "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
         "name": "911 (Remix)",
         "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 208631,
       "name": "911 - Remix",
       "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-10-03 21:53:21",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2022-10-03 21:53:21",
       "album": {
-        "name": "Otro Trago (Remix)",
-        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Otro Trago - Remix",
-      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -1375,6 +1343,38 @@
       "duration_ms": 236156,
       "name": "CXO (A Qui\u00e9n No Le Gusta)",
       "url": "https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
+        "name": "Otro Trago (Remix)",
+        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Otro Trago - Remix",
+      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
     },
     {
       "added_at": "2022-10-03 21:53:21",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-10-03 21:53:21",
       "album": {
-        "name": "Persia",
-        "url": "https://open.spotify.com/album/5IEJzd1WqQOCDFyCnq9TVs"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Persia",
-      "url": "https://open.spotify.com/track/3Nb754wzOs49m1gT0U4yn1"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2022-10-03 21:53:21",
       "album": {
+        "name": "Persia",
+        "url": "https://open.spotify.com/album/5IEJzd1WqQOCDFyCnq9TVs"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Persia",
+      "url": "https://open.spotify.com/track/3Nb754wzOs49m1gT0U4yn1"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
         "name": "De Pari",
         "url": "https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj"
       },
@@ -1575,6 +1575,42 @@
       "duration_ms": 174250,
       "name": "De Pari",
       "url": "https://open.spotify.com/track/2oYbmygoO3gzLychByw297"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
+        "name": "Reggaetonea",
+        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Amor De Una Noche",
+      "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Una Nota",
+      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
     },
     {
       "added_at": "2022-10-03 21:53:21",
@@ -1607,62 +1643,6 @@
     {
       "added_at": "2022-10-03 21:53:21",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Una Nota",
-      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
-        "name": "Reggaetonea",
-        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Amor De Una Noche",
-      "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
-        "name": "Se Menea",
-        "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 226120,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
+        "name": "Se Menea",
+        "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 190880,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh"
     },
     {
       "added_at": "2022-10-03 21:53:21",
@@ -1807,6 +1807,30 @@
     {
       "added_at": "2022-10-03 21:53:21",
       "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "duration_ms": 213313,
+      "name": "Mi Nin\u0303a",
+      "url": "https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi"
+    },
+    {
+      "added_at": "2022-10-03 21:53:21",
+      "album": {
         "name": "Las Leyendas Nunca Mueren",
         "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
@@ -1851,30 +1875,6 @@
       "duration_ms": 203680,
       "name": "Nunca y Pico",
       "url": "https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1"
-    },
-    {
-      "added_at": "2022-10-03 21:53:21",
-      "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        }
-      ],
-      "duration_ms": 213313,
-      "name": "Mi Nin\u0303a",
-      "url": "https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi"
     },
     {
       "added_at": "2022-10-03 21:53:21",

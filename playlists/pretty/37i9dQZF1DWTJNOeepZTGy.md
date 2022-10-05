@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,418 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,440 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 37 | [Make Me a Believer](https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Busy Body](https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a) | 5:25 |
 | 38 | [Let's Stay Together \- Midnight Mix](https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:46 |
 | 39 | [Cure](https://open.spotify.com/track/6eJczgR1Hi9pQMcy1NEIGG) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Voyager](https://open.spotify.com/album/1TRCVBeWwJ884AxMF9815G) | 4:06 |
-| 40 | [Moody's Mood For Love \(I'm In The Mood For Love\)](https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Moody](https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 4:18 |
-| 41 | [All I Ever Think About](https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Epiphany](https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN) | 3:40 |
+| 40 | [All I Ever Think About](https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Epiphany](https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN) | 3:40 |
+| 41 | [Moody's Mood For Love \(I'm In The Mood For Love\)](https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Moody](https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 4:18 |
 | 42 | [Show Me the Way \(feat\. Raphael Saadiq\)](https://open.spotify.com/track/3d47DFYwKsWsXkwfaktsmk) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM) | 7:47 |
 | 43 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
 | 44 | [Never Felt This Way](https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 5:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 47 | [Heaven Sent](https://open.spotify.com/track/6KTPvBjPoFdFOe5qHLXZk0) | [Donnie](https://open.spotify.com/artist/3fvn4MvWJXwY17wpwnlgJN) | [The Colored Section](https://open.spotify.com/album/1LOlC0sCNpY3O18pR59Ald) | 5:03 |
 | 48 | [Between the Sheets](https://open.spotify.com/track/7GazZcRE8uDL24PzwyUe2f) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:38 |
 | 49 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
-| 50 | [Love, Need And Want You](https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:00 |
+| 50 | [Lovin' You](https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 5:17 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDg0NmNlMTc2YjIwNTAwZTFmYTk2OTg5ZTYzNDZhNWI3`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDNlYTMyMGI3NTQyZjZiOGJjZDc1NDk1OWRhZTIzODU3`

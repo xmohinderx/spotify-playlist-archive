@@ -384,6 +384,32 @@
     },
     {
       "album": {
+        "name": "Spark Catchers",
+        "url": "https://open.spotify.com/album/1snEbQVEGGEQLylM7ndRAx"
+      },
+      "artists": [
+        {
+          "name": "Philip Herbert",
+          "url": "https://open.spotify.com/artist/5pyYvdMm2kgGydVZ1quf2U"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Anthony Parnther",
+          "url": "https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423220,
+      "name": "Elegy (In Memoriam Stephen Lawrence)",
+      "url": "https://open.spotify.com/track/52hHlP0sXRrpVPOHWzJhto"
+    },
+    {
+      "album": {
         "name": "El\u00e9gie in C Minor, Op. 24 (Arr. Parkin)",
         "url": "https://open.spotify.com/album/6448GplfJpNxV3euIIFYiy"
       },

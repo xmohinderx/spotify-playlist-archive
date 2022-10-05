@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 443248,
+  "num_followers": 443265,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1OTQxMSwwMDAwMDAwMDUyZmE3NzQ4ZGE5MmViYThiODcxNmM2NjQzZWE3ZWQw",
+  "snapshot_id": "MTY2Mzk1OTQxMSwwMDAwMDAwMGU3ZDc3Yzc5N2Q1ZTAyNmZjZmRjOGRlZDY0M2I3Y2E2",
   "tracks": [
     {
       "added_at": "2022-09-23 18:56:51",
@@ -96,7 +96,7 @@
       "added_at": "2022-09-23 18:56:51",
       "album": {
         "name": "HiROQUEST: Genesis",
-        "url": "https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l"
+        "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
       },
       "artists": [
         {
@@ -110,7 +110,7 @@
       ],
       "duration_ms": 210725,
       "name": "Chi Chi",
-      "url": "https://open.spotify.com/track/5stSMLMtouTWgBS1yivBJm"
+      "url": "https://open.spotify.com/track/6t8JfhZG9HV4mSI1FbVWff"
     },
     {
       "added_at": "2022-09-23 18:56:51",
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-09-23 18:56:51",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182187,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
-    },
-    {
-      "added_at": "2022-09-23 18:56:51",
-      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2022-09-23 18:56:51",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182187,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
     },
     {
       "added_at": "2022-09-23 18:56:51",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-09-23 18:56:51",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": "2022-09-23 18:56:51",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2022-09-23 18:56:51",
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2022-09-23 18:56:51",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-09-23 18:56:51",
       "album": {
-        "name": "Byemalandra",
-        "url": "https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 165521,
-      "name": "Byemalandra",
-      "url": "https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt"
-    },
-    {
-      "added_at": "2022-09-23 18:56:51",
-      "album": {
         "name": "Bomb\u00f3n",
         "url": "https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 160399,
       "name": "Bomb\u00f3n",
       "url": "https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil"
+    },
+    {
+      "added_at": "2022-09-23 18:56:51",
+      "album": {
+        "name": "Byemalandra",
+        "url": "https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 165521,
+      "name": "Byemalandra",
+      "url": "https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt"
     },
     {
       "added_at": "2022-09-23 18:56:51",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-09-23 18:56:51",
       "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/6494FU89k0o3Kfgz9LqH9H"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 138106,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/4QIQmXC0OI5ZEQPvwCXbdI"
-    },
-    {
-      "added_at": "2022-09-23 18:56:51",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/7gWwq96ivfK76zTC8howhG"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 154635,
       "name": "Calor",
       "url": "https://open.spotify.com/track/4YGFWYHhXfCmZ3zOC22AyT"
+    },
+    {
+      "added_at": "2022-09-23 18:56:51",
+      "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/6494FU89k0o3Kfgz9LqH9H"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 138106,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/4QIQmXC0OI5ZEQPvwCXbdI"
     },
     {
       "added_at": "2022-09-23 18:56:51",

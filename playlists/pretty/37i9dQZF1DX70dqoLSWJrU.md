@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,952 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,012 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 52 | [I Miss You So](https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Lonely And Blue](https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS) | 3:22 |
 | 53 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 |
 | 54 | [There's No You](https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:47 |
-| 55 | [I Can't Get Started](https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:15 |
-| 56 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
+| 55 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
+| 56 | [I Can't Get Started](https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:15 |
 | 57 | ['Round Midnight](https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Around Midnight](https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d) | 2:52 |
 | 58 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
 | 59 | [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 |
 | 100 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 |
 
-Snapshot ID: `MTY2NDUyMDk5NCwwMDAwMDAwMGNkNTFhYzBmNmMzZjBkZGViZWIyOThkZGI0NjVhN2Y3`
+Snapshot ID: `MTY2NDUyMDk5NCwwMDAwMDAwMGE1YWU3ZGViNTJkYTY1NDc1M2U0YWVlNjdkYjFjZDY2`

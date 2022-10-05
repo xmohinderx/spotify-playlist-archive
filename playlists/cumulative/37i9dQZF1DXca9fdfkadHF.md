@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-72 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
+73 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [La Chata](https://open.spotify.com/track/3jzpdDnLaQcsuGCw4JwVYS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:26 | 2022-04-01 |  |
 | [La peor de las guerras \- Remastered](https://open.spotify.com/track/67SdBqjGew9i3eKeiF14Ie) | [La Liga del Sueño](https://open.spotify.com/artist/0K1keFZ7bOlTIGX1p3APB2) | [Por Tierra \(Remastered\)](https://open.spotify.com/album/3mC1bT6CET5GCB74NbK9sZ) | 3:47 | 2022-04-01 |  |
 | [La Universidad \(cosa de Locos\)](https://open.spotify.com/track/2uWpNusYG5sEpvGNmOr03P) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 3:36 | 2022-04-01 |  |
-| [Las Torres](https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:20 | 2022-04-01 |  |
+| [Las Torres](https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:20 | 2022-04-01 | 2022-10-05 |
+| [Las Torres](https://open.spotify.com/track/5QX7YdxL6LtpWyfbNzaIPC) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/5uxCbEVfLhM7P1UoSrBrT0) | 3:20 | 2022-04-01 |  |
 | [Lo Peor de Todo](https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:03 | 2022-04-01 |  |
 | [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 | 2022-04-01 |  |
 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 | 2022-04-01 |  |

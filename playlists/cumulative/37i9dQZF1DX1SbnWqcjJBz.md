@@ -4,7 +4,7 @@
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-316 songs - 18 hr 52 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
+317 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [I Wrote the Book](https://open.spotify.com/track/5yHmkXEK225be9S7A5VpaF) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [EP](https://open.spotify.com/album/3tALUE6LjM6TyHQ1MufW6w) | 3:24 | 2022-03-24 | 2022-04-21 |
 | [I'm a Mess](https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:15 | 2022-03-08 |  |
 | [I'm Alive](https://open.spotify.com/track/1l8wkh5QZFK8oPqLeLJRy2) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [My Love Ultimate Essential Collection](https://open.spotify.com/album/2v0al3Hr4YsxSR5vGWE0OJ) | 3:31 | 2022-03-24 | 2022-04-20 |
-| [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 | 2022-03-08 |  |
+| [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 | 2022-03-08 | 2022-10-05 |
 | [If U Seek Amy](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:36 | 2022-01-27 |  |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-01-27 |  |
 | [Indestructible](https://open.spotify.com/track/3pvwgs4ce6SzIW9ZM4UGsp) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/5EaHrdZSDdapvGMLKYaIe7) | 3:40 | 2022-01-27 | 2022-02-18 |
@@ -263,6 +263,7 @@
 | [Sledgehammer](https://open.spotify.com/track/7uoulrMQgFZFAIEpRPvewL) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:50 | 2022-01-27 | 2022-07-29 |
 | [Slow Down](https://open.spotify.com/track/2OsEJFTfzfjG4oC92cuP2c) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 3:30 | 2022-04-16 |  |
 | [Slow Down](https://open.spotify.com/track/3Sfz97E5X6dm1172XOZ8wO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [For You](https://open.spotify.com/album/3NkZqXMTPlFgbgvifgrhLN) | 3:30 | 2022-01-27 | 2022-07-25 |
+| [Slumber Party](https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:34 | 2022-04-16 |  |
 | [Slumber Party feat\. Tinashe](https://open.spotify.com/track/2i9q8CteBmpslOJeQdMGqA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Glory \(Deluxe Version\)](https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK) | 3:33 | 2022-01-27 | 2022-09-27 |
 | [Somebody Loves You](https://open.spotify.com/track/2JSlJY9AMywkLMNTyZqHii) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Take Me When You Go \(Deluxe Version\)](https://open.spotify.com/album/429PrNZhn59C6djYU7caTn) | 3:30 | 2022-01-27 | 2022-07-29 |
 | [Somebody To Love](https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe) | [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Somebody To Love](https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9) | 3:32 | 2022-01-27 | 2022-07-28 |

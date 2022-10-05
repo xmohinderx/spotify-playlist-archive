@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: bLAck pARty",
-  "num_followers": 744233,
+  "num_followers": 744484,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDgyNTU4ZWE4MzJlZjc5YjQyMjAxZmY3ZTE4NjhhNWZl",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDE1NGUzMTYzNTExZTA0MGY2YWQwMjQ0Y2JlZjYyMGM1",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -31,7 +31,7 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "90 Proof (feat. J. Cole)",
+        "name": "90 Proof (with J. Cole)",
         "url": "https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u"
       },
       "artists": [
@@ -45,7 +45,7 @@
         }
       ],
       "duration_ms": 208269,
-      "name": "90 Proof (feat. J. Cole)",
+      "name": "90 Proof (with J. Cole)",
       "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
     },
     {
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Hello Poison",
+        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 166256,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Lost In June - EP",
         "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
       },
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 264412,
-      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 264412,
+      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Now, You Know",
+        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Like Neptune",
         "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Now, You Know",
-        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
-      },
-      "artists": [
-        {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "Paris, Texas",
-      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Goodbye Paris",
         "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 225933,
       "name": "Goodbye Paris",
       "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 272020,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 272020,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+        "name": "Thin Lines",
+        "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
       },
       "artists": [
         {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
+      "duration_ms": 171016,
+      "name": "Thin Lines",
+      "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Thin Lines",
-        "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
       "artists": [
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
         }
       ],
-      "duration_ms": 171016,
-      "name": "Thin Lines",
-      "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "When Flowers Bloom",
-        "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
-      },
-      "artists": [
-        {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
-        }
-      ],
-      "duration_ms": 199770,
-      "name": "Alone In Kenzo",
-      "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "DRONES",
         "url": "https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 223991,
       "name": "This Morning (feat. Arin Ray & Smino)",
       "url": "https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "When Flowers Bloom",
+        "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "duration_ms": 199770,
+      "name": "Alone In Kenzo",
+      "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "My Sunrise",
-        "url": "https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6"
-      },
-      "artists": [
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "My Sunrise",
-      "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "One More Kiss",
         "url": "https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+        "name": "My Sunrise",
+        "url": "https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+      "duration_ms": 189333,
+      "name": "My Sunrise",
+      "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1603,6 +1587,22 @@
       "duration_ms": 247468,
       "name": "EEK",
       "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Luvaroq",
-        "url": "https://open.spotify.com/album/1pXnRcKwgFFQDSyUNWng6b"
-      },
-      "artists": [
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 220781,
-      "name": "Luvaroq",
-      "url": "https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Wu Hen",
         "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Luvaroq",
+        "url": "https://open.spotify.com/album/1pXnRcKwgFFQDSyUNWng6b"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 220781,
+      "name": "Luvaroq",
+      "url": "https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U"
     },
     {
       "added_at": "2022-09-30 04:00:00",

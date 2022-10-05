@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 383030,
+  "num_followers": 383085,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg3OTAzNCwwMDAwMDAwMDNiY2VkYjhhNWNkZTAxYWQ4ODdjNmFjMzIxNTFiMTc1",
+  "snapshot_id": "MTY0OTg3OTAzNCwwMDAwMDAwMDc1OWJjYzJlNTI3YmUwZGM4OGMzMzhhYjMwZDMzZjQz",
   "tracks": [
     {
       "added_at": "2021-08-25 20:28:57",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Youngblood (Deluxe)",
         "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
@@ -895,6 +895,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 229360,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
     },
     {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Better When I'm Dancin'",
+        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
+    },
+    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Electricity (with Dua Lipa)",
@@ -1699,22 +1715,6 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Better When I'm Dancin'",
-        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "Better When I'm Dancin'",
-      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2133,22 +2133,6 @@
       "url": "https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "Lease On Life",
-        "url": "https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "Lease On Life",
-      "url": "https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Dangerous Woman",
@@ -2163,6 +2147,22 @@
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "Lease On Life",
+        "url": "https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "Lease On Life",
+      "url": "https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2539,6 +2539,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Nick Jonas X2",
+        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
@@ -2555,22 +2571,6 @@
       "duration_ms": 159011,
       "name": "Good as Hell (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Nick Jonas X2",
-        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2621,6 +2621,22 @@
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "The Blessed Unrest",
+        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
+    },
+    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Brighter Days",
@@ -2639,38 +2655,6 @@
       "duration_ms": 203386,
       "name": "Came Here for Love",
       "url": "https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Good as Hell",
-        "url": "https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "The Blessed Unrest",
-        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2747,6 +2731,22 @@
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Good as Hell",
+        "url": "https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -2925,6 +2925,22 @@
       "url": "https://open.spotify.com/track/6JvrOdeiEqWyCta29Xc4mR"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Our Version Of Events",
+        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
+    },
+    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Next Year (feat. Windser)",
@@ -2943,22 +2959,6 @@
       "duration_ms": 173901,
       "name": "Next Year (feat. Windser)",
       "url": "https://open.spotify.com/track/4zncVqi72AX54I2JVIUq0N"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Our Version Of Events",
-        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Next To Me",
-      "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -3047,22 +3047,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "The Pains Of Growing",
-        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Trust My Lonely",
-      "url": "https://open.spotify.com/track/7eXT7U3FKrOM88xr1DsNwc"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Hurt Somebody",
         "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
       },
@@ -3079,6 +3063,22 @@
       "duration_ms": 168640,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "The Pains Of Growing",
+        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Trust My Lonely",
+      "url": "https://open.spotify.com/track/7eXT7U3FKrOM88xr1DsNwc"
     },
     {
       "added_at": "2021-08-25 20:28:57",

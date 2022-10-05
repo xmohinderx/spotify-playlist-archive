@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -6890,6 +6890,24 @@
     },
     {
       "album": {
+        "name": "Pak Pak",
+        "url": "https://open.spotify.com/album/1W60C1OiaFVp9gjbMmCVyd"
+      },
+      "artists": [
+        {
+          "name": "ibbigang",
+          "url": "https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Pak Pak",
+      "url": "https://open.spotify.com/track/5RIVjLrjv7mw8LUihkuoLC"
+    },
+    {
+      "album": {
         "name": "Palvin",
         "url": "https://open.spotify.com/album/69Zm96qdaLpLpb660vTfrb"
       },
@@ -8205,7 +8223,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -10443,7 +10461,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 150277,
       "name": "\u00c9get a nap",
       "url": "https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt"

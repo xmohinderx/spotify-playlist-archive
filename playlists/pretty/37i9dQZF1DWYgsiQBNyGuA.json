@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 45131,
+  "num_followers": 45164,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDZjZGIyY2ZlZGNhNDg2NWRlZTZiMjMyZWY1ZTBmZTA2",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDA3OGVjNDgwZjYxYzU4OWVmMzE5YmQ1NjU5YWIzNGFl",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 228553,
       "name": "So Caught Up",
       "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Every Day a Dream",
-      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -799,50 +799,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
-        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "Just The Two Of Us",
-      "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -859,6 +827,38 @@
       "duration_ms": 280600,
       "name": "Ain't No Use",
       "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
+        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "Just The Two Of Us",
+      "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Live for Each Other",
         "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 258200,
-      "name": "Starry Eyes",
-      "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
+      "duration_ms": 249693,
+      "name": "Man of the Universe",
+      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1023,22 +1039,6 @@
       "duration_ms": 176520,
       "name": "Seven Nation Army - Remasteris\u00e9e",
       "url": "https://open.spotify.com/track/4LDNKV0SYy8m9MRyhLkXv7"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man of the Universe",
-      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Bruce Billups Southern Soul Mix (Re-Loaded)",
-        "url": "https://open.spotify.com/album/6zT1CYxdMjosZQwBGGpEoD"
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
       },
       "artists": [
         {
-          "name": "Lebrado",
-          "url": "https://open.spotify.com/artist/0ay7iuyEsO194wWkxfyjsA"
+          "name": "Vivian Green",
+          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/7DpuczUR3nNFkMfMyRqoNx"
+      "duration_ms": 244840,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "A Love Story",
-        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
+        "name": "Bruce Billups Southern Soul Mix (Re-Loaded)",
+        "url": "https://open.spotify.com/album/6zT1CYxdMjosZQwBGGpEoD"
       },
       "artists": [
         {
-          "name": "Vivian Green",
-          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
+          "name": "Lebrado",
+          "url": "https://open.spotify.com/artist/0ay7iuyEsO194wWkxfyjsA"
         }
       ],
-      "duration_ms": 244840,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
+      "duration_ms": 219493,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/7DpuczUR3nNFkMfMyRqoNx"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270325,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Bags & Suitcases",
         "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270325,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
     },
     {
       "added_at": "2022-04-08 07:52:50",

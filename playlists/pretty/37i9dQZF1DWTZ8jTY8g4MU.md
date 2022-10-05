@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,089 likes - 52 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,142 likes - 52 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 51 | [Elly Tabeh](https://open.spotify.com/track/5ufm6qAEgQW5rHFHsCipnt) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Elly Tabeh](https://open.spotify.com/album/0VBlLnPK8yiqZi9LPMvoIF) | 2:37 |
 | 52 | [Koul Shya Weleh Nehayah](https://open.spotify.com/track/3V5UpDdPUZdGKSgaaDFKpr) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koul Shya Weleh Nehayah](https://open.spotify.com/album/6YpmIaqZ9iD4gVVenm6oAE) | 3:49 |
 
-Snapshot ID: `MTY2MTk2NzcxOSwwMDAwMDAwMGRkOGM0ZTI5ZmYyZTkwZGQwYzVhYzU5NDViNjhlNzBj`
+Snapshot ID: `MTY2NDg4NzI1MSwwMDAwMDAwMDUxZDkyZmM4YzE3NDk5ZDBjMTg1NDhhZDI2YzRiMzUx`

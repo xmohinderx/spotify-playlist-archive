@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 ### [Pressure](https://open.spotify.com/playlist/37i9dQZF1DWZwCeILEyQAy)
 
-> Real Rap\. All Pressure\. Cover: Big Boss Vette
+> Real Rap\. All Pressure\. Cover: Kali
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,666 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,731 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 49 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 |
 | 50 | [Jackson 5](https://open.spotify.com/track/1MvQTf0DABjvSsfbOApnRl) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [HITGIRL](https://open.spotify.com/album/2J9CZL9gMrruzFq3SnIlMm) | 2:45 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMGEyYzEwZWRhMGIyMjRhOTJiYTgyOTlmZmZmYzI0NmM4`
+Snapshot ID: `MTY2NDkxNDE5NywwMDAwMDAwMDQ4N2RlNzk2NzU2ZWQ0ODQxNmQ1NjhiODZmM2RlYjk2`

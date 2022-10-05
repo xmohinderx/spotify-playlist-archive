@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,874 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,781 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
-| 2 | [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 |
+| 1 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
+| 2 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 |
 | 3 | [The Reapers](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [The Reapers](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
 | 4 | [f1 racer](https://open.spotify.com/track/0Ume2ALqcG0LDPecFmNgAV) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [MK 3.5: f1 racer & locked in \| Zone 1 \(24 Hours\)](https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk) | 2:26 |
 | 5 | [Stereo Driver](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Stereo Driver](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 |
 | 100 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 
-Snapshot ID: `MTY2NDgwODI2OSwwMDAwMDAwMGE3NDQ4YWM4Y2NmZDkxNDAxZWZhODBhY2Y1NTZkYjg5`
+Snapshot ID: `MTY2NDg5NTk5OCwwMDAwMDAwMGQ4NzFiOWYyNmU3MjkzMDhlYjc0ODc5ZDVhOWY2OTA3`

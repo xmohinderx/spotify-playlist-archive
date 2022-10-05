@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 189613,
       "name": "El Quemador",
       "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Jacinto el Tullido",
+      "url": "https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ"
+    },
+    {
+      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
       },
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 191791,
       "name": "La Noria Escondida",
       "url": "https://open.spotify.com/track/0H3GAtMSZMEF6gdcq7qvEg"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 181213,
       "name": "Santos Cant\u00fa",
       "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"

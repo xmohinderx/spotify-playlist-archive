@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 749556,
+  "num_followers": 749568,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMGNiMTljNzg5ZWE1NWE0YzM4NGZhYmRmZTlmN2UzMjE4",
+  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMDM3MjQzNGViOTUyNjgyOTFhNjJiMTNjNmUxZWQ3OGRh",
   "tracks": [
     {
       "added_at": "2022-09-06 16:40:42",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Last One",
-        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        },
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "Last One",
-      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Coraz\u00f3n Cromado",
         "url": "https://open.spotify.com/album/06K7B814dzQ3XUaszFMO02"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 213647,
       "name": "Qu\u00e9 Facilidad",
       "url": "https://open.spotify.com/track/6GAWfJCEiQZoRtVFaoxscP"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 137142,
       "name": "you are, you are - demo",
       "url": "https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
+        "name": "Fresh Water",
+        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+      },
+      "artists": [
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 157010,
+      "name": "Fresh Water",
+      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/0PGUfPHlpE3MeYZgRsbWhw"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 218467,
       "name": "Only One",
       "url": "https://open.spotify.com/track/65Xycqq3KSaLmEIbWszegR"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
-        "name": "Fresh Water",
-        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
-      },
-      "artists": [
-        {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
-        }
-      ],
-      "duration_ms": 157010,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "22/2/22 (feat. Paula Cendejas)",
         "url": "https://open.spotify.com/album/2nNJ9wdWz3EuDvHwSgWjBn"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 168260,
       "name": "22/2/22 (feat. Paula Cendejas)",
       "url": "https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
+        "name": "I've Seen Better Days",
+        "url": "https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 184941,
+      "name": "I've Seen Better Days",
+      "url": "https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
         "name": "Direction",
         "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 225454,
       "name": "Direction",
       "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
-        "name": "I've Seen Better Days",
-        "url": "https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 184941,
-      "name": "I've Seen Better Days",
-      "url": "https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi"
     },
     {
       "added_at": "2022-09-06 16:40:42",

@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 517852,
+  "num_followers": 518022,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzNjI5MCwwMDAwMDAwMDE0ZjQ3ODI5MmZmZmE4NWMwZWVlYWM2YzM1OTE0NjNl",
+  "snapshot_id": "MTY2NDUzNjI5MCwwMDAwMDAwMGVmY2QxZmQ1YjFmM2Q2MGY5NjQzNDRiNmFiZDM1MTUx",
   "tracks": [
     {
       "added_at": "2022-09-30 11:11:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/4t8bZNqNroLlMNj8p908VL"
-      },
-      "artists": [
-        {
-          "name": "Smile Empty Soul",
-          "url": "https://open.spotify.com/artist/1KEUVZo7CMTSJoM8doulOT"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/3EmNjy3zFszmAOCikiKxCd"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
         "name": "So Much For The Afterglow",
         "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 238133,
       "name": "I Will Buy You A New Life",
       "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4t8bZNqNroLlMNj8p908VL"
+      },
+      "artists": [
+        {
+          "name": "Smile Empty Soul",
+          "url": "https://open.spotify.com/artist/1KEUVZo7CMTSJoM8doulOT"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/3EmNjy3zFszmAOCikiKxCd"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
         "name": "The Punisher: The Album",
         "url": "https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 198360,
       "name": "Slow Chemical",
       "url": "https://open.spotify.com/track/2h5Kce0Vt3PWgMYkYuUL3E"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw"
     },
     {
       "added_at": "2022-09-30 11:11:30",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-30 11:11:30",
       "album": {
-        "name": "Days Of The New (Red Album)",
-        "url": "https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP"
-      },
-      "artists": [
-        {
-          "name": "Days Of The New",
-          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Die Born",
-      "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
-    },
-    {
-      "added_at": "2022-09-30 11:11:30",
-      "album": {
         "name": "Distort Yourself",
         "url": "https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 265106,
       "name": "Bulletproof Skin",
       "url": "https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID"
+    },
+    {
+      "added_at": "2022-09-30 11:11:30",
+      "album": {
+        "name": "Days Of The New (Red Album)",
+        "url": "https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Die Born",
+      "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
     },
     {
       "added_at": "2022-09-30 11:11:30",

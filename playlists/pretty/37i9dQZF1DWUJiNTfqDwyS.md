@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,252 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,447 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 11 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
 | 12 | [Orgasmatron](https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:14 |
 | 13 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:36 |
-| 14 | [Helter Skelter](https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e) | 3:35 |
-| 15 | [Sad But True](https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Sad But True](https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV) | 5:32 |
+| 14 | [Sad But True](https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Sad But True](https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV) | 5:32 |
+| 15 | [Helter Skelter](https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e) | 3:35 |
 | 16 | [Painkiller](https://open.spotify.com/track/4uOSpJxcpzeNCWXYoXGJM1) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 6:02 |
 | 17 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Ruthless](https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt) | 3:52 |
 | 18 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 46 | [Chop Suey!](https://open.spotify.com/track/6mAtV1MrrpaAFtcUgSj3q0) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [Chop Suey!](https://open.spotify.com/album/6FDx7On1oIaLAn95L3Swhx) | 3:34 |
 | 47 | [Toss A Coin To Your Witcher](https://open.spotify.com/track/3Oz3R5UH9ynO4h1dcpEey1) | [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Toss A Coin To Your Witcher](https://open.spotify.com/album/2O8wiCuevOATbL5OJRYLP0) | 2:59 |
 | 48 | [God of Thunder](https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Human \(Deluxe Version\)](https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc) | 4:00 |
-| 49 | [TNT](https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Graveyard Classics](https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV) | 3:28 |
-| 50 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
-| 51 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 |
+| 49 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 |
+| 50 | [TNT](https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Graveyard Classics](https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV) | 3:28 |
+| 51 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
 | 52 | [My Heart Will Go On](https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO) | 3:24 |
 | 53 | [Hunting High and Low](https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Hunting High and Low](https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf) | 4:37 |
 | 54 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/0d76QXv2R4RIvWWb2y1MIu) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4LSbhtzHdQtsE6XPF4xNdy) | 4:24 |
-| 55 | [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 |
-| 56 | [Holier Than Thou](https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMFB …Sides](https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw) | 4:10 |
+| 55 | [Holier Than Thou](https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMFB …Sides](https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw) | 4:10 |
+| 56 | [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 |
 | 57 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 |
 | 58 | [Mein Herz brennt](https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Mein Herz brennt](https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu) | 4:41 |
 | 59 | [Let It Go](https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Let It Go](https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 74 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 |
 | 75 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 |
 
-Snapshot ID: `MTY2NDgxODAwMSwwMDAwMDAwMDYwZTBhNDg4OTkyZWM2OTEwNGE5MTgzODg3MjQwY2Jl`
+Snapshot ID: `MTY2NDgxODAwMSwwMDAwMDAwMGI4NWYxMjlkMDhmOTc0MGNiN2Q0ZThkZDE1Yjk3ZDZj`

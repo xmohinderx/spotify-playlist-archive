@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,721 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,757 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 17 | [Perfectly Broken](https://open.spotify.com/track/3Xx9gfUF7fd9tlffUrhxNi) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Perfectly Broken](https://open.spotify.com/album/5DGzH5tTCp8qWkR0trpPSZ) | 3:08 |
 | 18 | [Free](https://open.spotify.com/track/17Dy4XO1nEqL15OoO0303B) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Uncle Chucc](https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR) | [Free](https://open.spotify.com/album/42J8joitu0uE2c5WgEpqmZ) | 3:16 |
 | 19 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ) | 2:27 |
-| 20 | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
+| 20 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 | 21 | [This Ain't Working](https://open.spotify.com/track/7GvB7qLV2OJTEzSuAHXiX9) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 4:11 |
 | 22 | [Bruce Wayne](https://open.spotify.com/track/2POzxzlAyRJ2yEMD8XyV7a) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Bruce Wayne](https://open.spotify.com/album/5BOehCpbaZHz4WDpQVFUvb) | 2:03 |
 | 23 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 |

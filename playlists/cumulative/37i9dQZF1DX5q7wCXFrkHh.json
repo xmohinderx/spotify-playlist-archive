@@ -936,6 +936,24 @@
     },
     {
       "album": {
+        "name": "Oscar Peterson: Hits & Rarities",
+        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162717,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
+    },
+    {
+      "album": {
         "name": "We Get Requests",
         "url": "https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt"
       },
@@ -2865,7 +2883,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 163061,
       "name": "Solar",
       "url": "https://open.spotify.com/track/4PW7q2LZSr4WNjBew2QbXh"

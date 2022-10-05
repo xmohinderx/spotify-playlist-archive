@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 314125,
+  "num_followers": 314178,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY2NDc0NiwwMDAwMDAwMDhiZTE3OGY4ZWMxZmY3NWFlOTVjMjRjZjc1NzM5NWRl",
+  "snapshot_id": "MTY0NjY2NDc0NiwwMDAwMDAwMGRiNjY5Nzc0MmZlYmI3NDExYzE1MzI3Y2E5YmQyZmVl",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/3Zduho0YRag4bzsjSVGF0t"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 222400,
       "name": "Misty Blue",
       "url": "https://open.spotify.com/track/20JcxdRw8gvqTY1EEpYxHb"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Teddy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 354626,
-      "name": "Turn off the Lights",
-      "url": "https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 216760,
       "name": "Hey There Lonely Girl",
       "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 354626,
+      "name": "Turn off the Lights",
+      "url": "https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM"
     }
   ],
   "unique_name": "Timeless Soul Ballads",

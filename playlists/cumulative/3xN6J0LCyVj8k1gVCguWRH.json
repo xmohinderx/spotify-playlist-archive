@@ -9754,6 +9754,24 @@
     },
     {
       "album": {
+        "name": "Finding Home",
+        "url": "https://open.spotify.com/album/0ThydTtBVa0Eb3D6mVAqUw"
+      },
+      "artists": [
+        {
+          "name": "Hak Black",
+          "url": "https://open.spotify.com/artist/7JIRCWz9rVly4v7WIVrPE4"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203269,
+      "name": "Finding Home",
+      "url": "https://open.spotify.com/track/6SeoZNOlp8yEppdCwL5JX5"
+    },
+    {
+      "album": {
         "name": "Finding My Way",
         "url": "https://open.spotify.com/album/6t7f0GFWIEx1schlYAz2Jy"
       },

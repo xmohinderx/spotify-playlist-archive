@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-83 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
+84 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 |  |
 | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/track/5vqpMzEjuCBlQBuQKskXur) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Chief Prosper](https://open.spotify.com/artist/21s3rUeDcsqL8i1n8legaP) | [Enyo](https://open.spotify.com/album/0WkS8qu4bVzN96PLwluSA9) | 9:34 | 2022-06-30 |  |
 | [Final Say](https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Final Say](https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy) | 3:29 | 2022-06-30 |  |
-| [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2022-06-30 |  |
+| [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2022-06-30 | 2022-10-05 |
 | [For Me](https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [For Me](https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae) | 2:52 | 2022-06-30 |  |
 | [Ga Praise](https://open.spotify.com/track/1IToFXrcx4U7Kdls7DDMzo) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:03 | 2022-06-30 |  |
 | [Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day](https://open.spotify.com/track/1h0prCASS9tSr8JHAUvCBx) | [Joyful Way Inc.](https://open.spotify.com/artist/2XDQ4bOnx7ruvNFxx34DpV) | [Grateful Hearts](https://open.spotify.com/album/1dXixMQ1fxXkygMFcczgYP) | 14:10 | 2022-06-30 |  |
@@ -78,6 +78,7 @@
 | [Suddenly](https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:51 | 2022-06-30 |  |
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-06-30 |  |
 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 | 2022-09-30 |  |
+| [Tatafo](https://open.spotify.com/track/2FbHSnjLmSF77Uy5IkHjnf) | [Fega Michaels](https://open.spotify.com/artist/1uWU1q5sI8SbB0R56zTj6I) | [Tatafo](https://open.spotify.com/album/2Acy9jIYYJRVUkHc1M18jK) | 2:35 | 2022-06-30 |  |
 | [Testify](https://open.spotify.com/track/469a5ribFps5STVVzbnL3l) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [Testify](https://open.spotify.com/album/4ZcjusmpmGHpqVb00Eks6I) | 4:31 | 2022-09-01 |  |
 | [Thank You](https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe) | [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Thank You](https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6) | 5:16 | 2022-06-30 |  |
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-06-30 |  |

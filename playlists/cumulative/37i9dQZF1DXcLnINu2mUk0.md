@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-117 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+118 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2022-07-21 |  |
 | [Borboletas](https://open.spotify.com/track/3AroFQ5v6wHUOqwpGZw3OW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/7hJsoRAoXKqdkiTMEBLgJq) | 3:24 | 2022-07-07 | 2022-07-29 |
 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 | 2022-07-07 |  |
+| [Calor](https://open.spotify.com/track/0hJQmqriIYh2lL8nqOPQLq) | [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Calor](https://open.spotify.com/album/7bSGqZgFrAhPYWeZsVUjVk) | 3:41 | 2022-09-29 |  |
 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 | 2022-07-07 |  |
-| [Cashh](https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O) | [Cashh](https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5) | 4:28 | 2022-09-29 |  |
+| [Cashh](https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O) | [Cashh](https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5) | 4:28 | 2022-09-29 | 2022-10-05 |
 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 | 2022-09-16 |  |
 | [Chega P'ra Lá](https://open.spotify.com/track/7h9zNCAa8KLld9mHamzeGG) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1) | [Chega P'ra Lá](https://open.spotify.com/album/4efLnTaK16TYzuCJv4BHA2) | 2:38 | 2022-08-11 | 2022-09-09 |
 | [Chilla Chilla](https://open.spotify.com/track/3Ujr8v4IABZpysC8WBhuPu) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [Chilla Chilla](https://open.spotify.com/album/3Cn1Go38UQg7fIpzzC0GeW) | 2:38 | 2022-09-29 |  |

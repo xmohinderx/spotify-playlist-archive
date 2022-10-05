@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,546 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,621 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 55 | [Por Favor Corazon](https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [15 De Coleccion](https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI) | 3:41 |
 | 56 | [La Ronera](https://open.spotify.com/track/75UO0uDN3Fu5OFL41nPK7w) | [Roberto Pulido](https://open.spotify.com/artist/2ASyTeQe98f5E0KoU6x7lC) | [10 Grandes Exitos](https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww) | 2:49 |
 | 57 | [Calla featuring Jay Perez \(Live at FMS\)](https://open.spotify.com/track/1njmIOg0pSfV5i5oV4gbM1) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq), [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Live At Fiesta Market Square \(Remastered\)](https://open.spotify.com/album/3U5iUIQPmY7sOammCJIW3C) | 7:19 |
-| 58 | [Como Te Extrano](https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:50 |
+| 58 | [Con un Nudo en la Garganta](https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u) | [Joe Bravo](https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y) | [Con un Nudo en la Garganta](https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk) | 3:43 |
 | 59 | [Tú Robaste Mi Corazón](https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy), [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:47 |
 | 60 | [Eres Mi Todo](https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Mucho Mas Que Amor](https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny) | 3:25 |
-| 61 | [Con un Nudo en la Garganta](https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u) | [Joe Bravo](https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y) | [Con un Nudo en la Garganta](https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk) | 3:43 |
+| 61 | [Como Te Extrano](https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:50 |
 | 62 | [Poquito A Poco](https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:25 |
 | 63 | [Hasta Cuando](https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke), [Los Musicales](https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:26 |
 | 64 | [Amor Querido](https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [12 Favoritas](https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 74 | [La Rosa](https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:04 |
 | 75 | [Si Una Vez](https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 2:47 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMGJkNjhiMWM3MzA1YTdkOTI3MTYwODc0NmNiNTVmZGVl`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMGI4NWU1M2RiMjU2NThkNTc5N2M0MzUwODk3ZjA2MzRm`

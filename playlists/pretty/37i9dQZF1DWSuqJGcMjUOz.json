@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2115,
+  "num_followers": 2114,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDllN2E0NTEwOWM1OTM1NjRiNjQ5MGQ1MjBiMDA3NTUx",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGZhZjVlMzNlMjYyODE0ODVkZTczM2RlZGQ3ODFkYjdj",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "France d'Amour",
         "url": "https://open.spotify.com/album/5z4QHFL6rFZxr9hTsbJz7P"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 215560,
       "name": "Je n'irai pas ailleurs",
       "url": "https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Excalibur",
+        "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Les Rois",
+      "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Le tour du Grand Bois",
         "url": "https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Excalibur",
-        "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
+        "name": "Petite nature",
+        "url": "https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4"
       },
       "artists": [
         {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Les Rois",
-      "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
+      "duration_ms": 248826,
+      "name": "La jungle du capital",
+      "url": "https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -975,22 +991,6 @@
       "duration_ms": 146866,
       "name": "Perdu",
       "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Petite nature",
-        "url": "https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4"
-      },
-      "artists": [
-        {
-          "name": "\u00c9mile Bilodeau",
-          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "La jungle du capital",
-      "url": "https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Roi",
-        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 153846,
-      "name": "Roi",
-      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 149226,
       "name": "Entre mes jambes",
       "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Roi",
+        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "Roi",
+      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Crash (feat. Corneille)",
-        "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
+        "name": "Qui a mis le feu",
+        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
       },
       "artists": [
         {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        },
-        {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
         }
       ],
-      "duration_ms": 179936,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC"
+      "duration_ms": 171546,
+      "name": "Qui a mis le feu",
+      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

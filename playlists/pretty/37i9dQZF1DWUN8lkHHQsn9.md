@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 27 | [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 |
 | 28 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
 | 29 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
-| 30 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
-| 31 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 |
+| 30 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 |
+| 31 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
 | 32 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
 | 33 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 |
 | 34 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 50 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 | 51 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 |
 
-Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDg1MmUwMzQxYTc2YzU0ZTEyMmVlYjRjNDAyZWVkZjVl`
+Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDMwZmQzNjc2MmZmOWJlMTJhYmVhOWUwOGE5ODUyOWRk`

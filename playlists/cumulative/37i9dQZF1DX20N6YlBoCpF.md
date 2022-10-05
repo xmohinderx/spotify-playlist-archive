@@ -2,7 +2,7 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262?si=Vs4aByj4SRSSW\_bcV7\-TrA">Jacques Leonard</a>
+> Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=kJvA4P5cR3SF1IxHgQ189Q">Samantha Leonard</a>
 
 52 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/0RKP7WChEoliblztnGqALh)
 

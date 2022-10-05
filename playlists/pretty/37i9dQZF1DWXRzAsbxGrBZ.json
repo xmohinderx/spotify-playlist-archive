@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer. Cover: <a href=\"https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ-vZNiOsQ\">beatsbyhand</a>",
-  "num_followers": 926,
+  "num_followers": 950,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMDYxZTNiYTAzYWVjMjFmMjU3OTk5ZmQxYWYxYTg4OWY4",
+  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMDcwNTU5YWU1NWU3YWI1OTRkYzNhMGI5ZTFjMGM5NjNh",
   "tracks": [
     {
       "added_at": "2022-09-29 21:59:00",
@@ -71,6 +71,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "False Facade",
+        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
+      },
+      "artists": [
+        {
+          "name": "DRMZ",
+          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
+        }
+      ],
+      "duration_ms": 416688,
+      "name": "False Facade",
+      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "We Beg Your Pardon",
         "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 431984,
       "name": "We Beg Your Pardon",
       "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "False Facade",
-        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
-      },
-      "artists": [
-        {
-          "name": "DRMZ",
-          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
-        }
-      ],
-      "duration_ms": 416688,
-      "name": "False Facade",
-      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -279,26 +279,6 @@
     {
       "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "This Must Be Deep",
-        "url": "https://open.spotify.com/album/21VsxLl65DU4n6GfbVL3xE"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        },
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 393647,
-      "name": "This Must Be Deep - Original Mix",
-      "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "This Must Be Deep",
+        "url": "https://open.spotify.com/album/21VsxLl65DU4n6GfbVL3xE"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        },
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 393647,
+      "name": "This Must Be Deep - Original Mix",
+      "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "Forever (TekniQ Remixes)",
         "url": "https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3"
       },
@@ -445,20 +461,20 @@
       "url": "https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
       },
       "artists": [
         {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
         }
       ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
+      "duration_ms": 373592,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
     },
     {
       "added_at": "2022-09-19 09:57:52",
@@ -543,26 +559,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Multiverse Theory",
-        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
-      },
-      "artists": [
-        {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Ottis Blake",
-          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
-        }
-      ],
-      "duration_ms": 374257,
-      "name": "Multiverse Theory",
-      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "She's On Fire",
         "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
       },
@@ -583,6 +579,26 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Multiverse Theory",
+        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+        }
+      ],
+      "duration_ms": 374257,
+      "name": "Multiverse Theory",
+      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "3 By 3",
         "url": "https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 392304,
       "name": "Day And Night (Mmawe) - Original Mix",
       "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
-      },
-      "artists": [
-        {
-          "name": "Fatso 98",
-          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
-        }
-      ],
-      "duration_ms": 373592,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -629,20 +629,24 @@
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
+        "name": "Don\u2019t Get Me Wrong",
+        "url": "https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh"
       },
       "artists": [
         {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+          "name": "Deepconsoul",
+          "url": "https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf"
+        },
+        {
+          "name": "Freeman Gumede",
+          "url": "https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib"
         }
       ],
-      "duration_ms": 375431,
-      "name": "Before Everything",
-      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
+      "duration_ms": 473861,
+      "name": "Don\u2019t Get Me Wrong",
+      "url": "https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -667,6 +671,38 @@
       "duration_ms": 430538,
       "name": "Ingoma - Original Mix",
       "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
+      },
+      "artists": [
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 375431,
+      "name": "Before Everything",
+      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -699,26 +735,6 @@
       "duration_ms": 482979,
       "name": "BAUHAUS",
       "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Don\u2019t Get Me Wrong",
-        "url": "https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh"
-      },
-      "artists": [
-        {
-          "name": "Deepconsoul",
-          "url": "https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf"
-        },
-        {
-          "name": "Freeman Gumede",
-          "url": "https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib"
-        }
-      ],
-      "duration_ms": 473861,
-      "name": "Don\u2019t Get Me Wrong",
-      "url": "https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -759,22 +775,6 @@
       "duration_ms": 402788,
       "name": "Eternal Existence - Original Mix",
       "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -931,18 +931,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Gambiando Caras",
-        "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
+        "name": "Seeking",
+        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
       "artists": [
         {
-          "name": "Sir Vee The Great",
-          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
+          "name": "Buder Prince",
+          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
+        },
+        {
+          "name": "Ruthes Ma",
+          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
         }
       ],
-      "duration_ms": 435179,
-      "name": "Gambiando Caras",
-      "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
+      "duration_ms": 397355,
+      "name": "Seeking",
+      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
     },
     {
       "added_at": "2022-09-14 09:57:38",

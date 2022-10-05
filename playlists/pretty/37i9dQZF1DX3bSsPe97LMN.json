@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle Maciel en portada.",
-  "num_followers": 44294,
+  "num_followers": 44319,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGM4YWYzODZiNjEyOTA1OWMyMmIwZDg4YmUzMTJiMDc5",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDRkOWI1NDFjMzFmMGVmYzc3ODJjZGFkZGRjOTM2Mjgw",
   "tracks": [
     {
       "added_at": "2022-09-30 05:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "El Comienzo del Final",
-        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 173816,
-      "name": "El Comienzo del Final",
-      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Yo Soy el Bueno",
         "url": "https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 176213,
       "name": "Yo Soy el Bueno",
       "url": "https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "El Comienzo del Final",
+        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 173816,
+      "name": "El Comienzo del Final",
+      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Vuela y Vuela",
-        "url": "https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l"
-      },
-      "artists": [
-        {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
-        }
-      ],
-      "duration_ms": 181141,
-      "name": "Vuela y Vuela",
-      "url": "https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Ya No",
         "url": "https://open.spotify.com/album/5lsYMgRDUN8OJ2kOtnt8XD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 199157,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Vuela y Vuela",
+        "url": "https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "duration_ms": 181141,
+      "name": "Vuela y Vuela",
+      "url": "https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
+        "name": "Carritos de palo",
+        "url": "https://open.spotify.com/album/2w7jyhClchHj6hE6Wgve4E"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "Carritos de palo",
+      "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
         "name": "Quiero Contarte",
         "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
       },
@@ -761,20 +777,40 @@
       "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Carritos de palo",
-        "url": "https://open.spotify.com/album/2w7jyhClchHj6hE6Wgve4E"
+        "name": "Se Me Quedan Viendo Raro",
+        "url": "https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR"
       },
       "artists": [
         {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 167626,
-      "name": "Carritos de palo",
-      "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
+      "duration_ms": 197000,
+      "name": "Se Me Quedan Viendo Raro",
+      "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Tres Veces Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -795,18 +831,22 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
+        "name": "Se Chambiar",
+        "url": "https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Clave 520",
+          "url": "https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 193373,
-      "name": "Tres Veces Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
+      "duration_ms": 157542,
+      "name": "Se Chambiar",
+      "url": "https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -843,46 +883,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Se Chambiar",
-        "url": "https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF"
-      },
-      "artists": [
-        {
-          "name": "Clave 520",
-          "url": "https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 157542,
-      "name": "Se Chambiar",
-      "url": "https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Se Me Quedan Viendo Raro",
-        "url": "https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Se Me Quedan Viendo Raro",
-      "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "2 vidas",
         "url": "https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 211018,
       "name": "2 vidas",
       "url": "https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -923,22 +939,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Reina De Mi Amor",
         "url": "https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 138111,
       "name": "Reina De Mi Amor",
       "url": "https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Una Linda Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 268557,
+      "name": "Una Linda Canci\u00f3n",
+      "url": "https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1037,22 +1053,6 @@
       "url": "https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Una Linda Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 268557,
-      "name": "Una Linda Canci\u00f3n",
-      "url": "https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Humo",
@@ -1075,18 +1075,38 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "DOCTOR DEL BARRIO",
-        "url": "https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf"
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/01Jm1oH8OrOMtMQOI6UfUg"
       },
       "artists": [
         {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 141040,
-      "name": "DOCTOR DEL BARRIO",
-      "url": "https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj"
+      "duration_ms": 220280,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/0jdSKCIcsJuIVeg39EevgT"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "la del rencoroso",
+        "url": "https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX"
+      },
+      "artists": [
+        {
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "la del rencoroso",
+      "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1111,18 +1131,18 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/01Jm1oH8OrOMtMQOI6UfUg"
+        "name": "DOCTOR DEL BARRIO",
+        "url": "https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf"
       },
       "artists": [
         {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 220280,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/0jdSKCIcsJuIVeg39EevgT"
+      "duration_ms": 141040,
+      "name": "DOCTOR DEL BARRIO",
+      "url": "https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1177,26 +1197,6 @@
       "url": "https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "la del rencoroso",
-        "url": "https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "la del rencoroso",
-      "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "De Eso Se Trata",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Pasajes Negros",
-        "url": "https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A"
-      },
-      "artists": [
-        {
-          "name": "Nietos Del Viejo",
-          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
-        }
-      ],
-      "duration_ms": 140839,
-      "name": "Mis Travesuras",
-      "url": "https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "nuestro amor sacrificado",
         "url": "https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 82500,
       "name": "nuestro amor",
       "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Era Mia",
+        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 226887,
+      "name": "Era Mia",
+      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
+        "name": "Pasajes Negros",
+        "url": "https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A"
+      },
+      "artists": [
+        {
+          "name": "Nietos Del Viejo",
+          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
+        }
+      ],
+      "duration_ms": 140839,
+      "name": "Mis Travesuras",
+      "url": "https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
         "name": "El Chivo",
         "url": "https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i"
       },
@@ -1307,26 +1323,6 @@
       "duration_ms": 174750,
       "name": "El Chivo",
       "url": "https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Amor Y L\u00e1grimas",
-        "url": "https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i"
-      },
-      "artists": [
-        {
-          "name": "Gvano",
-          "url": "https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF"
-        },
-        {
-          "name": "La Inolvidable Banda Agua De La Llave",
-          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Me Sali\u00f3 Barato",
-      "url": "https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
-  "num_followers": 1841164,
+  "num_followers": 1841246,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MzcwOSwwMDAwMDAwMDNmZmJjOTUyNTVlMzY2OTE1OGNiZTI4YmIzODM2NDE2",
+  "snapshot_id": "MTY2Mzc4MzcwOSwwMDAwMDAwMDUyNWE5MTIwNThkMWY0NjBkMmQwZGYzY2ZkZjY4OGVi",
   "tracks": [
     {
       "added_at": "2022-09-21 18:08:29",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-09-21 18:08:29",
       "album": {
-        "name": "Cambia el Paso",
-        "url": "https://open.spotify.com/album/5qSmLWlPnrhF2rgt54Y7GC"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 245755,
-      "name": "Cambia el Paso",
-      "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
-    },
-    {
-      "added_at": "2022-09-21 18:08:29",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/4Yip3hds5IHyT7AqoNHfmX"
+    },
+    {
+      "added_at": "2022-09-21 18:08:29",
+      "album": {
+        "name": "Cambia el Paso",
+        "url": "https://open.spotify.com/album/5qSmLWlPnrhF2rgt54Y7GC"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "Cambia el Paso",
+      "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
     },
     {
       "added_at": "2022-09-21 18:08:29",

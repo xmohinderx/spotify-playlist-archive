@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en good vibes! Cover: Jinho 9
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,838 likes - 71 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,966 likes - 71 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

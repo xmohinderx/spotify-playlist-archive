@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul. ",
-  "num_followers": 30391,
+  "num_followers": 30454,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzMDU3NiwwMDAwMDAwMDE0MmY0MTBjMzE1MzRlNmM0ZDcwZGMwNzRlZjg0OGYx",
+  "snapshot_id": "MTY2MDkzMDU3NiwwMDAwMDAwMGJhYmMzMGQxODMwNmE4NTkzYjY2MzFjYmZhYmEwMTVk",
   "tracks": [
     {
       "added_at": "2022-08-19 17:36:16",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
+        "name": "Chicago Blues Session Volume 3",
+        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim & The Teardrops",
+          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
+        }
+      ],
+      "duration_ms": 442346,
+      "name": "So Easy To Love You",
+      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
         "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
         "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 347880,
       "name": "Givin' Up On Love",
       "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
-        "name": "Chicago Blues Session Volume 3",
-        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim & The Teardrops",
-          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
-        }
-      ],
-      "duration_ms": 442346,
-      "name": "So Easy To Love You",
-      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 278266,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
         "name": "Brownie McGhee and Sonny Terry Sing",
         "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 184000,
       "name": "Better Day",
       "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 278266,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
     },
     {
       "added_at": "2022-08-19 17:36:16",

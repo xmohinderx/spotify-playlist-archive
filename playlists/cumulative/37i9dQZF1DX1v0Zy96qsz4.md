@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-50 songs - 3 hr 23 min - not published yet
+50 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4Sv3w0MzU6tNkoRexbyMZr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

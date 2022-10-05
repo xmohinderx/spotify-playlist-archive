@@ -1,12 +1,12 @@
 {
   "description": "\u2600\ufe0f!",
-  "num_followers": 8038,
+  "num_followers": 8051,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDg2OSwwMDAwMDAwMDIxZmMzNDkxMTc1MDBlM2QyMTcyOTk2YTU0MGQ4Mzhi",
+  "snapshot_id": "MTY2MzkyMDg2OSwwMDAwMDAwMGQ5NzI0YThlNmFlY2EzOTAxZTgzOTE1NDI4ZWIxM2Ji",
   "tracks": [
     {
       "added_at": "2022-09-23 08:14:29",
@@ -123,6 +123,26 @@
     {
       "added_at": "2022-09-23 08:14:29",
       "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2022-09-23 08:14:29",
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-09-23 08:14:29",
-      "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2022-09-23 08:14:29",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-09-23 08:14:29",
       "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
+    },
+    {
+      "added_at": "2022-09-23 08:14:29",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2022-09-23 08:14:29",
-      "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
     },
     {
       "added_at": "2022-09-23 08:14:29",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-23 08:14:29",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-    },
-    {
-      "added_at": "2022-09-23 08:14:29",
-      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
+      "added_at": "2022-09-23 08:14:29",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2022-09-23 08:14:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-23 08:14:29",
       "album": {
-        "name": "Me Myself & I",
-        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 177879,
-      "name": "Me Myself & I",
-      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
-    },
-    {
-      "added_at": "2022-09-23 08:14:29",
-      "album": {
         "name": "SPACE MAN",
         "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 217320,
       "name": "SPACE MAN",
       "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
+    },
+    {
+      "added_at": "2022-09-23 08:14:29",
+      "album": {
+        "name": "Me Myself & I",
+        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 177879,
+      "name": "Me Myself & I",
+      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
     },
     {
       "added_at": "2022-09-23 08:14:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-23 08:14:29",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/4gV9MDYWSaZV9OYL8l1vqW"
-      },
-      "artists": [
-        {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt"
-    },
-    {
-      "added_at": "2022-09-23 08:14:29",
-      "album": {
         "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
         "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
       },
@@ -1231,6 +1215,38 @@
       "duration_ms": 227435,
       "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
       "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
+    },
+    {
+      "added_at": "2022-09-23 08:14:29",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/4gV9MDYWSaZV9OYL8l1vqW"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt"
+    },
+    {
+      "added_at": "2022-09-23 08:14:29",
+      "album": {
+        "name": "Come First",
+        "url": "https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 132900,
+      "name": "Come First",
+      "url": "https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp"
     },
     {
       "added_at": "2022-09-23 08:14:29",
@@ -1267,34 +1283,18 @@
     {
       "added_at": "2022-09-23 08:14:29",
       "album": {
-        "name": "Come First",
-        "url": "https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb"
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 132900,
-      "name": "Come First",
-      "url": "https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp"
-    },
-    {
-      "added_at": "2022-09-23 08:14:29",
-      "album": {
-        "name": "how deep?",
-        "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "how deep?",
-      "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
+      "duration_ms": 156083,
+      "name": "Paraocchi",
+      "url": "https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp"
     }
   ],
   "unique_name": "una playlist felice",

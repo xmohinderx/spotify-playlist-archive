@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Lucas Hill on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,013 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,011 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [Medusa](https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Medusa](https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G) | 4:07 |
 | 28 | [Flow Natty](https://open.spotify.com/track/7EDf9zG0Xan6ZT7QatIsYq) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Relax Buay](https://open.spotify.com/artist/3BRqgBejceV380iCe3RPAq), [Darnelt](https://open.spotify.com/artist/4LLUyAiSXJwDzoSCDa1q51), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [Flow Natty](https://open.spotify.com/album/0STCOjnotffOUHHmUnWzm7) | 3:06 |
 | 29 | [Yendo](https://open.spotify.com/track/2z5SxI5c7V2KeZvLhWdZij) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Yendo](https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj) | 3:14 |
-| 30 | [Lo Que Dijimos](https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl) | [Mojo Myst](https://open.spotify.com/artist/5ZyxEP1eCs4f2uGH2ZaJiG) | [Lo Que Dijimos](https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3) | 3:56 |
-| 31 | [ALCOHOL](https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a) | [Valeria Cid](https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U) | [ALCOHOL](https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla) | 2:52 |
+| 30 | [Perico](https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Perico](https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca) | 3:24 |
+| 31 | [Lo Que Dijimos](https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl) | [Mojo Myst](https://open.spotify.com/artist/5ZyxEP1eCs4f2uGH2ZaJiG) | [Lo Que Dijimos](https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3) | 3:56 |
 | 32 | [Bachata en Fukuoka \- Remix](https://open.spotify.com/track/4NcgBAZYUilSiLFzkATQx8) | [Hocho](https://open.spotify.com/artist/7AqAhkwNkdfelG651nTnQP) | [Bachata en Fukuoka \(Remix\)](https://open.spotify.com/album/3CANHhkPDe0ITej0hPwu8B) | 2:40 |
-| 33 | [Perico](https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Perico](https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca) | 3:24 |
+| 33 | [ALCOHOL](https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a) | [Valeria Cid](https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U) | [ALCOHOL](https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla) | 2:52 |
 | 34 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 |
-| 35 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
-| 36 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 |
+| 35 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 |
+| 36 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
 | 37 | [Cariño](https://open.spotify.com/track/3IaaiGAn3anrqkGiYt6S5p) | [Bella Rabbit](https://open.spotify.com/artist/6XGWdlLPFBNsSRuLwpoyhy) | [Cariño](https://open.spotify.com/album/60AcpZ3D5zf3YgKq8iMOXn) | 3:14 |
-| 38 | [Luna](https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH) | [Laika en el Espacio](https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq) | [Luna](https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n) | 4:34 |
-| 39 | [Not Enough to Scare](https://open.spotify.com/track/4AEJXq5RulkMNOehorEuti) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Not Enough to Scare](https://open.spotify.com/album/3OLhDYo85CVIBiWHRoUBSQ) | 3:06 |
+| 38 | [Not Enough to Scare](https://open.spotify.com/track/4AEJXq5RulkMNOehorEuti) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Not Enough to Scare](https://open.spotify.com/album/3OLhDYo85CVIBiWHRoUBSQ) | 3:06 |
+| 39 | [Luna](https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH) | [Laika en el Espacio](https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq) | [Luna](https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n) | 4:34 |
 | 40 | [María](https://open.spotify.com/track/0Pe7U91cqrdUFW46STjAjV) | [Odin Parada](https://open.spotify.com/artist/0ZrCTT7qjo9iFI7ArCPoZE), [Andres Landon](https://open.spotify.com/artist/1E2YZnjGxFq8SxaQpDgG5o) | [María](https://open.spotify.com/album/1ONh865o0F9ugVXw7QQso5) | 4:15 |
-| 41 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 |
+| 41 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
 | 42 | [Chicomiel](https://open.spotify.com/track/4pdl1r8KGscHXTarQzP0it) | [Apollo No Te Vayas](https://open.spotify.com/artist/2EcTh9qrj4sDwdZCVQ55oW) | [Chicomiel](https://open.spotify.com/album/6X6DJXkpN2vkZRS6OMmalu) | 3:32 |
-| 43 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
+| 43 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 |
 | 44 | [De Todo Lo Que Fui.](https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T) | [Iconauta](https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL) | [De Todo Lo Que Fui.](https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je) | 4:41 |
-| 45 | [Piedra Angular](https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL) | [Fe Baca](https://open.spotify.com/artist/5SndtmBMtH0QTixMMM8l2z) | [Piedra Angular](https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N) | 2:37 |
-| 46 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
-| 47 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
-| 48 | [Fugaz](https://open.spotify.com/track/6STwMaFymWBAZo2qbgT5uG) | [Kev Sanart](https://open.spotify.com/artist/6xn2WeEucmAz1GRL2DlFS4) | [Fugaz](https://open.spotify.com/album/3buvXjwKjbGsOOg2fiwQL6) | 4:44 |
+| 45 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
+| 46 | [Piedra Angular](https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL) | [Fe Baca](https://open.spotify.com/artist/5SndtmBMtH0QTixMMM8l2z) | [Piedra Angular](https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N) | 2:37 |
+| 47 | [Fugaz](https://open.spotify.com/track/6STwMaFymWBAZo2qbgT5uG) | [Kev Sanart](https://open.spotify.com/artist/6xn2WeEucmAz1GRL2DlFS4) | [Fugaz](https://open.spotify.com/album/3buvXjwKjbGsOOg2fiwQL6) | 4:44 |
+| 48 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
 | 49 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
 | 50 | [Inconsciencia](https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL) | [La Honte](https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA) | [Inconsciencia](https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd) | 3:32 |
 
-Snapshot ID: `MTY2NDM4MDgwMCwwMDAwMDAwMGMwYzIzZjMzZmU0OTZiN2ZmZmRlZDA2NjFjMjNlYTcx`
+Snapshot ID: `MTY2NDM4MDgwMCwwMDAwMDAwMDcwZjczNDk0YWJiNmFmZmYzNmVjZWM1YTYwMmUzZjE1`

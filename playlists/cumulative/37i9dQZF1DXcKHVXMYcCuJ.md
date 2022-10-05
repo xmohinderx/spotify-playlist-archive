@@ -2,7 +2,7 @@
 
 ### [Alternative Rock's Most Precious Gems](https://open.spotify.com/playlist/37i9dQZF1DXcKHVXMYcCuJ)
 
-> Favorite rock and gems.
+> An introduction to some of alt\-rock’s most seminal tracks.
 
 245 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 

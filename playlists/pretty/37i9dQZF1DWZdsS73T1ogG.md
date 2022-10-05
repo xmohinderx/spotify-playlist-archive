@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Boza & Beéle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,880 likes - 62 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,923 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 26 | [Traductor](https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:42 |
 | 27 | [Malo](https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Malo](https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd) | 4:15 |
 | 28 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 |
-| 29 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 |
-| 30 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 |
-| 31 | [V16](https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG) | 1:59 |
+| 29 | [V16](https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG) | 1:59 |
+| 30 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 |
+| 31 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 |
 | 32 | [Somos Iguales](https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Louchie Lou](https://open.spotify.com/artist/4DxlG8gbthzgDeDZiywaoQ), [Michie One](https://open.spotify.com/artist/1otleRGxIU5q64yzCNUHsi) | [Somos Iguales](https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3) | 2:52 |
 | 33 | [Tiempo](https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Tiempo](https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA) | 3:46 |
 | 34 | [Fumando](https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fumando](https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV) | 3:23 |
@@ -69,6 +69,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 59 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 |
 | 60 | [Otro De Esos Días](https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Otro De Esos Días](https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4) | 3:13 |
 | 61 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
-| 62 | [Tu Mamá](https://open.spotify.com/track/5VdVHZJzHcRVSs1vyUH1oB) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Tu Mamá](https://open.spotify.com/album/5EdGxZQTBt0gjKa5ioxolF) | 2:47 |
+| 62 | [Mojadero](https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Mojadero](https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl) | 2:39 |
 
-Snapshot ID: `MTY2Mzk0Nzg1NywwMDAwMDAwMDc3NWUwODlkMzY4OTRiNjQ0ZGYzYmU2YTZkNDA3ZGQ0`
+Snapshot ID: `MTY2Mzk0Nzg1NywwMDAwMDAwMGM4ZmI4OTRlYjA0NmYxMjIwYzUxMWYzOTliM2ZlNWUy`

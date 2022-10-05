@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587266,
+      "name": "Bosques Virginales",
+      "url": "https://open.spotify.com/track/3B9Ld3SEdRplZ15L5nCoOo"
+    },
+    {
+      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj"
       },
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 314000,
       "name": "Run Run Se Fue Pa'l Norte",
       "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"

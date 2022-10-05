@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 
 > El aderezo que te falta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,448 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,453 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 60 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 |
 | 61 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 62 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
-| 63 | [Lágrimas negras](https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 3:47 |
-| 64 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 |
+| 63 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 |
+| 64 | [Lágrimas negras](https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 3:47 |
 | 65 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
 | 66 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
 | 67 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 70 | [A Mi Manera](https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:51 |
 | 71 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:34 |
 | 72 | [Toda una vida](https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 2:35 |
-| 73 | [Smells Like Teen Spirit](https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu) | [Setenta](https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg) | [Latin Piece of Soul](https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl) | 3:06 |
+| 73 | [Piensa en Mi](https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:27 |
 | 74 | [Boliviana](https://open.spotify.com/track/0c3dYyhdKUFd2zUSL4tdvz) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Buenos Hermanos](https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT) | 3:47 |
-| 75 | [Piensa en Mi](https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:27 |
+| 75 | [Smells Like Teen Spirit](https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu) | [Setenta](https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg) | [Latin Piece of Soul](https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl) | 3:06 |
 | 76 | [Estoy como nunca](https://open.spotify.com/track/3aTSo5FtNDv6PQJFV9Jmxa) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [Estoy Como Nunca](https://open.spotify.com/album/1R0WJw960zHMiruda6o1Lb) | 5:01 |
 | 77 | [Our Day Will Come](https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 3:44 |
 | 78 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZy1l7SFkwm.md) - [plain]
 | 92 | [Remelexo](https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Domingo](https://open.spotify.com/album/4d8IqRNN8UX3vxtS6jnBA8) | 1:52 |
 | 93 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 |
 | 94 | [Lobo Bobo \(Foolish Wolf\)](https://open.spotify.com/track/5wjEUKBi5gkrrZ6lZxzC5Y) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Bossa Nova Carlos Lyra](https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl) | 1:20 |
-| 95 | [Sweet and Dandy](https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:08 |
-| 96 | [Hei! Man](https://open.spotify.com/track/1dUK0GBjMRmEdi1NKMr3WE) | [Ave Sangria](https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC) | [Ave Sangria](https://open.spotify.com/album/2Kds5PBWka7pcAIay7qp6w) | 2:54 |
+| 95 | [Hei! Man](https://open.spotify.com/track/1dUK0GBjMRmEdi1NKMr3WE) | [Ave Sangria](https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC) | [Ave Sangria](https://open.spotify.com/album/2Kds5PBWka7pcAIay7qp6w) | 2:54 |
+| 96 | [Sweet and Dandy](https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:08 |
 | 97 | [Um Abraco No Getz](https://open.spotify.com/track/29v0gMFSZ7VmKXWOdywJck) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 4:23 |
 | 98 | [Around the World \(Intro\)](https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Señor Coconut / Around the World](https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF) | 2:47 |
 | 99 | [Só Danço Samba](https://open.spotify.com/track/6jJrEyRWPaURJbPh4P4ybz) | [Os Cariocas](https://open.spotify.com/artist/1FbL4RGqW5gvZ2kZNGdfpA) | [Pure Bossa Nova](https://open.spotify.com/album/52G6kzmnMumKmdJuL0Tim5) | 1:53 |
 | 100 | [Tempo de Amor \(Samba do Veloso\)](https://open.spotify.com/track/2mbYdO4VRxK7AKQ2NtxOo1) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Os Afro\-Sambas](https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk) | 4:42 |
 
-Snapshot ID: `MTYxNTgyNDI5MywwMDAwMDAwMDEyN2ZjZTBlZTA4ZTEzNzQ1MWZmNmNhNDgzMjI1ZDYy`
+Snapshot ID: `MTYxNTgyNDI5MywwMDAwMDAwMDk0YzViMjI1ZDQ3NDU1YTQ1ZTlhM2ZlODgzNTlkMDZh`

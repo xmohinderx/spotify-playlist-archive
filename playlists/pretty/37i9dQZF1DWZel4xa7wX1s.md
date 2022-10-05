@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,337 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,333 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 39 | [Tucson Train](https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:29 |
 | 40 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 |
 | 41 | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5) | 3:36 |
-| 42 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
+| 42 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
 | 43 | [Shame](https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Shake The Spirit](https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o) | 2:39 |
-| 44 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
+| 44 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
 | 45 | [I've Gotta Be Me](https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [I've Gotta Be Me](https://open.spotify.com/album/7HZxoITz0x1fCsNQKrXoqD) | 2:56 |
 | 46 | [For Real](https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 3:51 |
 | 47 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/2Eowpnfjs5iXP8OLToAOYA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5E6dG2q42szysfESYn40FL) | 3:01 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 52 | [Four Leaf Clover \- Edit](https://open.spotify.com/track/7aq4RmtNftNpqUaeoZb5ao) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Four Leaf Clover \(Edit\)](https://open.spotify.com/album/1oCxUmpYZvKbka1mENWf4C) | 3:11 |
 | 53 | [Fuck The Rain](https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 3:33 |
 | 54 | [Another One Down](https://open.spotify.com/track/5YPyp1Xshf0JpoAQ7iagns) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Another One Down](https://open.spotify.com/album/7amoi3AjgTtQqybl8VsAvI) | 3:12 |
-| 55 | [Story Of Everything](https://open.spotify.com/track/6exGzQG7704sf82TorgroD) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 6:22 |
-| 56 | [One Man's Ceiling Is Another Man's Floor](https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [In the Blue Light](https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY) | 4:00 |
+| 55 | [One Man's Ceiling Is Another Man's Floor](https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [In the Blue Light](https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY) | 4:00 |
+| 56 | [Story Of Everything](https://open.spotify.com/track/6exGzQG7704sf82TorgroD) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 6:22 |
 | 57 | [Fuh You](https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Fuh You](https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U) | 3:23 |
 | 58 | [Remember to Breathe](https://open.spotify.com/track/3WopNrzzNTuCr0QXVRhWUQ) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Streets of You](https://open.spotify.com/album/55TITZzyt9c9nDAljqL1l0) | 3:13 |
 | 59 | [Amazing](https://open.spotify.com/track/0JahrDBriRtoaO473f00rk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [These Days](https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6) | 4:01 |
 | 60 | [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDg2MmJmZDhjY2JkN2NiNzJjMzczMGE5MjY2OWY4ZjQ1`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMGFkZmUwODMyODEyYzAxODE3NWJiNzcxZGVlMTBiNDIw`

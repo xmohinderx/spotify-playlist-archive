@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,217 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,318 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 18 | [Nightmare on Elm Street](https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Friday The 13th](https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm) | 2:53 |
 | 19 | [Who Killed The Cheerleader](https://open.spotify.com/track/3Ero9C3m7RlEf1xu5XhFDC) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 4:09 |
 | 20 | [The Way Of The Road](https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9) | [Koffin Kats](https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf) | [Our Way & The Highway](https://open.spotify.com/album/3csHpaafwVPG118KJFaibU) | 2:24 |
-| 21 | [Last Ride](https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 3:16 |
-| 22 | [Kiss me now](https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez) | [Batmobile](https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ) | [Bail set at $6M](https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL) | 3:15 |
-| 23 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
+| 21 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
+| 22 | [Last Ride](https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 3:16 |
+| 23 | [Kiss me now](https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez) | [Batmobile](https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ) | [Bail set at $6M](https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL) | 3:15 |
 | 24 | [Death at My Door](https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 2:10 |
 | 25 | [Decompose](https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Necrophaze](https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q) | 4:25 |
 | 26 | [Enjoy the Silence](https://open.spotify.com/track/2kL439jP9YGWZ6hdGDDE6l) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [Psychobilly Goes Pop](https://open.spotify.com/album/7zHdZsf31n2zvmm5FmxHZ0) | 2:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 46 | [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 |
 | 47 | [Black Jack Death Bet](https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az) | 3:05 |
 | 48 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
-| 49 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
-| 50 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
+| 49 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
+| 50 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDY4MmUyZGUxM2NlMjkwMmRjNDNhYzUzNzRhNmJkM2Jm`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDg1OWRkMGM4OTM2ODdmOTVkMWI0NjNmYWVmMTlkZjA5`

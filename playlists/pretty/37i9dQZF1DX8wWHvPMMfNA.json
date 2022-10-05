@@ -1,12 +1,12 @@
 {
   "description": "Soft instrumental Jazz for working or studying.",
-  "num_followers": 195894,
+  "num_followers": 195989,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM1Mjg4NiwwMDAwMDAwMDMxMDE3ZDVkOTczZjIyNThiYWVhMzdjZjQxNWRlZTAy",
+  "snapshot_id": "MTY2NDM1Mjg4NiwwMDAwMDAwMDM5NWVkNWJlOTI5NmJlYTdmNGQxYWQ1MWU1OGY5ZDU1",
   "tracks": [
     {
       "added_at": "2022-09-28 08:14:46",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 417320,
-      "name": "Foolin' Myself",
-      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
         "name": "A Swingin' Affair",
         "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 211066,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 417320,
+      "name": "Foolin' Myself",
+      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 323866,
-      "name": "Three to Get Ready",
-      "url": "https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
         "name": "Like Someone In Love",
         "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 486506,
       "name": "Sleeping Dancer Sleep On",
       "url": "https://open.spotify.com/track/5GXJ4YrXUORAsB5IsCZIL6"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 323866,
+      "name": "Three to Get Ready",
+      "url": "https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
-      },
-      "artists": [
-        {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
         "name": "Nights Of Ballads & Blues",
         "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 201173,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
+      },
+      "artists": [
+        {
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 284933,
-      "name": "My Conception",
-      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
         "name": "One Flight Up (Remastered 2015)",
         "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 451407,
       "name": "Darn That Dream - Remastered 2015",
       "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 284933,
+      "name": "My Conception",
+      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
+        "name": "Tommy Flanagan Trio",
+        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan Trio",
+          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/0q2B8hRHzThL8CTlzCv06e"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
         "name": "West of 5th",
         "url": "https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 289693,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
-        "name": "Tommy Flanagan Trio",
-        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan Trio",
-          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/0q2B8hRHzThL8CTlzCv06e"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "Everybody's Somebody's Fool",
-      "url": "https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
@@ -1019,6 +1003,38 @@
       "duration_ms": 270333,
       "name": "Lover Man - Remastered",
       "url": "https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
+        "name": "Oscar Peterson: Hits & Rarities",
+        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 250853,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "Everybody's Somebody's Fool",
+      "url": "https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "Jazz 'N' Samba",
-        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
-      },
-      "artists": [
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
         "name": "Gettin' Around",
         "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 316400,
       "name": "Who Can I Turn To (When Nobody Needs Me)",
       "url": "https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
+        "name": "Jazz 'N' Samba",
+        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -1299,6 +1315,22 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "duration_ms": 428226,
+      "name": "It's Easy To Remember - Live",
+      "url": "https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2"
+    },
+    {
+      "added_at": "2022-09-28 08:14:46",
+      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -1319,22 +1351,6 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
-        }
-      ],
-      "duration_ms": 428226,
-      "name": "It's Easy To Remember - Live",
-      "url": "https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
         "name": "Riverside Profiles: Chet Baker",
         "url": "https://open.spotify.com/album/0onIVgbXEDmbcR4ZiyGNg9"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "Oscar Peterson: Hits & Rarities",
-        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 250853,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i"
+      "duration_ms": 302733,
+      "name": "Serenade In Blue",
+      "url": "https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -1379,22 +1395,6 @@
       "duration_ms": 479560,
       "name": "Ill Wind",
       "url": "https://open.spotify.com/track/4BPd4Z916ZXnm8oXNqHxZg"
-    },
-    {
-      "added_at": "2022-09-28 08:14:46",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 302733,
-      "name": "Serenade In Blue",
-      "url": "https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj"
     },
     {
       "added_at": "2022-09-28 08:14:46",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-09-28 08:14:46",
       "album": {
-        "name": "The Procrastinator",
-        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
+        "name": "Gerry Mulligan Meets Ben Webster",
+        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 415360,
-      "name": "Dear Sir",
-      "url": "https://open.spotify.com/track/3HHAG4smOvTfKfkDqpBe7X"
+      "duration_ms": 347000,
+      "name": "The Cat Walk",
+      "url": "https://open.spotify.com/track/0AzxtViaJfE9NuPYXNs3C1"
     }
   ],
   "unique_name": "Focus Jazz",

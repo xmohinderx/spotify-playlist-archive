@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest & new Korean hip hop music is here. OWN the crown with KR hip hop music. (Cover: BE'O) (\uc804\uc138\uacc4\uc5d0\uc11c \uc0ac\ub791\ubc1b\ub294 \ud55c\uad6d \ud799\ud569 \ud788\ud2b8 & \uc2e0\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: \ube44\uc624)",
+  "description": "The hottest & new Korean hip hop music is here. OWN the crown with KR hip hop music. (Cover: Dynamic Duo) (\uc804\uc138\uacc4\uc5d0\uc11c \uc0ac\ub791\ubc1b\ub294 \ud55c\uad6d \ud799\ud569 \ud788\ud2b8 & \uc2e0\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: \ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624)",
   "name": "KrOWN",
   "published_playlist_ids": [
     "6eQCLyN2pb2xMxhClGC7H2"
@@ -2588,6 +2588,32 @@
     },
     {
       "album": {
+        "name": "DAEMUGA",
+        "url": "https://open.spotify.com/album/0lhisOKVmr8phsuEkvpvyi"
+      },
+      "artists": [
+        {
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224665,
+      "name": "DAEMUGA",
+      "url": "https://open.spotify.com/track/5bGIMkueTLtAscHSrC4TcA"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
@@ -3975,7 +4001,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 185379,
       "name": "Flip Flap (feat. AJ Tracey & Hangzoo)",
       "url": "https://open.spotify.com/track/7q6EXc4wuKtRl9jwQ5txIh"
@@ -6661,6 +6687,24 @@
       "duration_ms": 3002,
       "name": "KrOWN - Gaeko of Dynamic Duo",
       "url": "https://open.spotify.com/track/07WKwqwNf51FnsJdDNkKtV"
+    },
+    {
+      "album": {
+        "name": "KrOWN audio liner",
+        "url": "https://open.spotify.com/album/4vi9KFaDZgtuUDwvfDMoXq"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1500,
+      "name": "KrOWN_BE'O",
+      "url": "https://open.spotify.com/track/3ccEAKaU595SqcS1FQVtqS"
     },
     {
       "album": {
@@ -11062,6 +11106,28 @@
     },
     {
       "album": {
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/5KBCqZ94VTGyw9RIKtJD7y"
       },
@@ -13359,7 +13425,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 232156,
       "name": "Walking Around",
       "url": "https://open.spotify.com/track/1I41WBqBadmFp11obj3C2U"

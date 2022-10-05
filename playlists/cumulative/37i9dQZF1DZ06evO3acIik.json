@@ -333,6 +333,24 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49076,
+      "name": "Enough For You",
+      "url": "https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -623,7 +641,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 216000,
       "name": "Jamie",
       "url": "https://open.spotify.com/track/5B6OqIgm8mDWKkHV29Qnr9"

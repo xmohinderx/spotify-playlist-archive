@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,034 likes - 103 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,054 likes - 103 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

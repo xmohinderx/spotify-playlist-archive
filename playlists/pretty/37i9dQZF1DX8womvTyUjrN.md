@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Pol Granch
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,133 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,219 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 28 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
 | 29 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 |
 | 30 | [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 |
-| 31 | [Byemalandra](https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Byemalandra](https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf) | 2:45 |
-| 32 | [Bombón](https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g) | 2:40 |
+| 31 | [Bombón](https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g) | 2:40 |
+| 32 | [Byemalandra](https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Byemalandra](https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf) | 2:45 |
 | 33 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
 | 34 | [Algodón](https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Algodón](https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm) | 2:52 |
 | 35 | [Medio Crazy Remix](https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Medio Crazy Remix](https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV) | 5:32 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 55 | [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 |
 | 56 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 |
 | 57 | [estereotipo](https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [estereotipo](https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n) | 2:54 |
-| 58 | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 |
-| 59 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 |
+| 58 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 |
+| 59 | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 |
 | 60 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 |
 | 61 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 |
 | 62 | [Brindaré](https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Brindaré](https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT) | 2:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 64 | [Gracias x Nada](https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Gracias x Nada](https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0) | 2:52 |
 | 65 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 |
 
-Snapshot ID: `MTY2NDgzNTAxNywwMDAwMDAwMGRiM2NlMGExMWQ4YmJhMjRkZTg0MzM5OTYyYTAzODMz`
+Snapshot ID: `MTY2NDgzNTAxNywwMDAwMDAwMGMwNjc4NGJlNWU0MGM3NjgyMWQ4YjZmMmFiYTkwNmZm`

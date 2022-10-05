@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 42512,
+  "num_followers": 42563,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGU2YTRkN2QyYjFiODY5NmM3ZmJmMGJiODIwMTQyNDZm",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDNiOTE5Y2NhZDkyYzMyYzQ4YjU3MjQ5OTU4N2ZjOTBj",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Louis Vuitton",
-        "url": "https://open.spotify.com/album/4t3sXSCawi8FXH0aQEyUAW"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        },
-        {
-          "name": "44 Kid",
-          "url": "https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb"
-        }
-      ],
-      "duration_ms": 270241,
-      "name": "Louis Vuitton",
-      "url": "https://open.spotify.com/track/6NZRVXbBeNgfTkoohYtxFK"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Como Soy",
         "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
       },
@@ -1843,6 +1819,30 @@
       "duration_ms": 312232,
       "name": "Como Soy",
       "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Louis Vuitton",
+        "url": "https://open.spotify.com/album/4t3sXSCawi8FXH0aQEyUAW"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "44 Kid",
+          "url": "https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb"
+        }
+      ],
+      "duration_ms": 270241,
+      "name": "Louis Vuitton",
+      "url": "https://open.spotify.com/track/6NZRVXbBeNgfTkoohYtxFK"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "The Saga of Wiz Khalifa (Deluxe)",
-        "url": "https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        }
-      ],
-      "duration_ms": 125577,
-      "name": "POV (feat. Rubi Rose)",
-      "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Dead Man Walking",
         "url": "https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 135506,
       "name": "Dead Man Walking (feat. Future)",
       "url": "https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "The Saga of Wiz Khalifa (Deluxe)",
+        "url": "https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "duration_ms": 125577,
+      "name": "POV (feat. Rubi Rose)",
+      "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
     },
     {
       "added_at": "2021-11-12 16:22:17",

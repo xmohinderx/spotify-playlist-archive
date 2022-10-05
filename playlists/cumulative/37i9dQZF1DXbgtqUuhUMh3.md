@@ -2,9 +2,9 @@
 
 ### [EQUAL Arabia ](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Noel Kharman
+> Listen to Arab women, at full volume\. Cover: Rahma Riad
 
-311 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+312 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Mamlaka](https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Mamlaka](https://open.spotify.com/album/4onyPTXyL4H3qebKw8uLt0) | 3:29 | 2022-03-01 | 2022-03-04 |
 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 | 2021-12-30 | 2022-02-27 |
 | [Marhaban](https://open.spotify.com/track/6zkq5qtCUmybCKNyZoLjBB) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Marhaban](https://open.spotify.com/album/087Ek5lR2SpnQ0Yn5RQ641) | 4:33 | 2021-12-23 | 2022-03-02 |
-| [Marra Kaman](https://open.spotify.com/track/1kwK6sbUDoz8ev1emutLAX) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Marra Kaman](https://open.spotify.com/album/3Gxs1Nc3IwumGyXtCjQHDZ) | 3:20 | 2022-03-31 |  |
+| [Marra Kaman](https://open.spotify.com/track/1kwK6sbUDoz8ev1emutLAX) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Marra Kaman](https://open.spotify.com/album/3Gxs1Nc3IwumGyXtCjQHDZ) | 3:20 | 2022-03-31 | 2022-10-05 |
 | [Mathal Albanat](https://open.spotify.com/track/6G4sRxjZ45accUYT0hmFi4) | [Hala Al Kaseer](https://open.spotify.com/artist/3RvJqoswzwh53Dme2rHbFv) | [Mathal Albanat](https://open.spotify.com/album/3sl2WE6YkHoIQZbHEz2Cfs) | 3:34 | 2021-12-23 | 2022-03-01 |
 | [Mawaqif](https://open.spotify.com/track/3LOqtToly651USdV4pOdXt) | [Shushu Nasser](https://open.spotify.com/artist/1zEVxr4BrEzvLZKofE4Mm2) | [Mawaqif](https://open.spotify.com/album/2Gjo2OBYTE59x8Y2JElDxH) | 3:44 | 2021-12-23 | 2022-02-28 |
 | [Mazaji 3ali](https://open.spotify.com/track/2jBtDB4dAOkOoDuW8onehv) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Mazaji 3ali](https://open.spotify.com/album/317vgHdnjZvEstZ2ibIpmt) | 2:42 | 2021-12-23 | 2022-03-02 |
@@ -274,6 +274,7 @@
 | [جاني](https://open.spotify.com/track/4xUVtPcWuoh0CdqPoHMPR2) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [جاني](https://open.spotify.com/album/0AJDPwr1hjcAyeYFcrpKzE) | 2:22 | 2021-12-30 | 2022-03-02 |
 | [جيزة](https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [جيزة](https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ) | 2:58 | 2022-09-16 |  |
 | [حكايتك فيا](https://open.spotify.com/track/5D5tUsTQvWdBeVRarLDoua) | [Tania Kassis](https://open.spotify.com/artist/793k10CpQo36RQJyL7rGDi) | [حكايتك فيا](https://open.spotify.com/album/5pgyRXhdisp78ym36dmLoN) | 3:27 | 2022-09-20 |  |
+| [حيرة](https://open.spotify.com/track/4GXFUW1qZiScZl9yYXiDn1) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [حيرة](https://open.spotify.com/album/2FFFl04tJ4aahE15xIvp6J) | 2:09 | 2022-10-04 |  |
 | [دنيا تخادعني](https://open.spotify.com/track/1PrYPtUDlryg0ZyNwaVZJb) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [دنيا تخادعني](https://open.spotify.com/album/138WUtaBeFpjSgRUJUHKX5) | 3:03 | 2022-01-20 | 2022-03-02 |
 | [رنا صولا \- صدق و الله](https://open.spotify.com/track/1WGcD9EHs1Sc0Vln3XqvpA) | [WINGS MYUZK وينقز ميوزك](https://open.spotify.com/artist/33TIlK7i17sv2ml2WkmAOS) | [رنا صولا \- صدق و الله](https://open.spotify.com/album/4gZ0e6dK1TI4tTCoQd85V9) | 5:00 | 2021-12-23 | 2022-03-02 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 |  |

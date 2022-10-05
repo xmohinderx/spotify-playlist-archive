@@ -5002,6 +5002,28 @@
     },
     {
       "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/5xBztmX0iNuO0hIzvMMUkR"
+      },
+      "artists": [
+        {
+          "name": "Crypto",
+          "url": "https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ"
+        },
+        {
+          "name": "Jake Daniels",
+          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186446,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/1Vdr2iJBEcfmAKa8RXEFux"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/27077ta44Jm7MkvWoWeHYo"
       },

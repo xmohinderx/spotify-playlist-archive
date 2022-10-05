@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-277 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+278 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Only Wide Open Space And Me](https://open.spotify.com/track/3g2vHR1LE5Buctsm2pLQdb) | [Andromedha](https://open.spotify.com/artist/1naIVJt93vo4NJ3UHT6O8q) | [Only Wide Open Space And Me](https://open.spotify.com/album/1wGPEIf0MeTsULFOwbT9zx) | 4:19 | 2022-07-20 | 2022-10-01 |
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
+| [Out of the Dark](https://open.spotify.com/track/6IzufCdUFDMtLG2EvHwYFE) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Out of the Dark](https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1) | 3:58 | 2022-10-04 |  |
 | [Outlines](https://open.spotify.com/track/6u09isfip6hiPkOl0uobwy) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Outlines](https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a) | 3:28 | 2022-05-04 | 2022-07-15 |
 | [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 | 2022-06-22 |
 | [Over The Water](https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Over The Water](https://open.spotify.com/album/2HcOB7CmgTbZu3fPAvTHeL) | 3:30 | 2022-07-22 |  |

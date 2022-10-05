@@ -4,7 +4,7 @@
 
 > The biggest songs of the 2010s.
 
-886 songs - 2 day 5 hr 54 min - [published](https://open.spotify.com/playlist/001TVlFbnnZ8ScZXciOvI5)
+887 songs - 2 day 5 hr 57 min - [published](https://open.spotify.com/playlist/001TVlFbnnZ8ScZXciOvI5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Do You Remember](https://open.spotify.com/track/7i9mpmiDjJaemfUHDI7lBP) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Jarryd James EP](https://open.spotify.com/album/2jgizD1eeCcaxE1NtCOw4Q) | 3:54 | 2019-07-12 | 2019-08-10 |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2022-06-08 |  |
 | [Domino](https://open.spotify.com/track/7C2fAp0Sh323XNHCcqYXaz) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [NRJ 200% Hits 2012](https://open.spotify.com/album/2kagtqzz8V0v3pgDrJnYuW) | 3:51 | 2019-06-21 | 2022-07-29 |
+| [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 | 2022-09-16 |  |
 | [Don't](https://open.spotify.com/track/5W2opDlEE4V6azri6kC4aT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Don't](https://open.spotify.com/album/5Tb4ySF7ow5Zskf5xBVqMi) | 3:39 | 2019-06-21 | 2019-07-26 |
 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/7mvgT1SYL3ka3LBJOuA1k9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/4jsIMt119xFLCQQ7AoZLXJ) | 3:31 | 2019-06-23 | 2022-04-09 |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2020-06-17 | 2022-04-21 |
@@ -716,7 +717,7 @@
 | [Sun Is Shining](https://open.spotify.com/track/5kBHjpK4YGXVnOMXDUDjgX) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Sun Is Shining](https://open.spotify.com/album/0cbF5ZxI6GMcXbf8RHQfJW) | 4:15 | 2019-07-14 | 2022-04-17 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 | 2019-12-06 | 2022-08-24 |
 | [Super Bass](https://open.spotify.com/track/2jSwKQBouf0brIcxGfA9CZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/5jem47f4IRH6UaxNAWO6vD) | 3:20 | 2021-03-07 | 2022-04-19 |
-| [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 | 2022-06-08 |  |
+| [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 | 2022-06-08 | 2022-10-05 |
 | [Super Bass](https://open.spotify.com/track/7gKIt3rDGIMJDFVSPBnGmj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/2RfF6dGpYIN5u1mNkfG8Pb) | 3:20 | 2019-06-21 | 2019-08-06 |
 | [Superheroes](https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [No Sound Without Silence](https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx) | 4:05 | 2019-06-14 | 2022-07-09 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2019-07-15 | 2019-08-02 |

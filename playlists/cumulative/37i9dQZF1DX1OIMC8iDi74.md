@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-229 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+230 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,12 +140,13 @@
 | [Matangi](https://open.spotify.com/track/6tNgb8wC2bRSUDkb3biccy) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4fX5bMmqyLK0q71CbTKvPz) | 3:18 | 2022-09-02 |  |
 | [Mawlee \(feat\. Young Buck & DJ Afterthought\) \- RIOT TEN VIP Mix](https://open.spotify.com/track/43885roVl0jIEIpWT1yzyP) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Mawlee \(feat\. Young Buck & DJ Afterthought\) \[RIOT TEN VIP Mix\]](https://open.spotify.com/album/307ezARBk8h7JbrIPvMeSu) | 3:26 | 2022-09-09 |  |
 | [Me and You](https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Me and You](https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb) | 3:46 | 2022-02-01 |  |
+| [MINDDD](https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [MINDDD](https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq) | 2:01 | 2022-09-30 |  |
 | [Mirage](https://open.spotify.com/track/3n43IT3mrmAr2haV5J28t6) | [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Mirage](https://open.spotify.com/album/1jhKHzMiStDEG4yoOnTh6Y) | 2:39 | 2021-11-19 | 2022-02-02 |
 | [Mistakes](https://open.spotify.com/track/1Ezrl79QX3LqBk9v3qIdCl) | [Mike Hawkins](https://open.spotify.com/artist/0eW2N88UpBG0giW7LJOaY2), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Mistakes](https://open.spotify.com/album/0PMQBeEZ2vf4GoOdgxgmlZ) | 2:54 | 2021-11-19 | 2022-01-25 |
 | [MOON WALK](https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [MOON WALK](https://open.spotify.com/album/4dukGiPTP45kyt2HRrdp7a) | 2:36 | 2021-11-19 | 2022-02-02 |
 | [Morph](https://open.spotify.com/track/6jwmIxjsBgCMIPCSQzv2R5) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Morph](https://open.spotify.com/album/1bfESOWCNhinOrL6yOZgXh) | 3:28 | 2021-11-19 | 2022-02-02 |
 | [MTV](https://open.spotify.com/track/12fXG4cvTNqSOZYlXsHjLe) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [MTV](https://open.spotify.com/album/415XYhTyB0ZsWyiQo9I8m6) | 3:28 | 2021-11-19 | 2022-02-01 |
-| [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-11-19 |  |
+| [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-11-19 | 2022-10-05 |
 | [Máquina](https://open.spotify.com/track/0dolBdu2pV52zcx7tH0Goy) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Máquina](https://open.spotify.com/album/0ncUAncYZNDg0678jPIMWM) | 3:23 | 2021-11-19 | 2022-01-21 |
 | [Máquina](https://open.spotify.com/track/40xO4XDK7AjFtVkg5mDzaY) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 3:23 | 2021-11-26 | 2022-02-02 |
 | [Natural Dna](https://open.spotify.com/track/40S3MDbHQKIJWHzDV0gOJA) | [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Natural Dna](https://open.spotify.com/album/5ExxafE9krLV8viIUdl5ii) | 2:53 | 2021-11-19 | 2022-02-02 |

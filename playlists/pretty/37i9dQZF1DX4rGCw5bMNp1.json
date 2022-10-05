@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 115264,
+  "num_followers": 115307,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDVlNTIzMjgwMmM2OWI3ZDI3MWZmYmIwOWE5MzIyMjBj",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGQyZDNjNjlkM2FiZWJjMmEwYmU1ZmU2NTEwMWE2MDIw",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -281,6 +281,38 @@
       "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
     },
     {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Shake My Hand",
+        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "An Introduction To Otis Rush",
+        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
+    },
+    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "Whose Muddy Shoes",
@@ -311,38 +343,6 @@
       "duration_ms": 222893,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "An Introduction To Otis Rush",
-        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Shake My Hand",
-        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
-      },
-      "artists": [
-        {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Work With Me Annie",
-      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy Schutte) [Blues Power]",
-        "url": "https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
-        }
-      ],
-      "duration_ms": 437573,
-      "name": "Kold Actions",
-      "url": "https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "I Am The Blues",
@@ -535,6 +519,22 @@
       "duration_ms": 216373,
       "name": "The Little Red Rooster",
       "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy Schutte) [Blues Power]",
+        "url": "https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "duration_ms": 437573,
+      "name": "Kold Actions",
+      "url": "https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -555,22 +555,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Aron Burton Live",
-        "url": "https://open.spotify.com/album/7h72Z9ynR6pYW7zhGlbChV"
-      },
-      "artists": [
-        {
-          "name": "Aron Burton",
-          "url": "https://open.spotify.com/artist/5MtZAGnIXaVV2GaVkSFXxb"
-        }
-      ],
-      "duration_ms": 378493,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/3dwWMDLZlZxtkvTjVA5J1Z"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Aron Burton Live",
+        "url": "https://open.spotify.com/album/7h72Z9ynR6pYW7zhGlbChV"
+      },
+      "artists": [
+        {
+          "name": "Aron Burton",
+          "url": "https://open.spotify.com/artist/5MtZAGnIXaVV2GaVkSFXxb"
+        }
+      ],
+      "duration_ms": 378493,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3dwWMDLZlZxtkvTjVA5J1Z"
     },
     {
       "added_at": "2018-02-27 18:08:29",

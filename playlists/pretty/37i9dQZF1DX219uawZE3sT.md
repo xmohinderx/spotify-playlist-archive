@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,363 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,424 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 59 | [Sólo Un Suspiro](https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE) | [Alejandra Orozco](https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3), [Oscar Cruz](https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF) | [Los Ganadores De La Voz](https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6) | 3:49 |
 | 60 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
 | 61 | [Se Dice de Mi \(Yo Soy Betty la Fea\) \(Versión Completa\)](https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc) | [Yolanda Rayo](https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU) | [Se Dice de Mi, Yo Soy Betty la Fea.](https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x) | 2:25 |
-| 62 | [Dime](https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB) | [Aranza](https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB) | [Mirada de Mujer](https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3) | 2:59 |
-| 63 | [Tres palabras](https://open.spotify.com/track/67HOYnFs2hqbKKRNz0YfY8) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Luis Miguel \(Edición De Lujo\)](https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed) | 2:55 |
-| 64 | [El Baile del Sapito](https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy) | [Cómplices](https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:02 |
-| 65 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
+| 62 | [Tres palabras](https://open.spotify.com/track/67HOYnFs2hqbKKRNz0YfY8) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Luis Miguel \(Edición De Lujo\)](https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed) | 2:55 |
+| 63 | [Dime](https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB) | [Aranza](https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB) | [Mirada de Mujer](https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3) | 2:59 |
+| 64 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
+| 65 | [El Baile del Sapito](https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy) | [Cómplices](https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:02 |
 | 66 | [La Usurpadora](https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [1985\-1998](https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP) | 3:25 |
 | 67 | [Un Alma en Pena](https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Mis Íntimas Razones](https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr) | 3:40 |
 | 68 | [Corazón Que Miente](https://open.spotify.com/track/4f7bWZTU5RDLAnD3DkLScO) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazón Que Miente](https://open.spotify.com/album/1mWGwFqEGAfvm6qh8PAOgr) | 3:20 |
 | 69 | [Ámame Como Soy \(En Vivo\)](https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1) | [DKDA](https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb) | [Sueños de Juventud](https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk) | 5:35 |
 | 70 | [Sólo Importas Tú](https://open.spotify.com/track/4dCj8lsb7xO4Wlz4P8RcMb) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4) | 5:02 |
 
-Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDFlYTBlNzYxYjQyZTJhZGFlOTVkODQ4OGYzOWE3OGQ0`
+Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDg4NDQ2N2IxODViNDRhYTY0ZGI1NDMyZDgyZGI0ZjUz`

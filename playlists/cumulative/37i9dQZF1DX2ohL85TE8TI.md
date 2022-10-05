@@ -4,7 +4,7 @@
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Little Women \(작은 아씨들\)\)
 
-412 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
+414 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [seep into you](https://open.spotify.com/track/1gI4erUG1xjcWi5Ysm8YjY) | [Yeoeun](https://open.spotify.com/artist/4KDlIFwLpNZE8xx3cpzsej) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/0pazoqMfChhTpwsbqaDS9P) | 3:48 | 2022-07-04 |  |
 | [Shadow of You](https://open.spotify.com/track/1LpePQgxJQnGtOiM0jMnm1) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [The King's Affection OST Part.1](https://open.spotify.com/album/67q7iNkTWef0ZulJwLWB6R) | 3:51 | 2021-12-19 | 2022-02-04 |
 | [She](https://open.spotify.com/track/0BnIEkvcwpCH0UhPUqtUTg) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poong, the Joseon Psychiatrist OST Part.3](https://open.spotify.com/album/3adcqwktUDEr9ApocKPQ6D) | 3:45 | 2022-08-18 |  |
+| [Shine](https://open.spotify.com/track/0Rbu97T9gnZiPDJEECkRdK) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.1\)](https://open.spotify.com/album/5g2wV4temcDlhLi9lx0tSm) | 2:17 | 2022-10-04 |  |
 | [Shine on You with Blinding Flash of Light](https://open.spotify.com/track/0j9yFNJ0Y8UagSzwRE7gFM) | [giseong bae](https://open.spotify.com/artist/5zQ3RXLNUzbZvaJ327K6YI) | [Twenty\-Five Twenty\-One OST Part 2](https://open.spotify.com/album/7u0L0BrXdwSdPO1hSXNnBr) | 3:13 | 2022-02-21 | 2022-05-12 |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-06-28 |  |
 | [Shooting Star](https://open.spotify.com/track/134KU6G8TmOm0OQnJfmgO9) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Sh\*\*ting Stars \(Original Television Soundtrack\)](https://open.spotify.com/album/6gcG8b4AJKxxHnaB5G5tVj) | 3:27 | 2022-06-18 | 2022-09-06 |
@@ -329,6 +330,7 @@
 | [Take it easy, my life](https://open.spotify.com/track/52eCN5HfjcZ1MeZkCo4v6h) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [I have Not Done My Best \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0uC7jpX3BBcdDt4L6GvDAo) | 3:48 | 2022-03-09 | 2022-06-10 |
 | [Take the Money](https://open.spotify.com/track/1ZbRM9COrDVjPixsn4NDOA) | [조란](https://open.spotify.com/artist/56eV53ISd7ULnVDfsfrSed) | [On the Line \(Original Soundtrack\)](https://open.spotify.com/album/3P9W4duAZkE6weT3TyvCJ9) | 3:28 | 2022-02-21 | 2022-05-12 |
 | [Tell me this is real](https://open.spotify.com/track/4O9vCvUz8fSJHJVvXKiBMp) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [My chilling roommate \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/3JJWRFZW2JRUrPK1DCeFQa) | 3:38 | 2022-06-18 | 2022-09-20 |
+| [Tell Me You Love Me](https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Law Cafe \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR) | 3:34 | 2022-10-04 |  |
 | [That Night](https://open.spotify.com/track/4kAKQQqtaboFEmhfkJFQ35) | [이다영](https://open.spotify.com/artist/5oLc5tqV9stP1vWezfORBT) | [Kill Heel, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4QSy5sJWTo87bRt15joBSg) | 3:26 | 2022-03-22 | 2022-06-10 |
 | [That's all](https://open.spotify.com/track/2GA13uuobpA88h5zPXm0E3) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6UsoiG7ypgjvgTMZsa5kCO) | 4:25 | 2022-03-03 | 2022-05-12 |
 | [The Blue Night of Jeju Island](https://open.spotify.com/track/68OxmOeNzSDJnfB9QX6dzJ) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/37eokJCyqRxZfSuyMq1tEC) | 4:10 | 2022-08-12 |  |

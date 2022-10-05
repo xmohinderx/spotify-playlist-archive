@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: LOW IQ 01
 
-456 songs - 1 day 1 hr 3 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+458 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Brave Heart for Glory](https://open.spotify.com/track/13pPOPHf1ZLVV7wqCEUgHZ) | [Fumio Ito](https://open.spotify.com/artist/6Mq5I5MWmCdCwurNlujtUj) | [FRIENDSHIP](https://open.spotify.com/album/6hKJSSjBRleFPY7AlyBQqX) | 3:40 | 2022-05-19 | 2022-07-29 |
 | [BRAVE NEW WORLD](https://open.spotify.com/track/2dXuRJ5S1BP46QpLUqRvsD) | [THE PRISONER](https://open.spotify.com/artist/6RIZMUD0AKedtQUIpQyOUK) | [BRAVE NEW WORLD](https://open.spotify.com/album/6EzXsIrLFIGABIZlGOrfBJ) | 4:59 | 2022-07-06 | 2022-07-29 |
 | [Brightness](https://open.spotify.com/track/3gJiK0W7ACaKAtCesVwMvp) | [ONIONRING](https://open.spotify.com/artist/45b4d7M7mlDpXAYFK3JZ5w) | [LEAD](https://open.spotify.com/album/2lwLgrwp7ydwzFfwWd4fJ1) | 2:56 | 2022-09-08 | 2022-09-15 |
+| [Broken](https://open.spotify.com/track/5iueD90uxIah1pCKFTRLPW) | [WHITE SURF!](https://open.spotify.com/artist/507VXioEUYbyb6NXATi8Cl) | [Broken](https://open.spotify.com/album/4BQbbtC6O1tYPVN4IZjOKW) | 4:01 | 2022-10-04 |  |
 | [Broken Toys](https://open.spotify.com/track/1vj4xbA4Lh5ALHzJnklq36) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [The Visible One & The Invisible One](https://open.spotify.com/album/6tX37Pzb9Xa9Z7coSVxVN6) | 3:17 | 2022-05-12 | 2022-07-26 |
 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 | 2022-05-19 |  |
 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 | 2022-05-19 |  |
@@ -111,7 +112,7 @@
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
 | [Good Feelin'](https://open.spotify.com/track/14s2uCKAX0LpFABOTRtkux) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Good Feelin'](https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU) | 4:56 | 2022-05-17 | 2022-07-28 |
 | [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 |  |
-| [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 |  |
+| [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 | 2022-05-12 | 2022-07-29 |
 | [HEARTBEAT](https://open.spotify.com/track/3YEZG0GDjDvoNDK0l8WsS3) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [HEARTBEAT](https://open.spotify.com/album/0TOzxSGlpg83oOGZZhhv87) | 4:04 | 2022-05-12 | 2022-07-24 |
 | [Heavenly](https://open.spotify.com/track/7Ixg527eSGltkbEIGTN7qX) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(May,2022\)](https://open.spotify.com/album/7Jd2qtXu0drJFszYyu4aGq) | 2:49 | 2022-05-24 | 2022-07-20 |
@@ -134,6 +135,7 @@
 | [Infection](https://open.spotify.com/track/4n3bUH8AflakdQCQktLHjE) | [Meaning](https://open.spotify.com/artist/2xx4c1IV8WZlp5z8tuSZNh) | [Shine Our Journey](https://open.spotify.com/album/2wWpOS4CbDVJtxOC9XhsU0) | 4:23 | 2022-05-12 | 2022-07-20 |
 | [Intensity](https://open.spotify.com/track/6hTPy2QDMobNxWLPkrxBpI) | [sassya\-](https://open.spotify.com/artist/0Ro15lPEJLZfG9H7hxXOxu) | [Intensity](https://open.spotify.com/album/2TTzdKpQUkziTyrnx7jQdU) | 3:00 | 2022-06-14 | 2022-07-26 |
 | [INVITATION](https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [INVITATION](https://open.spotify.com/album/4ZifRxvNe7VyUx2puhgVXP) | 1:59 | 2022-05-12 | 2022-06-07 |
+| [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/track/5k4vMqDvrkMq4roJ1CEcQ5) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/album/5cV5NuuUhNhhQoCYIRj3SH) | 3:28 | 2022-10-04 |  |
 | [IT'S ONLY PUNK ROCK](https://open.spotify.com/track/50Msl98h4Yodp4HUBkMQ4C) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [FRIENDS](https://open.spotify.com/album/7yoAy5YMIW3GfFqxkdoBbH) | 2:29 | 2022-05-24 | 2022-07-26 |
 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2022-05-12 |  |
 | [JUST MY LIFE](https://open.spotify.com/track/6KUy8S7PTSHX2WRW4drmlU) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:46 | 2022-07-14 | 2022-07-16 |
@@ -267,7 +269,7 @@
 | [Stay Punk Forever](https://open.spotify.com/track/4kO0rBpUaPKV0d2r9w3Fip) | [THE STARBEMS](https://open.spotify.com/artist/6SXxBrj5sKrSXiAV2tpWWq) | [STAY PUNK FOREVER](https://open.spotify.com/album/0bIO2OKQ3k4fnE8tqUw03U) | 2:41 | 2022-05-19 | 2022-07-28 |
 | [Stay Pure](https://open.spotify.com/track/3YnshcRCGme6KvEykGpjtF) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [PURE](https://open.spotify.com/album/6Ym1lCGxIlduxxTNp6FTaP) | 3:38 | 2022-05-17 | 2022-07-29 |
 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2022-05-12 |  |
-| [Steer This Band](https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:53 | 2022-05-12 |  |
+| [Steer This Band](https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:53 | 2022-05-12 | 2022-10-05 |
 | [Step By Step](https://open.spotify.com/track/5QXoJkovHMOQcAnvjdoqgI) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [GIZMOといっしょ](https://open.spotify.com/album/5MsWIbsWjgsHbIbA0YPonk) | 2:08 | 2022-05-31 | 2022-07-27 |
 | [Stereoman](https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Space Sonic](https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A) | 3:33 | 2022-05-12 |  |
 | [STILL ALIVE](https://open.spotify.com/track/7g4MBtEXOsaRzHxcdnPt3O) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [GOODBYE CRUEL WORLD](https://open.spotify.com/album/4aTZRJ2bM5HGT9Yf7AGHMI) | 2:42 | 2022-05-17 | 2022-07-25 |

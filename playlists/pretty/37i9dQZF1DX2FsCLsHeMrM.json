@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 810410,
+  "num_followers": 810796,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0ODI0OCwwMDAwMDAwMDIxOTk3OGI4NjllYzdhNDE4ZGI3NmMyMzllNTUzMWI5",
+  "snapshot_id": "MTY2NDU0ODI0OCwwMDAwMDAwMDBlMTgxODFiNGE2NGZmYmNhYjViOTY0MjEyN2E3Nzc5",
   "tracks": [
     {
       "added_at": "2022-09-30 14:30:48",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 256946,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 210132,
       "name": "How Deep Is Your Love (feat. Yebba) - Live",
       "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 439866,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Diggin' On You",
-      "url": "https://open.spotify.com/track/2W2vmNmTLERMWT9XBxm35E"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "A Night to Remember",
         "url": "https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 211253,
       "name": "A Night to Remember - Single Version",
       "url": "https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Diggin' On You",
+      "url": "https://open.spotify.com/track/2W2vmNmTLERMWT9XBxm35E"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "When the City Sleeps",
+        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 216514,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "The Long Way Home",
         "url": "https://open.spotify.com/album/1bBcuPUK7dnJjiS70izzw5"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 228613,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "When the City Sleeps",
-        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 216514,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Helping Hands",
-        "url": "https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 175309,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Helping Hands",
+        "url": "https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Fool to Love",
+      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "The Ecleftic -2 Sides II A Book",
         "url": "https://open.spotify.com/album/3FDZZk861xfI9wPNAlgrhm"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 259333,
       "name": "911 (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/28hgx2bWXcaBJeC9zVwrBq"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Fool to Love",
-      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/6BXDMsoy2zam0un1DTMp9U"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "Little Bit of Lovin",
+      "url": "https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Isina Muva (Gold Deluxe)",
         "url": "https://open.spotify.com/album/7ne6pspiugeCQzVItPEmnn"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 228000,
       "name": "Ngempela (feat, Howard) - Bonus Track",
       "url": "https://open.spotify.com/track/0QKJGz2aZfZzcjSfktQiDG"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/6BXDMsoy2zam0un1DTMp9U"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Little Bit of Lovin",
-      "url": "https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
-        }
-      ],
-      "duration_ms": 272360,
-      "name": "So Fine",
-      "url": "https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 258506,
       "name": "Higher Higher",
       "url": "https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "duration_ms": 272360,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Between Thought And Expression",
+        "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Walk on the Wild Side",
+      "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Midnight Crisis",
         "url": "https://open.spotify.com/album/3VPsgf2GvKiZ1rQCrre6H2"
       },
@@ -2355,34 +2371,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Between Thought And Expression",
-        "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
+        "name": "Love In Synthesis",
+        "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "MMYYKK",
+          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
         }
       ],
-      "duration_ms": 253373,
-      "name": "Walk on the Wild Side",
-      "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
-        }
-      ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+      "duration_ms": 208000,
+      "name": "Soulmate (Heartstrings)",
+      "url": "https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Love In Synthesis",
-        "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
       "artists": [
         {
-          "name": "MMYYKK",
-          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Soulmate (Heartstrings)",
-      "url": "https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG"
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Adojio",
-        "url": "https://open.spotify.com/album/3dfTeRPEPCLiBlzEQBMPAK"
-      },
-      "artists": [
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        }
-      ],
-      "duration_ms": 190152,
-      "name": "Starchild",
-      "url": "https://open.spotify.com/track/4Ku4jFPD4J7UxdjG0xpjPf"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "NEXT 2 U",
         "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 169484,
       "name": "NEXT 2 U",
       "url": "https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Adojio",
+        "url": "https://open.spotify.com/album/3dfTeRPEPCLiBlzEQBMPAK"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        }
+      ],
+      "duration_ms": 190152,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/4Ku4jFPD4J7UxdjG0xpjPf"
     },
     {
       "added_at": "2022-09-30 14:30:48",

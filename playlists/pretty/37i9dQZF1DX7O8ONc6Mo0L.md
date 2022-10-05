@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,833 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,914 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 61 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo) | 4:56 |
 | 62 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 |
 | 63 | [Nunca Te Deixarei \- Acústico](https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Nunca Te Deixarei \(Acústico\)](https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55) | 3:21 |
-| 64 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 |
-| 65 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
+| 64 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
+| 65 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 |
 | 66 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 |
 | 67 | [Prossiga](https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Prossiga](https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1) | 5:07 |
 | 68 | [Tens Meu Coração](https://open.spotify.com/track/2U26JR0DawBOmdPZ44aIQB) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Tens Meu Coração](https://open.spotify.com/album/26sVPHIvF6MAd0KU3SOKEn) | 5:40 |
-| 69 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/27KUBPN9Vja3WlsZsNNvj0) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/6RS8eJ68iNTDvm55Q0nLAs) | 4:18 |
-| 70 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 |
+| 69 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 |
+| 70 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/27KUBPN9Vja3WlsZsNNvj0) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/6RS8eJ68iNTDvm55Q0nLAs) | 4:18 |
 | 71 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Manu](https://open.spotify.com/artist/7gz120VZ7N6mvk7nfq8cXV) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
 | 72 | [Ele Mudará](https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8) | [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3) | [Ele Mudará](https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ) | 4:00 |
 | 73 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [No Quarto Com Deus](https://open.spotify.com/track/5lHZfFfNno9z9az0zk06mS) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [No Quarto Com Deus](https://open.spotify.com/album/53SeiqJysDCQ8XymuHdc9l) | 4:01 |
 | 80 | [Eu Te Agradeço \(Essência Sessions\)](https://open.spotify.com/track/2gMLLBjJgVTWiH4u8X3xVV) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Weslei Santos no Essência Sessions](https://open.spotify.com/album/57c7bRChhj4vPRaeafLnI5) | 5:00 |
 
-Snapshot ID: `MTY2NDU0MzMwNSwwMDAwMDAwMGUyYTRiYWYxYjBjY2E2MGJhMmJkYTQyN2Q3NzAxYzli`
+Snapshot ID: `MTY2NDU0MzMwNSwwMDAwMDAwMDY5NGNhYTM1Y2RiOWFjNjlmNDIwYTBmMDE2YTFjZjIw`

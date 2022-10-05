@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,834 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,883 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 33 | [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 |
 | 34 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 |
 | 35 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
-| 36 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 |
-| 37 | [Girlgang](https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Girlgang](https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ) | 3:55 |
+| 36 | [Girlgang](https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Girlgang](https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ) | 3:55 |
+| 37 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 |
 | 38 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
 | 39 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 40 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Ritmada e Pixadona](https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [L3OZIN](https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez) | [Ritmada e Pixadona](https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb) | 3:25 |
 | 50 | [Gloss da Fenty](https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i) | [ADH4RAA](https://open.spotify.com/artist/5b6HkQI2FG6VyL7ZnK9t1e), [Ayla On The Beat](https://open.spotify.com/artist/6k595dcIJDVjfgANp2VgTV), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Gloss da Fenty](https://open.spotify.com/album/6CeFh6CSzKy1bc26R0155q) | 2:30 |
 
-Snapshot ID: `MTY2NDUwNjg2MCwwMDAwMDAwMDYwOTAyMDU5NWQyYjE3YjFmYTYwZmUxNzEyM2E2YjMw`
+Snapshot ID: `MTY2NDUwNjg2MCwwMDAwMDAwMDRiYjNjNmM2NWQ3N2RmMzkyMzM5YjAxMWRjYmNjMjEw`

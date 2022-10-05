@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 27 | [Nunnadet Shit](https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Nunnadet Shit](https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W) | 3:34 |
 | 28 | [Walk](https://open.spotify.com/track/3YfrGk7UWFqxWeWfFp1sQE) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [It's a Vibe](https://open.spotify.com/album/00N7d8ASGThdtQWGu8V7Zl) | 2:23 |
 | 29 | [Sleeping With the Enemy](https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [The Bastard Tape, Vol\. 1](https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J) | 3:49 |
-| 30 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
-| 31 | [Weak](https://open.spotify.com/track/2eJ87on7uDqIvKobxuPpov) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:36 |
+| 30 | [Weak](https://open.spotify.com/track/2eJ87on7uDqIvKobxuPpov) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:36 |
+| 31 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
 | 32 | [Got Dem Racks](https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [January 10th](https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj) | 3:39 |
 | 33 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
 | 34 | [The K\-Wang](https://open.spotify.com/track/08a5tq3SGdgj45GCnFDvlA) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60), [DSD](https://open.spotify.com/artist/5iNFhXzTt8S6gLWss7qGGD) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 5:11 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Gucci Bag](https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 2:15 |
 | 48 | [Hood Baby](https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK) | [Hood Brat](https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd) | [Hood Baby](https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO) | 2:40 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDM4NDJmOWJiYjcwNWJjMWVkY2ZjOWRlY2Q1OTI3NGI4`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGVjNmJmYzI4MDk3ZWQ4ZTIxYzBhMzY1OTlhNGM1ZDQy`

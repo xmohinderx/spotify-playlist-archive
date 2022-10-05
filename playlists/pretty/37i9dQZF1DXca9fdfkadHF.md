@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,323 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,379 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Tiempo](https://open.spotify.com/track/4X2IwER8pyOAnqO17PMd1B) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93) | [Love](https://open.spotify.com/album/123qwjmrd4Kt1hkRJRffbJ) | 3:14 |
 | 2 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 |
-| 3 | [Las Torres](https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:20 |
+| 3 | [Las Torres](https://open.spotify.com/track/5QX7YdxL6LtpWyfbNzaIPC) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/5uxCbEVfLhM7P1UoSrBrT0) | 3:20 |
 | 4 | [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 |
 | 5 | [Lo Peor de Todo](https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:03 |
 | 6 | [Suna](https://open.spotify.com/track/4udGuDY6x5WzWdMiVe3yea) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 4:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMGMzY2NiYjFhY2FmOTA1NjEzNjg3NjFhZjA5NjkxZGNk`
+Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMDgwYmQwMDNhNDFjZDk2YjZiYzkzYjI5MWJhMzYyOTk0`

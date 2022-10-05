@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,693 likes - 49 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,707 likes - 49 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 19 | [In Spite Of Me \- Live](https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 8:26 |
 | 20 | [Free \- Live](https://open.spotify.com/track/0RNPiXc8aLrCbuivYlouzd) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:07 |
 | 21 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
-| 22 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 |
-| 23 | [Nobody Like You Lord \- Radio Edit \- Live](https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Nobody Like You Lord \(Radio Edit \- Live\)](https://open.spotify.com/album/3qQk8UYKGkjp91yl799gWJ) | 4:04 |
+| 22 | [Nobody Like You Lord \- Radio Edit \- Live](https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Nobody Like You Lord \(Radio Edit \- Live\)](https://open.spotify.com/album/3qQk8UYKGkjp91yl799gWJ) | 4:04 |
+| 23 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 |
 | 24 | [Put A Praise On It \- Live](https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 6:16 |
 | 25 | [That's What I Believe](https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 5:20 |
 | 26 | [Why We Sing](https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [He'll Take The Pain Away](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 49 | [Celebrate \- Live](https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:03 |
 
-Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMDkwNWM0NjJmYzMxZjVkMGEyY2ZlMTZjYzcxMTBmN2Ey`
+Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMDMwZjllY2VkZjdlYTlkYmI0ZTdhMjU5OTg5MDFjMjk5`

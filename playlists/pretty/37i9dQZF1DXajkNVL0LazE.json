@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 33500,
+  "num_followers": 33605,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDYwMzAxMGM4Mzg4YWNlZjU3ODBiY2ZmN2Q3NTFmOGU1",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDAzMGFmMzE2NjU3YWJkZThjYWQ3MTg3ZTlmMmM3YjU1",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Civilian",
+        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 220917,
+      "name": "Civilian",
+      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
-      },
-      "artists": [
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
     },
     {
       "added_at": "2022-02-04 22:01:34",

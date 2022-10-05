@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
-  "num_followers": 1785516,
+  "num_followers": 1785648,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGNlMTU4ZTkxNjM4ZjIzMDgzZWYxMjJlZDk4ODE1YzMy",
+  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMDI5YzE2NzU4MzVjNmQ1ZjJkZTBhMWI5ZGNhMjdhZDc1",
   "tracks": [
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
+      },
+      "artists": [
+        {
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+        }
+      ],
+      "duration_ms": 286453,
+      "name": "Maria Teresa y Danilo",
+      "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Nuestra Esquina",
         "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
       "artists": [
         {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 286453,
-      "name": "Maria Teresa y Danilo",
-      "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1435,22 +1451,6 @@
       "duration_ms": 219049,
       "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 260865,
-      "name": "Canciones Viejas",
-      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
+      "duration_ms": 260865,
+      "name": "Canciones Viejas",
+      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
     },
     {
       "added_at": "2022-09-09 15:09:32",

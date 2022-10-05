@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 
 > Lose yourself in the summer daze...
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,519 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,521 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 34 | [Pretty Lady \- Free Nationals Remix](https://open.spotify.com/track/55HlhHQyXxCoKt9oZkxHD0) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Pretty Lady \(Free Nationals Remix\)](https://open.spotify.com/album/3kZx6ZWaFjwKJ55yEr0Qsu) | 4:18 |
 | 35 | [Titanic](https://open.spotify.com/track/0EUwAADV8ggf1CjB4uzZqE) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Titanic](https://open.spotify.com/album/099cD2kVOgBUnfUHnGAIXT) | 3:05 |
 | 36 | [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 |
-| 37 | [SUGARCOATED](https://open.spotify.com/track/1M2sJHEAsFFLPIQyHvQUv2) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [HOW DID WE GET HERE?](https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn) | 3:11 |
+| 37 | [SUGARCOATED](https://open.spotify.com/track/5FhfmjrxgoSXbAyJJwRTjr) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [SUGARCOATED](https://open.spotify.com/album/4l0bg4TtTVWK7GKMrsinaq) | 3:11 |
 | 38 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 |
 | 39 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 |
 | 40 | [Swing of Things](https://open.spotify.com/track/75HWviLbrVpv3MMiAo0ylA) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 2:58 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 106 | [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 |
 | 107 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:05 |
 
-Snapshot ID: `MTY0NDQ2NDcwNiwwMDAwMDAwMDJkMDRlOWI1ODBhYWJhOWNkOGM5NGUyNmZiY2Y3NmRl`
+Snapshot ID: `MTY0NDQ2NDcwNiwwMDAwMDAwMDhiNGI2ZTdiODA5NzU4M2ExMjZkM2Y4NmU2MWU5NWQ2`

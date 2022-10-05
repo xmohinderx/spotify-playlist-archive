@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 121007,
+  "num_followers": 121089,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGMyMDU3ZTdiNTFiYzMwYjZlYjYwZTQxZjQ0OGQ5NDg4",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDViZGM1MTFmMTU0YWJjZjM0ZDJmNGQyZjViYTRhMmQ5",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -195,38 +195,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "More Of The Same",
-      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "On the Line",
-        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 289224,
-      "name": "Little White Dove",
-      "url": "https://open.spotify.com/track/6GmpADghIK0gLem1FS2VGJ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Foxwarren",
         "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 260090,
       "name": "Sunset Canyon",
       "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "On the Line",
+        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 289224,
+      "name": "Little White Dove",
+      "url": "https://open.spotify.com/track/6GmpADghIK0gLem1FS2VGJ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 248791,
+      "name": "More Of The Same",
+      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Game Show",
-        "url": "https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Game Show",
-      "url": "https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99"
-    },
-    {
       "added_at": "2022-07-22 04:00:00",
       "album": {
         "name": "The Unseen In Between",
@@ -571,6 +555,22 @@
       "duration_ms": 310360,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Game Show",
+        "url": "https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Game Show",
+      "url": "https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 229840,
       "name": "Baby Bluebird",
       "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Pearls to Swine",
-        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
-      },
-      "artists": [
-        {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
-        }
-      ],
-      "duration_ms": 360946,
-      "name": "Juniper Arms",
-      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Strange to Explain",
         "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 351725,
       "name": "Where Do You Go When You Dream",
       "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Pearls to Swine",
+        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
+      },
+      "artists": [
+        {
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+        }
+      ],
+      "duration_ms": 360946,
+      "name": "Juniper Arms",
+      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Sneaker Waves",
-        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Glass Jar",
-      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 140164,
       "name": "Hippo",
       "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Sneaker Waves",
+        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Glass Jar",
+      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
-      },
-      "artists": [
-        {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
-        }
-      ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Renegade",
         "url": "https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+      },
+      "artists": [
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Panther in the Dollhouse",
         "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 203319,
       "name": "Nighthawks",
       "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Critical Equation",
+        "url": "https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 295396,
+      "name": "Listening In",
+      "url": "https://open.spotify.com/track/46D2L5WkfinP6scJ7sLX3Z"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -967,22 +983,6 @@
       "duration_ms": 284940,
       "name": "Defection",
       "url": "https://open.spotify.com/track/0bXJRygxrZNviJXpQiPGDE"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Critical Equation",
-        "url": "https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 295396,
-      "name": "Listening In",
-      "url": "https://open.spotify.com/track/46D2L5WkfinP6scJ7sLX3Z"
     },
     {
       "added_at": "2022-07-22 04:00:00",

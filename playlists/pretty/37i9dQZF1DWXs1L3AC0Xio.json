@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 622058,
+  "num_followers": 622237,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDM2MTRmOTkxMjNiYTE3NDViMTQ1YjQ4ZWM3M2YyYzA3",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGFkZWI2YmY1ZjIwZTNkMDliN2MzYWU3NGMxMzRlOTQ3",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 239212,
-      "name": "twin flame",
-      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 254805,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 239212,
+      "name": "twin flame",
+      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Saving Abel",
-        "url": "https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O"
-      },
-      "artists": [
-        {
-          "name": "Saving Abel",
-          "url": "https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF"
-        }
-      ],
-      "duration_ms": 235613,
-      "name": "Drowning (Face Down)",
-      "url": "https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "The Heart Of Everything",
         "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 290946,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Saving Abel",
+        "url": "https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O"
+      },
+      "artists": [
+        {
+          "name": "Saving Abel",
+          "url": "https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Drowning (Face Down)",
+      "url": "https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "Hearts / Wires",
+      "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Gore",
-        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
         }
       ],
-      "duration_ms": 320546,
-      "name": "Hearts / Wires",
-      "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
+      "duration_ms": 283528,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 254200,
       "name": "Maybe It\u2019s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)",
       "url": "https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 283528,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 292506,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Nothing More",
         "url": "https://open.spotify.com/album/4aBbor9Sqi43RqUcc9g18G"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 257093,
       "name": "Here's To The Heartache",
       "url": "https://open.spotify.com/track/144VTMTXicEwTOJQPcrpAF"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 232181,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
         "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 215946,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2tUhCTpGeEfssyYTeu0chm"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "duration_ms": 232181,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+        "name": "Polyester Zeal",
+        "url": "https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
         }
       ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
+      "duration_ms": 262733,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Magic Valley",
         "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 300030,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Polyester Zeal",
-        "url": "https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw"
-      },
-      "artists": [
-        {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Mary Go Round",
-      "url": "https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 179120,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Mary Go Round",
+      "url": "https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "THREAD",
-        "url": "https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT"
+        "name": "Doomsday (Piano Reprise)",
+        "url": "https://open.spotify.com/album/3qugOscI33flKHeUONCfLh"
       },
       "artists": [
         {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 304520,
-      "name": "Stealing Life",
-      "url": "https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu"
+      "duration_ms": 245856,
+      "name": "Doomsday - Piano Reprise",
+      "url": "https://open.spotify.com/track/5uH7FUDrEoEk7ii23XIxQD"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Doomsday (Piano Reprise)",
-        "url": "https://open.spotify.com/album/3qugOscI33flKHeUONCfLh"
+        "name": "THREAD",
+        "url": "https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
         }
       ],
-      "duration_ms": 245856,
-      "name": "Doomsday - Piano Reprise",
-      "url": "https://open.spotify.com/track/5uH7FUDrEoEk7ii23XIxQD"
+      "duration_ms": 304520,
+      "name": "Stealing Life",
+      "url": "https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Black and White Rainbows (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 259797,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "The Stage",
         "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Wake Up Call",
-        "url": "https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl"
+        "name": "Black and White Rainbows (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv"
       },
       "artists": [
         {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 235066,
-      "name": "Wake Up Call",
-      "url": "https://open.spotify.com/track/1AXMG1DXnkXlUufkMwcS9A"
+      "duration_ms": 259797,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 195700,
       "name": "All I Had To Lose (feat. Mark Morales)",
       "url": "https://open.spotify.com/track/3t9seJl7Y0B556M2ndthl1"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Wake Up Call",
+      "url": "https://open.spotify.com/track/1AXMG1DXnkXlUufkMwcS9A"
     }
   ],
   "unique_name": "Rock Ballads",

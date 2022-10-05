@@ -4,7 +4,7 @@
 
 > nos fuimos de fiesta 🎉 <br/>Cover: Don Omar
 
-204 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/4BeKLwGBQeQiMkVsNWLStS)
+205 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/4BeKLwGBQeQiMkVsNWLStS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2021-12-20 |  |
 | [Cantar Hasta Morir](https://open.spotify.com/track/07lL8FiQIjIfNjy45xQZ0l) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:32 | 2021-12-20 | 2022-01-12 |
 | [Caramelo](https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Caramelo](https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD) | 3:37 | 2021-12-20 |  |
-| [Chi Chi](https://open.spotify.com/track/5stSMLMtouTWgBS1yivBJm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:30 | 2022-10-03 |  |
+| [Chi Chi](https://open.spotify.com/track/5stSMLMtouTWgBS1yivBJm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:30 | 2022-10-03 | 2022-10-05 |
+| [Chi Chi](https://open.spotify.com/track/6t8JfhZG9HV4mSI1FbVWff) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:30 | 2022-10-03 |  |
 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2022-01-11 |  |
 | [ChiCha](https://open.spotify.com/track/2vZCBbUAgywibuGVTzNJTu) | [Lil Tati](https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v), [Ronny J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [ChiCha](https://open.spotify.com/album/13mMXkTl2XHZKrIAsJ2NsI) | 4:18 | 2021-12-20 | 2022-01-12 |
 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 | 2022-01-11 |  |

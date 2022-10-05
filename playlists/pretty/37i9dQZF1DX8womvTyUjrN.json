@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Pol Granch",
-  "num_followers": 261133,
+  "num_followers": 261219,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgzNTAxNywwMDAwMDAwMGRiM2NlMGExMWQ4YmJhMjRkZTg0MzM5OTYyYTAzODMz",
+  "snapshot_id": "MTY2NDgzNTAxNywwMDAwMDAwMGMwNjc4NGJlNWU0MGM3NjgyMWQ4YjZmMmFiYTkwNmZm",
   "tracks": [
     {
       "added_at": "2022-09-23 15:14:49",
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d"
     },
     {
-      "added_at": "2022-10-04 01:54:41",
+      "added_at": "2022-10-05 01:55:46",
       "album": {
         "name": "Freno",
         "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
     },
     {
-      "added_at": "2022-10-04 01:54:41",
+      "added_at": "2022-10-05 01:55:46",
       "album": {
         "name": "Mentiroso",
         "url": "https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/4DtPemed93VqdvI0mTw9VG"
     },
     {
-      "added_at": "2022-10-04 01:54:41",
+      "added_at": "2022-10-05 01:55:46",
       "album": {
         "name": "Dile",
         "url": "https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE"
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
-        "name": "Byemalandra",
-        "url": "https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 165521,
-      "name": "Byemalandra",
-      "url": "https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
         "name": "Bomb\u00f3n",
         "url": "https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 160399,
       "name": "Bomb\u00f3n",
       "url": "https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
+        "name": "Byemalandra",
+        "url": "https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 165521,
+      "name": "Byemalandra",
+      "url": "https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
+        "name": "Gadejo",
+        "url": "https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "duration_ms": 133744,
+      "name": "Gadejo",
+      "url": "https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
         "name": "Dol\u00eda (feat. Las Villa)",
         "url": "https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 167994,
       "name": "Dol\u00eda (feat. Las Villa)",
       "url": "https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "Gadejo",
-        "url": "https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv"
-      },
-      "artists": [
-        {
-          "name": "ANGEL22",
-          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
-        }
-      ],
-      "duration_ms": 133744,
-      "name": "Gadejo",
-      "url": "https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO"
     },
     {
       "added_at": "2022-09-23 15:14:49",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 75335,
+  "num_followers": 75371,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMDU4MzU5NDcxMDk3YWM5NzMyZDUzMzA5NGYxMGM0YTRm",
+  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMGNlY2FkNTgyZDVlNTE3YTc5MmQ3YmFlMjgzMTFhNzcy",
   "tracks": [
     {
       "added_at": "2022-09-15 12:23:59",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
-      "added_at": "2022-10-04 01:36:38",
+      "added_at": "2022-10-05 01:36:08",
       "album": {
         "name": "Stechm\u00fcck",
         "url": "https://open.spotify.com/album/3loW6CAy3YilP4SdZBkIqu"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
-      "added_at": "2022-10-04 01:36:38",
+      "added_at": "2022-10-05 01:36:08",
       "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
         "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "Eutow",
-      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "No Mind",
         "url": "https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 135269,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Eutow",
+      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
     },
     {
       "added_at": "2022-07-06 16:48:39",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Pure, Impure",
         "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 457000,
       "name": "Time To Find Me - AFX Fast Mix",
       "url": "https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Yulquen",
-      "url": "https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz"
     },
     {
       "added_at": "2022-08-03 02:34:20",
@@ -759,18 +759,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
       "artists": [
         {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2021-11-25 22:12:36",
@@ -787,6 +787,22 @@
       "duration_ms": 947500,
       "name": "Gravity that Binds",
       "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -819,22 +835,6 @@
       "duration_ms": 160000,
       "name": "lavender's love",
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -885,42 +885,6 @@
       "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Tar (Jan Jelinek Remix)",
-        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        },
-        {
-          "name": "Jan Jelinek",
-          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
-        }
-      ],
-      "duration_ms": 359543,
-      "name": "Tar - Jan Jelinek Remix",
-      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
-    },
-    {
       "added_at": "2022-01-12 02:35:30",
       "album": {
         "name": "This Is An Advertisement",
@@ -943,6 +907,42 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Tar (Jan Jelinek Remix)",
+        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "duration_ms": 359543,
+      "name": "Tar - Jan Jelinek Remix",
+      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Insight",
         "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 293294,
       "name": "Insight",
       "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "L'\u00e9treinte Imaginaire",
-        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
-      },
-      "artists": [
-        {
-          "name": "Auscultation",
-          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
-        }
-      ],
-      "duration_ms": 393717,
-      "name": "Promise You'll Haunt Me",
-      "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1025,20 +1009,36 @@
       "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
     },
     {
-      "added_at": "2022-02-25 03:33:17",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+        "name": "L'\u00e9treinte Imaginaire",
+        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "Auscultation",
+          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
         }
       ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+      "duration_ms": 393717,
+      "name": "Promise You'll Haunt Me",
+      "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1059,6 +1059,22 @@
       "duration_ms": 227258,
       "name": "Anxi.",
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
+    },
+    {
+      "added_at": "2022-02-25 03:33:17",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
       "added_at": "2022-01-12 18:40:19",
@@ -1093,20 +1109,20 @@
       "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-03-29 02:05:38",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
         }
       ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -1139,22 +1155,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2022-08-24 01:27:39",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blooms",
-        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
-      },
-      "artists": [
-        {
-          "name": "Sau Poler",
-          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
-        }
-      ],
-      "duration_ms": 346479,
-      "name": "Blooms",
-      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Weather the Storm",
         "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 276000,
       "name": "Weather the Storm",
       "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
+      },
+      "artists": [
+        {
+          "name": "Sau Poler",
+          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
+        }
+      ],
+      "duration_ms": 346479,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2022-01-21 20:27:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+      },
+      "artists": [
+        {
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+        }
+      ],
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+        "name": "The Crucible",
+        "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
       },
       "artists": [
         {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
         }
       ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+      "duration_ms": 207407,
+      "name": "Green Phase, Part One",
+      "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
     },
     {
       "added_at": "2022-08-03 02:50:08",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "The Crucible",
-        "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
-      },
-      "artists": [
-        {
-          "name": "Kabuki",
-          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
-        }
-      ],
-      "duration_ms": 207407,
-      "name": "Green Phase, Part One",
-      "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "that day, on the beach",
         "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Ficciones Del Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
-      },
-      "artists": [
-        {
-          "name": "Molero",
-          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Phasma Gigas",
-      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Ficciones Del Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
+      },
+      "artists": [
+        {
+          "name": "Molero",
+          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Phasma Gigas",
+      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Dub Protection & The Sportswear Mystics",
         "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 311480,
       "name": "Dub Protection",
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "1234,8",
+        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
+      },
+      "artists": [
+        {
+          "name": "Ulises Conti",
+          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
+        }
+      ],
+      "duration_ms": 358862,
+      "name": "161,1",
+      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
       "added_at": "2022-08-17 17:11:39",
@@ -1491,22 +1507,6 @@
       "duration_ms": 154838,
       "name": "Boreal",
       "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "1234,8",
-        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
-      },
-      "artists": [
-        {
-          "name": "Ulises Conti",
-          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
-        }
-      ],
-      "duration_ms": 358862,
-      "name": "161,1",
-      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Inkjet / Fluo",
         "url": "https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Summer Places",
-      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Muckbirth",
         "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
-    },
-    {
-      "added_at": "2022-04-29 18:23:46",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1659,6 +1643,22 @@
       "duration_ms": 252000,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/7ELFgIC6BEMI1BgEA3xDE5"
+    },
+    {
+      "added_at": "2022-04-29 18:23:46",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-02-25 03:47:46",

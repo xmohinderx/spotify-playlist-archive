@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 37 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 |
 | 38 | [+ La vie](https://open.spotify.com/track/7cGLbzrQw1Rxo0ZX9hOXiO) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:49 |
 | 39 | [Sous le même toît](https://open.spotify.com/track/61P1ORWkI1Q8VtiiXamTYZ) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Sous le même toit](https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN) | 2:56 |
-| 40 | [Solo](https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [SOLO](https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk) | 2:32 |
-| 41 | [Je n'irai pas ailleurs](https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [France d'Amour](https://open.spotify.com/album/5z4QHFL6rFZxr9hTsbJz7P) | 3:35 |
+| 40 | [Je n'irai pas ailleurs](https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [France d'Amour](https://open.spotify.com/album/5z4QHFL6rFZxr9hTsbJz7P) | 3:35 |
+| 41 | [Solo](https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [SOLO](https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk) | 2:32 |
 | 42 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 |
 | 43 | [La lumineuse](https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [La lumineuse](https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP) | 3:08 |
 | 44 | [Les amants de Pompéi](https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:49 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 53 | [Mot de passe](https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Homme Autonome](https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY) | 3:25 |
 | 54 | [Sans tomber](https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK) | [Melissa Ouimet](https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth) | [Sans tomber](https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH) | 2:09 |
 | 55 | [Encore et encore](https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI), [Layanah](https://open.spotify.com/artist/7DFSyHRCHorchjSaMe9M3M) | [Givmeall Hit Stars](https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju) | 3:45 |
-| 56 | [Dans l'bois](https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38) | [Édith Butler](https://open.spotify.com/artist/4AhQuJhnTP8pO6nlNhy0YL), [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Le tour du Grand Bois](https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW) | 3:35 |
-| 57 | [Les Rois](https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Excalibur](https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T) | 3:08 |
-| 58 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 |
-| 59 | [La jungle du capital](https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 4:08 |
+| 56 | [Les Rois](https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Excalibur](https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T) | 3:08 |
+| 57 | [Dans l'bois](https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38) | [Édith Butler](https://open.spotify.com/artist/4AhQuJhnTP8pO6nlNhy0YL), [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Le tour du Grand Bois](https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW) | 3:35 |
+| 58 | [La jungle du capital](https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 4:08 |
+| 59 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 |
 | 60 | [Xoxo](https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC) | [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [Blue Volvo](https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc) | 4:11 |
 | 61 | [Ton vieux nom](https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 4:41 |
 | 62 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 64 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 |
 | 65 | [Amène\-toi chez nous](https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG) | [Jacques Michel](https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv) | [Citoyen d'Amérique](https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas) | 2:26 |
 | 66 | [Mwen Pare](https://open.spotify.com/track/17dbXxphEFaswso4XiWMNQ) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Mwen Pare](https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g) | 4:54 |
-| 67 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 |
-| 68 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 |
+| 67 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 |
+| 68 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 |
 | 69 | [Les fleurs d’une autre dimension](https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [L'heure mauve](https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL) | 3:23 |
 | 70 | [Alaska](https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [SITKA](https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP) | 3:38 |
 | 71 | [Mon coeur pour te garder](https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn) | [Amélie Veille](https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h) | [Mon coeur pour te garder \(version bonus\)](https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY) | 3:26 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 97 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 |
 | 98 | [Je t’aime](https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Fauve](https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1) | 4:13 |
 | 99 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 |
-| 100 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 |
+| 100 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 |
 
-Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDllN2E0NTEwOWM1OTM1NjRiNjQ5MGQ1MjBiMDA3NTUx`
+Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMGZhZjVlMzNlMjYyODE0ODVkZTczM2RlZGQ3ODFkYjdj`

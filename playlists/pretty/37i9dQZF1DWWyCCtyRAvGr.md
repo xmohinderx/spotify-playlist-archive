@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,608 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,745 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 49 | [Something With Feel](https://open.spotify.com/track/6MAuL12Qbgkv5DpaZL4cZO) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:07 |
 | 50 | [Go Easy](https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 5:54 |
 
-Snapshot ID: `MTY2NDgwMzI5NywwMDAwMDAwMGYzNDRlNTc1NWU3NDQ2MzUyZDRjY2JmZmQzY2JlMTU3`
+Snapshot ID: `MTY2NDg4MTYyOSwwMDAwMDAwMDAxMmI3ZjYzOTdhM2MwZWIwMTY3OTJmMTNiYjc5YWM1`

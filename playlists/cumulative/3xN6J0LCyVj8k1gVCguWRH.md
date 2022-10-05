@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,718 songs - 4 day 3 hr 47 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,719 songs - 4 day 3 hr 50 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [finally \- Radio Edit](https://open.spotify.com/track/31MBBTNAAVpcJNEmVmVbUk) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [finally](https://open.spotify.com/album/47OzYay0e5CD29sxi0HePY) | 2:17 | 2022-04-08 | 2022-05-13 |
 | [Find A Way \(feat\. Lil Baby\)](https://open.spotify.com/track/292NnHERQgizPvOY3pCEPK) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back of My Mind](https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1) | 3:17 | 2021-07-11 |  |
 | [Finding Friends](https://open.spotify.com/track/3VsSoZQqBL1rQS4qpo8BaJ) | [John Noble Barrack](https://open.spotify.com/artist/6lrpKE857HFC8ohwObzINB) | [Finding Friends](https://open.spotify.com/album/5cpdeK47tNjNYBGgCZB2ol) | 3:03 | 2022-09-16 | 2022-10-04 |
+| [Finding Home](https://open.spotify.com/track/6SeoZNOlp8yEppdCwL5JX5) | [Hak Black](https://open.spotify.com/artist/7JIRCWz9rVly4v7WIVrPE4) | [Finding Home](https://open.spotify.com/album/0ThydTtBVa0Eb3D6mVAqUw) | 3:23 | 2022-10-04 |  |
 | [Finding My Way](https://open.spotify.com/track/2egG51uXl2dPr09hvKnmUD) | [Simon Keats](https://open.spotify.com/artist/6WpLlxxaJ9AVBTnQcXvfGZ), [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Finding My Way](https://open.spotify.com/album/6t7f0GFWIEx1schlYAz2Jy) | 3:05 | 2021-10-22 | 2021-11-07 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-07-26 |  |
 | [First](https://open.spotify.com/track/61e6RuiuvaUwmpC0oNLgmI) | [Jungle House Records](https://open.spotify.com/artist/6IVCwIzr2nwE3OTildQtFx) | [First](https://open.spotify.com/album/3FBnEjGoGX8MgV2XInKzHJ) | 2:53 | 2020-12-25 | 2021-01-09 |

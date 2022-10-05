@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,889 likes - 155 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,207 likes - 155 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 80 | [Easy Does It](https://open.spotify.com/track/3MLeNBBnqmI09zcYSc8cD4) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 3:39 |
 | 81 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 |
 | 82 | [Tell Me Again](https://open.spotify.com/track/6JpB8M0DxCWKbITQ4qYMHk) | [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD) | [Tell Me Again](https://open.spotify.com/album/3Rd0vx1lZeDDxwjDPdFrE7) | 0:53 |
-| 83 | [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 |
+| 83 | [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 |
 | 84 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 |
 | 85 | [That's How I Got To Memphis](https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [That's How I Got To Memphis](https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI) | 3:41 |
 | 86 | [Simple as Love](https://open.spotify.com/track/1eRGo8yog1epyUUgCU5FqP) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Simple as Love](https://open.spotify.com/album/3SlXj3EtW3P47fka4KouxP) | 3:27 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 154 | [Amber of the Sun's Dawn](https://open.spotify.com/track/6QuZa46RpKqHg4PvzlVHst) | [Prince of Eden](https://open.spotify.com/artist/29Wvrc4vfXuf9eMexefk7N) | [Berlin](https://open.spotify.com/album/06BDJRlg09xxa1vA4Xs3k0) | 4:30 |
 | 155 | [Holy Mountain](https://open.spotify.com/track/5styQSSHZtSg4BPfEqiqw7) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Donde Los Terremotos: Songs from and Inspired by the Film](https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf) | 5:32 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMGE3YjVhMzgxNWY5NzQ2OTMwYjBlNjA5YzA2MTc1OTFm`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDhkZDQyOTRmZjZhMzM5ZGJhYTk3OGI4MzA2NDBlOWNk`

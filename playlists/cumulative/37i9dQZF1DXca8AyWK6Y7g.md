@@ -4,7 +4,7 @@
 
 > everyone is dumb dumb dumb  Cover: mazie
 
-1,306 songs - 2 day 19 hr 15 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,307 songs - 2 day 19 hr 17 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [Like Home](https://open.spotify.com/track/4yf12uq8vpmBePwRbTYJib) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [GGFOUR](https://open.spotify.com/album/09n5FwLDoFRlzVvwyLhjMD) | 3:25 | 2019-07-27 | 2021-05-13 |
 | [Like Summer](https://open.spotify.com/track/3innRzfJF3RMcZbXv6It28) | [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Like Summer / Nothing Beyond](https://open.spotify.com/album/2PZ7bnYRX9sOawrIAKeGdT) | 5:36 | 2020-06-12 | 2021-10-12 |
 | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/track/2ay96C6SLNv9urvXKD3ecB) | [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/album/6WQTNgQPCS6GApd4cWQUTB) | 2:15 | 2021-02-22 | 2021-05-24 |
-| [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 | 2022-05-20 |  |
+| [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 | 2022-05-20 | 2022-10-05 |
 | [Living](https://open.spotify.com/track/7zJxChdtfJFwVCCnF2YWvS) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Living](https://open.spotify.com/album/71WzlDb4sKJlvbakA9qRcR) | 3:58 | 2021-02-23 | 2021-10-12 |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-05-11 | 2021-10-14 |
 | [LMK](https://open.spotify.com/track/0efL46uAuNEfukXQYsbPlX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [LMK](https://open.spotify.com/album/7J4rvxMkuQ2JZSVEdK4iTq) | 3:08 | 2020-06-12 | 2020-09-25 |
@@ -1088,6 +1088,7 @@
 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-03-11 |  |
 | [Stuck On You](https://open.spotify.com/track/4tmyQGiQ8SjfrLXyjFrAoL) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Stuck On You](https://open.spotify.com/album/03gYgUM53OTHBnAJXiVawa) | 3:12 | 2020-04-04 | 2021-11-10 |
 | [STUPID BIG TEETH](https://open.spotify.com/track/44ESvGuO5spXkHDUNQcHyu) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [STUPID BIG TEETH](https://open.spotify.com/album/1vj4JsdkXZVXloB6opcYWX) | 2:50 | 2021-12-03 | 2022-09-03 |
+| [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 |  |
 | [Suburban Girl](https://open.spotify.com/track/2HsDGZOzNk0oDrqPiYAlT7) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Santa Fe...Suburban Girl](https://open.spotify.com/album/6nm1DJXk6zlofFc2oSOVLP) | 3:02 | 2019-05-26\* | 2019-08-13 |
 | [sucks 4 u](https://open.spotify.com/track/75TJ9ufHDs6R45Wg8wOeEE) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [sucks 4 u](https://open.spotify.com/album/6EqK6gDuQDc43k2kvh83TR) | 3:25 | 2019-06-15 | 2020-04-18 |
 | [Sugar](https://open.spotify.com/track/2Vmya1dCGevyl4AJnWIRt2) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Sugar](https://open.spotify.com/album/2GfyENdWR6Q9sXQTwzpBsu) | 3:14 | 2021-04-19 | 2021-11-16 |

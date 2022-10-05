@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-156 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+157 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Mantra.](https://open.spotify.com/track/1k5XyTq6BeOu8Pv3ZL9Sh2) | [Erwin Deleux](https://open.spotify.com/artist/3CH0YOw0yK2qWURgB92DSk) | [Mantra.](https://open.spotify.com/album/4TbEVZrI3fvbjlQoVjnlAS) | 6:17 | 2021-12-10 |  |
 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 | 2021-12-10 |  |
 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 | 2022-01-28 |  |
-| [Mirror Lake](https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll) | 4:31 | 2021-12-10 |  |
+| [Mirror Lake](https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/5tTymJqGUyFkmklHSyRRRU) | 4:31 | 2022-08-05 |  |
+| [Mirror Lake](https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll) | 4:31 | 2021-12-10 | 2022-10-05 |
 | [Morgen](https://open.spotify.com/track/111fM0tqZiGJyt123R6WNt) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:45 | 2022-07-22 |  |
 | [Morgen](https://open.spotify.com/track/43g9xRCsD9ez3qzVLRdFeX) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Morgen](https://open.spotify.com/album/61KSoFutstVwhqyoAxfdKj) | 2:45 | 2021-12-10 | 2022-07-29 |
 | [Mrs\. Potter's Garden](https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Mrs\. Potter's Garden](https://open.spotify.com/album/4wgoLr9H9hmCscuUF72E1r) | 2:38 | 2021-12-10 |  |

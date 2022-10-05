@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 ### [Mellow Bars](https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61)
 
-> Chillout hip\-hop vibes\. Cover: Larry June
+> Chillout hip\-hop vibes\. Cover: Symba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,921 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,220 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
+| 1 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 | 2 | [Sober \(feat\. Roddy Ricch & Post Malone\)](https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:13 |
 | 3 | [Gratuity](https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Gratuity](https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e) | 3:37 |
 | 4 | [Feel No Pain \(feat\. Anderson .Paak & Raekwon\)](https://open.spotify.com/track/3w0Pr8rZSnYWiipV4hgfnh) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Circumstances](https://open.spotify.com/track/5AnyUq0QkIQPrmysUe5bYD) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Circumstances](https://open.spotify.com/album/14qunYehq5fAbj8oAtpWVn) | 4:35 |
 | 100 | [Late Nights \(feat\. Jim Jones\)](https://open.spotify.com/track/40i123eK1z1saRvFPPX8YV) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [2 P'z In A Pod](https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk) | 3:51 |
 
-Snapshot ID: `MTY2NDU3ODA0NSwwMDAwMDAwMDE4ZjU2ZWZlYmNkNzMzOGRiNzU3ZThjNDgxNmMwMDUw`
+Snapshot ID: `MTY2NDkxMzk1OCwwMDAwMDAwMGUwNzRiODU4MGJhMGI3YzE5MTBmZTRlMGNmYzAzZDkz`

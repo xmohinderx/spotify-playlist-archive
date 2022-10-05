@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Shygirl
 
-1,690 songs - 3 day 22 hr 56 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,691 songs - 3 day 22 hr 58 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [4AM in Toronto \(feat\. Miloh Smith\)](https://open.spotify.com/track/6eWC3LPPER3hQlwGqdQOo6) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Miloh Smith](https://open.spotify.com/artist/7vs9TLkoc9aeRbkSEV77c3) | [4AM in Toronto](https://open.spotify.com/album/49xmVXNYHS8RmJp8C5baPY) | 4:24 | 2021-03-25 | 2021-06-12 |
 | [50/50](https://open.spotify.com/track/3I4G8p5a0n1I7owUfaUUpH) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [50/50](https://open.spotify.com/album/0CfK7axWPYSxqUpnaMhECd) | 3:35 | 2021-11-20 | 2021-12-18 |
 | [9](https://open.spotify.com/track/6zPmJ8DI5vuB1G9WjVjMfU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Nine](https://open.spotify.com/album/7Kpv6XWZhGCwX6PSR4vWaX) | 5:14 | 2021-06-26 | 2021-09-04 |
-| [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 | 2022-09-30 |  |
+| [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 | 2022-09-30 |  |
 | [911 \(Clap For Em\)](https://open.spotify.com/track/7fHmlm6SLUC3EDIhNrs0MJ) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [911 \(Clap For Em\)](https://open.spotify.com/album/0HyTdxzwMADb19IAUNDixZ) | 2:45 | 2019-10-10 | 2020-01-22 |
 | [\_21](https://open.spotify.com/track/6ZUUWhgb2a5W7jdfTjQK3S) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [CWTTY+](https://open.spotify.com/album/0OFf2TfKPJScC1mTYgYH6q) | 2:40 | 2021-07-31 | 2021-10-07 |
 | [A Bitch Curious \(feat\. Sam Truth\)](https://open.spotify.com/track/1e1HFMTEfxwdJh8cCQmtD4) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 4:04 | 2021-04-03 | 2022-01-15 |
@@ -1319,7 +1319,8 @@
 | [Shibuya](https://open.spotify.com/track/5G7602PyF33hYDi4utEpoZ) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Shibuya](https://open.spotify.com/album/5COwxcrDHpm6t439Cuba4p) | 2:24 | 2019-11-08 | 2020-02-07 |
 | [Shimmy](https://open.spotify.com/track/7iG6aXHLFg9tBzP6OIyuJa) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Shimmy](https://open.spotify.com/album/3RoVKfjmYglyZX08TvWK2N) | 2:13 | 2020-02-27 | 2020-06-12 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 | 2022-02-19 |
-| [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 | 2022-09-30 |  |
+| [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 | 2022-09-30 | 2022-10-05 |
+| [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2022-10-04 |  |
 | [Shook](https://open.spotify.com/track/1CsSB1GgfpHoEvWAWy0Swp) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Shook](https://open.spotify.com/album/40qPKS8uTjS9RmEOq0LPn7) | 2:42 | 2020-05-14 | 2020-07-30 |
 | [Shooting Star](https://open.spotify.com/track/78GTy82c0Bd9Jp1n5NY6FE) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Shooting Star](https://open.spotify.com/album/55BUSWjgezexC6Igghmruf) | 2:50 | 2020-06-19 | 2020-11-13 |
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2021-03-14 | 2021-05-29 |

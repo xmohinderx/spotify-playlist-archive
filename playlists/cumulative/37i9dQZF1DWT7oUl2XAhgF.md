@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-192 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/19AFs6pZ8WyCXnrxjl6M3m)
+193 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/19AFs6pZ8WyCXnrxjl6M3m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Don’t Want It to Be Over \(ft\. Coco O.\)](https://open.spotify.com/track/7qZknx1i2TgMxOiPP1psEo) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Inside Voice](https://open.spotify.com/album/1dozAAM6CMyL2FAEUcHJKu) | 3:36 | 2021-07-09 | 2022-06-03 |
 | [Don’t You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2021-07-09 |  |
 | [Don’t You Know](https://open.spotify.com/track/242UAWExQDujCkiQtLQvcu) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:20 | 2021-07-09 | 2022-07-29 |
-| [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 | 2021-10-29 |  |
+| [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 | 2021-10-29 | 2022-10-05 |
 | [Dry](https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Nine Lives](https://open.spotify.com/album/34sLLcb1XwY8KD0fIcabjH) | 4:09 | 2022-02-18 | 2022-07-29 |
 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-06-17 |  |
 | [Envy](https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Envy](https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax) | 4:07 | 2022-03-25 |  |
@@ -162,6 +162,7 @@
 | [Smile](https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:49 | 2021-07-09 | 2022-07-29 |
 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 | 2021-07-09 |  |
 | [So Caught Up](https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:48 | 2021-12-03 | 2022-09-15 |
+| [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2021-12-03 |  |
 | [So Into You](https://open.spotify.com/track/6oniXQflpASPhX2YsxdqCJ) | [Cliff Beach](https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z) | [Son Of A Beach](https://open.spotify.com/album/2CjQdKNaJxSVEV3vlbQ0fp) | 4:01 | 2022-06-24 | 2022-07-02 |
 | [Solution](https://open.spotify.com/track/6TMNizvP8FeJ4SaWxZ45f3) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [Solution](https://open.spotify.com/album/3zYDc5MslFWL04Qup4OOQb) | 3:40 | 2022-09-23 |  |
 | [Soul to Blessed Soul](https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Soul to Blessed Soul](https://open.spotify.com/album/3dvnfWPlGdwbq82bwuefwf) | 5:35 | 2022-01-07 | 2022-07-29 |

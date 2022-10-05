@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 114226,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 177887,
       "name": "Barroom Hero",
       "url": "https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 107706,
       "name": "Blood and Whiskey",
       "url": "https://open.spotify.com/track/686FZUtOvjfdhSsyjbGfXb"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 153600,
       "name": "Boys on the Docks",
       "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
@@ -149,6 +149,24 @@
       "duration_ms": 109134,
       "name": "Cadence To Arms",
       "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173402,
+      "name": "Cadillac, Cadillac",
+      "url": "https://open.spotify.com/track/3e46b4yxZyHMV2MEMvcU7n"
     },
     {
       "album": {
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 166973,
       "name": "Famous for Nothing",
       "url": "https://open.spotify.com/track/7752ly2fp6Pfktq8I7zsxR"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 248586,
       "name": "Going Out In Style",
       "url": "https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 200773,
       "name": "Good As Gold",
       "url": "https://open.spotify.com/track/29w2i0wJXNtrHoY3uLpXlB"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 155642,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/4GPs3FuG2SMYa245EHzbKe"
@@ -795,14 +813,18 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         },
         {
-          "name": "Evan Felker of Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/6SIBJsF8Y9JtmYwePXmF0z"
+          "name": "Evan Felker",
+          "url": "https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb"
+        },
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213356,
+      "duration_ms": 213357,
       "name": "The Last One",
       "url": "https://open.spotify.com/track/4bHFIWlluSvc9MP8NQmqF1"
     },
@@ -909,7 +931,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 205613,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 173133,
       "name": "Time To Go",
       "url": "https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9"
@@ -1003,6 +1025,24 @@
       "duration_ms": 182913,
       "name": "Waters Are A'risin",
       "url": "https://open.spotify.com/track/5Vj1Tsd7aTFt1AVPVQySqL"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153644,
+      "name": "Where Trouble Is At",
+      "url": "https://open.spotify.com/track/3NDnVXyl83rLQSALHn2HFT"
     },
     {
       "album": {

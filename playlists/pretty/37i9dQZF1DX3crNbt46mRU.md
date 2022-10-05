@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Angèle
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,348 likes - 94 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,360 likes - 94 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,6 +101,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 91 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 |
 | 92 | [Hey Siri](https://open.spotify.com/track/69zjUqX5NqEKil7vJFbH5T) | [Katha Rosa](https://open.spotify.com/artist/767iqRy8U8T4rAdDscZt57) | [Hey Siri](https://open.spotify.com/album/68XJtThHrMbInx94oEJVsE) | 2:25 |
 | 93 | [Tearz](https://open.spotify.com/track/4SljM2mMcA8t7wqJU1rhye) | [Gaddafi Gals](https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l) | [Romeo Must Die](https://open.spotify.com/album/3EIVFvcT8DPj35kUU4oyXL) | 3:06 |
-| 94 | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
+| 94 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 
 Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMDk3NmFmMDA3YmY3ODUzZWQ4YmZiZmM2ZmI5MDliOTVh`

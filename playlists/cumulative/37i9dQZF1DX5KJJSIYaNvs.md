@@ -4,7 +4,7 @@
 
 > Listen to Indian women, at full volume\. Cover: Andrea Jeremiah
 
-141 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
+142 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 |  |
 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 | 2022-02-01 |  |
 | [Kyun Ho Jaate Ho Door](https://open.spotify.com/track/2boHTy8wRvOsr0xbf2uyBS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Kyun Ho Jaate Ho Door](https://open.spotify.com/album/1EM3mEUMGkA46gTbmpJ2lN) | 2:50 | 2021-12-10 | 2022-01-05 |
-| [Lae Dooba](https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary](https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz) | 3:49 | 2022-04-05 |  |
+| [Lae Dooba](https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary](https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz) | 3:49 | 2022-04-05 | 2022-10-05 |
+| [Lae Dooba](https://open.spotify.com/track/66dO6jaZOKYdV6sXAPkBmI) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1c4yZTLRpZtBUoReFf0Dqo) | 3:49 | 2022-09-07 |  |
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2021-12-10 | 2022-01-05 |
 | [Machhli](https://open.spotify.com/track/6mbYKnJVdaDkZjCxV0dbIq) | [Pawni Pandey](https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Machhli](https://open.spotify.com/album/0oFtiR6mimLJdsiUdCCRnj) | 2:48 | 2022-01-04 | 2022-02-02 |
 | [Mafiyaan](https://open.spotify.com/track/1YIpi9FrVSr1wpzKNukm3J) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Mafiyaan](https://open.spotify.com/album/3mWaCoYmxLh6SPz88oMAhJ) | 3:34 | 2022-02-01 | 2022-03-08 |

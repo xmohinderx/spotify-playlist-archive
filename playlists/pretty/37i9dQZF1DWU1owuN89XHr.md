@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,442 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,481 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 15 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 |
 | 16 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
 | 17 | [Entre Pairos y Derivas](https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR) | 4:15 |
-| 18 | [Divina Tú](https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [El Cartero](https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW) | 4:23 |
+| 18 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
 | 19 | [A la Orilla de la Chimenea](https://open.spotify.com/track/6NQvRUIZZ2z5EUaFd9OloQ) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Fisica Y Quimica](https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC) | 4:08 |
 | 20 | [Trapecistas \- En Vivo](https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Bernardo Quesada](https://open.spotify.com/artist/7tQHfY7mUkkaHtPaJaey1T) | [20 Años de Viaje, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5XJMXkdld5UNaly7xfZMtL) | 4:44 |
 | 21 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 |
-| 22 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
+| 22 | [Divina Tú](https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [El Cartero](https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW) | 4:23 |
 | 23 | [No Soy De Aqui, Ni Soy De Alla](https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Serie De Oro](https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy) | 3:44 |
 | 24 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
 | 25 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 36 | [Por Ti](https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 2:52 |
 | 37 | [Hoy Comí Con el Abuelo](https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 3:07 |
 | 38 | [Dime Corazón](https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sesiones Íntimas](https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A) | 4:23 |
-| 39 | [Después de Ti](https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 3:04 |
-| 40 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
+| 39 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
+| 40 | [Después de Ti](https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 3:04 |
 | 41 | [Sin Tu Latido](https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo A Cuerpo](https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5) | 5:01 |
 | 42 | [Mediterraneo](https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 3:25 |
 | 43 | [El Manual de Lo Prohibido \- Acoustic Live Version](https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Raúl Ornelas](https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845) | [Sólo, Ni Tan Sólo, Vol\. 2 \(Acoustic Live Version\)](https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ) | 4:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 98 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 99 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMDczYjMxMjc1MjMxZTNlNzQ3NDIzZWI3ZTM1OGYzMDQx`
+Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMDJkNTNmMGQyZGRlOGYwZGVmMDc5ZDk5YjYyY2M0Y2Yy`

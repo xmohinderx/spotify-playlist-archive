@@ -1,12 +1,12 @@
 {
   "description": "The extraordinary women making great country music today. Cover: Ashley McBryde",
-  "num_followers": 425058,
+  "num_followers": 425138,
   "original_name": "Women of Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDY1NjMzZjBmNTEyODA2MGNkOTkzNDBiYjVkNGNlZmVh",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGU1OWEyODQzNGRkZWRhY2QyODllZTQyODg5OGI1ZjBh",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -71,22 +71,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -107,18 +103,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Tennessee Orange",
-        "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "29: Written In Stone",
         "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 191226,
       "name": "What He Didn't Do",
       "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Every Night Every Morning",
         "url": "https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 196890,
       "name": "Every Night Every Morning",
       "url": "https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Pickup",
-        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
       },
       "artists": [
         {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 168447,
-      "name": "Pickup",
-      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Sayin' What I'm Thinkin'",
         "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 203373,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dates In Pickup Trucks",
-        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
         }
       ],
-      "duration_ms": 165520,
-      "name": "Dates In Pickup Trucks",
-      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
+      "duration_ms": 301986,
+      "name": "A Little Bit Stronger",
+      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1015,34 +1015,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
+        "name": "Dates In Pickup Trucks",
+        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
       },
       "artists": [
         {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 301986,
-      "name": "A Little Bit Stronger",
-      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Just Drive",
-        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 147693,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
+      "duration_ms": 165520,
+      "name": "Dates In Pickup Trucks",
+      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 173533,
       "name": "Never Til Now",
       "url": "https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 147693,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "duration_ms": 183736,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 146520,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb"
-      },
-      "artists": [
-        {
-          "name": "Hannah Ellis",
-          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
-        }
-      ],
-      "duration_ms": 183736,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "I Don't Believe We've Met",
+        "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Cry Pretty",
         "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Don't Believe We've Met",
-        "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
+        "name": "I Don't Go Back",
+        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
       },
       "artists": [
         {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 206826,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh"
+      "duration_ms": 200573,
+      "name": "I Don't Go Back",
+      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1499,22 +1515,6 @@
       "duration_ms": 208853,
       "name": "Watermelon Moonshine",
       "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "I Don't Go Back",
-        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "I Don't Go Back",
-      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
     },
     {
       "added_at": "2022-09-30 04:00:00",

@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-208 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+209 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Lá Vem os Homens](https://open.spotify.com/track/6h1C2xxnuSkmlERRD0AyYC) | [Rabo de Galo](https://open.spotify.com/artist/24ZoZillGXp904OBleohIj), [Ubunto](https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Ainda Atrás do Pôr do Sol](https://open.spotify.com/album/6LrYdWiPIT35E4wk11pPKd) | 3:56 | 2022-03-14 | 2022-07-20 |
 | [Maceió](https://open.spotify.com/track/30sg1pdAXLKpKvrrQOaF9z) | [Túlio](https://open.spotify.com/artist/1hQUeaDm4mZ5lMHlg82TiD) | [Maceió](https://open.spotify.com/album/7ePrwAIxXvhV9Id9Wia836) | 3:03 | 2022-02-04 | 2022-09-15 |
 | [Mais de Nós](https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Mais de Nós](https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC) | 2:54 | 2022-02-04 |  |
-| [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 | 2022-08-19 |  |
+| [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 | 2022-08-19 | 2022-10-05 |
 | [Mais uma de Carnaval](https://open.spotify.com/track/6k8PAIzeAC6wcyaptR2j1B) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [Mais uma de Carnaval](https://open.spotify.com/album/7m6keRuXSLhirRhf4PHQq3) | 2:50 | 2022-02-04 | 2022-07-27 |
 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 | 2022-02-04 |  |
 | [Masculino e Feminino](https://open.spotify.com/track/6VBHnaEuCH37LFsFjtdrTl) | [Baby Do Brasil](https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls), [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Masculino e Feminino](https://open.spotify.com/album/1Q39jXJ5DrFtBbim0HqxOb) | 4:21 | 2022-04-08 | 2022-07-25 |
@@ -128,6 +128,7 @@
 | [Minha Menina Bonita](https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A) | 3:58 | 2022-02-04 | 2022-07-29 |
 | [Miragem \(Sem Razão\)](https://open.spotify.com/track/3fBBXSsUH2MD43REllyCIo) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Xenia](https://open.spotify.com/album/0elgFvQyeueOn9Z3dbkA7b) | 3:51 | 2022-03-22 | 2022-04-16 |
 | [Mistério Stereo](https://open.spotify.com/track/503OjD3MWV3qFkKj769fte) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Japan Pop Show](https://open.spotify.com/album/69ltPvQJmyU3OZLyDHG032) | 4:07 | 2022-03-22 | 2022-04-21 |
+| [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 | 2022-09-06 |  |
 | [Morada Boa Featuring Nina Miranda](https://open.spotify.com/track/5x4KSfOm9Bc1ugelLYe4AG) | [3 Na Massa](https://open.spotify.com/artist/1swmzlKgFluITKhxSV9ixX) | [3 Na Massa](https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8) | 3:46 | 2022-03-22 | 2022-04-17 |
 | [Moça Vem Cá](https://open.spotify.com/track/1xVYmo2RtOWgENpW7YSAEK) | [Tom Karabachian](https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW) | [Moça Vem Cá](https://open.spotify.com/album/5Nb8vwGAJM6QmT5pCCc6kh) | 3:18 | 2022-02-04 | 2022-07-27 |
 | [Mulher Sem Razão](https://open.spotify.com/track/5EGaYaDIsqNn0caVrmnE5w) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Cazuza Exagerado](https://open.spotify.com/album/3awiXs3c4O3q7xoR2ohwOP) | 3:35 | 2022-03-22 | 2022-04-20 |

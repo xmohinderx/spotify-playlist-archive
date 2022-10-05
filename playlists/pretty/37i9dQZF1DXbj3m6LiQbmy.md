@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,697 likes - 73 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,701 likes - 73 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 23 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 |
 | 24 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 | 25 | [Cum \(feat\. Iggy Azalea\)](https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:42 |
-| 26 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
+| 26 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
 | 27 | [BANG](https://open.spotify.com/track/3JI2fFWxfepbkoLaYBHCJf) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [COBRAH](https://open.spotify.com/album/1MSVIDaDrvigdChfh3df4S) | 3:09 |
-| 28 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
+| 28 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
 | 29 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 |
 | 30 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
 | 31 | [Ogni pensiero vola](https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Magica Musica](https://open.spotify.com/album/4Pd36LZx3udvliJX2ukwAB) | 3:53 |
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 63 | [Bang](https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2) | 2:50 |
 | 64 | [Tropicanal](https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/0a5LE8ZiJ9TVEjEUt9hWwp) | 4:20 |
 | 65 | [XTC \(feat\. LA NIÑA & BigMama\)](https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:35 |
-| 66 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 |
-| 67 | [Tentami & Rubami](https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Discodelic Edits Vol.1](https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e) | 6:11 |
-| 68 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
+| 66 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
+| 67 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 |
+| 68 | [Tentami & Rubami](https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Discodelic Edits Vol.1](https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e) | 6:11 |
 | 69 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 |
 | 70 | [Insegnami la vita](https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F), [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Malcostume](https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN) | 3:58 |
 | 71 | [Dulce de Leche \(feat\. M¥SS KETA\) \- M¥SS KETA remix](https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Dulce de Leche \(feat\. M¥SS KETA\) \[M¥SS KETA remix\]](https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla) | 3:06 |
 | 72 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
 | 73 | [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDJmZGE2NWQ5MTg4NDI4Yjc2YjFiNWRjZmNiNzY3ZWE1`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDdiYWNjNjMwNjFjZWU3NDU2NGJlM2JmNjZjMTYyMTlm`

@@ -1,29 +1,13 @@
 {
   "description": "Slow burners for late nights.",
-  "num_followers": 785481,
+  "num_followers": 786144,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgwNTE2MiwwMDAwMDAwMDc1NjgyYTJmYzM5ZDUyMTNlZGJjOWY3MTQ5MWE5N2Y1",
+  "snapshot_id": "MTY2NDkwNjYxMywwMDAwMDAwMDllNTIzZDlmNGFjNTg0OGMzOGE2NTU1ZTFlZjhiYWNk",
   "tracks": [
-    {
-      "added_at": "2022-09-20 14:46:46",
-      "album": {
-        "name": "Between All Things",
-        "url": "https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX"
-      },
-      "artists": [
-        {
-          "name": "OHMA",
-          "url": "https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx"
-        }
-      ],
-      "duration_ms": 318378,
-      "name": "Between All Things",
-      "url": "https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL"
-    },
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
-      "added_at": "2022-10-04 02:02:35",
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "added_at": "2022-10-03 13:52:42",
       "album": {
         "name": "Euphoria (feat. Instupendo)",
         "url": "https://open.spotify.com/album/6eF8DpVcPMWCCU3Dcx7azj"
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "added_at": "2022-10-04 18:03:33",
+      "album": {
+        "name": "rest",
+        "url": "https://open.spotify.com/album/4FjESddwuVDtpbQGYVwxOV"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "duration_ms": 146152,
+      "name": "rest",
+      "url": "https://open.spotify.com/track/7jVIHU3PXfJOmMltbH6lGM"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "The Moon Song",
-        "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "The Moon Song",
-      "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "The Moon Song",
+        "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "The Moon Song",
+      "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "Cherry (Deluxe)",
-        "url": "https://open.spotify.com/album/6OqegZkCUq29CJarqL8trP"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 271952,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/4sRmzVSedvFkENbSJ342Ex"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Oh No / Liahr",
         "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "Cherry (Deluxe)",
+        "url": "https://open.spotify.com/album/6OqegZkCUq29CJarqL8trP"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 271952,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/4sRmzVSedvFkENbSJ342Ex"
     },
     {
       "added_at": "2022-09-19 17:18:26",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-19 17:18:26",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
-      },
-      "artists": [
-        {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "California",
-      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
-    },
-    {
-      "added_at": "2022-09-19 17:18:26",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 211626,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z"
+    },
+    {
+      "added_at": "2022-09-19 17:18:26",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
     },
     {
       "added_at": "2022-09-19 17:18:26",

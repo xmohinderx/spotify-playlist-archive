@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,008 songs - 2 day 11 hr 38 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+1,009 songs - 2 day 11 hr 41 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,8 @@
 | [No Lie \- Original Mix](https://open.spotify.com/track/1Gk2p8Ibd1RtOehIIk3oU0) | [DECLÖ](https://open.spotify.com/artist/4z8yS88SX62hfjVY7e1KBS), [EJ Rios](https://open.spotify.com/artist/06klc1RS6Hc8bmACHsbyfY), [Kayrae](https://open.spotify.com/artist/6EVFrk3v6tpfgsx2FCPM2E) | [No Lie](https://open.spotify.com/album/25v3uYuhJm2RhM3I3InN9e) | 4:42 | 2019-08-26 | 2020-10-30 |
 | [No More \(feat\. Brenda Mullen\) \- Bottai Edit](https://open.spotify.com/track/4Jwp3yjIQfudmjuctLQlfJ) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv), [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk) | [No More \(feat\. Brenda Mullen\) \[Bottai Edit\]](https://open.spotify.com/album/72KW8nIFEscnr5wwEQKVGS) | 3:20 | 2019-08-09\* | 2020-03-29 |
 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 | 2019-08-09\* | 2019-09-14 |
-| [Nobody \(feat\. PollyAnna\)](https://open.spotify.com/track/4cnwqSOuZfm9WeXATWmrYK) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:01 | 2022-09-16 |  |
+| [Nobody \(feat\. PollyAnna\)](https://open.spotify.com/track/4cnwqSOuZfm9WeXATWmrYK) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:01 | 2022-09-16 | 2022-10-05 |
+| [Nobody \(feat\. PollyAnna\)](https://open.spotify.com/track/6JVJveEV6OIdHNQ7byExRh) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:01 | 2022-09-30 |  |
 | [Nobody Compares To You \(feat\. Katie Pearlman\)](https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:51 | 2020-03-29 | 2021-09-11 |
 | [Nobody Compares To You \(feat\. Katie Pearlman\)](https://open.spotify.com/track/2Un9MGFwpGdGU9yl9KOvXx) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Gravity Pt\. 1](https://open.spotify.com/album/4VOj6KgAaOqAUS9bp6z6jp) | 3:51 | 2019-08-09\* | 2020-03-29 |
 | [Not Like Them](https://open.spotify.com/track/3YszuC9hP35EXZNAeAEiEq) | [DJ Mayson](https://open.spotify.com/artist/0yfPh6KmtnI0XLwu1oh1hP) | [Not Like Them](https://open.spotify.com/album/1xM9hGk3ltzwIsyFLQwI3v) | 3:41 | 2019-08-09\* | 2020-03-29 |

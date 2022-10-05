@@ -1,12 +1,12 @@
 {
   "description": "Al cien con los corridos \u00a1Para un buen ejercicio!",
-  "num_followers": 97695,
+  "num_followers": 97822,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg4MzQzNiwwMDAwMDAwMDY0OTQ5NWYxNmMwNDFmZDEzZjUwYjczOTM2NWMyMzEx",
+  "snapshot_id": "MTY1NDg4MzQzNiwwMDAwMDAwMGY5MDFmZWNmMThkMDU1YzFmNDU3NTExZDVlYzk1MmMz",
   "tracks": [
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
-        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Sigo Chambeando",
-      "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Summer School Mixtape, Vol. 1",
         "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 194002,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
+        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Sigo Chambeando",
+      "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "El Baleado",
-        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
+        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
       "artists": [
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 219264,
-      "name": "El Baleado",
-      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+      "duration_ms": 191880,
+      "name": "Ladeando (feat. Fuerza Regida)",
+      "url": "https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
-        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
+        "name": "El Baleado",
+        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 191880,
-      "name": "Ladeando (feat. Fuerza Regida)",
-      "url": "https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV"
+      "duration_ms": 219264,
+      "name": "El Baleado",
+      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1555,6 +1555,30 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
+        "name": "Los Mejores Corridos De",
+        "url": "https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        },
+        {
+          "name": "Escolta De Guerra",
+          "url": "https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl"
+        },
+        {
+          "name": "Jorge Santacruz",
+          "url": "https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "La Hummer Y El Camaro",
+      "url": "https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -1611,30 +1635,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Los Mejores Corridos De",
-        "url": "https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x"
-      },
-      "artists": [
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        },
-        {
-          "name": "Escolta De Guerra",
-          "url": "https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl"
-        },
-        {
-          "name": "Jorge Santacruz",
-          "url": "https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "La Hummer Y El Camaro",
-      "url": "https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Yo Fui El Elegante",
         "url": "https://open.spotify.com/album/17omlxcfJTA2Ep7gadbOZX"
       },
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "A Mis Enemigos",
+      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 161733,
       "name": "Bayo 17",
       "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "A Mis Enemigos",
-      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "Chingandole Macizo",
-      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Seguimos Avanzando",
         "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
       },
@@ -1795,38 +1779,6 @@
       "duration_ms": 189431,
       "name": "Soy Alegre",
       "url": "https://open.spotify.com/track/16WS0oVYnZMpl9ePTof7eH"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "300 Locos - En Vivo",
-      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 184199,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1847,6 +1799,54 @@
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "Chingandole Macizo",
+      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 184199,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "300 Locos - En Vivo",
+      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Por La Baja Navegamos",
-      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Seguimos M\u00e1s Fuertes",
         "url": "https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP"
       },
@@ -1951,6 +1935,38 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Por La Baja Navegamos",
+      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "El Cuestionario",
+        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "El Cuestionario",
+      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1999,22 +2015,6 @@
       "duration_ms": 147466,
       "name": "Ando Bien Al Tiro",
       "url": "https://open.spotify.com/track/4CxU88d7ZT6op81SOYlrOg"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "El Cuestionario",
-        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Soy Mencho",
-      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 156920,
       "name": "El Centenario",
       "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Soy Mencho",
+      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2243,18 +2243,18 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+        "name": "50 Corridones",
+        "url": "https://open.spotify.com/album/2aZsNDl00gVYcOfdy1hLf5"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 237826,
-      "name": "La Ultima Sombra",
-      "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
+      "duration_ms": 211173,
+      "name": "El Chino Piloto",
+      "url": "https://open.spotify.com/track/6HL4B6ogVUeovbei4XUcrn"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2279,34 +2279,18 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 198062,
-      "name": "El Famoso Chino Antrax",
-      "url": "https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "50 Corridones",
-        "url": "https://open.spotify.com/album/2aZsNDl00gVYcOfdy1hLf5"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "El Chino Piloto",
-      "url": "https://open.spotify.com/track/6HL4B6ogVUeovbei4XUcrn"
+      "duration_ms": 237826,
+      "name": "La Ultima Sombra",
+      "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2327,6 +2311,22 @@
       "duration_ms": 271346,
       "name": "El Nini",
       "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 198062,
+      "name": "El Famoso Chino Antrax",
+      "url": "https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
+        "name": "Billetes Verdes",
+        "url": "https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 140954,
+      "name": "Billetes Verdes",
+      "url": "https://open.spotify.com/track/7GUvguaB0Ltzva87xgSpVv"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
         "name": "Mi Nueva Familia",
         "url": "https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL"
       },
@@ -2703,22 +2719,6 @@
       "duration_ms": 191200,
       "name": "Cosas Cambiaron",
       "url": "https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "Billetes Verdes",
-        "url": "https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 140954,
-      "name": "Billetes Verdes",
-      "url": "https://open.spotify.com/track/7GUvguaB0Ltzva87xgSpVv"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -3003,26 +3003,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Al Frente y de Frente",
-        "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
-      },
-      "artists": [
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "El Comando del Diablo",
-      "url": "https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "La Supremac\u00eda",
         "url": "https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW"
       },
@@ -3051,6 +3031,26 @@
       "duration_ms": 199471,
       "name": "El Cigarrito Banado",
       "url": "https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Al Frente y de Frente",
+        "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "El Comando del Diablo",
+      "url": "https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Sigue Siendo Diferente",
-        "url": "https://open.spotify.com/album/32FleWdeEFYyvit5Vr09uC"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 123295,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/5ZK7bRkxNbU8F9w2LNk2AW"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "El Nino De La Tuna",
         "url": "https://open.spotify.com/album/2pga97tsZosoiHW5y9Mtco"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 216746,
       "name": "El Ni\u00f1o De La Tuna",
       "url": "https://open.spotify.com/track/6FooQEHlzu2d38aZ9SjJvV"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Sigue Siendo Diferente",
+        "url": "https://open.spotify.com/album/32FleWdeEFYyvit5Vr09uC"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 123295,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/5ZK7bRkxNbU8F9w2LNk2AW"
     },
     {
       "added_at": "2022-06-10 17:50:36",

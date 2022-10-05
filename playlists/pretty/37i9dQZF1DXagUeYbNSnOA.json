@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Lucas Hill on cover.",
-  "num_followers": 167013,
+  "num_followers": 167011,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM4MDgwMCwwMDAwMDAwMGMwYzIzZjMzZmU0OTZiN2ZmZmRlZDA2NjFjMjNlYTcx",
+  "snapshot_id": "MTY2NDM4MDgwMCwwMDAwMDAwMDcwZjczNDk0YWJiNmFmZmYzNmVjZWM1YTYwMmUzZjE1",
   "tracks": [
     {
       "added_at": "2022-09-28 16:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
+        "name": "Perico",
+        "url": "https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "Perico",
+      "url": "https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
         "name": "Lo Que Dijimos",
         "url": "https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 236369,
       "name": "Lo Que Dijimos",
       "url": "https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "ALCOHOL",
-        "url": "https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla"
-      },
-      "artists": [
-        {
-          "name": "Valeria Cid",
-          "url": "https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U"
-        }
-      ],
-      "duration_ms": 172485,
-      "name": "ALCOHOL",
-      "url": "https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a"
     },
     {
       "added_at": "2022-09-28 16:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
-        "name": "Perico",
-        "url": "https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca"
+        "name": "ALCOHOL",
+        "url": "https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla"
       },
       "artists": [
         {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+          "name": "Valeria Cid",
+          "url": "https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U"
         }
       ],
-      "duration_ms": 204852,
-      "name": "Perico",
-      "url": "https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK"
+      "duration_ms": 172485,
+      "name": "ALCOHOL",
+      "url": "https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a"
     },
     {
       "added_at": "2022-09-28 16:00:00",
@@ -591,6 +591,22 @@
       "duration_ms": 271173,
       "name": "Tobog\u00e1n Amarillo",
       "url": "https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Respirar de Nuevo",
+        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
+      },
+      "artists": [
+        {
+          "name": "Margarita Pla",
+          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
+        }
+      ],
+      "duration_ms": 273511,
+      "name": "No Te Acerques Tanto a M\u00ed",
+      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
     },
     {
       "added_at": "2022-09-28 16:00:00",
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
-        "name": "Respirar de Nuevo",
-        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
-      },
-      "artists": [
-        {
-          "name": "Margarita Pla",
-          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
-        }
-      ],
-      "duration_ms": 273511,
-      "name": "No Te Acerques Tanto a M\u00ed",
-      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/60AcpZ3D5zf3YgKq8iMOXn"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n"
-      },
-      "artists": [
-        {
-          "name": "Laika en el Espacio",
-          "url": "https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq"
-        }
-      ],
-      "duration_ms": 274556,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
         "name": "Not Enough to Scare",
         "url": "https://open.spotify.com/album/3OLhDYo85CVIBiWHRoUBSQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 186259,
       "name": "Not Enough to Scare",
       "url": "https://open.spotify.com/track/4AEJXq5RulkMNOehorEuti"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6C9sxTDbykhDr1bnvTQd7n"
+      },
+      "artists": [
+        {
+          "name": "Laika en el Espacio",
+          "url": "https://open.spotify.com/artist/64CKudlmiXZdIbHf0SJayq"
+        }
+      ],
+      "duration_ms": 274556,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1wH59WhB5Uqmx3VVvzVCHH"
     },
     {
       "added_at": "2022-09-28 16:00:00",
@@ -703,86 +703,6 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
-        "name": "Re\u00edte",
-        "url": "https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q"
-      },
-      "artists": [
-        {
-          "name": "MOGUE",
-          "url": "https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx"
-        }
-      ],
-      "duration_ms": 217589,
-      "name": "Re\u00edte",
-      "url": "https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Chicomiel",
-        "url": "https://open.spotify.com/album/6X6DJXkpN2vkZRS6OMmalu"
-      },
-      "artists": [
-        {
-          "name": "Apollo No Te Vayas",
-          "url": "https://open.spotify.com/artist/2EcTh9qrj4sDwdZCVQ55oW"
-        }
-      ],
-      "duration_ms": 212785,
-      "name": "Chicomiel",
-      "url": "https://open.spotify.com/track/4pdl1r8KGscHXTarQzP0it"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Un poco m\u00e1s de lo normal",
-        "url": "https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj"
-      },
-      "artists": [
-        {
-          "name": "El Espacio Interior",
-          "url": "https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b"
-        }
-      ],
-      "duration_ms": 178922,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "De Todo Lo Que Fui.",
-        "url": "https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je"
-      },
-      "artists": [
-        {
-          "name": "Iconauta",
-          "url": "https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL"
-        }
-      ],
-      "duration_ms": 281201,
-      "name": "De Todo Lo Que Fui.",
-      "url": "https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Piedra Angular",
-        "url": "https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N"
-      },
-      "artists": [
-        {
-          "name": "Fe Baca",
-          "url": "https://open.spotify.com/artist/5SndtmBMtH0QTixMMM8l2z"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Piedra Angular",
-      "url": "https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
         "name": "Girasoles al Oleo",
         "url": "https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d"
       },
@@ -803,18 +723,82 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
-        "name": "Cambio",
-        "url": "https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6"
+        "name": "Chicomiel",
+        "url": "https://open.spotify.com/album/6X6DJXkpN2vkZRS6OMmalu"
       },
       "artists": [
         {
-          "name": "Sara Acero",
-          "url": "https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3"
+          "name": "Apollo No Te Vayas",
+          "url": "https://open.spotify.com/artist/2EcTh9qrj4sDwdZCVQ55oW"
         }
       ],
-      "duration_ms": 221182,
-      "name": "Cambio",
-      "url": "https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw"
+      "duration_ms": 212785,
+      "name": "Chicomiel",
+      "url": "https://open.spotify.com/track/4pdl1r8KGscHXTarQzP0it"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Re\u00edte",
+        "url": "https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q"
+      },
+      "artists": [
+        {
+          "name": "MOGUE",
+          "url": "https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx"
+        }
+      ],
+      "duration_ms": 217589,
+      "name": "Re\u00edte",
+      "url": "https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "De Todo Lo Que Fui.",
+        "url": "https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je"
+      },
+      "artists": [
+        {
+          "name": "Iconauta",
+          "url": "https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL"
+        }
+      ],
+      "duration_ms": 281201,
+      "name": "De Todo Lo Que Fui.",
+      "url": "https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Un poco m\u00e1s de lo normal",
+        "url": "https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj"
+      },
+      "artists": [
+        {
+          "name": "El Espacio Interior",
+          "url": "https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b"
+        }
+      ],
+      "duration_ms": 178922,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Piedra Angular",
+        "url": "https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N"
+      },
+      "artists": [
+        {
+          "name": "Fe Baca",
+          "url": "https://open.spotify.com/artist/5SndtmBMtH0QTixMMM8l2z"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Piedra Angular",
+      "url": "https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL"
     },
     {
       "added_at": "2022-09-28 16:00:00",
@@ -831,6 +815,22 @@
       "duration_ms": 284518,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/6STwMaFymWBAZo2qbgT5uG"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Cambio",
+        "url": "https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6"
+      },
+      "artists": [
+        {
+          "name": "Sara Acero",
+          "url": "https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3"
+        }
+      ],
+      "duration_ms": 221182,
+      "name": "Cambio",
+      "url": "https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw"
     },
     {
       "added_at": "2022-09-28 16:00:00",

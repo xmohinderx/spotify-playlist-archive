@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: LCD Soundsystem
 
-1,251 songs - 3 day 2 hr 47 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,252 songs - 3 day 2 hr 50 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 | 2022-06-17 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Home](https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy) | 2:36 | 2019-10-19 | 2020-02-28 |
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-06-03 | 2022-07-21 |
-| [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 | 2022-09-16 | 2022-10-01 |
+| [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 | 2022-09-16 |  |
 | [Home Maker](https://open.spotify.com/track/5vGZX134ZZktjCEYoDm462) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 5:02 | 2022-09-16 | 2022-09-27 |
 | [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-24 |  |
 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 | 2020-07-24 | 2021-08-15 |
@@ -674,6 +674,7 @@
 | [Lucky Sue](https://open.spotify.com/track/4lAfXpZKFDEudiEzLB9uHm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Lucky Sue](https://open.spotify.com/album/3TDSB1jzPg95A3JG555CA3) | 3:40 | 2020-10-13 | 2021-07-30 |
 | [lucy](https://open.spotify.com/track/0api41GfHCbdAsDyO3R7TL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [lucy](https://open.spotify.com/album/1Q0MRKHYaHJiZqa1JdswCA) | 4:56 | 2019-09-27 | 2020-01-10 |
 | [Lullaby](https://open.spotify.com/track/1fTvkU6kdBi5PIvljWboKt) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Lullaby](https://open.spotify.com/album/0HFd1xKLpmy4Lk6H9YdBdc) | 3:06 | 2022-04-14 | 2022-07-01 |
+| [Luna Moth](https://open.spotify.com/track/2UqdJ97NrOsUgbEzeiyAlL) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Luna Moth](https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8) | 3:24 | 2022-09-30 |  |
 | [Lunchtime](https://open.spotify.com/track/6N62tx63qPmn4KvXJszqgr) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lunchtime](https://open.spotify.com/album/2CMjz9lnTrLQAecRlZZiL9) | 3:18 | 2021-10-14 | 2022-06-24 |
 | [Maeve](https://open.spotify.com/track/51MWWouyvwSN74TucuMvmF) | [Indigo](https://open.spotify.com/artist/6iPag3KNgZKw56EnjCzcv4) | [Oh Dear](https://open.spotify.com/album/6R2Qcv3W3G4OSocg8WPIMW) | 3:48 | 2022-04-29 | 2022-07-25 |
 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 | 2022-03-03 | 2022-04-19 |
@@ -762,7 +763,7 @@
 | [Nobody](https://open.spotify.com/track/42EMSKPgulAzr4RLY65Eut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:32 | 2019-05-26\* | 2019-08-13 |
 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 | 2021-03-11 | 2021-05-27 |
 | [Nobody's Fault](https://open.spotify.com/track/0ribL5IffcrNLjJ2Xy5PFp) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Nobody's Fault](https://open.spotify.com/album/7MXiNnljNmXyGNcGgKgpOZ) | 3:22 | 2021-01-30 | 2021-05-22 |
-| [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 | 2022-09-16 |  |
+| [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 | 2022-09-16 | 2022-10-05 |
 | [Not \- Edit](https://open.spotify.com/track/2reSrhID8BC9HpM2CkT3hT) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Not](https://open.spotify.com/album/3ALSulFtUMsitIR02vuedW) | 3:52 | 2019-08-30 | 2019-09-21 |
 | [Not Around](https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Not Around](https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX) | 2:40 | 2021-02-22 | 2021-05-21 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-04-20 | 2022-04-07 |
@@ -1225,7 +1226,7 @@
 | [Window](https://open.spotify.com/track/3uTs3FopDp2M8oG4HpqtBh) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Window](https://open.spotify.com/album/4WdDyijYvAB6H5RIZTnCVj) | 2:58 | 2022-06-03 | 2022-07-28 |
 | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/track/0OSXUt035Kkf1wFsmy33jX) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/album/3iXCkfY0J6eZJsE1jOlhcT) | 3:05 | 2021-09-02 | 2022-04-09 |
 | [Wisdom Tooth](https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Wisdom Tooth](https://open.spotify.com/album/2jYjKxGdqTg4kiz8MTLmd5) | 2:36 | 2021-12-02 | 2022-03-27 |
-| [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-09-16 |  |
+| [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-09-16 | 2022-10-05 |
 | [Witching Hour](https://open.spotify.com/track/45sbqogvDC5RYRyIw84mgY) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Witching Hour](https://open.spotify.com/album/5S2NITOvsKgmkOP4RYEzkm) | 3:13 | 2020-03-21 | 2020-06-12 |
 | [Without You](https://open.spotify.com/track/2SPxgEush9C8GS5RqgXdqi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/6daEdTBi1hyFQgmsnR7oRr) | 2:35 | 2020-06-12 | 2021-04-20 |
 | [Woah Man](https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Woah Man](https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp) | 3:28 | 2021-04-20 | 2022-04-05 |

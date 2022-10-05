@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-726 songs - 1 day 9 hr 4 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+727 songs - 1 day 9 hr 8 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 | 2022-06-24 |  |
 | [9 LIVES](https://open.spotify.com/track/6TaVVKTOoqtz7DxXdh6rjs) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [9 LIVES](https://open.spotify.com/album/0Eihtu2YGxdk3wxzlOdgUO) | 2:26 | 2021-07-10 | 2022-04-20 |
 | [A FALLEN \*star\*](https://open.spotify.com/track/7KWS7lQc8XpBMF6wLFIluY) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [A FALLEN \*star\*](https://open.spotify.com/album/2JkjQaaKHWya00aWpMLy0z) | 2:23 | 2022-05-06 | 2022-07-20 |
+| [A Place For Us](https://open.spotify.com/track/5XQkLMeRBFzb8zq3Gkr23N) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [A Place For Us](https://open.spotify.com/album/4lznvxisVJ1fTu5EaxxrKu) | 3:14 | 2022-09-30 |  |
 | [Adrenaline](https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Adrenaline](https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b) | 2:26 | 2022-07-08 | 2022-07-11 |
 | [Affection](https://open.spotify.com/track/5vjiqtNIdW5SoAvwZuTrdd) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Zombie Boy](https://open.spotify.com/album/18kasz8LsMuzuSFBG9pR2J) | 3:44 | 2021-10-22 | 2022-04-11 |
 | [Afraid Of Love!](https://open.spotify.com/track/33swds4c8z7IhLNLEbsc1U) | [Y3NO](https://open.spotify.com/artist/3U0KAvNPfTiVrEDWMDPgbu), [Mario Judah](https://open.spotify.com/artist/5HFSWl4JPwju06kHxukvTe) | [Afraid Of Love!](https://open.spotify.com/album/2zQqYkHb209k0uNiNYurqm) | 2:35 | 2022-01-28 | 2022-03-02 |
@@ -241,7 +242,7 @@
 | [FUCKED OVER \(feat\. phem and Tosh the Drummer\)](https://open.spotify.com/track/4A7EvacZyKyi97mvt8ARf0) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Tosh the Drummer](https://open.spotify.com/artist/4UtLdjkUvG4AROVpFXaIhq) | [FUCKED OVER \(feat\. phem and Tosh the Drummer\)](https://open.spotify.com/album/1tN0QtmPuVWD07Nty0UXG5) | 2:44 | 2022-02-18 | 2022-07-29 |
 | [FUCKED UP](https://open.spotify.com/track/0rxYnFX28INtcfvVZCOLRk) | [Jaden Rayne](https://open.spotify.com/artist/1bvZBuGGqoYRIFyr2eExa7) | [FUCKED UP](https://open.spotify.com/album/4z2DsNUYNLYWqB7mcpIFSr) | 2:31 | 2021-06-12 | 2022-05-01 |
 | [FUXK \(feat\. Ski Mask the Slump God\)](https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:40 | 2022-06-17 | 2022-06-25 |
-| [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 | 2022-04-08 |  |
+| [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 | 2022-04-08 | 2022-10-05 |
 | [G n T](https://open.spotify.com/track/7bI1ljBRkTLgQExzKRcwdY) | [Lucid Kidd](https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN) | [G n T](https://open.spotify.com/album/15d8bNkv39geOBFQDBRoVF) | 3:25 | 2022-03-25 | 2022-04-21 |
 | [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 | 2022-07-29 |
 | [Ghost Rider](https://open.spotify.com/track/3xXkIxNwHu4aP6VUtGKJc0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Ghost Rider](https://open.spotify.com/album/2X9G26ucxdZzrpVOj72rtO) | 4:00 | 2021-06-12 | 2022-03-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 35269,
+  "num_followers": 35310,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDNkMWNlZDJmMDk5ZWJiZmM5MDAxNTA0NDE1ZWQzYjI2",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDFkY2EyNWQxZGQyNThmNzQ2NTI5NWZkMjhmOWY5NDUw",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/4IfjnNG3AA8ZIlYBSWiHyt"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Kasumi",
+        "url": "https://open.spotify.com/album/7x3EOysjR2aZfJ1YC19cT9"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Laubrock",
+          "url": "https://open.spotify.com/artist/4n3p3rphFq8JTS80phtOS0"
+        },
+        {
+          "name": "Aki Takase",
+          "url": "https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM"
+        }
+      ],
+      "duration_ms": 122142,
+      "name": "Kasumi",
+      "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Feeding the Machine",
@@ -107,26 +127,6 @@
       "duration_ms": 736600,
       "name": "Refuge - Rudy Van Gelder Edition/1999 Remaster",
       "url": "https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Kasumi",
-        "url": "https://open.spotify.com/album/7x3EOysjR2aZfJ1YC19cT9"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Laubrock",
-          "url": "https://open.spotify.com/artist/4n3p3rphFq8JTS80phtOS0"
-        },
-        {
-          "name": "Aki Takase",
-          "url": "https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM"
-        }
-      ],
-      "duration_ms": 122142,
-      "name": "Kasumi",
-      "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "It's Time",
@@ -267,6 +251,22 @@
       "duration_ms": 369172,
       "name": "Dub Ting",
       "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji"
+      },
+      "artists": [
+        {
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -477,6 +477,30 @@
       "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Lebroba",
+        "url": "https://open.spotify.com/album/66E7lHOxjQyIjtx5P9EYHQ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Cyrille",
+          "url": "https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50"
+        },
+        {
+          "name": "Wadada Leo Smith",
+          "url": "https://open.spotify.com/artist/1eE9oB7Z69NzfALiUJYKUm"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 344453,
+      "name": "Lebroba",
+      "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Lift Up My Eyes",
@@ -511,26 +535,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Lebroba",
-        "url": "https://open.spotify.com/album/66E7lHOxjQyIjtx5P9EYHQ"
+        "name": "The Piano Equation",
+        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
       },
       "artists": [
         {
-          "name": "Andrew Cyrille",
-          "url": "https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50"
-        },
-        {
-          "name": "Wadada Leo Smith",
-          "url": "https://open.spotify.com/artist/1eE9oB7Z69NzfALiUJYKUm"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
         }
       ],
-      "duration_ms": 344453,
-      "name": "Lebroba",
-      "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
+      "duration_ms": 314786,
+      "name": "Piano Equation",
+      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
     },
     {
       "added_at": "2020-10-23 19:03:00",
@@ -547,22 +563,6 @@
       "duration_ms": 221520,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "The Piano Equation",
-        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        }
-      ],
-      "duration_ms": 314786,
-      "name": "Piano Equation",
-      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -605,6 +605,46 @@
       "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
     },
     {
+      "added_at": "2020-10-02 04:02:00",
+      "album": {
+        "name": "On Common Ground",
+        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
+      },
+      "artists": [
+        {
+          "name": "Mike Sopko",
+          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
+        },
+        {
+          "name": "Bill Laswell",
+          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
+        },
+        {
+          "name": "Tyshawn Sorey",
+          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
+        }
+      ],
+      "duration_ms": 476000,
+      "name": "Equation",
+      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Argonautica",
+        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
+      },
+      "artists": [
+        {
+          "name": "Nate Wooley",
+          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+        }
+      ],
+      "duration_ms": 2573175,
+      "name": "Argonautica",
+      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Translinear Light",
@@ -637,28 +677,20 @@
       "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
     },
     {
-      "added_at": "2020-10-02 04:02:00",
+      "added_at": "2021-12-03 05:02:00",
       "album": {
-        "name": "On Common Ground",
-        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
+        "name": "In The Moment (The Music of Charlie Haden)",
+        "url": "https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs"
       },
       "artists": [
         {
-          "name": "Mike Sopko",
-          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
-        },
-        {
-          "name": "Bill Laswell",
-          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
-        },
-        {
-          "name": "Tyshawn Sorey",
-          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
+          "name": "Rope",
+          "url": "https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO"
         }
       ],
-      "duration_ms": 476000,
-      "name": "Equation",
-      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+      "duration_ms": 214201,
+      "name": "Fiasco : In the Moment",
+      "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -691,38 +723,6 @@
       "duration_ms": 334762,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Argonautica",
-        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
-      },
-      "artists": [
-        {
-          "name": "Nate Wooley",
-          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
-        }
-      ],
-      "duration_ms": 2573175,
-      "name": "Argonautica",
-      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
-    },
-    {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
-        "name": "In The Moment (The Music of Charlie Haden)",
-        "url": "https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs"
-      },
-      "artists": [
-        {
-          "name": "Rope",
-          "url": "https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO"
-        }
-      ],
-      "duration_ms": 214201,
-      "name": "Fiasco : In the Moment",
-      "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Alexander Hawkins Trio",
-        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
-      },
-      "artists": [
-        {
-          "name": "Alexander Hawkins",
-          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
-        }
-      ],
-      "duration_ms": 329760,
-      "name": "One Tree Found",
-      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
-    },
-    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Playing Retention",
@@ -863,6 +847,22 @@
       "duration_ms": 458760,
       "name": "Playing Retention",
       "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Alexander Hawkins Trio",
+        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
+      },
+      "artists": [
+        {
+          "name": "Alexander Hawkins",
+          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
+        }
+      ],
+      "duration_ms": 329760,
+      "name": "One Tree Found",
+      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -909,28 +909,32 @@
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2021-01-29 05:01:00",
       "album": {
-        "name": "Morph",
-        "url": "https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe"
+        "name": "Ars Transmutatoria Bleu",
+        "url": "https://open.spotify.com/album/7JN9wfjViqGbhNXLDoQHIB"
       },
       "artists": [
         {
-          "name": "Whit Dickey",
-          "url": "https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo"
+          "name": "Michel Lambert",
+          "url": "https://open.spotify.com/artist/6wFJMSmNda7ijEwiKkEinm"
         },
         {
-          "name": "Nate Wooley",
-          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+          "name": "Adrian Northover",
+          "url": "https://open.spotify.com/artist/6tvX3XArnkloqYWpKpfipR"
         },
         {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+          "name": "Susanna Ferrar",
+          "url": "https://open.spotify.com/artist/41czcSnPZdIJlkGfkYcfm3"
+        },
+        {
+          "name": "Hyelim Kim",
+          "url": "https://open.spotify.com/artist/5Pct3KTj2tVIwsBu6Vtxeq"
         }
       ],
-      "duration_ms": 210440,
-      "name": "Blue Threads",
-      "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
+      "duration_ms": 335256,
+      "name": "Haie d'eau II",
+      "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -965,32 +969,20 @@
       "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
+      "added_at": "2021-09-10 04:02:00",
       "album": {
-        "name": "Ars Transmutatoria Bleu",
-        "url": "https://open.spotify.com/album/7JN9wfjViqGbhNXLDoQHIB"
+        "name": "WW5",
+        "url": "https://open.spotify.com/album/0qVI7QwNJP1IyuOd3UplfI"
       },
       "artists": [
         {
-          "name": "Michel Lambert",
-          "url": "https://open.spotify.com/artist/6wFJMSmNda7ijEwiKkEinm"
-        },
-        {
-          "name": "Adrian Northover",
-          "url": "https://open.spotify.com/artist/6tvX3XArnkloqYWpKpfipR"
-        },
-        {
-          "name": "Susanna Ferrar",
-          "url": "https://open.spotify.com/artist/41czcSnPZdIJlkGfkYcfm3"
-        },
-        {
-          "name": "Hyelim Kim",
-          "url": "https://open.spotify.com/artist/5Pct3KTj2tVIwsBu6Vtxeq"
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
         }
       ],
-      "duration_ms": 335256,
-      "name": "Haie d'eau II",
-      "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
+      "duration_ms": 105358,
+      "name": "WW5",
+      "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"
     }
   ],
   "unique_name": "Avant-Jazz",

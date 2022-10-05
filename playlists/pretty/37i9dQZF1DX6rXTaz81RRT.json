@@ -1,12 +1,12 @@
 {
   "description": "Formas musicales de decir \"Te quiero\".",
-  "num_followers": 304197,
+  "num_followers": 304254,
   "original_name": "Te quiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk4NTQzNSwwMDAwMDAwMDUwZGY1NGUxMDg1Mjc0YmYwMTJhNmVlMDEyZmY3OTQx",
+  "snapshot_id": "MTY1OTk4NTQzNSwwMDAwMDAwMDE0YjE0NWYxNmUwOWY4MjMzOTcwYzFlYmU1NTY4NTYx",
   "tracks": [
     {
       "added_at": "2021-02-12 18:11:45",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 218013,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 199733,
       "name": "No Hay Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2"
+        "name": "Faster Than the Speed of Night",
+        "url": "https://open.spotify.com/album/5xVl7f6gxGQirFev8WsNzY"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 154435,
-      "name": "How Long Will I Love You - Bonus Track",
-      "url": "https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG"
+      "duration_ms": 418000,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/1VrfLrBviw9A6JzRoo3t2C"
     }
   ],
   "unique_name": "Te quiero",

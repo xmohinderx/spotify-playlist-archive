@@ -4,7 +4,7 @@
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-210 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/5wox3oqTyq5tKxLClFEbq5)
+211 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/5wox3oqTyq5tKxLClFEbq5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Farewell](https://open.spotify.com/track/7HGOZac4VHXnWXWuvMniTv) | [Boris](https://open.spotify.com/artist/7tuPytonFlywSkxbzeu4st) | [Pink \(Deluxe Edition\)](https://open.spotify.com/album/2rRHqBhUioCssa9VHMRJYO) | 7:33 | 2020-10-29\* | 2022-07-29 |
 | [Feed Me with Your Kiss](https://open.spotify.com/track/3yRVw6tj1WBOXVwfLkWH9q) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:54 | 2021-04-01 |  |
 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 | 2020-10-29\* |  |
-| [For the Kill](https://open.spotify.com/track/6n4EF6OuD5aQNJepCcL976) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/3rUYZo5bOuJAzr4JLXkR86) | 3:28 | 2021-06-03 |  |
+| [For the Kill](https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS) | 3:28 | 2021-06-03 |  |
+| [For the Kill](https://open.spotify.com/track/6n4EF6OuD5aQNJepCcL976) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/3rUYZo5bOuJAzr4JLXkR86) | 3:28 | 2021-06-03 | 2022-10-05 |
 | [For the Kill](https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb) | 3:28 | 2020-10-29\* | 2022-07-29 |
 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 | 2020-10-29\* |  |
 | [Guilt](https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:13 | 2020-10-29\* |  |

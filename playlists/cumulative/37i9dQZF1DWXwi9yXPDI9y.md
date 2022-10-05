@@ -4,7 +4,7 @@
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-133 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
+134 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 | 2022-05-12 |  |
 | [All The Things You Are](https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ella Fitzgerald Sings The Jerome Kern Songbook](https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx) | 3:15 | 2022-05-12 | 2022-09-01 |
 | [Am I Blue \- 2002 Remastered Version](https://open.spotify.com/track/4fsy4vmnBzaMCCiwwR1lbm) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [You Go to My Head](https://open.spotify.com/album/3jS4WfSWVPTLNP8DfGwkrC) | 2:49 | 2022-05-12 | 2022-07-29 |
-| [Am I Blue? \- Take 2](https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:44 | 2022-06-29 |  |
+| [Am I Blue? \- Take 2](https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:44 | 2022-06-29 | 2022-10-05 |
 | [Angel Eyes](https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Angel Eyes](https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW) | 8:48 | 2022-05-12 |  |
 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 | 2022-05-12 |  |
 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2022-05-12 |  |
@@ -79,6 +79,7 @@
 | [Make The Man Love Me](https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 5:35 | 2022-05-12 |  |
 | [Mood Indigo](https://open.spotify.com/track/3Rj7kRvHalEVPPNDc9SeY3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:27 | 2022-09-15 |  |
 | [Moonglow](https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:56 | 2022-05-12 |  |
+| [My Funny Valentine](https://open.spotify.com/track/1IZc3qoaLTUY5pGiygza3h) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [After Glow](https://open.spotify.com/album/6ip7LJNKry1lGgpfklpxFC) | 4:20 | 2022-09-28 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 | 2022-05-12 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/5o0WOGxd44mWbocCkyc0uH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:28 | 2022-05-12 | 2022-09-01 |
 | [My Old Flame](https://open.spotify.com/track/4LDLidKf0DGFRVjYEp4K4h) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 4:55 | 2022-05-12 | 2022-09-22 |

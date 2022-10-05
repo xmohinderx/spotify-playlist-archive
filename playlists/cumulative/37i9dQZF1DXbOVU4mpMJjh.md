@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-407 songs - 1 day 9 hr 57 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+408 songs - 1 day 10 hr 1 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-06-30 |  |
 | [Easy Living](https://open.spotify.com/track/78RAfPGFpTUqnPSTV0LcmT) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/79jNUOF7HaumY5JoP3TpVr) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 | 2022-04-14 | 2022-07-29 |
-| [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-30 |  |
+| [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-30 | 2022-10-05 |
 | [Enlightenment](https://open.spotify.com/track/0q4SJUYOp0Er9fvREdDyDv) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Sound Sun Pleasure](https://open.spotify.com/album/0KGHyCya07zjceVwQ33O7x) | 5:05 | 2022-04-14 | 2022-04-27 |
 | [Eronel](https://open.spotify.com/track/1um3T5M9KAgWLDQk0IUzhh) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Un musicien \- Une histoire](https://open.spotify.com/album/4KRfiGU514jIczyXkQ4KK6) | 4:30 | 2022-04-14 | 2022-07-29 |
 | [Eronel](https://open.spotify.com/track/67tnJf77mVKMIOVcR1SQ2F) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 4:30 | 2022-06-30 |  |
@@ -207,6 +207,7 @@
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2022-04-14 | 2022-04-27 |
 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-06-22 |  |
+| [Lilys Dream](https://open.spotify.com/track/11ioiRZhEqWruR1IqAvqqd) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Lilys Dream](https://open.spotify.com/album/4ZaYVPKddgyIcoPBLQqJsa) | 3:29 | 2022-09-29 |  |
 | [Little Paradise](https://open.spotify.com/track/0eyAeKA9YPiuzsgm2fiYIp) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Little Paradise](https://open.spotify.com/album/4F829opFHrnJRKD4ozNcq5) | 4:59 | 2022-04-14 | 2022-06-09 |
 | [Lock and Key](https://open.spotify.com/track/4OwHfJGfIGluHa3pi7nwlM) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 5:18 | 2022-04-14 | 2022-09-16 |
 | [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 |  |

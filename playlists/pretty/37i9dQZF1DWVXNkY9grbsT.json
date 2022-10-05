@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 27825,
+  "num_followers": 27853,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MDYyOCwwMDAwMDAwMDE2YTVjOTJjZWI3MDMyYzk1ZTRiMjhiZGMxNjMwNzg5",
+  "snapshot_id": "MTY2NDU2MDYyOCwwMDAwMDAwMGYyNDA4M2JkN2RlNmFiYjg2NTA3YjRjMDFhNjBiN2U0",
   "tracks": [
     {
       "added_at": "2022-09-20 15:51:44",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Hello Planta",
-        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 128274,
-      "name": "Hello Planta",
-      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "Fight! Fight! Fight!",
         "url": "https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 203146,
       "name": "You Ain't Down",
       "url": "https://open.spotify.com/track/29sHG2nNKkqOPAlBGiTMn8"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "Hello Planta",
+        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 128274,
+      "name": "Hello Planta",
+      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -471,6 +471,26 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
+      },
+      "artists": [
+        {
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        },
+        {
+          "name": "Dawncall",
+          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
+        }
+      ],
+      "duration_ms": 259310,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
-      },
-      "artists": [
-        {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        },
-        {
-          "name": "Dawncall",
-          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
-        }
-      ],
-      "duration_ms": 259310,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Portico",
-        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 402333,
-      "name": "Portico",
-      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "Pelikan (Aukai Rework)",
         "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "Portico",
+        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 402333,
+      "name": "Portico",
+      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
         "name": "Consumed In Key",
         "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 517000,
       "name": "Locomotion (In Key)",
       "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        },
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 278174,
+      "name": "Sine Waves",
+      "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
         "name": "Never The Right Time",
         "url": "https://open.spotify.com/album/3DuVru3YXCKfrNajnEUlVR"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 152213,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/0IDPhTfvkEDP9EgK5JummQ"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
-      },
-      "artists": [
-        {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
-        },
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 278174,
-      "name": "Sine Waves",
-      "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/3CnXVFKUwgYWZuH6KmlTsv"
     },
     {
+      "added_at": "2022-10-05 01:28:25",
+      "album": {
+        "name": "05-10",
+        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 296413,
+      "name": "Roller The Wick",
+      "url": "https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU"
+    },
+    {
       "added_at": "2022-09-20 15:51:44",
       "album": {
         "name": "Plonk",
@@ -1283,6 +1299,22 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
         "name": "Martes + Utop\u00eda",
         "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
       },
@@ -1331,38 +1363,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
-      },
-      "artists": [
-        {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
-        }
-      ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
-    },
-    {
-      "added_at": "2022-10-04 01:29:05",
-      "album": {
-        "name": "05-10",
-        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 296413,
-      "name": "Roller The Wick",
-      "url": "https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "Lucy & Aaron",
         "url": "https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA"
       },
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
         "name": "Rone & Friends",
         "url": "https://open.spotify.com/album/7jvfKfpDTc8bioLeCboUcv"
       },
@@ -1415,30 +1431,6 @@
       "duration_ms": 190179,
       "name": "Faro",
       "url": "https://open.spotify.com/track/475P7uJAThYszeB5c5uN9g"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
-        "name": "Razor (Foam and Sand Remix)",
-        "url": "https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky"
-      },
-      "artists": [
-        {
-          "name": "Delhia De France",
-          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        }
-      ],
-      "duration_ms": 242790,
-      "name": "Razor - Foam and Sand Remix",
-      "url": "https://open.spotify.com/track/5ZyaMRIDY85TeCIwn8kete"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1479,18 +1471,26 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+        "name": "Razor (Foam and Sand Remix)",
+        "url": "https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky"
       },
       "artists": [
         {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
         }
       ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+      "duration_ms": 242790,
+      "name": "Razor - Foam and Sand Remix",
+      "url": "https://open.spotify.com/track/5ZyaMRIDY85TeCIwn8kete"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Cradle (Patience Rework)",
-        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
       },
       "artists": [
         {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
         }
       ],
-      "duration_ms": 324000,
-      "name": "Cradle - Patience Rework",
-      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+      "duration_ms": 286283,
+      "name": "Adagio I - Mut",
+      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
+        "name": "Cradle (Patience Rework)",
+        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
       "artists": [
         {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
         }
       ],
-      "duration_ms": 286283,
-      "name": "Adagio I - Mut",
-      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
+      "duration_ms": 324000,
+      "name": "Cradle - Patience Rework",
+      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1751,22 +1751,18 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Bucolic Architecture (Flug 8 Remix)",
-        "url": "https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW"
+        "name": "R\u00e9gime des Fleurs",
+        "url": "https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju"
       },
       "artists": [
         {
-          "name": "Yoann Pisterman",
-          "url": "https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A"
-        },
-        {
-          "name": "Flug 8",
-          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 386754,
-      "name": "Bucolic Architecture - Flug 8 Remix",
-      "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
+      "duration_ms": 170000,
+      "name": "R\u00e9gime des Fleurs",
+      "url": "https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp"
     }
   ],
   "unique_name": "Electronic X",

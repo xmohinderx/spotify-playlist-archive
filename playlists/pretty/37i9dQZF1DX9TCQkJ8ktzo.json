@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 17168,
+  "num_followers": 17183,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMDU1MTZjNDhmYjBhM2U5OTdmOGEzOGY0MTkzNWMyYWIz",
+  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMDllMTdiOWE4NThmNTE3YjU3ZTZjMWYxNDRmZDk0ZmZh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:45:41",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Muchacha Bonita",
-      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Muchacha Bonita",
+      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Versiones Originales Vol.2",
-        "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
       },
       "artists": [
         {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 159760,
-      "name": "Locamente Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
+      "duration_ms": 168280,
+      "name": "Oye Mi Consejo",
+      "url": "https://open.spotify.com/track/7dLU5U9ikHDXucBcTp0jcr"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+        "name": "Versiones Originales Vol.2",
+        "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Los Cinco Latinos",
+          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
         }
       ],
-      "duration_ms": 168280,
-      "name": "Oye Mi Consejo",
-      "url": "https://open.spotify.com/track/7dLU5U9ikHDXucBcTp0jcr"
+      "duration_ms": 159760,
+      "name": "Locamente Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
         }
       ],
-      "duration_ms": 160146,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh"
+      "duration_ms": 157160,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Iv1QPLwSmhyCiCLtF2cNy"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/5zjF8LE5s2N4xacCXSMSCS"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
         "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
         "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 185093,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/1vve0rYomwnvFct5ptRQrf"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
-        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
-        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Y Su Piano",
-          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -1172,25 +1172,25 @@
           "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
         }
       ],
-      "duration_ms": 144666,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG"
+      "duration_ms": 160146,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh"
     },
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3Iv1QPLwSmhyCiCLtF2cNy"
+        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
+        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
       },
       "artists": [
         {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "Armando Manzanero Y Su Piano",
+          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/5zjF8LE5s2N4xacCXSMSCS"
+      "duration_ms": 144666,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG"
     }
   ],
   "unique_name": "60s Latino",

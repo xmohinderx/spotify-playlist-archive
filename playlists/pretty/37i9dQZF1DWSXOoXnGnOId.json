@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14245,
+  "num_followers": 14257,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDRiMWNjYTMxY2RlYjBlZmQ1ZWQzOTBlZTUxNGM5MDI3",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGMzZjhlMTAzMzE1ZjJmY2RhZWFiMWFkNDE0MWRjODg4",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -507,34 +507,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Follow (with Jeremih) [Dillon Francis Remix]",
-        "url": "https://open.spotify.com/album/6ORDApaeeYyezXhpGXc2HV"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Follow (with Jeremih) [Dillon Francis Remix]",
-      "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Tu Tu Tu (That's Why We) [Dubdogz & SUBB Remix]",
         "url": "https://open.spotify.com/album/4Vu4LBX4InGWNzpox8avBo"
       },
@@ -587,6 +559,34 @@
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Follow (with Jeremih) [Dillon Francis Remix]",
+        "url": "https://open.spotify.com/album/6ORDApaeeYyezXhpGXc2HV"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Follow (with Jeremih) [Dillon Francis Remix]",
+      "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -699,6 +699,46 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Summer 91 (Looking Back) [220 KID Remix]",
+        "url": "https://open.spotify.com/album/4h1ag771LJ1N6A41WKJD9L"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Summer 91 (Looking Back) - 220 KID Remix",
+      "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Silver Lining (DubVision Remix)",
+        "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Silver Lining - DubVision Remix",
+      "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "One By One (Remixes)",
         "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
       },
@@ -727,26 +767,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Summer 91 (Looking Back) [220 KID Remix]",
-        "url": "https://open.spotify.com/album/4h1ag771LJ1N6A41WKJD9L"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Summer 91 (Looking Back) - 220 KID Remix",
-      "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 265570,
       "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Silver Lining (DubVision Remix)",
-        "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Silver Lining - DubVision Remix",
-      "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1059,6 +1059,38 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Scare Me (feat. KSHMR & Karra) [Chico Rose Remix]",
+        "url": "https://open.spotify.com/album/0mCZ56iVnJ33wPxfRBPGcO"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        },
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 142593,
+      "name": "Scare Me (feat. KSHMR & Karra) - Chico Rose Remix",
+      "url": "https://open.spotify.com/track/2bynw6Zc1Er7Zf9qm0ayDP"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Strut (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
       },
@@ -1099,38 +1131,6 @@
       "duration_ms": 179080,
       "name": "Burning - Snakehips Remix",
       "url": "https://open.spotify.com/track/1XRQW5C4WEr0mNc5ygZgAN"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Scare Me (feat. KSHMR & Karra) [Chico Rose Remix]",
-        "url": "https://open.spotify.com/album/0mCZ56iVnJ33wPxfRBPGcO"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Karra",
-          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
-        },
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 142593,
-      "name": "Scare Me (feat. KSHMR & Karra) - Chico Rose Remix",
-      "url": "https://open.spotify.com/track/2bynw6Zc1Er7Zf9qm0ayDP"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2155,26 +2155,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "1 Day 2 Nights (Billen Ted Remix)",
         "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
       },
@@ -2191,6 +2171,26 @@
       "duration_ms": 134892,
       "name": "1 Day 2 Nights - Billen Ted Remix",
       "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
-        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
-      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Lifetime Remixes",
         "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 194755,
       "name": "Lifetime - Jayda G Baleen Mix",
       "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     },
     {
       "added_at": "2021-07-30 04:00:00",

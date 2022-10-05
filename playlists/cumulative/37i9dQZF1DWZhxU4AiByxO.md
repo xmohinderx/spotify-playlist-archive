@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-233 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+234 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Happy](https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL) | 3:53 | 2021-10-22 | 2022-07-29 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2022-07-28 |  |
 | [Havana](https://open.spotify.com/track/7dwiNsnIY3xOrE0k4kVDEl) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:35 | 2021-10-22 |  |
+| [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2022-10-04 |  |
 | [Here With Me](https://open.spotify.com/track/5gY5Tixu6wV6V1EJIQ3zNI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Don't Care](https://open.spotify.com/album/253LQdnZTDd0HddPoREscR) | 2:37 | 2021-10-22 |  |
 | [Hey Look Ma, I Made It](https://open.spotify.com/track/6EJrfpisIxba7EgbcTBNz2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [If I Can’t Have You](https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV) | 2:41 | 2021-10-22 |  |
 | [Hideaway \- from "Wonder Park"](https://open.spotify.com/track/6IoQuFTjNbpl6572b9GryH) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Hideaway \(from "Wonder Park"\)](https://open.spotify.com/album/2Tv7NyjiW3IhzoGHlIc7Nk) | 3:18 | 2021-10-22 |  |

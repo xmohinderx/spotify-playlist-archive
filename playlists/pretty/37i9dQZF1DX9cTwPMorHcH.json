@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 47309,
+  "num_followers": 47370,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMGU1NTQ4NTljZDQ2MjY4M2VlMjIwNzZhNzIxZmYxMTJm",
+  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDBkMWExMGUxYmExN2ZhMDFhMDU5NjA1NDk5MjdkZTc5",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -915,42 +915,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "We Get By",
-        "url": "https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "We Get By",
-      "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -971,18 +935,38 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Bloomfield-A Retrospective",
-        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
       "artists": [
         {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 414960,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "We Get By",
+        "url": "https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "We Get By",
+      "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -999,6 +983,22 @@
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Bloomfield-A Retrospective",
+        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        }
+      ],
+      "duration_ms": 414960,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Mean Mistreater",
+      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Hungry Heart",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 232453,
-      "name": "Mean Mistreater",
-      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+        "name": "Wolf Den",
+        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
         }
       ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
+      "duration_ms": 177906,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1163,22 +1179,6 @@
       "duration_ms": 295613,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Wolf Den",
-        "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193444,
+      "name": "Bleach Blonde Bottle Blues",
+      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 304933,
       "name": "Shelter Me",
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193444,
-      "name": "Bleach Blonde Bottle Blues",
-      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Holy Ghost Fire",
@@ -1447,22 +1463,6 @@
       "duration_ms": 231000,
       "name": "Catfish",
       "url": "https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Trouble Is...",
-        "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 334800,
-      "name": "Somehow, Somewhere, Someway",
-      "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Strange Pleasure",
         "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 260733,
       "name": "Don't Cha Know",
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Trouble Is...",
+        "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 334800,
+      "name": "Somehow, Somewhere, Someway",
+      "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
     }
   ],
   "unique_name": "Blues Drive",

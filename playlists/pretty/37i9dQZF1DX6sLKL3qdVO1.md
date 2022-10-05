@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: KAROL G, Maldy
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,135 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,311 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 51 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 52 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 |
 | 53 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 |
-| 54 | [Carro Nuevo](https://open.spotify.com/track/0OLLQD6ujaoOWnO6AbjV9W) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 4:00 |
+| 54 | [Carro Nuevo](https://open.spotify.com/track/0OLLQD6ujaoOWnO6AbjV9W) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 4:00 |
 | 55 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 |
 | 56 | [De Tanto Chimbiar](https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [De Tanto Chimbiar](https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp) | 3:06 |
 | 57 | [Ande Con Quien Ande](https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Ande Con Quien Ande](https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW) | 3:28 |

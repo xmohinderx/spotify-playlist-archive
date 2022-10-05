@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Mel Mu\u00f1iz en portada.",
-  "num_followers": 496802,
+  "num_followers": 496936,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDczMywwMDAwMDAwMDZiMmZjYzU2ZTU2MzViOTMwYTQzN2FjZGRkY2VhOGEw",
+  "snapshot_id": "MTY2NDUxMDczMywwMDAwMDAwMDYxZDBjNjI4MzhiNTQ5NWM2M2NlMTkyY2Q0MmYyMTU2",
   "tracks": [
     {
       "added_at": "2021-10-16 00:58:48",
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
-      "added_at": "2022-10-04 01:34:51",
+      "added_at": "2022-10-05 01:35:15",
       "album": {
         "name": "Dudas",
         "url": "https://open.spotify.com/album/2pTxYDodqy53ij3BpmCNX6"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
     },
     {
-      "added_at": "2022-10-04 01:34:51",
+      "added_at": "2022-10-05 01:35:15",
       "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4tAC5QZ0oJfA5JepQHuZck"
@@ -347,22 +347,6 @@
       "duration_ms": 170191,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/28W9BBuXA77gkTY94zbf26"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Lo Hice, Te Dej\u00e9",
-        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 186730,
-      "name": "Lo Hice, Te Dej\u00e9",
-      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -383,6 +367,22 @@
       "duration_ms": 192013,
       "name": "Deje de Amar",
       "url": "https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Lo Hice, Te Dej\u00e9",
+        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 186730,
+      "name": "Lo Hice, Te Dej\u00e9",
+      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -819,26 +819,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Por El Amor De Siempre",
-        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 262431,
-      "name": "El Amar El Querer",
-      "url": "https://open.spotify.com/track/0VB7AFyREofDc5F1EbFEaN"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Por El Amor De Siempre",
+        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 262431,
+      "name": "El Amar El Querer",
+      "url": "https://open.spotify.com/track/0VB7AFyREofDc5F1EbFEaN"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "Inmensamente Fr\u00e1gil",
         "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
       "artists": [
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+      "duration_ms": 243253,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
     },
     {
       "added_at": "2022-03-30 02:01:46",
@@ -1263,22 +1259,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Sombras - Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Armando Manzanero Duetos 2",
         "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
       },
@@ -1291,6 +1271,22 @@
       "duration_ms": 192666,
       "name": "Nada personal (A dueto con Ana Torroja)",
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Sombras - Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
       "artists": [
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Idas y Vueltas",
-        "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
-      },
-      "artists": [
-        {
-          "name": "Maria Mulata",
-          "url": "https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q"
-        },
-        {
-          "name": "Maite Hontel\u00e9",
-          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
-        }
-      ],
-      "duration_ms": 232221,
-      "name": "Idas y Vueltas",
-      "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -1641,24 +1621,40 @@
       "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
     },
     {
-      "added_at": "2022-03-04 04:44:16",
+      "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "\u00d3diame",
-        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
       },
       "artists": [
         {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        },
-        {
-          "name": "Michelle Rodriguez",
-          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
         }
       ],
-      "duration_ms": 193130,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
+      "duration_ms": 172363,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Idas y Vueltas",
+        "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
+      },
+      "artists": [
+        {
+          "name": "Maria Mulata",
+          "url": "https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q"
+        },
+        {
+          "name": "Maite Hontel\u00e9",
+          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
+        }
+      ],
+      "duration_ms": 232221,
+      "name": "Idas y Vueltas",
+      "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
     },
     {
       "added_at": "2022-04-29 05:00:00",
@@ -1677,20 +1673,24 @@
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     },
     {
-      "added_at": "2021-10-16 00:58:48",
+      "added_at": "2022-03-04 04:44:16",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
+        "name": "\u00d3diame",
+        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
       "artists": [
         {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        },
+        {
+          "name": "Michelle Rodriguez",
+          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
         }
       ],
-      "duration_ms": 172363,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
+      "duration_ms": 193130,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1727,54 +1727,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Ac\u00fastico En Vivo",
-        "url": "https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 272226,
-      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
-      "url": "https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1795,6 +1747,54 @@
       "duration_ms": 171973,
       "name": "Como Las Olas",
       "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Ac\u00fastico En Vivo",
+        "url": "https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 272226,
+      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
+      "url": "https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU"
     },
     {
       "added_at": "2021-10-16 00:58:48",

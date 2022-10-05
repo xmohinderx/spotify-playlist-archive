@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262?si=Vs4aByj4SRSSW\_bcV7\-TrA">Jacques Leonard</a>
+> Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=kJvA4P5cR3SF1IxHgQ189Q">Samantha Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 697 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 742 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Oor te Begin](https://open.spotify.com/track/7fDLyEb8DtTKeKTwu8cmWk) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Opsoek Na Liefde](https://open.spotify.com/album/1quI6r74xYBDLjb3BOy6IX) | 3:16 |
 | 50 | [Naweek Vibes](https://open.spotify.com/track/4DvuCPPkfeJwb2yKaqM4DN) | [Ché](https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90) | [Naweek Vibes](https://open.spotify.com/album/1SxMdba2nA4k8Phj8jiRXs) | 3:21 |
 
-Snapshot ID: `MTY2NDc5NjU0OSwwMDAwMDAwMGUwMTI1YWUzYWY4NDg3MzYzOGM0ZWZiZGM3ODliNjk2`
+Snapshot ID: `MTY2NDg2ODI1NywwMDAwMDAwMDY0ZGQ0NzliZTc5Mjg1Y2MyYTZmYjAzMmFiZTY4Nzll`

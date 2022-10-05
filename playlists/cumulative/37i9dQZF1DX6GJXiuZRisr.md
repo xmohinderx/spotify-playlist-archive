@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-313 songs - 23 hr 40 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+314 songs - 23 hr 46 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Apricus](https://open.spotify.com/track/6AWDF8tp10KFkTZE33VVC4) | [STANDERWICK](https://open.spotify.com/artist/6mLXfZ1OfXde8Iy9BfKoHE) | [Apricus](https://open.spotify.com/album/4DUrEKUrYClLVtMfDqiOiC) | 4:39 | 2021-05-07 | 2022-07-29 |
 | [Artefact](https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK) | [Artefact](https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3) | 3:40 | 2022-08-12 |  |
 | [Ashes](https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Ashes](https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ) | 3:42 | 2021-05-07 |  |
+| [Atlas \- Shall Ocin & Artbat Remix](https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M) | [Atlas \(Shall Ocin & Artbat Remix\)](https://open.spotify.com/album/2wonCAxmz7xKzCa5I5TlnA) | 6:20 | 2022-09-30 |  |
 | [Audio](https://open.spotify.com/track/5bHV6UowNC1YVu8LYDkUjU) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Liam Hathaway](https://open.spotify.com/artist/49rrb310BsQ2pFHGm2rdZX) | [Illusion of Perfection](https://open.spotify.com/album/26medpL8stPGWfE0xRuJT2) | 6:08 | 2021-05-07 | 2022-04-21 |
 | [Aura](https://open.spotify.com/track/0B2GWovtxzsh0a02PBbNl7) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [U](https://open.spotify.com/album/01iKVCYJMpU65vZRIAQWu7) | 8:41 | 2021-05-07 |  |
 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 | 2021-08-27 | 2022-07-24 |
@@ -162,7 +163,7 @@
 | [Lose Control](https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Deep State](https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo) | 5:37 | 2021-05-07 |  |
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-05-07 | 2022-08-20 |
 | [Lost at Sea](https://open.spotify.com/track/6DUiSnyXWYiNXSsRe6FJPc) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul / Lost at Sea](https://open.spotify.com/album/39S4MhNoCznHiI7csqfu7j) | 4:42 | 2022-06-10 | 2022-07-23 |
-| [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2021-05-18 |  |
+| [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2021-05-18 | 2022-10-05 |
 | [Love Instead](https://open.spotify.com/track/40VOWVEYAZ4PQZSW6yHzAP) | [SKGN](https://open.spotify.com/artist/4sVaOfvOqPgs3Qr1NDorKN), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Love Instead](https://open.spotify.com/album/60TqE96idOeQrOV29DNpk8) | 2:28 | 2022-09-09 |  |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-08-04 |
 | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/track/24F3Ji64jymzmcjb7QUsUN) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/album/0o75gywf0q4UsAG9t1wrwg) | 4:54 | 2021-05-07 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Dopein\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,131 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,141 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 30 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 |
 | 31 | [HUGS](https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [HUGS](https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl) | 3:44 |
 | 32 | [GGOOM \(feat\. Jvcki Wai\)](https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 2:39 |
-| 33 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
-| 34 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
+| 33 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
+| 34 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 35 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
 | 36 | [Melting Point \(Feat\. Samuel Seo\)](https://open.spotify.com/track/0RaxRKVWQTnZ31L4LfUGXt) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Summer Soundcloud](https://open.spotify.com/album/03aZUdnQGIb9bnp2kY7d7X) | 4:36 |
 | 37 | [Youth](https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Kim Chang Wan](https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde) | [Youth](https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [Help \(IDIOTAPE Remix\)](https://open.spotify.com/track/4vmTLcDMOEGncRhqLtU467) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Help \(IDIOTAPE Remix\)](https://open.spotify.com/album/792mqyd7VyWfzP6GLaBhUN) | 4:24 |
 | 50 | [I Sing My Blues Away](https://open.spotify.com/track/0Dsx7tOWOORkxJE8pf5oCF) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf) | [I Sing My Blues Away](https://open.spotify.com/album/0ex0GkY8TCwTUWLQwnHD0A) | 3:27 |
 
-Snapshot ID: `MTY2NDgwMDQzMCwwMDAwMDAwMDc1MzEyY2I0MjU3YTA4ZDdhYzA2YjhjZDA5MmE0YmZj`
+Snapshot ID: `MTY2NDgwMDQzMCwwMDAwMDAwMDVhNjFmZDY1Yzc2MzVhY2QyMDBhNTE5NDAzN2Q4MmE3`

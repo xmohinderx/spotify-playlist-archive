@@ -1,12 +1,12 @@
 {
   "description": "All of the classic hits from the 50s and 60s.",
-  "num_followers": 848893,
+  "num_followers": 849255,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMDFlNWRiMjUxMDJkZTNmOWNjNTAyNjU1NDRkNWU5Y2M3",
+  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMGRiMTJiMTNlMmRkM2UwMmFkMmM1OTYwZTMxMDhjZjk2",
   "tracks": [
     {
       "added_at": "2022-03-07 23:38:19",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Aerial Ballet",
-        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 163586,
-      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
-      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Runaround Sue",
         "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 171600,
       "name": "Runaround Sue",
       "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Aerial Ballet",
+        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 163586,
+      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Gettin' Ready (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "Ain't Too Proud To Beg",
-      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Gettin' Ready (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 156173,
+      "name": "Ain't Too Proud To Beg",
+      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Beatles 1962 - 1966 (Remastered)",
-        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 146720,
-      "name": "I Want To Hold Your Hand - Remastered 2009",
-      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
+      "duration_ms": 256120,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -667,6 +651,22 @@
       "duration_ms": 197093,
       "name": "Lay, Lady, Lay",
       "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146720,
+      "name": "I Want To Hold Your Hand - Remastered 2009",
+      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Travelin' Man - Remastered",
-      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Hey! Baby (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 171333,
       "name": "I Fall To Pieces - Single Version",
       "url": "https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Travelin' Man - Remastered",
+      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
         "name": "Green Onions / Behave Yourself",
         "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 156666,
       "name": "Only You (And You Alone)",
       "url": "https://open.spotify.com/track/0S5cs4lAkx99tGjoWS4Jtk"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Shoop Shoop Song (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1CDz7wAwakjRXfTxnpgj28"
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
       "artists": [
         {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+          "name": "The Trashmen",
+          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
         }
       ],
-      "duration_ms": 136116,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/3qoNRhQuqbAG4uXrPx2aSk"
+      "duration_ms": 137133,
+      "name": "Surfin' Bird",
+      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+        "name": "The Shoop Shoop Song (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1CDz7wAwakjRXfTxnpgj28"
       },
       "artists": [
         {
-          "name": "The Trashmen",
-          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
         }
       ],
-      "duration_ms": 137133,
-      "name": "Surfin' Bird",
-      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
+      "duration_ms": 136116,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/3qoNRhQuqbAG4uXrPx2aSk"
     },
     {
       "added_at": "2022-03-07 23:38:19",

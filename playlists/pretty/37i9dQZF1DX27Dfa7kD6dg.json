@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 10057,
+  "num_followers": 10089,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDU1MTYwNmRjNzA0Mjc2N2I3MTYzYTVhNzZhNGQ5NGQ3",
+  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDBlYWQxZjAyNGE4M2U3OTQyZmY3MWM0NTA0YmYyNGIz",
   "tracks": [
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
-        }
-      ],
-      "duration_ms": 293067,
-      "name": "Mujer de Carne y Hueso",
-      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Con Larry Harlow",
         "url": "https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 247998,
       "name": "Presidente Dante",
       "url": "https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Mujer de Carne y Hueso",
+      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 235125,
-      "name": "Ya Se Pein\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Mambo Madness",
         "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 185773,
       "name": "Mambo La Libertad",
       "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Ya Se Pein\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Dave Santiago & Latin Affair",
-        "url": "https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY"
-      },
-      "artists": [
-        {
-          "name": "Dave Santiago",
-          "url": "https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "La Peluca",
-      "url": "https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "The Best Of The Concord Years",
         "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 315986,
       "name": "Tokyo Blues",
       "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Dave Santiago & Latin Affair",
+        "url": "https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY"
+      },
+      "artists": [
+        {
+          "name": "Dave Santiago",
+          "url": "https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "La Peluca",
+      "url": "https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn"
     },
     {
       "added_at": "2022-08-17 18:30:29",

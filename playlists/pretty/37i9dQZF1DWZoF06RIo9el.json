@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de octubre 2022.",
-  "num_followers": 1495207,
+  "num_followers": 1495309,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgxNTE0NiwwMDAwMDAwMDk0Y2FjOTQ4NmJhZDVkNjE4OWI1NzgzNWRmYjMxOGIz",
+  "snapshot_id": "MTY2NDgxNTE0NiwwMDAwMDAwMGY0MzE0ODU5ZWY4MjA0MTQ5MzQxZjkzODZlNmRkODRl",
   "tracks": [
     {
       "added_at": "2022-10-03 16:39:06",
@@ -199,6 +199,26 @@
     {
       "added_at": "2022-10-03 16:39:06",
       "album": {
+        "name": "Besos Moja2",
+        "url": "https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 229064,
+      "name": "Besos Moja2",
+      "url": "https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
         "name": "Como \u00d1engo (feat. Jota Rosa)",
         "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
-        "name": "Besos Moja2",
-        "url": "https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 229064,
-      "name": "Besos Moja2",
-      "url": "https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8"
     },
     {
       "added_at": "2022-10-03 16:39:06",
@@ -439,18 +439,34 @@
     {
       "added_at": "2022-10-03 16:39:06",
       "album": {
-        "name": "Bien Por Ti",
-        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Bien Por Ti",
-      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
+      "duration_ms": 172546,
+      "name": "Sin Explicaciones",
+      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
+        "name": "BEBE",
+        "url": "https://open.spotify.com/album/0sQn7p0DAy7V2w8ys6OxUD"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 145787,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/3qIKikzA0EypwZJjK4k9PG"
     },
     {
       "added_at": "2022-10-03 16:39:06",
@@ -471,6 +487,42 @@
       "duration_ms": 196733,
       "name": "Me Duele",
       "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
+        "name": "Bien Por Ti",
+        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Bien Por Ti",
+      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
+        "name": "LOKITA",
+        "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "LOKITA",
+      "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
     },
     {
       "added_at": "2022-10-03 16:39:06",
@@ -499,58 +551,6 @@
       "duration_ms": 184000,
       "name": "R\u00f3mpela",
       "url": "https://open.spotify.com/track/6mwROK8Er0EZdXwbwuiHIJ"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
-        "name": "BEBE",
-        "url": "https://open.spotify.com/album/0sQn7p0DAy7V2w8ys6OxUD"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 145787,
-      "name": "BEBE",
-      "url": "https://open.spotify.com/track/3qIKikzA0EypwZJjK4k9PG"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "Sin Explicaciones",
-      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
-        "name": "LOKITA",
-        "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 193294,
-      "name": "LOKITA",
-      "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
     },
     {
       "added_at": "2022-10-03 16:39:06",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-10-03 16:39:06",
       "album": {
-        "name": "Duele Tanto",
-        "url": "https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Zaur",
-          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 193900,
-      "name": "Duele Tanto",
-      "url": "https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
         "name": "Beb\u00ed Demasiao",
         "url": "https://open.spotify.com/album/3fl6dtfDdk1mbJ2ItlxHAM"
       },
@@ -679,54 +659,6 @@
     {
       "added_at": "2022-10-03 16:39:06",
       "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
-        "name": "Distancia",
-        "url": "https://open.spotify.com/album/2gqjUsHgffcCdtkAy44PWE"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 163205,
-      "name": "Distancia",
-      "url": "https://open.spotify.com/track/078SF4DC2Jf6qalzlFIi2J"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
-        "name": "63",
-        "url": "https://open.spotify.com/album/0pTcBM1tSspEQmylKHNCeI"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "63",
-      "url": "https://open.spotify.com/track/4F8jNgbjriwcgeUOGorXWT"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
         "name": "Nazareno (Remix)",
         "url": "https://open.spotify.com/album/7bkJ3sRXUoazTaz4QDkdUk"
       },
@@ -747,18 +679,54 @@
     {
       "added_at": "2022-10-03 16:39:06",
       "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
+        "name": "Duele Tanto",
+        "url": "https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe"
       },
       "artists": [
         {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 212877,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
+      "duration_ms": 193900,
+      "name": "Duele Tanto",
+      "url": "https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
+        "name": "Distancia",
+        "url": "https://open.spotify.com/album/2gqjUsHgffcCdtkAy44PWE"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 163205,
+      "name": "Distancia",
+      "url": "https://open.spotify.com/track/078SF4DC2Jf6qalzlFIi2J"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
     },
     {
       "added_at": "2022-10-03 16:39:06",
@@ -783,6 +751,22 @@
     {
       "added_at": "2022-10-03 16:39:06",
       "album": {
+        "name": "63",
+        "url": "https://open.spotify.com/album/0pTcBM1tSspEQmylKHNCeI"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "63",
+      "url": "https://open.spotify.com/track/4F8jNgbjriwcgeUOGorXWT"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
         "name": "Al Final del D\u00eda",
         "url": "https://open.spotify.com/album/7aqENkjmIlnjLhlxCw1zrJ"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2022-10-03 16:39:06",
       "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212877,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 151373,
       "name": "Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k"
+    },
+    {
+      "added_at": "2022-10-03 16:39:06",
+      "album": {
+        "name": "Una Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/3IyYxnYJjItW4GV6ozRB9Z"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Una Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/5OVAVELGyFIICZk3DO47hY"
     },
     {
       "added_at": "2022-10-03 16:39:06",
@@ -859,26 +879,6 @@
       "duration_ms": 204827,
       "name": "Personal",
       "url": "https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq"
-    },
-    {
-      "added_at": "2022-10-03 16:39:06",
-      "album": {
-        "name": "Una Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/3IyYxnYJjItW4GV6ozRB9Z"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Una Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/5OVAVELGyFIICZk3DO47hY"
     },
     {
       "added_at": "2022-10-03 16:39:06",

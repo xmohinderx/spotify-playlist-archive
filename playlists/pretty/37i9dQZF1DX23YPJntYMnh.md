@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,533 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,605 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 55 | [Sever](https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Soundsystem](https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ) | 4:43 |
 | 56 | [Vinnie](https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5) | [Screaming Headless Torsos](https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb) | [1995](https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN) | 4:24 |
 | 57 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
-| 58 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
-| 59 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
-| 60 | [Good Grief](https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [The Singles Collection](https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i) | 4:24 |
+| 58 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
+| 59 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
+| 60 | [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDMzYjYwODMwNjJhNWY5MjBjYmU4Y2UzNTVjYzBiNjhm`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDU2YzIxMzI3MWU0OWZiODExNmY0NmM4N2FkY2Y1YmYy`

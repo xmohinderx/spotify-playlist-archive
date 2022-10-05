@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 245451,
       "name": "9 elms over river eno (channel 9)",
       "url": "https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 271333,
       "name": "Bedouin",
       "url": "https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 420200,
       "name": "Delta Mk II",
       "url": "https://open.spotify.com/track/7dAkSURilbmrPTDf6UysJV"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 329360,
       "name": "Go Down Evil",
       "url": "https://open.spotify.com/track/79AofcxiLVPQ2E0t8JgBSJ"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 884200,
       "name": "God's Mirrorball",
       "url": "https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw"
@@ -611,10 +611,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 253544,
       "name": "H. O. O",
       "url": "https://open.spotify.com/track/1dcKekvRNoO7tP1KwowdUQ"
+    },
+    {
+      "album": {
+        "name": "Pomme Fritz",
+        "url": "https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126866,
+      "name": "His Immortal Logness",
+      "url": "https://open.spotify.com/track/4Ar51FLzmqkDv0wiBnjZxP"
     },
     {
       "album": {
@@ -821,7 +839,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 244311,
       "name": "Man in the Moon",
       "url": "https://open.spotify.com/track/2IdEhAIOQS0T6d79DBaTr6"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 503626,
       "name": "Outlands",
       "url": "https://open.spotify.com/track/2McI8eLgOMGov9kzZARkdC"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 250960,
       "name": "Pervitin - Empire Culling & The Hemlock Stone Version",
       "url": "https://open.spotify.com/track/6KCulEFcEZ0LvPfWul3n7T"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 327000,
       "name": "Promis",
       "url": "https://open.spotify.com/track/43V7oxArZZrZZWDABM3FpX"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 50400,
       "name": "Sticky End",
       "url": "https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 716733,
       "name": "Super Nova At The End Of The Universe",
       "url": "https://open.spotify.com/track/1QOIvqLUacNvxOBAoA1cDJ"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 283000,
       "name": "Switch on Leon",
       "url": "https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 335866,
       "name": "The Cult Of Youth Ambient Mix Parts 1 & 2 (feat. David Gilmour) - Edit",
       "url": "https://open.spotify.com/track/4iPCa0uM1gkpDkkdP8VCdi"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 750560,
       "name": "The Weekend It Rained Forever - Oseberg Buddha Mix (The Ravens Have Left the Tower)",
       "url": "https://open.spotify.com/track/3tRgsntvKAFbAVj0SzcsNe"

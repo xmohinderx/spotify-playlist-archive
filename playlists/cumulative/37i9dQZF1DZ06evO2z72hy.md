@@ -4,7 +4,7 @@
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/2Makl5HN0UTGk06qqIJvLk)
+66 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2Makl5HN0UTGk06qqIJvLk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Reggae Is Coming](https://open.spotify.com/track/1yYq0GX9AKLb6yiN5pmyEw) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:12 | 2022-05-25 |  |
 | [Regreso](https://open.spotify.com/track/4O5rHAUKMGT47CiZCN3wd2) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:16 | 2022-05-25 |  |
 | [Sentimiento Original](https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:52 | 2022-05-25 |  |
-| [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 | 2022-05-25 |  |
+| [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 | 2022-05-25 | 2022-10-05 |
+| [Si No Fuera](https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Si No Fuera \- Single](https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW) | 3:38 | 2022-10-04 |  |
 | [Sigo Creyendo](https://open.spotify.com/track/0LPoceKI0Idd2E90fNvL80) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 3:46 | 2022-05-25 | 2022-07-03 |
 | [Sigo creyendo](https://open.spotify.com/track/5G27QQ1ydgYpI2FAKwSIot) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:46 | 2022-07-03 |  |
 | [Sin Cadenas](https://open.spotify.com/track/42PvpvCg7eaXJy89at6u8s) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 4:09 | 2022-05-25 |  |

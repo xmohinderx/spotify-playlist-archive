@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 180546,
       "name": "506",
       "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/7xsew7zvk3Y5XctO2W6MnO"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
@@ -2459,7 +2459,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
@@ -3085,6 +3085,24 @@
       "duration_ms": 174933,
       "name": "El Mariachi Loco",
       "url": "https://open.spotify.com/track/2t4Xr23WCRxao3l6EdJaXY"
+    },
+    {
+      "album": {
+        "name": "El poder",
+        "url": "https://open.spotify.com/album/2xcyJsdn7bYfseEUbYr7c3"
+      },
+      "artists": [
+        {
+          "name": "Cray Dalton",
+          "url": "https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183198,
+      "name": "El poder",
+      "url": "https://open.spotify.com/track/2Sur4LiJLj4grpAK3u0xmX"
     },
     {
       "album": {
@@ -4740,6 +4758,24 @@
     },
     {
       "album": {
+        "name": "La Loca (En Vivo)",
+        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246251,
+      "name": "La Loca (En Vivo)",
+      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
+    },
+    {
+      "album": {
         "name": "Ni Lo Intentes",
         "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
       },
@@ -6102,6 +6138,40 @@
     },
     {
       "album": {
+        "name": "Mkrna",
+        "url": "https://open.spotify.com/album/2uJDqEVVBTT2aWbYhwgJAg"
+      },
+      "artists": [
+        {
+          "name": "ZALEYKO",
+          "url": "https://open.spotify.com/artist/4kbM1M865DS7kBHe1J11yQ"
+        },
+        {
+          "name": "Alexis Rostro",
+          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
+        },
+        {
+          "name": "Eve Crm",
+          "url": "https://open.spotify.com/artist/50xOjgsrHAIHTNvncJW1GI"
+        },
+        {
+          "name": "Yulissa Mendoza Mx",
+          "url": "https://open.spotify.com/artist/0AnLukcIL5LPlpeqfTFZIr"
+        },
+        {
+          "name": "Dj Teack",
+          "url": "https://open.spotify.com/artist/5ncZY0JMBZdQH7liaQpa5i"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218222,
+      "name": "Mkrna",
+      "url": "https://open.spotify.com/track/3a9d0oCl1i1mcdbtvyTVun"
+    },
+    {
+      "album": {
         "name": "Modo Melanc\u00f3lico",
         "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
       },
@@ -6759,7 +6829,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 281898,
       "name": "No Me Conformo",
       "url": "https://open.spotify.com/track/6t8OjozDxyWUprWqIB58IT"
@@ -7183,7 +7253,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 198880,
       "name": "Ojos Marrones - Con Sebasti\u00e1n Yatra",
       "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
@@ -8970,6 +9040,28 @@
     },
     {
       "album": {
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+    },
+    {
+      "album": {
         "name": "Solo Me Dejaste",
         "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
       },
@@ -9852,6 +9944,32 @@
     },
     {
       "album": {
+        "name": "Tirando Flow Sesh #7",
+        "url": "https://open.spotify.com/album/0Tt2Sl9fPDfjiOX5By56ev"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162119,
+      "name": "Tirando Flow Sesh #7",
+      "url": "https://open.spotify.com/track/052ze6DUJVMprR3MJzMORd"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -10569,6 +10687,24 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "album": {
+        "name": "Vista Al Mar",
+        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180672,
+      "name": "Vista Al Mar",
+      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
     },
     {
       "album": {

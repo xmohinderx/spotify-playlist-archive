@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Kimberley Tell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,462 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,505 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 31 | [Cosas raras \(feat\. Pimp Flaco\)](https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 4:17 |
 | 32 | [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 |
 | 33 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
-| 34 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 |
-| 35 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:40 |
-| 36 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
-| 37 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
+| 34 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:40 |
+| 35 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 |
+| 36 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
+| 37 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 38 | [Nunca Te Dejaré Ir](https://open.spotify.com/track/5Enzcachkod8O3ykRHUZLw) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Nunca Te Dejaré Ir](https://open.spotify.com/album/1Dck2luCLqrh6rudNBEkCv) | 1:54 |
-| 39 | [SUPPLY & DEMAND](https://open.spotify.com/track/4fsAnNEX0f9SqlVsiIX31D) | [Miranda Del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [SUPPLY & DEMAND](https://open.spotify.com/album/3hPanAHedPo2iMTqnqJe7p) | 2:26 |
-| 40 | [No soy de aquí](https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nostalgia Pop](https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I) | 1:36 |
+| 39 | [No soy de aquí](https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nostalgia Pop](https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I) | 1:36 |
+| 40 | [SUPPLY & DEMAND](https://open.spotify.com/track/4fsAnNEX0f9SqlVsiIX31D) | [Miranda Del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [SUPPLY & DEMAND](https://open.spotify.com/album/3hPanAHedPo2iMTqnqJe7p) | 2:26 |
 | 41 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 |
 | 42 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
 | 43 | [Espinas De Rosas](https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Amor Variado](https://open.spotify.com/album/5MdAMEUoYehho4eyLAkVTX) | 2:06 |
 | 44 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 |
-| 45 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
-| 46 | [Amor Como Puñal](https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Amor Como Puñal](https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf) | 3:01 |
-| 47 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 45 | [Amor Como Puñal](https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Amor Como Puñal](https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf) | 3:01 |
+| 46 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 47 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
 | 48 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 |
-| 49 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
+| 49 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
 | 50 | [Locura Por Ti](https://open.spotify.com/track/4JfE73XGKx0IRpP56sEVzt) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Wild Idea](https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU) | 3:57 |
 | 51 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
 | 52 | [Gardenia Dreams](https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:02 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 57 | [Gravedad](https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Gravedad](https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN) | 4:25 |
 | 58 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
 | 59 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
-| 60 | [Triste Pop](https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Triste Pop](https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt) | 5:22 |
+| 60 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 |
 | 61 | [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 |
 | 62 | [Colores cromáticos](https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Colores cromáticos](https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed) | 4:15 |
-| 63 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 |
+| 63 | [Triste Pop](https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Triste Pop](https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt) | 5:22 |
 | 64 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 65 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 |
 | 66 | [Como Nadie](https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys) | [Jardín](https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP) | [Como Nadie](https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Una Sola Vez](https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Una Sola Vez](https://open.spotify.com/album/4WsPV4Bh44VtunOPOeYbmT) | 4:16 |
 | 75 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDg2MTg2Y2U5ZjcxYjhhODQxMWNiYTA1NTRlYmVhNjBj`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDFmYjYwMTI5NWQwMWM5YWMzNjJkNjAxYTJmY2U4MGI3`

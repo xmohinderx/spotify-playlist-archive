@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 202422,
+  "num_followers": 202568,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQzMzcwOCwwMDAwMDAwMDEyOTgzNmFjOGNjZTg5YjdkNjg3NGRiMjJhZWY5YmEw",
+  "snapshot_id": "MTY2NDQzMzcwOCwwMDAwMDAwMDFmYzcyM2ZlOWU1ZGEzOTViZmU2MmZmZGRkYjk0YTUz",
   "tracks": [
     {
       "added_at": "2022-08-22 09:51:25",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
-        "name": "Enta Omry Remix 2022",
-        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
-      },
-      "artists": [
-        {
-          "name": "Hijazi",
-          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
-        },
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Enta Omry Remix 2022",
-      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 169180,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
+        "name": "Enta Omry Remix 2022",
+        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
+      },
+      "artists": [
+        {
+          "name": "Hijazi",
+          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+        },
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Enta Omry Remix 2022",
+      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
-        "name": "I Can't Be",
-        "url": "https://open.spotify.com/album/7GobkMuBDiy6G9xOalPiH7"
-      },
-      "artists": [
-        {
-          "name": "Hakan Akkus",
-          "url": "https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh"
-        }
-      ],
-      "duration_ms": 194015,
-      "name": "I Can't Be - Radio Mix",
-      "url": "https://open.spotify.com/track/1foM3WWlTMWsWw7LHv2kfd"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/4GngckWbcK6cWopdBoWLdg"
       },
@@ -417,7 +401,7 @@
       "url": "https://open.spotify.com/track/5jYntKRDo21t5sEQHx8OM2"
     },
     {
-      "added_at": "2022-10-04 02:02:00",
+      "added_at": "2022-10-05 02:05:07",
       "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t"
@@ -431,6 +415,22 @@
       "duration_ms": 193684,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
+        "name": "I Can't Be",
+        "url": "https://open.spotify.com/album/7GobkMuBDiy6G9xOalPiH7"
+      },
+      "artists": [
+        {
+          "name": "Hakan Akkus",
+          "url": "https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh"
+        }
+      ],
+      "duration_ms": 194015,
+      "name": "I Can't Be - Radio Mix",
+      "url": "https://open.spotify.com/track/1foM3WWlTMWsWw7LHv2kfd"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
-      },
-      "artists": [
-        {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 172000,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+      },
+      "artists": [
+        {
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+        }
+      ],
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
+        "name": "Arabian Magic",
+        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Arabian Magic",
+      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
-        "name": "Arabian Magic",
-        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Arabian Magic",
-      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
-      },
-      "artists": [
-        {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
-        },
-        {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 152555,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
-        "name": "Che Danestam (Seventh Soul Remix)",
-        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
-      },
-      "artists": [
-        {
-          "name": "Homayoun Shajarian",
-          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
-        },
-        {
-          "name": "Seventh Soul",
-          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
-        }
-      ],
-      "duration_ms": 506666,
-      "name": "Che Danestam - Seventh Soul Remix",
-      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
         "name": "Deep Anatolia",
         "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
       },
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
+        "name": "Che Danestam (Seventh Soul Remix)",
+        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
+      },
+      "artists": [
+        {
+          "name": "Homayoun Shajarian",
+          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
+        },
+        {
+          "name": "Seventh Soul",
+          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
+        }
+      ],
+      "duration_ms": 506666,
+      "name": "Che Danestam - Seventh Soul Remix",
+      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
         "name": "Nentori",
         "url": "https://open.spotify.com/album/78iSNwTwoiMwvn6fspEObm"
       },
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/4uw61lolt65J501aWdt4Fr"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 201864,
       "name": "Conmigo",
       "url": "https://open.spotify.com/track/7vdihCV62kwUQq56ogHK1Q"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
-      },
-      "artists": [
-        {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        }
-      ],
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
+        "name": "Angelic",
+        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Ikonnya",
+          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
+        }
+      ],
+      "duration_ms": 269378,
+      "name": "Angelic",
+      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
         "name": "Ramla",
         "url": "https://open.spotify.com/album/63Hvj5DivROjnPWxaCYVik"
       },
@@ -2143,26 +2163,6 @@
       "duration_ms": 304091,
       "name": "The Long March - Remix",
       "url": "https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
-        "name": "Angelic",
-        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Ikonnya",
-          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
-        }
-      ],
-      "duration_ms": 269378,
-      "name": "Angelic",
-      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/3fWzFPiEAXLSIlCgqNs1wS"
-      },
-      "artists": [
-        {
-          "name": "Iarina",
-          "url": "https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7"
-        }
-      ],
-      "duration_ms": 159864,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/0WmME87pq6EEJUOQJ2R9b7"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 331562,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/0Rxy7OTbF4qa7zaVrk2b8l"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/3fWzFPiEAXLSIlCgqNs1wS"
+      },
+      "artists": [
+        {
+          "name": "Iarina",
+          "url": "https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7"
+        }
+      ],
+      "duration_ms": 159864,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
         "name": "DayBreak Ft. Behrooz Shiri",
         "url": "https://open.spotify.com/album/2RBZ8NbEoccZBVr2arOrU4"
       },
@@ -2527,18 +2543,18 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+        "name": "Stair at the light",
+        "url": "https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ"
       },
       "artists": [
         {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+      "duration_ms": 182222,
+      "name": "Stair at the light",
+      "url": "https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -2571,22 +2587,6 @@
       "duration_ms": 312125,
       "name": "Arabian Soul",
       "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
-        "name": "Stair at the light",
-        "url": "https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Stair at the light",
-      "url": "https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj"
     },
     {
       "added_at": "2022-08-22 09:51:25",
@@ -2759,22 +2759,6 @@
     {
       "added_at": "2022-08-22 09:51:25",
       "album": {
-        "name": "Qalbi",
-        "url": "https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ"
-      },
-      "artists": [
-        {
-          "name": "Ali Termos",
-          "url": "https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Qalbi",
-      "url": "https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX"
-    },
-    {
-      "added_at": "2022-08-22 09:51:25",
-      "album": {
         "name": "Samra",
         "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
       },
@@ -2787,6 +2771,22 @@
       "duration_ms": 283659,
       "name": "Samra",
       "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
+    },
+    {
+      "added_at": "2022-08-22 09:51:25",
+      "album": {
+        "name": "Qalbi",
+        "url": "https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ"
+      },
+      "artists": [
+        {
+          "name": "Ali Termos",
+          "url": "https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK"
+        }
+      ],
+      "duration_ms": 378000,
+      "name": "Qalbi",
+      "url": "https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX"
     },
     {
       "added_at": "2022-08-22 09:51:25",

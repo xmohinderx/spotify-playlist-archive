@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,476 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,511 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 14 | [Khallini Bi Balik](https://open.spotify.com/track/6FZxkV3OK9NmlPfjMvJdTb) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Khallini Bi Balik](https://open.spotify.com/album/6qy2Ujd8ZKsZkHsNjBEaZI) | 4:01 |
 | 15 | [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 |
 | 16 | [Betwale3 Nar](https://open.spotify.com/track/7fVZ6x92fzG2pXXyz47cKw) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Betwale3 Nar](https://open.spotify.com/album/1CmaOgULKrGgELbpizwXUC) | 3:52 |
-| 17 | [Wateeni](https://open.spotify.com/track/6YcoHlY6xqHd0OWciYDFee) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Wateeni](https://open.spotify.com/album/0J5KOvgjIyCqDIXB1YQIjz) | 3:42 |
-| 18 | [Dabke Wdalouna](https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv) | [Walid Sarkiss](https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS) | [Eid El Arz](https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X) | 9:28 |
+| 17 | [Dabke Wdalouna](https://open.spotify.com/track/5XyULdxiS7pNVX8LR4amiv) | [Walid Sarkiss](https://open.spotify.com/artist/1Q9U9i2Hwtub6Ug9ITHlVS) | [Eid El Arz](https://open.spotify.com/album/4L4fxwLWcK7pyGIyyCPE1X) | 9:28 |
+| 18 | [Wateeni](https://open.spotify.com/track/6YcoHlY6xqHd0OWciYDFee) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Wateeni](https://open.spotify.com/album/0J5KOvgjIyCqDIXB1YQIjz) | 3:42 |
 | 19 | [عللومة عللومة](https://open.spotify.com/track/0zOtmdD1U7rguuFY6Z90hp) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [ما وحشناك](https://open.spotify.com/album/68pZSiCmstUEJkmcaCBM9v) | 3:40 |
 | 20 | [دلعونا](https://open.spotify.com/track/7sKRep0Z6sZnQjqc6qOvSH) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [الجرح اللي بعدو](https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI) | 3:54 |
 | 21 | [فلسطيني](https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [فلسطيني](https://open.spotify.com/album/5P2ypwyHbXRZat8f5bD0la) | 3:16 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 43 | [Lali](https://open.spotify.com/track/0alhXNBNCYNdg0OubYAmoa) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Lali](https://open.spotify.com/album/0IHkv5n08mbKFFSApH528R) | 3:32 |
 | 44 | [Sawt Rbaba](https://open.spotify.com/track/099SGdbqStuQ6xRE4pOe4J) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 5:17 |
 | 45 | [Europe the Lebanese](https://open.spotify.com/track/19TGI3O2MlMpWUbCdGRUhn) | [Dj Zeki](https://open.spotify.com/artist/5LSY8D8Jd054ANMXJF8512) | [Europe the Lebanese](https://open.spotify.com/album/5mssR5BJmee2fi9BMn57j2) | 4:17 |
-| 46 | [لا عشقان](https://open.spotify.com/track/7bOEaL0GW2AAakyEc50kxN) | [Naeim Al Sheikh](https://open.spotify.com/artist/0iSa5DviqQDtan4rfuFSAM) | [لا عشقان](https://open.spotify.com/album/5SaE2UlcKdpUCrOlh3lZde) | 3:26 |
+| 46 | [Ahla Sabiyyi](https://open.spotify.com/track/29RO49exsxezSkdZLRKvK4) | [Jad Ezzedine](https://open.spotify.com/artist/76Bde0ICsFrWu9Bzv2atL3) | [Ahla Sabiyyi](https://open.spotify.com/album/2xkWxkBmOlCGsnCIFtbJNU) | 3:49 |
 | 47 | [Ya Qasi](https://open.spotify.com/track/0omcGCy8cJ8aFku257ctWO) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Qasi](https://open.spotify.com/album/0UWsb464VFOomlrr6NseRu) | 3:23 |
-| 48 | [Ahla Sabiyyi](https://open.spotify.com/track/29RO49exsxezSkdZLRKvK4) | [Jad Ezzedine](https://open.spotify.com/artist/76Bde0ICsFrWu9Bzv2atL3) | [Ahla Sabiyyi](https://open.spotify.com/album/2xkWxkBmOlCGsnCIFtbJNU) | 3:49 |
+| 48 | [لا عشقان](https://open.spotify.com/track/7bOEaL0GW2AAakyEc50kxN) | [Naeim Al Sheikh](https://open.spotify.com/artist/0iSa5DviqQDtan4rfuFSAM) | [لا عشقان](https://open.spotify.com/album/5SaE2UlcKdpUCrOlh3lZde) | 3:26 |
 | 49 | [Zareef Al Tool](https://open.spotify.com/track/4vhtERQbfYJHIe86HGH1W8) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 8:12 |
 | 50 | [Cyprus](https://open.spotify.com/track/50cvVUrWKoOWyfv4LdgPPu) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Cyprus](https://open.spotify.com/album/7Fcbxz3Tml7F7sWdDSvhIK) | 3:21 |
 | 51 | [Sabrak Aalaya](https://open.spotify.com/track/2ATBgD8HftsDNKzDZf56WI) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 4:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 59 | [Halali Ya Mali \- original](https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL), [Tamim Asadi](https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG) | [Afrah](https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh) | 6:55 |
 | 60 | [Ach'hadlak](https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR) | [Wissam Al Rached](https://open.spotify.com/artist/5oFRthuA92B8mtcg1sCjS7) | [Ach'hadlak](https://open.spotify.com/album/4PRwROFXegkxVhizqno7Es) | 4:48 |
 
-Snapshot ID: `MTY0NDQ5MTYwMiwwMDAwMDAwMDBlNzNhM2QzZDY4NDczY2NkMmRjNzM4ZjM4ZDM0Mjky`
+Snapshot ID: `MTY0NDQ5MTYwMiwwMDAwMDAwMGQwNmI4ZjM0YWI1ZDI1M2FiYzNkYjgzZDQ0MTU0YzYz`

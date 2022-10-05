@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,519 likes - 51 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,540 likes - 51 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 4 | [La Historia De Un Gran Amor](https://open.spotify.com/track/6xDH1AopZEPEAyVR1Ji9In) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [De Que Tu Priva?](https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm) | 4:30 |
 | 5 | [La Chiflera](https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Date Brillo Cadenita](https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw) | 7:18 |
 | 6 | [La Grama Chapia](https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Los Numero Uno del Merengue Tipico, Vol\. 2](https://open.spotify.com/album/56muHwZ33PkyEKcu4vFH8W) | 4:39 |
-| 7 | [El Maiz](https://open.spotify.com/track/4P7wu5ZhOk92I1NYde1YwL) | [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Tipico Live](https://open.spotify.com/album/4a5WXhcbJ3tfxilPKCaIZz) | 5:31 |
+| 7 | [El diente de oro](https://open.spotify.com/track/36s4W1NUg0amqDSNRK8Lo4) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [14 Super Éxitos](https://open.spotify.com/album/1fFdyPrPN9fF264jXDO0w4) | 4:47 |
 | 8 | [El Farolito](https://open.spotify.com/track/3YYAXtXiDhwDQBfmhZ84cL) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Fogaraté](https://open.spotify.com/album/4mYGno93GSq2c3C0mkZcL3) | 3:43 |
-| 9 | [El diente de oro](https://open.spotify.com/track/36s4W1NUg0amqDSNRK8Lo4) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [14 Super Éxitos](https://open.spotify.com/album/1fFdyPrPN9fF264jXDO0w4) | 4:47 |
+| 9 | [El Maiz](https://open.spotify.com/track/4P7wu5ZhOk92I1NYde1YwL) | [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Tipico Live](https://open.spotify.com/album/4a5WXhcbJ3tfxilPKCaIZz) | 5:31 |
 | 10 | [Dile Que Vuelva](https://open.spotify.com/track/2HDynkWGsEg1pGoTEZlN9S) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [1](https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6) | 5:36 |
 | 11 | [La Foto](https://open.spotify.com/track/3lGNaVyWdIzOe2aFQymR5F) | [Kerubanda](https://open.spotify.com/artist/4KhtKfn714A0oYBmpMHcz2) | [Cuento Triste](https://open.spotify.com/album/7Kdz2QVeTDGuBXZ0hXLrpj) | 4:43 |
 | 12 | [El Baile Del Perrito](https://open.spotify.com/track/0uDxsPAVs2Hu6OQ7XlUWo2) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 8:11 |
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 21 | [El Refrán](https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:35 |
 | 22 | [No Te Vayas](https://open.spotify.com/track/40Hmq1MsOhQP2y5Aff4VtI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 4:18 |
 | 23 | [El Total](https://open.spotify.com/track/36kTM5MeWQLjhkMxAlxqII) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 5:52 |
-| 24 | [Que Se Vaya](https://open.spotify.com/track/0Xtj6e8Buf5iPqopUp74N3) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:58 |
-| 25 | [El Amor De Su Vida](https://open.spotify.com/track/5CVHhOAMpfdDbn9nq7EDGv) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi) | 4:11 |
+| 24 | [El Amor De Su Vida](https://open.spotify.com/track/5CVHhOAMpfdDbn9nq7EDGv) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi) | 4:11 |
+| 25 | [Que Se Vaya](https://open.spotify.com/track/0Xtj6e8Buf5iPqopUp74N3) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:58 |
 | 26 | [Arriba Santo Domingo](https://open.spotify.com/track/0JZR9VYEsnkLAlMzXhZHGq) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Tatico Henríquez](https://open.spotify.com/album/0JD61srO8ptHAXAghonKen) | 3:07 |
-| 27 | [La Querida Tipica](https://open.spotify.com/track/7oez5wsiPo24mYY0jzQIxN) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [La Cabaña](https://open.spotify.com/album/0RdcZm4JIUfIyTfN7exGIV) | 3:43 |
+| 27 | [Te Fuiste De Aqui](https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF) | 4:40 |
 | 28 | [Diente de Oro](https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [Merengues Tipicos Que Hicieron Historia, Vol\. 1](https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z) | 4:36 |
 | 29 | [La Pimienta es la Que Pica](https://open.spotify.com/track/1cwD4kYEcYmLCPj42Ym8Yx) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Cantando He De Morir](https://open.spotify.com/album/1WLMlfIxmGS78b2oQXKNHW) | 4:44 |
-| 30 | [Te Fuiste De Aqui](https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF) | 4:40 |
+| 30 | [La Querida Tipica](https://open.spotify.com/track/7oez5wsiPo24mYY0jzQIxN) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [La Cabaña](https://open.spotify.com/album/0RdcZm4JIUfIyTfN7exGIV) | 3:43 |
 | 31 | [La Muerte De Martín](https://open.spotify.com/track/6dRqfRIFbxbu65vsjCUXeI) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:20 |
 | 32 | [Comiendo Gallina](https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Ídolo Del Pueblo](https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK) | 2:47 |
 | 33 | [Salón de Belleza](https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 3:54 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 47 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
 | 48 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
 | 49 | [La Correa](https://open.spotify.com/track/09HW13Gn5zXFQnJlvt95n9) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/49AtvL6fjFXMg8ckR7cFjm) | 2:48 |
-| 50 | [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 |
-| 51 | [El Trafico](https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU) | [Chiqui Rodriguez](https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl) | [Merengues Tipicos los Numero 1](https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c) | 5:43 |
+| 50 | [El Trafico](https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU) | [Chiqui Rodriguez](https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl) | [Merengues Tipicos los Numero 1](https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c) | 5:43 |
+| 51 | [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDY1MTEwZjIxYzU0ZWY3Njg1ZmYyMDJlYWY3NjI2YjNj`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDM3ZGU4OTQ5NDA2M2YyNzk4YzU5YTcxNDU1NTQ1ODlm`

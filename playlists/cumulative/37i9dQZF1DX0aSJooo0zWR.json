@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 378927,
       "name": "Aslan",
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
@@ -1327,6 +1327,28 @@
       "duration_ms": 318205,
       "name": "Lockdown Boogie",
       "url": "https://open.spotify.com/track/44m5C5PwRPijazjXQJESGG"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356243,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
     },
     {
       "album": {

@@ -1560,6 +1560,24 @@
     },
     {
       "album": {
+        "name": "\u6355\u307e\u3048\u3066\u3001\u4eca\u591c\u3002",
+        "url": "https://open.spotify.com/album/4D0ZJVYQKa1I0OdY04UtND"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6d5c\u30ec\u30aa\u30f3",
+          "url": "https://open.spotify.com/artist/6WHw9pdyHYT9c952yPaGM2"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250106,
+      "name": "\u6355\u307e\u3048\u3066\u3001\u4eca\u591c\u3002",
+      "url": "https://open.spotify.com/track/0Tw3GoF2O6XA7DmytMKNLL"
+    },
+    {
+      "album": {
         "name": "\u660e\u65e5\u3092\u5922\u898b\u3066",
         "url": "https://open.spotify.com/album/0r9ZkQ0hO5jrdfLVk6jgDA"
       },

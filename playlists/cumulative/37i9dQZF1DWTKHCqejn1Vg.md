@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-197 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+198 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 | 2022-05-03 |  |
 | [Get That Money](https://open.spotify.com/track/0XKt6hs31iuVNuQi7YtaWI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:13 | 2022-05-03 | 2022-07-27 |
 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 | 2022-07-08 |  |
-| [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-03 |  |
+| [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-03 | 2022-10-05 |
 | [Goddamn](https://open.spotify.com/track/607eyydbnlF3XKaMKpbmBh) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:05 | 2022-05-03 | 2022-07-19 |
 | [Golden Time](https://open.spotify.com/track/6RYMQoaFCfmgZPOZbMiEYM) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Five Senses](https://open.spotify.com/album/6TtP8DR6ISaBIRZSy6QdIo) | 3:39 | 2022-05-03 | 2022-07-22 |
 | [Gravity](https://open.spotify.com/track/6QyBEmvY2uQvorfZ2pmo95) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Gravity](https://open.spotify.com/album/2z8pYpESu09LMi9aDSk1fZ) | 3:12 | 2022-05-03 | 2022-07-29 |
@@ -177,6 +177,7 @@
 | [Tats](https://open.spotify.com/track/6hyzfmjGcZlsGBJT7VrLMv) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48) | [Tats](https://open.spotify.com/album/1sErkgeZfvcZog5HUHflat) | 3:46 | 2022-05-03 | 2022-07-28 |
 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 | 2022-05-03 |  |
 | [Theodore \(feat\. SIKBOY\)](https://open.spotify.com/track/6VIyO0VQs0L9Du61buLkVU) | [MONIKA](https://open.spotify.com/artist/5meEvkTLK0RwePJkMngINM), [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ) | [Theodore \(feat\. SIKBOY\)](https://open.spotify.com/album/4213u333jQgHEguLcH2rl5) | 2:57 | 2022-05-03 | 2022-07-08 |
+| [Therapy \(feat\. MRSHLL\)](https://open.spotify.com/track/7mSrPHeHxpxnIkc7M1k4pT) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:06 | 2022-10-04 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 | 2022-05-03 |  |
 | [Too Many](https://open.spotify.com/track/5LgzmmzIXRzmwEmCLYKamI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:07 | 2022-05-03 | 2022-07-29 |
 | [Too Many](https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:07 | 2022-07-08 |  |

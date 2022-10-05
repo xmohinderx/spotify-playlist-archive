@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 310129,
+  "num_followers": 310243,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDA1MjdkNDc3MDg2MDJhN2M5MGZjYjY3ZGRmZWUxMzAx",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMGViNGE0YjUxOTAwZDViYmJiNzMzYzk1NTcyNDdhMGRl",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "Off The Hook",
         "url": "https://open.spotify.com/album/6lwTyWDtJbJ3czkIkUBPoj"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 216333,
       "name": "Who Can I Run To",
       "url": "https://open.spotify.com/track/0wdaPticLmmqJdhgLDJ9zI"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD"
-      },
-      "artists": [
-        {
-          "name": "Big Bub",
-          "url": "https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4"
-        }
-      ],
-      "duration_ms": 355800,
-      "name": "Zoom",
-      "url": "https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 281559,
       "name": "What's Going On - Live At Spotify, NY/2012",
       "url": "https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD"
+      },
+      "artists": [
+        {
+          "name": "Big Bub",
+          "url": "https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4"
+        }
+      ],
+      "duration_ms": 355800,
+      "name": "Zoom",
+      "url": "https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr"
     },
     {
       "added_at": "2021-01-15 05:01:00",

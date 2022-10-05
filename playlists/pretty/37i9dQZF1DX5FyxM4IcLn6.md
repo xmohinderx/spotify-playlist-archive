@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,242 likes - 81 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,237 likes - 81 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 59 | [Broken People](https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Project LA: Alive in Los Angeles](https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL) | 9:18 |
 | 60 | [Love And Regret](https://open.spotify.com/track/0BdSxc3R86Jw7wOToh19b8) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Renewal](https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR) | 4:15 |
 | 61 | [Wait On You \(Reprise\) \(feat\. Dante Bowe & Chandler Moore\)](https://open.spotify.com/track/11kFlEEi5FR2kHDtmVgMLo) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 4:14 |
-| 62 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
-| 63 | [First Love \- Live](https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 9:16 |
+| 62 | [First Love \- Live](https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 9:16 |
+| 63 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
 | 64 | [A Beautiful Noise](https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A Beautiful Noise](https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU) | 3:19 |
 | 65 | [Younger Me](https://open.spotify.com/track/5vyONuW3HK0kJQBkrSp25B) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Younger Me](https://open.spotify.com/album/1LQ7jQS8wOaIDcHqjcDet2) | 3:26 |
 | 66 | [Born Again \(feat\. Robert Glasper\)](https://open.spotify.com/track/15EnrATZ5wMy8fqA5QF6KV) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:43 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 80 | [We Swing \(The Cypher\)](https://open.spotify.com/track/4xtd1UED9e4b0bbikgWH5P) | [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Generations](https://open.spotify.com/album/16ap4qGPg3SNSxp2c6tthY) | 5:38 |
 | 81 | [Time Traveler](https://open.spotify.com/track/4Uf5U3hYFdeAebC2Bm8Wvj) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Time Traveler](https://open.spotify.com/album/6KEx3AAG8tKgtSyban6cgh) | 4:29 |
 
-Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDMxNzQyN2NlYjU2NjFjYzVlNmQxZjdjNDJmNzkyNDE3`
+Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDZjYmE0ODRkY2M2NzUzNWFkNjk1YjM3ZTc0MTJhOGQx`

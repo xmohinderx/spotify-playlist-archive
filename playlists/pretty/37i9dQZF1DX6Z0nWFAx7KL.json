@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 25970,
+  "num_followers": 25988,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMGMzMmEyMDdmMzBiNzZmNWM4NmM4ZjhmN2JkMzgyYTBi",
+  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMDZjMGNiMzllYTk2OGE1OTljNDAyNWE2MDQ4MjdkMTZh",
   "tracks": [
     {
       "added_at": "2022-09-29 22:01:00",
@@ -35,6 +35,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 182056,
       "name": "With Me",
       "url": "https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+        "name": "Never Give Up On You",
+        "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
         }
       ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+      "duration_ms": 216538,
+      "name": "Never Give Up On You",
+      "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -547,22 +551,18 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Never Give Up On You",
-        "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
       },
       "artists": [
         {
-          "name": "Ryan Shepherd",
-          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
-        },
-        {
-          "name": "Georgi Kay",
-          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
         }
       ],
-      "duration_ms": 216538,
-      "name": "Never Give Up On You",
-      "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Botanica",
-        "url": "https://open.spotify.com/album/4hGX5ykusRBQyujcqDTJDO"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "Botanica",
-      "url": "https://open.spotify.com/track/1o3ksFswee5ivJWC6eJTa1"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "No One Hurries Time",
-        "url": "https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP"
+        "name": "Botanica",
+        "url": "https://open.spotify.com/album/4hGX5ykusRBQyujcqDTJDO"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Andrea Hamilton",
-          "url": "https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs"
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
         }
       ],
-      "duration_ms": 156610,
-      "name": "No One Hurries Time",
-      "url": "https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop"
+      "duration_ms": 187377,
+      "name": "Botanica",
+      "url": "https://open.spotify.com/track/1o3ksFswee5ivJWC6eJTa1"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -871,6 +851,26 @@
       "duration_ms": 161236,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "No One Hurries Time",
+        "url": "https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Andrea Hamilton",
+          "url": "https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "No One Hurries Time",
+      "url": "https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
       },
@@ -1015,6 +999,42 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Marco Polo",
         "url": "https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 156393,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "A Radiant Sign",
-        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 232917,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Winter's Going",
+        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
+      },
+      "artists": [
+        {
+          "name": "Flantier",
+          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Winter's Going",
+      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Winter's Going",
-        "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
-      },
-      "artists": [
-        {
-          "name": "Flantier",
-          "url": "https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Winter's Going",
-      "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Down from this High",
         "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
       },
@@ -1295,26 +1295,6 @@
       "duration_ms": 115297,
       "name": "Down from this High",
       "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Sweet Side (feat. Caitlyn Scarlett)",
-        "url": "https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR"
-      },
-      "artists": [
-        {
-          "name": "Crazy Cousinz",
-          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
-        },
-        {
-          "name": "Caitlyn Scarlett",
-          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "Sweet Side (feat. Caitlyn Scarlett)",
-      "url": "https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Sweet Side (feat. Caitlyn Scarlett)",
+        "url": "https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "Sweet Side (feat. Caitlyn Scarlett)",
+      "url": "https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
       },
@@ -1359,26 +1359,6 @@
       "duration_ms": 262800,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Room",
-        "url": "https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV"
-      },
-      "artists": [
-        {
-          "name": "Braaten",
-          "url": "https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB"
-        },
-        {
-          "name": "Mathew V",
-          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "Room",
-      "url": "https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1411,6 +1391,46 @@
       "duration_ms": 184000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Room",
+        "url": "https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV"
+      },
+      "artists": [
+        {
+          "name": "Braaten",
+          "url": "https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB"
+        },
+        {
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Unrequited",
+        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Unrequited",
+      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1459,6 +1479,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Late Delivery",
+        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "duration_ms": 202963,
+      "name": "Late Delivery",
+      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/2cJQqPgmFzcoCB8ENkHMVu"
       },
@@ -1475,22 +1511,6 @@
       "duration_ms": 219111,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4AA5Bkykoy2Nx72VQsqlsW"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Late Delivery",
-        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 202963,
-      "name": "Late Delivery",
-      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1559,26 +1579,6 @@
       "duration_ms": 211073,
       "name": "Bosana",
       "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Unrequited",
-        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
     },
     {
       "added_at": "2022-09-29 22:01:00",

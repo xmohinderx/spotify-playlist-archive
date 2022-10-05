@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. red leather
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,860 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,830 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 62 | [I Feel Everything](https://open.spotify.com/track/3EkSfn6JMfIqCu3coLz1jy) | [Izzy T](https://open.spotify.com/artist/2YoA6qpLPKl5KkGbxlxDMg) | [I Feel Everything](https://open.spotify.com/album/4VRNBtU7RQheZTYLH6QT6m) | 2:24 |
 | 63 | [THERAPY!](https://open.spotify.com/track/6lzW55cVEYSovFmM4EcSS6) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 2:13 |
 | 64 | [FUCKYOU!](https://open.spotify.com/track/6BtDU1nkjCcc1Ko8ADERxM) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [FUCKYOU!](https://open.spotify.com/album/4Vdf6QbH9pCruj1FEfE7rc) | 1:17 |
-| 65 | [Fang Dummy](https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [Fang Dummy](https://open.spotify.com/album/4qkuZszjUTkx0bVhtiGwMy) | 3:50 |
+| 65 | [FANG DUMMY](https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [FANG DUMMY](https://open.spotify.com/album/4qkuZszjUTkx0bVhtiGwMy) | 3:50 |
 | 66 | [Holiday Capsules!!](https://open.spotify.com/track/2fxsZuNi8s8HrTmbXVCl0v) | [YukoEXE](https://open.spotify.com/artist/62gUqdlgqXPpTiYdenThLs) | [Holiday Capsules!!](https://open.spotify.com/album/7KTQUCb8Went1ZcIjv572K) | 1:46 |
 | 67 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 |
 | 68 | [You've Created a Monster](https://open.spotify.com/track/0ItZEK2MuBvrACJm7hIjgx) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [You've Created a Monster](https://open.spotify.com/album/6Qy4DtpIf0rOVtu1npYT77) | 2:38 |

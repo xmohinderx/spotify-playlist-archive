@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Boza & Be\u00e9le.",
-  "num_followers": 505880,
+  "num_followers": 505923,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0Nzg1NywwMDAwMDAwMDc3NWUwODlkMzY4OTRiNjQ0ZGYzYmU2YTZkNDA3ZGQ0",
+  "snapshot_id": "MTY2Mzk0Nzg1NywwMDAwMDAwMGM4ZmI4OTRlYjA0NmYxMjIwYzUxMWYzOTliM2ZlNWUy",
   "tracks": [
     {
       "added_at": "2022-09-23 15:44:17",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-23 15:44:17",
       "album": {
+        "name": "V16",
+        "url": "https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "duration_ms": 119106,
+      "name": "V16",
+      "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
+    },
+    {
+      "added_at": "2022-09-23 15:44:17",
+      "album": {
         "name": "De Pari",
         "url": "https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 209032,
       "name": "Amor De Una Noche",
       "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
-    },
-    {
-      "added_at": "2022-09-23 15:44:17",
-      "album": {
-        "name": "V16",
-        "url": "https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG"
-      },
-      "artists": [
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 119106,
-      "name": "V16",
-      "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
     },
     {
       "added_at": "2022-09-23 15:44:17",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2022-09-23 15:44:17",
       "album": {
-        "name": "Tu Mam\u00e1",
-        "url": "https://open.spotify.com/album/5EdGxZQTBt0gjKa5ioxolF"
+        "name": "Mojadero",
+        "url": "https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl"
       },
       "artists": [
         {
-          "name": "Chris Wandell",
-          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
         }
       ],
-      "duration_ms": 167147,
-      "name": "Tu Mam\u00e1",
-      "url": "https://open.spotify.com/track/5VdVHZJzHcRVSs1vyUH1oB"
+      "duration_ms": 159157,
+      "name": "Mojadero",
+      "url": "https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i"
     }
   ],
   "unique_name": "el nuevo urbano",

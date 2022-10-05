@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,714 likes - 60 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,837 likes - 60 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 20 | [Chime \- Edit](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 21 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
 | 22 | [Showing Out \(Get Fresh At the Weekend\) \- 7" Version](https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:34 |
-| 23 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 |
-| 24 | [Everybody Everybody \(Le Freak Mix\)](https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW), [DJ Lelewel](https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL) | [Everybody Everybody](https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H) | 5:20 |
+| 23 | [Everybody Everybody \(Le Freak Mix\)](https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW), [DJ Lelewel](https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL) | [Everybody Everybody](https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H) | 5:20 |
+| 24 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 |
 | 25 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 |
 | 26 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
 | 27 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 |
 | 60 | [Brighter Days feat\. Dajae \- Louie's Masters At Work Mix](https://open.spotify.com/track/4Z4IWEJMEMGRlqu67UxWAH) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [Only 4 U: The Sound Of Cajmere & Cajual Records 1992\-2012](https://open.spotify.com/album/4Ypvjh2Pf3c5AGZfkNva5d) | 10:40 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDk0ZWIwMjg1ZTI2ZWQxZjE1YTZmNGViZmFkYTI2MWU0`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDllMGU4MDg5NDgzZDIzY2MwOGI3NTgyMjM3YzliNGMx`

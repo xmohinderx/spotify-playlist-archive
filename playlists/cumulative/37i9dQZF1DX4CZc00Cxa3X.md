@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-146 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+147 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Objects With Intent \- Heathered Pearls Remix](https://open.spotify.com/track/5LS0asKEyjsjXmbC4EYSlB) | [Dotlights](https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY), [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV) | [Objects With Intent \(Heathered Pearls Remix\)](https://open.spotify.com/album/3ElI4A720abHnbeJi0Kf2P) | 4:35 | 2022-03-17 | 2022-09-21 |
 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 | 2022-03-17 |  |
 | [One Day Early](https://open.spotify.com/track/2XUYOwgUAVzxYNfZX4lPIj) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [One Day Early](https://open.spotify.com/album/4UPKKJk7iQsYauHS72tkeF) | 27:53 | 2022-03-17 | 2022-07-28 |
+| [Open Handed](https://open.spotify.com/track/7fBI4qaCF4LTisfqxyCjFX) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Open Handed](https://open.spotify.com/album/0OMRDlt8V9W7kjybKUbwSi) | 3:24 | 2022-10-04 |  |
 | [Open Mind](https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ) | [gonima](https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80) | [Strands](https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn) | 2:35 | 2022-09-07 |  |
 | [Orizzontale Verticale](https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02) | [Loris S\. Sarid](https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl) | [Music for Tomato Plants](https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb) | 4:26 | 2022-08-17 |  |
 | [Overlay \- KMRU Remix](https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8) | [Koki Nakano](https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Overlay \(KMRU Remix\)](https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY) | 5:05 | 2022-03-17 | 2022-09-13 |
@@ -119,7 +120,7 @@
 | [Sparrow Arc Tall](https://open.spotify.com/track/3iaMYZGYYQNHQ8CzsbNV1O) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Sparrow Arc Tall](https://open.spotify.com/album/4Gsw06a8dhF4Ynw4AlKuBP) | 2:04 | 2022-09-12 |  |
 | [Spinnaker on a Southerly](https://open.spotify.com/track/6zrdZQiLJvaIMWzuCOyyIC) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:07 | 2022-03-17 | 2022-08-23 |
 | [Spring Consolation](https://open.spotify.com/track/7eB3y89enbULLgbXi3aN62) | [Jessica Gallo](https://open.spotify.com/artist/0AUXT7h44snL3V6J0jBame), [Kenji Azuma](https://open.spotify.com/artist/0mXX3f6gHD2LPwHv6n5E2D) | [Spring Consolation](https://open.spotify.com/album/5lRJRm17mkKZvZMyBgKetr) | 4:15 | 2022-06-24 |  |
-| [Staccato](https://open.spotify.com/track/0v3OSsEGDTL2ZYHnkjur0A) | [Oli Bayston](https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H) | [Bomani](https://open.spotify.com/album/0nUNrbg1HfP1COqD1AdR84) | 4:06 | 2022-03-17 |  |
+| [Staccato](https://open.spotify.com/track/0v3OSsEGDTL2ZYHnkjur0A) | [Oli Bayston](https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H) | [Bomani](https://open.spotify.com/album/0nUNrbg1HfP1COqD1AdR84) | 4:06 | 2022-03-17 | 2022-10-05 |
 | [Station Eleven](https://open.spotify.com/track/3Cbku8vEs4oRi8kLvRKeOu) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 3:23 | 2022-05-06 | 2022-07-24 |
 | [Stay](https://open.spotify.com/track/53iV2DuzwR68Rj4uoxTehG) | [Tobias Karlehag](https://open.spotify.com/artist/4KYmWSInEJtjY7enJBcaDj) | [Process](https://open.spotify.com/album/0DjXpY7UWQCQZsVdQKiyaG) | 7:43 | 2022-03-17 | 2022-07-29 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2022-03-17 |  |

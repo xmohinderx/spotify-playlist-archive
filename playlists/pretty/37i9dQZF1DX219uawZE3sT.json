@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 100363,
+  "num_followers": 100424,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDFlYTBlNzYxYjQyZTJhZGFlOTVkODQ4OGYzOWE3OGQ0",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDg4NDQ2N2IxODViNDRhYTY0ZGI1NDMyZDgyZGI0ZjUz",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Mirada de Mujer",
-        "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
-      },
-      "artists": [
-        {
-          "name": "Aranza",
-          "url": "https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Luis Miguel (Edici\u00f3n De Lujo)",
         "url": "https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+        "name": "Mirada de Mujer",
+        "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
       },
       "artists": [
         {
-          "name": "C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK"
+          "name": "Aranza",
+          "url": "https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB"
         }
       ],
-      "duration_ms": 182946,
-      "name": "El Baile del Sapito",
-      "url": "https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy"
+      "duration_ms": 179520,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1123,6 +1107,22 @@
       "duration_ms": 213040,
       "name": "D\u00eda De Suerte",
       "url": "https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "El Baile del Sapito",
+      "url": "https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy"
     },
     {
       "added_at": "2022-05-06 18:32:26",

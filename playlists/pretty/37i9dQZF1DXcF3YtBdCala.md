@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Río Roma & Pepe Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,081 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,117 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 42 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
 | 43 | [Fue un Placer Amarte](https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Fue un Placer Amarte](https://open.spotify.com/album/6lkzoOCU8gJ1Vtt6cV9659) | 3:49 |
 | 44 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
-| 45 | [Ven Porque Te Necesito](https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ven Porque Te Necesito](https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX) | 3:05 |
-| 46 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
+| 45 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
+| 46 | [Ven Porque Te Necesito](https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ven Porque Te Necesito](https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX) | 3:05 |
 | 47 | [Te Quise Olvidar](https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Quise Olvidar](https://open.spotify.com/album/2Zt6BjmuPDe7uAbSjj4RmN) | 3:48 |
 | 48 | [A Mi Manera](https://open.spotify.com/track/5PeaVtXNXfu8EWDZfpSEgb) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [A Mi Manera](https://open.spotify.com/album/6jXRZyYOZsFtUsT8ckn42J) | 5:17 |
 | 49 | [Los Besos Jamás](https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Los Besos Jamás](https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 74 | [No Te Dejes Engañar](https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Dejes Engañar](https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME) | 3:13 |
 | 75 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
 
-Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMDk2NzQxMjNkYmIxNjUyZGIwMThkNGUwZjQ4MGJhNDFi`
+Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMGZhMzg2YzkzZjIwZTc0OTU3MGU5ZDNiZjY1NzU5Njdi`

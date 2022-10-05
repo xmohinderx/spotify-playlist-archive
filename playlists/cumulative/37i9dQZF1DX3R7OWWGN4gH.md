@@ -2,7 +2,7 @@
 
 ### [Villain Mode](https://open.spotify.com/playlist/37i9dQZF1DX3R7OWWGN4gH)
 
-> entering my reputation era 🐍
+> entering my anti\-hero era 🐍
 
 231 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
 

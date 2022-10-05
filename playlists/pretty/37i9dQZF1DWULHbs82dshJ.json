@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 46317,
+  "num_followers": 46326,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMGIxODA4YmU0ODRlZTExMDU4Y2ZmY2NjNTA2MjMyMGIx",
+  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDEzY2QzOTY3YjQyNjgyNDQ5OWUwNzIwOGE0NWUyY2Rj",
   "tracks": [
     {
       "added_at": "2021-12-15 15:42:19",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 272186,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -583,26 +583,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Gumbo Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "How Deep Is Your Love (feat. Yebba) - Live",
-      "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Mind Body & Soul",
         "url": "https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Gumbo Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "How Deep Is Your Love (feat. Yebba) - Live",
+      "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -719,26 +719,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Wrong Places (from Songland)",
         "url": "https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "The Electric Lady",
         "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx"
+        "name": "I Put a Spell on You",
+        "url": "https://open.spotify.com/album/1vurjQl33mKXSnF7gKRlZd"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         }
       ],
-      "duration_ms": 292400,
-      "name": "4 Seasons Of Loneliness",
-      "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
+      "duration_ms": 220453,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/5N8ttZslGXlcNGMP2ACivh"
     }
   ],
   "unique_name": "Dia de Chuva",

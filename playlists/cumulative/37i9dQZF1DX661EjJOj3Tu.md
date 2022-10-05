@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-274 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/6qmxQRqQvEVEPIuHCP321g)
+275 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/6qmxQRqQvEVEPIuHCP321g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Mambo in Miami](https://open.spotify.com/track/3LgdE2ElJy94x5qqgJWl7Q) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Too Late Now](https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy) | 2:45 | 2021-12-09 | 2022-07-29 |
 | [Mambo Inn \(Remastered\)](https://open.spotify.com/track/2iQzD2Nsu682Ta394Zkyc1) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Mario Bauzá](https://open.spotify.com/artist/4ac8P2JGDFcQLNdGLm227f), [Bobby Woodlen](https://open.spotify.com/artist/57kN0Ren5D3MzulY4HvkRu), [Grace Sampson](https://open.spotify.com/artist/7uNF5LB5XkcRuxKixtqZRf) | [Anthology](https://open.spotify.com/album/1Qqms5OVqOfiOWZtCYpwck) | 5:52 | 2021-12-09 | 2022-07-28 |
 | [Mambo Inn \- Rudy Van Gelder Edition / Remastered 2007](https://open.spotify.com/track/5yjT5e0813ydHnLjTFzYp3) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [The Latin Bit \(Remastered\)](https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX) | 5:52 | 2022-07-26 |  |
-| [Mambo Sangria](https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Too Late Now](https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy) | 2:45 | 2021-12-09 |  |
+| [Mambo Sangria](https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Too Late Now](https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy) | 2:45 | 2021-12-09 | 2022-10-05 |
 | [Mango](https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R) | [The Bahama Soul Club](https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [Mango](https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX) | 3:41 | 2021-12-09 |  |
 | [Manteca](https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Trumpet Evolution](https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A) | 3:22 | 2021-12-09 | 2022-07-13 |
 | [Manteca](https://open.spotify.com/track/1R6miPh5RNqX26p6QWKYQq) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 6:36 | 2021-12-09 | 2022-07-24 |
@@ -221,6 +221,7 @@
 | [Samba De Orfeu](https://open.spotify.com/track/7qgHLXpJpbxkRQt7rgGC7s) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 1:59 | 2021-12-09 | 2022-07-29 |
 | [Scarborough Fair](https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [The Greatest Hits Of Sergio Mendes And Brasil '66](https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P) | 3:21 | 2021-12-09 |  |
 | [Se E Tarde, Me Perdoa](https://open.spotify.com/track/4WuM7C9XtbjcQPzNbM2Pk9) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 2:50 | 2021-12-09 | 2022-07-24 |
+| [Se E Tarde, Me Perdoa](https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Plays The Contemporary Music Of Mexico And Brazil](https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo) | 2:50 | 2022-08-31 |  |
 | [Sería Una Pena](https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl) | [Pete Perignon](https://open.spotify.com/artist/1E4i7we9SQzGSyzoMh53RX), [Jeremy Bosch](https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD) | [Sería Una Pena](https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr) | 4:21 | 2022-07-26 |  |
 | [Seven Steps To Heaven](https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 2:11 | 2021-12-09 |  |
 | [Si Tu Supieras](https://open.spotify.com/track/4zlNld3hi3hJaofNa02t0o) | [Joel Hierrezuelo](https://open.spotify.com/artist/5is0ekUanJcudSxgNsqxhl), [Pierre De Bethmann](https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2), [Felipe Cabrera](https://open.spotify.com/artist/4dUUZTPOISpCJRadklHYuv), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv) | [Asi de Simple](https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV) | 6:00 | 2021-12-09 | 2022-07-27 |

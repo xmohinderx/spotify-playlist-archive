@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 94370,
+  "num_followers": 94433,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM3NTg3NCwwMDAwMDAwMGEwNjkxMTVkZmQ2MmZlZDk1MTFjZTI0OTI5ZDYzMjhh",
+  "snapshot_id": "MTY2NDM3NTg3NCwwMDAwMDAwMDNjMjUzOTA0NDZjYjNiMjBkYjc1NjE1ZTNkNjgwNjU2",
   "tracks": [
     {
       "added_at": "2022-09-09 05:00:00",
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
-      "added_at": "2022-10-04 02:00:12",
+      "added_at": "2022-10-05 02:03:55",
       "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/5dbmoIYD1zBB64NzQtMtB7"
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+      },
+      "artists": [
+        {
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+        }
+      ],
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
       },
@@ -739,26 +755,6 @@
       "duration_ms": 181798,
       "name": "El Tiempo Est\u00e1 Despu\u00e9s",
       "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Dividido",
-        "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "Dividido",
-      "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -803,18 +799,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+        "name": "Dividido",
+        "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
       },
       "artists": [
         {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+      "duration_ms": 214777,
+      "name": "Dividido",
+      "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "A 200 mil",
         "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 172094,
       "name": "A 200 mil",
       "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Sab\u00e9is Qui\u00e9nes Sois",
-        "url": "https://open.spotify.com/album/6vhOlsztLifwHFGDVzdmyq"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Sab\u00e9is Qui\u00e9nes Sois",
-      "url": "https://open.spotify.com/track/2LzQ5MZuUFAuuqSctvnA7M"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Las Bestias Que Me Acompa\u00f1an",
         "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 222428,
       "name": "Las Bestias Que Me Acompa\u00f1an",
       "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Sab\u00e9is Qui\u00e9nes Sois",
+        "url": "https://open.spotify.com/album/6vhOlsztLifwHFGDVzdmyq"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Sab\u00e9is Qui\u00e9nes Sois",
+      "url": "https://open.spotify.com/track/2LzQ5MZuUFAuuqSctvnA7M"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
+        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "El don de la ternura",
+      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
@@ -1255,38 +1271,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Voltearemos",
-        "url": "https://open.spotify.com/album/2SgQl7yy0oMnEJ22uaYIfQ"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Voltearemos",
-      "url": "https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
-        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
-      },
-      "artists": [
-        {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
-        }
-      ],
-      "duration_ms": 297773,
-      "name": "El don de la ternura",
-      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 161342,
       "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
       "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Voltearemos",
+        "url": "https://open.spotify.com/album/2SgQl7yy0oMnEJ22uaYIfQ"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Voltearemos",
+      "url": "https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Aquellos Misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Aquellos Misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
+    },
+    {
       "added_at": "2022-09-09 05:00:00",
       "album": {
         "name": "El Perro Feroz",
@@ -1429,22 +1445,6 @@
       "url": "https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Aquellos Misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos Misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
-    },
-    {
       "added_at": "2022-09-09 05:00:00",
       "album": {
         "name": "Sana Sana",
@@ -1459,26 +1459,6 @@
       "duration_ms": 302976,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "El Caminante",
-        "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 188769,
-      "name": "La Aguja",
-      "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1503,6 +1483,26 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "El Caminante",
+        "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 188769,
+      "name": "La Aguja",
+      "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 204746,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 134956,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Alfonsina Y El Mar",
         "url": "https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 279333,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
     },
     {
       "added_at": "2022-09-09 05:00:00",

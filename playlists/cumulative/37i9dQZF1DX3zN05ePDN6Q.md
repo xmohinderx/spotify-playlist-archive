@@ -4,7 +4,7 @@
 
 > Tem rap nacional e muito boom bap na área\. Foto: AmandesNoBeat, Dudu
 
-200 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
+201 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Florescer](https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F) | [Mayarah Magalhães](https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Florescer](https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x) | 4:48 | 2022-08-26 |  |
 | [Flow Bomba Patch](https://open.spotify.com/track/7g2dgacknfJBQj63VPXviE) | [Uxie Kid](https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V), [Prod\. JtC](https://open.spotify.com/artist/4Vv4Rnjh6CWp3tvDsaafFB) | [Deus É Bom e o Diabo É Ruim.](https://open.spotify.com/album/6NzuAOv91EnCFFemUEaSYY) | 1:33 | 2022-03-18 | 2022-05-14 |
 | [Flow Gui](https://open.spotify.com/track/4At1AQaI3hhE6MHLfvwZyI) | [JazzC](https://open.spotify.com/artist/7BZV4YhyRoJoyHzCWudRNQ), [Mano Conxa](https://open.spotify.com/artist/4TFnZ9xYeHc7yNqHgskG1T) | [Groove](https://open.spotify.com/album/0yWnQXBbklFpHWSH7C4DGA) | 3:02 | 2022-03-18 | 2022-05-28 |
+| [Flow Toledo](https://open.spotify.com/track/1mg6nNSLiAdxQpFbPyuAHP) | [DTPK Crew](https://open.spotify.com/artist/7uypB2Jna7hO5DjXvty0v8), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Dj Mic](https://open.spotify.com/artist/037328J8EatrGSSDZpGABw) | [Flow Toledo](https://open.spotify.com/album/2LdvHmyiKdBzQgrZk6Yc1v) | 2:46 | 2022-09-30 |  |
 | [Fluxo](https://open.spotify.com/track/0Aa21a0sLo6te4TmE3FTpX) | [Zilladxg](https://open.spotify.com/artist/1zMi1PM04eQnew4H8wQ8nV) | [A Melhor Hora É Agora](https://open.spotify.com/album/4TNlLlo6EKvnhrqRY66a47) | 2:24 | 2022-03-18 | 2022-05-14 |
 | [Fogo](https://open.spotify.com/track/4gJyFa0TVQAJSl5unvL50x) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Fogo](https://open.spotify.com/album/1JypFrtNwLcMEl2Tq1jZ9H) | 3:43 | 2022-07-08 | 2022-08-06 |
 | [Foi Mal Aí](https://open.spotify.com/track/5OoHKyFa8khX9XCeI8aGkt) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Não Me Leve a Mal](https://open.spotify.com/album/2YUDMOSRfyydUqGykgTeF1) | 2:54 | 2022-03-18 | 2022-04-09 |

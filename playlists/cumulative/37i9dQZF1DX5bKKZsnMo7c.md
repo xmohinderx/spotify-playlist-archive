@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-168 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+169 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blah Blah Blah](https://open.spotify.com/track/5R4OMPuKD1yshMdbk8ibnS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Blah Blah Blah](https://open.spotify.com/album/5a4pTggWbO3quPTamPL5wu) | 3:50 | 2022-06-14 | 2022-07-16 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-05-17 |  |
 | [Blow My Brains Out](https://open.spotify.com/track/4ZlQzskKkK4jsbcqO96luB) | [Tikkle Me](https://open.spotify.com/artist/6oWIS1UZp9dR74eYez74vX) | [Tikkle Me](https://open.spotify.com/album/0tNO6EN9i6at8omQTYkcch) | 3:42 | 2022-08-08 |  |
+| [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-10-04 |  |
 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 | 2022-05-17 |  |
 | [Bohemian Rhapsody](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Stone Cold Classics](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 5:55 | 2022-05-17 |  |
 | [Bombed Out Building](https://open.spotify.com/track/5wxyCrZAlw8YLx2SNKoxzy) | [Boychik](https://open.spotify.com/artist/3LmJZ3pIaRfNEghu7g1eLn) | [Bombed Out Building](https://open.spotify.com/album/7ogcVqi5yAHLSvDnnV16Xg) | 3:18 | 2022-05-17 |  |
@@ -49,7 +50,7 @@
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-07 |  |
 | [cut my fingers off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-05-17 |  |
 | [despair](https://open.spotify.com/track/292JruITePIpFvRpPb85GF) | [leo.](https://open.spotify.com/artist/0YYWwSEUilM9sK1A12GSGC) | [despair](https://open.spotify.com/album/4N3ckWWF9Z4ysPv7LHakOr) | 2:55 | 2022-05-17 |  |
-| [Drown Me!](https://open.spotify.com/track/0HqpmGvujuyXod8f9LDvZo) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5l3wkGjjglxU4Z9fSE5YA6) | 2:52 | 2022-08-05 |  |
+| [Drown Me!](https://open.spotify.com/track/0HqpmGvujuyXod8f9LDvZo) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5l3wkGjjglxU4Z9fSE5YA6) | 2:52 | 2022-08-05 | 2022-10-05 |
 | [Drown Me!](https://open.spotify.com/track/6e5joNjVEy5XYZ9EBFYslh) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5L2TC2jEJAYN9gLE7pMohj) | 2:52 | 2022-05-17 | 2022-08-06 |
 | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/track/7G6tyJxqTuhZnLHtkRX1hE) | [Oli Frost](https://open.spotify.com/artist/5dFJdXPDdubN7e6RIC2MXP) | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/album/22V98xfVoC34f6ZWcVI8XN) | 2:37 | 2022-06-24 | 2022-07-08 |
 | [Eleanor Rigby](https://open.spotify.com/track/6o4KmRRIZVzII1yA6IK9Cq) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Symphony Sessions](https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6) | 4:40 | 2022-05-17 | 2022-07-16 |

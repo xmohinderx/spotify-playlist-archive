@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Peppertones\(페퍼톤스\)\) \(핫한 국내 록음악을 만나보세요!\)
 
-405 songs - 1 day 1 hr 0 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+406 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Doberman](https://open.spotify.com/track/64BzcskCExMQTFAcTubGv7) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Military Prosecutor Doberman, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0QP7DNMT3yVLOvbrTEndEl) | 3:07 | 2022-05-11 | 2022-05-25 |
 | [Domino](https://open.spotify.com/track/0604Qn0FcaJCAi93erZduj) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [2021](https://open.spotify.com/album/2WyC34NtnFDLJKGRHfIhzd) | 3:29 | 2022-05-11 | 2022-06-24 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-04-12 |  |
-| [Don't be afraid to fall](https://open.spotify.com/track/2AfW3wIFo6uR2YIPoVewrd) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/5lXkyPBrvROgUmXkVBBDEY) | 3:31 | 2022-09-30 |  |
+| [Don't be afraid to fall](https://open.spotify.com/track/2AfW3wIFo6uR2YIPoVewrd) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/5lXkyPBrvROgUmXkVBBDEY) | 3:31 | 2022-09-30 | 2022-10-05 |
 | [Don't Say No \(Feat\. Jay Park\)](https://open.spotify.com/track/2AmFJKuVIdW7fayLvZQ3aR) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Don't Say No](https://open.spotify.com/album/1vm6PTRu1D8zhWh3gSStGw) | 3:40 | 2022-04-22 | 2022-07-29 |
 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 | 2022-09-02 |
 | [Dreaming](https://open.spotify.com/track/43EV8ah3RzJV0jZgOyAnJ6) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Dreaming](https://open.spotify.com/album/4ZT56atEMwZ1bagTDTZjrY) | 3:45 | 2022-04-21 | 2022-07-15 |
@@ -320,6 +320,7 @@
 | [Starlight](https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Poong, the Joseon Psychiatrist OST Part.5](https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2) | 3:21 | 2022-09-05 | 2022-09-21 |
 | [Starry Night](https://open.spotify.com/track/4vSQmGcgOhsoK5lqmNOEz2) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 4:38 | 2022-04-12 | 2022-07-18 |
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-06-20 | 2022-07-10 |
+| [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-05 |  |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |
 | [stuck on you](https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [stuck on you](https://open.spotify.com/album/1lizyEQ39gw9rjafMyyYZY) | 3:25 | 2022-07-22 | 2022-08-02 |
 | [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 | 2022-07-27 |

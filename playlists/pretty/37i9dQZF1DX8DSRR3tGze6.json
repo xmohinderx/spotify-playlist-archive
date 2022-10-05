@@ -1,12 +1,12 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 191886,
+  "num_followers": 191940,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1ODIxMCwwMDAwMDAwMDM0YjNhZTdmZGQ2N2I3OTQ0NzAxZWEzZTMwMDQ4M2Rm",
+  "snapshot_id": "MTY2MDc1ODIxMCwwMDAwMDAwMGQ5MmM2NzYzMGI0NjJiMjFiYmY0N2ZmZWE4OGE3NmYz",
   "tracks": [
     {
       "added_at": "2022-08-17 17:43:30",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184435,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184435,
-      "name": "HP",
-      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Qui\u00e9reme Mientras Se Pueda",
-        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Qui\u00e9reme Mientras Se Pueda",
-      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 181845,
       "name": "Detente",
       "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Qui\u00e9reme Mientras Se Pueda",
+        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Qui\u00e9reme Mientras Se Pueda",
+      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Cr\u00e9eme",
-        "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 212493,
-      "name": "Cr\u00e9eme",
-      "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
+      "duration_ms": 204000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1175,18 +1171,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
+        "name": "Cr\u00e9eme",
+        "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
+      "duration_ms": 212493,
+      "name": "Cr\u00e9eme",
+      "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 195044,
       "name": "Sola",
       "url": "https://open.spotify.com/track/0KHhNlHN5lWn7q332PiPys"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 233929,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "Los Besos",
         "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
       },
@@ -1531,18 +1547,34 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA"
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 233929,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn"
+      "duration_ms": 201226,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1571,38 +1603,6 @@
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/1m98axLPQPf3odJJQYc5ok"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "La Dif\u00edcil",
+        "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/1E3FsITcOH4apvzd9PFVtS"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 220440,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/35hemoZQuo9lEbFSS05I9h"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Gangalee",
-        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/0REjFxlMJRQxPqWSdmXiAT"
     }
   ],
   "unique_name": "Latin Drive",

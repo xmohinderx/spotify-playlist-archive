@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Jose Manuel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,393 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,447 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Así Soy Yo](https://open.spotify.com/track/1Nm7M7ZUO0HW63oF7HfTQv) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Así Soy Yo](https://open.spotify.com/album/179OE8qVRwDBrc5WZheE2W) | 2:54 |
 | 2 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 |
 | 3 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
-| 4 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
+| 4 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 |
 | 5 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 |
 | 6 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 |
-| 7 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 |
+| 7 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
 | 8 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 |
 | 9 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 |
 | 10 | [Junto A Un Perro](https://open.spotify.com/track/2twZUFQw50PVCR4FcIV8CJ) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Junto A Un Perro](https://open.spotify.com/album/31nxTwmvxvaG6RZ4xgUDfn) | 3:32 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 89 | [Lo Que Tengo](https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg) | [Lo Que Tengo](https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g) | 3:44 |
 | 90 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
 | 91 | [La Lista](https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [La Lista](https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH) | 3:31 |
-| 92 | [El Mal Camino](https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Mal Camino](https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38) | 3:58 |
-| 93 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
+| 92 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
+| 93 | [El Mal Camino](https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Mal Camino](https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38) | 3:58 |
 | 94 | [Maldito Olvido](https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Reflejo Nuevo](https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9) | [Maldito Olvido](https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS) | 3:34 |
 | 95 | [Vida Prestada](https://open.spotify.com/track/086IbayM2Ya7pAXx3ojqp6) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Vida Prestada](https://open.spotify.com/album/67XIm7lVT0ZvCxs7YuJYun) | 3:57 |
 | 96 | [SRT](https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [SRT](https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei) | 2:58 |
 | 97 | [Bla Bla Bla](https://open.spotify.com/track/2Fa31aSs31jeYTK2P85ZkL) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Bla Bla Bla](https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5) | 2:16 |
 | 98 | [Cuando Se Ama a Una Mujer](https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Cuando Se Ama a Una Mujer](https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw) | 3:36 |
-| 99 | [A Cada Rato \(En Vivo\)](https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [A Cada Rato \(En Vivo\)](https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT) | 3:05 |
-| 100 | [Yo Estaba Solo \- En Vivo](https://open.spotify.com/track/0FJ4mVBV1D1TvXV4UFP12H) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Yo Estaba Solo \(En Vivo\)](https://open.spotify.com/album/0YVpggI6DRcIMGclrWWDYp) | 3:57 |
+| 99 | [Rayas En La Cara](https://open.spotify.com/track/3WxrfhDdNCHEy8ofNFSqsf) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [Rayas En La Cara](https://open.spotify.com/album/50ZfxOvxBmSABVkVLYDSDv) | 2:54 |
+| 100 | [A Cada Rato \(En Vivo\)](https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [A Cada Rato \(En Vivo\)](https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT) | 3:05 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGJkOGI4N2QwMDRiNjRiYmVjMjk3NGIzNWZhODMxYTgx`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDAzNzk1Njk0OGNjZTNiODRiZWE0YTZkOTYzZjY5NTk3`

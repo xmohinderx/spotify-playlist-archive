@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with the golden age of pop punk.",
-  "num_followers": 2110651,
+  "num_followers": 2110927,
   "original_name": "Pop Punk Powerhouses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMDg2ZTI5N2U2NThkM2Q1YTkwNDY1M2FjZmUxNTAzMmYz",
+  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMDU5N2NiZjIwZGQxMjAwN2YzYjkyNjJmYTNkZTg3Mzkw",
   "tracks": [
     {
       "added_at": "2022-09-12 19:21:47",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
         "name": "Ocean Avenue",
         "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 172466,
       "name": "Why Don't You Get A Job",
       "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
     },
     {
       "added_at": "2022-09-12 19:21:47",

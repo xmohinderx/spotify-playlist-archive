@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-597 songs - 1 day 16 hr 5 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+598 songs - 1 day 16 hr 7 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2022-06-07 |  |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-06-07 | 2022-08-12 |
 | [KANNA](https://open.spotify.com/track/7e075JlKGuMFroDv7xev13) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [KANNA](https://open.spotify.com/album/7mZi1uvCLFg03MFhxoJO90) | 4:48 | 2022-06-07 | 2022-07-20 |
+| [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2022-10-05 |  |
 | [Kiss Me](https://open.spotify.com/track/3oWLxV0LKV4z2gWUOsX5zJ) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [2ND GALAXY](https://open.spotify.com/album/7aVhOAh7ezTKkV62YaS7w6) | 3:38 | 2022-06-07 | 2022-07-29 |
 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 | 2022-06-07 | 2022-07-29 |
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-06-07 |  |
@@ -536,7 +537,7 @@
 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 | 2022-06-07 |  |
 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2022-06-07 |  |
 | [流星](https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 | 2022-06-07 | 2022-08-12 |
-| [流線形メーデー](https://open.spotify.com/track/71DWte8P535ethaQrCfX3G) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [流線形メーデー](https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi) | 3:11 | 2022-08-11 |  |
+| [流線形メーデー](https://open.spotify.com/track/71DWte8P535ethaQrCfX3G) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [流線形メーデー](https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi) | 3:11 | 2022-08-11 | 2022-10-05 |
 | [海と真珠](https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [海と真珠](https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67) | 4:40 | 2022-06-07 | 2022-07-28 |
 | [海の見える街 〜「魔女の宅急便」](https://open.spotify.com/track/6T9PZq7rjrjwXioQgOSeRi) | [Giovanni Mirabassi](https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3) | [MITAKA CALLING \-三鷹の呼聲\-](https://open.spotify.com/album/4cQdSs6yXJtK8HynpeRcJO) | 5:28 | 2022-06-07 | 2022-07-27 |
 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 | 2022-10-04 |  |

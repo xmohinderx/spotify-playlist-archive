@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,519 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,555 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 11 | [Save A Bread](https://open.spotify.com/track/5G0P8RIKWn9jVLiBWi9ViH) | [Justin Hinds](https://open.spotify.com/artist/485PbpVEwbo7jAYs8Z3v9J), [The Dominoes](https://open.spotify.com/artist/16S3H1glektgYRNbvkp9fR) | [Early Recordings](https://open.spotify.com/album/0Daz83iFRx526smzsDFbFL) | 2:40 |
 | 12 | [River of Babylon](https://open.spotify.com/track/7gcelChzsWoGRMwvk6scnQ) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Legend](https://open.spotify.com/album/1mvWUKXLasKQXNo8iVCnPR) | 3:59 |
 | 13 | [Love Me Forever](https://open.spotify.com/track/1z0We51LrOGniEJVk9Aid9) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/0EYwBETY5u7V1VpzUmqyLu) | 3:40 |
-| 14 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Give and Take \- The Best of The Pioneers](https://open.spotify.com/album/5TwvKc49ROXhjd3oha206q) | 3:07 |
-| 15 | [Sound and Pressure](https://open.spotify.com/track/0gOB0LAnmJK0IzPudWzi2p) | [Hopeton Lewis](https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb) | [Take It Easy](https://open.spotify.com/album/0df5wnsgG6FBXXmq4DXe1h) | 3:19 |
+| 14 | [Sound and Pressure](https://open.spotify.com/track/0gOB0LAnmJK0IzPudWzi2p) | [Hopeton Lewis](https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb) | [Take It Easy](https://open.spotify.com/album/0df5wnsgG6FBXXmq4DXe1h) | 3:19 |
+| 15 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Give and Take \- The Best of The Pioneers](https://open.spotify.com/album/5TwvKc49ROXhjd3oha206q) | 3:07 |
 | 16 | [Hold Them](https://open.spotify.com/track/5iyyttRc4xFRhKzAu02mtw) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:47 |
 | 17 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
 | 18 | [Freedom Street](https://open.spotify.com/track/6LbChaXJgm1NmTmWEBoKjg) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Always Together](https://open.spotify.com/track/5sNukxsSD2RkxS4tVGsUY7) | [Bob Andy & Marcia Griffiths](https://open.spotify.com/artist/7q5akGSVEfg0j8IxgbdLN3) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/3FkTrxRbPBGXrf2y3VlFbc) | 2:45 |
 | 50 | [It's All in the Game](https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [The Best Of...](https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3) | 2:31 |
 
-Snapshot ID: `MTY0ODQ5NzUzNiwwMDAwMDAwMDU1ZTNjYTA5OTJkOTc5OTBiYjcwZDc5MzFjMzczYjUy`
+Snapshot ID: `MTY0ODQ5NzUzNiwwMDAwMDAwMDQ0ODdjZjczMjJhNmFjYjk3ZDdhMWQyZTJkMTI1YmRj`

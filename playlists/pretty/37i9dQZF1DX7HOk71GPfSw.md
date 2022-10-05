@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Bladee
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,469 likes - 131 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,638 likes - 131 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 4 | [hate if ur mad \(● ˃̶͈̀ロ˂̶͈́\)੭ꠥ⁾⁾](https://open.spotify.com/track/58o6AY4WfMsGlVrpfsbtGs) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [hate if ur mad \(● ˃̶͈̀ロ˂̶͈́\)੭ꠥ⁾⁾](https://open.spotify.com/album/63heSQkoOwkxslMsR623dg) | 2:23 |
 | 5 | [boys don't cry](https://open.spotify.com/track/2nOCXHxoN6hRqQbt6TDnnP) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [boys don’t cry](https://open.spotify.com/album/0vfdaU8XkSjixvd5RcTWm7) | 2:32 |
 | 6 | [Breaking Ground](https://open.spotify.com/track/088QOTRbyKESWagzQtufoA) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Breaking Ground](https://open.spotify.com/album/38Bry2sUVnaoIIxD404FlP) | 3:19 |
-| 7 | [Hotel Cigarette](https://open.spotify.com/track/3DXTmAwIeByAshD5OYAlkK) | [internetboy](https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW), [Glassface](https://open.spotify.com/artist/3GuQk763yhAkdikb8gTXq4) | [Hotel Cigarette](https://open.spotify.com/album/4AaTlbymFXMtL7UGdVt0jP) | 3:43 |
+| 7 | [Hotel Cigarette](https://open.spotify.com/track/3DXTmAwIeByAshD5OYAlkK) | [internetboy](https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Hotel Cigarette](https://open.spotify.com/album/4AaTlbymFXMtL7UGdVt0jP) | 3:43 |
 | 8 | [demon time \(with BAYLI\)](https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:10 |
 | 9 | [DRAIN STORY](https://open.spotify.com/track/3FkKsImisypEJBOkFWBM2B) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [DRAIN STORY](https://open.spotify.com/album/5QREUQq9c50HA4ObUAl7Og) | 1:50 |
 | 10 | [AGNES KRUEL](https://open.spotify.com/track/4UzgDdX1pcbUYisiqSaIEF) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [4X4](https://open.spotify.com/album/6ePn0iOHrkvAhtMzLxeIQL) | 1:36 |

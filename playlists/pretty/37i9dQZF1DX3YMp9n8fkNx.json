@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1182751,
+  "num_followers": 1183050,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjA1NiwwMDAwMDAwMGE3OTNmMmYzOWIzZTNiNDdhNmRiMWE5NmRmMWU5Y2Iy",
+  "snapshot_id": "MTY1MzQyMjA1NiwwMDAwMDAwMGYyMmU2NzgyMTgzYWNjYTU4MzQ0NjQ0MjEwNjk2ZTA1",
   "tracks": [
     {
       "added_at": "2021-12-21 12:24:03",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Laid",
         "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 156666,
       "name": "Laid",
       "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
-      },
-      "artists": [
-        {
-          "name": "Better Than Ezra",
-          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Villains",
         "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 269466,
       "name": "The Freshmen",
       "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
+      },
+      "artists": [
+        {
+          "name": "Better Than Ezra",
+          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
-      },
-      "artists": [
-        {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 132306,
       "name": "Roll To Me",
       "url": "https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "As Ugly As It Gets: The Very Best Of",
-        "url": "https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj"
-      },
-      "artists": [
-        {
-          "name": "Ugly Kid Joe",
-          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Everything About You",
-      "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Come On Feel The Lemonheads",
         "url": "https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 164706,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/2rD9tU2bws0PgOPsI6aIZo"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "As Ugly As It Gets: The Very Best Of",
+        "url": "https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj"
+      },
+      "artists": [
+        {
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Everything About You",
+      "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
     },
     {
       "added_at": "2021-12-21 12:24:03",

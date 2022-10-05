@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,339 songs - 3 day 20 hr 57 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,340 songs - 3 day 21 hr 1 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,7 +448,7 @@
 | [Future Self](https://open.spotify.com/track/0Oom8UCxknB2ussaW0P9HL) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Future Self](https://open.spotify.com/album/1VOn5C736v12oFdDVnwdd2) | 3:21 | 2020-05-18 | 2020-07-18 |
 | [Galax Z](https://open.spotify.com/track/5Dvbvf4RsFn3V0d8309jz7) | [The Zevron Don](https://open.spotify.com/artist/4dbE6PYM6h3AnqxYI0vxl0) | [Galax Z](https://open.spotify.com/album/4VzBkUqSvskvWJoheveYbJ) | 2:37 | 2020-05-19 | 2020-10-09 |
 | [Gamelan Sunrise](https://open.spotify.com/track/4L4zKKS9t3IPSBC1xXdCLD) | [Frankie Shakes](https://open.spotify.com/artist/2mW6KkiUUZ5zYZEym6pYjd) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-04-20 |
-| [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 |  |
+| [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 | 2022-10-05 |
 | [gatelangs](https://open.spotify.com/track/5Z0XbrTSBsaWbuMovfOndY) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [gatelangs](https://open.spotify.com/album/4kIBVa3tKxLywE8IirmaT9) | 3:02 | 2020-03-16 | 2022-04-21 |
 | [Gengis \- Edit](https://open.spotify.com/track/1pYSFtyZaRyP4bwazfm5cy) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Gengis](https://open.spotify.com/album/7lTn1zyy0duOEeypiqzmcr) | 3:51 | 2020-02-29\* | 2020-03-16 |
 | [Get Free \- Chrome Sparks Remix](https://open.spotify.com/track/2hINIqIvhaJ11bvcnS5v3d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Get Free \(Chrome Sparks Remix\)](https://open.spotify.com/album/1kSZAR9Rgz73ovtAce4Wx5) | 4:20 | 2020-03-20 | 2020-10-09 |
@@ -522,6 +522,7 @@
 | [Hold Me](https://open.spotify.com/track/0ceMBaAB2nX6xRInXssoW5) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Hold Me](https://open.spotify.com/album/4f2V3LHn1UesKbYesOvI25) | 3:39 | 2020-03-17 | 2022-04-21 |
 | [Hold Me Tonight](https://open.spotify.com/track/6qaMFbqEYYZWl7GAQPqyaS) | [BYNON](https://open.spotify.com/artist/033DxVOVQqNlUy6yEI03ar) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 3:32 | 2020-03-16 | 2022-04-19 |
 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 | 2022-04-29 |  |
+| [Hollow](https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi) | 4:05 | 2022-09-30 |  |
 | [Hologram](https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Hologram](https://open.spotify.com/album/6etgircCabewA3pqdJCZnH) | 3:55 | 2021-08-20 | 2022-02-14 |
 | [Home](https://open.spotify.com/track/2DK8ebNy8ynJGk8Q0QCwt5) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Home](https://open.spotify.com/album/2ZMrnoC7w8A9K0z9NsnLAE) | 3:42 | 2020-05-18 | 2020-07-03 |
 | [Home](https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:14 | 2020-05-18 | 2020-07-18 |

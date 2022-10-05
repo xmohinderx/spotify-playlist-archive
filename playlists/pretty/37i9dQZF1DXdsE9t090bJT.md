@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,917 likes - 117 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,962 likes - 117 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 31 | [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 |
 | 32 | [Espero Con Ansias](https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ) | 3:34 |
 | 33 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
-| 34 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
+| 34 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
 | 35 | [Dame Tu Calor](https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:05 |
-| 36 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
+| 36 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
 | 37 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 | 38 | [Me Pones A Temblar](https://open.spotify.com/track/5lOEI6CBTnLQrVVoIswN8Q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Mundo Diferente](https://open.spotify.com/album/1Dxy2q1OCv3zUr1hO2HM0J) | 3:10 |
 | 39 | [Un Hombre con Suerte](https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Eres Vida](https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC) | 3:24 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 64 | [Noches De Desvelo](https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Soy El Nata](https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN) | 2:59 |
 | 65 | [Bien Me Conoces](https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:41 |
 | 66 | [Amor Del Bueno](https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Amor Del Bueno](https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h) | 3:13 |
-| 67 | [Mágicos Besitos](https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Mágicos Besitos](https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi) | 3:18 |
-| 68 | [Dejame Decir](https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Dejame Decir](https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ) | 3:37 |
+| 67 | [Dejame Decir](https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Dejame Decir](https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ) | 3:37 |
+| 68 | [Mágicos Besitos](https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Mágicos Besitos](https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi) | 3:18 |
 | 69 | [Ella Es Mi Mujer](https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:43 |
 | 70 | [Cómo No Quererte](https://open.spotify.com/track/7kAIDORxyLYGjp6t3p4w1z) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Cómo No Quererte](https://open.spotify.com/album/5lmQBx2ASnM6YDHjcVwoCp) | 2:55 |
 | 71 | [Mi Amor](https://open.spotify.com/track/5Vt0uiNvaZNPCqeoDSTavW) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:36 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 77 | [Mi Chula](https://open.spotify.com/track/4hOXWazvMtaijxQYkbooNG) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL) | 2:42 |
 | 78 | [La Dosis Perfecta](https://open.spotify.com/track/1VRftjZajTXVzGJOiZ2DzQ) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [La Dosis Perfecta](https://open.spotify.com/album/7wjvT76Rr2vrkU1St97Pjs) | 3:35 |
 | 79 | [Te Quiero Aqui \(Live Session\)](https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Te Quiero Aqui \(Live Session\)](https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7) | 3:10 |
-| 80 | [No Está De Más](https://open.spotify.com/track/4XN5AJ0Ab6clJz0jYFbxYA) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [No Está De Más](https://open.spotify.com/album/3Oo0p6Pib85oapWY6iRhJA) | 3:12 |
-| 81 | [Eres Tú](https://open.spotify.com/track/00d5xg90Mvl5bvK18oliSI) | [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Con Más Pawer](https://open.spotify.com/album/6Btf5qRQjRvQKPGFUAstvg) | 2:42 |
+| 80 | [Eres Tú](https://open.spotify.com/track/00d5xg90Mvl5bvK18oliSI) | [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Con Más Pawer](https://open.spotify.com/album/6Btf5qRQjRvQKPGFUAstvg) | 2:42 |
+| 81 | [No Está De Más](https://open.spotify.com/track/4XN5AJ0Ab6clJz0jYFbxYA) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [No Está De Más](https://open.spotify.com/album/3Oo0p6Pib85oapWY6iRhJA) | 3:12 |
 | 82 | [Daría Todo Por Ti](https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Daría Todo Por Ti](https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw) | 2:54 |
 | 83 | [Porque Te Amo](https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Porque Te Amo](https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg) | 3:06 |
 | 84 | [Tenía Que Ser Así](https://open.spotify.com/track/0pEHlTn2r3JD3trdrZpmZG) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/2QUyaN7C939RpX11Zz1dQA) | 3:11 |
@@ -121,9 +121,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 111 | [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 |
 | 112 | [Un Hombre con Suerte](https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Eres Vida](https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC) | 3:24 |
 | 113 | [Con Tus Besos](https://open.spotify.com/track/6tsoBcgT99Kb4DvjI8Pnlv) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy) | 3:46 |
-| 114 | [Baby](https://open.spotify.com/track/3y8tEWNrKD8EshrB3SEk4r) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy) | 4:38 |
-| 115 | [Broche de Oro](https://open.spotify.com/track/1TLyjsg5KO501z8CBgxaHl) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [10+10](https://open.spotify.com/album/6v6mwOBX5lbL9XTPqKFivJ) | 3:34 |
+| 114 | [Broche de Oro](https://open.spotify.com/track/1TLyjsg5KO501z8CBgxaHl) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [10+10](https://open.spotify.com/album/6v6mwOBX5lbL9XTPqKFivJ) | 3:34 |
+| 115 | [Baby](https://open.spotify.com/track/3y8tEWNrKD8EshrB3SEk4r) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy) | 4:38 |
 | 116 | [Quiero Darte](https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP) | 2:58 |
 | 117 | [Ella Es Mi Mujer](https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Banda \#1's 2017](https://open.spotify.com/album/0MUo7KxW4ZkYt5pKETaAeO) | 2:43 |
 
-Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMDk0OTRkYjNjODQ0NDIyYjYxMjdiODk0YTIyZDA1NjZl`
+Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMGMyZTgxYjhlNmIwNGQxYWI5Y2VkMTZlNDlmY2M0ZjI4`

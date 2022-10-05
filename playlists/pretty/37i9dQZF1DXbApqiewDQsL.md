@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Kany García & Christian Nodal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,025 likes - 57 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,045 likes - 57 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 39 | [De A De Veras](https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De A De Veras](https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV) | 3:42 |
 | 40 | [Otra Botella](https://open.spotify.com/track/1eF1uRpuxr351DXcsZ8t34) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Otra Botella](https://open.spotify.com/album/0yAKlqiiZXRUrSRdag7YeA) | 3:46 |
 | 41 | [Qué Maldición \- Remix](https://open.spotify.com/track/0SWfXjPmLSUydYzwK9ct9F) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/4dQqCFHI3jRAdCWJHZ2n1L) | 3:44 |
-| 42 | [Billetes de 100](https://open.spotify.com/track/7wUFaxBGcFTME9OJKJqvLu) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 3:28 |
-| 43 | [Dos Uno Nueve \(219\)](https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:07 |
+| 42 | [Dos Uno Nueve \(219\)](https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:07 |
+| 43 | [Billetes de 100](https://open.spotify.com/track/7wUFaxBGcFTME9OJKJqvLu) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 3:28 |
 | 44 | [100 Años \- Con Calibre 50](https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [100 Años \(Con Calibre 50\)](https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa) | 3:35 |
 | 45 | [Enfermo de Riqueza](https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Enfermo de Riqueza](https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr) | 3:54 |
 | 46 | [Conozco La Calle](https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Conozco La Calle](https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH) | 2:20 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 56 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2VedKSBZCY9ucVSlXNnxGc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:12 |
 | 57 | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/album/0zdgLvmtc5MJmD8Xf8gwsX) | 3:03 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDY1YWQ1Mzk3ZGNkOWZhNzBhYjkxMzYwYjVjZTU1YjRm`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDg4ZGFhMWZlOTZhZDcyNzg5OTcwYjk5Nzk1ZDMyN2Yy`

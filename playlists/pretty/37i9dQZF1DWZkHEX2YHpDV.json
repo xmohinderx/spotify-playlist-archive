@@ -1,12 +1,12 @@
 {
   "description": "Pop-punk, emo, post-hardcore, alternative - it's whatever you want it to be. Cover: nothing, nowhere",
-  "num_followers": 437694,
+  "num_followers": 437718,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDMzNDhjYWUyOTU3YmI2YTBkNjM2NzBmNjYzNjk3ZjFk",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGYwMGI4MTE0YzkwMzRjOTBmY2U4OTJhODczMDc1OTE5",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 174848,
+      "name": "5150",
+      "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 174848,
-      "name": "5150",
-      "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "FLY",
-        "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 188081,
-      "name": "Misfits T-Shirt",
-      "url": "https://open.spotify.com/track/2ZkWAGwx0UDKQSD9lmNecF"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "hover like a GODDESS",
         "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
+      "duration_ms": 188081,
+      "name": "Misfits T-Shirt",
+      "url": "https://open.spotify.com/track/2ZkWAGwx0UDKQSD9lmNecF"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -795,6 +779,22 @@
       "duration_ms": 202656,
       "name": "No Love In LA",
       "url": "https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -963,18 +963,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+        "name": "MY FAVORITE NIGHTMARES",
+        "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
       "artists": [
         {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 186581,
-      "name": "Get A Job",
-      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
+      "duration_ms": 124191,
+      "name": "SIDEWAYS (with Travis Barker)",
+      "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1011,38 +1015,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "MY FAVORITE NIGHTMARES",
-        "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
       },
       "artists": [
         {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
         }
       ],
-      "duration_ms": 124191,
-      "name": "SIDEWAYS (with Travis Barker)",
-      "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Halloween Mixtape",
-        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "10 for 10",
-      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
+      "duration_ms": 186581,
+      "name": "Get A Job",
+      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Halloween Mixtape",
+        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 137052,
+      "name": "10 for 10",
+      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 227393,
       "name": "Everybody but You",
       "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "In Loving Memory",
+        "url": "https://open.spotify.com/album/4ZU7tF78ZlRzoomq9HNsTQ"
+      },
+      "artists": [
+        {
+          "name": "First and Forever",
+          "url": "https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/69xq52Yl3XgWRPIAOwfaYY"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "STFU",
         "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Harder Than It Looks",
-        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 216474,
-      "name": "Wake Me Up (When This Nightmare\u2019s Over)",
-      "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
+      "duration_ms": 129812,
+      "name": "Next Ex",
+      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1339,38 +1355,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Drink Milk and Run",
-        "url": "https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 170390,
-      "name": "Drink Milk and Run",
-      "url": "https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "In Loving Memory",
-        "url": "https://open.spotify.com/album/4ZU7tF78ZlRzoomq9HNsTQ"
-      },
-      "artists": [
-        {
-          "name": "First and Forever",
-          "url": "https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/69xq52Yl3XgWRPIAOwfaYY"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "MANIC MAN",
         "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
       },
@@ -1387,34 +1371,34 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
+        "name": "Harder Than It Looks",
+        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 129812,
-      "name": "Next Ex",
-      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
+      "duration_ms": 216474,
+      "name": "Wake Me Up (When This Nightmare\u2019s Over)",
+      "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
     },
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+        "name": "Drink Milk and Run",
+        "url": "https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
+      "duration_ms": 170390,
+      "name": "Drink Milk and Run",
+      "url": "https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 169450,
       "name": "fake friend",
       "url": "https://open.spotify.com/track/6pO9pxKxrIHuTRqK7VLP8B"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1467,22 +1467,6 @@
       "duration_ms": 141090,
       "name": "DIRTY WHITE VANS//",
       "url": "https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Harder Than It Looks",
-        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 195898,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1543,6 +1527,22 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Harder Than It Looks",
+        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 195898,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "The Hum Goes on Forever",
+        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Wyatt\u2019s Song (Your Name)",
+      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 180472,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "The Hum Goes on Forever",
-        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Wyatt\u2019s Song (Your Name)",
-      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
     },
     {
       "added_at": "2022-09-30 04:00:00",

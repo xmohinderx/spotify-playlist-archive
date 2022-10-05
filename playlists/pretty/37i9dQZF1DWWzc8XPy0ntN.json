@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 120575,
+  "num_followers": 120579,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMDUxY2U5ODYxMzhhN2FjYjllNTczYmQxNmJmY2I0ZDdh",
+  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMGQ5ZWI4YjI1NzRiNjBkNzk2MzdiNGNkYjNlMGU1Y2Ey",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Individuality Riddim",
+        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 398629,
+      "name": "Individuality Riddim",
+      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Momoto",
         "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 459720,
       "name": "Momoto",
       "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Individuality Riddim",
-        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 398629,
-      "name": "Individuality Riddim",
-      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -587,22 +587,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Esta Noche",
-        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
+        "name": "Mas Amable",
+        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
       },
       "artists": [
         {
-          "name": "Rodion",
-          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
-        },
-        {
-          "name": "Alejandro Paz",
-          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
         }
       ],
-      "duration_ms": 311693,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
+      "duration_ms": 271573,
+      "name": "Descanse",
+      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -623,18 +619,38 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mas Amable",
-        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
       },
       "artists": [
         {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "Rodion",
+          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
         }
       ],
-      "duration_ms": 271573,
-      "name": "Descanse",
-      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
+      "duration_ms": 311693,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Fiebre",
+        "url": "https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 267008,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -663,22 +679,6 @@
       "duration_ms": 238492,
       "name": "Platano Macho",
       "url": "https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Fiebre",
-        "url": "https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 267008,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -715,22 +715,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Bufebe",
-        "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
+        "name": "Shika Shika / Botanas",
+        "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
       },
       "artists": [
         {
-          "name": "Bufi",
-          "url": "https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ"
-        },
-        {
-          "name": "Kubebe",
-          "url": "https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH"
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
         }
       ],
-      "duration_ms": 324444,
-      "name": "Corrado",
-      "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+      "duration_ms": 206815,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -755,18 +751,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Shika Shika / Botanas",
-        "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
+        "name": "Bufebe",
+        "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
       "artists": [
         {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+          "name": "Bufi",
+          "url": "https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ"
+        },
+        {
+          "name": "Kubebe",
+          "url": "https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH"
         }
       ],
-      "duration_ms": 206815,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
+      "duration_ms": 324444,
+      "name": "Corrado",
+      "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -783,6 +783,26 @@
       "duration_ms": 233200,
       "name": "Manila",
       "url": "https://open.spotify.com/track/1uo9jMH4Z3DrpPGi6jm9E4"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Sol de Invierno",
+        "url": "https://open.spotify.com/album/4LeJLxTUE07aLB6GBtYYIp"
+      },
+      "artists": [
+        {
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+        },
+        {
+          "name": "Quixosis",
+          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
+        }
+      ],
+      "duration_ms": 395452,
+      "name": "Sol de Invierno",
+      "url": "https://open.spotify.com/track/6dIbDu0GaRGODv9t7YvRnN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -807,26 +827,6 @@
       "duration_ms": 370886,
       "name": "Pebbles Mind Horrors",
       "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Sol de Invierno",
-        "url": "https://open.spotify.com/album/4LeJLxTUE07aLB6GBtYYIp"
-      },
-      "artists": [
-        {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
-        },
-        {
-          "name": "Quixosis",
-          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
-        }
-      ],
-      "duration_ms": 395452,
-      "name": "Sol de Invierno",
-      "url": "https://open.spotify.com/track/6dIbDu0GaRGODv9t7YvRnN"
     },
     {
       "added_at": "2022-08-18 23:29:09",

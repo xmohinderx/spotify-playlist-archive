@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 480447,
+  "num_followers": 480487,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMDJiOWUzMWJlMTYxMGRhZWFhMzVkZGRlYzA3ZmU5MWFk",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMGI5OTI4YmM2ZTkzZGQ4MjUwNWQ4YWFiMTViMTBjMTQz",
   "tracks": [
     {
       "added_at": "2022-02-17 17:26:43",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 220920,
       "name": "Cautionary Tale",
       "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Happy Birthday, Ratboy",
+        "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Go Outside",
+      "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Juniors",
         "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Happy Birthday, Ratboy",
-        "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
-      },
-      "artists": [
-        {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Go Outside",
-      "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Total Freedom",
         "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 221706,
       "name": "Seven Hours",
       "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -983,22 +999,6 @@
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Good Luck With Whatever",
-        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Who Do You Think You're Talking To?",
-      "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Topaz",
-        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
+        "name": "Good Luck With Whatever",
+        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
       },
       "artists": [
         {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 214944,
-      "name": "Down in the Country",
-      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
+      "duration_ms": 199413,
+      "name": "Who Do You Think You're Talking To?",
+      "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "Down in the Country",
+      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Sun Leads Me On",
+        "url": "https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Turn Your Love",
+      "url": "https://open.spotify.com/track/2OE1yF5x0xDjjsC5CYArz2"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Ever Since I Lost My Mind",
         "url": "https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A"
       },
@@ -1275,38 +1291,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "River Wider",
-      "url": "https://open.spotify.com/track/5ucRrHQrCGDeUdL5bKFWk1"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Sun Leads Me On",
-        "url": "https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Turn Your Love",
-      "url": "https://open.spotify.com/track/2OE1yF5x0xDjjsC5CYArz2"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "The Waves, The Wake",
         "url": "https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 197787,
       "name": "Alone but Not Alone",
       "url": "https://open.spotify.com/track/3A19z3kNfPtKvXU5NuAs2J"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 195213,
+      "name": "River Wider",
+      "url": "https://open.spotify.com/track/5ucRrHQrCGDeUdL5bKFWk1"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "The First Day",
-        "url": "https://open.spotify.com/album/18JbYJrl9GZMOc06cQpmIm"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "The First Day",
-      "url": "https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Cool Jam/Good For You",
         "url": "https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 206013,
       "name": "Cool Jam",
       "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "The First Day",
+        "url": "https://open.spotify.com/album/18JbYJrl9GZMOc06cQpmIm"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "The First Day",
+      "url": "https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Busted Jukebox Volume 3",
-        "url": "https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s"
+        "name": "Elastic Heart",
+        "url": "https://open.spotify.com/album/1Y50NzwC91YDY4fqTv3gpC"
       },
       "artists": [
         {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Longfellow",
+          "url": "https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU"
         }
       ],
-      "duration_ms": 165213,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx"
+      "duration_ms": 257080,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/2EqFvg1GaWik5nwCmnZVN1"
     }
   ],
   "unique_name": "Folk Rock Favorites",

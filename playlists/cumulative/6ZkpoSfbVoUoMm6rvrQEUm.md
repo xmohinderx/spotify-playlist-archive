@@ -4,7 +4,7 @@
 
 > Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
 
-20 songs - 1 hr 11 min - not published yet
+20 songs - 1 hr 11 min - [published](https://open.spotify.com/playlist/0SgfroNhrIZcpXbLF3O8o0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

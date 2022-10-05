@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  藤井風\(Fujii Kaze\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,390 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,875 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 23 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
 | 24 | [リドー](https://open.spotify.com/track/2ZKDT4B7UhV549F4FajHCX) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [リドー](https://open.spotify.com/album/6E4R01brTT1PaoQTw1AdUd) | 3:41 |
 | 25 | [君がいない世界](https://open.spotify.com/track/1BduWmGXpjUAbunc1hrOr0) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [君がいない世界](https://open.spotify.com/album/3VCTWwETLTZtm0iXmFSq6A) | 2:34 |
-| 26 | [グッドな音楽を](https://open.spotify.com/track/2FNkUZUdx0PVTwtzBCoPTt) | [ねぐせ。](https://open.spotify.com/artist/5XpqL5YQA55kDfVffLbTHo) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 3:35 |
+| 26 | [グッドな音楽を](https://open.spotify.com/track/2FNkUZUdx0PVTwtzBCoPTt) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 3:35 |
 | 27 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 |
 | 28 | [ヒトツボシ](https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR) | [KOH+](https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr) | [ヒトツボシ \~ガリレオ Collection 2007\-2022\~](https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1) | 4:20 |
 | 29 | [雨燦々](https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [雨燦々](https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q) | 4:55 |

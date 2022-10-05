@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 289693,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1"
@@ -3859,6 +3859,24 @@
       "duration_ms": 225562,
       "name": "Light Wave",
       "url": "https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj"
+    },
+    {
+      "album": {
+        "name": "Lilys Dream",
+        "url": "https://open.spotify.com/album/4ZaYVPKddgyIcoPBLQqJsa"
+      },
+      "artists": [
+        {
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209597,
+      "name": "Lilys Dream",
+      "url": "https://open.spotify.com/track/11ioiRZhEqWruR1IqAvqqd"
     },
     {
       "album": {

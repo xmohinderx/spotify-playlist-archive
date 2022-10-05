@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 15,
+  "num_followers": 29,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMDA2MzAxYTk3N2JkMzQ0Y2JkNjdmNTgwOWRhNmY3YmI0",
+  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMDE2MjY5M2Q1ODNhZWVlZjc4NTA2MDY2MjI0NWIyODdk",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 166642,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 236120,
       "name": "Almeda",
       "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 166642,
-      "name": "emiliana",
-      "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 233666,
       "name": "Don't Hurt Yourself (feat. Jack White)",
       "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
     }
   ],
   "unique_name": "Ravie B's Taste",

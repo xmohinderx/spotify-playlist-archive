@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 184085,
+  "num_followers": 184119,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyNjAwMCwwMDAwMDAwMDgwOTU2NTdmYzNjZGY2MWUyOGRiNzI3OWU2NzY0NDUw",
+  "snapshot_id": "MTY2MjYyNjAwMCwwMDAwMDAwMGU3MDg4NjMzNWNjODU1Y2YxYWVkMmIwMjkxNjMyODgx",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Lean on Me: The Best of Bill Withers",
-        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 164160,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 273333,
       "name": "Just Once",
       "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1139,8 +1139,8 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
       },
       "artists": [
         {
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
         }
       ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
         }
       ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Let Me In Your Life",
-        "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
-      "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Johnny Gill",
         "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 321906,
       "name": "My, My, My",
       "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Let Me In Your Life",
+        "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
+      "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
-      },
-      "artists": [
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "As The Band Turns",
         "url": "https://open.spotify.com/album/2H6iH0eyDzvuk3FEihD1aJ"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Drew\u2019s Famous Presents Pop Hits Of The 80's & 90's",
+        "url": "https://open.spotify.com/album/6ogTqhiNpHqOcwHj5WvFUR"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0HiHOHBdV0JCpSWxfVPVMq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1607,22 +1623,6 @@
       "duration_ms": 317400,
       "name": "Do Me Baby",
       "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Drew\u2019s Famous Presents Pop Hits Of The 80's & 90's",
-        "url": "https://open.spotify.com/album/6ogTqhiNpHqOcwHj5WvFUR"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/0HiHOHBdV0JCpSWxfVPVMq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 333133,
-      "name": "New York State Of Mind",
-      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/10dbzUrxRpxkot3QENMGFV"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 254600,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 333133,
+      "name": "New York State Of Mind",
+      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2031,22 +2031,6 @@
       "duration_ms": 323986,
       "name": "If This World Were Mine (with Luther Vandross)",
       "url": "https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2139,6 +2123,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Closer Than Close",
         "url": "https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz"
       },
@@ -2151,6 +2151,22 @@
       "duration_ms": 270253,
       "name": "Mine All Mine",
       "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Alone But Not Alone",
+        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
+      },
+      "artists": [
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Just Don't Wanna Know",
+      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2187,22 +2203,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Alone But Not Alone",
-        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
-      },
-      "artists": [
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Just Don't Wanna Know",
-      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "The Masters Series: Mellow Groove",
         "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
       },
@@ -2219,38 +2219,6 @@
       "duration_ms": 283053,
       "name": "New York Eyes",
       "url": "https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh"
-    },
-    {
-      "added_at": "2022-09-08 08:33:20",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Come Share My Love",
-        "url": "https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf"
-      },
-      "artists": [
-        {
-          "name": "Miki Howard",
-          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
-        }
-      ],
-      "duration_ms": 290533,
-      "name": "Come Share My Love",
-      "url": "https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2271,6 +2239,38 @@
       "duration_ms": 254893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Come Share My Love",
+        "url": "https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf"
+      },
+      "artists": [
+        {
+          "name": "Miki Howard",
+          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
+        }
+      ],
+      "duration_ms": 290533,
+      "name": "Come Share My Love",
+      "url": "https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5"
+    },
+    {
+      "added_at": "2022-09-08 08:33:20",
+      "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2022-05-11 12:25:18",

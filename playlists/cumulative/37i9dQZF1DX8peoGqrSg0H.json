@@ -838,6 +838,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e1a\u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30 (Please Please)",
+        "url": "https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e1a\u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30 (Please Please)",
+      "url": "https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e19 (End.)",
         "url": "https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM"
       },
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 220500,
       "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Loser)",
       "url": "https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
@@ -4413,6 +4431,28 @@
       "duration_ms": 216185,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e01\u0e25\u0e49\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25 - Stay",
       "url": "https://open.spotify.com/track/0tij4kB0P1hkq8NRlgago7"
+    },
+    {
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        },
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32 - Whatever",
+      "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
     },
     {
       "album": {

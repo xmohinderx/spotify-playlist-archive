@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 362108,
+  "num_followers": 362162,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMDMyZDBiNmFhN2MyYWIzODVhMGU2OGI5MDRhZTUyZmEy",
+  "snapshot_id": "MTY2MzkwMjA2MCwwMDAwMDAwMGNmZjllYTNhYTNiODZmMDY4OTQ3NTE4ODQ1Mzg1NmVj",
   "tracks": [
     {
       "added_at": "2022-09-23 03:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
         "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 176239,
       "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
       "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1115,26 +1115,22 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Pro Dia Nascer Feliz",
-        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
+        "name": "Take You Dancing (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/3bWegmQDm4N1Mvbc2DYWYq"
       },
       "artists": [
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         },
         {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Pro Dia Nascer Feliz",
-      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
+      "duration_ms": 152400,
+      "name": "Take You Dancing - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/4yWp3mTUYrzlqazZ588IQh"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1163,22 +1159,26 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Take You Dancing (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/3bWegmQDm4N1Mvbc2DYWYq"
+        "name": "Pro Dia Nascer Feliz",
+        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
         },
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
         }
       ],
-      "duration_ms": 152400,
-      "name": "Take You Dancing - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/4yWp3mTUYrzlqazZ588IQh"
+      "duration_ms": 203225,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
     },
     {
       "added_at": "2022-09-23 03:01:00",

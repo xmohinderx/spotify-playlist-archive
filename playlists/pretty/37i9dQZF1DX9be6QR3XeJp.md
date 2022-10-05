@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,402 likes - 126 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,392 likes - 126 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

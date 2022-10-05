@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,311 likes - 74 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,392 likes - 74 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 73 | [Purple Rain](https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Move](https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq) | 4:18 |
 | 74 | [I Got the Same Old Blues \(feat\. Tom Petty\)](https://open.spotify.com/track/5uIAjyOvC9PjzCpeMRcQo8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:02 |
 
-Snapshot ID: `MTY2MzAwMDY3MSwwMDAwMDAwMDM3ZWQyOGQyODA3YTcwY2ZlYzg5YTcwYTg1N2RjMzE2`
+Snapshot ID: `MTY2NDg4NzMyNSwwMDAwMDAwMGY5N2YxMWUxMTg2MzRmNTQxMjdjYmM3ZGRmNTRiMzE1`

@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-132 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
+133 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Our love](https://open.spotify.com/track/4z5ym2rgXuOUKh7za9ktx2) | [CHOYEORAE](https://open.spotify.com/artist/0MVuyeZLOvw6KzkcO7pbqv) | [Our love](https://open.spotify.com/album/4fuN6kPyGZIDuSN1hQyqw5) | 2:56 | 2022-07-04 | 2022-07-09 |
 | [poet](https://open.spotify.com/track/0lwTmD4lQHQMzTaUiwuZAw) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 2:41 | 2022-05-03 | 2022-07-18 |
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2022-05-03 |  |
+| [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-10-05 |  |
 | [Ritual](https://open.spotify.com/track/4prRyg18eZ0NiIeVLe6OQN) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Ritual](https://open.spotify.com/album/5NDZnHYEemHxdaJCSZDp9y) | 4:35 | 2022-06-13 | 2022-07-22 |
 | [River](https://open.spotify.com/track/5PIjg4JMTmXKDaSB2NHz7W) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [River](https://open.spotify.com/album/53WCVemmNJoLH2ptEs1csA) | 4:11 | 2022-07-04 | 2022-07-29 |
 | [River Flows In You](https://open.spotify.com/track/2V05KB0icP3LeekILjSqhR) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [On you 1/2](https://open.spotify.com/album/4uq7CfGxIbppRq3wa2r0z4) | 4:14 | 2022-05-03 | 2022-07-27 |
@@ -116,7 +117,7 @@
 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 | 2022-05-03 |  |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-08 |  |
 | [Tiana](https://open.spotify.com/track/03Nxx5LH8lYPDaWeroYPZi) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 2:55 | 2022-05-03 | 2022-07-09 |
-| [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-05-03 |  |
+| [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-05-03 | 2022-10-05 |
 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 | 2022-06-09 |  |
 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 | 2022-05-03 | 2022-07-25 |
 | [Transcendence](https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [My Home](https://open.spotify.com/album/4Q7GAqOIHSNtkJtD2uYntT) | 3:13 | 2022-05-03 | 2022-07-27 |

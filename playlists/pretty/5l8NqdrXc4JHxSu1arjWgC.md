@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,692 likes - 653 songs - 1 day 19 hr 53 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,696 likes - 653 songs - 1 day 19 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

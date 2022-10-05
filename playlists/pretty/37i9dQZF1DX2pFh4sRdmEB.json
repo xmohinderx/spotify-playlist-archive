@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 442354,
+  "num_followers": 442542,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMjk1NCwwMDAwMDAwMDM4ZmQ0NzgwZWIwMWMxMzdkZDYwNDk0ODQxZWExYThi",
+  "snapshot_id": "MTY2NDIwMjk1NCwwMDAwMDAwMGY3MmZiY2ZhZDVkM2YzM2YxZjk5NmNmZjMwYWIwNTNk",
   "tracks": [
     {
       "added_at": "2022-09-26 14:35:54",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Todos Hablan, Nada Saben",
-        "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Todos Hablan, Nada Saben",
-      "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Todos Hablan, Nada Saben",
+        "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Todos Hablan, Nada Saben",
+      "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 208117,
       "name": "Recordando a Manuel",
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
+        "name": "En Las Buenas Y En Las Malas",
+        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Con Ese Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
-        "name": "En Las Buenas Y En Las Malas",
-        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Con Ese Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+        "name": "La Banda Del Carro Rojo",
+        "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+      "duration_ms": 186720,
+      "name": "La Banda Del Carro Rojo",
+      "url": "https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "La Banda Del Carro Rojo",
-        "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "La Banda Del Carro Rojo",
-      "url": "https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
       },
@@ -1359,6 +1343,38 @@
       "duration_ms": 154420,
       "name": "Secuelas De Amor",
       "url": "https://open.spotify.com/track/0F0vbaAjqfjK1kKH9Wyymn"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/0Axl0XXpjltt7Hi6mzeAhx"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
       },
       "artists": [
         {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 183600,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/0Axl0XXpjltt7Hi6mzeAhx"
+      "duration_ms": 188560,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/71aT33Muvsuim800OqZ0st"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1431,34 +1447,26 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
+        "name": "Los Mejores Corridos De",
+        "url": "https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/71aT33Muvsuim800OqZ0st"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
-        "name": "Hoy Te Pierdo",
-        "url": "https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg"
-      },
-      "artists": [
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        },
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Escolta De Guerra",
+          "url": "https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl"
+        },
+        {
+          "name": "Jorge Santacruz",
+          "url": "https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx"
         }
       ],
-      "duration_ms": 234320,
-      "name": "Hoy Te Pierdo",
-      "url": "https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw"
+      "duration_ms": 211706,
+      "name": "La Hummer Y El Camaro",
+      "url": "https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1483,26 +1491,18 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Los Mejores Corridos De",
-        "url": "https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x"
+        "name": "Hoy Te Pierdo",
+        "url": "https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg"
       },
       "artists": [
         {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        },
-        {
-          "name": "Escolta De Guerra",
-          "url": "https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl"
-        },
-        {
-          "name": "Jorge Santacruz",
-          "url": "https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 211706,
-      "name": "La Hummer Y El Camaro",
-      "url": "https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5"
+      "duration_ms": 234320,
+      "name": "Hoy Te Pierdo",
+      "url": "https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Ya Solo Eres Mi Ex",
-        "url": "https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Ya Solo Eres Mi Ex",
-      "url": "https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Ya Solo Eres Mi Ex",
+        "url": "https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Ya Solo Eres Mi Ex",
+      "url": "https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1743,6 +1743,38 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
+        "name": "En Vivo Desde El Nokia",
+        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 187834,
+      "name": "El Papel Cambio (Bonus Track)",
+      "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Yo Todo Lo Doy",
+        "url": "https://open.spotify.com/album/3yBOft5ayyRF3NVcmcL3So"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Yo Todo Lo Doy",
+      "url": "https://open.spotify.com/track/0Vx5gIKKWhPswkRYLCNiGm"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
       },
@@ -1763,38 +1795,6 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "En Vivo Desde El Nokia",
-        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 187834,
-      "name": "El Papel Cambio (Bonus Track)",
-      "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Yo Todo Lo Doy",
-        "url": "https://open.spotify.com/album/3yBOft5ayyRF3NVcmcL3So"
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Yo Todo Lo Doy",
-      "url": "https://open.spotify.com/track/0Vx5gIKKWhPswkRYLCNiGm"
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
         "name": "Los Inadaptados",
         "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
       },
@@ -1899,34 +1883,18 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Los Huracanes del Norte - 40 Aniversario",
-        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 201038,
-      "name": "El Gato De Chihuahua",
-      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
-        "name": "Comer\u00e9 Callado, Vol. 1",
-        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 175028,
-      "name": "Para Qu\u00e9 Lastimarme",
-      "url": "https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5"
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -1947,6 +1915,22 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 175028,
+      "name": "Para Qu\u00e9 Lastimarme",
+      "url": "https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
         "name": "Te Volver\u00eda A Elegir",
         "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "El Gato De Chihuahua",
+      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
+        "name": "El Mero Chaka",
+        "url": "https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q"
+      },
+      "artists": [
+        {
+          "name": "El Halcon De La Sierra",
+          "url": "https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "Pakas De A Kilo",
+      "url": "https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
         "name": "Miami Vibe",
         "url": "https://open.spotify.com/album/2yPySu8gh3DE4dTpwSvLBI"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 229565,
       "name": "Miami Vibe",
       "url": "https://open.spotify.com/track/6ZUBqOrjrdmkP4eLQLBeaq"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
-        "name": "El Mero Chaka",
-        "url": "https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q"
-      },
-      "artists": [
-        {
-          "name": "El Halcon De La Sierra",
-          "url": "https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "Pakas De A Kilo",
-      "url": "https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Le Compr\u00e9 la Muerte a Mi Hijo",
-        "url": "https://open.spotify.com/album/36jpd4kKEalvzpw8k12mNP"
-      },
-      "artists": [
-        {
-          "name": "Beto Quintanilla",
-          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Las \u00c1guilas Andan Solas",
-      "url": "https://open.spotify.com/track/6wQjoZ4ffP7cAIfiwldEWZ"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
         "name": "Todo Va Estar Bien",
         "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 176403,
       "name": "El Lujo de Tenerte",
       "url": "https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Le Compr\u00e9 la Muerte a Mi Hijo",
+        "url": "https://open.spotify.com/album/36jpd4kKEalvzpw8k12mNP"
+      },
+      "artists": [
+        {
+          "name": "Beto Quintanilla",
+          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Las \u00c1guilas Andan Solas",
+      "url": "https://open.spotify.com/track/6wQjoZ4ffP7cAIfiwldEWZ"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
+        "name": "Soy De Rancho",
+        "url": "https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "Soy De Rancho",
+      "url": "https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -2411,38 +2427,6 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
-        "name": "Soy De Rancho",
-        "url": "https://open.spotify.com/album/3bP7ypGbJMbjmJD9eSoGFo"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "Soy De Rancho",
-      "url": "https://open.spotify.com/track/1giHG26ew5FJIPdYfyvdZo"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "Espero Con Ansias",
-      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
         "name": "Qu\u00e9 Bueno Es Tenerte",
         "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
       },
@@ -2463,6 +2447,22 @@
     {
       "added_at": "2022-09-26 14:35:54",
       "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Espero Con Ansias",
+      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
         "name": "La Amanecida",
         "url": "https://open.spotify.com/album/6I5tSkfY6TUJnjOMB0vsFb"
       },
@@ -2475,22 +2475,6 @@
       "duration_ms": 181524,
       "name": "El 701",
       "url": "https://open.spotify.com/track/4gK27JZrNyJ46T9iGXUXPF"
-    },
-    {
-      "added_at": "2022-09-26 14:35:54",
-      "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": "2022-09-26 14:35:54",
@@ -2523,6 +2507,22 @@
       "duration_ms": 142173,
       "name": "El Borracho",
       "url": "https://open.spotify.com/track/0YRSWkOFtnRDHHtUFIiURL"
+    },
+    {
+      "added_at": "2022-09-26 14:35:54",
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": "2022-09-26 14:35:54",

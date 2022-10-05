@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 160786,
       "name": "Mrs. Robinson",
       "url": "https://open.spotify.com/track/5Eh00DCKRf5t8HAl84oNAl"
@@ -1675,6 +1675,24 @@
       "duration_ms": 342473,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/2mLjXYU12qbQRrMcxUhhse"
+    },
+    {
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
+      },
+      "artists": [
+        {
+          "name": "Shelly Berg Trio",
+          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240893,
+      "name": "She's Always A Woman",
+      "url": "https://open.spotify.com/track/4ql11Y7pZAgUW25dbJqFED"
     },
     {
       "album": {

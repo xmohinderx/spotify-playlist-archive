@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Roddy Ricch, Kid Cudi and more\. Cover: YG
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,576 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,670 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [Sober \(feat\. Roddy Ricch & Post Malone\)](https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:13 |
 | 4 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 |
 | 5 | [Pain & Strife \(feat\. Offset\)](https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:37 |
-| 6 | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
+| 6 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 | 7 | [9 Lives \(feat\. Polo G & NLE Choppa\)](https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Not Me It's You](https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN) | 3:48 |
 | 8 | [Somewhere to Fly \(with Don Toliver\)](https://open.spotify.com/track/4BrSjScOM2VzLNNMZt2y9m) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Entergalactic](https://open.spotify.com/album/3bt3iu7uuTxjgPseAalpS8) | 2:56 |
 | 9 | [Save Me, Please](https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [First Draft](https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX) | 2:07 |

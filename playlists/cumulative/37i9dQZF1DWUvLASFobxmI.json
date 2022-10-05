@@ -1120,6 +1120,28 @@
     },
     {
       "album": {
+        "name": "El \u00c1rbol del Mayo",
+        "url": "https://open.spotify.com/album/4azUaJgvQzzZ13mRRfxx4j"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236061,
+      "name": "El \u00c1rbol del Mayo",
+      "url": "https://open.spotify.com/track/3eU5K7wg8BSv70Jifvyf0A"
+    },
+    {
+      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1JNPLcUJAcPHnkB6cgxU39"
       },
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 156595,
       "name": "La \u00daltima y Nos Vamos",
       "url": "https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb"

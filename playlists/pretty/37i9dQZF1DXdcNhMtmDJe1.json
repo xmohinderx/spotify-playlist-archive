@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 72376,
+  "num_followers": 72383,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDU1ODIxNDNhMTAzMzFhMmQwNDRkY2YwZjRjZThjZjM4",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDM3MjlmZTVhZWUzY2RlZWJhZTk1YjJhZmIwZTkwMTBm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -655,6 +655,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Mademoiselle in New York",
+        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Lucienne Renaudin Vary",
+          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+        },
+        {
+          "name": "Bill Elliott",
+          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
         "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 275720,
       "name": "Rialto Ripples (Rag)",
       "url": "https://open.spotify.com/track/0VEWcDQ9GHPKVlHT3CrGhR"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Mademoiselle in New York",
-        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Lucienne Renaudin Vary",
-          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
-        },
-        {
-          "name": "Bill Elliott",
-          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
-        },
-        {
-          "name": "BBC Concert Orchestra",
-          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1139,6 +1139,30 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 79226,
+      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
+      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Rhapsody in Blue",
         "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
       },
@@ -1163,30 +1187,6 @@
       "duration_ms": 275706,
       "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
       "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
-        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gil Shaham",
-          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 79226,
-      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
-      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
     },
     {
       "added_at": "2022-08-05 04:02:00",

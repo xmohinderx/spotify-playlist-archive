@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,126 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,153 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 |
 | 2 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
-| 3 | [Balenciaga](https://open.spotify.com/track/7AkaTXiCoyXfUGF1Mzk0Ep) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4ysDej04vod1SPIq4o4m3n) | 2:48 |
+| 3 | [Balenciaga](https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3) | 2:48 |
 | 4 | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt) | 3:34 |
 | 5 | [Jhanak Jhanak](https://open.spotify.com/track/3IvL7aRZDOsL4kcZ7qq9GV) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Gatha](https://open.spotify.com/artist/010FK25JoVsN1fr5iudnjv) | [Resurface](https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5) | 4:23 |
 | 6 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 45 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 46 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 
-Snapshot ID: `MTY2NDc3Nzk0NywwMDAwMDAwMDMzNGEyOTE3YzlhOTVmNWNlY2JjZDhmMGY4ZWRhNmY3`
+Snapshot ID: `MTY2NDc3Nzk0NywwMDAwMDAwMDc0NDAwNDMxNmQ2MGE4Y2I5M2Q1ZDgxZTlmMDM3ZWNl`

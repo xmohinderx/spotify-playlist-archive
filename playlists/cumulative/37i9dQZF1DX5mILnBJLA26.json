@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 170584,
       "name": "Aye",
       "url": "https://open.spotify.com/track/2uNm1dL5V98jCzvxuhLDyk"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 483082,
       "name": "Azul (feat. Mfana Kah Gogo)",
       "url": "https://open.spotify.com/track/2b5yxtBC6752lc8jsCESN5"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 363337,
       "name": "Ba Straata",
       "url": "https://open.spotify.com/track/37xCJFDUpuLicwYfK7PahH"
@@ -3120,6 +3120,32 @@
     },
     {
       "album": {
+        "name": "Danko (Remix)",
+        "url": "https://open.spotify.com/album/224oTA1boAp7yYRQoViu1a"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/5XmpTzIZwQatGVuoReTJkv"
+        },
+        {
+          "name": "Azmo Nawe",
+          "url": "https://open.spotify.com/artist/2KtuL7JwOuuMqjTiAOj75I"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344369,
+      "name": "Danko (Remix)",
+      "url": "https://open.spotify.com/track/65shr8ljtDrkCP55tgP6lu"
+    },
+    {
+      "album": {
         "name": "Danko Danko",
         "url": "https://open.spotify.com/album/2TTGufYXkW8SLHnz4u1xca"
       },
@@ -4139,7 +4165,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 407826,
       "name": "Eningi (feat. Njelic, Simmy & Mhaw Keys)",
       "url": "https://open.spotify.com/track/5JrMNZpXZ7CvFXhpc6cIp1"
@@ -4165,7 +4191,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 320757,
       "name": "Ephathini",
       "url": "https://open.spotify.com/track/7xtrmREosfI3gsTD7yAaUG"
@@ -4721,7 +4747,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 385724,
       "name": "Ghost Wayy",
       "url": "https://open.spotify.com/track/77wdCDQtN4VHmimAMIVMuT"
@@ -4999,7 +5025,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 407787,
       "name": "Hamba Haa (feat. Nobantu Vilakazi & Young Stunna)",
       "url": "https://open.spotify.com/track/7fOjvfsHsPQt0Tlyd5douJ"
@@ -5907,7 +5933,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 465859,
       "name": "Ingane Yabantu",
       "url": "https://open.spotify.com/track/02Lo4dGKnI0MFudPAawTiu"
@@ -7271,7 +7297,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 344222,
       "name": "Kayise",
       "url": "https://open.spotify.com/track/4YdTfTRZyTqvgqGq0MeXcB"
@@ -9213,7 +9239,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 351450,
       "name": "Mpolaye",
       "url": "https://open.spotify.com/track/0TVYnw5g6Dz7Prt9qbrpa8"
@@ -9775,7 +9801,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 450309,
       "name": "Ngisasemncane",
       "url": "https://open.spotify.com/track/7cIP5GhqfQTuHmE9XV3Oyn"
@@ -11217,7 +11243,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 411480,
       "name": "Right Path",
       "url": "https://open.spotify.com/track/76nN5lPc6vXweHee0mrBdf"
@@ -12925,6 +12951,36 @@
       "duration_ms": 355084,
       "name": "Strateng",
       "url": "https://open.spotify.com/track/6XOE4pcC0PxBtyEYVMgiFC"
+    },
+    {
+      "album": {
+        "name": "Suk Ebondeni",
+        "url": "https://open.spotify.com/album/79zo5Bn1w1V2ofkmrMsLol"
+      },
+      "artists": [
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
+        },
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/38Z8m3KIEk8G6e9ZVdhKCk"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/4mswLaplWEyPL3CSpl0b6e"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240039,
+      "name": "Suk Ebondeni",
+      "url": "https://open.spotify.com/track/3VVL41HtcKjVgiBiWb7r6Q"
     },
     {
       "album": {

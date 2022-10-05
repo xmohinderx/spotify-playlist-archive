@@ -4,7 +4,7 @@
 
 > A Mumzy Stranger takeover highlighting his favorite South Asian tracks.
 
-126 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+127 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Gluttony](https://open.spotify.com/track/1O1XxaZ8Yyjxl6mlN18Xz4) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Gluttony](https://open.spotify.com/album/20tenLppJDI4jly4ZmPNrz) | 3:09 | 2021-11-10 | 2022-07-19 |
 | [Good to Know You](https://open.spotify.com/track/7w6Eto2JImiTEDbDFo0dzI) | [Rude Kid](https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl), [Wolfie](https://open.spotify.com/artist/4N5iE70O6AKNuFjnABYc4x), [Belly Squad](https://open.spotify.com/artist/1EWnP7piatUeXggTXofm5g) | [Good to Know You](https://open.spotify.com/album/5yuZTgZzerYgJpCaiI9X9O) | 3:41 | 2021-11-10 | 2022-07-19 |
 | [Got It](https://open.spotify.com/track/1mjAb2GZZcNqInQNscm0cu) | [Anjali Taneja](https://open.spotify.com/artist/1A7CIDrLklSiVgGJjdhdDX) | [Got It](https://open.spotify.com/album/1wjSb44UbiZHcOV5vL0vdG) | 2:46 | 2021-11-10 | 2022-07-19 |
-| [Here](https://open.spotify.com/track/6ggzsFVDrkWpHIAQCyHvQv) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Here](https://open.spotify.com/album/60A4f8ndrZ2yzrKHxTqI9X) | 2:48 | 2021-11-10 |  |
+| [Here](https://open.spotify.com/track/33HYTghRASCixkPVOVKJzV) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Bad Girls Dream](https://open.spotify.com/album/6zeTnbgQ8WoHMwTxc6IRul) | 2:48 | 2022-07-18 |  |
+| [Here](https://open.spotify.com/track/6ggzsFVDrkWpHIAQCyHvQv) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Here](https://open.spotify.com/album/60A4f8ndrZ2yzrKHxTqI9X) | 2:48 | 2021-11-10 | 2022-10-05 |
 | [Hold On To Me](https://open.spotify.com/track/3jDhe6dzhLNV7gbhajjU7A) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Hold On To Me](https://open.spotify.com/album/7Kx9THhDWSes4d8kTHQldM) | 2:59 | 2021-11-10 | 2022-07-19 |
 | [Honey](https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Honey](https://open.spotify.com/album/51T3czrBwVl8aB2XRCGzMb) | 2:13 | 2021-11-10 | 2022-01-21 |
 | [Human](https://open.spotify.com/track/1Cvvo5SkAtCj1iiSmLzJ6K) | [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Human](https://open.spotify.com/album/3Mt1ADYTQfXzByAJbd1CYN) | 3:49 | 2022-07-18 |  |

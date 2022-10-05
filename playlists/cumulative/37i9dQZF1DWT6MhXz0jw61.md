@@ -2,7 +2,7 @@
 
 ### [Mellow Bars](https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61)
 
-> Chillout hip\-hop vibes\. Cover: Larry June
+> Chillout hip\-hop vibes\. Cover: Symba
 
 281 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
@@ -14,7 +14,7 @@
 | [2010](https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [2010](https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3) | 2:28 | 2021-11-19 | 2022-03-26 |
 | [4 Da Kidz](https://open.spotify.com/track/2ZDRkJrKbceJRgLKkuex14) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:04 | 2021-10-07\* | 2021-11-20 |
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-10 | 2022-05-20 |
-| [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 | 2022-09-30 |  |
+| [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 | 2022-09-30 |  |
 | [A Bar About a Bar](https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Bar About a Bar](https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM) | 1:05 | 2022-05-27 |  |
 | [Addicted](https://open.spotify.com/track/1EXHfM9lHxzwb3lbJ4XU0J) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Addicted](https://open.spotify.com/album/7FxGRRumCAoPESLvW2Ta5K) | 2:09 | 2021-11-19 | 2022-07-09 |
 | [After Hours](https://open.spotify.com/track/7Jzak2thCz43eLysQML3Xl) | [Young Roddy](https://open.spotify.com/artist/7lVTwgQZCYQt20tvcPl6D4), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [After Hours](https://open.spotify.com/album/2xdsksBP1s8oSPO9IbFori) | 4:19 | 2021-09-24 | 2022-03-26 |

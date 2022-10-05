@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 791134,
+  "num_followers": 791539,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNjcwMCwwMDAwMDAwMDE3MjlkY2YwYTIwOGM1NDhkNTFiMjc2ZDM2YmJkNmFl",
+  "snapshot_id": "MTY2NDUxNjcwMCwwMDAwMDAwMDBhZDFmN2I4OWNiOTQ2YmNmMDQxZWM4YmY2NTRiNzMy",
   "tracks": [
     {
       "added_at": "2022-09-23 23:48:00",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
     },
     {
-      "added_at": "2022-10-04 01:54:36",
+      "added_at": "2022-10-05 01:56:44",
       "album": {
         "name": "You're The Boss",
         "url": "https://open.spotify.com/album/4Z4w4EAFUrD4B16A1Uy34e"
@@ -479,22 +479,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Water Your Garden",
-        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
+        "name": "The Symposium",
+        "url": "https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E"
       },
       "artists": [
         {
-          "name": "Magic City Hippies",
-          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "The Symposium",
+          "url": "https://open.spotify.com/artist/2FQgnKHydnhSnRS17BSy28"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Water Your Garden",
-      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
+      "duration_ms": 284769,
+      "name": "The Physical Attractions",
+      "url": "https://open.spotify.com/track/2TeYAizye4GlmzQq5zyf91"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -515,42 +511,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "The Symposium",
-        "url": "https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E"
-      },
-      "artists": [
-        {
-          "name": "The Symposium",
-          "url": "https://open.spotify.com/artist/2FQgnKHydnhSnRS17BSy28"
-        }
-      ],
-      "duration_ms": 284769,
-      "name": "The Physical Attractions",
-      "url": "https://open.spotify.com/track/2TeYAizye4GlmzQq5zyf91"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Savanne",
-        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
-      },
-      "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Ruby Sparks",
         "url": "https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY"
       },
@@ -563,6 +523,26 @@
       "duration_ms": 254284,
       "name": "Ruby Sparks",
       "url": "https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Water Your Garden",
+        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
+      },
+      "artists": [
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Water Your Garden",
+      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -583,6 +563,26 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Savanne",
+        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Saturdays",
         "url": "https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
       },
       "artists": [
         {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -731,22 +747,6 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
-      },
-      "artists": [
-        {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Cotton Candy Lemonade",
         "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 222750,
       "name": "Jump the Turnstile",
       "url": "https://open.spotify.com/track/6EJkSSM4zBJW1AMCLnnXT8"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Blacklight Shine",
-        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
-      },
-      "artists": [
-        {
-          "name": "The Mars Volta",
-          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
-        }
-      ],
-      "duration_ms": 175657,
-      "name": "Blacklight Shine",
-      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "FEEL LIKE",
         "url": "https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Blacklight Shine",
+        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "duration_ms": 175657,
+      "name": "Blacklight Shine",
+      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Thanatophobia",
         "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 237741,
       "name": "Sensitivity",
       "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "The Garden Series",
+        "url": "https://open.spotify.com/album/5p3dhXhw62KlVkf0oPfq1G"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "duration_ms": 323200,
+      "name": "When I Get Home",
+      "url": "https://open.spotify.com/track/0iKuMGAjLp9RcYiyzkdruH"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "LUNO",
         "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
       },
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "The Garden Series",
-        "url": "https://open.spotify.com/album/5p3dhXhw62KlVkf0oPfq1G"
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
       },
       "artists": [
         {
-          "name": "Post Animal",
-          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 323200,
-      "name": "When I Get Home",
-      "url": "https://open.spotify.com/track/0iKuMGAjLp9RcYiyzkdruH"
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 242261,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+      "duration_ms": 470092,
+      "name": "Dripping Sun",
+      "url": "https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1295,18 +1295,34 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
       },
       "artists": [
         {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
         }
       ],
-      "duration_ms": 470092,
-      "name": "Dripping Sun",
-      "url": "https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649"
+      "duration_ms": 242261,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/14moR256JoSCPnJrirQXYC"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 150000,
       "name": "Gettin\u2019 to the Point",
       "url": "https://open.spotify.com/track/6pZOH8IcAfdSTXNMBs3pg6"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Table for Two",
-        "url": "https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Table for Two",
-      "url": "https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -1439,26 +1423,6 @@
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
-        }
-      ],
-      "duration_ms": 224448,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1483,6 +1447,42 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Table for Two",
+        "url": "https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Table for Two",
+      "url": "https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 224448,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Where I Live",
         "url": "https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 180931,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/1zydSwU6v1IHHYeb58c3YB"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Ultimate Painting",
+        "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Painting",
+          "url": "https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj"
+        }
+      ],
+      "duration_ms": 219129,
+      "name": "Ultimate Painting",
+      "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1515,26 +1531,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Edge of the Edge",
-        "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
-      },
-      "artists": [
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        },
-        {
-          "name": "Sonic Boom",
-          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "Edge of the Edge",
-      "url": "https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
       },
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Ultimate Painting",
-        "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
+        "name": "Edge of the Edge",
+        "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
       },
       "artists": [
         {
-          "name": "Ultimate Painting",
-          "url": "https://open.spotify.com/artist/1PPpmEpuN1KrWNOBqrHeMj"
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
         }
       ],
-      "duration_ms": 219129,
-      "name": "Ultimate Painting",
-      "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
+      "duration_ms": 288746,
+      "name": "Edge of the Edge",
+      "url": "https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a"
     },
     {
       "added_at": "2022-09-02 05:58:00",

@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-129 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+130 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Armageddon Blues](https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 6:11 | 2021-02-12 |  |
 | [As the Spirit Sings](https://open.spotify.com/track/4qpKhfmO5O46ljDGSWR2vc) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/0cf89uYaI7ceahwv3Zm4d6) | 5:21 | 2021-07-16 | 2022-07-29 |
 | [As the Spirit Sings](https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9) | 5:21 | 2021-07-16 |  |
-| [Aslan](https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa) | [Aslan](https://open.spotify.com/album/6Ipqac2umFqtk6tp8TSLsT) | 6:18 | 2021-02-12 |  |
+| [Aslan](https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa) | [Aslan](https://open.spotify.com/album/6Ipqac2umFqtk6tp8TSLsT) | 6:18 | 2021-02-12 | 2022-10-05 |
 | [Bad Asteroid](https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [The Aristocrats](https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf) | 5:53 | 2021-02-12 |  |
 | [Be Happy](https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [Visions of the Emerald Beyond](https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo) | 3:32 | 2021-02-12 |  |
 | [Big Bang](https://open.spotify.com/track/5D3qsYYQev3PM5I2e7spp5) | [Klaus Doldinger's Passport](https://open.spotify.com/artist/4EjjMTj801PRhn5aje8gsp) | [Garden Of Eden](https://open.spotify.com/album/3ftpM0sGdtCqJl0DnO8RJD) | 3:54 | 2021-02-12 | 2022-07-28 |
@@ -73,6 +73,7 @@
 | [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 | 2021-02-12 | 2022-10-01 |
 | [Lockdown Boogie](https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq) | 5:18 | 2021-02-12 | 2022-09-29 |
 | [Lockdown Boogie](https://open.spotify.com/track/44m5C5PwRPijazjXQJESGG) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Lockdown Boogie](https://open.spotify.com/album/2UQzqEK9yKcIZjY4taxUk9) | 5:18 | 2021-02-12 | 2022-07-29 |
+| [Lost](https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:56 | 2022-09-23 |  |
 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 | 2021-04-09 |  |
 | [Maiden Voyage](https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Maiden Voyage](https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M) | 6:41 | 2022-07-22 |  |
 | [Make Your Move](https://open.spotify.com/track/0soFv0nJyrRbZ1WBZtir0p) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Make Your Move](https://open.spotify.com/album/5EkzlyKKcUJualXXffkZxC) | 4:26 | 2021-08-27 | 2022-07-29 |

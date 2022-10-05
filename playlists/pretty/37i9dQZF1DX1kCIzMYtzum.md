@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,623 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,867 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 32 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 |
 | 33 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
 | 34 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 |
-| 35 | [Can U Dance \(To My Beat\)](https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Can U Dance \(To My Beat\)](https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA) | 2:28 |
+| 35 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 |
 | 36 | [My Feelings For You \- Don Diablo Remix](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [My Feelings For You \(Don Diablo Remix\)](https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498) | 3:25 |
 | 37 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:38 |
-| 38 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
-| 39 | [Safe](https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Safe](https://open.spotify.com/album/5edtT743uNFxgxSkITKKF3) | 3:45 |
-| 40 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 |
+| 38 | [Can U Dance \(To My Beat\)](https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Can U Dance \(To My Beat\)](https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA) | 2:28 |
+| 39 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
+| 40 | [Safe](https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Safe](https://open.spotify.com/album/5edtT743uNFxgxSkITKKF3) | 3:45 |
 | 41 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 |
 | 42 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 |
 | 43 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 49 | [Nobody](https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Nobody](https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT) | 2:23 |
 | 50 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDhjNTVkZmFmYmE3Njc3MDFiNTBlZDNiMTE3ZDk0MWZj`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDYyMGZmMTk4NjM2Mzg4Yzg5OWUwY2ZiMGU3OTU4N2Nl`

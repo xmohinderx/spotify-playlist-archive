@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 164350,
+  "num_followers": 164552,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDQ2MDZhZWJmZjE1MDVmY2ZmN2Y4NTQ1NjEwZDkyZjZi",
+  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMGM4NzI5ZWVmMWJmN2U1ZjlhZGNhNDU2MTljODczZmQz",
   "tracks": [
     {
       "added_at": "2021-09-23 20:29:34",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-12-06 15:54:08",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
-    },
-    {
-      "added_at": "2021-12-06 15:54:08",
-      "album": {
         "name": "Cars (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 275640,
       "name": "Life is a Highway",
       "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
+    },
+    {
+      "added_at": "2021-12-06 15:54:08",
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
-      },
-      "artists": [
-        {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214866,
       "name": "The Devil Went Down to Georgia",
       "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -731,18 +731,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Big Green Tractor",
-      "url": "https://open.spotify.com/track/4KAzYqfcijCSZa2P3etHoM"
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+      "duration_ms": 204200,
+      "name": "Big Green Tractor",
+      "url": "https://open.spotify.com/track/4KAzYqfcijCSZa2P3etHoM"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Judge Jerrod & The Hung Jury",
-        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
       "artists": [
         {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Lover, Lover",
-      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2021-12-06 15:54:08",
@@ -1215,34 +1215,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+        "name": "Judge Jerrod & The Hung Jury",
+        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
       },
       "artists": [
         {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Bye-Bye",
-      "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
+      "duration_ms": 193733,
+      "name": "Lover, Lover",
+      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Bye-Bye",
+      "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "You Do Your Thing",
         "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 256600,
       "name": "Something to Be Proud Of",
       "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Make It Sweet",
-      "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
+      "duration_ms": 195346,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1339,6 +1323,22 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Make It Sweet",
+      "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
-      },
-      "artists": [
-        {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Next To You, Next To Me",
-      "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Mud On The Tires",
         "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 208266,
       "name": "Mud on the Tires",
       "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Next To You, Next To Me",
+      "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
     },
     {
       "added_at": "2021-09-23 20:29:34",

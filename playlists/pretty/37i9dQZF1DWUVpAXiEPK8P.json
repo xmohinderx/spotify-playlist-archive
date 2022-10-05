@@ -1,12 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4033122,
+  "num_followers": 4033574,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4NzYwMCwwMDAwMDAwMDAyNDUyZjZjNzM0NWZlYzNjMTBjY2Q4YjM1ZTUyOGM0",
+  "snapshot_id": "MTY2Mzg4NzYwMCwwMDAwMDAwMDE2ZmU0ZmFkYmY5N2UyYWI1MGMxNjEzZDJlMGJhYjFj",
   "tracks": [
     {
       "added_at": "2022-09-22 23:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2022-09-22 23:00:00",
       "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2022-09-22 23:00:00",
+      "album": {
         "name": "B4 The Storm",
         "url": "https://open.spotify.com/album/2vGU0DOcfsDee0euvhl1iZ"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 195428,
       "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
       "url": "https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX"
-    },
-    {
-      "added_at": "2022-09-22 23:00:00",
-      "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2022-09-22 23:00:00",

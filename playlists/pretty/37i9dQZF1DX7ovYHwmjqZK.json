@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento",
-  "num_followers": 150097,
+  "num_followers": 150256,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzg5NTYwMCwwMDAwMDAwMGFjMmUwYmVmNzYwMjJiMTE3YzM5YWRkMDViYTI5MjEx",
+  "snapshot_id": "MTYzNzg5NTYwMCwwMDAwMDAwMGQ1ZGQzOGY4NjcyMTBmM2FkMGJjMzUyOGE5N2JjN2Jl",
   "tracks": [
     {
       "added_at": "2021-11-26 03:00:00",
@@ -571,22 +571,18 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta"
+        "name": "Qualquer Coisa",
+        "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
       },
       "artists": [
         {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 247837,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm"
+      "duration_ms": 174133,
+      "name": "Samba E Amor",
+      "url": "https://open.spotify.com/track/044fQ35cLbMVwta0KyN5dM"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -607,18 +603,22 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Qualquer Coisa",
-        "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Samba E Amor",
-      "url": "https://open.spotify.com/track/044fQ35cLbMVwta0KyN5dM"
+      "duration_ms": 247837,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Zum Zum",
-        "url": "https://open.spotify.com/album/4n0PDXCUXzTzv6z2NaimtJ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "Zum Zum",
-      "url": "https://open.spotify.com/track/25nxYKQHAh7ehFIsc4kloY"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Quinze Pras Sete na Vila",
         "url": "https://open.spotify.com/album/0AFxvpFwxZQUEzZnHl5OJx"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
+        "name": "Zum Zum",
+        "url": "https://open.spotify.com/album/4n0PDXCUXzTzv6z2NaimtJ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Zum Zum",
+      "url": "https://open.spotify.com/track/25nxYKQHAh7ehFIsc4kloY"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
         "name": "Sorte!",
         "url": "https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 291729,
       "name": "Sorte!",
       "url": "https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
-        "name": "Veja Bem Meu Bem (Single)",
-        "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        },
-        {
-          "name": "Yves Dharamraj",
-          "url": "https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W"
-        }
-      ],
-      "duration_ms": 322202,
-      "name": "Veja Bem Meu Bem",
-      "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -855,22 +835,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "All or Nothing at All",
-        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
-      },
-      "artists": [
-        {
-          "name": "Billy Sides Trio",
-          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
-        }
-      ],
-      "duration_ms": 375108,
-      "name": "All or Nothing at All",
-      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "As Cores das Flores",
         "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
       },
@@ -887,6 +851,58 @@
       "duration_ms": 181894,
       "name": "As Cores das Flores",
       "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Veja Bem Meu Bem (Single)",
+        "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        },
+        {
+          "name": "Yves Dharamraj",
+          "url": "https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W"
+        }
+      ],
+      "duration_ms": 322202,
+      "name": "Veja Bem Meu Bem",
+      "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "All or Nothing at All",
+        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
+      },
+      "artists": [
+        {
+          "name": "Billy Sides Trio",
+          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
+        }
+      ],
+      "duration_ms": 375108,
+      "name": "All or Nothing at All",
+      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Caminhos Cruzados",
+        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 152752,
+      "name": "Caminhos Cruzados",
+      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -911,22 +927,6 @@
       "duration_ms": 253870,
       "name": "Samba Sem Ver\u00e3o",
       "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
-        "name": "Caminhos Cruzados",
-        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 152752,
-      "name": "Caminhos Cruzados",
-      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
+        "name": "Storytellers",
+        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
+      },
+      "artists": [
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 310680,
+      "name": "Se Acontecer",
+      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
         "name": "M\u00fasicas para Travessia",
         "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Storytellers",
-        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
-      },
-      "artists": [
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 310680,
-      "name": "Se Acontecer",
-      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Terra-M\u00e3e",
         "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 216701,
       "name": "Brasil Geral",
       "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
-        "name": "Joao",
-        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Eu Sambo Mesmo",
-      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1091,22 +1075,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Voc\u00ea E Eu",
-        "url": "https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe"
-      },
-      "artists": [
-        {
-          "name": "Bossa Avenida",
-          "url": "https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ"
-        }
-      ],
-      "duration_ms": 179299,
-      "name": "Voc\u00ea E Eu",
-      "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Media\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
       },
@@ -1119,6 +1087,22 @@
       "duration_ms": 151109,
       "name": "Media\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Voc\u00ea E Eu",
+        "url": "https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe"
+      },
+      "artists": [
+        {
+          "name": "Bossa Avenida",
+          "url": "https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ"
+        }
+      ],
+      "duration_ms": 179299,
+      "name": "Voc\u00ea E Eu",
+      "url": "https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Liberta\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
+        "name": "Na Palavra",
+        "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
       },
       "artists": [
         {
-          "name": "Vidal Assis",
-          "url": "https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L"
+          "name": "Andr\u00e9 Gardel",
+          "url": "https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG"
         }
       ],
-      "duration_ms": 176065,
-      "name": "Liberta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
+      "duration_ms": 202853,
+      "name": "Musa em Fuga",
+      "url": "https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1219,34 +1203,50 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Na Palavra",
-        "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
+        "name": "Liberta\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Gardel",
-          "url": "https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG"
+          "name": "Vidal Assis",
+          "url": "https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L"
         }
       ],
-      "duration_ms": 202853,
-      "name": "Musa em Fuga",
-      "url": "https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z"
+      "duration_ms": 176065,
+      "name": "Liberta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY"
     },
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Tin Tin Por Tin Tin",
-        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
+        "name": "Depressa a Vida Passa",
+        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
       },
       "artists": [
         {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+          "name": "Renato Braz",
+          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
         }
       ],
-      "duration_ms": 140112,
-      "name": "Tin Tin Por Tin Tin",
-      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
+      "duration_ms": 293560,
+      "name": "Depressa a Vida Passa",
+      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "D\u00e1jazz",
+        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+      },
+      "artists": [
+        {
+          "name": "Lili Araujo",
+          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "A Voz do Brasil",
+      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1279,34 +1279,18 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "D\u00e1jazz",
-        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+        "name": "Tin Tin Por Tin Tin",
+        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
       },
       "artists": [
         {
-          "name": "Lili Araujo",
-          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
         }
       ],
-      "duration_ms": 303346,
-      "name": "A Voz do Brasil",
-      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
-        "name": "Depressa a Vida Passa",
-        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
-      },
-      "artists": [
-        {
-          "name": "Renato Braz",
-          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
-        }
-      ],
-      "duration_ms": 293560,
-      "name": "Depressa a Vida Passa",
-      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
+      "duration_ms": 140112,
+      "name": "Tin Tin Por Tin Tin",
+      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1367,50 +1351,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
-      },
-      "artists": [
-        {
-          "name": "Francis Hime",
-          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Samba Dolente",
-      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
-        "name": "Feito \u00e0 M\u00e3o",
-        "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
-      },
-      "artists": [
-        {
-          "name": "Bisdr\u00e9 Santos",
-          "url": "https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb"
-        },
-        {
-          "name": "Gabriel Gavi",
-          "url": "https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB"
-        },
-        {
-          "name": "Stefano Moliner",
-          "url": "https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87"
-        },
-        {
-          "name": "Beb\u00ea do G\u00f3es",
-          "url": "https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc"
-        }
-      ],
-      "duration_ms": 279456,
-      "name": "Bossa de Maio",
-      "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "O Anel - Ala\u00edde Costa Canta Jos\u00e9 Miguel Wisnik",
         "url": "https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy"
       },
@@ -1443,6 +1383,50 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
+        "name": "Feito \u00e0 M\u00e3o",
+        "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
+      },
+      "artists": [
+        {
+          "name": "Bisdr\u00e9 Santos",
+          "url": "https://open.spotify.com/artist/2u7vIuMKEI6dGApE1kOiTb"
+        },
+        {
+          "name": "Gabriel Gavi",
+          "url": "https://open.spotify.com/artist/2MBGpAO9c2iTpQAHv3nXmB"
+        },
+        {
+          "name": "Stefano Moliner",
+          "url": "https://open.spotify.com/artist/0xZm3PkvNOmTLEj8BZLp87"
+        },
+        {
+          "name": "Beb\u00ea do G\u00f3es",
+          "url": "https://open.spotify.com/artist/3Tk0tM0GJssL3OEFCzweEc"
+        }
+      ],
+      "duration_ms": 279456,
+      "name": "Bossa de Maio",
+      "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
+      },
+      "artists": [
+        {
+          "name": "Francis Hime",
+          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Samba Dolente",
+      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
         "name": "O Samba, a Roseira e o Vento",
         "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
       },
@@ -1459,22 +1443,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
-        "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 194576,
-      "name": "Maria e o Samba",
-      "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "A Ma\u00e7\u00e3",
         "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
       },
@@ -1487,6 +1455,22 @@
       "duration_ms": 300126,
       "name": "A Mac\u0327a\u0303",
       "url": "https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
+        "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 194576,
+      "name": "Maria e o Samba",
+      "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1663,22 +1647,6 @@
     {
       "added_at": "2021-11-26 03:00:00",
       "album": {
-        "name": "Parti Capuri",
-        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
-      },
-      "artists": [
-        {
-          "name": "Billynho Blanco",
-          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parti Capuri",
-      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
-    },
-    {
-      "added_at": "2021-11-26 03:00:00",
-      "album": {
         "name": "Navegante - Dudu Sperb Recebe Guinga",
         "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
@@ -1719,6 +1687,22 @@
       "duration_ms": 152338,
       "name": "A Banca do Distinto",
       "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Parti Capuri",
+        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
+      },
+      "artists": [
+        {
+          "name": "Billynho Blanco",
+          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Parti Capuri",
+      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
     },
     {
       "added_at": "2021-11-26 03:00:00",
@@ -1819,6 +1803,22 @@
       "duration_ms": 168600,
       "name": "Chuvas De Ver\u00e3o - Remastered 2006",
       "url": "https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR"
+    },
+    {
+      "added_at": "2021-11-26 03:00:00",
+      "album": {
+        "name": "Jo\u00e3o Gilberto: Hits & Rarities",
+        "url": "https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Eu Sambo Mesmo",
+      "url": "https://open.spotify.com/track/7CPcuPG4fEMdGNHLRdxTPb"
     }
   ],
   "unique_name": "Caf\u00e9 Bossa",

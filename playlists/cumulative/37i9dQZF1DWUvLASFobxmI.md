@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Duelo en portada.
 
-164 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+165 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [El Señor de la A](https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Señor de la A](https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE) | 3:04 | 2022-06-24 | 2022-08-30 |
 | [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 | 2022-07-01 | 2022-08-20 |
 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 | 2022-07-01 |  |
+| [El Árbol del Mayo](https://open.spotify.com/track/3eU5K7wg8BSv70Jifvyf0A) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Árbol del Mayo](https://open.spotify.com/album/4azUaJgvQzzZ13mRRfxx4j) | 3:56 | 2022-09-30 |  |
 | [Enamorado](https://open.spotify.com/track/2lQ907kdNk2IL7WRQZHlZy) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Enamorado](https://open.spotify.com/album/1JNPLcUJAcPHnkB6cgxU39) | 3:09 | 2022-07-15 |  |
 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 | 2022-09-02 |  |
 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 | 2021-12-17 |  |
@@ -91,7 +92,7 @@
 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 | 2022-07-01 |  |
 | [La Siembra](https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Para Valientes, Vol.1](https://open.spotify.com/album/7mGVKM49bCCwGshz1kEOLl) | 3:54 | 2022-09-19 |  |
 | [La Vieja Escuela](https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F) | [4 de a Caballo](https://open.spotify.com/artist/41JHmI3S4Jo07FN7oXyeMI), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Vieja Escuela](https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz) | 3:11 | 2022-07-01 | 2022-08-06 |
-| [La Última y Nos Vamos](https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Última y Nos Vamos](https://open.spotify.com/album/6FrH1j5lnmSaYUoAkVCQRU) | 2:36 | 2022-07-01 |  |
+| [La Última y Nos Vamos](https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Última y Nos Vamos](https://open.spotify.com/album/6FrH1j5lnmSaYUoAkVCQRU) | 2:36 | 2022-07-01 | 2022-10-05 |
 | [Las Dos Cruces](https://open.spotify.com/track/3smZXzA9dK9vtp8FCdmcWu) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Las Dos Cruces](https://open.spotify.com/album/03bmyBTbfySmUISLdPPdMj) | 4:05 | 2022-07-01 | 2022-09-03 |
 | [Las Pisteadas del Cholo](https://open.spotify.com/track/27anj0A7YhGw0rKCHZqy34) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Hombres de Honor](https://open.spotify.com/album/3ovOIwg4sOP0ElTa9yg8Wz) | 4:24 | 2022-07-01 |  |
 | [Levantando Polvadera](https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Levantando Polvadera \(Versión Deluxe\)](https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6) | 3:05 | 2022-07-01 | 2022-08-06 |

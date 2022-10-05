@@ -3604,6 +3604,24 @@
     },
     {
       "album": {
+        "name": "Out of the Dark",
+        "url": "https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238124,
+      "name": "Out of the Dark",
+      "url": "https://open.spotify.com/track/6IzufCdUFDMtLG2EvHwYFE"
+    },
+    {
+      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a"
       },

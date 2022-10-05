@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,325 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,372 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 29 | [La Química](https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Sin Parar](https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v) | 3:26 |
 | 30 | [Bomba Para Afincar](https://open.spotify.com/track/0cHircZQcIR3ZkVsuHPgb6) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 3:33 |
 | 31 | [Hot This Year](https://open.spotify.com/track/0Pp9uh741YQbUAcAJlb2RJ) | [Dirtsman](https://open.spotify.com/artist/3WkWip0kyAQjb91nEJjUgs) | [Reggae Hits, Vol\. 11](https://open.spotify.com/album/2JimbOB089I6bUYDvPLY6P) | 3:29 |
-| 32 | [Puerto Rico Todos Quieren Fumar](https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp) | [Grupo Nizze](https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm) | [Playero 38 Special Edition](https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha) | 2:21 |
-| 33 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
+| 32 | [Tengo una Punto 40](https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU) | [Playero 40 New Era](https://open.spotify.com/album/6R1g9oipVOkjxwFsc1R2vB) | 2:37 |
+| 33 | [Puerto Rico Todos Quieren Fumar](https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp) | [Grupo Nizze](https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm) | [Playero 38 Special Edition](https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha) | 2:21 |
 | 34 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
 | 35 | [Full Up a Class](https://open.spotify.com/track/6FFeBtCaawK4WqtKfWeoSX) | [Bunny General](https://open.spotify.com/artist/64N2jWrlxw6DSwWZ6BHCOI) | [Dancehall Reggae Connection...\. Top Ragga DJs From Fashion](https://open.spotify.com/album/4Uygzhu2CQ3UvZiaUbGKMW) | 3:40 |
 | 36 | [Voz Sensual](https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Playero 38](https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh) | [Maicol y Manuel](https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ) | [Como en los Tiempos de Antes](https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa) | 3:17 |
 | 75 | [La Chica de los Ojos Cafe](https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 4:57 |
 
-Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMGMzYjJlY2E1ZmNjYzk5MTBlNGMyYzI2ODZhNzA2ZTFm`
+Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDUxMTMwMGEzNmNlODBlYjcxYjJjZjgzYTVhNzFmMTdk`

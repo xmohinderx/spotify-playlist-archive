@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 54216,
+  "num_followers": 54357,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDE2ODZiMGRkNDBmYTk3ZDMzMzUxMmFjZWYwYmYxYmJi",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDRjZDk3NDY2ZjdhNTNjZWZhMjNlNzgxN2FkNTY3MTE0",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -675,22 +675,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Box Energy",
-        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+        "name": "Trax Classix",
+        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
       },
       "artists": [
         {
           "name": "Armando",
           "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        },
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 370306,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+      "duration_ms": 178666,
+      "name": "Land Of Confusion",
+      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -727,6 +723,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "HAVEL",
         "url": "https://open.spotify.com/album/3pFWjCpLWiqqzuTcKRxwl7"
       },
@@ -747,22 +759,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Thank You for Letting Me Be Myself",
         "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
@@ -779,18 +775,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Trax Classix",
-        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
       "artists": [
         {
           "name": "Armando",
           "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Land Of Confusion",
-      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
     },
     {
       "added_at": "2021-10-22 11:07:27",

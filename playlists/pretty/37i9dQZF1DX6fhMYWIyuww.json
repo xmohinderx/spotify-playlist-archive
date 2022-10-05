@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 88660,
+  "num_followers": 88805,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDI4M2RlMzIwYzFhY2UzOWY5NDIzMTc3ZTk4Yzc2MTFl",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDk1NjI1MjkwZTVlZDlkNTFhYTIwNGViNjdkY2M5ZmUw",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Rikki Don't Lose That Number",
+      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "You Can Tune a Piano, But You Can't Tuna Fish",
-        "url": "https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "Time for Me to Fly",
-      "url": "https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY"
-    },
-    {
       "added_at": "2022-06-29 18:13:00",
       "album": {
         "name": "Gaucho",
@@ -443,6 +427,22 @@
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "You Can Tune a Piano, But You Can't Tuna Fish",
+        "url": "https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "Time for Me to Fly",
+      "url": "https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Son Of A Son Of A Sailor",
-        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Son Of A Son Of A Sailor",
-      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "I'd Love You To Want Me",
         "url": "https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 177933,
       "name": "Me and You and a Dog Named Boo",
       "url": "https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Son Of A Son Of A Sailor",
+      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
-      },
-      "artists": [
-        {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
-    },
-    {
       "added_at": "2022-06-29 18:13:00",
       "album": {
         "name": "Moonlight Feels Right",
@@ -779,6 +763,22 @@
       "duration_ms": 221066,
       "name": "Moonlight Feels Right",
       "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "A-1-A",
-        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "A Pirate Looks At Forty",
-      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Turnstiles",
         "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 199960,
       "name": "Summer, Highland Falls",
       "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "A Pirate Looks At Forty",
+      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Fins",
-      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 265221,
       "name": "This Time I'm In It For Love",
       "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Fins",
+      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Better Love Next Time",
-      "url": "https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 176493,
       "name": "Say You'll Be Mine",
       "url": "https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Better Love Next Time",
+      "url": "https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Reminiscing - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "All Dressed Up",
         "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 254457,
       "name": "Boys of Autumn",
       "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Reminiscing - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG"
     },
     {
       "added_at": "2021-04-22 18:12:12",

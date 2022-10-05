@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 359593,
+  "num_followers": 359620,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMDNlNzQxYTgxNDNkNzk1NDY0NzBhNmUzYThkNDE1MmE3",
+  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMGI2NzUwZDU5MWEwZjQxODlkMTdmNjU1ZGJiYjExYzll",
   "tracks": [
     {
       "added_at": "2022-08-31 07:28:39",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 165056,
-      "name": "Taganga",
-      "url": "https://open.spotify.com/track/6suwy7Q9BdzR9aEdALuKiF"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Lo Mismo Que Usted",
         "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 189900,
       "name": "Lo Mismo Que Usted",
       "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 165056,
+      "name": "Taganga",
+      "url": "https://open.spotify.com/track/6suwy7Q9BdzR9aEdALuKiF"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Sorpresa",
         "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 242733,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        },
+        {
+          "name": "Melo G\u00eda",
+          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
+        }
+      ],
+      "duration_ms": 221111,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 236346,
       "name": "Margarita (feat. Vicente Garc\u00eda & Jose Qui\u00f1\u00f3nez)",
       "url": "https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        },
-        {
-          "name": "Melo G\u00eda",
-          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
-        }
-      ],
-      "duration_ms": 221111,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-        "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
-      },
-      "artists": [
-        {
-          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 185160,
       "name": "Mar Y Cielo",
       "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+        "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
+      },
+      "artists": [
+        {
+          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "En Medio Del Jard\u00edn",
-        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "En Medio Del Jard\u00edn",
-      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 205010,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
+      },
+      "artists": [
+        {
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "El Chuchumb\u00e9",
-      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Cun Cun Pr\u00e1",
         "url": "https://open.spotify.com/album/24UH0bSpSX7dikFJI9dE0v"
       },
@@ -1211,18 +1195,34 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Kumbayeo",
-        "url": "https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q"
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Kumbayeo",
-      "url": "https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW"
+      "duration_ms": 208320,
+      "name": "El Chuchumb\u00e9",
+      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 261696,
+      "name": "Mariposas Blancas",
+      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
+        "name": "Kumbayeo",
+        "url": "https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 261696,
-      "name": "Mariposas Blancas",
-      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
+      "duration_ms": 214000,
+      "name": "Kumbayeo",
+      "url": "https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "LADAMA",
-        "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 226405,
-      "name": "Porro Maracatu",
-      "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "Lavabo Mi Amor",
-        "url": "https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT"
-      },
-      "artists": [
-        {
-          "name": "French Fuse",
-          "url": "https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi"
-        }
-      ],
-      "duration_ms": 183489,
-      "name": "Lavabo Mi Amor",
-      "url": "https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Calentura: Global Bassment",
         "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
       },
@@ -1411,6 +1379,38 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
+        "name": "Lavabo Mi Amor",
+        "url": "https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT"
+      },
+      "artists": [
+        {
+          "name": "French Fuse",
+          "url": "https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi"
+        }
+      ],
+      "duration_ms": 183489,
+      "name": "Lavabo Mi Amor",
+      "url": "https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "LADAMA",
+        "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 226405,
+      "name": "Porro Maracatu",
+      "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
         "name": "Rosalie (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 258845,
       "name": "Rosalie (Espa\u00f1ol)",
       "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
-        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1475,6 +1459,22 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Parrilladas Vargas",
-        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 131897,
-      "name": "Una Piedra en el Cielo",
-      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 205600,
       "name": "La Cumbia Del Infinito",
       "url": "https://open.spotify.com/track/4bMqrcFJszZ8HzT9rb0Tfz"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Parrilladas Vargas",
+        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 131897,
+      "name": "Una Piedra en el Cielo",
+      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
     },
     {
       "added_at": "2022-08-31 07:28:39",

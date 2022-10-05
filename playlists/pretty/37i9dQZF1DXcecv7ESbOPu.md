@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,776 likes - 108 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,782 likes - 108 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 17 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 |
 | 18 | [Dream Of Gold](https://open.spotify.com/track/7JyxzQFZj5HUHfj66HLWxw) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Dream Of Gold](https://open.spotify.com/album/5XA5XzJokccaXcbt9R2run) | 3:01 |
 | 19 | [Bye Bye Bye](https://open.spotify.com/track/0Ye0D6M8PVSD0y5p1Ov0Ag) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Bye Bye Bye](https://open.spotify.com/album/3YQGSnNzihiOI3eTxetUAE) | 2:20 |
-| 20 | [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 |
+| 20 | [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt\. 2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 |
 | 21 | [Summer Is Over](https://open.spotify.com/track/78nvT4euebtCsEigaNt4aa) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Summer Is Over](https://open.spotify.com/album/6RtywjU8C5NqmQPKUYeROd) | 3:08 |
 | 22 | [Monster](https://open.spotify.com/track/1PRA8nmdhUV7dOF6pNqsdz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Monster](https://open.spotify.com/album/0ZNVOeu0n0XPdSkqRCfk6w) | 2:40 |
 | 23 | [To The Moon](https://open.spotify.com/track/2PZju4y2KHcX1aMYXtg6Vv) | [Clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [OFF](https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf) | 3:02 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 90 | [new body rhumba \(from the film White Noise\)](https://open.spotify.com/track/2iqA5Na5vlo0bnZUf8KT1N) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [new body rhumba \(from the film White Noise\)](https://open.spotify.com/album/0NIz7gtDhMS3pqFnCgcZCy) | 7:23 |
 | 91 | [Can We Always Be Friends?](https://open.spotify.com/track/0KhuWA0Of3CdpJlBaZRKrp) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Can We Always Be Friends?](https://open.spotify.com/album/4FISYlK0nXwDIUbma2Z9Xk) | 2:48 |
 | 92 | [LAZY](https://open.spotify.com/track/2pUsVdWX8cCwznDqTKil2G) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [LAZY](https://open.spotify.com/album/5R4N50KXCR8YzZ5JaNqNue) | 3:23 |
-| 93 | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
+| 93 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 | 94 | [What About Us](https://open.spotify.com/track/5NKLT3eQNiLagtsm2EKTvh) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Kevin Faye](https://open.spotify.com/artist/7H0dyws9JvjtecZazKLNpM) | [What About Us](https://open.spotify.com/album/0eUw3n9JYzRSAe5bTjsXgt) | 2:46 |
 | 95 | [Kernkraft 400 \(A Better Day\) \- MistaJam Remix](https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Kernkraft 400 \(A Better Day\) \[MistaJam Remix\]](https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz) | 2:20 |
 | 96 | [Hell & Back](https://open.spotify.com/track/51HUjhAtJzFShsuKWEqk7Q) | [PRETTY YOUNG](https://open.spotify.com/artist/3OYs1ddotHRvkUDETp3ICh) | [Out Of The Blue](https://open.spotify.com/album/02uRxMoYdYlXUVjRWNE2cy) | 2:36 |

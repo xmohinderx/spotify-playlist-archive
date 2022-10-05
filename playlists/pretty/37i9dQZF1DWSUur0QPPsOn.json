@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 226418,
+  "num_followers": 226882,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgxNjU0NywwMDAwMDAwMDdmMTE4YjBkNzNmNWViYzIwMWNmMGFjYzMzOWJiYzMy",
+  "snapshot_id": "MTY2NDgxNjU0NywwMDAwMDAwMGMwYmZjZTE3Yjk2ZDU0MWY1ZDM1ZDkzYzAwYzM2OGUx",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "9 5 . s o u t h",
+      "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "9 5 . s o u t h",
-      "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
     },
     {
       "added_at": "2022-10-03 04:00:00",

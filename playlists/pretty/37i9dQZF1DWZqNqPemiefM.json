@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 24256,
+  "num_followers": 24396,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMGRiMzJjZmMxZGQ3MTRjMWYxNWM1NGRhOGRiYTkyODgz",
+  "snapshot_id": "MTY2NDkxOTk1MSwwMDAwMDAwMDUzODE1OGJlMzE2NzA1OWMwN2VmZWFjYzc0NTVlMDlh",
   "tracks": [
     {
       "added_at": "2022-09-29 15:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "Transitoriness",
-        "url": "https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ"
-      },
-      "artists": [
-        {
-          "name": "Nobuto Suda",
-          "url": "https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "One",
-      "url": "https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "Sonorite",
         "url": "https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 473106,
       "name": "kokyu",
       "url": "https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "Transitoriness",
+        "url": "https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ"
+      },
+      "artists": [
+        {
+          "name": "Nobuto Suda",
+          "url": "https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "One",
+      "url": "https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G"
     },
     {
       "added_at": "2022-09-29 15:00:00",

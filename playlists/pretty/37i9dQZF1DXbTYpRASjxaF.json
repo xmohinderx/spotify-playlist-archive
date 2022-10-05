@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest, BIN, Major RD",
-  "num_followers": 78850,
+  "num_followers": 78894,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMGViOGVhZTI5NGMxMDRkNzBhNWI0MjQwNjBhYjFiNmQx",
+  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMDEwMTM1OTYyZDM0NzQ1NTUwZjk1NTljODIyMThlYTBk",
   "tracks": [
     {
       "added_at": "2022-09-30 03:01:00",
@@ -255,6 +255,26 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
+        "name": "Felina",
+        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 306141,
       "name": "Viz\u00e3o de Cria 2",
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
-        "name": "Felina",
-        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
+        "name": "Sorrisin de Puto",
+        "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
+      },
+      "artists": [
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Sorrisin de Puto",
+      "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
         "name": "Set Dj Br da Tijuca",
         "url": "https://open.spotify.com/album/30Rici9GQYROvdO1MLaV9g"
       },
@@ -1387,22 +1407,26 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Sorrisin de Puto",
-        "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
+        "name": "7 Galo",
+        "url": "https://open.spotify.com/album/3IUE2l0rbXzT7x0QCILLxo"
       },
       "artists": [
         {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
         },
         {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+          "name": "Eo Ppt",
+          "url": "https://open.spotify.com/artist/6Vco5rCTxBDQQjt5MShA9L"
+        },
+        {
+          "name": "OG BEBEL",
+          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Sorrisin de Puto",
-      "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
+      "duration_ms": 228757,
+      "name": "7 Galo",
+      "url": "https://open.spotify.com/track/3RbKKxD82F8VZKqSGxTaxk"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -1427,30 +1451,6 @@
       "duration_ms": 208695,
       "name": "Louca",
       "url": "https://open.spotify.com/track/2fWQW9vuTUfHhq4SbuC9aD"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
-        "name": "7 Galo",
-        "url": "https://open.spotify.com/album/3IUE2l0rbXzT7x0QCILLxo"
-      },
-      "artists": [
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        },
-        {
-          "name": "Eo Ppt",
-          "url": "https://open.spotify.com/artist/6Vco5rCTxBDQQjt5MShA9L"
-        },
-        {
-          "name": "OG BEBEL",
-          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
-        }
-      ],
-      "duration_ms": 228757,
-      "name": "7 Galo",
-      "url": "https://open.spotify.com/track/3RbKKxD82F8VZKqSGxTaxk"
     }
   ],
   "unique_name": "Cop\u00e3o na m\u00e3o",

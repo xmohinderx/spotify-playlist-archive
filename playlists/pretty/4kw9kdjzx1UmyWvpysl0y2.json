@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127205,
+  "num_followers": 127199,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY1NyxmMjQ1NTI5NDlmNjhmMDMzYTQ1YjFkYzcyNmZlMzhmYzVkNDhhMDUz",
+  "snapshot_id": "MzY1OCw1NzM2ZGY2MTRkZWE5MzI5YTE3NmExMTRmOWY0MTNkZjRmZTk3ZTlm",
   "tracks": [
+    {
+      "added_at": "2022-10-04 16:35:52",
+      "album": {
+        "name": "Out of the Dark",
+        "url": "https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Out of the Dark",
+      "url": "https://open.spotify.com/track/6IzufCdUFDMtLG2EvHwYFE"
+    },
     {
       "added_at": "2022-10-03 16:05:57",
       "album": {

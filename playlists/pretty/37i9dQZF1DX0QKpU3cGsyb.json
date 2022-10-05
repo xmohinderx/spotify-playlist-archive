@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1627482,
+  "num_followers": 1627996,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDhiYzg4MGUxNzZkZDNkMzA5Nzk5YzBhZWY3YzgxMmMz",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDc3MGNmMDIzNzg3N2JkZWI3OGQ1Mzk1NjA2ZWU2Yjdk",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Another",
-        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152175,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "24 Hrs",
         "url": "https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 177720,
       "name": "LOST YOU",
       "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Buckles Laboratories Presents: The Intermission",
+        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 160398,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Buckles Laboratories Presents: The Intermission",
-        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 160398,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -899,22 +899,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Heat Of The Moment",
-        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
         }
       ],
-      "duration_ms": 154634,
-      "name": "Rebel (feat. Jeremih)",
-      "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
+      "duration_ms": 225541,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
     }
   ],
   "unique_name": "Bedroom Jams",

@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Spencer Crandall",
-  "num_followers": 101624,
+  "num_followers": 101685,
   "original_name": "PopCo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU5MTgyNywwMDAwMDAwMDY0NzNkMjY0YzQ4M2FlZTNlOTE0NTkzZTI2NzdmOThm",
+  "snapshot_id": "MTY2NDU5MTgyNywwMDAwMDAwMDZjN2VjMmE1MjhjMzVmNDdkMzY3Yzc3MzkyODExYmE5",
   "tracks": [
     {
       "added_at": "2022-10-01 02:37:07",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
       },
       "artists": [
         {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
     },
     {
       "added_at": "2022-10-01 02:37:07",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
-        "name": "Pickup",
-        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
-      },
-      "artists": [
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        }
-      ],
-      "duration_ms": 168447,
-      "name": "Pickup",
-      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
-    },
-    {
-      "added_at": "2022-10-01 02:37:07",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 157906,
       "name": "Take My Name",
       "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
+    },
+    {
+      "added_at": "2022-10-01 02:37:07",
+      "album": {
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
     },
     {
       "added_at": "2022-10-01 02:37:07",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
-        "name": "Coulda Loved You Longer",
-        "url": "https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "Coulda Loved You Longer",
-      "url": "https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl"
-    },
-    {
-      "added_at": "2022-10-01 02:37:07",
-      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 182026,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+    },
+    {
+      "added_at": "2022-10-01 02:37:07",
+      "album": {
+        "name": "Coulda Loved You Longer",
+        "url": "https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 176413,
+      "name": "Coulda Loved You Longer",
+      "url": "https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl"
     },
     {
       "added_at": "2022-10-01 02:37:07",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
+    },
+    {
+      "added_at": "2022-10-01 02:37:07",
+      "album": {
         "name": "Stop Coming Over",
         "url": "https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 138818,
       "name": "Stop Coming Over",
       "url": "https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi"
-    },
-    {
-      "added_at": "2022-10-01 02:37:07",
-      "album": {
-        "name": "Sunday Drive",
-        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
     },
     {
       "added_at": "2022-10-01 02:37:07",
@@ -1443,18 +1443,34 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 233369,
-      "name": "Unfinished",
-      "url": "https://open.spotify.com/track/7bw2GQq5ztnsqJVmEZlkNQ"
+      "duration_ms": 205626,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
+    },
+    {
+      "added_at": "2022-10-01 02:37:07",
+      "album": {
+        "name": "I Don't Go Back",
+        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "I Don't Go Back",
+      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
     },
     {
       "added_at": "2022-10-01 02:37:07",
@@ -1475,6 +1491,22 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 233369,
+      "name": "Unfinished",
+      "url": "https://open.spotify.com/track/7bw2GQq5ztnsqJVmEZlkNQ"
+    },
+    {
+      "added_at": "2022-10-01 02:37:07",
+      "album": {
         "name": "Better Than You're Used To",
         "url": "https://open.spotify.com/album/37GJGzAddc4qHBq4UySNLS"
       },
@@ -1491,18 +1523,18 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
-        "name": "I Don't Go Back",
-        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 200573,
-      "name": "I Don't Go Back",
-      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
+      "duration_ms": 241420,
+      "name": "I GUESS THEY CALL IT FALLIN'",
+      "url": "https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB"
     },
     {
       "added_at": "2022-10-01 02:37:07",
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 241420,
-      "name": "I GUESS THEY CALL IT FALLIN'",
-      "url": "https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB"
-    },
-    {
-      "added_at": "2022-10-01 02:37:07",
-      "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
       },
@@ -1575,26 +1591,6 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Snake Oil (Deluxe)",
-        "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        }
-      ],
-      "duration_ms": 150909,
-      "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
-      "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
-    },
-    {
-      "added_at": "2022-10-01 02:37:07",
-      "album": {
         "name": "Baby I Am",
         "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
       },
@@ -1611,34 +1607,22 @@
     {
       "added_at": "2022-10-01 02:37:07",
       "album": {
-        "name": "I Wonder",
-        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+        "name": "Diplo Presents Thomas Wesley: Snake Oil (Deluxe)",
+        "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
-    },
-    {
-      "added_at": "2022-10-01 02:37:07",
-      "album": {
-        "name": "Somethin' Bout You",
-        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
-      },
-      "artists": [
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
         {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Somethin' Bout You",
-      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+      "duration_ms": 150909,
+      "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
     },
     {
       "added_at": "2022-10-01 02:37:07",
@@ -1695,6 +1679,22 @@
       "duration_ms": 204240,
       "name": "Humble Quest",
       "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
+    },
+    {
+      "added_at": "2022-10-01 02:37:07",
+      "album": {
+        "name": "Somethin' Bout You",
+        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Somethin' Bout You",
+      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
     },
     {
       "added_at": "2022-10-01 02:37:07",

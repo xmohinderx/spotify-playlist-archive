@@ -1,12 +1,12 @@
 {
   "description": "Latin music to game to! Cover: Bizarrap",
-  "num_followers": 126080,
+  "num_followers": 126122,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMGZjMTdhNTkzMGIxZDMxYjJkMzdjMzdlODYxNzE2ZDM3",
+  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMGYwNDg4MzY1Y2I0ZjBmOTgzNWM1NzgyOTA0ZTY0Zjc2",
   "tracks": [
     {
       "added_at": "2022-08-17 21:18:51",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 270740,
       "name": "Adicto (with Anuel AA & Ozuna)",
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "The Bad Boy",
+        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "El Telefono",
+      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "The Bad Boy",
-        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "El Telefono",
-      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "De Mi Para Ti",
-        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 200328,
-      "name": "Anda Sola",
-      "url": "https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 259250,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "De Mi Para Ti",
+        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 200328,
+      "name": "Anda Sola",
+      "url": "https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2335,30 +2335,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "S\u00daBELE EL VOLUMEN",
-        "url": "https://open.spotify.com/album/7ELT7p5cLIMel3mgOGNYay"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 223366,
-      "name": "S\u00daBELE EL VOLUMEN",
-      "url": "https://open.spotify.com/track/343HgC6SVFtTAgMPlGoNjn"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Ponle",
         "url": "https://open.spotify.com/album/55Wnt6L8wZHQKQLC6qQe8k"
       },
@@ -2383,6 +2359,30 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "S\u00daBELE EL VOLUMEN",
+        "url": "https://open.spotify.com/album/7ELT7p5cLIMel3mgOGNYay"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 223366,
+      "name": "S\u00daBELE EL VOLUMEN",
+      "url": "https://open.spotify.com/track/343HgC6SVFtTAgMPlGoNjn"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -2399,22 +2399,6 @@
       "duration_ms": 188087,
       "name": "Mama Tetema (feat. Rayvanny)",
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Deprimida",
-        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217627,
-      "name": "Deprimida",
-      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2439,6 +2423,22 @@
       "duration_ms": 196727,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Deprimida",
+        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217627,
+      "name": "Deprimida",
+      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2503,6 +2503,30 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Glizzy Walk 2.5",
+        "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "duration_ms": 224248,
+      "name": "Glizzy Walk 2.5",
+      "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Emojis de Corazones (feat. Los Legendarios)",
         "url": "https://open.spotify.com/album/6hdSXoNAfGg4cRUzM94EBR"
       },
@@ -2527,30 +2551,6 @@
       "duration_ms": 303426,
       "name": "Emojis de Corazones (feat. Los Legendarios)",
       "url": "https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Glizzy Walk 2.5",
-        "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Hydro",
-          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
-        }
-      ],
-      "duration_ms": 224248,
-      "name": "Glizzy Walk 2.5",
-      "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "787",
-        "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "787",
-      "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Sue\u00f1os de Dal\u00ed",
         "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
@@ -3115,6 +3099,22 @@
       "duration_ms": 147083,
       "name": "Traumada",
       "url": "https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "787",
+        "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "787",
+      "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
     },
     {
       "added_at": "2022-08-17 21:18:51",

@@ -4,11 +4,11 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-116 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
+117 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adicta al Dolor \- En Vivo](https://open.spotify.com/track/7lmBtkXGbF9jXD9CXqyKL3) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Adicta al Dolor \(En Vivo\)](https://open.spotify.com/album/6kmIayPZeQ2qqQFRYwWdOA) | 3:04 | 2022-05-20 |  |
+| [Adicta al Dolor \- En Vivo](https://open.spotify.com/track/7lmBtkXGbF9jXD9CXqyKL3) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Adicta al Dolor \(En Vivo\)](https://open.spotify.com/album/6kmIayPZeQ2qqQFRYwWdOA) | 3:04 | 2022-05-20 | 2022-10-05 |
 | [Adios Amor Adios \- En Vivo](https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:55 | 2021-12-10 |  |
 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 | 2021-12-10 |  |
 | [Ahora Te Vas \- En Vivo](https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En Vivo En La Quinta Vergara](https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C) | 3:44 | 2022-01-07 |  |
@@ -30,6 +30,7 @@
 | [Damas Gratis Mix](https://open.spotify.com/track/2zJ5HUOwz7eX21MVLG9DG8) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Damas Gratis Mix](https://open.spotify.com/album/5yS2IHOvthngA9QJM59NYb) | 5:17 | 2021-12-10 | 2022-07-28 |
 | [Decir Adiós \- En Vivo](https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Show En Parque Recondo](https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG) | 2:11 | 2022-06-03 |  |
 | [Después De Ti](https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 1:21 | 2021-12-10 | 2022-07-29 |
+| [Dime Si Eres Feliz \- En Vivo](https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE) | 3:32 | 2022-08-26 |  |
 | [Dime Si Eres Feliz \- Vivo](https://open.spotify.com/track/2GZs2PsaucrkL1pBpA7Ym7) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/6GB3GNXuINYpN8MxBNTe2E) | 3:32 | 2021-12-10 | 2022-09-17 |
 | [Duraznito](https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 2:48 | 2021-12-10 |  |
 | [El Tano Pastita](https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 1:57 | 2021-12-10 | 2022-07-24 |

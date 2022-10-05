@@ -4,7 +4,7 @@
 
 > Keeping the party going where ever you are w/ FE NOEL
 
-275 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
+277 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 | 2022-09-03 |  |
 | [Double Back](https://open.spotify.com/track/2sWem9BHygCfktVvDIIPeV) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW), [Dee Gomes](https://open.spotify.com/artist/17cQawMg0m4Z5VCzkIMI1i) | [Double Back](https://open.spotify.com/album/3tZgZiTzozDMFBfQ4lzx2L) | 2:43 | 2022-04-08 | 2022-09-03 |
 | [Down Dey](https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw) | [Gbmnutron](https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Down Dey](https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F) | 2:13 | 2022-09-03 |  |
-| [Drink to Dat](https://open.spotify.com/track/0joSvXptTBr0oY2WdKYc7i) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/4jqjbqQZqq015ZNGhke1da) | 3:10 | 2022-09-03 |  |
+| [Drink to Dat](https://open.spotify.com/track/0joSvXptTBr0oY2WdKYc7i) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/4jqjbqQZqq015ZNGhke1da) | 3:10 | 2022-09-03 | 2022-10-05 |
+| [Drink to Dat](https://open.spotify.com/track/5zTfojcQTaMHhT4auLiysR) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 3:10 | 2022-09-03 |  |
 | [Drinks On Me](https://open.spotify.com/track/5GDQZMDNRs616xROrcuoFb) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Femme](https://open.spotify.com/album/43G6kyYnUIjj7MQtm6mTNC) | 2:24 | 2022-04-08 | 2022-09-03 |
 | [DUPĖ](https://open.spotify.com/track/1hXs1tG5iTAwAGE8VpB4wH) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [DUPĖ](https://open.spotify.com/album/6Hd1xNQiNkP00oRjm4SIdX) | 2:53 | 2021-11-10 | 2022-01-29 |
 | [Early Momo](https://open.spotify.com/track/3wYuNJPSFESv8kQ5HMQaGA) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Good Girl LA](https://open.spotify.com/artist/0qiNIeeeTOtNE6YHZ0c56e) | [Early Momo](https://open.spotify.com/album/202NJs9xDY00wxMTSRQhVu) | 3:13 | 2021-11-10 | 2022-01-29 |
@@ -230,7 +231,8 @@
 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2022-09-03 |  |
 | [Soweto](https://open.spotify.com/track/6sQLuZaprUrxNIu8CKxWPn) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Soweto](https://open.spotify.com/album/2ya16DnVNsS2F8duVUExft) | 3:04 | 2022-05-27 | 2022-08-25 |
 | [Soweto Blues](https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Soweto Blues](https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40) | 4:58 | 2022-05-27 | 2022-08-25 |
-| [Stage in Life](https://open.spotify.com/track/1STU3QpyzKEIuYOLSHP0ik) | [Boyzie](https://open.spotify.com/artist/1aTY2hCtuvvu9Lidgw1syl) | [Chips & Dip Riddim](https://open.spotify.com/album/7DbLIlEQqzSLH8RZTf9gG5) | 3:05 | 2022-09-03 |  |
+| [Stage in Life](https://open.spotify.com/track/1STU3QpyzKEIuYOLSHP0ik) | [Boyzie](https://open.spotify.com/artist/1aTY2hCtuvvu9Lidgw1syl) | [Chips & Dip Riddim](https://open.spotify.com/album/7DbLIlEQqzSLH8RZTf9gG5) | 3:05 | 2022-09-03 | 2022-10-05 |
+| [Stage in Life](https://open.spotify.com/track/2r8v3kUXgvYyyy6oUbKKu7) | [Boyzie](https://open.spotify.com/artist/1aTY2hCtuvvu9Lidgw1syl) | [Chips & Dip Riddim](https://open.spotify.com/album/4VsClw2L97zet2dhC21TdM) | 3:05 | 2022-09-03 |  |
 | [Steelo](https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:17 | 2022-04-08 |  |
 | [sugar](https://open.spotify.com/track/5IjIbGO7lih9CVDBFLCtTT) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [next chapter](https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133) | 3:25 | 2021-11-10 | 2022-01-29 |
 | [Summertime](https://open.spotify.com/track/7d13lZgeKLMRK3dqT6uQVw) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Niké Laos](https://open.spotify.com/artist/2s1srNtreW8p5TYjWQ1VN3), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Mxssiah](https://open.spotify.com/artist/5XoyciJNkY4GoW9CzvOeJs) | [Summertime](https://open.spotify.com/album/0RscutNUeo8ttk7p0FJBOd) | 2:44 | 2021-11-10 | 2022-01-29 |

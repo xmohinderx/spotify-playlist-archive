@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites\. Cover: Donna Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,779 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389,153 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 35 | [You Should Be Dancing](https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry) | 4:16 |
 | 36 | [Funkytown](https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Casablanca Records Greatest Hits](https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc) | 3:59 |
 | 37 | [Lady \(You Bring Me Up\)](https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [In The Pocket](https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG) | 4:53 |
-| 38 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 7:00 |
+| 38 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 |
 | 39 | [Last Dance \- Single Version](https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Walk Away \- Collector's Edition The Best Of 1977\-1980](https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7) | 3:19 |
 | 40 | [Car Wash \- Long Version](https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 5:07 |
-| 41 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 |
+| 41 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 7:00 |
 | 42 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 43 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 |
 | 44 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 49 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
 | 50 | [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/3ad1MVf3CUFCWW1EyMc9kk) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 6:34 |
 
-Snapshot ID: `MTY2MTk1OTkzNSwwMDAwMDAwMDcyMDYwMzI4MjFmMjRmN2FiNjU1NDI1NjEyNTRkYjBj`
+Snapshot ID: `MTY2MTk1OTkzNSwwMDAwMDAwMDk0ZWJkYmUxNTg5YjI3MzViNjU2NTliNzE2YTJhYWI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,203 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,277 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 35 | [INESTABLE](https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3) | 2:28 |
 | 36 | [Vete](https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Vete](https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn) | 3:02 |
 | 37 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 |
-| 38 | [Tres Rosas](https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06) | 2:43 |
-| 39 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
+| 38 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
+| 39 | [Tres Rosas](https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06) | 2:43 |
 | 40 | [GPS \(feat\. French Montana\)](https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [GPS \(feat\. French Montana\)](https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q) | 3:36 |
 | 41 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 |
 | 42 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Lo 100to](https://open.spotify.com/track/5K7DierHuSWyzmCzPNapd8) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Lo 100to](https://open.spotify.com/album/7L8uuFGSNjnHX5uwxWXHTM) | 3:10 |
 | 100 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
 
-Snapshot ID: `MTY2MzU5OTU2NywwMDAwMDAwMDJkYzMyNGRiZjc3ZWJjYjdkNDFiZWI5MjJjODU5YzYz`
+Snapshot ID: `MTY2MzU5OTU2NywwMDAwMDAwMDU4NzYzMGZjNGM4ZmNjNDExMWRjYzAwOTEzOGM5ZGY0`

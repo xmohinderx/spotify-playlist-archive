@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 188252,
+  "num_followers": 188447,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgxODAwMSwwMDAwMDAwMDYwZTBhNDg4OTkyZWM2OTEwNGE5MTgzODg3MjQwY2Jl",
+  "snapshot_id": "MTY2NDgxODAwMSwwMDAwMDAwMGI4NWYxMjlkMDhmOTc0MGNiN2Q0ZThkZDE1Yjk3ZDZj",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Sad But True",
+        "url": "https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 332851,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Helter Skelter",
         "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 215937,
       "name": "Helter Skelter",
       "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Sad But True",
-        "url": "https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 332851,
-      "name": "Sad But True",
-      "url": "https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Riddles, Ruins & Revelations",
+        "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
+      },
+      "artists": [
+        {
+          "name": "Sirenia",
+          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+        }
+      ],
+      "duration_ms": 258564,
+      "name": "Voyage Voyage",
+      "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Graveyard Classics",
         "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 183360,
       "name": "No More Mr. Nice Guy",
       "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Riddles, Ruins & Revelations",
-        "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
-      },
-      "artists": [
-        {
-          "name": "Sirenia",
-          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
-        }
-      ],
-      "duration_ms": 258564,
-      "name": "Voyage Voyage",
-      "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "CMFB \u2026Sides",
+        "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Holier Than Thou",
+      "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 168000,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "CMFB \u2026Sides",
-        "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
-      },
-      "artists": [
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Holier Than Thou",
-      "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
     },
     {
       "added_at": "2022-06-13 06:46:14",

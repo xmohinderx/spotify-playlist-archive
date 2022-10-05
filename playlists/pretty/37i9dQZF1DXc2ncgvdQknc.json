@@ -1,12 +1,12 @@
 {
   "description": "All 10s, all ballads. Cover: Adele",
-  "num_followers": 13296,
+  "num_followers": 13397,
   "original_name": "10s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjIxNTU2NCwwMDAwMDAwMDk0ZTA2ODQ3ZmMxMDRlMjU0NDk2Y2U2YjhjMjk3ODNm",
+  "snapshot_id": "MTY1MjIxNTU2NCwwMDAwMDAwMGRiMWIxY2Y4N2EzYjAyYmQzNzQ1OWFiZGViZjAxOTJi",
   "tracks": [
     {
       "added_at": "2022-05-10 20:46:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "All I Ask",
-      "url": "https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 303653,
       "name": "If By Chance",
       "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "All I Ask",
+      "url": "https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB"
     },
     {
       "added_at": "2022-05-10 20:46:04",

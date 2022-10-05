@@ -1,12 +1,12 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 646555,
+  "num_followers": 646763,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMDBkZGNkNmI0ZWU0MTdiNjc0NDk5OTZjYzIxZmNkOGFi",
+  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMGZmMDRiYzgyY2MyOWJmMDMyMDBlMTI2NGI5ZjJmMWE4",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -115,6 +115,26 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Drum 'N' Feels",
+        "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
+      },
+      "artists": [
+        {
+          "name": "Kleintierschaukel",
+          "url": "https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn"
+        },
+        {
+          "name": "Badau",
+          "url": "https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU"
+        }
+      ],
+      "duration_ms": 362411,
+      "name": "Kidz of Tibet",
+      "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Drum 'N' Feels",
-        "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
-      },
-      "artists": [
-        {
-          "name": "Kleintierschaukel",
-          "url": "https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn"
-        },
-        {
-          "name": "Badau",
-          "url": "https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU"
-        }
-      ],
-      "duration_ms": 362411,
-      "name": "Kidz of Tibet",
-      "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -203,25 +203,21 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Maasai (Doctor Flake Remix)",
-        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
+        "name": "Amazon",
+        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
       },
       "artists": [
         {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
         }
       ],
-      "duration_ms": 470837,
-      "name": "Maasai - Doctor Flake Remix",
-      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
+      "duration_ms": 544182,
+      "name": "Amazon",
+      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
     },
     {
-      "added_at": "2022-10-04 01:43:20",
+      "added_at": "2022-10-05 01:44:17",
       "album": {
         "name": "Sayo EP",
         "url": "https://open.spotify.com/album/0PnS7YDXmt2qRdLU1RbdSV"
@@ -239,18 +235,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Amazon",
-        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
+        "name": "Maasai (Doctor Flake Remix)",
+        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
       },
       "artists": [
         {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
         }
       ],
-      "duration_ms": 544182,
-      "name": "Amazon",
-      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
+      "duration_ms": 470837,
+      "name": "Maasai - Doctor Flake Remix",
+      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
     },
     {
-      "added_at": "2022-10-04 01:43:20",
+      "added_at": "2022-10-05 01:44:17",
       "album": {
         "name": "Kinana",
         "url": "https://open.spotify.com/album/4XDWNwgH9XzcSs3dauolyV"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
     },
     {
-      "added_at": "2022-10-04 01:43:20",
+      "added_at": "2022-10-05 01:44:17",
       "album": {
         "name": "Citaro",
         "url": "https://open.spotify.com/album/3iyjWU3JoS62LmjWfHn1M3"
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Fire in the Jungle",
-        "url": "https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 331114,
-      "name": "Lenny in the Sea with Dolphins",
-      "url": "https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Nterini (Sparrow & Barbossa Remix)",
         "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 363765,
       "name": "Nterini - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Fire in the Jungle",
+        "url": "https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 331114,
+      "name": "Lenny in the Sea with Dolphins",
+      "url": "https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -719,18 +703,34 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
+      },
+      "artists": [
+        {
+          "name": "Planet Caravan",
+          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
+        }
+      ],
+      "duration_ms": 385702,
+      "name": "Flou",
+      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
       "artists": [
         {
-          "name": "Planet Caravan",
-          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
         }
       ],
-      "duration_ms": 385702,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -859,6 +859,38 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Endless Forest",
+        "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
+      },
+      "artists": [
+        {
+          "name": "Zuma Dionys",
+          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
+        }
+      ],
+      "duration_ms": 436857,
+      "name": "Gamora",
+      "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -879,18 +911,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
       "artists": [
         {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
         }
       ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -911,38 +943,6 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Endless Forest",
-        "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
-      },
-      "artists": [
-        {
-          "name": "Zuma Dionys",
-          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
-        }
-      ],
-      "duration_ms": 436857,
-      "name": "Gamora",
-      "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Beli",
-        "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
-      },
-      "artists": [
-        {
-          "name": "Rialians on Earth",
-          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
-        }
-      ],
-      "duration_ms": 367636,
-      "name": "Novicani",
-      "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -1023,6 +1007,42 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Beli",
+        "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
+      },
+      "artists": [
+        {
+          "name": "Rialians on Earth",
+          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
+        }
+      ],
+      "duration_ms": 367636,
+      "name": "Novicani",
+      "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "Tim Jules",
+          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
+        }
+      ],
+      "duration_ms": 286392,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1083,26 +1103,6 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
-      },
-      "artists": [
-        {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
-        },
-        {
-          "name": "Tim Jules",
-          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
-        }
-      ],
-      "duration_ms": 286392,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
     }
   ],
   "unique_name": "Org\u00e1nica",

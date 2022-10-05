@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206556,
+  "num_followers": 206589,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDI1ZmE2ODllZGI1ZTA5ZDcyYWUwYzA4Y2QxYTMyMGNk",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGE5MzMzMmM4Njg0OTI5Y2JkYWM1Zjc5NTIzNjA5Yjcz",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "No Anesthesia",
-        "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
-      },
-      "artists": [
-        {
-          "name": "Witchtrap",
-          "url": "https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "Heavy Drinker",
-      "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "From the Abyss",
         "url": "https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 328800,
       "name": "Lowborn Bastard",
       "url": "https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "No Anesthesia",
+        "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
+      },
+      "artists": [
+        {
+          "name": "Witchtrap",
+          "url": "https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "Heavy Drinker",
+      "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
     },
     {
       "added_at": "2020-10-24 03:38:51",

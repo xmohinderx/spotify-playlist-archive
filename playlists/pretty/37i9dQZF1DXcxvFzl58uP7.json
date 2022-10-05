@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1023295,
+  "num_followers": 1023515,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE5NTk5NCwwMDAwMDAwMDc5ZWI4ZTY2NWU5NzlkZmVlM2MwNGU4NGE3NjllZGIz",
+  "snapshot_id": "MTY2MzE5NTk5NCwwMDAwMDAwMDc5YTI2ODU0MTJjMWM0NzAxNTA3ZTNjMTZhNGQ4MTM4",
   "tracks": [
     {
       "added_at": "2022-09-14 21:31:42",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "For Abby",
         "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 178352,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Flaming Hot Cheetos",
-        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 123884,
-      "name": "Flaming Hot Cheetos",
-      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -399,22 +383,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
       },
@@ -427,6 +395,38 @@
       "duration_ms": 269142,
       "name": "Kids",
       "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Flaming Hot Cheetos",
+        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 123884,
+      "name": "Flaming Hot Cheetos",
+      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -491,22 +475,6 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -555,6 +523,38 @@
       "duration_ms": 153000,
       "name": "Sometimes (Backwood)",
       "url": "https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Sour Switchblade",
-        "url": "https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4"
-      },
-      "artists": [
-        {
-          "name": "Elita",
-          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
-        }
-      ],
-      "duration_ms": 148955,
-      "name": "Sour Switchblade",
-      "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "That I Miss You",
         "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 140116,
       "name": "That I Miss You",
       "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Sour Switchblade",
+        "url": "https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4"
+      },
+      "artists": [
+        {
+          "name": "Elita",
+          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+        }
+      ],
+      "duration_ms": 148955,
+      "name": "Sour Switchblade",
+      "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 188301,
       "name": "Tree Among Shrubs",
       "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "80's makeout session",
         "url": "https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "A Collection of Fleeting Moments and Daydreams",
-        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
       "artists": [
         {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
         }
       ],
-      "duration_ms": 169822,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
+      "duration_ms": 156342,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+        "name": "A Collection of Fleeting Moments and Daydreams",
+        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 236893,
-      "name": "Never Had The Balls",
-      "url": "https://open.spotify.com/track/5h68UTytwmTJDwoGbqLwzV"
+      "duration_ms": 169822,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Never Had The Balls",
+      "url": "https://open.spotify.com/track/5h68UTytwmTJDwoGbqLwzV"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "The Outsider",
         "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 127464,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Nightmare on Weed Street",
         "url": "https://open.spotify.com/album/5plRKyeSZpNohzLCguUWbG"
       },
@@ -1231,30 +1247,6 @@
       "duration_ms": 111653,
       "name": "Can I Have a Ride Home? I'm at a Party and I Don't Know Any1",
       "url": "https://open.spotify.com/track/2ymdaqbPPMSpp6FMT7Tf0T"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "beachin",
-        "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 194568,
-      "name": "beachin",
-      "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1291,6 +1283,30 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "beachin",
+        "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 194568,
+      "name": "beachin",
+      "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "La Novela",
         "url": "https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6"
-      },
-      "artists": [
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Cut Out",
         "url": "https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 155984,
       "name": "Bends",
       "url": "https://open.spotify.com/track/7neXef29cogkuASB5rTafo"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "The Shark in Your Water",
-        "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
-      },
-      "artists": [
-        {
-          "name": "Flower Face",
-          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
-        }
-      ],
-      "duration_ms": 188864,
-      "name": "Cornflower Blue",
-      "url": "https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Moonlight/Rare",
         "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
       },
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "The Shark in Your Water",
+        "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
+      },
+      "artists": [
+        {
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
+        }
+      ],
+      "duration_ms": 188864,
+      "name": "Cornflower Blue",
+      "url": "https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 229113,
       "name": "Taking Over The Sun",
       "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 127464,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "I'm Just Snacking",
-        "url": "https://open.spotify.com/album/5ZnWObOAer6sfJWRV5rk3w"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 198116,
-      "name": "I'm Just Snacking",
-      "url": "https://open.spotify.com/track/6413UUgINHbZsCJeJBFlmT"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "The Shark in Your Water",
         "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 179815,
       "name": "Spiracle",
       "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "I'm Just Snacking",
+        "url": "https://open.spotify.com/album/5ZnWObOAer6sfJWRV5rk3w"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 198116,
+      "name": "I'm Just Snacking",
+      "url": "https://open.spotify.com/track/6413UUgINHbZsCJeJBFlmT"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 153783,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 150927,
       "name": "Organon",
       "url": "https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 153783,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1711,18 +1711,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+        "name": "Picture",
+        "url": "https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj"
       },
       "artists": [
         {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        },
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
         }
       ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+      "duration_ms": 156279,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1747,22 +1751,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Picture",
-        "url": "https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj"
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
       },
       "artists": [
         {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        },
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
         }
       ],
-      "duration_ms": 156279,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k"
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1779,6 +1779,22 @@
       "duration_ms": 192826,
       "name": "friends or not",
       "url": "https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "duration_ms": 160870,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1811,22 +1827,6 @@
       "duration_ms": 171653,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 160870,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
     },
     {
       "added_at": "2022-09-14 21:31:42",

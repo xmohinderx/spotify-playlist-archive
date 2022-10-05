@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 34901,
+  "num_followers": 34909,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMDFiYWIyMzEzMjQ1NjNlZGExMzJiY2FjZDFiYmJhNzI2",
+  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMDYyOTViMzZhNTc5ZmI4MzQ3MGU3YTFlY2QwODQ5OGVl",
   "tracks": [
     {
       "added_at": "2022-09-23 17:33:09",
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "St. Lundi",
+          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
         }
       ],
-      "duration_ms": 197346,
-      "name": "Treat People With Kindness",
-      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
+      "duration_ms": 190326,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -167,18 +167,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Nights Like This",
-        "url": "https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "St. Lundi",
-          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 190326,
-      "name": "Nights Like This",
-      "url": "https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus"
+      "duration_ms": 197346,
+      "name": "Treat People With Kindness",
+      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "When The Lights Go Out",
-        "url": "https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "When The Lights Go Out",
-      "url": "https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "When The Lights Go Out",
+        "url": "https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "When The Lights Go Out",
+      "url": "https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "good thing",
+        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
+      },
+      "artists": [
+        {
+          "name": "emie nathan",
+          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
+        }
+      ],
+      "duration_ms": 142480,
+      "name": "good thing",
+      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "good thing",
-        "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
       },
       "artists": [
         {
-          "name": "emie nathan",
-          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
+          "name": "Bevan",
+          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
         }
       ],
-      "duration_ms": 142480,
-      "name": "good thing",
-      "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
+      "duration_ms": 246750,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "One & Only",
-        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
-      },
-      "artists": [
-        {
-          "name": "Bevan",
-          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
-        }
-      ],
-      "duration_ms": 246750,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA"
-      },
-      "artists": [
-        {
-          "name": "Wild Youth",
-          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Never Get It Right",
         "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 200626,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "One Of Those Days",
+        "url": "https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 208563,
+      "name": "One of Those Days",
+      "url": "https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu"
     }
   ],
   "unique_name": "Wholesome",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Dena Euprasert\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,276 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,290 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 9 | [คนไกลไกล](https://open.spotify.com/track/0TS1RJ916ck0tyJdfakc2u) | [Yoong](https://open.spotify.com/artist/0Tbbu6RrRX8pd2LXotYeBc) | [คนไกลไกล](https://open.spotify.com/album/1tj7lNgAMclTge6gbH1TYx) | 4:17 |
 | 10 | [GONE WRONG](https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [GONE WRONG](https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc) | 3:51 |
 | 11 | [เจอ เจ็บ จบ feat\. Chogun](https://open.spotify.com/track/6wGnte8IAtu9fxKcuVF2RP) | [SoulMade Sound](https://open.spotify.com/artist/27Yrj4QN7SEDL7mkrUPMVW), [Chogun](https://open.spotify.com/artist/6LXjIF1XHsFkB2bDfDsISG) | [เจอ เจ็บ จบ](https://open.spotify.com/album/3sh6h4nhXsd7IciQStpe7B) | 3:51 |
-| 12 | [คืนก่อน](https://open.spotify.com/track/4qJ9ILvY0K5pqP9vAyF9by) | [BetterDays](https://open.spotify.com/artist/0i5cEBY8HH7TWMDExaBQHG) | [คืนก่อน](https://open.spotify.com/album/6sJhm2JwwHFKwC5sQW7nzi) | 5:23 |
+| 12 | [คืนก่อน](https://open.spotify.com/track/4qJ9ILvY0K5pqP9vAyF9by) | [Better Days](https://open.spotify.com/artist/0i5cEBY8HH7TWMDExaBQHG) | [คืนก่อน](https://open.spotify.com/album/6sJhm2JwwHFKwC5sQW7nzi) | 5:23 |
 | 13 | [คำที่เคยบอก \(Try\)](https://open.spotify.com/track/0fz6w8NFJerxS1ADLtMWan) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [คำที่เคยบอก \(Try\)](https://open.spotify.com/album/1c94Uu2EQ0DgzVYU8PMzzT) | 2:58 |
 | 14 | [ความจริงที่ไม่อยากรู้ \(Gone\)](https://open.spotify.com/track/4xLSEOWOQ0d54XDW6pGsrW) | [Mr\. Heed](https://open.spotify.com/artist/6ZxDB4x7bDuLPPXkYRuv1t) | [ความจริงที่ไม่อยากรู้ \(Gone\)](https://open.spotify.com/album/4NdIJyyZFSgqKO1HzTey1A) | 4:29 |
 | 15 | [ยังไม่มีคำตอบสำหรับเรื่องนี้](https://open.spotify.com/track/5GpbZoZk0MgkyBFEClIISi) | [SURFF](https://open.spotify.com/artist/0LJ6cw64d0z2B5oHIlaAt2) | [ยังไม่มีคำตอบสำหรับเรื่องนี้](https://open.spotify.com/album/4Bx677XmLQcn4B67GakgWI) | 5:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,685 likes - 75 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,715 likes - 75 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 71 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
 | 72 | [Sao Paulo \- Remastered 2014](https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas \(Remastered 2014\)](https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ) | 7:17 |
 | 73 | [Little Madimba \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(Remastered\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 8:32 |
-| 74 | [Off My Back Jack](https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:13 |
-| 75 | [Right Now](https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 9:29 |
+| 74 | [Right Now](https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 9:29 |
+| 75 | [Off My Back Jack](https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:13 |
 
-Snapshot ID: `MTY1MTA3MTE0OCwwMDAwMDAwMDQ3NTk1M2Q4ZGUyMWU5YmRmYTVhMDIzNGU0YWU4ZDE3`
+Snapshot ID: `MTY1MTA3MTE0OCwwMDAwMDAwMGVhMjZiNWNiYmU3NDAyOTAzZjI0ZGJkNmM0MDMyOWZm`

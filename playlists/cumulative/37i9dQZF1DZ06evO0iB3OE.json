@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 161493,
       "name": "Chapo Guzm\u00e1n",
       "url": "https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 174693,
       "name": "De Manuel Torres Felix",
       "url": "https://open.spotify.com/track/6gyBJAMBPrrqgeoistlrpv"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 254800,
       "name": "El Avi\u00f3n De La Muerte",
       "url": "https://open.spotify.com/track/1D1iVySlRJhOwygJDQRaqk"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 173350,
       "name": "El Chamaco",
       "url": "https://open.spotify.com/track/3UEXMuRz6Gt6D6mn54HF1x"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 169469,
       "name": "El de Arriva Me Bendice",
       "url": "https://open.spotify.com/track/65ARD3G7j5Q3eU3Jzd13Xn"
@@ -720,6 +720,28 @@
     },
     {
       "album": {
+        "name": "El Que Anda en El Dorado (En Vivo)",
+        "url": "https://open.spotify.com/album/2qmSpNf0jhi2QqWqpPgbaw"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148077,
+      "name": "El Que Anda en El Dorado (En Vivo)",
+      "url": "https://open.spotify.com/track/7C2fQc583vpxolfKfQLLyj"
+    },
+    {
+      "album": {
         "name": "Hay Nomas Pa Las Cocas (En Vivo)",
         "url": "https://open.spotify.com/album/1SAx628iadybUFrkkYqkQD"
       },
@@ -807,7 +829,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 162771,
       "name": "Gilberto Palomares",
       "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
@@ -1189,7 +1211,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 179188,
       "name": "Mario Aguirre - En Vivo",
       "url": "https://open.spotify.com/track/6Gzfl2SGDJL4NrPMS5q2wF"
@@ -1269,7 +1291,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 149973,
       "name": "Por Que No Vienes",
       "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"

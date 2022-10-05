@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-505 songs - 1 day 8 hr 49 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
+506 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [All over You](https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [No Really, I'm Fine \(Standard Version\)](https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj) | 3:22 | 2022-01-05 | 2022-05-25 |
 | [All The Same](https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Dressed Up As Life](https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC) | 4:18 | 2022-01-05 | 2022-09-15 |
 | [All These Things I Hate \(Revolve Around Me\)](https://open.spotify.com/track/6XimI1O15wpfwUdrCnlrxo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 3:45 | 2022-01-05 | 2022-05-25 |
-| [Almost](https://open.spotify.com/track/6TclVCUxDQm9s3Bey6Ao8H) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:26 | 2022-01-05 |  |
+| [Almost](https://open.spotify.com/track/6TclVCUxDQm9s3Bey6Ao8H) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:26 | 2022-01-05 | 2022-10-05 |
 | [Almost Over](https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:38 | 2022-01-05 | 2022-07-19 |
 | [Always Love](https://open.spotify.com/track/4jDWJBcWIGgfzjqy8XRB2n) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [The Weight Is a Gift](https://open.spotify.com/album/4qbTmFzYCMdVcHXRURJmwC) | 3:19 | 2022-01-05 | 2022-07-28 |
 | [Always Where I Need To Be](https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Konk](https://open.spotify.com/album/37he52Ye10gETvnot9bC2t) | 2:41 | 2022-01-05 |  |
@@ -288,6 +288,7 @@
 | [Many Shades of Black](https://open.spotify.com/track/1nX4VLG50VzERLthNEXWtY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 4:28 | 2022-01-05 | 2022-05-25 |
 | [Maybe](https://open.spotify.com/track/61EWvc5vPvrj1Ir9aeVHEK) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Tri\-Polar \(International Version\)](https://open.spotify.com/album/1lzHraZnbTovp0SL4aZD4R) | 3:25 | 2022-01-05 | 2022-05-25 |
 | [Meds](https://open.spotify.com/track/5fVTi3rIiLvsEVYp0cRvaI) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB), [Alison Mosshart](https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9) | [Meds](https://open.spotify.com/album/7cfTTszDP3KgMjtxhE8Re7) | 2:55 | 2022-01-05 | 2022-07-28 |
+| [Mein Teil](https://open.spotify.com/track/2OQRceDfxBfmwTEmNOSpFq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 4:32 | 2022-01-05 |  |
 | [Mein Teil](https://open.spotify.com/track/39RKlCfLoqb8o2aXfpVfjW) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:32 | 2022-01-05 | 2022-07-27 |
 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 | 2022-01-05 |  |
 | [Mohammed](https://open.spotify.com/track/2R71wdmz1tdbioNwPOrOK5) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 5:20 | 2022-01-05 | 2022-07-27 |

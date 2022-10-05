@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,418 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,412 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 78 | [My Window \(feat\. Lil Wayne\)](https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 3:12 |
 | 79 | [Banco](https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa) | [Banco](https://open.spotify.com/album/60iZnmmLOgY1LpkCinkELW) | 4:14 |
 | 80 | [Rodeo \- feat\. Nas](https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Rodeo \(feat\. Nas\)](https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE) | 2:25 |
-| 81 | [BLIND \(feat\. Young Thug\)](https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BLAME IT ON BABY \(DELUXE\)](https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q) | 2:33 |
+| 81 | [TIPO](https://open.spotify.com/track/3kGLn0fgxyVxLqW5Vv9B8U) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:49 |
 | 82 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
-| 83 | [TIPO](https://open.spotify.com/track/3kGLn0fgxyVxLqW5Vv9B8U) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:49 |
+| 83 | [BLIND \(feat\. Young Thug\)](https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BLAME IT ON BABY \(DELUXE\)](https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q) | 2:33 |
 | 84 | [Hot Shower](https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 3:45 |
 | 85 | [Poesia Acústica \- Paris](https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Poesia Acústica \- Paris](https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS) | 7:00 |
 | 86 | [Mantém](https://open.spotify.com/track/17rF54WvGGqPVxDheq8PP8) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Mantém](https://open.spotify.com/album/2e15uAU6zg3r8zAUlFKv0G) | 3:15 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 89 | [@ MEH](https://open.spotify.com/track/5UusfWUMMLEXLMc1ViNZoe) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [@ MEH](https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC) | 2:46 |
 | 90 | [Balão](https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 4:13 |
 
-Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMGZjYWY0NzU5YzQ1NmZhYjdkYjhlYzUwMzJmNTJkZWJk`
+Snapshot ID: `MTYwMzIyNTQxOSwwMDAwMDAwMGJkNGQzODliOWNhMTk0YTNjZjQxMTQ5NzBjY2M2NmEw`

@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Kimberley Tell.",
-  "num_followers": 33462,
+  "num_followers": 33505,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDg2MTg2Y2U5ZjcxYjhhODQxMWNiYTA1NTRlYmVhNjBj",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDFmYjYwMTI5NWQwMWM5YWMzNjJkNjAxYTJmY2U4MGI3",
   "tracks": [
     {
       "added_at": "2022-09-30 05:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
+        "name": "Horas Contigo",
+        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 160028,
+      "name": "Horas Contigo",
+      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
         "name": "Y Si",
         "url": "https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Horas Contigo",
-        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Montufar",
+          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
         }
       ],
-      "duration_ms": 160028,
-      "name": "Horas Contigo",
-      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
+      "duration_ms": 222099,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -647,22 +663,6 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
-      },
-      "artists": [
-        {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
-        }
-      ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
         "name": "Nunca Te Dejar\u00e9 Ir",
         "url": "https://open.spotify.com/album/1Dck2luCLqrh6rudNBEkCv"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "SUPPLY & DEMAND",
-        "url": "https://open.spotify.com/album/3hPanAHedPo2iMTqnqJe7p"
-      },
-      "artists": [
-        {
-          "name": "Miranda Del Sol",
-          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
-        }
-      ],
-      "duration_ms": 146981,
-      "name": "SUPPLY & DEMAND",
-      "url": "https://open.spotify.com/track/4fsAnNEX0f9SqlVsiIX31D"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
         "name": "Nostalgia Pop",
         "url": "https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 96735,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "SUPPLY & DEMAND",
+        "url": "https://open.spotify.com/album/3hPanAHedPo2iMTqnqJe7p"
+      },
+      "artists": [
+        {
+          "name": "Miranda Del Sol",
+          "url": "https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7"
+        }
+      ],
+      "duration_ms": 146981,
+      "name": "SUPPLY & DEMAND",
+      "url": "https://open.spotify.com/track/4fsAnNEX0f9SqlVsiIX31D"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Pens\u00e1ndote",
-        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
         "name": "Amor Como Pu\u00f1al",
         "url": "https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206489,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
         "name": "Polaroid Paradise",
         "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+        "name": "Pens\u00e1ndote",
+        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
         }
       ],
-      "duration_ms": 206489,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+      "duration_ms": 147300,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Triste Pop",
-        "url": "https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt"
+        "name": "Bijoux",
+        "url": "https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC"
       },
       "artists": [
         {
-          "name": "Lasitud",
-          "url": "https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d"
+          "name": "Soap",
+          "url": "https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB"
         }
       ],
-      "duration_ms": 322184,
-      "name": "Triste Pop",
-      "url": "https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV"
+      "duration_ms": 262666,
+      "name": "Bijoux",
+      "url": "https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Bijoux",
-        "url": "https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC"
+        "name": "Triste Pop",
+        "url": "https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt"
       },
       "artists": [
         {
-          "name": "Soap",
-          "url": "https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB"
+          "name": "Lasitud",
+          "url": "https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Bijoux",
-      "url": "https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW"
+      "duration_ms": 322184,
+      "name": "Triste Pop",
+      "url": "https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV"
     },
     {
       "added_at": "2022-09-30 05:00:00",

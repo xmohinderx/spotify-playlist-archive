@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,893 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,938 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 25 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
 | 26 | [Lightyears](https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT) | 6:07 |
 | 27 | [When We Used To Play \- Original Extended Mix](https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [When We Used To Play](https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC) | 8:20 |
-| 28 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
+| 28 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
 | 29 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
-| 30 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
+| 30 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
 | 31 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
 | 32 | [We All Move Together \- Album Mix](https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 5:52 |
 | 33 | [Can You Feel It \- Kevin Saunderson Remix](https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Can You Feel It \(Kevin Saunderson Remix\)](https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Feel It](https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa) | [Stacey Pullen](https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y) | [Feel It / Circus Act](https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0) | 7:38 |
 | 50 | [The Color of Love \- Reese Deep Mix](https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn) | [The Reese Project](https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d) | [Faith, Hope & Clarity](https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7) | 5:46 |
 
-Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMDI2ZDI4NWViYWU1NzgyMTUxMGIyZmY4YWJkNGY5Yjhm`
+Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMGM0Njg5ZTQwYjMyYjZmZGVjMTU5YmQzZWY0MTk4MDRh`

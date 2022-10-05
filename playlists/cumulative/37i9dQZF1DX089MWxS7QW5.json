@@ -364,6 +364,28 @@
     },
     {
       "album": {
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "album": {
         "name": "blanc",
         "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
       },
@@ -633,7 +655,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 178758,
       "name": "Don't Ever Leave Me",
       "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
@@ -651,7 +673,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 193870,
       "name": "Dotdanbae",
       "url": "https://open.spotify.com/track/03ARk5P8goF6JoP5Rwc8Is"
@@ -869,7 +891,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
@@ -1281,7 +1303,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 210858,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y"
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 205773,
       "name": "MY LOVE (feat. RAVI)",
       "url": "https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N"
@@ -1466,6 +1488,28 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Once (feat. J.O.Y)",
+      "url": "https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -1477,7 +1521,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 244505,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ"
@@ -2177,6 +2221,28 @@
       "duration_ms": 209226,
       "name": "XNFP (feat.JUNE)",
       "url": "https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep"
+    },
+    {
+      "album": {
+        "name": "Zero gravity",
+        "url": "https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Blueday",
+          "url": "https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Zero gravity (feat. Blueday)",
+      "url": "https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,097 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,120 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 9 | [Cups \- Movie Version](https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:15 |
 | 10 | [Riff Off \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/5RGFGWglZ2zRDWXOK7HyNq) | [Das Sound Machine](https://open.spotify.com/artist/3OIHrPeryKmEnrOHCh0x7a), [Tone Hangers](https://open.spotify.com/artist/2RHqPH33tgSVMtXhJkzwue), [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ), [Green Bay Packers](https://open.spotify.com/artist/54FQoMnSEdeijbIgu7zBnz), [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 4:24 |
 | 11 | [Waka Waka \(This Time For Africa\)](https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [United We Sing](https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6) | 3:19 |
-| 12 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 |
+| 12 | [I See Fire](https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:53 |
 | 13 | [Valerie \- Glee Cast Version](https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:33 |
 | 14 | [Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let’s Talk About Sex/I’ll Make Love To You/Feels Like The First Time/No Diggity](https://open.spotify.com/track/0phwM5a6TdLBDl0F9bk5fl) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ), [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1), [The Bu Harmonics](https://open.spotify.com/artist/3ZqvXNT2zEezA2VUT90CYy) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:44 |
-| 15 | [I See Fire](https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:53 |
+| 15 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 |
 | 16 | [Daft Punk](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 4:08 |
 | 17 | [Wake Me Up](https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Crazy Life](https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy) | 3:13 |
 | 18 | [Don't Stop The Music](https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:04 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 51 | [F\*\*k You](https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:12 |
 | 52 | [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 |
 | 53 | [Grace Kelly \- Studio Version](https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu) | [The Whiffenpoofs](https://open.spotify.com/artist/70kYiT1DhBuwkjGzASOeYV) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:18 |
-| 54 | [A\-Punk](https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Bang](https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV) | 2:21 |
+| 54 | [Hey, Soul Sister](https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [The Sing\-Off: Season 2 \- Episode 2 \- Big Hits](https://open.spotify.com/album/56qpqJyayutGaYKUOJoNHB) | 1:50 |
 | 55 | [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 |
-| 56 | [Hey, Soul Sister](https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [The Sing\-Off: Season 2 \- Episode 2 \- Big Hits](https://open.spotify.com/album/56qpqJyayutGaYKUOJoNHB) | 1:50 |
+| 56 | [A\-Punk](https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Bang](https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV) | 2:21 |
 | 57 | [Cruise](https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [The Sing\-Off: Season 4, Episode 1\- The Sing\-Off Is Back](https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j) | 1:40 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDJiZjA3NGQ0ZmE3MjM0ODhhMDE5YjhjODU3ZmFkMzhj`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDk4NGZkNjc3ZTg3MWQwZDFiMDBmMWY4YjU2NmI3Y2Ni`

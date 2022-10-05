@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 391648,
+  "num_followers": 391784,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDQ0ZjUxZjI3YzM4ZjJkYTk5M2RiMjNlZmJkODEzZGI2",
+  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMGRjNWVmYTc0NjFlMWI5ZGM2YmQyMTE1NTQyYzU3N2E1",
   "tracks": [
     {
       "added_at": "2022-09-16 16:08:51",
@@ -451,18 +451,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Songs to Stay Home To",
-        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
       },
       "artists": [
         {
-          "name": "Josi Miller",
-          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+          "name": "Prequel",
+          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
+        },
+        {
+          "name": "Cazeaux O.S.L.O",
+          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
         }
       ],
-      "duration_ms": 134213,
-      "name": "Songs to Stay Home To, Pt. I",
-      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
+      "duration_ms": 210000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -483,22 +487,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
+        "name": "Songs to Stay Home To",
+        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
       },
       "artists": [
         {
-          "name": "Prequel",
-          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
-        },
-        {
-          "name": "Cazeaux O.S.L.O",
-          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
+      "duration_ms": 134213,
+      "name": "Songs to Stay Home To, Pt. I",
+      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "Hyperspace (feat. Teza Sumendra)",
         "url": "https://open.spotify.com/album/1qnUz82hJ3LVACEPIzIIkX"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 204445,
       "name": "Hyperspace (feat. Teza Sumendra)",
       "url": "https://open.spotify.com/track/5izPRm1uzeRQs7YRpw4IKw"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
-      },
-      "artists": [
-        {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -859,34 +859,18 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+        "name": "Pomni",
+        "url": "https://open.spotify.com/album/4n4YVXaUkjIcMDo7A5ZK1K"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Boogrov",
+          "url": "https://open.spotify.com/artist/1eyg9AJYXvQaXtHyi77WCK"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Ode to Ipse",
-        "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
-      },
-      "artists": [
-        {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
-        }
-      ],
-      "duration_ms": 338997,
-      "name": "Ode to Ipse",
-      "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
+      "duration_ms": 328268,
+      "name": "Pomni",
+      "url": "https://open.spotify.com/track/5Zg2oGPqM8F5C4KEj4ZbBM"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -907,6 +891,54 @@
       "duration_ms": 312000,
       "name": "I Gotta Cry",
       "url": "https://open.spotify.com/track/1DtATMMquUii9mswtWJ3tc"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Ode to Ipse",
+        "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 338997,
+      "name": "Ode to Ipse",
+      "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 230748,
+      "name": "True Romance (Maja Edit)",
+      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -939,22 +971,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
-      },
-      "artists": [
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 230748,
-      "name": "True Romance (Maja Edit)",
-      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
       },
@@ -967,26 +983,6 @@
       "duration_ms": 312588,
       "name": "Ritz Carlton",
       "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Godson of House",
-        "url": "https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        },
-        {
-          "name": "Byron the Aquarius",
-          "url": "https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5"
-        }
-      ],
-      "duration_ms": 516409,
-      "name": "Godson of House",
-      "url": "https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Back To My Place",
-        "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
+        "name": "Godson of House",
+        "url": "https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        },
+        {
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5"
         }
       ],
-      "duration_ms": 245863,
-      "name": "Back to My Place",
-      "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
+      "duration_ms": 516409,
+      "name": "Godson of House",
+      "url": "https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX"
     }
   ],
   "unique_name": "Lo-Fi House",

@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-190 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+192 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [BOKE](https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BOKE](https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD) | 3:04 | 2022-05-11 |  |
 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 | 2022-05-11 |  |
 | [Book](https://open.spotify.com/track/2nCJFTqCDjEYLJR151Fd5B) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:11 | 2022-05-11 | 2022-07-28 |
+| [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 | 2022-10-05 |  |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL) | 3:48 | 2022-07-08 |  |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2022-05-11 | 2022-07-21 |
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-07-04 |  |
@@ -64,7 +65,7 @@
 | [Haebing](https://open.spotify.com/track/1xLNIO5zOTTT5PVp2hxrka) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 3:47 | 2022-05-11 | 2022-07-18 |
 | [happen](https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F) | [more](https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM) | [Island Island!](https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD) | 2:55 | 2022-07-08 | 2022-08-22 |
 | [Happiness \(feat\. Vincent Blue\)](https://open.spotify.com/track/14dJLoAlJFuypnXt5DJUKj) | [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Happiness \(feat\. Vincent Blue\)](https://open.spotify.com/album/4NrlQcmJI8EUHBklSnAS7F) | 3:53 | 2022-06-13 | 2022-07-29 |
-| [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-11 |  |
+| [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-11 | 2022-10-05 |
 | [Hawaiiya](https://open.spotify.com/track/6d1HS0a3QkOH82CWCc5h8f) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Poom](https://open.spotify.com/album/7pbDDSvoSkldVRyLZ27gGH) | 3:31 | 2022-05-11 | 2022-07-27 |
 | [heowoojeog \(Feat\. Curren\)](https://open.spotify.com/track/5Ic9AAaaGl73otooQP5Gyg) | [LLANO](https://open.spotify.com/artist/61vo1oAMWvmdRIJYdeCzrd), [Curren](https://open.spotify.com/artist/1oKl2IxHi8Dwx4iTaBGVob) | [duL](https://open.spotify.com/album/1cloUGhbWriqDkuh5mm7wW) | 2:54 | 2022-05-11 | 2022-07-20 |
 | [Hmm](https://open.spotify.com/track/68G3FJrF1DAFhHnpM905QF) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:06 | 2022-05-11 | 2022-07-27 |
@@ -79,7 +80,7 @@
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 |  |
 | [I don’t want to](https://open.spotify.com/track/5BCbtI9gGtE0vD2btEgDha) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [childhood of the sea](https://open.spotify.com/album/6azHgQ3LbUgkGXmYnAwtET) | 3:49 | 2022-05-11 | 2022-07-28 |
 | [I had a dream](https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:46 | 2022-05-11 | 2022-07-28 |
-| [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 | 2022-05-11 |  |
+| [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 | 2022-05-11 | 2022-10-05 |
 | [Ican'tfeelmaface](https://open.spotify.com/track/4R6g9qPlM0eE0w5Awr8PXR) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [every flower you gave me](https://open.spotify.com/album/3JRoq6nJRd2PyvKVhJj4TU) | 2:56 | 2022-05-11 | 2022-06-02 |
 | [If It's Not You](https://open.spotify.com/track/4fAXE9nsJzUaw4UFs2uvAy) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [If It's Not You](https://open.spotify.com/album/4KOaX6kkTP3SQ2emD2ir0P) | 2:59 | 2022-05-11 | 2022-07-19 |
 | [In My Dream](https://open.spotify.com/track/7cqRIDtEEOTXbwoIzAK40z) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [In My Dream](https://open.spotify.com/album/4Al4Mk1fC8FrF9l5uuaPuy) | 2:49 | 2022-05-11 | 2022-07-29 |
@@ -128,6 +129,7 @@
 | [Real Love](https://open.spotify.com/track/2ISlNuJNQUigkgmptbjLd8) | [U\-MIN](https://open.spotify.com/artist/3POUa0iXayAodpzlfqurbO) | [Real Love](https://open.spotify.com/album/7CvcDw45ZiwnDSvrCdLkad) | 3:24 | 2022-06-09 | 2022-07-29 |
 | [Remind](https://open.spotify.com/track/6saQVRL70Dfs25G0y3S6M9) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Remind](https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg) | 3:13 | 2022-06-18 | 2022-07-29 |
 | [Reset](https://open.spotify.com/track/1GH0sHRBwLYJwuyqBPsf0q) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3), [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc) | [Reset](https://open.spotify.com/album/5iXtqZVn6OEJ15jGmFmnaD) | 2:24 | 2022-06-09 | 2022-07-29 |
+| [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-10-05 |  |
 | [ROMANTICPOKSA](https://open.spotify.com/track/4sXk6Z8JbTeYK64oKFBOwh) | [kyurin](https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp) | [NUDUGI HEART RUNNER](https://open.spotify.com/album/35621MM1sYnfoiS9s8tCvp) | 2:27 | 2022-05-11 | 2022-07-26 |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-12 |  |
 | [Running to You](https://open.spotify.com/track/3UoHkXZkIZz7Lna8rwzYiy) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Running to You](https://open.spotify.com/album/2DJwEaPL3UvpqwyLQSnuN2) | 3:31 | 2022-05-11 | 2022-07-24 |

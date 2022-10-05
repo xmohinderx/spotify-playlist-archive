@@ -1,12 +1,12 @@
 {
   "description": "Timeless tunes served over easy for all your brunching needs!",
-  "num_followers": 51178,
+  "num_followers": 51274,
   "original_name": "Sunny Side Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMDA3ZmUyZGQ4ZmE4ZGUxYmRlYjQzNDg4NjQ3OTUzN2Q0",
+  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMGI4YjIxY2M4NWVkYmUwOGE0ODU2ZTcwMDFkMzM3NTAx",
   "tracks": [
     {
       "added_at": "2022-09-23 19:17:07",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Songs About Jane",
         "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 244866,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "The 35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "I Second That Emotion",
-      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Freedom for the Stallion (Expanded Edition)",
         "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 202573,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "The 35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "I Second That Emotion",
+      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "It's Our Thing",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
         }
       ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+        "name": "It's Our Thing",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
       "artists": [
         {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2022-09-23 19:17:07",

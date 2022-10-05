@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-573 songs - 1 day 6 hr 30 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+574 songs - 1 day 6 hr 33 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-05-13 |
-| [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 | 2022-09-29 |  |
+| [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt\. 2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 | 2022-09-29 |  |
 | [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 | 2022-09-29 | 2022-10-03 |
 | [Bygga Nytt](https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Bygga Nytt](https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl) | 3:40 | 2022-09-15 |  |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
@@ -320,7 +320,8 @@
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 |  |
-| [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 |  |
+| [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-29 |  |
+| [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 | 2022-10-05 |
 | [Midnatt](https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Midnatt](https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM) | 3:04 | 2022-09-29 |  |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |

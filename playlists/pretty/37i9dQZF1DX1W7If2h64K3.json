@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 33449,
+  "num_followers": 33472,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGNlZTA2MGU0ODAzMWEzN2U1NmE1ZTBhZDBhZTk3NTQw",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGYyNDI3ZTZkMTU0MzExZjQ0N2IxNzdjNmViNjAzODRl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Schumann: Piano Pieces",
-        "url": "https://open.spotify.com/album/3s7iUla63fkBt3XwwMUFc7"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Maria Jo\u00e3o Pires",
-          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo (Colla pi\u00f9 grande energia)",
-      "url": "https://open.spotify.com/track/7Jbuk6fy23BwXeegTvsRcj"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
         "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 105000,
       "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
       "url": "https://open.spotify.com/track/4R75u2TaRktccyVRHrZPqB"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Schumann: Piano Pieces",
+        "url": "https://open.spotify.com/album/3s7iUla63fkBt3XwwMUFc7"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo (Colla pi\u00f9 grande energia)",
+      "url": "https://open.spotify.com/track/7Jbuk6fy23BwXeegTvsRcj"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Schumann: Frage",
-        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
-      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Schumann, R.: Kreisleriana / Waldszenen / Blumenstuck",
         "url": "https://open.spotify.com/album/7ACtKPpQI4ahJg8tRw6zbj"
       },
@@ -571,8 +551,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
       },
       "artists": [
         {
@@ -580,13 +560,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
         }
       ],
-      "duration_ms": 332160,
-      "name": "Arabeske in C Major, Op. 18",
-      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -639,6 +619,26 @@
       "duration_ms": 911400,
       "name": "Violin Concerto in D minor, WoO 23: I. In kr\u00e4ftigem, nicht zu schnellem Tempo",
       "url": "https://open.spotify.com/track/3GI9zES0F4tERFfC91obWX"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 332160,
+      "name": "Arabeske in C Major, Op. 18",
+      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Schumann: Cello Concerto; Piano Trio No. 1",
         "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
       },
@@ -831,26 +851,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
-      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
         "url": "https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6"
       },
@@ -875,6 +875,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
+        "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
+      "url": "https://open.spotify.com/track/41z9F9wr2JU7nAB7fMTOUq"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
         "url": "https://open.spotify.com/album/2gMMvfkICzWt9IpFfKedS1"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 170506,
       "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
       "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
-        "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Wilhelm Kempff",
-          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
-      "url": "https://open.spotify.com/track/41z9F9wr2JU7nAB7fMTOUq"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
+        "url": "https://open.spotify.com/album/23V6eDmrJMIgryHYYJQ0Kb"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "duration_ms": 374533,
+      "name": "Presto passionato",
+      "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Schumann: Manfred: Overture - Piano Concerto - Overture, Scherzo and Finale",
         "url": "https://open.spotify.com/album/5O3tSB85mXcvnAuqqIL2SN"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 266093,
       "name": "Overture, Scherzo and Finale, Op. 52: Scherzo - Vivo",
       "url": "https://open.spotify.com/track/1siFaMo0uVa8Npo1LqjZxE"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
-        "url": "https://open.spotify.com/album/23V6eDmrJMIgryHYYJQ0Kb"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Bernd Glemser",
-          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
-        }
-      ],
-      "duration_ms": 374533,
-      "name": "Presto passionato",
-      "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
-        "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Sebastian Bluth",
-          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
-        },
-        {
-          "name": "Anita Keller",
-          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
-        }
-      ],
-      "duration_ms": 116200,
-      "name": "Liederkreis, Op. 39: In der Fremde",
-      "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
         "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 773000,
       "name": "Symphony No. 2 in C, Op. 61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
       "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
+        "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sebastian Bluth",
+          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
+        },
+        {
+          "name": "Anita Keller",
+          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
+        }
+      ],
+      "duration_ms": 116200,
+      "name": "Liederkreis, Op. 39: In der Fremde",
+      "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1187,34 +1187,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
-        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Marianne Crebassa",
-          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
-        },
-        {
-          "name": "Les Cris De Paris",
-          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
-        },
-        {
-          "name": "Geoffroy Jourdain",
-          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Missa Sacra Op. 147: IV. Offertorium",
-      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Schumann: Liederkreis; Romances and Ballades",
         "url": "https://open.spotify.com/album/4dd5w7LFFg8aCP49P5TxTz"
       },
@@ -1235,6 +1207,30 @@
       "duration_ms": 207000,
       "name": "\"Mein Wagen rollet langsam\", Op. 142, No. 4",
       "url": "https://open.spotify.com/track/2IiB2he5PNntuhU9yP7jJc"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
+        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "duration_ms": 427653,
+      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
+      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1267,30 +1263,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
-        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
-        }
-      ],
-      "duration_ms": 427653,
-      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
-      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Schumann: Piano Works",
         "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
       },
@@ -1307,6 +1279,54 @@
       "duration_ms": 439213,
       "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
       "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
+        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Marianne Crebassa",
+          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
+        },
+        {
+          "name": "Les Cris De Paris",
+          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
+        },
+        {
+          "name": "Geoffroy Jourdain",
+          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Missa Sacra Op. 147: IV. Offertorium",
+      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Schumann Recital",
+        "url": "https://open.spotify.com/album/2rn9cFuujCXaJtDDu6DeXr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
+      "url": "https://open.spotify.com/track/4j8lYY8CxTPkY2DLLQT4hy"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1331,26 +1351,6 @@
       "duration_ms": 260186,
       "name": "6 Gedichte und Requiem, Op. 90: No. 7. Requiem",
       "url": "https://open.spotify.com/track/4zPZbj1sNxCOtU1CdgCK53"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Schumann Recital",
-        "url": "https://open.spotify.com/album/2rn9cFuujCXaJtDDu6DeXr"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
-      "url": "https://open.spotify.com/track/4j8lYY8CxTPkY2DLLQT4hy"
     },
     {
       "added_at": "2022-09-30 04:01:00",

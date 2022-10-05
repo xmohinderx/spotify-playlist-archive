@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-270 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
+271 songs - 16 hr 54 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Easy Listening \(Feat\. Lee Joon\) \(Monthly Project 2020 May Yoon Jong Shin\)](https://open.spotify.com/track/0mvmY9ih1yrIRH8tgRIejD) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Lee Joon](https://open.spotify.com/artist/122DvZ07Rzf2ZNyCA6hCQM) | [Easy Listening \(Feat\. Lee Joon\) \(Monthly Project 2020 May Yoon Jong Shin\)](https://open.spotify.com/album/1OsF77dJxBQ32ZcG3BoI09) | 5:34 | 2022-05-11 | 2022-07-21 |
 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 | 2022-05-11 |  |
 | [Embracing](https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Embracing](https://open.spotify.com/album/7Bkkj3Tj5I2fGHH0KgwXYD) | 3:22 | 2022-07-22 | 2022-07-29 |
+| [Empty](https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr) | [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ), [subin](https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55) | [Empty](https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm) | 3:34 | 2022-10-05 |  |
 | [Even Though A City Full Of Ugly People 미운 사람만 가득한 이 도시에도](https://open.spotify.com/track/7rUCWYEk4xYGqgzSZoCfrJ) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul 선데이서울 Ep.3](https://open.spotify.com/album/2qyuesnAj6Re9a6sy8eA4N) | 3:10 | 2022-05-11 | 2022-07-27 |
 | [Fairy of Shampoo](https://open.spotify.com/track/5IFCL8jUbhv1nP3cPuda7n) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 4:27 | 2022-05-11 | 2022-07-29 |
 | [Fairy of Shampoo](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 4:27 | 2022-07-22 |  |
@@ -112,7 +113,7 @@
 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 | 2022-07-22 |  |
 | [Headlight](https://open.spotify.com/track/0sphzVqEctdSudjBFLQLEA) | [KIMSAN 김산](https://open.spotify.com/artist/4PiqWnfbWGcCFT2UDxKCf1) | [Headlights](https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS) | 3:43 | 2022-05-11 | 2022-07-27 |
 | [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/0nw4fbuu6af0WA36f0IHiX) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/06jDTVrUOYysEijXi9eKOQ) | 4:20 | 2022-08-12 | 2022-09-28 |
-| [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/72quUKjITH4txudAUZKXpi) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/2xA63q65mFlkG3ICY6BPS4) | 4:20 | 2022-09-05 |  |
+| [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/72quUKjITH4txudAUZKXpi) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/2xA63q65mFlkG3ICY6BPS4) | 4:20 | 2022-09-05 | 2022-10-05 |
 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 | 2022-05-11 |  |
 | [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [스페이스카우보이](https://open.spotify.com/artist/0OIZ6VdAR9UGJ3UhfTpGYy) | [New Wave City](https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV) | 3:27 | 2022-05-11 |  |
 | [I FEEL LOVE](https://open.spotify.com/track/0waWA2gh4t6dEBXcCHapDE) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 3:55 | 2022-05-11 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "los tenis bien limpios y la bocina retumbando",
-  "num_followers": 12301,
+  "num_followers": 12400,
   "original_name": "sneakerhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU4NTU1NiwwMDAwMDAwMDI0OGJkYTg4MzNlZDIzZjFkM2Y5OTRkYmE5M2I0YmM2",
+  "snapshot_id": "MTY2MjU4NTU1NiwwMDAwMDAwMDI2ZjU3MGVhZDAyODE1ZGU0ZjA3NzMxZTdiOTM5ZjEy",
   "tracks": [
     {
       "added_at": "2022-09-07 21:19:16",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-09-07 21:19:16",
       "album": {
+        "name": "A M\u00ed",
+        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "A M\u00ed",
+      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
+    },
+    {
+      "added_at": "2022-09-07 21:19:16",
+      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
-    },
-    {
-      "added_at": "2022-09-07 21:19:16",
-      "album": {
-        "name": "A M\u00ed",
-        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "A M\u00ed",
-      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
     },
     {
       "added_at": "2022-09-07 21:19:16",

@@ -165,7 +165,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 177777,
       "name": "Bam Bam Season",
       "url": "https://open.spotify.com/track/4S6kzemNEMI7UhgxF6He9e"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191067,
       "name": "Boom Bang",
       "url": "https://open.spotify.com/track/6gFQb0VIN3ucwjmOkyGYrH"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 208615,
       "name": "Bottle over Head",
       "url": "https://open.spotify.com/track/6mNRtq9sSs2S3wU8adUYA0"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 230711,
       "name": "Captain",
       "url": "https://open.spotify.com/track/3lZ3eMvVB2V1NOYDh5yACv"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 237131,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/4trbSqUbXaoBoAPLKu2Ydb"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 190560,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/6ZcjqhiK2heWFJUb3BmO9x"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 193488,
       "name": "Fattt",
       "url": "https://open.spotify.com/track/1gdjPy3aUqN0K1q5sXpdAZ"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 247272,
       "name": "Feeling It",
       "url": "https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233394,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/7s489YdEjOl8mGcSRFLgzi"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 151588,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Lookin' for China",
       "url": "https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 214738,
       "name": "Nasty Up",
       "url": "https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/57vT8YfFjsllsHxqF1KGLR"
@@ -1174,6 +1174,24 @@
     },
     {
       "album": {
+        "name": "The Wedding Album",
+        "url": "https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219846,
+      "name": "Play Harder",
+      "url": "https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG"
+    },
+    {
+      "album": {
         "name": "Pop's Guitar Riddim",
         "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
       },
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 221160,
       "name": "Play Harder",
       "url": "https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 150836,
       "name": "Pon D Tip",
       "url": "https://open.spotify.com/track/3YNb5kxEhLSlCKccIQCZeU"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 185660,
       "name": "Practice",
       "url": "https://open.spotify.com/track/2WIrKjhZx238oVJA8ibXSE"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 158294,
       "name": "Skill & Steady",
       "url": "https://open.spotify.com/track/65dhZDMJ4eifxYqJjERBFW"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 135941,
       "name": "The People Man (T.P.M.)",
       "url": "https://open.spotify.com/track/4s0lXstgGUbGesnLJb02Hy"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 189022,
       "name": "Up & Up",
       "url": "https://open.spotify.com/track/35Y7HJHsOaV1CQ8RisAqpd"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 188055,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/1823Dax4egZNBDGAE9co2y"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 182773,
       "name": "Work",
       "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 181805,
       "name": "Wuk",
       "url": "https://open.spotify.com/track/2VXMyL4WDM637ZQn4K2Vhl"

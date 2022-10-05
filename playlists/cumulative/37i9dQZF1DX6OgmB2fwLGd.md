@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Yeat
 
-422 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+423 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Juggernaut](https://open.spotify.com/track/5DlENEGphgTy41xxOzpQoo) | [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Juggernaut](https://open.spotify.com/album/4Y9l8cikONcudDMt9j2JdG) | 1:50 | 2022-05-20 | 2022-07-30 |
 | [Jumpin!](https://open.spotify.com/track/4QYmp5IkfsghZzr20l7FgB) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Jumpin!](https://open.spotify.com/album/5ziBil99sL15uR1Z2t0aEj) | 1:47 | 2022-04-22 | 2022-05-07 |
 | [just cant](https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:22 | 2022-01-06 |  |
+| [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 | 2022-10-04 |  |
 | [KILL EM FOR ME \(feat\. KA$HDAMI\)](https://open.spotify.com/track/1Z96DR4JnccVo6uIp9a4Gw) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [ANYWHERE BUT HERE](https://open.spotify.com/album/23K73OQjOqGx2YeIfzRWTa) | 2:38 | 2022-08-26 | 2022-09-10 |
 | [KILL EM FOR ME \(feat\. KA$HDAMI\)](https://open.spotify.com/track/7ExIAULxz8L1mWrqq4YpKF) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [ANYWHERE BUT HERE](https://open.spotify.com/album/3lj9lqUr6MQxReCeV52SBo) | 2:38 | 2022-08-26 |  |
 | [Kill Us All \(K.U.A.\)](https://open.spotify.com/track/4khHOhzkrjNSiRzusudtJG) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Kill Us All \(K.U.A.\)](https://open.spotify.com/album/45pno56u3r8vGvDh2oijn6) | 3:42 | 2022-06-17 | 2022-07-06 |
@@ -380,7 +381,7 @@
 | [TBTF](https://open.spotify.com/track/01Vormnc8QSPgBQYkvrQ7P) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [TBTF](https://open.spotify.com/album/7AcCd36B5Fu0N1qQZVBqVg) | 2:52 | 2022-01-21 | 2022-02-05 |
 | [Tears](https://open.spotify.com/track/5PUxWxXQEJJidGkIVIF7Tq) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [Tears](https://open.spotify.com/album/51JeumHc5NAoZTZaaLw9v0) | 1:50 | 2022-05-13 |  |
 | [Tears of a Tiger](https://open.spotify.com/track/2pRU7Hr7vmSWT90NNOQiTd) | [Big Body Bes](https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP) | [Tears of a Tiger](https://open.spotify.com/album/2qLFnJ5LOvJpQURsaVdsdK) | 2:20 | 2021-12-10 | 2021-12-27 |
-| [Tempt](https://open.spotify.com/track/2DTE6afvhrNnhsWJYcr4Aq) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM), [Marlon DuBois](https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm) | [Just Tired](https://open.spotify.com/album/1UxqMmmqdwl0cvGh7Chxfi) | 2:46 | 2022-08-20 |  |
+| [Tempt](https://open.spotify.com/track/2DTE6afvhrNnhsWJYcr4Aq) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM), [Marlon DuBois](https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm) | [Just Tired](https://open.spotify.com/album/1UxqMmmqdwl0cvGh7Chxfi) | 2:46 | 2022-08-20 | 2022-10-05 |
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-10-06 | 2022-02-05 |
 | [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-07 | 2022-07-23 |
 | [The Grinch](https://open.spotify.com/track/1W24W6jQegnNh0x5DfBBPT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 1:31 | 2022-08-23 |  |

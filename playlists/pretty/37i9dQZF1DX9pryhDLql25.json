@@ -1,12 +1,12 @@
 {
   "description": "Gather your friends for the cherished ritual that is brunch. If not for the pomo irony, then for the endless hibiscus lavender mimosas.",
-  "num_followers": 194503,
+  "num_followers": 194505,
   "original_name": "Boozy Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1OTkxNjc3MSwwMDAwMDAwMDIwODZlZDY5NzcwODI2ZWQxYzE1Y2M0Yzc5NTI3MGRl",
+  "snapshot_id": "MTU1OTkxNjc3MSwwMDAwMDAwMDkyZjJjMzhhNzgyZTY0MjA5ZjBiYzRiOWEwYWU4Mjk4",
   "tracks": [
     {
       "added_at": "2019-06-07 14:12:51",
@@ -723,6 +723,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "Annie Up",
         "url": "https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 198640,
       "name": "I Feel A Sin Comin' On",
       "url": "https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
-      },
-      "artists": [
-        {
-          "name": "Traveller",
-          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
-        }
-      ],
-      "duration_ms": 192743,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Make Way for Love",
         "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 161690,
       "name": "What's Chasing You",
       "url": "https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
+      },
+      "artists": [
+        {
+          "name": "Traveller",
+          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
+        }
+      ],
+      "duration_ms": 192743,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Sunday Morning Coming Down - Live",
-      "url": "https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "From the Hills Below the City",
         "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "We're All Gonna Die",
-        "url": "https://open.spotify.com/album/6bSJPJU1SRxm9RQ4Ox5sRe"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 284720,
-      "name": "When The Tequila Runs Out",
-      "url": "https://open.spotify.com/track/23Q4sMxgEKRXDMi62xPP5R"
+      "duration_ms": 249866,
+      "name": "Sunday Morning Coming Down - Live",
+      "url": "https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "We're All Gonna Die",
+        "url": "https://open.spotify.com/album/6bSJPJU1SRxm9RQ4Ox5sRe"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "When The Tequila Runs Out",
+      "url": "https://open.spotify.com/track/23Q4sMxgEKRXDMi62xPP5R"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "All Or Nothin'",
         "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Sparrow",
-        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM"
       },
       "artists": [
         {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
         }
       ],
-      "duration_ms": 232186,
-      "name": "Hands on You",
-      "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
+      "duration_ms": 165613,
+      "name": "Thirteen Sad Farewells",
+      "url": "https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H"
     },
     {
       "added_at": "2019-06-07 14:12:51",

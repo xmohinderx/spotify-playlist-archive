@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Michelle Maciel en portada.
 
-129 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
+130 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [El Sereno](https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Sereno](https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz) | 2:43 | 2022-06-08 |  |
 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 | 2022-09-23 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 | 2022-09-24 |
+| [Era Mia](https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Era Mia](https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI) | 3:46 | 2022-09-30 |  |
 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 | 2022-06-07 |  |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-29 | 2022-08-06 |
 | [Fabi](https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 4:28 | 2022-08-05 |  |
@@ -80,7 +81,7 @@
 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 | 2022-02-23 |  |
 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 | 2021-12-27 | 2022-09-24 |
 | [Me Muero Por Tenerte](https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo 415](https://open.spotify.com/artist/4T7VVYDG8RzvV1E0zUP6Gw) | [Me Muero Por Tenerte](https://open.spotify.com/album/5fsETqTQv6MtnpTKpLURKa) | 3:56 | 2022-08-05 |  |
-| [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 | 2022-09-23 |  |
+| [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 | 2022-09-23 | 2022-10-05 |
 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 | 2022-02-23 | 2022-09-24 |
 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 | 2022-05-13 |  |
 | [Muy Criticado](https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Pinch3 Polo](https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR) | 2:47 | 2022-08-05 |  |

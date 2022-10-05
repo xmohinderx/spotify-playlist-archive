@@ -2,9 +2,9 @@
 
 ### [EQUAL K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX6Cy4Vr7Hu2y)
 
-> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: TRI.BE\(트라이비\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
+> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: CAMO\(카모\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-283 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
+284 songs - 16 hr 15 min - [published](https://open.spotify.com/playlist/7aZE60N1scOgpUAHT7EoLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-18 |  |
 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 | 2021-11-21 | 2022-07-29 |
 | [Forever Young](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:59 | 2022-07-07 | 2022-09-22 |
+| [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-10-04 |  |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-08-18 |  |
 | [GOKIGEN SAYONARA \- Korean ver.](https://open.spotify.com/track/5nmpMkZq1J06Uq8Dcl0lT5) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 4:20 | 2022-03-22 | 2022-04-17 |
 | [Good Night 잘 자](https://open.spotify.com/track/5qTMLwczsxG5Z10wdowN96) | [Ryu Ji Hye 류지혜](https://open.spotify.com/artist/4rGWpZenGw3V8eIx1GRHbz) | [Good Night 잘 자](https://open.spotify.com/album/0d1ZTAXOFdFk6ttHIFljGl) | 3:08 | 2022-03-22 | 2022-04-13 |
@@ -120,7 +121,7 @@
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-11-21 | 2022-07-18 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-07 |  |
 | [KILLER](https://open.spotify.com/track/1NMxmQKHCIqbz2QKxd1X2E) | [FAINIT](https://open.spotify.com/artist/2RRJVX5gr6einLIajJdDa5) | [KILLER](https://open.spotify.com/album/2hZEI76bqonuaH7Ew3Opp6) | 3:10 | 2022-06-18 | 2022-06-20 |
-| [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-06 |  |
+| [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-06 | 2022-10-05 |
 | [KnoCK \(Feat\. Yerin Baek\)](https://open.spotify.com/track/2XnFNm6N3QOdxvKh97ayfc) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [KnoCK \(Feat\. Yerin Baek\)](https://open.spotify.com/album/5VgIL9xltF6uYKVEefdi4Q) | 3:19 | 2022-03-29 | 2022-04-21 |
 | [L.U.V.](https://open.spotify.com/track/6n8YodbIsmMTqL151At1xy) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 2nd Album 'Time for us'](https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO) | 3:15 | 2022-03-22 | 2022-04-21 |
 | [La La Love](https://open.spotify.com/track/1pXpzhdyeryEw8DqhaVrwe) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:22 | 2022-03-29 | 2022-07-07 |

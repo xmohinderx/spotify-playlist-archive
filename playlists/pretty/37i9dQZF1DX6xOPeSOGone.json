@@ -1,12 +1,12 @@
 {
   "description": "The great masterpieces of the genre.",
-  "num_followers": 3425744,
+  "num_followers": 3426412,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjI4NywwMDAwMDAwMDFhZGI0MjI4NGExOWI4YmNjYjg1N2E4MTJhZjIwYTMx",
+  "snapshot_id": "MTY1NzAzNjI4NywwMDAwMDAwMDI0MmM4YjFhZDMyMDIyOTQ1N2Y4MDgzYzk5ZWYyN2Uy",
   "tracks": [
     {
       "added_at": "2022-01-03 09:35:04",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Stealers Wheel",
         "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 208946,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 125666,
-      "name": "Yesterday - Remastered 2009",
-      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 125666,
+      "name": "Yesterday - Remastered 2009",
+      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260533,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260533,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 159346,
       "name": "Breakfast In America - 2010 Remastered",
       "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Bloody Tourists",
-        "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Dreadlock Holiday",
-      "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
       },
@@ -1895,6 +1879,22 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
+        "name": "Bloody Tourists",
+        "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Dreadlock Holiday",
+      "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
         "name": "Sticky Fingers (Remastered)",
         "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
       },
@@ -1907,22 +1907,6 @@
       "duration_ms": 341773,
       "name": "Wild Horses - 2009 Mix",
       "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
-        "name": "Blaze Of Glory",
-        "url": "https://open.spotify.com/album/5QsPmoN7UK8tL5NRtSuC2Y"
-      },
-      "artists": [
-        {
-          "name": "Jon Bon Jovi",
-          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
-        }
-      ],
-      "duration_ms": 335240,
-      "name": "Blaze Of Glory - From \"Young Guns II\" Soundtrack",
-      "url": "https://open.spotify.com/track/1sUTfgduT0WIQO8kXKXxLC"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -1959,6 +1943,22 @@
       "duration_ms": 250906,
       "name": "Everlong - Acoustic Version",
       "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Blaze Of Glory",
+        "url": "https://open.spotify.com/album/5QsPmoN7UK8tL5NRtSuC2Y"
+      },
+      "artists": [
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        }
+      ],
+      "duration_ms": 335240,
+      "name": "Blaze Of Glory - From \"Young Guns II\" Soundtrack",
+      "url": "https://open.spotify.com/track/1sUTfgduT0WIQO8kXKXxLC"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Relish",
-        "url": "https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt"
-      },
-      "artists": [
-        {
-          "name": "Joan Osborne",
-          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 251866,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Relish",
+        "url": "https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt"
+      },
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
+        "name": "If We Fall in Love Tonight",
+        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "All for Love",
+      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
         "name": "Angel Dust (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+        "name": "God Shuffled His Feet",
+        "url": "https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Crash Test Dummies",
+          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Since I Don't Have You",
-      "url": "https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh"
+      "duration_ms": 235173,
+      "name": "Mmm Mmm Mmm Mmm",
+      "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -2299,8 +2299,8 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "If We Fall in Love Tonight",
-        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
       "artists": [
         {
@@ -2308,25 +2308,25 @@
           "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 281200,
-      "name": "All for Love",
-      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
+      "duration_ms": 277960,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     },
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "God Shuffled His Feet",
-        "url": "https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy"
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
       "artists": [
         {
-          "name": "Crash Test Dummies",
-          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 235173,
-      "name": "Mmm Mmm Mmm Mmm",
-      "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
+      "duration_ms": 259906,
+      "name": "Since I Don't Have You",
+      "url": "https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh"
     },
     {
       "added_at": "2022-01-03 09:35:04",

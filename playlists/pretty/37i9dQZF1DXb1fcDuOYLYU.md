@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > Celebrate Women's History Month with these powerful voices\. Cover: Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,138 likes - 140 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,177 likes - 140 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,13 +127,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 117 | [De Qué Sirve](https://open.spotify.com/track/1uGVTBOzltXEbOH7qSfuHL) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [De Qué Sirve](https://open.spotify.com/album/5CEohogm9tC85m92zXpmQZ) | 2:35 |
 | 118 | [Un Baile Mas](https://open.spotify.com/track/1gdvQRgBMwyofkeCH6hi4o) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Un Baile Mas](https://open.spotify.com/album/2mxpgqyeZCnqOQrkHHrpD5) | 3:43 |
 | 119 | [Insecure](https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Insecure](https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6) | 3:11 |
-| 120 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
-| 121 | [Na Na Na](https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:18 |
+| 120 | [Na Na Na](https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:18 |
+| 121 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
 | 122 | [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 |
 | 123 | [Te Quiero Olvidar](https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Quiero Olvidar](https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR) | 3:35 |
 | 124 | [Manuela](https://open.spotify.com/track/39XhLzD0z9D5o0Ir9qQoN1) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Viaje](https://open.spotify.com/album/4U7S6uqJxZcywLINu03Trl) | 3:23 |
-| 125 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 |
-| 126 | [Restart](https://open.spotify.com/track/6lPzHeMLBsSF7CeeEC9eVp) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Ninow y Candy](https://open.spotify.com/artist/7FnSVlg4iU093lEkSeptx5) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:00 |
+| 125 | [Restart](https://open.spotify.com/track/6lPzHeMLBsSF7CeeEC9eVp) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Ninow y Candy](https://open.spotify.com/artist/7FnSVlg4iU093lEkSeptx5) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:00 |
+| 126 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 |
 | 127 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
 | 128 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 |
 | 129 | [2050](https://open.spotify.com/track/3QH4zxq7lDbIbS8UQzjmvu) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [2050](https://open.spotify.com/album/1Klza85GWJk8UXfnO6Z4jE) | 2:24 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 139 | [Adios](https://open.spotify.com/track/3UL2lHZvjjPEHzwsnqO00v) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41), [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Adios](https://open.spotify.com/album/0ISSpToY9pWlRxvX2nnus5) | 3:35 |
 | 140 | [CHILL](https://open.spotify.com/track/4nj7NcgKbJk4yLfQvWwVhG) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [CHILL](https://open.spotify.com/album/27NpFm9IMURWBKYNChlELH) | 2:50 |
 
-Snapshot ID: `MTY0ODQ3NzQyMywwMDAwMDAwMGFmY2IyOTc3Nzc4ZjIxMjhiNmI4MDBmN2ZkZTdiZDhm`
+Snapshot ID: `MTY0ODQ3NzQyMywwMDAwMDAwMDgwMWU2Y2IyMTdhYzQ5ZGQ5ODhkNzA3ZDljZDllZGI1`

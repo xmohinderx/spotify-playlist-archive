@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,303 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,305 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 13 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
 | 14 | [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zebulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 |
 | 15 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
-| 16 | [Crabe](https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm) | [Les Goules](https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA) | [Les Goules](https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC) | 3:38 |
-| 17 | [Magané](https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk) | 3:47 |
+| 16 | [Magané](https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk) | 3:47 |
+| 17 | [Crabe](https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm) | [Les Goules](https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA) | [Les Goules](https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC) | 3:38 |
 | 18 | [Johnny go](https://open.spotify.com/track/1SLovCqrzoxNbzT6AJGZhi) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [1985\-2003 Je joue de la guitare](https://open.spotify.com/album/13dpLxuec4cGilEfXHNeOR) | 5:28 |
 | 19 | [Le coup d'état](https://open.spotify.com/track/1ezk3E6ZvorHOEJjlfbEa3) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/2Tnn8WrAtBgG2OuTtj4OZB) | 4:22 |
 | 20 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
 | 21 | [Le métronome](https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Le compte complet](https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN) | 2:43 |
 | 22 | [Ton amour est trop lourd](https://open.spotify.com/track/6Bo0Vlj6oB7Essx2A8aFyQ) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3KB7pIIY4WlHjZSqV8nXs5) | 1:57 |
 | 23 | [Miss Ecstasy](https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm) | 3:55 |
-| 24 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
-| 25 | [Feels](https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE) | [Lili Fatale](https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW) | [Lili Fatale](https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv) | 4:04 |
-| 26 | [Sheila, ch'us là](https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4) | 4:33 |
+| 24 | [Feels](https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE) | [Lili Fatale](https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW) | [Lili Fatale](https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv) | 4:04 |
+| 25 | [Sheila, ch'us là](https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4) | 4:33 |
+| 26 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
 | 27 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
 | 28 | [Poney](https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG) | 4:11 |
 | 29 | [Ma dope à moi](https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 | 50 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
 
-Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDk1MWUyMjUzYjdlMTBmYzc4Nzg1MDRiMTNhNThkNTY4`
+Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDNlNDZiYjI0ODViYWQwM2QzMmYxMmFjODY2ODUyMDEx`

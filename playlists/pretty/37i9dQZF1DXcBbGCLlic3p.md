@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,035 likes - 185 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,054 likes - 185 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 184 | [Mellow Moon](https://open.spotify.com/track/3pwWWv9jwQxxh81W8bKWSB) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Winds](https://open.spotify.com/album/0y85Fl4PfcS9zsfvYyA7q6) | 3:25 |
 | 185 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 |
 
-Snapshot ID: `MTY2NDU2MjczMCwwMDAwMDAwMDgxMzU1MmU3YzBjNDhkNzZhMmY2MTA4MGU1MjlhZTRl`
+Snapshot ID: `MTY2NDg5MTg2NiwwMDAwMDAwMDI3Nzc5NDY3ZTc5ZDkyZWE4NzhkNmQ1MTk3ZTYwZjc4`

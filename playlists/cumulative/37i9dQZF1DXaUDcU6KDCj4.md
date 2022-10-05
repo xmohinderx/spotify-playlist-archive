@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Brandi Carlile
 
-803 songs - 2 day 1 hr 18 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+804 songs - 2 day 1 hr 21 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,7 +442,8 @@
 | [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 3:38 | 2022-06-24 | 2022-09-24 |
 | [Melt Away](https://open.spotify.com/track/01yFvMxBZDJ9nbmCgGpG1f) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Melt Away: A Tribute To Brian Wilson](https://open.spotify.com/album/0AEoTr8vxfRrNIxawzjEMR) | 3:51 | 2022-07-22 |  |
 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 | 2021-12-10 | 2022-03-26 |
-| [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-12 |  |
+| [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-30 |  |
+| [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-12 | 2022-10-05 |
 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 | 2022-04-08 |  |
 | [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-04-15 | 2022-07-09 |
 | [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 | 2022-09-23 |  |

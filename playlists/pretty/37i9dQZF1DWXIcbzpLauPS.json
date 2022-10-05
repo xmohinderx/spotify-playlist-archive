@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Lorna Shore",
-  "num_followers": 853847,
+  "num_followers": 853855,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGQyZmZlODA1MTg5MmYxMjM1NzMwZjA0MWQyODAxNTAw",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGYxMzNiOWJhMTNkZGU4NzEzNTE1MGMxNDA5YWEwZTcy",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Curse Of Existence",
-        "url": "https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "Into Oblivion",
-      "url": "https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Curse Of Existence",
+        "url": "https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Into Oblivion",
+      "url": "https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Reaper",
         "url": "https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Pull From The Ghost",
         "url": "https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 251191,
       "name": "Pull From The Ghost",
       "url": "https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -783,22 +783,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "NWWM",
-        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69"
       },
       "artists": [
         {
-          "name": "Borders",
-          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
-        },
-        {
-          "name": "Dropout Kings",
-          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+          "name": "Awake the Dreamer",
+          "url": "https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I"
         }
       ],
-      "duration_ms": 182750,
-      "name": "NWWM",
-      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+      "duration_ms": 197538,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -827,18 +823,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69"
+        "name": "NWWM",
+        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
       "artists": [
         {
-          "name": "Awake the Dreamer",
-          "url": "https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I"
+          "name": "Borders",
+          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
+        },
+        {
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
+      "duration_ms": 182750,
+      "name": "NWWM",
+      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
       },
       "artists": [
         {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
         }
       ],
-      "duration_ms": 209564,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
+      "duration_ms": 207627,
+      "name": "Damage Done",
+      "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
       },
       "artists": [
         {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
         }
       ],
-      "duration_ms": 207627,
-      "name": "Damage Done",
-      "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
-      },
-      "artists": [
-        {
-          "name": "AVOID",
-          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Break Me Down",
         "url": "https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Play Time",
-        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
       },
       "artists": [
         {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+          "name": "AVOID",
+          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
         }
       ],
-      "duration_ms": 216917,
-      "name": "Play Time",
-      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
+      "duration_ms": 191000,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1095,6 +1079,22 @@
       "duration_ms": 243722,
       "name": "Severance",
       "url": "https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Play Time",
+        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+      },
+      "artists": [
+        {
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        }
+      ],
+      "duration_ms": 216917,
+      "name": "Play Time",
+      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "White Eyes",
-        "url": "https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo"
-      },
-      "artists": [
-        {
-          "name": "Hopes Die Last",
-          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
-        }
-      ],
-      "duration_ms": 216363,
-      "name": "White Eyes",
-      "url": "https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Call It Home",
         "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m"
+        "name": "White Eyes",
+        "url": "https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo"
       },
       "artists": [
         {
-          "name": "Cabin Boy Jumped Ship",
-          "url": "https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S"
+          "name": "Hopes Die Last",
+          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ"
+      "duration_ms": 216363,
+      "name": "White Eyes",
+      "url": "https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1235,18 +1219,34 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci"
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m"
       },
       "artists": [
         {
-          "name": "Saving Vice",
-          "url": "https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b"
+          "name": "Cabin Boy Jumped Ship",
+          "url": "https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S"
         }
       ],
-      "duration_ms": 230068,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/48gotqEngeagErLW3C1FUs"
+      "duration_ms": 252000,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "No King Rules Forever",
+        "url": "https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI"
+      },
+      "artists": [
+        {
+          "name": "Alex Yarmak",
+          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No King Rules Forever",
+      "url": "https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n"
     }
   ],
   "unique_name": "The Core",

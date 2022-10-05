@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1426195,
+  "num_followers": 1426448,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMGRhNDMyYjZmZDdhMDVlYTcyODE1ZTY0YWFjYTI4MTJl",
+  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMDAzNjMyMzE1NmM3YjA2NDk0NDZlZTE5MGYyYzc0NmFj",
   "tracks": [
     {
       "added_at": "2022-06-21 19:07:54",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Uncontrollable Urge",
-      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 89160,
       "name": "Minor Threat",
       "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Corona",
-      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 106693,
       "name": "No Control",
       "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Corona",
+      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Wild in the Streets",
         "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 155693,
       "name": "Wild in the Streets",
       "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Tim (Expanded)",
-        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Bastards of Young - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 163133,
       "name": "I Can't Hardly Stand It",
       "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Tim (Expanded)",
+        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Bastards of Young - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Anthology: The Sounds Of Science",
-        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 120266,
-      "name": "I Want Some",
-      "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Death Rides A Pale Cow: The Ultimate Collection",
         "url": "https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 107866,
       "name": "Dean's Dream",
       "url": "https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Anthology: The Sounds Of Science",
+        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 120266,
+      "name": "I Want Some",
+      "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
     },
     {
       "added_at": "2021-10-06 09:12:22",

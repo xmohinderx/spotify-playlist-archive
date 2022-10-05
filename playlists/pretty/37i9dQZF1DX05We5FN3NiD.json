@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 29813,
+  "num_followers": 29856,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMDEzZWFkZTEwNWQwNTdlZDM4OTdmYjgyMzM2Y2JhMWYx",
+  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMGVhNDQxZTk3YTBlZDAzM2YzNDM4YmRiNmU4NGFjYjU2",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Now and Then",
-        "url": "https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 126464,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 288595,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 126464,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+        "name": "Lately EP",
+        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Ready To Let Go",
-      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
+      "duration_ms": 157303,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Lately EP",
-        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 157303,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
+      "duration_ms": 187973,
+      "name": "Ready To Let Go",
+      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 367093,
-      "name": "Not",
-      "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Song 32",
         "url": "https://open.spotify.com/album/6w9HzF9t5hxwaPIRZNECFN"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/6kqdiU8tYIznmQ7T0Lzlzx"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 367093,
+      "name": "Not",
+      "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
     },
     {
       "added_at": "2022-09-16 04:53:36",

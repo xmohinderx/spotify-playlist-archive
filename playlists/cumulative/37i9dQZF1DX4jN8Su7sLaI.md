@@ -4,7 +4,7 @@
 
 > Music from "Yowamushi Pedal", a series of cycle road race manga\. /自転車ロードレースアニメの金字塔、<a href="http://yowapeda.com/">『弱虫ペダル』</a>公式プレイリスト！©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
-37 songs - 2 hr 19 min - not published yet
+37 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/2ClVyCrdlSlyiFCMCh0S7S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

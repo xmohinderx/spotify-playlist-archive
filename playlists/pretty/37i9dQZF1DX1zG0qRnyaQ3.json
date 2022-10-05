@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 38394,
+  "num_followers": 7943,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDE2N2I1YmYyNTEzNjlhOTkxNmQ1YzgwNDM2ZjFkNjg2",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMGFmMDAwYWJhNGVlNTY5MWIzOWRhMTQ5ZjIzNTM5Yjhi",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "The Great Depression",
-        "url": "https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "The Wounded World",
-      "url": "https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Hate Conquers All",
         "url": "https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 166893,
       "name": "Hate Conquers All",
       "url": "https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "The Great Depression",
+        "url": "https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "The Wounded World",
+      "url": "https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "If There Was Ever a Time",
-        "url": "https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM"
-      },
-      "artists": [
-        {
-          "name": "Armstrongs",
-          "url": "https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W"
-        }
-      ],
-      "duration_ms": 161909,
-      "name": "If There Was Ever a Time",
-      "url": "https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 189933,
       "name": "The Guns of Brixton - Remastered",
       "url": "https://open.spotify.com/track/2W2J1ZwcqZL0ug37sRUoqH"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "If There Was Ever a Time",
+        "url": "https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM"
+      },
+      "artists": [
+        {
+          "name": "Armstrongs",
+          "url": "https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W"
+        }
+      ],
+      "duration_ms": 161909,
+      "name": "If There Was Ever a Time",
+      "url": "https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE"
     },
     {
       "added_at": "2021-01-16 16:36:48",

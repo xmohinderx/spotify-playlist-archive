@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,148 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,276 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 62 | [Amor Eterno \- En Vivo \[En el Palacio de Bellas Artes\]](https://open.spotify.com/track/0QI38in0PP6LVZSl6NnKaI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 7:08 |
 | 63 | [No Me Digas Que Te Vas](https://open.spotify.com/track/5mWkMREMASdLaUI55kLxiz) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 3:53 |
 | 64 | [Isi](https://open.spotify.com/track/7lmrAz5HtInzClDe8MXWw1) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:37 |
-| 65 | [Me Gustas Mucho](https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT) | 2:35 |
-| 66 | [Te Quiero Tal Como Eres](https://open.spotify.com/track/5YmvD7VUaakAnlLUBBIz5W) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:19 |
+| 65 | [¿Dónde Andará?](https://open.spotify.com/track/1AO54sk6Y4GXGQtZqSaorl) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 1:44 |
+| 66 | [Me Gustas Mucho](https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT) | 2:35 |
 | 67 | [Debo Hacerlo](https://open.spotify.com/track/0Vu6MvjQLu68rOkhhUqY7h) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Debo Hacerlo](https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG) | 9:39 |
-| 68 | [Buenos Días Señor Sol](https://open.spotify.com/track/4AMwNq3toJIDjeCLhnK8DL) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:42 |
-| 69 | [¿Dónde Andará?](https://open.spotify.com/track/1AO54sk6Y4GXGQtZqSaorl) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 1:44 |
+| 68 | [Te Quiero Tal Como Eres](https://open.spotify.com/track/5YmvD7VUaakAnlLUBBIz5W) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:19 |
+| 69 | [Buenos Días Señor Sol](https://open.spotify.com/track/4AMwNq3toJIDjeCLhnK8DL) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:42 |
 | 70 | [La Frontera](https://open.spotify.com/track/7HMBDmx3tDOzBpyUuaB24v) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:10 |
 | 71 | [Aunque Te Enamores](https://open.spotify.com/track/5hufQzFmqxdyp09BQAqZ5C) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:36 |
 | 72 | [Have You Ever Seen The Rain? \(Gracias Al Sol\)](https://open.spotify.com/track/1o42lyL3IxECjsj5hVryhZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Have You Ever Seen The Rain? \(Gracias Al Sol\)](https://open.spotify.com/album/3X2YDyu4CldfyNrq293rjT) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [El México Que Se Nos Fue](https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 4:37 |
 | 100 | [Me Basta \(with Leonel García\)](https://open.spotify.com/track/3OEIHCmRGzhcG3BI8ybSNm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:02 |
 
-Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDg0YmFlZDZiZmEzYTFkN2FhMTcyZDJkZTE0OTI3MDA5`
+Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMGE3NjIxZGQ1NjVlNWQzYzk0ODk0NTI4ZDZjYmZlOTYx`

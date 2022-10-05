@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Ganges & Natalia Lacunza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,278 likes - 107 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,410 likes - 107 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

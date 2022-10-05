@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,142 likes - 111 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,156 likes - 111 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 110 | [Tamashi Journey](https://open.spotify.com/track/3bB0KwVk8ZZi4qzGoWhJ3h) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Tamashi Journey](https://open.spotify.com/album/7oTeFssIU9rzERwXP3sBv7) | 3:05 |
 | 111 | [Brightest Blue](https://open.spotify.com/track/2e7bUVyj8XHkxQ3IKCyrMh) | [Leviticus Orion](https://open.spotify.com/artist/51fbzRiBO68g0TAVdw9B50) | [Brightest Blue](https://open.spotify.com/album/7d3sWCM4E49hHDmQUStSpC) | 3:38 |
 
-Snapshot ID: `MTY2NDU2MjY3NywwMDAwMDAwMDliNmUzMTAxZGNmZTIzNmViODAyOTdhOGZjM2RjY2Rk`
+Snapshot ID: `MTY2NDg4NzkzMywwMDAwMDAwMDg2MTUzMjdhOWVkNjRjOTNlYWFiNTlmN2FhYTNiNWJi`

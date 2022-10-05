@@ -5291,7 +5291,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -7523,7 +7523,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -8977,7 +8977,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 121972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
@@ -13459,7 +13459,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -14031,7 +14031,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -14473,6 +14473,24 @@
       "duration_ms": 215000,
       "name": "Tell The Vision (feat. Kanye West & Pusha T)",
       "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
+    },
+    {
+      "album": {
+        "name": "Ten, kur noriu",
+        "url": "https://open.spotify.com/album/604V9TFm95OEOj377WaTPq"
+      },
+      "artists": [
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Ten, kur noriu",
+      "url": "https://open.spotify.com/track/6WtxgI42kF4WbsVinpqNis"
     },
     {
       "album": {
@@ -15645,7 +15663,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -16099,7 +16117,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-525 songs - 1 day 22 hr 8 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+526 songs - 1 day 22 hr 12 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 | 2021-10-20 |  |
 | [City Of Red Sand](https://open.spotify.com/track/5pQI4osudR5207IiprBP7J) | [Marc Barreca](https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh) | [The Empty Bridge](https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6) | 6:43 | 2021-10-20 | 2022-07-29 |
 | [Closed \- Yosemite Version](https://open.spotify.com/track/0IL5bImk17ZoPquALK3yw1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/1pYLmFYO15uH1goGDy4xUn) | 3:52 | 2021-10-20 | 2022-07-29 |
+| [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 | 2021-10-20 |  |
 | [Club Nevermore](https://open.spotify.com/track/0zZrA8XWIMicKJKRs1i7Jj) | [HMOT](https://open.spotify.com/artist/1GebYQXIPHASwumbrmvZ3P), [Anastasia Tolchneva](https://open.spotify.com/artist/0yHdpGP80s4kxqvtCwoiaQ) | [Another Name — Original Motion Picture Soundtrack](https://open.spotify.com/album/09OZw4L2kK2nZxVYTsxoTh) | 3:30 | 2022-02-18 | 2022-07-29 |
-| [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 | 2022-02-12 |  |
+| [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 | 2022-02-12 | 2022-10-05 |
 | [Constant Reminder](https://open.spotify.com/track/2R1ie4gZr9VXwVQlqrdGNP) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99) | 1:30 | 2021-10-20 |  |
 | [Constanța Beach](https://open.spotify.com/track/6XYYjo5M4r7YWkX4DR8llF) | [Seigo Aoyama](https://open.spotify.com/artist/4DKcECb5dOEsS7BwgLqaIJ) | [On the Drift](https://open.spotify.com/album/0ADeF5WS7SQaGCFI6NfhW5) | 6:18 | 2021-10-20 | 2022-07-29 |
 | [Coral Riff](https://open.spotify.com/track/3WQZDj6ab8ZNlfyFU4usM2) | [New World Science](https://open.spotify.com/artist/2pCecYygcghZCEcTMB1k7N) | [New Atlantis Volume 1](https://open.spotify.com/album/3ath5Brm6aUk9je1dK0r1o) | 4:26 | 2021-10-20 | 2022-07-29 |
@@ -206,7 +207,7 @@
 | [Golden Cloud Layers](https://open.spotify.com/track/426vkEldQjsWIMCEx26Wee) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/4nsIXN8ladhBrdhXHeye51) | 6:36 | 2021-10-20 |  |
 | [Golden Cloud Layers](https://open.spotify.com/track/46doTykO7orQMvEZg58BCE) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 6:36 | 2021-10-20 | 2022-07-29 |
 | [Golden Hour](https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS), [Simonel](https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR) | [Endlessness](https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE) | 3:19 | 2022-02-15 | 2022-07-29 |
-| [Hanging](https://open.spotify.com/track/3KU48Ql9NwukpId8CB8b3J) | [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Engel \(Music for a performance by Marta & Kim\)](https://open.spotify.com/album/1mrEJ2hYecPEp7069x2Twf) | 4:21 | 2021-10-20 |  |
+| [Hanging](https://open.spotify.com/track/3KU48Ql9NwukpId8CB8b3J) | [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Engel \(Music for a performance by Marta & Kim\)](https://open.spotify.com/album/1mrEJ2hYecPEp7069x2Twf) | 4:21 | 2021-10-20 | 2022-10-05 |
 | [Hazy Nights](https://open.spotify.com/track/12nPAUoN3TmC8ydRG4yypK) | [Microscopic](https://open.spotify.com/artist/2xXIHNn7fZnP4Rc9D518Zz) | [Nocturne Pt\. 1](https://open.spotify.com/album/35Nw4hLWQ8du8PjtTlrXc7) | 3:29 | 2021-10-20 | 2022-07-28 |
 | [Helix III](https://open.spotify.com/track/2ugkOqnCOO6BP9QNuByP5E) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Helix III](https://open.spotify.com/album/2kgcls5vngbYQIQZdusBIe) | 5:22 | 2021-10-20 | 2022-07-26 |
 | [Helix Nebula](https://open.spotify.com/track/604PudOrpJqx6kGDqjR4Ek) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 2:25 | 2022-01-13 |  |
@@ -384,7 +385,7 @@
 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 | 2021-10-20 |  |
 | [Sequenza](https://open.spotify.com/track/6jDj0HDUVYnM4USdMc3uMZ) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 9:56 | 2021-10-20 | 2022-07-29 |
 | [Seti](https://open.spotify.com/track/5UtM8BN4TW6DtZzaF9G3UF) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Music For Adverts \(And Short Films\)](https://open.spotify.com/album/6wEKsOnGwXOOlotDoAakIX) | 1:03 | 2021-10-20 | 2022-05-24 |
-| [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-20 | 2022-09-26 |
+| [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-20 |  |
 | [Shifting Waveforms](https://open.spotify.com/track/5AQBGyLSAo7WDcminnWzd7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Shifting Waveforms](https://open.spotify.com/album/4g5jCuB4W9PgM079v3scP5) | 3:45 | 2021-10-20 | 2022-07-29 |
 | [Shortwave](https://open.spotify.com/track/2hqhIH3UeFZ4Sa2eDpbEMw) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There's a Riot Going On](https://open.spotify.com/album/32XGOlFpD3mpyLXQfyKXvJ) | 5:44 | 2021-10-20 | 2022-07-29 |
 | [Silence](https://open.spotify.com/track/1WWe3wNH9u2Z5Hg5GbEQ9A) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/1La939vqONBIqsOFnsUmOr) | 3:00 | 2021-10-20 |  |

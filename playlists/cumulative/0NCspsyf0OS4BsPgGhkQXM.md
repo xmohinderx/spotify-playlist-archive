@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-489 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+490 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [La Guitarra](https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Tyraz](https://open.spotify.com/artist/6nRbicEmpaqL0wjlbJBPAf) | [La Guitarra](https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L) | 2:49 | 2022-09-23 |  |
 | [La Roja](https://open.spotify.com/track/5Z4AwksmCkLy1lXvImsrD6) | [Bermejo](https://open.spotify.com/artist/77EeJ27sPERKmROTxvllYo) | [La Roja](https://open.spotify.com/album/2Sb7mfJqe90ThixT2XXTpm) | 2:22 | 2022-03-04 | 2022-04-02 |
 | [last breath](https://open.spotify.com/track/7iJKUX0fbC5pxobb2xnzRQ) | [mark veins](https://open.spotify.com/artist/5Rt7OtfJpjne2jW8qy9Kcz), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [last breath](https://open.spotify.com/album/2lVM7gDVXcG2l5LOB1hyob) | 2:44 | 2022-01-17 | 2022-02-10 |
+| [Latch](https://open.spotify.com/track/1Vdr2iJBEcfmAKa8RXEFux) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ), [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Latch](https://open.spotify.com/album/5xBztmX0iNuO0hIzvMMUkR) | 3:06 | 2022-10-04 |  |
 | [Legacy](https://open.spotify.com/track/2b6AXid4XwQYI8019Rk5je) | [LBLVNC](https://open.spotify.com/artist/7vAi1lm9yxFrqh15TrhxcH), [Trias](https://open.spotify.com/artist/1N21tqenVOnzbRhdvw5bGH), [Rachel Leycroft](https://open.spotify.com/artist/6C6qqlV7VNMEN2jIwYJcNM) | [Legacy](https://open.spotify.com/album/27077ta44Jm7MkvWoWeHYo) | 3:05 | 2022-06-24 | 2022-07-29 |
 | [Legacy](https://open.spotify.com/track/4qAy3U09K72W2lIiqA5aCy) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:22 | 2022-02-18 | 2022-07-29 |
 | [Legacy \- Mazare Remix](https://open.spotify.com/track/4hk26xhwCDy09hxv5Pt60Y) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 4:02 | 2022-07-29 | 2022-09-10 |

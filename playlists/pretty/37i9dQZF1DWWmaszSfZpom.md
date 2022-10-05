@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,535 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,544 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 45 | [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 |
 | 46 | [Cheia de Marra](https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4) | 4:27 |
 | 47 | [Baile de Favela](https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Mc João](https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo) | 2:50 |
-| 48 | [MANO DO AK](https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [MC Reis](https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO) | [MANO DO AK](https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1) | 3:04 |
-| 49 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
+| 48 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
+| 49 | [MANO DO AK](https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [MC Reis](https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO) | [MANO DO AK](https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1) | 3:04 |
 | 50 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
 | 51 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 | 52 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 73 | [Para não](https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Para não](https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf) | 2:44 |
 | 74 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/3PkzH3nruSQEb164tyPPJT) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 |
 
-Snapshot ID: `MTY2MDc1NDcxMSwwMDAwMDAwMDU0MGM5OGExYzczYzdlYzc3ZDI3MGUxMWZiZjA3NDk2`
+Snapshot ID: `MTY2MDc1NDcxMSwwMDAwMDAwMDZiNTJiNzA1YmI4N2EwMjg2OTE5MTY1MzA2YTFlNWU1`

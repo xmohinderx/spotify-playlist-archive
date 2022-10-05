@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-106 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+107 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Morning Has Broken](https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Everybody Loves Angels](https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm) | 5:20 | 2022-09-13 |  |
 | [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 | 2022-09-13 |  |
 | [Mr\. Tambourine Man](https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Who Used To Dance](https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0) | 6:53 | 2022-09-13 |  |
-| [Mrs\. Robinson](https://open.spotify.com/track/5Eh00DCKRf5t8HAl84oNAl) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:40 | 2022-09-13 |  |
+| [Mrs\. Robinson](https://open.spotify.com/track/5Eh00DCKRf5t8HAl84oNAl) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:40 | 2022-09-13 | 2022-10-05 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/3R3qPpiWfYbSqwgS7A8Ypy) | [Jimmy Scott](https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo) | [Pedro Almodóvar \- Viva La Tristeza!](https://open.spotify.com/album/0BCoKgFUJxca69dLVXsRpH) | 6:18 | 2022-09-13 |  |
 | [Only Love Can Break Your Heart \- Live](https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Only Love Can Break Your Heart](https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk) | 6:04 | 2022-09-13 |  |
 | [Optimistic](https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C) | [Max Haymer](https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP) | [Optimistic](https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf) | 6:09 | 2022-09-13 |  |
@@ -93,6 +93,7 @@
 | [Rolling in the Deep](https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Rolling in the Deep](https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ) | 3:43 | 2022-09-13 |  |
 | [Say You'll Be There](https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk) | [LIVING ROOM 2](https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy) | 3:37 | 2022-09-13 |  |
 | [She's Always a Woman](https://open.spotify.com/track/2mLjXYU12qbQRrMcxUhhse) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope) | [4 Wheel Drive](https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2) | 5:42 | 2022-09-13 |  |
+| [She's Always A Woman](https://open.spotify.com/track/4ql11Y7pZAgUW25dbJqFED) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 4:00 | 2022-09-27 |  |
 | [She's Leaving Home](https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 5:56 | 2022-09-13 |  |
 | [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 | 2022-09-27 |  |
 | [Steer Your Way \(feat\. Norah Jones\)](https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Steer Your Way](https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm) | 4:48 | 2022-09-13 |  |

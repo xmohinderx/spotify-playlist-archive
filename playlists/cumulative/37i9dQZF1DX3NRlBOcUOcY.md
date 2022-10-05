@@ -4,7 +4,7 @@
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-197 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/65W7noKWJz6wRjaNS6ZonA)
+198 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/65W7noKWJz6wRjaNS6ZonA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 | 2021-12-16 | 2022-05-28 |
 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 | 2021-12-16 | 2022-05-28 |
 | [CHASING THE SUN](https://open.spotify.com/track/4ld5JAPiiU0O4smQ0j4pAd) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:31 | 2021-12-16 |  |
-| [Chi Chi](https://open.spotify.com/track/5stSMLMtouTWgBS1yivBJm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:30 | 2022-09-23 |  |
+| [Chi Chi](https://open.spotify.com/track/5stSMLMtouTWgBS1yivBJm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:30 | 2022-09-23 | 2022-10-05 |
+| [Chi Chi](https://open.spotify.com/track/6t8JfhZG9HV4mSI1FbVWff) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:30 | 2022-09-23 |  |
 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 | 2022-09-23 |  |
 | [CINCO](https://open.spotify.com/track/4rogcVulmlEmSi08u3VWc8) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [5](https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw) | 3:27 | 2022-04-02 | 2022-04-16 |
 | [Cinderella](https://open.spotify.com/track/360cQNnbD332V4eO8GOHvA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Cinderella](https://open.spotify.com/album/3cu712semvh7WetMZ3h7d1) | 2:36 | 2022-01-22 | 2022-09-16 |

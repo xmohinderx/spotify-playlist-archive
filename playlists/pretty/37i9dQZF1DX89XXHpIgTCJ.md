@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover:  JAY\-Z & Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,172 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,410 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 32 | [Anxiety](https://open.spotify.com/track/716wcEhWeq3N1Id3L9mp6f) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:38 |
 | 33 | [Bring Tha Noize](https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd), [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Apocalypse 91… The Enemy Strikes Black](https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo) | 3:47 |
 | 34 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
-| 35 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
-| 36 | [Let's Go](https://open.spotify.com/track/0vJ3WZ0Q6AdntTxQ384JQN) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Give The Drummer Some \(Deluxe\)](https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes) | 3:13 |
+| 35 | [Let's Go](https://open.spotify.com/track/0vJ3WZ0Q6AdntTxQ384JQN) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Give The Drummer Some \(Deluxe\)](https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes) | 3:13 |
+| 36 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
 | 37 | [Nobody's Listening](https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:58 |
 | 38 | [The Mighty Fall](https://open.spotify.com/track/4rNOFJdwQq0ulVDKOF447L) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:32 |
 | 39 | [Gangsta's Paradise](https://open.spotify.com/track/5zXln9RP9AYK3eva2Lkj8w) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 49 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 | 50 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 
-Snapshot ID: `MTY2NDE5MzQ4NiwwMDAwMDAwMDY3YzQ3NDdmOTEzZjBjNjhiYmQ1NGM2NzQ5MDBmMDE2`
+Snapshot ID: `MTY2NDE5MzQ4NiwwMDAwMDAwMGExMTA1MTZhZWUxNTI1YzdhMWY3OTA1OGU5NzZjNzA1`

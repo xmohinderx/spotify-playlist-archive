@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,496 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,520 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 42 | [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 |
 | 43 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
 | 44 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 |
-| 45 | [Have Yourself A Merry Little Christmas \- Fireplace](https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4) | [Scott Leonard Jazz Band](https://open.spotify.com/artist/3soQqRQIgqqYLTR62pZ8mK) | [Jazz Christmas Songs By The Fire](https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg) | 3:21 |
-| 46 | [My Christmas Night](https://open.spotify.com/track/49LTYbjanIrYyKgUKA2s5R) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 4:08 |
+| 45 | [My Christmas Night](https://open.spotify.com/track/49LTYbjanIrYyKgUKA2s5R) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 4:08 |
+| 46 | [Have Yourself A Merry Little Christmas \- Fireplace](https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4) | [Scott Leonard Jazz Band](https://open.spotify.com/artist/3soQqRQIgqqYLTR62pZ8mK) | [Jazz Christmas Songs By The Fire](https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg) | 3:21 |
 | 47 | [The Christmas Song](https://open.spotify.com/track/6mIzy7czAJV2sEYA1H7ws3) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:41 |
 | 48 | [O Lettle Town Of Bethlehem](https://open.spotify.com/track/38YcOVBqCbMZej01gurFFz) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 4:49 |
 | 49 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 |
 | 50 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7DESENONjlQosUbxToDKOy) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:06 |
 
-Snapshot ID: `MTYzOTExMjQ2MCwwMDAwMDAwMDA2NjgwMmNmNDYzZDg0YjY1NTk5ZWNiZGEwNTFkOTYz`
+Snapshot ID: `MTYzOTExMjQ2MCwwMDAwMDAwMGQ4YzNkODU4N2JhNWFjMzg2Y2EyNmRmM2Y3ZjY0MzQ2`

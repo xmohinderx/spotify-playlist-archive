@@ -1,12 +1,12 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 26603,
+  "num_followers": 26609,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEwMzYzNiwwMDAwMDAwMDZjOGI4NDEwY2MyOThiZmQ1YzlhNWEwYjBkMWVlMTgw",
+  "snapshot_id": "MTYxMzEwMzYzNiwwMDAwMDAwMDVhZmM1MmRlNmYzZTE4YTM4NTA2OTAxYjExZmRkNjBj",
   "tracks": [
     {
       "added_at": "2020-12-04 02:43:20",
@@ -403,6 +403,22 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
+        "name": "Bangs & Works, Vol.1: A Chicago Footwork Compilation",
+        "url": "https://open.spotify.com/album/1P8EYmCJmjYhtMhR2H3h4m"
+      },
+      "artists": [
+        {
+          "name": "DJ Trouble",
+          "url": "https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Bangs & Works",
+      "url": "https://open.spotify.com/track/4CQSClkhQi4zrNMKEzHxQ2"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
         "name": "Relationships",
         "url": "https://open.spotify.com/album/0PuR1XbAkXUSEI9yGNHeaX"
       },
@@ -431,34 +447,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Bangs & Works, Vol.1: A Chicago Footwork Compilation",
-        "url": "https://open.spotify.com/album/1P8EYmCJmjYhtMhR2H3h4m"
+        "name": "Players, Ballers, Rollers",
+        "url": "https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1"
       },
       "artists": [
         {
-          "name": "DJ Trouble",
-          "url": "https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy"
+          "name": "Starski and Clutch",
+          "url": "https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Bangs & Works",
-      "url": "https://open.spotify.com/track/4CQSClkhQi4zrNMKEzHxQ2"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
+      "duration_ms": 145426,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -479,38 +479,34 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Players, Ballers, Rollers",
-        "url": "https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1"
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
       },
       "artists": [
         {
-          "name": "Starski and Clutch",
-          "url": "https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe"
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
         }
       ],
-      "duration_ms": 145426,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo"
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Slanted",
-        "url": "https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA"
+        "name": "Baaaaaa (Taken from Bass + Funk & Soul)",
+        "url": "https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO"
       },
       "artists": [
         {
-          "name": "Tim Parker",
-          "url": "https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI"
-        },
-        {
-          "name": "BSN Posse",
-          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Slanted - BSN Posse Remix",
-      "url": "https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA"
+      "duration_ms": 150000,
+      "name": "Baaaaaa - Taken from Bass + Funk & Soul",
+      "url": "https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -539,34 +535,38 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Baaaaaa (Taken from Bass + Funk & Soul)",
-        "url": "https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO"
+        "name": "Slanted",
+        "url": "https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA"
       },
       "artists": [
         {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+          "name": "Tim Parker",
+          "url": "https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI"
+        },
+        {
+          "name": "BSN Posse",
+          "url": "https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Baaaaaa - Taken from Bass + Funk & Soul",
-      "url": "https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb"
+      "duration_ms": 226000,
+      "name": "Slanted - BSN Posse Remix",
+      "url": "https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA"
     },
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "High On Clouds",
-        "url": "https://open.spotify.com/album/3ackwT9BASzdzkoTgqBS67"
+        "name": "Aspects",
+        "url": "https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC"
       },
       "artists": [
         {
-          "name": "Nangdo",
-          "url": "https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi"
+          "name": "bastienGOAT",
+          "url": "https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B"
         }
       ],
-      "duration_ms": 194541,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL"
+      "duration_ms": 108000,
+      "name": "Imma Dog",
+      "url": "https://open.spotify.com/track/524AOf3Zmp93608e38RukD"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -587,22 +587,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "BS6",
-        "url": "https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF"
+        "name": "High On Clouds",
+        "url": "https://open.spotify.com/album/3ackwT9BASzdzkoTgqBS67"
       },
       "artists": [
         {
-          "name": "Hyroglifics",
-          "url": "https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0"
-        },
-        {
-          "name": "Sinistarr",
-          "url": "https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe"
+          "name": "Nangdo",
+          "url": "https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi"
         }
       ],
-      "duration_ms": 225460,
-      "name": "BS6",
-      "url": "https://open.spotify.com/track/6TvNg91oTRyHX6zN676dK5"
+      "duration_ms": 194541,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -623,18 +619,22 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Aspects",
-        "url": "https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC"
+        "name": "BS6",
+        "url": "https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF"
       },
       "artists": [
         {
-          "name": "bastienGOAT",
-          "url": "https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B"
+          "name": "Hyroglifics",
+          "url": "https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0"
+        },
+        {
+          "name": "Sinistarr",
+          "url": "https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe"
         }
       ],
-      "duration_ms": 108000,
-      "name": "Imma Dog",
-      "url": "https://open.spotify.com/track/524AOf3Zmp93608e38RukD"
+      "duration_ms": 225460,
+      "name": "BS6",
+      "url": "https://open.spotify.com/track/6TvNg91oTRyHX6zN676dK5"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Footwork Frenzy Ep",
-        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
-      },
-      "artists": [
-        {
-          "name": "DJ Chap",
-          "url": "https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA"
-        }
-      ],
-      "duration_ms": 283735,
-      "name": "1luv",
-      "url": "https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Rituals EP",
         "url": "https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 316023,
       "name": "Burnin Shoes",
       "url": "https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Footwork Frenzy Ep",
+        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
+      },
+      "artists": [
+        {
+          "name": "DJ Chap",
+          "url": "https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA"
+        }
+      ],
+      "duration_ms": 283735,
+      "name": "1luv",
+      "url": "https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Kush, Rhodes & 808's",
-        "url": "https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV"
-      },
-      "artists": [
-        {
-          "name": "Stayhigh",
-          "url": "https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Keep the Drug$",
-      "url": "https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "WFM",
         "url": "https://open.spotify.com/album/7jlA2sFirrhCJamcIvaEmy"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 183480,
       "name": "WFM",
       "url": "https://open.spotify.com/track/4V7vv7lvro6yMyJZm9Z96F"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Kush, Rhodes & 808's",
+        "url": "https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV"
+      },
+      "artists": [
+        {
+          "name": "Stayhigh",
+          "url": "https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Keep the Drug$",
+      "url": "https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -951,6 +951,22 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
+        "name": "Trackaholic Vol. 1",
+        "url": "https://open.spotify.com/album/7bAIZawtVru3VktuJQap9O"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/6bCNGjPmshojCDkWCmIJeL"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
         "name": "Street Bangers Factory 04",
         "url": "https://open.spotify.com/album/5tnvRpXyVXxWYjNjxIwe4d"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Trackaholic Vol. 1",
-        "url": "https://open.spotify.com/album/7bAIZawtVru3VktuJQap9O"
+        "name": "Juke Pack Vol.1",
+        "url": "https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C"
       },
       "artists": [
         {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+          "name": "EQ Why",
+          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
         }
       ],
-      "duration_ms": 229013,
-      "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/6bCNGjPmshojCDkWCmIJeL"
+      "duration_ms": 168000,
+      "name": "Juke It Up",
+      "url": "https://open.spotify.com/track/31z2au3mgJYzC6SK5rgPh8"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -999,18 +1015,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Juke Pack Vol.1",
-        "url": "https://open.spotify.com/album/57aIkTNeK5ygccVD4oLf2C"
+        "name": "Transgenre",
+        "url": "https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO"
       },
       "artists": [
         {
-          "name": "EQ Why",
-          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
+          "name": "Aylu",
+          "url": "https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Juke It Up",
-      "url": "https://open.spotify.com/track/31z2au3mgJYzC6SK5rgPh8"
+      "duration_ms": 138232,
+      "name": "Miau",
+      "url": "https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01"
     },
     {
       "added_at": "2020-12-11 05:59:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 150375,
       "name": "HNADFUL OF SAND",
       "url": "https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "Transgenre",
-        "url": "https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO"
-      },
-      "artists": [
-        {
-          "name": "Aylu",
-          "url": "https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG"
-        }
-      ],
-      "duration_ms": 138232,
-      "name": "Miau",
-      "url": "https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Next Life",
-        "url": "https://open.spotify.com/album/4OHkkpoQEnCCEYZSbTlvTz"
-      },
-      "artists": [
-        {
-          "name": "Heavee",
-          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
-        }
-      ],
-      "duration_ms": 277348,
-      "name": "8 Bit Shit",
-      "url": "https://open.spotify.com/track/6vTqDEfTinb4a92DNpGgcr"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Druguse",
         "url": "https://open.spotify.com/album/6ljZyft0E5HL6eldfdVivk"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 208530,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/4OHkkpoQEnCCEYZSbTlvTz"
+      },
+      "artists": [
+        {
+          "name": "Heavee",
+          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
+        }
+      ],
+      "duration_ms": 277348,
+      "name": "8 Bit Shit",
+      "url": "https://open.spotify.com/track/6vTqDEfTinb4a92DNpGgcr"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -1320,8 +1320,8 @@
       },
       "artists": [
         {
-          "name": "DJ T-Why",
-          "url": "https://open.spotify.com/artist/52nwgb3EZSQrv9Q6MltYye"
+          "name": "EQ Why",
+          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
         }
       ],
       "duration_ms": 157786,

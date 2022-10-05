@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-387 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+388 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Baby](https://open.spotify.com/track/2TUdxbIF3rpY887d8m0ZGV) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Mature Themes](https://open.spotify.com/album/2TIa83EYZBDWfmEj6VVoWu) | 4:47 | 2020-12-21 | 2022-04-19 |
 | [Below](https://open.spotify.com/track/4YPmXZt65zFz5oVWuwFMW8) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Below](https://open.spotify.com/album/1OC1nAvU5jJdqwidm5AS7z) | 3:35 | 2022-05-09 | 2022-10-04 |
 | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX) | 2:35 | 2021-06-25 | 2022-07-21 |
-| [Between All Things](https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL) | [OHMA](https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx) | [Between All Things](https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX) | 5:18 | 2022-09-20 |  |
+| [Between All Things](https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL) | [OHMA](https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx) | [Between All Things](https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX) | 5:18 | 2022-09-20 | 2022-10-05 |
 | [Birthday](https://open.spotify.com/track/5w5jFcI6l3Bprp6x4RVCuc) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer](https://open.spotify.com/album/4W0GjlWkF5lLRiw6hF9UU8) | 3:47 | 2020-12-21 | 2022-04-11 |
 | [Black Car](https://open.spotify.com/track/3pvmkjuacq6719H5su9ixl) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:11 | 2020-12-21 | 2022-04-16 |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-12-21 |  |
@@ -116,7 +116,7 @@
 | [Entertainment](https://open.spotify.com/track/79MrOt6tKb3kZWIGepEiEs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Entertainment](https://open.spotify.com/album/6DWYESpPLyWZ83h9DJ2Vva) | 1:53 | 2020-12-21 | 2022-07-02 |
 | [Eternally 12](https://open.spotify.com/track/6mEP1cofyVXsJ9oDAeaRIt) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Eternally 12](https://open.spotify.com/album/1cQ9w7Zzb53KdTyuswFh02) | 4:01 | 2020-12-21 | 2022-04-21 |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2020-12-21 | 2022-07-21 |
-| [Euphoria \(feat\. Instupendo\)](https://open.spotify.com/track/61tqM0XiMGnKayktVzrhJp) | [Cedric Madden](https://open.spotify.com/artist/2ngMI7KbUaMxWwSSM9sMPP), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Euphoria \(feat\. Instupendo\)](https://open.spotify.com/album/6eF8DpVcPMWCCU3Dcx7azj) | 3:15 | 2022-10-04 |  |
+| [Euphoria \(feat\. Instupendo\)](https://open.spotify.com/track/61tqM0XiMGnKayktVzrhJp) | [Cedric Madden](https://open.spotify.com/artist/2ngMI7KbUaMxWwSSM9sMPP), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Euphoria \(feat\. Instupendo\)](https://open.spotify.com/album/6eF8DpVcPMWCCU3Dcx7azj) | 3:15 | 2022-10-03 |  |
 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 | 2022-07-12 |  |
 | [Everything's Fine](https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:52 | 2021-05-01 | 2022-07-29 |
 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 | 2022-07-12 | 2022-07-28 |
@@ -283,6 +283,7 @@
 | [Puddles](https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Puddles](https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM) | 1:49 | 2020-12-21 |  |
 | [Quantum Physics](https://open.spotify.com/track/4y9OmPdcd9qSECK7Daz588) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:38 | 2022-07-22 |  |
 | [Quantum Physics](https://open.spotify.com/track/5mI7nxjalLOnhoqeHLOSOX) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Quantum Physics](https://open.spotify.com/album/4rRem8BYu1grDC7PMrlZ62) | 2:38 | 2020-12-21 | 2022-07-29 |
+| [rest](https://open.spotify.com/track/7jVIHU3PXfJOmMltbH6lGM) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rest](https://open.spotify.com/album/4FjESddwuVDtpbQGYVwxOV) | 2:26 | 2022-10-04 |  |
 | [Rivers](https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Rivers](https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc) | 3:56 | 2022-07-22 |  |
 | [RUBBER BANDS](https://open.spotify.com/track/4Ui0mQgS3pDEjFXmDnBo24) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [RUBBER BANDS](https://open.spotify.com/album/4zqb97nYx9h7x9hO307476) | 2:51 | 2021-06-25 | 2022-05-25 |
 | [Running](https://open.spotify.com/track/5egX7vLsvKQM1MrulgPUsC) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Running](https://open.spotify.com/album/26OnVDCUwFMb8ilHdYDpM7) | 4:24 | 2020-12-21 | 2022-04-18 |

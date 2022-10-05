@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -4133,7 +4133,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
@@ -6745,6 +6745,24 @@
       "duration_ms": 187888,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
+    },
+    {
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272440,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F"
     },
     {
       "album": {
@@ -12953,7 +12971,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 143493,
       "name": "\u041e\u0439 \u043d\u0430 \u043e\u0439",
       "url": "https://open.spotify.com/track/73HVRUpTeY48oFcc1RMfVs"

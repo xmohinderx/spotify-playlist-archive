@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? Cover: CRAVITY\(크래비티\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-383 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/1rQmqTB8OYYXGSYSv738KR)
+386 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/1rQmqTB8OYYXGSYSv738KR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Feelin' Like](https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [IN:VITE U](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) | 2:47 | 2022-01-27 | 2022-07-28 |
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2021-12-08 |  |
 | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/track/1F9FQp9dnnQWTkaK6Nzm1W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/album/6MYKofPnqIdjfznGSopzCi) | 3:20 | 2021-12-08 | 2022-07-15 |
-| [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2021-12-08 |  |
+| [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2021-12-08 | 2022-10-05 |
 | [FLASH](https://open.spotify.com/track/1q3C6brbmRrULTyo2mseKF) | [X1](https://open.spotify.com/artist/6C4irZ60X8G7UimMRQiCcg) | [QUANTUM LEAP](https://open.spotify.com/album/09sGMSeeP4bZQOCTpgKGX8) | 3:31 | 2021-12-08 | 2022-07-23 |
 | [FLEX](https://open.spotify.com/track/3p0YrVoaMqcu2gn1lIgnWF) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 3](https://open.spotify.com/album/5EYvdnybFnDjM7HlOASNCZ) | 3:41 | 2022-01-27 | 2022-04-18 |
 | [FOCUS ON ME](https://open.spotify.com/track/1JQPZKIXKU3wdOSjk2ILgM) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:36 | 2022-03-22 | 2022-04-19 |
@@ -163,9 +163,10 @@
 | [Goosebumps](https://open.spotify.com/track/2pePK7PBUDcnmjhrNk26Gp) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [6TH MINI ALBUM \[Goosebumps\]](https://open.spotify.com/album/3vVDoPJZvuNXuyiyKRnUsV) | 3:05 | 2022-03-22 | 2022-04-16 |
 | [Gravity](https://open.spotify.com/track/4HgkahWUngIceLYNV1djsr) | [TREI](https://open.spotify.com/artist/2olRUnJBxMWrHpShDSwYoe) | [BORN](https://open.spotify.com/album/4yFUqAksHb5fEogC57WDxP) | 3:12 | 2022-03-31 | 2022-04-10 |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 |  |
-| [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-08 |  |
+| [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-08 | 2022-10-05 |
 | [Hard Carry](https://open.spotify.com/track/2HZRtkGlLqXnwNcjNsgp9b) | [TOO](https://open.spotify.com/artist/3a0xHIHQPhhzgSOJzgB2Rz) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:47 | 2022-03-22 | 2022-04-19 |
 | [Hellevator](https://open.spotify.com/track/67LJNZyfDA1uaPCtlpyuKN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape](https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4) | 4:00 | 2021-12-08 | 2022-07-28 |
+| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-05 |  |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-08 |  |
 | [Help Me](https://open.spotify.com/track/50WdPcO8BwSG3yqWnKNBaZ) | [Block B \- BASTARZ](https://open.spotify.com/artist/70ptvBQye3QMlbuTKrF1qb) | [I'm a mess.](https://open.spotify.com/album/5BA4WQunvYgNb3VLaziamV) | 3:04 | 2022-04-04 | 2022-04-19 |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2022-04-12 | 2022-04-18 |
@@ -289,7 +290,7 @@
 | [RE=LOAD](https://open.spotify.com/track/7xbF0zvvjJ4oT4HvcYi85k) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEGUN](https://open.spotify.com/album/0uF2qZ5B62L4ZlfLkAXhd1) | 3:18 | 2022-04-15 | 2022-05-12 |
 | [REALLY REALLY](https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb) | 3:23 | 2021-12-08 | 2022-07-29 |
 | [REALLY REALLY](https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) | 3:23 | 2022-07-27 |  |
-| [RED](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) | 2:56 | 2022-09-05 |  |
+| [RED](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) | 2:56 | 2022-09-05 | 2022-10-05 |
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2021-12-08 | 2022-07-29 |
 | [Red Light, Green Light](https://open.spotify.com/track/4xgBVNYwDQNhtpeyxQWP8s) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Red Light, Green Light](https://open.spotify.com/album/7AOjftp6myCoxMR7pnoGLB) | 3:23 | 2022-03-11 | 2022-04-15 |
 | [Regulus](https://open.spotify.com/track/299CpDyNkUS3aFAZCr0c9A) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [2/4](https://open.spotify.com/album/55ucpTq6CWc40dJakIPajP) | 3:42 | 2022-01-27 | 2022-07-17 |
@@ -331,9 +332,11 @@
 | [Starry Night \(prod\. dress\)](https://open.spotify.com/track/2skhJRyeMP1EefyjTYwQmA) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Starry Night \(prod\. dress\)](https://open.spotify.com/album/5LveI3wQQYc6XddckFhFzN) | 3:07 | 2022-03-22 | 2022-07-18 |
 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 | 2022-04-04 | 2022-04-13 |
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-12-08 | 2022-06-27 |
+| [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-04 |  |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-04 |  |
 | [Still Loving You](https://open.spotify.com/track/4JvJw1ZMpmCnv6RjPUM1GT) | [100%](https://open.spotify.com/artist/3fkFO5lmipe654caBLBD6n) | [RE:tro](https://open.spotify.com/album/2N5nMmoKGeFwXB3mKBrHKT) | 3:00 | 2022-03-16 | 2022-07-29 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-05 |
+| [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 |  |
 | [SUPER Clap](https://open.spotify.com/track/52ubrjNeYr0bJNuYGmxfpV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Time\_Slip \- The 9th Album](https://open.spotify.com/album/7jKVdT1syYOuRRWcjo50og) | 3:29 | 2022-03-31 | 2022-04-18 |
 | [Superhuman](https://open.spotify.com/track/0TU7xhMfZbI1okpLyHptFV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:57 | 2022-03-11 | 2022-04-15 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-07-04 | 2022-07-08 |

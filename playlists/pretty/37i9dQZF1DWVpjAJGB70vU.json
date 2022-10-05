@@ -1,12 +1,12 @@
 {
   "description": "Country that made country cool! Cover: Vince Gill",
-  "num_followers": 1358558,
+  "num_followers": 1359405,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3MDg5MywwMDAwMDAwMDg2YmJiOWI2NjgzN2I2YTY0YWFlMzViNzE1NGE1MWE4",
+  "snapshot_id": "MTY2MTk3MDg5MywwMDAwMDAwMDNmNTcyYzQyNzgzOWQ0YTJmMzM5ODY1NjdjNGIwOTc5",
   "tracks": [
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
-      },
-      "artists": [
-        {
-          "name": "Ricochet",
-          "url": "https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Daddy's Money",
-      "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "No Ordinary Man",
         "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 247626,
       "name": "The Keeper Of The Stars",
       "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
+      },
+      "artists": [
+        {
+          "name": "Ricochet",
+          "url": "https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Daddy's Money",
+      "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Terri Clark",
-        "url": "https://open.spotify.com/album/2uxYbAeebAr68avY0b9vv0"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
       },
       "artists": [
         {
-          "name": "Terri Clark",
-          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 188133,
-      "name": "Better Things To Do",
-      "url": "https://open.spotify.com/track/29V94tQgMoSJjbzuTliPj6"
+      "duration_ms": 260493,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+        "name": "Terri Clark",
+        "url": "https://open.spotify.com/album/2uxYbAeebAr68avY0b9vv0"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Terri Clark",
+          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
         }
       ],
-      "duration_ms": 260493,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
+      "duration_ms": 188133,
+      "name": "Better Things To Do",
+      "url": "https://open.spotify.com/track/29V94tQgMoSJjbzuTliPj6"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Love Can Build A Bridge",
-        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 321373,
-      "name": "Love Can Build A Bridge",
-      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 182306,
       "name": "Drink, Swear, Steal & Lie",
       "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Love Can Build A Bridge",
+        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 321373,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Something In Red",
-        "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
-      },
-      "artists": [
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Except for Monday",
-      "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 184840,
       "name": "Brother Jukebox",
       "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Something In Red",
+        "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
+      },
+      "artists": [
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Except for Monday",
+      "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "When Fallen Angels Fly",
-        "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
-      },
-      "artists": [
-        {
-          "name": "Patty Loveless",
-          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "I Try to Think About Elvis",
-      "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 210866,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "When Fallen Angels Fly",
+        "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
+      },
+      "artists": [
+        {
+          "name": "Patty Loveless",
+          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "I Try to Think About Elvis",
+      "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Homeward Looking Angel",
-        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Shake The Sugar Tree",
-      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Whatcha Gonna Do With A Cowboy",
         "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 155000,
       "name": "Whatcha Gonna Do With A Cowboy",
       "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Homeward Looking Angel",
+        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Shake The Sugar Tree",
+      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "What Do I Do With Me",
-        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Down To My Last Teardrop",
-      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Young Man",
         "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 214466,
       "name": "Only Here For A Little While",
       "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "What Do I Do With Me",
+        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Down To My Last Teardrop",
+      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
     },
     {
       "added_at": "2022-08-31 18:34:53",

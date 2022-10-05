@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,440 likes - 50 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,466 likes - 50 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 28 | [Anacaona \- Live](https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 7:15 |
 | 29 | [Sueño Contigo \- En Vivo](https://open.spotify.com/track/5BrPoD09caqS2vjKc8TNgQ) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Íntimamente Salsero \(En Vivo\)](https://open.spotify.com/album/1gRHLe75BJK2tqAbaSL30w) | 4:58 |
 | 30 | [Vivir Sin Ella \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 8:37 |
-| 31 | [Juanito Alimaña \- Live](https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:42 |
-| 32 | [A Pesar del Tiempo \- Live](https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Mickey Taveras \(Live\)](https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC) | 4:56 |
+| 31 | [A Pesar del Tiempo \- Live](https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Mickey Taveras \(Live\)](https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC) | 4:56 |
+| 32 | [Juanito Alimaña \- Live](https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:42 |
 | 33 | [Valió La Pena \(feat\. Jose Alberto "El Canario", Cheo Feliciano, Andy Montañez & Nora\) \- Live Version](https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Nora](https://open.spotify.com/artist/2pH0QIWh7UyhPZHit7eCQG) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 34 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
 | 35 | [Me Gusta El Son \- Live](https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 8:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
 | 50 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDRkNDVkOTVhNzNiYmY0Y2U3M2U1MDcyMDEzOWZhMGYy`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDBiODBkNjM1NzA2MDliYzdlZmQ4ZmM3ZGUxMDkxZTVj`

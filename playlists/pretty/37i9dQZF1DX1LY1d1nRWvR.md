@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,434 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,443 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,18 +28,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 18 | [Leaves](https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97), [Justin Carter](https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x) | [To the Disco '77 \(Live Rework\)](https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2) | 9:54 |
 | 19 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 |
 | 20 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 |
-| 21 | [Puppets](https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD) | [Jane Maximova](https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt) | [Equinox](https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h) | 4:58 |
-| 22 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 |
+| 21 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 |
+| 22 | [Puppets](https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD) | [Jane Maximova](https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt) | [Equinox](https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h) | 4:58 |
 | 23 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
 | 24 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 |
 | 25 | [Youth Jazz](https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU) | [FYI Chris](https://open.spotify.com/artist/0wZeO8kuM4dYiraesOH282) | [Black Dragon Loop](https://open.spotify.com/album/45Kc4Hj3SqBO5yXPnioU71) | 5:07 |
 | 26 | [Eye Mo K](https://open.spotify.com/track/4LBrt8RUMpGhPXkLqvsh4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:42 |
-| 27 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
-| 28 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 |
-| 29 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
+| 27 | [Waiting 4 You](https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Houses](https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw) | 7:30 |
+| 28 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
+| 29 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 |
 | 30 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 |
 | 31 | [Aletheia](https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 5:46 |
-| 32 | [Waiting 4 You](https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Houses](https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw) | 7:30 |
+| 32 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
 | 33 | [Buya \- Da Capo Remix](https://open.spotify.com/track/30zadVexkV6pkLCt2x0YAB) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C) | 7:44 |
 | 34 | [Mother Theresa \- Original Mix](https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Highlife World Series: Cuba](https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE) | 5:56 |
 | 35 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 |
 | 50 | [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 |
 
-Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGRkNzdkMGFkN2Y3ZTNlODgyOGRhN2UwZmEyMDgzNDM2`
+Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMDMxMTdkN2Y0YjIzZmM4ZjAzMmZkYTQ5YjZiMjRjNzhk`

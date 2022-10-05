@@ -204,6 +204,24 @@
     },
     {
       "album": {
+        "name": "After Dark x Sweater Weather",
+        "url": "https://open.spotify.com/album/43dQlXQ1wBYnODCBiOQSal"
+      },
+      "artists": [
+        {
+          "name": "Ahri",
+          "url": "https://open.spotify.com/artist/72GU6xX5Bbs4XWTDuVUjEz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288531,
+      "name": "After Dark x Sweater Weather",
+      "url": "https://open.spotify.com/track/5drMnds5Li20IwjUOoN4nq"
+    },
+    {
+      "album": {
         "name": "after dark x sweater weather",
         "url": "https://open.spotify.com/album/7xZP5oKCuxb4cRlzX0sFUe"
       },
@@ -363,7 +381,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -647,6 +665,24 @@
       "duration_ms": 291317,
       "name": "Baby Hotline",
       "url": "https://open.spotify.com/track/1R8kvV2AgNPCA2Pp4Im1Ao"
+    },
+    {
+      "album": {
+        "name": "Baby Shark",
+        "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
+      },
+      "artists": [
+        {
+          "name": "RALAN STYLES",
+          "url": "https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156059,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
     },
     {
       "album": {
@@ -1996,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "Make Sudety Great Again",
+        "url": "https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202843,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/5TB7FL9eaJ4fIN3oqJK8rp"
+    },
+    {
+      "album": {
         "name": "E\u0161te Sa Nejde Spa\u0165",
         "url": "https://open.spotify.com/album/2MI7lTfJDHeaN4fLAGQKFD"
       },
@@ -2215,6 +2269,28 @@
       "duration_ms": 149612,
       "name": "Fire to the Rain Hardstyle",
       "url": "https://open.spotify.com/track/6WvF6Zk7VUspVYvOmrlmkx"
+    },
+    {
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176124,
+      "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
     },
     {
       "album": {
@@ -2947,7 +3023,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 170588,
       "name": "It's Corn",
       "url": "https://open.spotify.com/track/58WiMFVLbAfmS7k4T0qKtG"
@@ -3085,7 +3161,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 206545,
       "name": "Jinej druh",
       "url": "https://open.spotify.com/track/16Gcy3xa5XTuxvjgbstCWi"
@@ -5883,7 +5959,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 156506,
       "name": "Static",
       "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
@@ -5949,7 +6025,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
@@ -7031,7 +7107,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 212335,
       "name": "|BONKERS|",
       "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"

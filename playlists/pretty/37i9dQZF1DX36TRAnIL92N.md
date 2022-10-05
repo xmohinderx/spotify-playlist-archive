@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,294 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,731 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 26 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 |
 | 27 | [Control \- Original Mix](https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Control](https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF) | 6:27 |
 | 28 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
-| 29 | [ME/AN](https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [ME/AN](https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR) | 3:49 |
-| 30 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
+| 29 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
+| 30 | [ME/AN](https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [ME/AN](https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR) | 3:49 |
 | 31 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 |
 | 32 | [Adrenaline](https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Adrenaline](https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh) | 6:53 |
 | 33 | [Sex and the Machine](https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Sex and the Machine](https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe) | 4:00 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 35 | [1981](https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [1981](https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ) | 6:11 |
 | 36 | [Hydro](https://open.spotify.com/track/0nmNR0KNc1in7qBGXmzEZY) | [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Hydro](https://open.spotify.com/album/2CYt7WOUAFdAOBYwPuJGLL) | 6:45 |
 | 37 | [Sentinel \- Original Mix](https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Sentinel](https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC) | 6:28 |
-| 38 | [Portal](https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G) | 6:24 |
-| 39 | [Flash \- Marco Faraone Remix](https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Light + Shadow Remixes, Vol\. 1](https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO) | 6:10 |
+| 38 | [Flash \- Marco Faraone Remix](https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Light + Shadow Remixes, Vol\. 1](https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO) | 6:10 |
+| 39 | [Portal](https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G) | 6:24 |
 | 40 | [Back for Rave \- Original Mix](https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Back for Rave](https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE) | 7:18 |
 | 41 | [Huys](https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Huys](https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK) | 7:20 |
 | 42 | [Sense](https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [Sense EP](https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5) | 6:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 |
 | 50 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
 
-Snapshot ID: `MTY2NDU0MjUxMiwwMDAwMDAwMGEzM2ZkMTUxZmEwOWY2ZGExYzdjYWM3NTMwMTE3YjI2`
+Snapshot ID: `MTY2NDU0MjUxMiwwMDAwMDAwMDJlNTdkMTc5ZGQ1MGJlOTA1MjQ4NmU3Y2FkMzE0ZWI1`

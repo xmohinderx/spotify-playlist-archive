@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,714 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,715 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 7 | [Treat Me Right \- Instrumental](https://open.spotify.com/track/7AFImE2Z2j8orgVVc5MgoM) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Treat Me Right](https://open.spotify.com/album/5bmQcoWunv50RmZmNMj858) | 3:41 |
 | 8 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 |
 | 9 | [Dreams Away](https://open.spotify.com/track/0R9WmKhiwdJjRBOkGK1XQ4) | [Albin Nordh](https://open.spotify.com/artist/487I47oTYPGiqAwO6yuved) | [Dreams Away](https://open.spotify.com/album/04iUPOlqZk4toyXcRKaite) | 3:57 |
-| 10 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
-| 11 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 |
+| 10 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 |
+| 11 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
 | 12 | [Anyone](https://open.spotify.com/track/2jdObkXiyca07k9r6UwqaL) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Summer Crush](https://open.spotify.com/album/7u3rOTDTne8OfLdo79a0Go) | 3:06 |
 | 13 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
 | 14 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 20 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 |
 | 21 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 |
 | 22 | [Amahlaya](https://open.spotify.com/track/3j4EQU3yN45Ai6wyAi9ou1) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [Amahlaya](https://open.spotify.com/album/4CsTJUpctD7bqZLgXujIeD) | 3:28 |
-| 23 | [Montrose Ave](https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Montrose Ave](https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5) | 2:53 |
-| 24 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
+| 23 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
+| 24 | [Montrose Ave](https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Montrose Ave](https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5) | 2:53 |
 | 25 | [Smiles](https://open.spotify.com/track/2mO1SkhHswRTVKkuC4ou4M) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [The Night](https://open.spotify.com/album/3CMGHBzxZ3zelIEgQ8yjiV) | 3:06 |
 | 26 | [Cruel Summer](https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2) | [Daniel Liebt](https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9) | [Cruel Summer](https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk) | 3:29 |
 | 27 | [Une Beat Encore](https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Une Beat Encore](https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu) | 3:16 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 46 | [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 |
 | 47 | [Slow Me Down](https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Slow Me Down](https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3) | 3:39 |
 | 48 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
-| 49 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 |
-| 50 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 |
+| 49 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 |
+| 50 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 |
 | 51 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
 | 52 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 |
 | 53 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
-| 54 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
-| 55 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
-| 56 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
+| 54 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
+| 55 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
+| 56 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 | 57 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
 | 58 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
 | 59 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
-| 60 | [Midnight Sky](https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Midnight Sky](https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg) | 3:34 |
+| 60 | [Pleasure & Pain](https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Pleasure & Pain](https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8) | 3:34 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDRjOTE0NThkMzEzMWExYzdkYTA0ZWJiNzNkNmFjMmY4`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDMyYzVhYTQ3YWQwNThmMzdiYTc1YzYwZjUwNzI3Nzc5`

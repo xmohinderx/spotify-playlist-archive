@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 109537,
+  "num_followers": 109558,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGZlNWVlMGNjY2VkZTBiNThjZDFiMDI2ZTlmMGMxZjJk",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDI1YjMzZWI4OGI5N2UwNDVjOGE5NDJkZWNkMTFkNzQx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "WHAT I HAVE",
-        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178681,
-      "name": "WHAT I HAVE",
-      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Wild Palomino",
         "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 198514,
       "name": "Wild Palomino",
       "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "As You Leave (undone)",
-        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
       },
       "artists": [
         {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
         }
       ],
-      "duration_ms": 127500,
-      "name": "As You Leave (undone)",
-      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
+        "name": "As You Leave (undone)",
+        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
       },
       "artists": [
         {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
         }
       ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
+      "duration_ms": 127500,
+      "name": "As You Leave (undone)",
+      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Truth About You (Piano Version)",
         "url": "https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 205663,
       "name": "Truth About You - Piano Version",
       "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Weekends Look A Little Acoustic These Days",
-        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 254989,
-      "name": "You Didn\u2019t - Acoustic",
-      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Secret (Gravel Drive Sounds)",
         "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 225240,
       "name": "Secret - Gravel Drive Sounds",
       "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Weekends Look A Little Acoustic These Days",
+        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 254989,
+      "name": "You Didn\u2019t - Acoustic",
+      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "What A Song Can Do (Stripped Down)",
-        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "What A Song Can Do - Stripped Down",
-      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "12/12 (Acoustic)",
         "url": "https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 179908,
       "name": "I Didn't Love You",
       "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "What A Song Can Do (Stripped Down)",
+        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "What A Song Can Do - Stripped Down",
+      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Not Supposed To Know Each Other (Sad Version)",
-        "url": "https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Edwards",
-          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
-        }
-      ],
-      "duration_ms": 164234,
-      "name": "Not Supposed To Know Each Other (Sad Version)",
-      "url": "https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Thought This Through",
         "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "7500 OBO (Acoustic)",
-        "url": "https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r"
+        "name": "Not Supposed To Know Each Other (Sad Version)",
+        "url": "https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
         }
       ],
-      "duration_ms": 221382,
-      "name": "7500 OBO - Acoustic",
-      "url": "https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e"
+      "duration_ms": 164234,
+      "name": "Not Supposed To Know Each Other (Sad Version)",
+      "url": "https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 160875,
       "name": "Love Makes You Blind - Acoustic Version",
       "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "7500 OBO (Acoustic)",
+        "url": "https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 221382,
+      "name": "7500 OBO - Acoustic",
+      "url": "https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e"
     },
     {
       "added_at": "2022-09-30 04:00:00",

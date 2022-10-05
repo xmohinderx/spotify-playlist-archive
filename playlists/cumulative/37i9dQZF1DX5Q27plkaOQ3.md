@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Zeds Dead
 
-241 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+242 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Blicky](https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Blicky](https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1) | 3:32 | 2022-08-05 |  |
 | [Blindfold](https://open.spotify.com/track/5rkJBRvyemuXYBffHZCdPa) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Blindfold](https://open.spotify.com/album/72gsKOBsJ129zrsETPrnmH) | 2:37 | 2021-12-17 |  |
 | [Blow It Up](https://open.spotify.com/track/2nkEpxFxBrSNszj50S98zv) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe) | [Blow It Up](https://open.spotify.com/album/69v5JpYfoOurqNb4s5lGx9) | 2:27 | 2021-12-17 | 2022-03-12 |
-| [Boom](https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Boom](https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR) | 3:45 | 2021-12-17 |  |
+| [Boom](https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Boom](https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR) | 3:45 | 2021-12-17 | 2022-10-05 |
 | [British Gas](https://open.spotify.com/track/5fRfNIzmtZPbKv9yVEz5hA) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU), [Illaman](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [Oracle EP](https://open.spotify.com/album/05wABmetW0HhmxqIlQjOIG) | 4:47 | 2021-12-17 | 2022-05-07 |
 | [BUBBLE BASS](https://open.spotify.com/track/57iPY8trFGMdDvs2IQNxmw) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [BUBBLE BASS](https://open.spotify.com/album/0Xns6eK58lVfQsZFMoTZRQ) | 2:48 | 2021-12-17 | 2022-05-07 |
 | [Bubble Up](https://open.spotify.com/track/11eC2qnJdadhKgDI3Y2bhX) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL) | [Bubble Up](https://open.spotify.com/album/5ZD0wmDSdnsobHtQKHMWiL) | 2:48 | 2021-12-17 | 2022-08-14 |
@@ -194,6 +194,7 @@
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-12-17 | 2022-03-05 |
 | [Shadow \- Ace Aura Remix](https://open.spotify.com/track/4D99ZSyFPhnlBNTqoSuQoJ) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Shadow \(Ace Aura Remix\)](https://open.spotify.com/album/3fSpTNOCjmCIuiEcpXa1Cb) | 4:28 | 2022-07-08 |  |
 | [Shank](https://open.spotify.com/track/6NrvGvEN9o6LutTMfvjNCQ) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Shank](https://open.spotify.com/album/4AvIrAAt7HreJ1EFTpnKkc) | 4:24 | 2022-08-12 |  |
+| [Sharp Shooter](https://open.spotify.com/track/0ViI8m9JgQlADPjsP0Nxo2) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/50xJ464PqppzDAKiu1sDM6) | 3:43 | 2022-09-30 |  |
 | [Shimmer](https://open.spotify.com/track/123FqwqgRIRKpU5kPXprW0) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/0ce00WtByT2e6ecEjNMJom) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Shimmer](https://open.spotify.com/track/1zk2MkgS2evrY0py2bWjiT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/5mqADkilFicbY2DXyWemZe) | 3:25 | 2022-07-22 |  |
 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 |  |

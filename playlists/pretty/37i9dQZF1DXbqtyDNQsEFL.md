@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,965 likes - 80 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,018 likes - 80 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 56 | [Onwanwani](https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Onwanwani](https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3) | 5:57 |
 | 57 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 |
 | 58 | [Who Else \(Single Mix\)](https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Who Else](https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO) | 3:28 |
-| 59 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 |
-| 60 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 |
+| 59 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 |
+| 60 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 |
 | 61 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 |
 | 62 | [King of Glory](https://open.spotify.com/track/27E4LObyzj6OiszOv221pI) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Greatest Lord](https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r) | 5:40 |
 | 63 | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Messengers](https://open.spotify.com/track/16QyjYsEnTcPhmpjqTg1Ad) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Messengers](https://open.spotify.com/album/0upBIxCFfX69fL1uB0NhTO) | 4:48 |
 | 80 | [Finally](https://open.spotify.com/track/1SM0jKwjVaAMgVAX7LKgNi) | [Password](https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI) | [Finally](https://open.spotify.com/album/0e00XQl6SWnwNXVh6WRrc4) | 5:20 |
 
-Snapshot ID: `MTY2NDUyMDQzOCwwMDAwMDAwMDdiYTRkOGQxN2RmYTQyZGE5YTUxMmI0MTA5NjljNTQ0`
+Snapshot ID: `MTY2NDUyMDQzOCwwMDAwMDAwMGRhNmFlY2Q3NjIxNjk4MTgzODg0NTAxNmNmNWMxYTVh`

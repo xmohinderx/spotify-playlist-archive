@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s.",
-  "num_followers": 674344,
+  "num_followers": 674830,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjAzNzIwMCwwMDAwMDAwMDc1MjVkZjc5MzMyYzc4MDIwMzlmYzBhMzZmNTgzMjcx",
+  "snapshot_id": "MTY2MjAzNzIwMCwwMDAwMDAwMDljYzZiY2Q3N2VkODA1MWFjNWI2OTJhZTlmNTIwMjAy",
   "tracks": [
     {
       "added_at": "2022-09-01 13:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Nookie",
-      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 201400,
       "name": "Living Dead Girl",
       "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "(sic)",
-      "url": "https://open.spotify.com/track/1g8lVIsEkDaGD1nKw6fwUb"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 264266,
       "name": "Engel",
       "url": "https://open.spotify.com/track/0xQZkTxb49QpopIZQhKJUY"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "(sic)",
+      "url": "https://open.spotify.com/track/1g8lVIsEkDaGD1nKw6fwUb"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "Any Means Necessary",
-        "url": "https://open.spotify.com/album/19B8sBoHytS1ntvmy2QVju"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 270233,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/18S33odAheWBHbVAefiRLM"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
         "name": "Seasons In The Abyss",
         "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 397826,
       "name": "Seasons In The Abyss",
       "url": "https://open.spotify.com/track/3Ky8IzV8IVSwijtaTWB2SK"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
+        "name": "Any Means Necessary",
+        "url": "https://open.spotify.com/album/19B8sBoHytS1ntvmy2QVju"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "duration_ms": 270233,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/18S33odAheWBHbVAefiRLM"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 321573,
+      "name": "Jet City Woman - Remastered 2003",
+      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 199226,
       "name": "Refuse / Resist",
       "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 321573,
-      "name": "Jet City Woman - Remastered 2003",
-      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "Rust In Peace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 344066,
-      "name": "Rust In Peace...Polaris - Remastered 2004",
-      "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
         "name": "1916",
         "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 327546,
       "name": "Love Me Forever",
       "url": "https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
+        "name": "Rust In Peace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 344066,
+      "name": "Rust In Peace...Polaris - Remastered 2004",
+      "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "March Or Die",
-        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Hellraiser",
-      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
         "name": "Three Dollar Bill, Y'all $",
         "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
+        "name": "Sleep's Holy Mountain",
+        "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 343160,
+      "name": "Dragonaut",
+      "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "Sleep's Holy Mountain",
-        "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
       },
       "artists": [
         {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 343160,
-      "name": "Dragonaut",
-      "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
+      "duration_ms": 275160,
+      "name": "Hellraiser",
+      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "Do We Speak A Dead Language?",
-        "url": "https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt"
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA"
       },
       "artists": [
         {
-          "name": "Downset",
-          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
         }
       ],
-      "duration_ms": 144266,
-      "name": "Empower",
-      "url": "https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl"
+      "duration_ms": 391240,
+      "name": "Spacegrass",
+      "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
+        "name": "Do We Speak A Dead Language?",
+        "url": "https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt"
+      },
+      "artists": [
+        {
+          "name": "Downset",
+          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Empower",
+      "url": "https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
         "name": "Colony",
         "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 256266,
       "name": "Ordinary Story",
       "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
-        "name": "Clutch",
-        "url": "https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 391240,
-      "name": "Spacegrass",
-      "url": "https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "Wolverine Blues",
-        "url": "https://open.spotify.com/album/1CZwyjL96gGx4PryOIFNYn"
-      },
-      "artists": [
-        {
-          "name": "Entombed",
-          "url": "https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB"
-        }
-      ],
-      "duration_ms": 133066,
-      "name": "Wolverine Blues",
-      "url": "https://open.spotify.com/track/6WBdwdLLif4kuG3s6ot8uB"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
         "name": "Chaosphere (Reloaded)",
         "url": "https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 335666,
       "name": "New Millennium Cyanide Christ",
       "url": "https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
+        "name": "Wolverine Blues",
+        "url": "https://open.spotify.com/album/1CZwyjL96gGx4PryOIFNYn"
+      },
+      "artists": [
+        {
+          "name": "Entombed",
+          "url": "https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB"
+        }
+      ],
+      "duration_ms": 133066,
+      "name": "Wolverine Blues",
+      "url": "https://open.spotify.com/track/6WBdwdLLif4kuG3s6ot8uB"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 373200,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
         "name": "Bloody Kisses",
         "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 675653,
       "name": "Black No. 1 (Little Miss Scare -All)",
       "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 373200,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC"
     },
     {
       "added_at": "2022-09-01 13:00:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-09-01 13:00:00",
       "album": {
-        "name": "Set The World On Fire",
-        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
-      },
-      "artists": [
-        {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Phoenix Rising",
-      "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
-    },
-    {
-      "added_at": "2022-09-01 13:00:00",
-      "album": {
         "name": "Filth Pig",
         "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 344600,
       "name": "Lay Lady Lay",
       "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
+    },
+    {
+      "added_at": "2022-09-01 13:00:00",
+      "album": {
+        "name": "Set The World On Fire",
+        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Phoenix Rising",
+      "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
     },
     {
       "added_at": "2022-09-01 13:00:00",

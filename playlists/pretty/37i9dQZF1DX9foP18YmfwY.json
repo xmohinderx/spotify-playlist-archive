@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 277185,
+  "num_followers": 277266,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMGVjOWM2NDdmZDUwNjgzNjE1Y2E1YTk0ZjE5Mjg5YTQ5",
+  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMDZlMzQxZmZjZjc5ZGIwYmY1YjRmMzU3NTZkODAzZDVk",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/0ii9sn33qDORUI8FZsWRFk"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 299159,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/52UwxcBnQeWh4HeMngkuVs"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Decididamente",
         "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 258560,
       "name": "Decididamente",
       "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/0ii9sn33qDORUI8FZsWRFk"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 299159,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/52UwxcBnQeWh4HeMngkuVs"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "A tua ternura",
         "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 201089,
       "name": "A tua ternura",
       "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Divino Esposo",
-        "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
-        }
-      ],
-      "duration_ms": 218104,
-      "name": "Divino Esposo",
-      "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Alpha: Lado B",
         "url": "https://open.spotify.com/album/1uqXemJQzR73XCMvTgVUGA"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 451614,
       "name": "Casa",
       "url": "https://open.spotify.com/track/7F04vyYX9Tsx9pDU8toRN2"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Divino Esposo",
+        "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 218104,
+      "name": "Divino Esposo",
+      "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
       "artists": [
         {
-          "name": "Padre Anderson Gomes",
-          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
         }
       ],
-      "duration_ms": 326208,
-      "name": "Te Adorar",
-      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
       },
       "artists": [
         {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+          "name": "Padre Anderson Gomes",
+          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
         }
       ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+      "duration_ms": 326208,
+      "name": "Te Adorar",
+      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Seja Bem-Vindo Jesus",
-        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
-      },
-      "artists": [
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
-        }
-      ],
-      "duration_ms": 310704,
-      "name": "Seja Bem-Vindo Jesus",
-      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Nada \u00c9 Maior",
         "url": "https://open.spotify.com/album/432dKZfDYsjJ4PatyeYwQm"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 203977,
       "name": "Nada \u00c9 Maior",
       "url": "https://open.spotify.com/track/4wkIkeTnQ1eHDQ3ovQIJy1"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Seja Bem-Vindo Jesus",
+        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
+      },
+      "artists": [
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 310704,
+      "name": "Seja Bem-Vindo Jesus",
+      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
     },
     {
       "added_at": "2022-09-02 03:00:00",

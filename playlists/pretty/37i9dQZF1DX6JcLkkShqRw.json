@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Cris Mj.",
-  "num_followers": 269079,
+  "num_followers": 269254,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MzQ0MywwMDAwMDAwMDZlZGI3NjE4MGM1NGZmZGY4OTM1ZmIxYWEzYzg1ZWQy",
+  "snapshot_id": "MTY2NDU0MzQ0MywwMDAwMDAwMDFhYzQ5MGM3NTFiMTNhMzI4MzM2MGM3YmFmNzVlODEz",
   "tracks": [
     {
       "added_at": "2022-09-30 13:10:43",
@@ -135,46 +135,6 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
-        "name": "Marisola",
-        "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
-      },
-      "artists": [
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Marisola",
-      "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
-    },
-    {
-      "added_at": "2022-09-30 13:10:43",
-      "album": {
-        "name": "SE ENDIABLA",
-        "url": "https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "SE ENDIABLA",
-      "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
-    },
-    {
-      "added_at": "2022-09-30 13:10:43",
-      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -199,6 +159,46 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "added_at": "2022-09-30 13:10:43",
+      "album": {
+        "name": "SE ENDIABLA",
+        "url": "https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "SE ENDIABLA",
+      "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
+    },
+    {
+      "added_at": "2022-09-30 13:10:43",
+      "album": {
+        "name": "Marisola",
+        "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
+      },
+      "artists": [
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Marisola",
+      "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2022-09-30 13:10:43",
-      "album": {
         "name": "KAWAII",
         "url": "https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 198247,
       "name": "KAWAII",
       "url": "https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN"
+    },
+    {
+      "added_at": "2022-09-30 13:10:43",
+      "album": {
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -1115,30 +1115,18 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
-        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
-        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
+        "name": "V16",
+        "url": "https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG"
       },
       "artists": [
         {
-          "name": "BANDIDO",
-          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
         }
       ],
-      "duration_ms": 280274,
-      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
-      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+      "duration_ms": 119106,
+      "name": "V16",
+      "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -1163,6 +1151,34 @@
       "duration_ms": 167340,
       "name": "Pintao",
       "url": "https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2"
+    },
+    {
+      "added_at": "2022-09-30 13:10:43",
+      "album": {
+        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
+        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
+      },
+      "artists": [
+        {
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 280274,
+      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -1203,46 +1219,6 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
-        "name": "NO ERES SANTA",
-        "url": "https://open.spotify.com/album/2Ago8ElVy0vKd7izBKDxvC"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
-        }
-      ],
-      "duration_ms": 259090,
-      "name": "NO ERES SANTA",
-      "url": "https://open.spotify.com/track/3hK7qOPSyva12t0ldBvPqg"
-    },
-    {
-      "added_at": "2022-09-30 13:10:43",
-      "album": {
-        "name": "V16",
-        "url": "https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG"
-      },
-      "artists": [
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 119106,
-      "name": "V16",
-      "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
-    },
-    {
-      "added_at": "2022-09-30 13:10:43",
-      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2022-09-30 13:10:43",
+      "album": {
+        "name": "NO ERES SANTA",
+        "url": "https://open.spotify.com/album/2Ago8ElVy0vKd7izBKDxvC"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "duration_ms": 259090,
+      "name": "NO ERES SANTA",
+      "url": "https://open.spotify.com/track/3hK7qOPSyva12t0ldBvPqg"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
-        "name": "Como Te Va",
-        "url": "https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 225668,
-      "name": "Como Te Va",
-      "url": "https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5"
-    },
-    {
-      "added_at": "2022-09-30 13:10:43",
-      "album": {
         "name": "12x3 Remix (with Micro TDH & Rusherking)",
         "url": "https://open.spotify.com/album/6kjJ9YLK0ZNTajArpF95qY"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 234666,
       "name": "Noche Loca",
       "url": "https://open.spotify.com/track/27toenwtHpZ7fn0QjehRl2"
+    },
+    {
+      "added_at": "2022-09-30 13:10:43",
+      "album": {
+        "name": "Como Te Va",
+        "url": "https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 225668,
+      "name": "Como Te Va",
+      "url": "https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -1563,18 +1563,22 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
-        "name": "TITAN",
-        "url": "https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i"
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
       },
       "artists": [
         {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 122136,
-      "name": "TITAN",
-      "url": "https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz"
+      "duration_ms": 197960,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
-        "name": "Te Necesito",
-        "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
+        "name": "TITAN",
+        "url": "https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 197960,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB"
+      "duration_ms": 122136,
+      "name": "TITAN",
+      "url": "https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
-        "name": "Sabe",
-        "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 177655,
-      "name": "Sabe",
-      "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
-    },
-    {
-      "added_at": "2022-09-30 13:10:43",
-      "album": {
         "name": "WACHA",
         "url": "https://open.spotify.com/album/6DHfMP3XhSQYlxs5a9l7s4"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 171149,
       "name": "PANAM\u00c1",
       "url": "https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW"
+    },
+    {
+      "added_at": "2022-09-30 13:10:43",
+      "album": {
+        "name": "Sabe",
+        "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 177655,
+      "name": "Sabe",
+      "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
     },
     {
       "added_at": "2022-09-30 13:10:43",
@@ -2019,6 +2019,30 @@
     {
       "added_at": "2022-09-30 13:10:43",
       "album": {
+        "name": "Mi Waxita",
+        "url": "https://open.spotify.com/album/1o8ifDcbijqGFTgzfx0min"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Izahn",
+          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "Mi Waxita",
+      "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
+    },
+    {
+      "added_at": "2022-09-30 13:10:43",
+      "album": {
         "name": "YO SE QUE TU (feat. Rusherking)",
         "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
       },
@@ -2043,30 +2067,6 @@
       "duration_ms": 193043,
       "name": "YO SE QUE TU (feat. Rusherking)",
       "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
-    },
-    {
-      "added_at": "2022-09-30 13:10:43",
-      "album": {
-        "name": "Mi Waxita",
-        "url": "https://open.spotify.com/album/1o8ifDcbijqGFTgzfx0min"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "Izahn",
-          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 218006,
-      "name": "Mi Waxita",
-      "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
     },
     {
       "added_at": "2022-09-30 13:10:43",

@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Giveon
 
-1,070 songs - 2 day 8 hr 53 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,071 songs - 2 day 8 hr 56 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [Shade of Yellow](https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Shade of Yellow](https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ) | 2:36 | 2021-06-19 | 2021-08-07 |
 | [Shapeshifter](https://open.spotify.com/track/6IpOuj1YBXYriHna2QVKOL) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Shapeshifter](https://open.spotify.com/album/1MkJYjjt0wzde7JyY1TxTr) | 3:06 | 2021-07-17 | 2021-08-07 |
 | [Sheesh!](https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sheesh!](https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5) | 2:28 | 2021-08-21 | 2022-01-29 |
+| [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-10-04 |  |
 | [Shook](https://open.spotify.com/track/2ei1umCvdqtDMG8zfC9GRY) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Shook](https://open.spotify.com/album/0uKOb1sntZv5UcXt9XwwWv) | 2:29 | 2021-06-26 | 2021-08-28 |
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2021-03-26 | 2021-04-03 |
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2020-04-26\* | 2020-05-01 |
@@ -1054,7 +1055,7 @@
 | [Wildflowers](https://open.spotify.com/track/0aKcjCM4U2z8bATGl5IChO) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Wildflowers](https://open.spotify.com/album/0Rhjgq6JGglDsooABCeTU8) | 3:19 | 2021-08-14 | 2021-10-23 |
 | [Wings](https://open.spotify.com/track/6p56fflyWLspRsipBqZabq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/5c7AV4LuaA4vmi3x2h0IUx) | 2:48 | 2021-09-25 | 2021-10-09 |
 | [Winter City](https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Winter City](https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG) | 2:41 | 2020-12-13 | 2021-03-19 |
-| [Winter is Hopeful](https://open.spotify.com/track/4YUSjeeznV0HhsbWdSkHx0) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:01 | 2022-08-01 |  |
+| [Winter is Hopeful](https://open.spotify.com/track/4YUSjeeznV0HhsbWdSkHx0) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:01 | 2022-08-01 | 2022-10-05 |
 | [wisdom teeth](https://open.spotify.com/track/0eEcs8LmGk1TKfGgUiYosw) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [wisdom teeth](https://open.spotify.com/album/27HcSfqPn8Vrdy3Kjp0Or0) | 3:01 | 2020-10-09 | 2020-11-06 |
 | [Wish You Did](https://open.spotify.com/track/5kGPIXJQJMLG1FGj38UlMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Wish You Did](https://open.spotify.com/album/71T6Aaz3gVFGg1fHjCnC7K) | 2:50 | 2021-08-28 | 2021-12-24 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2021-09-25 | 2021-11-06 |

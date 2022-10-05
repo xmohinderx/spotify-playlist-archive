@@ -2,7 +2,7 @@
 
 ### [Pressure](https://open.spotify.com/playlist/37i9dQZF1DWZwCeILEyQAy)
 
-> Real Rap\. All Pressure\. Cover: Big Boss Vette
+> Real Rap\. All Pressure\. Cover: Kali
 
 196 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
 

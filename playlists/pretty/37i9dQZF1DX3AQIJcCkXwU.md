@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,217 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,399 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 99 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 |
 | 100 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 |
 
-Snapshot ID: `MTY2NDU2MjQwMCwwMDAwMDAwMGRiMGZmNTRiZjBjYjcyZTdkYWFlMzJhYTc2MDQzZTg2`
+Snapshot ID: `MTY2NDg4MTA0OCwwMDAwMDAwMDBmMWQwZDQxZTU2ZjRkNGE0Yjg0YWQxZDkzNTJjOWE4`

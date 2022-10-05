@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Aleesha",
-  "num_followers": 65668,
+  "num_followers": 65728,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1NjYyMywwMDAwMDAwMDdiMTNjMDMxZmVlYjMwNzk5YjcxMzkzNmY1YjlkNmRk",
+  "snapshot_id": "MTY2Mzk1NjYyMywwMDAwMDAwMDIwNzFjMzY5NWVlNWU1ZmU0NTUwM2EwMGY5MzhhNTk3",
   "tracks": [
     {
       "added_at": "2022-09-23 18:10:23",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
+        "name": "Rana",
+        "url": "https://open.spotify.com/album/4er80flcemlR8QahrCEuXM"
+      },
+      "artists": [
+        {
+          "name": "Karetta el Gucci",
+          "url": "https://open.spotify.com/artist/4ygcJmgRCkZ0AoKkMt1xiZ"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Rana",
+      "url": "https://open.spotify.com/track/34ZrmCQFQGTUZxdLIaaNoa"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
         "name": "S\u00fabete (Remix)",
         "url": "https://open.spotify.com/album/1NbbxOL6pPv0m4prrqopoE"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Rana",
-        "url": "https://open.spotify.com/album/4er80flcemlR8QahrCEuXM"
+        "name": "Me Hace Falta",
+        "url": "https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO"
       },
       "artists": [
         {
-          "name": "Karetta el Gucci",
-          "url": "https://open.spotify.com/artist/4ygcJmgRCkZ0AoKkMt1xiZ"
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Rana",
-      "url": "https://open.spotify.com/track/34ZrmCQFQGTUZxdLIaaNoa"
+      "duration_ms": 181498,
+      "name": "Me Hace Falta",
+      "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -623,22 +639,6 @@
       "duration_ms": 418728,
       "name": "Tu Lokotron Remix",
       "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "Me Hace Falta",
-        "url": "https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Me Hace Falta",
-      "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Exito, Vol 1",
-        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
+        "name": "Dominican Playero 40",
+        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
       },
       "artists": [
         {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+          "name": "RMT",
+          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
         }
       ],
-      "duration_ms": 239426,
-      "name": "Amaneci Contento",
-      "url": "https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t"
+      "duration_ms": 201039,
+      "name": "Dominican Playero 40",
+      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Dominican Playero 40",
-        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
+        "name": "Exito, Vol 1",
+        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
       },
       "artists": [
         {
-          "name": "RMT",
-          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
         }
       ],
-      "duration_ms": 201039,
-      "name": "Dominican Playero 40",
-      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
+      "duration_ms": 239426,
+      "name": "Amaneci Contento",
+      "url": "https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
+        "name": "Limonada Coco (Remix)",
+        "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 216816,
+      "name": "Limonada Coco - Remix",
+      "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
         "name": "Nataly (Remix)",
         "url": "https://open.spotify.com/album/3tKwIWIRd2EAzX9Ms7Sq7r"
       },
@@ -1095,22 +1115,18 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Limonada Coco (Remix)",
-        "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
+        "name": "Los Lunatikos-Siente el ki",
+        "url": "https://open.spotify.com/album/2dtjta6EGCagLB2LdYvCk4"
       },
       "artists": [
         {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+          "name": "leo martinez 12djs",
+          "url": "https://open.spotify.com/artist/7McJxAkJsTupNa9hVhZZD7"
         }
       ],
-      "duration_ms": 216816,
-      "name": "Limonada Coco - Remix",
-      "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
+      "duration_ms": 204199,
+      "name": "Los Lunatikos-Siente el ki",
+      "url": "https://open.spotify.com/track/4lyPtzBofgqxUzAfYMIl6B"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Los Lunatikos-Siente el ki",
-        "url": "https://open.spotify.com/album/2dtjta6EGCagLB2LdYvCk4"
+        "name": "Lava Urbana 2018",
+        "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
       },
       "artists": [
         {
-          "name": "leo martinez 12djs",
-          "url": "https://open.spotify.com/artist/7McJxAkJsTupNa9hVhZZD7"
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
         }
       ],
-      "duration_ms": 204199,
-      "name": "Los Lunatikos-Siente el ki",
-      "url": "https://open.spotify.com/track/4lyPtzBofgqxUzAfYMIl6B"
+      "duration_ms": 170000,
+      "name": "Rapidito",
+      "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1183,22 +1199,6 @@
       "duration_ms": 200808,
       "name": "Trompeta",
       "url": "https://open.spotify.com/track/6SFnPT4nfYpfVRaJJwvfQG"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
-        "name": "Lava Urbana 2018",
-        "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Rapidito",
-      "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Desacatate",
-        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 161130,
-      "name": "Desacatate",
-      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
         "name": "Ponme to Eso Pa Lante",
         "url": "https://open.spotify.com/album/30DAg92KlUWk4k8chGRWNJ"
       },
@@ -1295,6 +1275,22 @@
       "duration_ms": 167786,
       "name": "Ponme to Eso Pa Lante",
       "url": "https://open.spotify.com/track/7HNX5ap83jCLeWODW6CU2m"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        }
+      ],
+      "duration_ms": 215301,
+      "name": "La Chapa Que Vibran",
+      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
     },
     {
       "added_at": "2022-09-23 18:10:23",
@@ -1387,30 +1383,6 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "melacomo",
-        "url": "https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        },
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "melacomo",
-      "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
-    },
-    {
-      "added_at": "2022-09-23 18:10:23",
-      "album": {
         "name": "Mensaje Directo (DM)",
         "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
       },
@@ -1443,18 +1415,46 @@
     {
       "added_at": "2022-09-23 18:10:23",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
+        "name": "Desacatate",
+        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
       },
       "artists": [
         {
           "name": "La Materialista",
           "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
         }
       ],
-      "duration_ms": 215301,
-      "name": "La Chapa Que Vibran",
-      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
+      "duration_ms": 161130,
+      "name": "Desacatate",
+      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
+    },
+    {
+      "added_at": "2022-09-23 18:10:23",
+      "album": {
+        "name": "melacomo",
+        "url": "https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "melacomo",
+      "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
     },
     {
       "added_at": "2022-09-23 18:10:23",

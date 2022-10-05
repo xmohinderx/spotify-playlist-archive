@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying only grooves, with some of  <a href=“spotify:artist:3R80OE4RViOWbnuvqh0j8a”>Thuy's</a> inspirations\. Cover: Thuy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,612 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,634 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,22 +32,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 22 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
 | 23 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
 | 24 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 |
-| 25 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 |
-| 26 | [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 |
+| 25 | [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 |
+| 26 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 |
 | 27 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
 | 28 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 |
 | 29 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
-| 30 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 |
-| 31 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 |
+| 30 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 |
+| 31 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 |
 | 32 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 |
 | 33 | [ME WITHOUT U](https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [ME WITHOUT U](https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob) | 2:36 |
 | 34 | [Trending](https://open.spotify.com/track/1NxiO3Anb5zYFVTVuxyHzl) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:02 |
 | 35 | [Country Can](https://open.spotify.com/track/23h3c9x2ApofnkxHteQJDU) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Country Can](https://open.spotify.com/album/1gDtUrRMMsnPoBNHygmep7) | 2:53 |
 | 36 | [CALI LOVE \(feat\. Ambré\)](https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 3:30 |
-| 37 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 |
-| 38 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
-| 39 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 |
-| 40 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 |
+| 37 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
+| 38 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 |
+| 39 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 |
+| 40 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 |
 | 41 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 |
 | 42 | [Woman's Intuition](https://open.spotify.com/track/5ob35mzMNNo72Zy4XkMw3a) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Woman's Intuition](https://open.spotify.com/album/57Dbljkv1NHd9PHGWhWQmh) | 2:29 |
 | 43 | [WASTE TIME](https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [FALL BACK](https://open.spotify.com/track/2vbrodbHlus3zzc1Ai3ooO) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [FALL BACK](https://open.spotify.com/album/4Ujy3pnuLg6FpXt8D5L7iS) | 1:51 |
 | 50 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 |
 
-Snapshot ID: `MTY2MzM0NjU0NSwwMDAwMDAwMDZjZDNkN2I3YzM1YmMzNzM5YTgyNDFjYTNhYzY1NjZk`
+Snapshot ID: `MTY2MzM0NjU0NSwwMDAwMDAwMDgyZDRlZjYzN2RiOGQzN2RkNjQ2ZTA1NGJjYWYwMzQy`

@@ -3456,6 +3456,28 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/3JiNug3c3xJbvhIGHzuBcl"
+      },
+      "artists": [
+        {
+          "name": "Raptures.",
+          "url": "https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m"
+        },
+        {
+          "name": "MAZAN",
+          "url": "https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160730,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/7zheGycYrMgijrwtHEGsu5"
+    },
+    {
+      "album": {
         "name": "Symbolism pt. III",
         "url": "https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx"
       },

@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/5ygZUlIVEGyKj8FsaadfcX)
+61 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/5ygZUlIVEGyKj8FsaadfcX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [SAVED.](https://open.spotify.com/track/0Q3M2UGqG8UisohFJUZ0QO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:18 | 2022-08-10 |  |
 | [SONIC BOOM](https://open.spotify.com/track/2fR18TKm6d10XByIfzV4cP) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:22 | 2022-08-10 |  |
 | [Sumire](https://open.spotify.com/track/4ilIh5yaPnwgXHlq3RJ2c8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Sumire / Kotoba ni Dekinai](https://open.spotify.com/album/4mvCZ2dM4YhKLIvoXneU21) | 3:57 | 2022-08-10 |  |
-| [Tell me what the rain knows](https://open.spotify.com/track/19WWtnNcvDhVrNrLH5je1Z) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 1:42 | 2022-08-10 | 2022-10-01 |
+| [Tell me what the rain knows](https://open.spotify.com/track/19WWtnNcvDhVrNrLH5je1Z) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 1:42 | 2022-08-10 |  |
 | [The Garden of everything](https://open.spotify.com/track/5dQsd3J9Xj7ef06O9Yf0So) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Steve Conte](https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK) | [シングルコレクション+ ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 6:20 | 2022-08-10 |  |
 | [tune the rainbow](https://open.spotify.com/track/2vBTbVowqNQEUApLooNtFz) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 5:31 | 2022-08-10 |  |
 | [Waiting for the rain](https://open.spotify.com/track/2iC18gXn4nDZ3JyixvmOFE) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 4:24 | 2022-08-10 |  |
@@ -36,10 +36,10 @@
 | [はじまりの海](https://open.spotify.com/track/4E6U0JujRf3zyPBe35rXC2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 3:58 | 2022-08-10 |  |
 | [まだうごく](https://open.spotify.com/track/7cLNdxNArBlr3J5ArlbyeB) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [あなたを保つもの/まだうごく](https://open.spotify.com/album/5d3fMo5ShVeEdncXnSAtYy) | 5:48 | 2022-08-10 |  |
 | [やさしさに包まれたなら](https://open.spotify.com/track/5Hu070bWBz5I4QDLo267N1) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 3:51 | 2022-08-10 |  |
-| [アルコ](https://open.spotify.com/track/4kYA4Y4D89TnnsCf0xYBRy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:40 | 2022-08-10 |  |
+| [アルコ](https://open.spotify.com/track/4kYA4Y4D89TnnsCf0xYBRy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:40 | 2022-08-10 | 2022-10-05 |
 | [クローバー](https://open.spotify.com/track/6hVThNX3Z0TJJ67Bj6VW24) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [クローバー](https://open.spotify.com/album/2ucsRGz0s2Zc4dNCdw7y4a) | 4:29 | 2022-08-31 | 2022-09-16 |
 | [スピカ](https://open.spotify.com/track/5pgmW3oMLmZpYwlhgvITlH) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:11 | 2022-08-10 |  |
-| [ディーゼル](https://open.spotify.com/track/6Ukab7uqNtX78FPBJOjVMA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 3:48 | 2022-08-10 |  |
+| [ディーゼル](https://open.spotify.com/track/6Ukab7uqNtX78FPBJOjVMA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 3:48 | 2022-08-10 | 2022-10-05 |
 | [トライアングラー](https://open.spotify.com/track/7dLS9A8CcWmL3cB6Rv8grW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:36 | 2022-08-10 |  |
 | [プラチナ](https://open.spotify.com/track/1NAiiojhfSM62hEar7wVTg) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [カードキャプターさくら ソングコレクション 1999.4\~2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 4:11 | 2022-08-10 |  |
 | [ヘミソフィア](https://open.spotify.com/track/2dHrD24YYb37yUjmosVq5S) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 4:10 | 2022-08-10 |  |
@@ -48,10 +48,10 @@
 | [モアザンワーズ](https://open.spotify.com/track/58uHwdDL4KmEjHuuTKqMyS) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:04 | 2022-08-10 |  |
 | [ユニバース](https://open.spotify.com/track/7bB3YdtfilMwcQua8VFsXb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30minutes night flight](https://open.spotify.com/album/1mROQcgYJm8J8Q0d4YCqyg) | 4:28 | 2022-09-28 | 2022-10-02 |
 | [ループ](https://open.spotify.com/track/2QAMaoGBY8nmoAhNRuDvNn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [夕凪LOOP](https://open.spotify.com/album/1W7Hut7toYzRWkvINu2sfN) | 5:21 | 2022-08-10 |  |
-| [レコード](https://open.spotify.com/track/6wozmCqO8767ylHwjgqrZC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:43 | 2022-08-10 |  |
+| [レコード](https://open.spotify.com/track/6wozmCqO8767ylHwjgqrZC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:43 | 2022-08-10 | 2022-10-05 |
 | [今日だけの音楽](https://open.spotify.com/track/6ccqATIWELf8GnICLpKENP) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 5:05 | 2022-08-11 |  |
 | [光の中へ](https://open.spotify.com/track/56OSarBvrLXbNuFwy9DGng) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:40 | 2022-08-10 |  |
-| [千里の道 \-studio live\-](https://open.spotify.com/track/0XDm0Nqa2jkyAxbn6tGwNs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:26 | 2022-08-22 | 2022-09-30 |
+| [千里の道 \-studio live\-](https://open.spotify.com/track/0XDm0Nqa2jkyAxbn6tGwNs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:26 | 2022-08-22 |  |
 | [卒業写真](https://open.spotify.com/track/5kxHVUrCHeyB0Y6Hhczqow) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:38 | 2022-08-10 |  |
 | [奇跡の海](https://open.spotify.com/track/3SvHpNm2zWsogFk9IVJdNQ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 4:18 | 2022-08-10 | 2022-10-01 |
 | [宇宙の記憶](https://open.spotify.com/track/3uaZprGpodif2hd4GPEZGA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [宇宙の記憶](https://open.spotify.com/album/4dqKz3OlI0w5ug6Gd9wI7p) | 3:15 | 2022-09-08 | 2022-09-26 |
@@ -62,6 +62,7 @@
 | [紅茶](https://open.spotify.com/track/670Osl1XXLz8Qc3TcUhD4N) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 5:31 | 2022-08-10 |  |
 | [色彩](https://open.spotify.com/track/3SbOOdiONumSVvLtsSBKOt) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [幸せについて私が知っている5つの方法/色彩](https://open.spotify.com/album/4f2jYtFDHK66bUVSSzD6MD) | 4:33 | 2022-08-10 |  |
 | [色彩\-unplugged session\-](https://open.spotify.com/track/3CjlH3sNGezw2gQoDBKGQn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 5:43 | 2022-09-15 | 2022-09-17 |
+| [荒川小景](https://open.spotify.com/track/0bCYCxhnmWCFA8WcoCOvqz) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [SUPERFINE](https://open.spotify.com/album/6cMizcqPNkknWPgJNeBi9u) | 6:10 | 2022-10-04 |  |
 | [言葉にできない](https://open.spotify.com/track/08bJMeQRwtpLnrMF1ScLvn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 4:56 | 2022-08-10 |  |
 | [躍動](https://open.spotify.com/track/7fi2zDTlIUWMDPHrhm8Qsj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動](https://open.spotify.com/album/5zNh75gt6D4kRCWZXhb3UZ) | 4:09 | 2022-08-10 |  |
 | [逆光](https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 4:48 | 2022-08-10 |  |

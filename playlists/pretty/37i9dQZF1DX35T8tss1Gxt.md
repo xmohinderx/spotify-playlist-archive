@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,942 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,988 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 47 | [Has anyone ever left you high and dry?](https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 2:27 |
 | 48 | [Heaven](https://open.spotify.com/track/5b5Pi5oP4FWNcEPVmr8MIa) | [Anthony David](https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP) | [Heaven](https://open.spotify.com/album/36GXbwa9TQmAQ8BfCaU1y5) | 4:15 |
 | 49 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 |
-| 50 | [Make It](https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL), [Mod G](https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6) | [Make It](https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST) | 2:50 |
-| 51 | [Grounded](https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Erica Bostick](https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn) | [Amidst](https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL) | 4:00 |
+| 50 | [Grounded](https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Erica Bostick](https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn) | [Amidst](https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL) | 4:00 |
+| 51 | [Make It](https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL), [Mod G](https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6) | [Make It](https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST) | 2:50 |
 | 52 | [Divine Time](https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b) | [Divine Time](https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb) | 2:32 |
 | 53 | [Be Alright](https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY) | [Michael Dixon](https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF), [Christina Bell](https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR) | [How Are You Healing?](https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy) | 4:45 |
 | 54 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 68 | [Heavy](https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Heavy](https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE) | 3:30 |
 | 69 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
 | 70 | [Gotta Be God](https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Gotta Be God](https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv) | 2:48 |
-| 71 | [Learning to Forgive](https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Learning to Forgive](https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP) | 3:04 |
-| 72 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 |
+| 71 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 |
+| 72 | [Learning to Forgive](https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Learning to Forgive](https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP) | 3:04 |
 | 73 | [New Wine Flow](https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [New Wine Flow](https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y) | 3:29 |
 | 74 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 |
 | 75 | [The Best Friend](https://open.spotify.com/track/6gndTSB6dxJOz8db35DqFO) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [The Best Friend](https://open.spotify.com/album/3B9L9agghKNHGI6ulzHnUW) | 3:54 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 92 | [Preach](https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Preach](https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj) | 3:00 |
 | 93 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 |
 | 94 | [You Won't Leave Us](https://open.spotify.com/track/2vwqf7ECS2Th0lHoN9LuUz) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [You Won't Leave Us](https://open.spotify.com/album/4wiAzOB2eT9e6XLWtsYLzQ) | 3:19 |
-| 95 | [VANILLA](https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [VANILLA](https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB) | 2:28 |
+| 95 | [The Vow](https://open.spotify.com/track/19UDuT4NcAOEeBtG3ZPgYk) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [The Vow](https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE) | 4:10 |
 | 96 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
 | 97 | [Raise Me up](https://open.spotify.com/track/3lhwLzBFmGqt0gQ4iIExNy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Raise Me up](https://open.spotify.com/album/0ejViiyqE6EPBVDoCzd1G4) | 2:46 |
-| 98 | [The Vow](https://open.spotify.com/track/19UDuT4NcAOEeBtG3ZPgYk) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [The Vow](https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE) | 4:10 |
+| 98 | [VANILLA](https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [VANILLA](https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB) | 2:28 |
 | 99 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
 | 100 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
 
-Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMDA3YzNkNDdiZGE2NDYxMjU3OGIwYTU3ZGI2OWE0NTgw`
+Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMDU3NTg0ZDFlZmI5YWQ3ODVlMTQ4Y2IyOGY3ZmU1NTgx`

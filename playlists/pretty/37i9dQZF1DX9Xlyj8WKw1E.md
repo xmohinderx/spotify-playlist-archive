@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,328 likes - 57 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,329 likes - 57 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 2 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Willing To Trust](https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61) | 4:42 |
 | 3 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 |
 | 4 | [KEEP GOING \(feat\. Lil Durk, 21 Savage & Roddy Ricch\)](https://open.spotify.com/track/1oSh0SKc4MwmXSGiTtqSXp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:04 |
-| 5 | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(feat\. J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
+| 5 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 | 6 | [IDGAF](https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [IDGAF](https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI) | 2:18 |
 | 7 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 |
 | 8 | [It's All on U](https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [It's All on U](https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy) | 2:46 |

@@ -1,12 +1,12 @@
 {
   "description": "De Britney a Madonna, os maiores hits do pop est\u00e3o reunidos nesta playlist. Foto: Britney Spears",
-  "num_followers": 292368,
+  "num_followers": 292421,
   "original_name": "Hinos Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDI2NjgwMCwwMDAwMDAwMDRjYTNjOTFkZGQ5ZDRlYjg1NTg5OWY4YjIwNjZiMDg2",
+  "snapshot_id": "MTYzNDI2NjgwMCwwMDAwMDAwMGNlYmE3MzM5NTY0Y2Y5MWYwMDRiNDE0YzljOTkwN2M1",
   "tracks": [
     {
       "added_at": "2021-10-15 03:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-10-15 03:00:00",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2021-10-15 03:00:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
+    },
+    {
+      "added_at": "2021-10-15 03:00:00",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2021-10-15 03:00:00",
