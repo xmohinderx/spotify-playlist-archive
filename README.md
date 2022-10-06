@@ -2586,6 +2586,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Música para Leer](/playlists/pretty/37i9dQZF1DX9MDcH3vBMo0.md)
 - [Música para Meditar](/playlists/pretty/37i9dQZF1DWZYo1v54bwkI.md)
 - [NARUTO \-ナルト\-シリーズ](/playlists/pretty/37i9dQZF1DXbjpNmyCn1gC.md)
+- [NCS Releases](/playlists/pretty/7sZbq8QGyMnhKPcLJvCUFD.md)
 - [NFL Draft 2021](/playlists/pretty/37i9dQZF1DXbmafsRvwS7L.md)
 - [NIGHT TRAVELER Radio](/playlists/pretty/37i9dQZF1E4kTD46HZNyiq.md)
 - [NIOH \-仁王\-](/playlists/pretty/37i9dQZF1DX9o0sjdAbiLJ.md)
