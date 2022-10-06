@@ -596,6 +596,32 @@
     },
     {
       "album": {
+        "name": "attachment (she wanna love)",
+        "url": "https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Bossa",
+          "url": "https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC"
+        },
+        {
+          "name": "Kanii Archive",
+          "url": "https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88620,
+      "name": "attachment (she wanna love)",
+      "url": "https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S"
+    },
+    {
+      "album": {
         "name": "AWKWARD FREESTYLE",
         "url": "https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV"
       },
@@ -3781,7 +3807,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 132453,
       "name": "I Like Him",
       "url": "https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H"

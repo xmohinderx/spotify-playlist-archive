@@ -4,7 +4,7 @@
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-91 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/3hJwIKMOemzG50G9c6UeZn)
+92 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/3hJwIKMOemzG50G9c6UeZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 | 2021-10-21 |  |
 | [Bhaio Bhin](https://open.spotify.com/track/0FNWncnBxzqcxMlpGCf6mI) | [Sarah](https://open.spotify.com/artist/33Gx2JOUU4jrmRhjxwaOxb), [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 3:51 | 2021-10-21 |  |
 | [Bhalay Ki \- Sohar](https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 3:54 | 2022-06-22 |  |
-| [Birana](https://open.spotify.com/track/2ieNMS5bcrFHzeXuRltLlz) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Birana](https://open.spotify.com/album/74qikSE4Wj924WHoPJYPgf) | 4:33 | 2022-06-22 |  |
+| [Birana](https://open.spotify.com/track/2ieNMS5bcrFHzeXuRltLlz) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Birana](https://open.spotify.com/album/74qikSE4Wj924WHoPJYPgf) | 4:33 | 2022-06-22 | 2022-10-06 |
+| [Birana](https://open.spotify.com/track/70NzqCskRA7XRDUos19Wq3) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Birana](https://open.spotify.com/album/2lZyQHX5F8QCMqQgC8QyTr) | 4:33 | 2022-09-27 |  |
 | [Bollywood](https://open.spotify.com/track/70zwaLKQHTsfnpopKJ8RZN) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [K RICH](https://open.spotify.com/artist/4APcCG1bHmbxwPjbEQ6YQA) | [Curry Que Riddim](https://open.spotify.com/album/3HzvqUiLh4iJD6TB096WLo) | 3:06 | 2021-10-21 | 2022-06-23 |
 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 | 2021-10-21 |  |
 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 | 2021-10-21 |  |

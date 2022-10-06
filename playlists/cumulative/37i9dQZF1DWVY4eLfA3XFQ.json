@@ -6534,6 +6534,24 @@
     },
     {
       "album": {
+        "name": "Looking For Something EP",
+        "url": "https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0"
+      },
+      "artists": [
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Looking For Something",
+      "url": "https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/7cBWx8QaTCXV08rgO2M8YN"
       },
@@ -9727,7 +9745,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 120944,
       "name": "Scream",
       "url": "https://open.spotify.com/track/7bthGzTBQQMd7styeIJ6s1"
@@ -10207,7 +10225,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 181440,
       "name": "Something",
       "url": "https://open.spotify.com/track/1S3VL4F0d6WnS71pSpNSe8"
@@ -11155,7 +11173,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201029,
-      "name": "The Excuse - LO\u201999 Remix",
+      "name": "The Excuse (LO\u201999 Remix)",
       "url": "https://open.spotify.com/track/2JufZYa5YmzFIEvoGmEiYf"
     },
     {

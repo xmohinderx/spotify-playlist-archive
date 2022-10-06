@@ -5233,7 +5233,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 210165,
       "name": "Gonna Be Okay",
       "url": "https://open.spotify.com/track/2Ocao0XJlBrKgIQm9ckhsH"
@@ -9480,6 +9480,40 @@
     },
     {
       "album": {
+        "name": "Ondas",
+        "url": "https://open.spotify.com/album/50XZlFgM08Jf1ffJI3OKJJ"
+      },
+      "artists": [
+        {
+          "name": "DJ VINI DA ZO",
+          "url": "https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
+        },
+        {
+          "name": "MC Davi CPR",
+          "url": "https://open.spotify.com/artist/0Xgfv9czKL7lEuKkRpHq2Y"
+        },
+        {
+          "name": "MC Buraga",
+          "url": "https://open.spotify.com/artist/5OjUzfzhGFTQDWfKiPcxAE"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177269,
+      "name": "Onda Subaqu\u00e1tica",
+      "url": "https://open.spotify.com/track/2VXYDFkdswv20S7DFZtLXY"
+    },
+    {
+      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -13365,7 +13399,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 152241,
       "name": "Tubarao Te Amo vs Andou Na Prancha Cuidado Tubarao Vai te Pegar",
       "url": "https://open.spotify.com/track/20AZdKe5RIGArK9rjqwcAg"
@@ -13753,6 +13787,24 @@
       "duration_ms": 165558,
       "name": "Vai dar PT",
       "url": "https://open.spotify.com/track/4Ti7WdCbPoxBBURxuY6sT9"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/0Ovm1SkjHbW11vWJHVlRlS"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110613,
+      "name": "Vai Dar PT - Ao Vivo",
+      "url": "https://open.spotify.com/track/3aD1casmkFBZRtBcTs33fL"
     },
     {
       "album": {

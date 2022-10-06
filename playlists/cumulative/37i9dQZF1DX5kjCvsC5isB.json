@@ -2227,10 +2227,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 214116,
       "name": "last time",
       "url": "https://open.spotify.com/track/7jj4WfVJJiTt4E3RVUNoqT"
+    },
+    {
+      "album": {
+        "name": "through the self",
+        "url": "https://open.spotify.com/album/6VTcvLeLjkgb60cdKQA1sH"
+      },
+      "artists": [
+        {
+          "name": "little luna",
+          "url": "https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU"
+        },
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215090,
+      "name": "last time",
+      "url": "https://open.spotify.com/track/0ly1XOeYI1unsPXjErBWPX"
     },
     {
       "album": {

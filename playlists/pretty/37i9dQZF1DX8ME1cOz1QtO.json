@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 43406,
+  "num_followers": 43497,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4Njk1OCwwMDAwMDAwMDU5OTljMzk5YjZiMzA1MDcxNTRiMjViZDg1ZGQzYzhk",
+  "snapshot_id": "MTY2NDg4Njk1OCwwMDAwMDAwMDg0N2QyZDJhYzZiNGYyOTA1Y2VhNTc1YTUyYjE3Yzc0",
   "tracks": [
     {
       "added_at": "2022-07-01 17:28:50",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Pinnacles",
-        "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 264893,
-      "name": "The Light Cone",
-      "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Music For Zen Meditation And Other Joys",
         "url": "https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 96760,
       "name": "To Drift Like Clouds",
       "url": "https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "The Essential Yanni",
+        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "The Mermaid",
+      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "The Essential Yanni",
-        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
+        "name": "Pinnacles",
+        "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
       },
       "artists": [
         {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
         }
       ],
-      "duration_ms": 225786,
-      "name": "The Mermaid",
-      "url": "https://open.spotify.com/track/2THAycwJ47OsWLMhC04yEr"
+      "duration_ms": 264893,
+      "name": "The Light Cone",
+      "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
-      },
-      "artists": [
-        {
-          "name": "Tony Scott",
-          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
-        },
-        {
-          "name": "Jan Akkerman",
-          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
-        }
-      ],
-      "duration_ms": 720426,
-      "name": "Silmarillion",
-      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Mooncircles",
         "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 332786,
       "name": "Living Your Ending",
       "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
+      },
+      "artists": [
+        {
+          "name": "Tony Scott",
+          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
+        },
+        {
+          "name": "Jan Akkerman",
+          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
+        }
+      ],
+      "duration_ms": 720426,
+      "name": "Silmarillion",
+      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Boreale",
-      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Hear and Be Yonder",
         "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 465986,
       "name": "Carmel Valley Sunset",
       "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Boreale",
+      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1623,6 +1623,22 @@
       "duration_ms": 936000,
       "name": "Mirador",
       "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1041570,
+      "name": "Pagnifico",
+      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 1041570,
-      "name": "Pagnifico",
-      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Transcendental Music for Meditation",
         "url": "https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB"
       },
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
+        "url": "https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0"
       },
       "artists": [
         {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+          "name": "Kevin Braheny",
+          "url": "https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D"
         }
       ],
-      "duration_ms": 394826,
-      "name": "Soaring: Crown Chakra",
-      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
+      "duration_ms": 378453,
+      "name": "Ancient Stars",
+      "url": "https://open.spotify.com/track/1k5jE8g4ap9J78p0gH05rL"
     }
   ],
   "unique_name": "Early New Age",

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127199,
+  "num_followers": 127192,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY1OCw1NzM2ZGY2MTRkZWE5MzI5YTE3NmExMTRmOWY0MTNkZjRmZTk3ZTlm",
+  "snapshot_id": "MzY2MixjNzRlNDY1NjFjODhlODNhNDQ2MjI3ZDcxNDE0ZDM3MTQ1MzkwOTE3",
   "tracks": [
+    {
+      "added_at": "2022-10-05 16:46:33",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/4oKkFqArAgFKTrXbs9IGJk"
+      },
+      "artists": [
+        {
+          "name": "Vintage & Morelli",
+          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+        }
+      ],
+      "duration_ms": 236874,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/5h2qGN5jMJXp68VzQuMqql"
+    },
     {
       "added_at": "2022-10-04 16:35:52",
       "album": {
@@ -1083,58 +1099,6 @@
       "duration_ms": 201126,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/59j1aFqihFjuwZzii7lIYP"
-    },
-    {
-      "added_at": "2022-07-25 17:04:25",
-      "album": {
-        "name": "Agony District",
-        "url": "https://open.spotify.com/album/2xcGif7Oz4N0k5XtvDWNU6"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2XROdt9KOkQNxN6Ugq3z3m"
-    },
-    {
-      "added_at": "2022-07-22 16:38:37",
-      "album": {
-        "name": "All We Needed",
-        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "All We Needed",
-      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
-    },
-    {
-      "added_at": "2022-07-22 16:38:18",
-      "album": {
-        "name": "Over The Water",
-        "url": "https://open.spotify.com/album/2HcOB7CmgTbZu3fPAvTHeL"
-      },
-      "artists": [
-        {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
-        },
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Over The Water",
-      "url": "https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1167,6 +1167,24 @@
     {
       "album": {
         "name": "Another Love",
+        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
+      },
+      "artists": [
+        {
+          "name": "OsTEKKe",
+          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145676,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
+    },
+    {
+      "album": {
+        "name": "Another Love",
         "url": "https://open.spotify.com/album/3Sz7mR0kbSHklOv6Nk5duJ"
       },
       "artists": [
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 150595,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/0SHHJc5BFL4pVmxm32Bb8Q"
@@ -2839,7 +2857,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 130199,
       "name": "Blue Cheese (feat. KALIM)",
       "url": "https://open.spotify.com/track/7BaLRoaLSmnOgmMnQzonGq"
@@ -3009,7 +3027,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -5261,7 +5279,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 175880,
       "name": "Drill LUV",
       "url": "https://open.spotify.com/track/2XXpLFPZGxgtohTd79DjZO"
@@ -8347,6 +8365,28 @@
       "duration_ms": 189446,
       "name": "Heimkommen",
       "url": "https://open.spotify.com/track/64ZyI00DBUUigpTanQqA0l"
+    },
+    {
+      "album": {
+        "name": "Helikopter (Official Remix)",
+        "url": "https://open.spotify.com/album/2d2qpBpPRQreR5ycZT89tV"
+      },
+      "artists": [
+        {
+          "name": "Fazlija",
+          "url": "https://open.spotify.com/artist/66NUoTVw73n8GHPUOGeToE"
+        },
+        {
+          "name": "DJ Joker",
+          "url": "https://open.spotify.com/artist/3P39cZk8b0y0ctJZtbCxn2"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167131,
+      "name": "Helikopter - Official Remix",
+      "url": "https://open.spotify.com/track/0qSGK52yXAkeGCpZ60KvM9"
     },
     {
       "album": {

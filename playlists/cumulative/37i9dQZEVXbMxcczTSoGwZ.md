@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,030 songs - 2 day 8 hr 58 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+1,031 songs - 2 day 9 hr 2 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Calling My Phone](https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Calling My Phone](https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp) | 3:25 | 2021-03-27\* | 2021-03-27 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-12-04 |
 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 | 2021-12-20 | 2021-12-27 |
-| [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 |  |
+| [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 | 2022-10-06 |
+| [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-05 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-09 |
 | [Cheek](https://open.spotify.com/track/6Zy7DwGzHvezMHUASmAvqv) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:48 | 2022-03-05 | 2022-03-21 |
 | [Chillaa veli](https://open.spotify.com/track/1agD3NMqnpaejVler2S9xJ) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Chillaa veli](https://open.spotify.com/album/7lHrsy9SvjKWr2Ca13Qv8d) | 2:51 | 2022-07-09 |  |
@@ -249,7 +250,7 @@
 | [Galileo Galilei](https://open.spotify.com/track/4tT4NmTKrIxdyh137GGh7a) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [3½](https://open.spotify.com/album/60dPYk27SouDtGxGCtbDAQ) | 3:12 | 2022-08-13 | 2022-08-21 |
 | [Gang \(Maanantai sessarit 6\)](https://open.spotify.com/track/3L3H6DQCxKj9KWI0jauxMv) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Gang \(Maanantai sessarit 6\)](https://open.spotify.com/album/4WCq7kBPbG3T8Iiv7UBPZY) | 2:20 | 2022-04-09 | 2022-04-17 |
 | [Gangsta Psykoosi](https://open.spotify.com/track/0hBcEuxni0Df5dZpYcj64W) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Gangsta Psykoosi](https://open.spotify.com/album/4CF5Q8RHtLZnwEFXDhEJ3O) | 2:26 | 2022-08-27 | 2022-09-11 |
-| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 |  |
+| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-06 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
 | [Gasoo Ei Breikkei](https://open.spotify.com/track/2rOJQl0dCaR5sk9hBn4NE8) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Gasoo Ei Breikkei](https://open.spotify.com/album/5m7R7Uqm136FSlOOpEsJxF) | 2:05 | 2021-07-18 | 2021-08-22 |
 | [GAY](https://open.spotify.com/track/4Hy8NmXUsiHYhkrdXbP1ma) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [GAY](https://open.spotify.com/album/4MdiJIAjKoPTf2Qbn6J8rP) | 2:52 | 2022-07-09 | 2022-09-11 |
@@ -480,7 +481,7 @@
 | [Kyyneleet \(feat\. ABREU\)](https://open.spotify.com/track/1KqByb20JJCWZIobdSyLEm) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Kyyneleet \(feat\. ABREU\)](https://open.spotify.com/album/67HQwlVtqlMtEUH7dqoNLk) | 2:46 | 2021-09-12 | 2021-09-19 |
 | [Kyynelii](https://open.spotify.com/track/3YgOwQsqjzXIWzTwPPQz98) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kyynelii](https://open.spotify.com/album/0JAzHnRgLF5gT9TfDLyAGz) | 3:23 | 2022-01-08 | 2022-03-06 |
 | [Kämmenen kuva poskeen](https://open.spotify.com/track/78LbF7hMmdzakQhHsKu9vZ) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Kämmenen kuva poskeen](https://open.spotify.com/album/5WqX6S8tooEQQLxkHwhxEM) | 3:36 | 2022-08-27 | 2022-09-11 |
-| [Käytöstapoi \(feat\. william\)](https://open.spotify.com/track/0JbfBxlJxSqjbI9vbzi4Vn) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Käytöstapoi \(feat\. william\)](https://open.spotify.com/album/0bAWqhFMTLiZAsqQoZGE90) | 2:09 | 2022-05-21 | 2022-10-02 |
+| [Käytöstapoi \(feat\. william\)](https://open.spotify.com/track/0JbfBxlJxSqjbI9vbzi4Vn) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Käytöstapoi \(feat\. william\)](https://open.spotify.com/album/0bAWqhFMTLiZAsqQoZGE90) | 2:09 | 2022-05-21 |  |
 | [Kääntöpuolii](https://open.spotify.com/track/5LIJUyoE2btHHMoBY43NbT) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Kääntöpuolii](https://open.spotify.com/album/1QW7sJqmVZdyyflE7dG4Qm) | 3:02 | 2022-09-24 |  |
 | [LA PAURA DEL BUIO](https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:29 | 2021-05-29 | 2021-05-30 |
 | [Lady Domina](https://open.spotify.com/track/2f6H6tU0BRpAMBTr0QQZ2c) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Lady Domina](https://open.spotify.com/album/0PDYfPl40HLz4SHsrzz1sb) | 3:26 | 2021-03-27\* | 2021-05-05 |

@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-332 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+333 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Oh Canada](https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:47 | 2021-11-12 | 2022-07-29 |
 | [On & On](https://open.spotify.com/track/65yBRgxgY5mHNkNPyjpqPu) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [On & On](https://open.spotify.com/album/5meArWE9yVvoIaDFPpPTkE) | 3:35 | 2021-11-12 | 2022-07-29 |
 | [On Your Journey](https://open.spotify.com/track/3jjE958MLus6IZaJK7k08x) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [On Your Journey](https://open.spotify.com/album/2tunt1ak3tuPd924f4t5Ld) | 2:58 | 2022-03-19 | 2022-04-16 |
-| [Once Around the Block](https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [Once Around the Block](https://open.spotify.com/album/7cpwgE4OyxbMoHIqQv5EDQ) | 4:04 | 2022-06-22 |  |
+| [Once Around the Block](https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [Once Around the Block](https://open.spotify.com/album/7cpwgE4OyxbMoHIqQv5EDQ) | 4:04 | 2022-06-22 | 2022-10-06 |
 | [Once Around The Block](https://open.spotify.com/track/3FGxCAbXTpPqvnXrsj7s6W) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [Once Around The Block](https://open.spotify.com/album/0rmU6WApCmV0jssBwoNi4h) | 4:04 | 2022-03-19 | 2022-04-14 |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-06-22 |  |
 | [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2021-11-12 | 2022-07-29 |
@@ -304,6 +304,7 @@
 | [Today](https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Today](https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH) | 2:46 | 2022-03-19 | 2022-04-11 |
 | [Traffic](https://open.spotify.com/track/35SRuMV83zAr0tVX356ALA) | [Andy Cortes](https://open.spotify.com/artist/6OVCGwVPjvhsGhg3VQ7LV2) | [Traffic](https://open.spotify.com/album/7fetj5Pjx1Crl6pDfK2IIj) | 4:07 | 2022-03-19 | 2022-07-19 |
 | [Triptych](https://open.spotify.com/track/2jcvATUcmQH1PMzNbRF6n8) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Triptych](https://open.spotify.com/album/4sAyoSyGUWwKsFEFAva54E) | 3:06 | 2021-11-12 | 2022-07-29 |
+| [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 | 2022-08-05 |  |
 | [Try](https://open.spotify.com/track/1E2pCJo8kbB2og7YYiJMWx) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Collection](https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74) | 2:59 | 2021-11-12 | 2022-07-29 |
 | [Twentytwo](https://open.spotify.com/track/7MrPr8g39uJnXyS405HJci) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Twentytwo In Blue](https://open.spotify.com/album/0Ucku0CR3r5DRYc0KFdNAh) | 4:32 | 2022-03-19 | 2022-04-16 |
 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2021-11-12 |  |

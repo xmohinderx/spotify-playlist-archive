@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-490 songs - 1 day 2 hr 22 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+491 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 |  |
 | [TAKE](https://open.spotify.com/track/3KqPQD3vQbJUTkRsiUzps2) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [1093](https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K) | 3:23 | 2022-01-14 | 2022-09-15 |
 | [Take You Home](https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Take You Home](https://open.spotify.com/album/41uqT8wCaNKApdGZdI0YpF) | 2:46 | 2022-01-20 | 2022-02-10 |
+| [Take Your Time](https://open.spotify.com/track/4JVHZKbaVjyobaBbu1CXj6) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Take Your Time](https://open.spotify.com/album/00g2lg89XpnDTj1uYHceiY) | 4:32 | 2022-10-05 |  |
 | [TEARS](https://open.spotify.com/track/4TTpHvSqFHPiDyK8Vh3fmv) | [PatrickReza](https://open.spotify.com/artist/1tJnPDE5oPDB6ZqMsCTTYx) | [BLOOD, SWEAT, TEARS](https://open.spotify.com/album/2HPFvPzJ0NfDu2qIoTox8n) | 2:44 | 2022-02-18 | 2022-03-19 |
 | [Tears \- Boface Remix](https://open.spotify.com/track/277Ly0ErNTvDQAvJp2yfgg) | [4RUNNR](https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx), [Boface](https://open.spotify.com/artist/73InPuhzpUw2vKetlnxJnQ) | [Tears \(Boface Remix\)](https://open.spotify.com/album/6mqriQAA0DPq6Vvb5Akh2r) | 3:11 | 2022-09-15 |  |
 | [Tempest](https://open.spotify.com/track/0JjN5GDWzFt6ZY8izlci3m) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Sane Music](https://open.spotify.com/artist/6bdY2YWzlQ6H1gxLB5Pdin), [LeftLukas](https://open.spotify.com/artist/0xDrFDK7IK6kgDAdyYhNeH) | [Tempest](https://open.spotify.com/album/7aHBpzvI962YQf7JmMVpa2) | 2:12 | 2022-08-12 | 2022-09-07 |

@@ -1837,6 +1837,36 @@
     {
       "album": {
         "name": "Dhoom Dhaam (From \"Dasara\") - Single",
+        "url": "https://open.spotify.com/album/6iV4v7e8hKHYg338ypwHUS"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Santhosh Hariharan",
+          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        },
+        {
+          "name": "Santhosh Varma",
+          "url": "https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242019,
+      "name": "Dhoom Dhaam (From \"Dasara\")",
+      "url": "https://open.spotify.com/track/1Fs00ueR7iu8mTUATCDGbB"
+    },
+    {
+      "album": {
+        "name": "Dhoom Dhaam (From \"Dasara\") - Single",
         "url": "https://open.spotify.com/album/1gJX8cAmo6oIeJOSjJWjw3"
       },
       "artists": [
@@ -1859,7 +1889,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 242019,
       "name": "Dhoom Dhaam (From \"Dasara\")",
       "url": "https://open.spotify.com/track/3HVIR7cjV6d3H33s5U1D10"

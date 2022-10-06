@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Honey Dijon & Channel Tres.",
-  "num_followers": 402372,
+  "num_followers": 402436,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MzkxMiwwMDAwMDAwMDNmZTU3MzQ4NjE0Yzk1NzJhNzg3MGI4YzJlMDNlYjU3",
+  "snapshot_id": "MTY2NDU1MzkxMiwwMDAwMDAwMGZhNGYzZmJjMTc5YmVkODZiMmEyY2QwMjQ4NzY1NmYx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -623,42 +623,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Fall Out Girl",
-        "url": "https://open.spotify.com/album/3RH6AR0d2ljZkXUiZ5SU8F"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Zai1k",
-          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
-        }
-      ],
-      "duration_ms": 148431,
-      "name": "Fall Out Girl",
-      "url": "https://open.spotify.com/track/67wsvppF1DTqzhMZqJY8qd"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Best Part Missing",
-        "url": "https://open.spotify.com/album/2imJOCIzVwPLsQIpPNL8P7"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "Best Part Missing",
-      "url": "https://open.spotify.com/track/4SCbbGalpHU7n4hqhL5kul"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "From The Ashes (with Skylar Grey) [Paul van Dyk Remix]",
         "url": "https://open.spotify.com/album/0UrxfO3o2Rg7OvsHauoIba"
       },
@@ -679,6 +643,42 @@
       "duration_ms": 253714,
       "name": "From The Ashes (with Skylar Grey) - Paul van Dyk Remix",
       "url": "https://open.spotify.com/track/54qt0W69bdDuWRimXd7gXt"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Best Part Missing",
+        "url": "https://open.spotify.com/album/2imJOCIzVwPLsQIpPNL8P7"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Best Part Missing",
+      "url": "https://open.spotify.com/track/4SCbbGalpHU7n4hqhL5kul"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Fall Out Girl",
+        "url": "https://open.spotify.com/album/3RH6AR0d2ljZkXUiZ5SU8F"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Zai1k",
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
+        }
+      ],
+      "duration_ms": 148431,
+      "name": "Fall Out Girl",
+      "url": "https://open.spotify.com/track/67wsvppF1DTqzhMZqJY8qd"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/1JCbimAC11Q9dyaMk1dz0U"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 177040,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4eRutShPXNfRyPFpiUyk8I"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "I Still Need You (Disco Lines Remix)",
         "url": "https://open.spotify.com/album/4iAeJEjmJmC2noFYA8nUSg"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 133571,
       "name": "I Still Need You (Disco Lines Remix)",
       "url": "https://open.spotify.com/track/4Ok7zoUeISwvTCFv54XjLC"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/1JCbimAC11Q9dyaMk1dz0U"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4eRutShPXNfRyPFpiUyk8I"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "BRUTALISM REPRISE",
-        "url": "https://open.spotify.com/album/1gNDM3U5ygqFVOTXkMirHc"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        },
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 268458,
-      "name": "BRUTALISM REPRISE",
-      "url": "https://open.spotify.com/track/3DXj8pRvmri1LDyD3j350R"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "NEEDS",
         "url": "https://open.spotify.com/album/3gIxaEA7uZRIIGHyTD3QjK"
       },
@@ -1007,18 +987,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Seventh Seal",
-        "url": "https://open.spotify.com/album/4e1bF5FHt0n07req9vRSQn"
+        "name": "BRUTALISM REPRISE",
+        "url": "https://open.spotify.com/album/1gNDM3U5ygqFVOTXkMirHc"
       },
       "artists": [
         {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        },
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
         }
       ],
-      "duration_ms": 339442,
-      "name": "Seventh Seal",
-      "url": "https://open.spotify.com/track/5aMmekZWQmnfiaCZXDqENv"
+      "duration_ms": 268458,
+      "name": "BRUTALISM REPRISE",
+      "url": "https://open.spotify.com/track/3DXj8pRvmri1LDyD3j350R"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 188000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/7bda2Oolx0yPguJMLAGCCz"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Seventh Seal",
+        "url": "https://open.spotify.com/album/4e1bF5FHt0n07req9vRSQn"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 339442,
+      "name": "Seventh Seal",
+      "url": "https://open.spotify.com/track/5aMmekZWQmnfiaCZXDqENv"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Light A Fire - Radio Edit",
+      "url": "https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Easy Mark",
         "url": "https://open.spotify.com/album/3Hq6qvxK8sCwUkB1xkFzBD"
       },
@@ -1111,42 +1127,6 @@
       "duration_ms": 288577,
       "name": "Easy Mark",
       "url": "https://open.spotify.com/track/1K28nxen1ATizQJ525MQiT"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/38tZxtXqDMHqu4G6xbRnZ8"
-      },
-      "artists": [
-        {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
-        },
-        {
-          "name": "CARLIE",
-          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/3ZkNF2kUYLwoskvSgMrWpF"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Light A Fire - Radio Edit",
-      "url": "https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1207,6 +1187,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/38tZxtXqDMHqu4G6xbRnZ8"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        },
+        {
+          "name": "CARLIE",
+          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/3ZkNF2kUYLwoskvSgMrWpF"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Bet You (I Do)",
         "url": "https://open.spotify.com/album/7LQ7QoCerIYG2YYLcIbGLn"
       },
@@ -1219,6 +1219,30 @@
       "duration_ms": 175781,
       "name": "Bet You (I Do)",
       "url": "https://open.spotify.com/track/30JP080xFbJwixF8W0f9xj"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6CXqM43No4oSEL0XOmTiCQ"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "duration_ms": 183445,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7hOXCmwRv1oDNWfxQrwZoy"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1255,30 +1279,6 @@
       "duration_ms": 250415,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/4Xocat0jKP9tWoEJ4l4L1x"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/6CXqM43No4oSEL0XOmTiCQ"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        },
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        }
-      ],
-      "duration_ms": 183445,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7hOXCmwRv1oDNWfxQrwZoy"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Looking Back EP",
-        "url": "https://open.spotify.com/album/5au8RXzyAeHajABjOInuEf"
+        "name": "Hit It",
+        "url": "https://open.spotify.com/album/0K8zni20c0AnBN5UiFpp5D"
       },
       "artists": [
         {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        },
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+          "name": "AW",
+          "url": "https://open.spotify.com/artist/07klEuoeAcIFT4YY6tkcVJ"
         }
       ],
-      "duration_ms": 154687,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/4hzyxTEdy1UscMEX7iH9T7"
+      "duration_ms": 198096,
+      "name": "Hit It",
+      "url": "https://open.spotify.com/track/6JExt7eYkr0Dfjzt9UW0As"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1447,6 +1443,62 @@
       "duration_ms": 265750,
       "name": "X33 (Angel\u2606Type!)",
       "url": "https://open.spotify.com/track/7ygZMvmeGntR1bYd7AUnTG"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Looking Back EP",
+        "url": "https://open.spotify.com/album/5au8RXzyAeHajABjOInuEf"
+      },
+      "artists": [
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/4hzyxTEdy1UscMEX7iH9T7"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Turned On (Radio Edit)",
+        "url": "https://open.spotify.com/album/0GJI1jE3CWW3fmPVJqydFj"
+      },
+      "artists": [
+        {
+          "name": "Clyde P",
+          "url": "https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Turned On - Radio Edit",
+      "url": "https://open.spotify.com/track/4jSVyE04bwvAmHV3sodlxV"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "What Is Left Of Me",
+        "url": "https://open.spotify.com/album/45EzNhiGYiooDtlXZ0WlP7"
+      },
+      "artists": [
+        {
+          "name": "Jack Trades",
+          "url": "https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s"
+        },
+        {
+          "name": "Jodie Knight",
+          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
+        }
+      ],
+      "duration_ms": 190159,
+      "name": "What Is Left Of Me",
+      "url": "https://open.spotify.com/track/2Q8oSLV6VkFe9WC8Dw85IA"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1487,18 +1539,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Hit It",
-        "url": "https://open.spotify.com/album/0K8zni20c0AnBN5UiFpp5D"
+        "name": "Frozen Time",
+        "url": "https://open.spotify.com/album/7adtype4aYgD15BCt98mB6"
       },
       "artists": [
         {
-          "name": "AW",
-          "url": "https://open.spotify.com/artist/07klEuoeAcIFT4YY6tkcVJ"
+          "name": "Joseph Crime",
+          "url": "https://open.spotify.com/artist/263mhJcYZhRpnTByW2f57G"
         }
       ],
-      "duration_ms": 198096,
-      "name": "Hit It",
-      "url": "https://open.spotify.com/track/6JExt7eYkr0Dfjzt9UW0As"
+      "duration_ms": 272727,
+      "name": "Frozen Time",
+      "url": "https://open.spotify.com/track/04gmLKrBOaGYbEboof98rg"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1519,58 +1571,6 @@
       "duration_ms": 313592,
       "name": "Track 10 - Edit",
       "url": "https://open.spotify.com/track/6VUAmGonWfy93hpusPnKZI"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "What Is Left Of Me",
-        "url": "https://open.spotify.com/album/45EzNhiGYiooDtlXZ0WlP7"
-      },
-      "artists": [
-        {
-          "name": "Jack Trades",
-          "url": "https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s"
-        },
-        {
-          "name": "Jodie Knight",
-          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
-        }
-      ],
-      "duration_ms": 190159,
-      "name": "What Is Left Of Me",
-      "url": "https://open.spotify.com/track/2Q8oSLV6VkFe9WC8Dw85IA"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Turned On (Radio Edit)",
-        "url": "https://open.spotify.com/album/0GJI1jE3CWW3fmPVJqydFj"
-      },
-      "artists": [
-        {
-          "name": "Clyde P",
-          "url": "https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Turned On - Radio Edit",
-      "url": "https://open.spotify.com/track/4jSVyE04bwvAmHV3sodlxV"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Blur / Inside",
-        "url": "https://open.spotify.com/album/00FtjFv0ywSsmRmlHybKYR"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 254901,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/1KS2WkfaaFNjFY67rD9I2o"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Blur / Inside",
+        "url": "https://open.spotify.com/album/00FtjFv0ywSsmRmlHybKYR"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 254901,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/1KS2WkfaaFNjFY67rD9I2o"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 255846,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Frozen Time",
-        "url": "https://open.spotify.com/album/7adtype4aYgD15BCt98mB6"
-      },
-      "artists": [
-        {
-          "name": "Joseph Crime",
-          "url": "https://open.spotify.com/artist/263mhJcYZhRpnTByW2f57G"
-        }
-      ],
-      "duration_ms": 272727,
-      "name": "Frozen Time",
-      "url": "https://open.spotify.com/track/04gmLKrBOaGYbEboof98rg"
     },
     {
       "added_at": "2022-09-30 04:00:00",

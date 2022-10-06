@@ -1077,10 +1077,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 193541,
       "name": "Osobola",
       "url": "https://open.spotify.com/track/3Bz6rWbCF6dPyGZUWnfq4q"
+    },
+    {
+      "album": {
+        "name": "Osobola",
+        "url": "https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC"
+      },
+      "artists": [
+        {
+          "name": "Emilian Starz",
+          "url": "https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193541,
+      "name": "Osobola",
+      "url": "https://open.spotify.com/track/6YelPUEUNYf0o7vipnvZgl"
     },
     {
       "album": {

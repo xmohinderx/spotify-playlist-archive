@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Hannah Wants
 
-342 songs - 20 hr 43 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+343 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 | 2022-07-07 |  |
 | [KMT](https://open.spotify.com/track/5CZs2xfkxlnuHLN72MujtZ) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Let Me In / KMT](https://open.spotify.com/album/0vWJFiKa8d9lXT6Ri0fCsK) | 3:36 | 2022-04-29 | 2022-08-26 |
 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 | 2022-07-29 |  |
-| [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-30 |  |
+| [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-30 | 2022-10-06 |
+| [Kutamba](https://open.spotify.com/track/6sDTqjfFSaQzyrm0V55Hlu) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/3DwG9aLJ21gaC0Y8OQHJSE) | 2:56 | 2022-09-30 |  |
 | [La Luna](https://open.spotify.com/track/3Yxc08PwQ9uRUt5bkDll2I) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [La Luna](https://open.spotify.com/album/1zoVH0wshtj6gJgmt3jJhz) | 3:37 | 2022-07-06 | 2022-08-26 |
 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 | 2022-07-07 | 2022-10-01 |
 | [Last All Night](https://open.spotify.com/track/7JRnlLPASSHnwz9ntzvqfC) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Last All Night](https://open.spotify.com/album/622SMJPYsk5LiMxckqN1dE) | 3:37 | 2022-02-18 | 2022-06-17 |

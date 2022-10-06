@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 60672,
+  "num_followers": 60772,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGJhMTBjY2Q5ZTk5NzY3MmNmZDUwNmU5NDhmODlmYTJm",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDMxNGM1MzRmZTIyYmQzYzU1NWYyNTM1MWFmYzcwYTcz",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -707,6 +707,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Gongo Aso",
+        "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
+      },
+      "artists": [
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Gongo Aso",
+      "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Oleku (feat. Brymo)",
         "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 291363,
       "name": "Oleku (feat. Brymo)",
       "url": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Gongo Aso",
-        "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
-      },
-      "artists": [
-        {
-          "name": "9ice",
-          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Gongo Aso",
-      "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -859,6 +859,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Olu Maintain",
+        "url": "https://open.spotify.com/album/2mUdcVpvhrP28q8jHnWdVx"
+      },
+      "artists": [
+        {
+          "name": "Olu Maintain",
+          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
+        }
+      ],
+      "duration_ms": 255744,
+      "name": "Yahooze",
+      "url": "https://open.spotify.com/track/4vu5c3to9ytYGmEIMpWw4q"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Life Is Rough & Smooth",
         "url": "https://open.spotify.com/album/5p9tj9UKG6DSzGg36pVWjl"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 283219,
       "name": "Swagger",
       "url": "https://open.spotify.com/track/1rVyxy6CRo3dB5z5oNKZfc"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Olu Maintain",
-        "url": "https://open.spotify.com/album/2mUdcVpvhrP28q8jHnWdVx"
-      },
-      "artists": [
-        {
-          "name": "Olu Maintain",
-          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
-        }
-      ],
-      "duration_ms": 255744,
-      "name": "Yahooze",
-      "url": "https://open.spotify.com/track/4vu5c3to9ytYGmEIMpWw4q"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+        "name": "Selection",
+        "url": "https://open.spotify.com/album/6vgavmu9XaTbGvnZ7FnTco"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1dATrNO6y7LHKgZ2DhYQsh"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Malonogede",
-      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
+      "duration_ms": 246000,
+      "name": "You Bad",
+      "url": "https://open.spotify.com/track/73t8wajskCvkLtnw7Xvmk7"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Selection",
-        "url": "https://open.spotify.com/album/6vgavmu9XaTbGvnZ7FnTco"
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1dATrNO6y7LHKgZ2DhYQsh"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
         }
       ],
-      "duration_ms": 246000,
-      "name": "You Bad",
-      "url": "https://open.spotify.com/track/73t8wajskCvkLtnw7Xvmk7"
+      "duration_ms": 190266,
+      "name": "Malonogede",
+      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1379,26 +1379,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Full Vim",
-        "url": "https://open.spotify.com/album/0DTMTBEMABaQYdkPCGYnFu"
+        "name": "Akube",
+        "url": "https://open.spotify.com/album/0zELiFzMoNWd27BZ8t24TY"
       },
       "artists": [
         {
-          "name": "Mista Silva",
-          "url": "https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5"
-        },
-        {
-          "name": "Skob",
-          "url": "https://open.spotify.com/artist/3Pyjqc00tBElP4O9VUpyNY"
-        },
-        {
-          "name": "Kwamz N Flava",
-          "url": "https://open.spotify.com/artist/4xvJi4sfP4v2ab7nH3utp8"
+          "name": "Dotman",
+          "url": "https://open.spotify.com/artist/6qMGjGD3lmDJtzALZ8uS2z"
         }
       ],
-      "duration_ms": 260257,
-      "name": "Boom Boom Tah",
-      "url": "https://open.spotify.com/track/1urrkZaxQUFsoQD54wvjY3"
+      "duration_ms": 224586,
+      "name": "Akube",
+      "url": "https://open.spotify.com/track/4ulKfhOXLxTo0QRCpWfZYh"
     },
     {
       "added_at": "2020-11-06 13:21:21",

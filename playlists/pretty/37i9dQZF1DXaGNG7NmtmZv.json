@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 166647,
+  "num_followers": 166718,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDdmMjE4N2U0YmQyYTMzZTcwYzhmZDRkMDA4NmVhOTM5",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGUzMjU1ZmU4ZTFiZWMzMWQzNDc3MDcwNDNmZGRmZjg5",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Vision of Disorder",
         "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 193066,
       "name": "Element",
       "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "For Those Who Were Crucified",
-        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
-      },
-      "artists": [
-        {
-          "name": "All Out War",
-          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Burning Season",
-      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 104600,
       "name": "Just Can't Hate Enough",
       "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "For Those Who Were Crucified",
+        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
+      },
+      "artists": [
+        {
+          "name": "All Out War",
+          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Burning Season",
+      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 144413,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -747,18 +747,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Proud To Be",
-        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
+        "name": "Unorthodox",
+        "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
       },
       "artists": [
         {
-          "name": "DFL",
-          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
+          "name": "Indecision",
+          "url": "https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM"
         }
       ],
-      "duration_ms": 85800,
-      "name": "Proud To Be DFL",
-      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
+      "duration_ms": 108279,
+      "name": "Blindfold",
+      "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Unorthodox",
-        "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
+        "name": "Proud To Be",
+        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
       },
       "artists": [
         {
-          "name": "Indecision",
-          "url": "https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM"
+          "name": "DFL",
+          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
         }
       ],
-      "duration_ms": 108279,
-      "name": "Blindfold",
-      "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
+      "duration_ms": 85800,
+      "name": "Proud To Be DFL",
+      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
     }
   ],
   "unique_name": "Classic Hardcore",

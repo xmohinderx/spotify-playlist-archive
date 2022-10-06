@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: All Them Witches\n",
-  "num_followers": 460783,
+  "num_followers": 460787,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGFkYTExOGE1ZjcyZWRhMmU0YTEzYjIzYjlkZjQ0NTFh",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDljYTYzNDgxNGEyMDk1MGMxNjRlNjQ5YjgyZjhlZmE5",
   "tracks": [
     {
       "added_at": "2022-08-28 19:10:51",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
-      "added_at": "2022-10-05 01:43:44",
+      "added_at": "2022-10-06 01:34:37",
       "album": {
         "name": "Jersey Girl",
         "url": "https://open.spotify.com/album/5iB2B0iDgHikV3eeBo5dzk"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/57nlJv1i24h7KMcNod0dyZ"
     },
     {
-      "added_at": "2022-10-05 01:43:44",
+      "added_at": "2022-10-06 01:34:37",
       "album": {
         "name": "Tour Death Song",
         "url": "https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH"
     },
     {
-      "added_at": "2022-10-05 01:43:44",
+      "added_at": "2022-10-06 01:34:37",
       "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/2QBXaoVHGTe1R88O3aO1XI"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/32dbM6sFlQmbl4y7nVy9cS"
     },
     {
-      "added_at": "2022-10-05 01:43:44",
+      "added_at": "2022-10-06 01:34:37",
       "album": {
         "name": "Do I Love You (Indeed I Do)",
         "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
     },
     {
-      "added_at": "2022-10-05 01:43:44",
+      "added_at": "2022-10-06 01:34:37",
       "album": {
         "name": "Human Crime",
         "url": "https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4"
     },
     {
-      "added_at": "2022-10-05 01:43:44",
+      "added_at": "2022-10-06 01:34:37",
       "album": {
         "name": "Stay Out Of It",
         "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
     },
     {
-      "added_at": "2022-10-05 01:43:44",
+      "added_at": "2022-10-06 01:34:37",
       "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF"
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "The Bridge (Deluxe)",
-        "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 197808,
-      "name": "Rushing Water",
-      "url": "https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "The Bandit / 100,000 People",
         "url": "https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 250961,
       "name": "The Bandit",
       "url": "https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "The Bridge (Deluxe)",
+        "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 197808,
+      "name": "Rushing Water",
+      "url": "https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Everything I Love Is Going to Die",
-      "url": "https://open.spotify.com/track/6O94vSYs7gDfIV2sutYfVo"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Play Loud",
         "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Roadkill",
-        "url": "https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ"
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
       },
       "artists": [
         {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 142507,
-      "name": "Roadkill",
-      "url": "https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR"
+      "duration_ms": 200160,
+      "name": "Everything I Love Is Going to Die",
+      "url": "https://open.spotify.com/track/6O94vSYs7gDfIV2sutYfVo"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -883,6 +867,22 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Roadkill",
+        "url": "https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 142507,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "I Am The Moon: II. Ascension",
-        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 250335,
-      "name": "Playing With My Emotions",
-      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 175397,
       "name": "Just Around The Corner",
       "url": "https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "I Am The Moon: II. Ascension",
+        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 250335,
+      "name": "Playing With My Emotions",
+      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Chrysanthemums",
-        "url": "https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6"
-      },
-      "artists": [
-        {
-          "name": "Born Ruffians",
-          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Chrysanthemums",
-      "url": "https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Bones Owens",
         "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 210239,
       "name": "Rambler - Bonus Track",
       "url": "https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Chrysanthemums",
+        "url": "https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Chrysanthemums",
+      "url": "https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Dream Never Dies",
-        "url": "https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk"
-      },
-      "artists": [
-        {
-          "name": "Lo Moon",
-          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
-        }
-      ],
-      "duration_ms": 285146,
-      "name": "Dream Never Dies",
-      "url": "https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Live Like You",
         "url": "https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 181093,
       "name": "Live Like You",
       "url": "https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Dream Never Dies",
+        "url": "https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk"
+      },
+      "artists": [
+        {
+          "name": "Lo Moon",
+          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
+        }
+      ],
+      "duration_ms": 285146,
+      "name": "Dream Never Dies",
+      "url": "https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Try Better Next Time",
-      "url": "https://open.spotify.com/track/7jxR5vYnUhwE6niPPyzR4V"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Heavy Soul",
         "url": "https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 182689,
       "name": "Heavy Soul",
       "url": "https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "Try Better Next Time",
+      "url": "https://open.spotify.com/track/7jxR5vYnUhwE6niPPyzR4V"
     }
   ],
   "unique_name": "Rockin' Vibes",

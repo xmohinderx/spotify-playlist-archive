@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-1,007 songs - 1 day 14 hr 52 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+1,008 songs - 1 day 14 hr 55 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -817,7 +817,8 @@
 | [Stars](https://open.spotify.com/track/4HouR3qYennJemBOnH37Tu) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Stars](https://open.spotify.com/album/4TkXEtHzDfcNFWMW4gOJFq) | 2:40 | 2022-08-05 |  |
 | [Starscapes](https://open.spotify.com/track/4Kxz7mFnE1dVsxbM6nZCxU) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Miracle](https://open.spotify.com/album/7yILBiqYvyWNs1hJ7NrnwU) | 2:32 | 2022-07-29 | 2022-08-05 |
 | [Starscapes](https://open.spotify.com/track/5NaWL5ISaHzLrL95t5U1M3) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Miracle](https://open.spotify.com/album/72vVfOOz58z2enjlALQUvv) | 2:32 | 2021-12-07 | 2022-07-29 |
-| [Starseed](https://open.spotify.com/track/5uMkulU7wdEslXN7lurIW1) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Multiverse](https://open.spotify.com/album/7Em2BDNDHEc2fRhPg1Do3g) | 3:31 | 2022-09-30 |  |
+| [Starseed](https://open.spotify.com/track/4eeCZlYrjUzySykBusineE) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Multiverse](https://open.spotify.com/album/7BueHUEkuGGJL07tvBaiyt) | 3:31 | 2022-09-30 |  |
+| [Starseed](https://open.spotify.com/track/5uMkulU7wdEslXN7lurIW1) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Multiverse](https://open.spotify.com/album/7Em2BDNDHEc2fRhPg1Do3g) | 3:31 | 2022-09-30 | 2022-10-06 |
 | [Starstruck](https://open.spotify.com/track/2kZ0UFcCow0BnZevx6PYHF) | [The Kozy Kabin](https://open.spotify.com/artist/3ALy4uNz5JoMRSuAjRMpsy) | [Starstruck](https://open.spotify.com/album/6WB20rdiON7xWOnI5iv7wU) | 2:42 | 2022-07-01 |  |
 | [Startup](https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Startup](https://open.spotify.com/album/5VabtlN8uQLiftYe13BGvJ) | 2:47 | 2021-12-07 |  |
 | [Stay](https://open.spotify.com/track/7lrLhtC4gnvQcuPMYpKsSm) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Stay](https://open.spotify.com/album/6bwIOWHf2byXvFjNuKuqnd) | 2:40 | 2022-08-05 |  |

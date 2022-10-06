@@ -4856,6 +4856,28 @@
     },
     {
       "album": {
+        "name": "Can We",
+        "url": "https://open.spotify.com/album/2YGGW83aJAdMGYwDQEvkK0"
+      },
+      "artists": [
+        {
+          "name": "Dusty Flavor",
+          "url": "https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU"
+        },
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222613,
+      "name": "Can We",
+      "url": "https://open.spotify.com/track/3t7BiH0pjjbhNGsvHcYmgl"
+    },
+    {
+      "album": {
         "name": "Can't Buy Me Love",
         "url": "https://open.spotify.com/album/7wR7hQqt7iy9GVLXsdz967"
       },

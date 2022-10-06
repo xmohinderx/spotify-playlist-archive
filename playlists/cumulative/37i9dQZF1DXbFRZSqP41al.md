@@ -4,7 +4,7 @@
 
 > Burn off all those beers from last night.
 
-209 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/5v75t6HpGYMhjfPC1WhqkE)
+210 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/5v75t6HpGYMhjfPC1WhqkE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Last Day Under The Sun](https://open.spotify.com/track/6QrC8IQV29mwLgLMW1zGmm) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 4:47 | 2021-12-16 |  |
 | [Legend](https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:09 | 2022-06-30 |  |
 | [Legend](https://open.spotify.com/track/4MNx1N8V4RLTKlRsbQ5Sd2) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Myths & Legends](https://open.spotify.com/album/6hNgPbvuietZC9tQE6Ix8L) | 3:09 | 2021-12-16 | 2022-07-29 |
+| [Let Me Live / Let Me Die](https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn) | 3:27 | 2022-09-27 |  |
 | [Let Me Live / Let Me Die](https://open.spotify.com/track/481idAnpIOHEjR4YPsbA0y) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ) | 3:27 | 2022-06-30 | 2022-09-20 |
 | [Let Me Live / Let Me Die](https://open.spotify.com/track/5bCDC7qkmxiJc0lPsqiALj) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let The Vultures In](https://open.spotify.com/album/4xPEjD84ueU6Oq6l2saC2d) | 3:27 | 2021-12-16 | 2022-07-29 |
 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 | 2021-12-16 |  |
@@ -181,7 +182,7 @@
 | [Sugar](https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Sugar](https://open.spotify.com/album/5C7ycA5j67dfbzOGcIWXWl) | 3:29 | 2021-12-16 | 2022-07-29 |
 | [Superblood Wolfmoon](https://open.spotify.com/track/7gQm8pZsxA5eXCZMBGV7CA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 3:49 | 2022-07-14 | 2022-07-22 |
 | [Talking Myself in Circles](https://open.spotify.com/track/1L1eNrSGZAZxQUCpa8vtvi) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:41 | 2022-07-14 | 2022-07-27 |
-| [Teach Me To Fight](https://open.spotify.com/track/73BDFtqyGUgQN35Gw3jzYH) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Teach Me To Fight](https://open.spotify.com/album/65hS1sPlNrXeB9XJIPBQ8r) | 3:12 | 2021-12-16 |  |
+| [Teach Me To Fight](https://open.spotify.com/track/73BDFtqyGUgQN35Gw3jzYH) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Teach Me To Fight](https://open.spotify.com/album/65hS1sPlNrXeB9XJIPBQ8r) | 3:12 | 2021-12-16 | 2022-10-06 |
 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 | 2021-12-16 |  |
 | [Th1rt3en or Nothing](https://open.spotify.com/track/781bD6xtn77Wcep2hs13TC) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Th1rt3en or Nothing](https://open.spotify.com/album/1GAgpG73IgX85uKhqbio5O) | 3:45 | 2021-12-16 | 2022-07-29 |
 | [That Dress](https://open.spotify.com/track/0kL7zJ4HZVBCtux5LK0fro) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Infinite Pleasure](https://open.spotify.com/album/1A8gjtOS5x9Ga0ooO6BXzW) | 3:20 | 2022-02-03 | 2022-07-29 |

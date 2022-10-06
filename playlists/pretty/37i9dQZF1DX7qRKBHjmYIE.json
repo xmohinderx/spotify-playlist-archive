@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 749568,
+  "num_followers": 749586,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMDM3MjQzNGViOTUyNjgyOTFhNjJiMTNjNmUxZWQ3OGRh",
+  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMDk1OGMwZGRiMDc4ZDc2ZmZlMGMwNDczZmMxOTU1ZDU2",
   "tracks": [
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
+        "name": "Se Siente Diferente",
+        "url": "https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 212038,
+      "name": "No Es Normal",
+      "url": "https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
         "name": "Direction",
         "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 225454,
       "name": "Direction",
       "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
-        "name": "Se Siente Diferente",
-        "url": "https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 212038,
-      "name": "No Es Normal",
-      "url": "https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM"
     }
   ],
   "unique_name": "Mixto",

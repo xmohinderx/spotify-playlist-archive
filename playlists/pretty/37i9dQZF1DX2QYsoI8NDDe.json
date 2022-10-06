@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar ",
-  "num_followers": 490703,
+  "num_followers": 490790,
   "original_name": "Mujerones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1NDgzOSwwMDAwMDAwMDZjYmJmMGE5YzNkNDY1MTAxYWNiNzRlMTNlNzgwNWE4",
+  "snapshot_id": "MTY1OTU1NDgzOSwwMDAwMDAwMDQ5YjljNTg0YTNhMjYzZjRiOTljNjkwOGQ4ZjgwOGI2",
   "tracks": [
     {
       "added_at": "2022-08-03 19:27:19",
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 285773,
-      "name": "El Ultimo Adios",
-      "url": "https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8"
+      "duration_ms": 224640,
+      "name": "Yo No Soy Esa Mujer",
+      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Yo No Soy Esa Mujer",
-      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
+      "duration_ms": 285773,
+      "name": "El Ultimo Adios",
+      "url": "https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "Amante de Lo Bueno",
-        "url": "https://open.spotify.com/album/7abaFWBylAQnrSRXYABOZv"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 235253,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/0BVCEJJFVsb8nrQGI11Dj2"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
         "name": "Thalia",
         "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 269120,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "Amante de Lo Bueno",
+        "url": "https://open.spotify.com/album/7abaFWBylAQnrSRXYABOZv"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 235253,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/0BVCEJJFVsb8nrQGI11Dj2"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
+        "name": "Me Siento Tan Sola",
+        "url": "https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Con los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/2YTKyc2ZppRHWTSI1Bf2Iz"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
         "name": "Ajustando Cuentas",
         "url": "https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 222720,
       "name": "Ajustando Cuentas",
       "url": "https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Me Siento Tan Sola",
-        "url": "https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Con los Ojos Cerrados",
-      "url": "https://open.spotify.com/track/2YTKyc2ZppRHWTSI1Bf2Iz"
     },
     {
       "added_at": "2022-08-03 19:27:19",

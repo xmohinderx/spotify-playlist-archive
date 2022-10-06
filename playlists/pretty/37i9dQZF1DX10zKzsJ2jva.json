@@ -1,12 +1,12 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Maluma",
-  "num_followers": 12597721,
+  "num_followers": 12601410,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgwMzg1MCwwMDAwMDAwMDFjM2Q1NDA1ZDI4N2IzOTU0ODlkY2MwOWUwNDk3NGM3",
+  "snapshot_id": "MTY2NDk4NzI1NywwMDAwMDAwMDc5OGZmMjY2NDRkNDhhMzk2MjRjYzRjNjU5Yjk2Zjhj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -163,6 +163,26 @@
       "duration_ms": 212304,
       "name": "Los Cachos",
       "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+    },
+    {
+      "added_at": "2022-10-05 16:27:37",
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208894,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/4yXBfJAPsDZjpjMEp9NyjT"
     },
     {
       "added_at": "2022-09-30 04:00:00",

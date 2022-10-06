@@ -1,12 +1,12 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 19892,
+  "num_followers": 19916,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMDE1ZDE4OGJkYmJmZjhmZWM5MGJkNDE4YmUzZDVjYWRl",
+  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMDJlNzhmNjIwNjc3M2U5ZjRmZDc0MGFkNDU2ZTEyYzJk",
   "tracks": [
     {
       "added_at": "2020-04-14 00:02:38",
@@ -507,18 +507,22 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "\u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep"
+        "name": "Billo's Caracas Boys vs. Dimension Latina",
+        "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        },
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
         }
       ],
-      "duration_ms": 282981,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
+      "duration_ms": 225140,
+      "name": "Lloraras - Edit",
+      "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -543,22 +547,18 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Billo's Caracas Boys vs. Dimension Latina",
-        "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
+        "name": "\u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        },
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 225140,
-      "name": "Lloraras - Edit",
-      "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
+      "duration_ms": 282981,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
     },
     {
       "added_at": "2020-04-14 00:02:38",

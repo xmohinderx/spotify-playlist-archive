@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1627996,
+  "num_followers": 1628524,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDc3MGNmMDIzNzg3N2JkZWI3OGQ1Mzk1NjA2ZWU2Yjdk",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMGE5MjczMDhmOWQxMWI0YTY5MjM5NmQ4ZDM5ODljODRh",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "LOST YOU",
+      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "24 Hrs",
         "url": "https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 167945,
       "name": "24 Hrs (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "LOST YOU",
-      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
     },
     {
       "added_at": "2022-07-15 04:00:00",

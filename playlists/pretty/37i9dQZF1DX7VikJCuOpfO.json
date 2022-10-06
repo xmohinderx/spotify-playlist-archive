@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 61842,
+  "num_followers": 61857,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDIwYWM3MGZjNGNmZDUyOWRjMDQwZmJjNDQ0Y2Q4NjRj",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDhkNDZlMTI4NTE4YmZiNzNkNDI0YWM2OGZiYjI3MWEx",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 224533,
       "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "En Tu Sonrisa",
+        "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 188066,
       "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "En Tu Sonrisa",
-        "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Con Todo y Mi Tristeza (Live)",
-        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 258730,
-      "name": "Con Todo y Mi Tristeza - Live",
-      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 180000,
       "name": "Quiero - Mariachi",
       "url": "https://open.spotify.com/track/7hIwQgldC4w99nPtZyScgN"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Con Todo y Mi Tristeza (Live)",
+        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 258730,
+      "name": "Con Todo y Mi Tristeza - Live",
+      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 215487,
-      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "12 Exitos De Oro",
         "url": "https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 148565,
       "name": "El Diluvio",
       "url": "https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 215487,
+      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/2A7c33rJO2tYtXUxjUB9rr"
-      },
-      "artists": [
-        {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/5RnXVDdILr94evzMVEtFuH"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 211356,
       "name": "Por Siempre Ser\u00e1s M\u00eda",
       "url": "https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/2A7c33rJO2tYtXUxjUB9rr"
+      },
+      "artists": [
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/5RnXVDdILr94evzMVEtFuH"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Quiero Confesarte",
-        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
-      },
-      "artists": [
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 155365,
-      "name": "Quiero Confesarte",
-      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "T\u00fa Solo T\u00fa",
         "url": "https://open.spotify.com/album/5cWsl9DuZTi8l6RvI7RSzy"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 216000,
       "name": "T\u00fa Solo T\u00fa",
       "url": "https://open.spotify.com/track/2ZwbOtOwLTNggNYeEkOpcZ"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Quiero Confesarte",
+        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
+      },
+      "artists": [
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Quiero Confesarte",
+      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
     },
     {
       "added_at": "2022-07-29 04:00:00",

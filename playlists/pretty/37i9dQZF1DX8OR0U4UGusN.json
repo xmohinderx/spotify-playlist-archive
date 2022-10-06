@@ -1,12 +1,12 @@
 {
   "description": "cool tunes for walking, driving, running, flying, etc",
-  "num_followers": 151397,
+  "num_followers": 151508,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyOTcxNSwwMDAwMDAwMDQ2ZWUwMTBhM2NmYjgyOGYzZTJhZWZkMDM0MDE5ZDE0",
+  "snapshot_id": "MTY2MTUyOTcxNSwwMDAwMDAwMGNiNWQyODUzZjU0MTM2MGM4ZDM0N2JkNDdlZDAxNTlm",
   "tracks": [
     {
       "added_at": "2022-08-26 16:01:55",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 254871,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "Are We Going Too Slow?",
         "url": "https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 254871,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -515,38 +515,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "New Romance",
-      "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "Cotton Candy Lemonade",
         "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
       },
@@ -579,6 +547,38 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "New Romance",
+      "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 145186,
       "name": "Winona",
       "url": "https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Hot Crush Lover",
+        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 193731,
+      "name": "Hot Crush Lover",
+      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -711,22 +727,6 @@
       "duration_ms": 92000,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
-        "name": "Hot Crush Lover",
-        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 193731,
-      "name": "Hot Crush Lover",
-      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "House of FM",
-        "url": "https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Losing Touch",
-      "url": "https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "magic wand",
         "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 204688,
       "name": "magic wand",
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "House of FM",
+        "url": "https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Bling Up",
-        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
-        }
-      ],
-      "duration_ms": 177914,
-      "name": "Bling Up",
-      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Bling Up",
+        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
+        }
+      ],
+      "duration_ms": 177914,
+      "name": "Bling Up",
+      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Night at Ezeh's",
-        "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
-      },
-      "artists": [
-        {
-          "name": "Sam Ezeh",
-          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "CRISIS",
-      "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "funny lil thing",
-        "url": "https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D"
+        "name": "Night at Ezeh's",
+        "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
       },
       "artists": [
         {
-          "name": "The Golf Club",
-          "url": "https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT"
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
         }
       ],
-      "duration_ms": 137894,
-      "name": "funny lil thing",
-      "url": "https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r"
+      "duration_ms": 193285,
+      "name": "CRISIS",
+      "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
+        "name": "funny lil thing",
+        "url": "https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D"
+      },
+      "artists": [
+        {
+          "name": "The Golf Club",
+          "url": "https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT"
+        }
+      ],
+      "duration_ms": 137894,
+      "name": "funny lil thing",
+      "url": "https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
         "name": "Driving in the City",
         "url": "https://open.spotify.com/album/4uzhGURcS9dnzQVsXrryPH"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Mood Swing",
-        "url": "https://open.spotify.com/album/4co1l5Win5qwsU6NcVwhH7"
-      },
-      "artists": [
-        {
-          "name": "Nick Vyner",
-          "url": "https://open.spotify.com/artist/2gmFaEvoRIXAetLvWOVeI7"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Mood Swing",
-      "url": "https://open.spotify.com/track/3wAebT0NtgPyCGYizWq2i5"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 189617,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/2uLo22etHF1lbCBngK0Bim"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Mood Swing",
+        "url": "https://open.spotify.com/album/4co1l5Win5qwsU6NcVwhH7"
+      },
+      "artists": [
+        {
+          "name": "Nick Vyner",
+          "url": "https://open.spotify.com/artist/2gmFaEvoRIXAetLvWOVeI7"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "Mood Swing",
+      "url": "https://open.spotify.com/track/3wAebT0NtgPyCGYizWq2i5"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1339,6 +1339,22 @@
       "duration_ms": 155653,
       "name": "Burn Down",
       "url": "https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "TEMPLE OF THE DRAGON",
+        "url": "https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW"
+      },
+      "artists": [
+        {
+          "name": "adam brian paul",
+          "url": "https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh"
+        }
+      ],
+      "duration_ms": 168571,
+      "name": "TEMPLE OF THE DRAGON",
+      "url": "https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1379,38 +1395,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "TEMPLE OF THE DRAGON",
-        "url": "https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW"
-      },
-      "artists": [
-        {
-          "name": "adam brian paul",
-          "url": "https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh"
-        }
-      ],
-      "duration_ms": 168571,
-      "name": "TEMPLE OF THE DRAGON",
-      "url": "https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
-        "name": "Lars",
-        "url": "https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr"
-      },
-      "artists": [
-        {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
-        }
-      ],
-      "duration_ms": 183996,
-      "name": "Lars",
-      "url": "https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "About It",
         "url": "https://open.spotify.com/album/6PLOjp6jntSAelOFXQkUW0"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Something To Say",
-        "url": "https://open.spotify.com/album/45oQW5lLEQHtJmKgaCWysv"
+        "name": "Lars",
+        "url": "https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr"
       },
       "artists": [
         {
-          "name": "HOLOW",
-          "url": "https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09"
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
         }
       ],
-      "duration_ms": 216406,
-      "name": "Something To Say",
-      "url": "https://open.spotify.com/track/77fHLp0kVNhaYOmqPqD6Oc"
+      "duration_ms": 183996,
+      "name": "Lars",
+      "url": "https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+        "name": "Something To Say",
+        "url": "https://open.spotify.com/album/45oQW5lLEQHtJmKgaCWysv"
       },
       "artists": [
         {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+          "name": "HOLOW",
+          "url": "https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09"
         }
       ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+      "duration_ms": 216406,
+      "name": "Something To Say",
+      "url": "https://open.spotify.com/track/77fHLp0kVNhaYOmqPqD6Oc"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1491,6 +1475,22 @@
       "duration_ms": 179533,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Can Someone Take Me Home?",
-        "url": "https://open.spotify.com/album/2fYK2hNTzpDJ6QdbMpIigQ"
-      },
-      "artists": [
-        {
-          "name": "Nico Days",
-          "url": "https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Can Someone Take Me Home?",
-      "url": "https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/46taxnLPMHr38wRSHJHxic"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Smoking Section",
-        "url": "https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK"
+        "name": "Can Someone Take Me Home?",
+        "url": "https://open.spotify.com/album/2fYK2hNTzpDJ6QdbMpIigQ"
       },
       "artists": [
         {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+          "name": "Nico Days",
+          "url": "https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh"
         }
       ],
-      "duration_ms": 228640,
-      "name": "Smoking Section",
-      "url": "https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP"
+      "duration_ms": 214000,
+      "name": "Can Someone Take Me Home?",
+      "url": "https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1679,6 +1663,22 @@
       "duration_ms": 200500,
       "name": "Make U Stay",
       "url": "https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Smoking Section",
+        "url": "https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP"
     },
     {
       "added_at": "2022-08-26 16:01:55",

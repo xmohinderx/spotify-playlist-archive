@@ -4,7 +4,7 @@
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: BABYJOY
 
-549 songs - 1 day 4 hr 43 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+549 songs - 1 day 4 hr 42 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Letzte Nacht](https://open.spotify.com/track/4QHDNS8jS3aB8Zlq6rvovT) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Letzte Nacht / Moonrocks](https://open.spotify.com/album/58B3nKeNDDOizFH47WDKrD) | 2:54 | 2022-08-02 | 2022-09-07 |
 | [Lichter an](https://open.spotify.com/track/3Va2IBC5tsaisIkcSOYo3J) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Untypisch](https://open.spotify.com/album/3H4GeHhsMBrXIWD9Oj3dKF) | 2:24 | 2022-08-02 | 2022-09-07 |
 | [Liebe = Freiheit](https://open.spotify.com/track/2iz6T0J8tC7UrXUKtIDwy0) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Liebe = Freiheit](https://open.spotify.com/album/2dXs6rzi4QGtPrJE8Yp9ZO) | 3:07 | 2022-02-01 | 2022-03-08 |
-| [Light A Fire \- Radio Edit](https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Light A Fire](https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl) | 4:02 | 2022-10-04 |  |
+| [Light A Fire \- Radio Edit](https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Light A Fire](https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl) | 3:00 | 2022-10-04 |  |
 | [Lights Out](https://open.spotify.com/track/5ei1vCyt6xmOaWonJPWkku) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Lights Out](https://open.spotify.com/album/7AcGhkwDAEyMsJCVFW5Z8T) | 2:38 | 2022-01-04 | 2022-02-02 |
 | [Lips](https://open.spotify.com/track/0cKMA2YicFxfLdSYAzPzQX) | [Kaisa Rya](https://open.spotify.com/artist/3DKQxloVrGAEwgW23JKOaQ) | [Lips](https://open.spotify.com/album/3zhdIuDGIW8mctvaJaHpMA) | 2:52 | 2022-08-02 | 2022-09-07 |
 | [Liquid Gold](https://open.spotify.com/track/1Z4VOvSD3Nqj7hbXAnLKpZ) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Liquid Gold](https://open.spotify.com/album/6lST92SbnENOzxLTtSFgWn) | 5:49 | 2022-03-07 | 2022-04-06 |

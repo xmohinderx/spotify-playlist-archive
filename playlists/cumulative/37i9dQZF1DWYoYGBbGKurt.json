@@ -15327,7 +15327,7 @@
     {
       "album": {
         "name": "Multiverse",
-        "url": "https://open.spotify.com/album/7Em2BDNDHEc2fRhPg1Do3g"
+        "url": "https://open.spotify.com/album/7BueHUEkuGGJL07tvBaiyt"
       },
       "artists": [
         {
@@ -15338,6 +15338,24 @@
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211489,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4eeCZlYrjUzySykBusineE"
+    },
+    {
+      "album": {
+        "name": "Multiverse",
+        "url": "https://open.spotify.com/album/7Em2BDNDHEc2fRhPg1Do3g"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
       "duration_ms": 211489,
       "name": "Starseed",
       "url": "https://open.spotify.com/track/5uMkulU7wdEslXN7lurIW1"

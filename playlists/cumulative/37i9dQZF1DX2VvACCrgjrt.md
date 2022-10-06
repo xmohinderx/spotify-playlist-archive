@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Malaa
 
-345 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+346 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [4 The Love](https://open.spotify.com/track/3CQmrKyNKHknCGUnEpm7Al) | [Neon Steve](https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi) | [4 The Love](https://open.spotify.com/album/1VVeContseVgaxemdjoSDM) | 3:08 | 2022-07-29 |  |
 | [4Ever](https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [4Ever](https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib) | 2:39 | 2022-06-10 |  |
 | [Act Up](https://open.spotify.com/track/3zMTtFESlmiuKeIx61e0Io) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [Act Up](https://open.spotify.com/album/1j8faQ7w6rOUUMZIJek2g9) | 3:06 | 2022-05-27 |  |
-| [ALIEN](https://open.spotify.com/track/4fci3f54oN8iJl75OZLm7r) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [ALIEN](https://open.spotify.com/album/3NEiRqKazY4kENtQhKOw4q) | 2:46 | 2022-08-12 |  |
+| [ALIEN](https://open.spotify.com/track/4fci3f54oN8iJl75OZLm7r) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [ALIEN](https://open.spotify.com/album/3NEiRqKazY4kENtQhKOw4q) | 2:46 | 2022-08-12 | 2022-10-06 |
 | [All About U](https://open.spotify.com/track/1xoUL5CDpAB66vB8qZzMXY) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All About U](https://open.spotify.com/album/4BoLtiThigu3dTXSRCDsW9) | 2:51 | 2021-10-29 | 2021-12-30 |
 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 | 2022-09-30 |  |
 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 | 2021-10-29 | 2022-05-28 |
@@ -337,6 +337,7 @@
 | [What They Say](https://open.spotify.com/track/6uIzCToTSO3iMUMpYprG6X) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Samara](https://open.spotify.com/artist/00Xd9N5BzrUq58L4AO1gnP) | [What They Say](https://open.spotify.com/album/4Txd7QBh03ArAvos6ep2QU) | 3:27 | 2021-10-29 | 2022-01-22 |
 | [What You Like](https://open.spotify.com/track/1yvY0N4RVMK6mY9ukm2ekt) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [What You Like](https://open.spotify.com/album/1hhftFq45ulSaeNhma5h7T) | 2:38 | 2022-07-22 | 2022-07-30 |
 | [What You Like](https://open.spotify.com/track/2fkPBzNXh8a8vuJWVqdlxl) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [What You Like](https://open.spotify.com/album/17Abs1JhulRGTWtZpuTxgf) | 2:38 | 2021-10-29 | 2022-07-29 |
+| [What You Want](https://open.spotify.com/track/0O17nRSKj3UHsbrB2YB2Z3) | [Lackmus](https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1) | [What You Want](https://open.spotify.com/album/0SBrGz1txEjOj2AScVNo5g) | 2:38 | 2022-09-30 |  |
 | [Who I Am](https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Who I Am](https://open.spotify.com/album/544B3hUGZ39KuHoZXeWWD1) | 3:48 | 2021-10-29 |  |
 | [Who U With](https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [rrotik](https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd), [Killa Kela](https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82) | [Who U With](https://open.spotify.com/album/1waUr0RXjEInyT5ogwL7no) | 2:41 | 2022-06-03 |  |
 | [Wolf](https://open.spotify.com/track/2yBTcEYoW6jD1I1xosjcHd) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Sad Money](https://open.spotify.com/artist/1jROQOzEAuW47ItjQ5FwCQ), [Cook Thugless](https://open.spotify.com/artist/6nP9APsxfZXjwl4vl3e3DF) | [Wolf](https://open.spotify.com/album/4ffsuX1oMvA5cbSgAyMmIv) | 2:47 | 2021-10-29 |  |

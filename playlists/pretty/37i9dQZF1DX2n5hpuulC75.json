@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 240858,
+  "num_followers": 240892,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGZjN2Y3MjhiMTg5ZTU4ODg3NDViYmE0ZGM2MWU5OGU3",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDgwNGJmODRhYWU5NWQ1Nzg5YzM2NTQ3NjlmOTkzMzg3",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "frozenthere",
-        "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
-      },
-      "artists": [
-        {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Frozen Away",
-      "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Homegrown (Remixes)",
         "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "frozenthere",
+        "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "Frozen Away",
+      "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -979,22 +979,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "They Came Along",
-        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
-      },
-      "artists": [
-        {
-          "name": "Haulm",
-          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
-        }
-      ],
-      "duration_ms": 357894,
-      "name": "They Came Along",
-      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Wherever You Go (You'll Never See Me)",
         "url": "https://open.spotify.com/album/37P4W95GLJ3xwW1VS25mNL"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 176470,
       "name": "Wherever You Go (You'll Never See Me)",
       "url": "https://open.spotify.com/track/2ZlEYFavXkkEF37JrjMSLp"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "They Came Along",
+        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
+      },
+      "artists": [
+        {
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
+        }
+      ],
+      "duration_ms": 357894,
+      "name": "They Came Along",
+      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     },
     {
       "added_at": "2018-12-11 21:12:31",

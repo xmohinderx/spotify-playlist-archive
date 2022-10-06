@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-238 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+239 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Labrador](https://open.spotify.com/track/0bxuV9VOE5iARolyiQyrxZ) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Big Grief](https://open.spotify.com/album/3WH0K46IAKNCyj0KmgENDS) | 3:41 | 2021-07-30 |  |
 | [LASSO](https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [LASSO](https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba) | 2:58 | 2022-04-01 |  |
 | [last time](https://open.spotify.com/track/2QNUBOOVbQYP696iap7u9u) | [little luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU) | [last time](https://open.spotify.com/album/2b1FssZxjrhk0ls31zSzrA) | 3:34 | 2021-07-30 | 2022-07-29 |
-| [last time](https://open.spotify.com/track/7jj4WfVJJiTt4E3RVUNoqT) | [little luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU) | [last time](https://open.spotify.com/album/3UwKyMRVRBMEPmyBV9uZdb) | 3:34 | 2022-06-24 |  |
+| [last time](https://open.spotify.com/track/7jj4WfVJJiTt4E3RVUNoqT) | [little luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU) | [last time](https://open.spotify.com/album/3UwKyMRVRBMEPmyBV9uZdb) | 3:34 | 2022-06-24 | 2022-10-06 |
+| [last time](https://open.spotify.com/track/0ly1XOeYI1unsPXjErBWPX) | [little luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU), [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [through the self](https://open.spotify.com/album/6VTcvLeLjkgb60cdKQA1sH) | 3:35 | 2022-08-19 |  |
 | [Let You](https://open.spotify.com/track/2xa4cagHH9kMy4M2sLeDto) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Let You](https://open.spotify.com/album/2Rc67Z6uCqP507BFFXV2Fg) | 3:06 | 2021-07-30 | 2022-04-02 |
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2022-04-01 |  |
 | [Loser](https://open.spotify.com/track/4AY7vvKJ5URWd61B5Q6S5Z) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Loser](https://open.spotify.com/album/15SJkF9Ly3LLe2a5dYmy6i) | 2:03 | 2021-07-30 | 2022-06-25 |

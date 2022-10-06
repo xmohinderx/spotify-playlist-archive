@@ -4,7 +4,7 @@
 
 > next gen pop cover: Jeremy Zucker & BENEE
 
-1,128 songs - 2 day 6 hr 46 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,129 songs - 2 day 6 hr 49 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,6 +904,7 @@
 | [space girl \(feat\. chloe moriondo\)](https://open.spotify.com/track/07xC3IqR5WpQQeBEnJlgWz) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [space girl \(feat\. chloe moriondo\)](https://open.spotify.com/album/2NoIqUCasIQfkQOTUPiJtt) | 3:52 | 2021-02-16\* | 2021-06-05 |
 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 | 2022-04-15 | 2022-05-14 |
 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 | 2021-03-06 | 2021-03-19 |
+| [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-05 |  |
 | [Stars](https://open.spotify.com/track/2osHMKyJ52uQU3lR59CklT) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Stars](https://open.spotify.com/album/3zEZjznu9NY9vOj0Dw2DPM) | 3:23 | 2021-02-16\* | 2021-02-19 |
 | [starstruck \- demo](https://open.spotify.com/track/2uMsFpftVG7MjDLNszjyZh) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 7](https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q) | 1:43 | 2022-08-05 | 2022-09-03 |
 | [Starting Line](https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Starting Line](https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD) | 4:30 | 2021-07-04 | 2021-07-28 |

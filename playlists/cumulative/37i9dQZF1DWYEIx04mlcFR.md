@@ -2,7 +2,7 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Nicole Favre en portada\. 🌊✨
+> la nueva ola de artistas con Kevin Kaarl en portada\. 🌊✨
 
 220 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 

@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Gabriel Guedes de Almeida",
-  "num_followers": 223914,
+  "num_followers": 224014,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MzMwNSwwMDAwMDAwMDY5NGNhYTM1Y2RiOWFjNjlmNDIwYTBmMDE2YTFjZjIw",
+  "snapshot_id": "MTY2NDU0MzMwNSwwMDAwMDAwMDA4MDhiMjY1NTEzMGQzODRlODU4ZTE5NWZhMmExNDgy",
   "tracks": [
     {
       "added_at": "2022-09-30 13:08:25",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
+        "name": "Preciso de Ti",
+        "url": "https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        }
+      ],
+      "duration_ms": 220518,
+      "name": "Preciso de Ti",
+      "url": "https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
         "name": "Mais Que Uma Voz / A Ele a Gl\u00f3ria",
         "url": "https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 242005,
       "name": "Mais Que Uma Voz",
       "url": "https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
-        "name": "Preciso de Ti",
-        "url": "https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        }
-      ],
-      "duration_ms": 220518,
-      "name": "Preciso de Ti",
-      "url": "https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
-        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
       "artists": [
         {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         }
       ],
-      "duration_ms": 252874,
-      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
       },
       "artists": [
         {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+      "duration_ms": 252874,
+      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -735,26 +735,6 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
-        "name": "Doce Presen\u00e7a",
-        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 247104,
-      "name": "Doce Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
         "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 299008,
       "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
       "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
+        "name": "Doce Presen\u00e7a",
+        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 247104,
+      "name": "Doce Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
+        "name": "A Dois",
+        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "A Dois",
+      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
         "name": "O Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
-        "name": "A Dois",
-        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "A Dois",
-      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
         "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
         "name": "Me Ensina a Depender (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3xTpjjSHdWJfwYO3lM7kiG"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 290645,
       "name": "Me Ensina a Depender - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3uwk3N4xVvtdS4mk2AaOB0"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
+        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 347727,
+      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
         "name": "Nunca Te Deixarei (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 201000,
       "name": "Nunca Te Deixarei - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
-        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 347727,
-      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
     },
     {
       "added_at": "2022-09-30 13:08:25",

@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-423 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+424 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 | 2022-07-26 |  |
 | [The Vampire](https://open.spotify.com/track/2d49lHO5ybKcYAcuJh2hT2) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [MANNEQUIN](https://open.spotify.com/album/3qFF8RZSnHGf6q6jOcCXy5) | 2:58 | 2022-07-26 |  |
 | [TONDEMO\-WONDERZ](https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [TONDEMO\-WONDERZ](https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk) | 3:15 | 2022-07-26 |  |
+| [Volcano \- Vocaloid Ver.](https://open.spotify.com/track/0FyYZ5VcmMFd3Ijimml5c6) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Volcano](https://open.spotify.com/album/2EAlgzQTAd35KDAZuhN8cD) | 2:38 | 2022-10-04 |  |
 | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/track/060o2JWYP7I22bHf7ZpWfV) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Rin Kagamine](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/album/2kCOKJUHG8bLievJdoXaJy) | 3:28 | 2022-06-09 | 2022-07-27 |
 | [Weekender Girl](https://open.spotify.com/track/1ezXW6syS9nqHhh6f2WJQf) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:31 | 2022-07-12 | 2022-07-15 |
 | [Weekender Girl](https://open.spotify.com/track/09Fx51otY6lZNfwHACp57U) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Upload](https://open.spotify.com/album/7LP4mt5orMMrzqiOWIFYT4) | 3:33 | 2022-06-23 | 2022-06-29 |
@@ -423,7 +424,7 @@
 | [遥花は帰らない](https://open.spotify.com/track/7vU7HKNK4cga79HhuBw5Z4) | [Fty](https://open.spotify.com/artist/2eLKdQdoCJK5wmiMwVrsc7) | [ATRIUM](https://open.spotify.com/album/4AvQBPDP6aFIDRCphYiw2P) | 2:40 | 2022-07-05 | 2022-07-08 |
 | [酔いどれ知らず](https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [酔いどれ知らず](https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit) | 2:14 | 2022-06-09 | 2022-07-29 |
 | [阿吽のビーツ](https://open.spotify.com/track/757COcE6SNpuHnkDx4KRGZ) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [浮世巡り](https://open.spotify.com/album/1aRPF08cXjYfPEtagbkszv) | 3:26 | 2022-06-09 | 2022-07-27 |
-| [隠したボルケーノ \- VOCALOID ver.](https://open.spotify.com/track/2RIBkiY1OMVYoz2jdmKmf9) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [隠したボルケーノ](https://open.spotify.com/album/3bQlC2xaDWkJcfZyRgs04o) | 2:38 | 2022-10-04 |  |
+| [隠したボルケーノ \- VOCALOID ver.](https://open.spotify.com/track/2RIBkiY1OMVYoz2jdmKmf9) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [隠したボルケーノ](https://open.spotify.com/album/3bQlC2xaDWkJcfZyRgs04o) | 2:38 | 2022-10-04 | 2022-10-06 |
 | [雁首、揃えてご機嫌よう](https://open.spotify.com/track/4LmUF17wRBXvflx18Ck5SS) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r) | [雁首、揃えてご機嫌よう](https://open.spotify.com/album/2XEapMBBiP68QoZq9iGqCv) | 3:41 | 2022-06-14 | 2022-07-29 |
 | [雨とペトラ](https://open.spotify.com/track/5V9Y0tatVvqGeZdyohOBPk) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [Corridor](https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z) | 3:39 | 2022-06-14 | 2022-07-27 |
 | [霽れを待つ](https://open.spotify.com/track/2zTRQnsCJYRjBhdTlFakJH) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [霽れを待つ](https://open.spotify.com/album/4yVAw5Mh7U2NO63j2bf2sm) | 4:11 | 2022-06-14 | 2022-07-28 |

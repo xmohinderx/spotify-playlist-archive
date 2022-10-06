@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 45973,
+  "num_followers": 46024,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY5NjA1MywwMDAwMDAwMDRiMjJmMGE3MjgyNjU2NWY4MDY2ZmU4NWEyNmMzMDdk",
+  "snapshot_id": "MTY2MzY5NjA1MywwMDAwMDAwMDAzZGQ5NGUwOTBlYTUwZGRjZTgzZGMwMmUzODczNTQ1",
   "tracks": [
     {
       "added_at": "2022-09-20 17:47:33",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
-      },
-      "artists": [
-        {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W"
-    },
-    {
-      "added_at": "2022-09-20 17:47:33",
-      "album": {
         "name": "\u306b\u3053\u306b\u3053\u306d\u304f\u3068!",
         "url": "https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 249200,
       "name": "\u3048\u304c\u304a\u30fb\u30b7\u30f3\u30b0\u30fb\u3042\u30fb\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S"
+    },
+    {
+      "added_at": "2022-09-20 17:47:33",
+      "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W"
     },
     {
       "added_at": "2022-09-20 17:47:33",
@@ -415,34 +415,18 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "BanG Dream! Dreamer's Best",
-        "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
+        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
       },
       "artists": [
         {
-          "name": "\u30ec\u30a4\u30e4",
-          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
-        },
-        {
-          "name": "\u7d17\u591c",
-          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
-        },
-        {
-          "name": "\u6c99\u7dbe",
-          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
-        },
-        {
-          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
-          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
-        },
-        {
-          "name": "\u7460\u552f",
-          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
+          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
+          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
         }
       ],
-      "duration_ms": 262902,
-      "name": "CATASTROPHE BANQUET",
-      "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
+      "duration_ms": 236938,
+      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
+      "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
     },
     {
       "added_at": "2022-09-20 17:47:33",
@@ -511,18 +495,34 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
-        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
+        "name": "BanG Dream! Dreamer's Best",
+        "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
       },
       "artists": [
         {
-          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
-          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
+          "name": "\u30ec\u30a4\u30e4",
+          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
+        },
+        {
+          "name": "\u7d17\u591c",
+          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
+        },
+        {
+          "name": "\u6c99\u7dbe",
+          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
+        },
+        {
+          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
+          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
+        },
+        {
+          "name": "\u7460\u552f",
+          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
         }
       ],
-      "duration_ms": 236938,
-      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
-      "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
+      "duration_ms": 262902,
+      "name": "CATASTROPHE BANQUET",
+      "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
     },
     {
       "added_at": "2022-09-20 17:47:33",
@@ -591,8 +591,8 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "\u30ab\u30ca\u30e6\u30e1",
-        "url": "https://open.spotify.com/album/0Vyl70ePAyl55k88d6QbkU"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 307566,
-      "name": "\u30ab\u30ca\u30e6\u30e1",
-      "url": "https://open.spotify.com/track/4HnYTgVOCNihjBLzCOv8uQ"
+      "duration_ms": 270868,
+      "name": "Y.O.L.O!!!!!",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
     },
     {
       "added_at": "2022-09-20 17:47:33",
@@ -671,8 +671,8 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+        "name": "\u30ab\u30ca\u30e6\u30e1",
+        "url": "https://open.spotify.com/album/0Vyl70ePAyl55k88d6QbkU"
       },
       "artists": [
         {
@@ -680,15 +680,15 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O!!!!!",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
+      "duration_ms": 307566,
+      "name": "\u30ab\u30ca\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/4HnYTgVOCNihjBLzCOv8uQ"
     },
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+        "name": "Domination to world",
+        "url": "https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 315766,
-      "name": "A DECLARATION OF \u00d7\u00d7\u00d7",
-      "url": "https://open.spotify.com/track/5tmdbGdlFk5MckinctDpMj"
+      "duration_ms": 224833,
+      "name": "\u707c\u71b1 Bonfire!",
+      "url": "https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB"
     },
     {
       "added_at": "2022-09-20 17:47:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
-        "url": "https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 295593,
-      "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ"
-    },
-    {
-      "added_at": "2022-09-20 17:47:33",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
         "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 299235,
       "name": "\u590f\u7a7a Sun! Sun! Seven! - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX"
+    },
+    {
+      "added_at": "2022-09-20 17:47:33",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
+        "url": "https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 295593,
+      "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ"
     }
   ],
   "unique_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",

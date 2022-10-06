@@ -4,12 +4,13 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-195 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+196 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Day at Sea](https://open.spotify.com/track/4cP4euPcXx5SMxp07GLWzn) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [A Day at Sea](https://open.spotify.com/album/3Kpk3f9SpXQ3xKETaRNZR6) | 3:07 | 2022-06-03 |  |
 | [About Me](https://open.spotify.com/track/5hiatfPmopoExZRZ2O1g5S) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/1WeVEXpJ5649s2XA0WBN0i) | 2:34 | 2022-02-03 | 2022-09-15 |
+| [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-20 |  |
 | [Arcade Dwellers](https://open.spotify.com/track/3b3A8AcfVhRVVizAQmQls5) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [MDK](https://open.spotify.com/artist/4AFmCAFHwoV2o3QR1Wgup4) | [Arcade Dwellers](https://open.spotify.com/album/1NMgVxkMZ92QCgLjAJswQ3) | 4:20 | 2022-02-03 |  |
 | [Avatar](https://open.spotify.com/track/7mjtzOAMQs11liY3WdgT5v) | [RYVN](https://open.spotify.com/artist/6TTZGloO0o4IMy4eIaj8gU) | [Avatar](https://open.spotify.com/album/0VMsnqlax1FZNXdPzBHwn3) | 2:34 | 2022-03-04 |  |

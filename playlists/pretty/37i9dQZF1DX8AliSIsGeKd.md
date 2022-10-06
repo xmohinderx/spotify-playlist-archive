@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Christian Löffler, Henry Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,219 likes - 79 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,319 likes - 79 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 5 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 |
 | 6 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 |
 | 7 | [Let the Games Begin](https://open.spotify.com/track/7lKOrMhonHXZEEImIMqfn3) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Let the Games Begin](https://open.spotify.com/album/1hBil9bmdI7hDDF2T5xo4w) | 5:48 |
-| 8 | [Light A Fire \- Radio Edit](https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Light A Fire](https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl) | 4:02 |
+| 8 | [Light A Fire \- Radio Edit](https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Light A Fire](https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl) | 3:00 |
 | 9 | [Your Way](https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Your Way](https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6) | 6:18 |
 | 10 | [Roots](https://open.spotify.com/track/4S8hkiVcfSIyP4gSmW7SMw) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [3000Grad Festival Compilation 3022](https://open.spotify.com/album/0GAlYbzVdr5wL0KY8QRGTU) | 6:59 |
 | 11 | [Little Treasure \(Contour 3\)](https://open.spotify.com/track/5ylczvXq66th3ra7um4imD) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Little Treasure \(Contour 3\)](https://open.spotify.com/album/4921jiDIusc0Iy7yrXj2lN) | 5:58 |

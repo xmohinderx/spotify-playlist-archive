@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Yeat
 
-423 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+424 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ascendant Mode \(Speedforce\)](https://open.spotify.com/track/1coJjj2WcBxR9k8GvNgwT8) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Spectre Ascendant](https://open.spotify.com/album/6pdMsfJMGf54qDiIKRqZQU) | 1:55 | 2021-11-12 | 2022-02-23 |
 | [ASL \(FACTS\)](https://open.spotify.com/track/6sEfMgoVbLJL7jj2G6sqF6) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [ASL \(FACTS\)](https://open.spotify.com/album/6YlBylsB1aeFbPu62G3CzR) | 1:46 | 2021-10-29 | 2022-02-23 |
 | [ASMR](https://open.spotify.com/track/7pHNksVEon80wFuuWrboLO) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [ZaeHD vs ZAEYAN, Vol\. 2](https://open.spotify.com/album/0gSgXddMRXf1h4TLbYuSNf) | 2:07 | 2022-03-06 | 2022-05-14 |
+| [attachment \(she wanna love\)](https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC), [Kanii Archive](https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv) | [attachment \(she wanna love\)](https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl) | 1:28 | 2022-10-05 |  |
 | [AWKWARD FREESTYLE](https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV) | 2:07 | 2022-07-18 |  |
 | [Baby Shark](https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Baby Shark](https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ) | 2:36 | 2022-09-12 |  |
 | [Back End](https://open.spotify.com/track/3eHOsD9gXqWYPxVr0JVVWv) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Back End](https://open.spotify.com/album/77Hj5PiiIlIxI8l87wwVc1) | 2:45 | 2022-09-07 |  |
@@ -199,7 +200,7 @@
 | [I feel it](https://open.spotify.com/track/2JddvCwB2cnFwUU8JE8Xy9) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [I feel it](https://open.spotify.com/album/77EQnCprOOLzzBVw8hhGpD) | 2:07 | 2022-04-26 | 2022-09-17 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-03 | 2022-02-23 |
 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 | 2022-02-25 | 2022-07-02 |
-| [I Like Him](https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything Sucks](https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF) | 2:12 | 2022-06-03 |  |
+| [I Like Him](https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything Sucks](https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF) | 2:12 | 2022-06-03 | 2022-10-06 |
 | [I Look Good](https://open.spotify.com/track/79aQX5Uq6t8apowFe5uueL) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [I Look Good](https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo) | 1:41 | 2022-02-01 | 2022-02-23 |
 | [I Love It](https://open.spotify.com/track/13jvtLuv8vRg2fmvClhWP1) | [Jaah SLT](https://open.spotify.com/artist/6oUVQSkgFOPuv5g2hRCONc), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [I Love It](https://open.spotify.com/album/3h4aKAY35vJTr0GFpbB03r) | 2:51 | 2021-12-03 | 2022-04-29 |
 | [I Love You](https://open.spotify.com/track/5yfMsbJda8sXVfnJHgm8Ke) | [Young Slo\-Be](https://open.spotify.com/artist/1pWm8RcyiWZehSnb38i4fM) | [Slo\-Be Bryant 3](https://open.spotify.com/album/1PAmNh4VorpJrt4QgfEaHS) | 2:03 | 2022-01-21 | 2022-05-21 |

@@ -1,12 +1,12 @@
 {
   "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: IVE",
-  "num_followers": 242596,
+  "num_followers": 243035,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NTYwMCwwMDAwMDAwMDA2NjYxYjJiN2RhZGM5MGNkYzBkNjg0ZGQxOTM3MzQ5",
+  "snapshot_id": "MTY2NDg5NTYwMCwwMDAwMDAwMGE4ODljYTMwYzY4Mjg5NmE0NzlhY2I1ZWQzODNiZTlj",
   "tracks": [
     {
       "added_at": "2022-10-04 15:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
+        "name": "One Bad Night",
+        "url": "https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 185253,
+      "name": "3D Woman",
+      "url": "https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
         "name": "Just 10 centimeters",
         "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
       },
@@ -351,8 +367,24 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
+        "name": "History Of Kingdom: Pt.\u2164. Louis",
+        "url": "https://open.spotify.com/album/5WCO0pg5sLOFGPA4HiukJd"
+      },
+      "artists": [
+        {
+          "name": "KINGDOM",
+          "url": "https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Long Live The King",
+      "url": "https://open.spotify.com/track/5HjnoCb0iYENuiZ78lCdjR"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
         "name": "\u30c9\u30ad\u30c9\u30adLOVE",
-        "url": "https://open.spotify.com/album/2K4XdWWuZYG5uaJ43Dug9w"
+        "url": "https://open.spotify.com/album/7b9wP99WEev9gsqheUolXV"
       },
       "artists": [
         {
@@ -362,7 +394,7 @@
       ],
       "duration_ms": 218910,
       "name": "\u30c9\u30ad\u30c9\u30adLOVE",
-      "url": "https://open.spotify.com/track/2kB8TUv0mosnHHSXhKqZlJ"
+      "url": "https://open.spotify.com/track/6tE7vkuLAOPrJcKt1dTErE"
     },
     {
       "added_at": "2022-10-04 15:00:00",

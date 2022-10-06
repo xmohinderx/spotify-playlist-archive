@@ -2,7 +2,7 @@
 
 ### [Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0)
 
-> Want some metal? Better to start with the essentials\. Cover: Metallica
+> Want some metal? Better to start with the essentials\. Cover: Pantera
 
 129 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/6yanaPw8WxmYYJb5axwMTB)
 

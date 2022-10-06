@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Lewis Capaldi",
-  "num_followers": 76119,
+  "num_followers": 76273,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMDFlYWJmNzRjMjdkMGFjYWYxYTk1Yjg1ZDhhMGU0MjE3",
+  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMDliZjdiZmY2ZTM2Y2Y4NGMwN2UzNjUyMDJhMjc3MmZj",
   "tracks": [
     {
       "added_at": "2022-09-23 04:12:38",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
-      "added_at": "2022-10-05 01:43:54",
+      "added_at": "2022-10-06 01:34:36",
       "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5"
-      },
-      "artists": [
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 232905,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Simply The Best",
         "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 173571,
       "name": "Simply The Best",
       "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "duration_ms": 232905,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 201885,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 216110,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 201885,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 170454,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
         "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 194595,
       "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
       "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 228693,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 230775,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "It's A Sin",
         "url": "https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 230775,
-      "name": "High",
-      "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Industry Baby",
-        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+        "name": "Elliot's Song",
+        "url": "https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy"
       },
       "artists": [
         {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 231381,
-      "name": "Industry Baby",
-      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
+      "duration_ms": 153124,
+      "name": "Elliot's Song",
+      "url": "https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Elliot's Song",
-        "url": "https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy"
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         }
       ],
-      "duration_ms": 153124,
-      "name": "Elliot's Song",
-      "url": "https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev"
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 206138,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 206138,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "everywhere",
-        "url": "https://open.spotify.com/album/1gkBtk4uRf9h4iUBXbPnxL"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        },
-        {
-          "name": "Emily Vaughn",
-          "url": "https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2"
-        }
-      ],
-      "duration_ms": 224041,
-      "name": "everywhere",
-      "url": "https://open.spotify.com/track/7fROnnvjVQHESskj3WmQ6r"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "feel good inc. (feat. Mateus Asato)",
         "url": "https://open.spotify.com/album/6l38zfFKDZrmrU2jXqW3GQ"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 199239,
       "name": "feel good inc. (feat. Mateus Asato)",
       "url": "https://open.spotify.com/track/2GzlTbrFF2V6MwRDfBnYhf"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "everywhere",
+        "url": "https://open.spotify.com/album/1gkBtk4uRf9h4iUBXbPnxL"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        },
+        {
+          "name": "Emily Vaughn",
+          "url": "https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2"
+        }
+      ],
+      "duration_ms": 224041,
+      "name": "everywhere",
+      "url": "https://open.spotify.com/track/7fROnnvjVQHESskj3WmQ6r"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "No Letting Go",
         "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 200000,
       "name": "No Letting Go - Acoustic",
       "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Take On Me",
-        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        }
-      ],
-      "duration_ms": 146533,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "luckie",
         "url": "https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 174264,
       "name": "luckie",
       "url": "https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Take On Me",
+        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        }
+      ],
+      "duration_ms": 146533,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "I\u2019m With You",
-        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "I\u2019m With You",
-      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Into You",
         "url": "https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 286506,
       "name": "Into You",
       "url": "https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "I\u2019m With You",
+        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "I\u2019m With You",
+      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 244315,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Soft Pop Hits",
         "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 213706,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2519,6 +2519,26 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Bam Bam (Acoustic)",
+        "url": "https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er"
+      },
+      "artists": [
+        {
+          "name": "Joey Stamper",
+          "url": "https://open.spotify.com/artist/6t70simaQ2YQHec8QqhiwD"
+        },
+        {
+          "name": "Jacquelyn George",
+          "url": "https://open.spotify.com/artist/4aWEpZwvlSTBDRtyNM3eUX"
+        }
+      ],
+      "duration_ms": 143522,
+      "name": "Bam Bam - Acoustic",
+      "url": "https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
@@ -2547,26 +2567,6 @@
       "duration_ms": 156200,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Bam Bam (Acoustic)",
-        "url": "https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er"
-      },
-      "artists": [
-        {
-          "name": "Joey Stamper",
-          "url": "https://open.spotify.com/artist/6t70simaQ2YQHec8QqhiwD"
-        },
-        {
-          "name": "Jacquelyn George",
-          "url": "https://open.spotify.com/artist/4aWEpZwvlSTBDRtyNM3eUX"
-        }
-      ],
-      "duration_ms": 143522,
-      "name": "Bam Bam - Acoustic",
-      "url": "https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2771,22 +2771,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Under the Bridge",
-        "url": "https://open.spotify.com/album/1OpakNwTaeLg5kXV0a21Ab"
-      },
-      "artists": [
-        {
-          "name": "AFTRHOURS",
-          "url": "https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5"
-        }
-      ],
-      "duration_ms": 140645,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Meet Me At Our Spot",
         "url": "https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu"
       },
@@ -2803,6 +2787,22 @@
       "duration_ms": 162666,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/5soh0KBoNInC6rSQ57vCvl"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Under the Bridge",
+        "url": "https://open.spotify.com/album/1OpakNwTaeLg5kXV0a21Ab"
+      },
+      "artists": [
+        {
+          "name": "AFTRHOURS",
+          "url": "https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5"
+        }
+      ],
+      "duration_ms": 140645,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3035,42 +3035,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv"
-      },
-      "artists": [
-        {
-          "name": "The Butterfly Effect",
-          "url": "https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY"
-        }
-      ],
-      "duration_ms": 189242,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Sweet Dreams (Are Made of This)",
-        "url": "https://open.spotify.com/album/1ryMDSZzakLR7RxHo6CmIx"
-      },
-      "artists": [
-        {
-          "name": "We Rabbitz",
-          "url": "https://open.spotify.com/artist/05Zr3tq3xPIxChT2JfMDCe"
-        },
-        {
-          "name": "Moon Roses",
-          "url": "https://open.spotify.com/artist/65yfUzuqGBdOTibkTeKNda"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "Sweet Dreams (Are Made of This) [Epic Mix]",
-      "url": "https://open.spotify.com/track/3IxGrrXUhehYdSHrEkhzRh"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Synth City",
         "url": "https://open.spotify.com/album/2xc7LOrGqYfDvSi0mZqheu"
       },
@@ -3091,6 +3055,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv"
+      },
+      "artists": [
+        {
+          "name": "The Butterfly Effect",
+          "url": "https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY"
+        }
+      ],
+      "duration_ms": 189242,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "gives you hell",
         "url": "https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS"
       },
@@ -3103,6 +3083,26 @@
       "duration_ms": 208866,
       "name": "gives you hell",
       "url": "https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Sweet Dreams (Are Made of This)",
+        "url": "https://open.spotify.com/album/1ryMDSZzakLR7RxHo6CmIx"
+      },
+      "artists": [
+        {
+          "name": "We Rabbitz",
+          "url": "https://open.spotify.com/artist/05Zr3tq3xPIxChT2JfMDCe"
+        },
+        {
+          "name": "Moon Roses",
+          "url": "https://open.spotify.com/artist/65yfUzuqGBdOTibkTeKNda"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Sweet Dreams (Are Made of This) [Epic Mix]",
+      "url": "https://open.spotify.com/track/3IxGrrXUhehYdSHrEkhzRh"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3207,22 +3207,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
-        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 218938,
-      "name": "22 - Recorded At Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Big Yellow Taxi",
         "url": "https://open.spotify.com/album/3lVUKvR0ilXpgFCE7atpp7"
       },
@@ -3243,6 +3227,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 218938,
+      "name": "22 - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Call Your Girlfriend",
         "url": "https://open.spotify.com/album/1ET8uKlskrO9yfPOL654UU"
       },
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Graveyard",
-        "url": "https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc"
-      },
-      "artists": [
-        {
-          "name": "Taylor Janzen",
-          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 275954,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP"
     }
   ],
   "unique_name": "Pop Covers",

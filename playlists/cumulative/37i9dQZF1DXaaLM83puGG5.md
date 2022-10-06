@@ -4,7 +4,7 @@
 
 > Keeping the party going where ever you are w/ FE NOEL
 
-277 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
+278 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/4kHlGm9ha80s1MDcD5zhCA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Best of You](https://open.spotify.com/track/5hqIx6Uakd5RVRqL8xopME) | [Miles from Kinshasa](https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE) | [Beloved](https://open.spotify.com/album/3OAb4UAAJsdkXzvSJ0kTxy) | 3:09 | 2021-11-10 | 2022-01-29 |
 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 | 2022-09-03 |  |
 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C’Buda M](https://open.spotify.com/artist/6Ldiygt0c72Fx38qejOcG3), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 | 2022-05-27 | 2022-08-25 |
-| [Black Power](https://open.spotify.com/track/3fU8uR9fXNOq50ycgpjeFp) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Black Power](https://open.spotify.com/album/6lEwSDuILoPvsiYpzkI9bi) | 3:24 | 2022-09-03 |  |
+| [Black Power](https://open.spotify.com/track/3fU8uR9fXNOq50ycgpjeFp) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Black Power](https://open.spotify.com/album/6lEwSDuILoPvsiYpzkI9bi) | 3:24 | 2022-09-03 | 2022-10-06 |
+| [Black Power](https://open.spotify.com/track/49ozVqUAG3ei4M2maJxJdF) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Black Power](https://open.spotify.com/album/0XjHM7zNiVj7YfBGbO5SoH) | 3:24 | 2022-09-03 |  |
 | [Black Roses](https://open.spotify.com/track/4iZxFlcCg5Z6bVYsxqiT61) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/1tWYxTZWSIWYk1chxhl62Z) | 3:07 | 2022-09-03 |  |
 | [Blem](https://open.spotify.com/track/2XlHu0HcujBCkWMdIAvrqt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:36 | 2022-09-03 |  |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2021-11-10 | 2022-04-09 |

@@ -988,6 +988,24 @@
     },
     {
       "album": {
+        "name": "Autumn Morning",
+        "url": "https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62608,
+      "name": "Autumn Morning",
+      "url": "https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj"
+    },
+    {
+      "album": {
         "name": "In the Dreaming Hour",
         "url": "https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7"
       },

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,719 songs - 4 day 3 hr 50 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,720 songs - 4 day 3 hr 54 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Can I Call](https://open.spotify.com/track/7KEoaGK0LbmooqotHalGI9) | [Alannah McCready](https://open.spotify.com/artist/19fZ2lVAwrWHiELAsDJPWH), [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Can I Call](https://open.spotify.com/album/2647W0tRgbbR7oaUhN67bY) | 3:07 | 2022-04-01 | 2022-04-17 |
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2019-09-29\* | 2021-11-19 |
 | [Can U Believe](https://open.spotify.com/track/6bTORCskFVRlnHXbVgnKEe) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:51 | 2019-09-29\* | 2021-11-19 |
+| [Can We](https://open.spotify.com/track/3t7BiH0pjjbhNGsvHcYmgl) | [Dusty Flavor](https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Can We](https://open.spotify.com/album/2YGGW83aJAdMGYwDQEvkK0) | 3:42 | 2022-10-05 |  |
 | [Can't Buy Me Love](https://open.spotify.com/track/0x3G2QU93q6pfVn7eVhdu1) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Can't Buy Me Love](https://open.spotify.com/album/7wR7hQqt7iy9GVLXsdz967) | 2:09 | 2022-02-26 | 2022-03-26 |
 | [Can't Stay Away](https://open.spotify.com/track/0kYESBjHlA8bEnCsv1807r) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [Can't Stay Away](https://open.spotify.com/album/31gttnOTgX4XAjZ79UVXjw) | 2:16 | 2020-04-12 | 2020-04-22 |
 | [Can't Think \(Gave It Away, Pt\. 1\)](https://open.spotify.com/track/0gkIvDEDFtYhPc0CrplxkW) | [The Mercy Stone](https://open.spotify.com/artist/0tGb9I9vsWGTw3PSphK5Si) | [Above the Towers](https://open.spotify.com/album/6TwV0GyrSvSiKtSEWBf13l) | 3:16 | 2020-04-18 | 2020-04-25 |

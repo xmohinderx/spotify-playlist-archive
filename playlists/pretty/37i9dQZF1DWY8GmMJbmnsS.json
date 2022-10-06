@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 314178,
+  "num_followers": 314231,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY2NDc0NiwwMDAwMDAwMGRiNjY5Nzc0MmZlYmI3NDExYzE1MzI3Y2E5YmQyZmVl",
+  "snapshot_id": "MTY0NjY2NDc0NiwwMDAwMDAwMGZiNTc2Njk2MTlhY2I0NWZhNGJiYzcyMTY2MzRjYjgw",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "I Never Loved a Man (The Way I Love You)",
-      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "The Best Of Mel Carter",
         "url": "https://open.spotify.com/album/2Bw48A6OMSip5lbQW5CaUg"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 149533,
       "name": "Hold Me, Thrill Me, Kiss Me",
       "url": "https://open.spotify.com/track/5XPwkZ7vNxeidpNLAkwtFp"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "I Never Loved a Man (The Way I Love You)",
+      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
     },
     {
       "added_at": "2022-03-04 21:48:30",

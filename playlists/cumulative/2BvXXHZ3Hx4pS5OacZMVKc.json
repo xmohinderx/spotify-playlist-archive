@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "All Access",
+        "url": "https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4"
+      },
+      "artists": [
+        {
+          "name": "JOXION",
+          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "All Access",
+      "url": "https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3"
+    },
+    {
+      "album": {
         "name": "Alone EP",
         "url": "https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8"
       },

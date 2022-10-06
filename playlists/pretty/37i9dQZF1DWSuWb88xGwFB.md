@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,149 likes - 75 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,167 likes - 75 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 45 | [I Get Lifted \- The Underground Network Mix](https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 7:13 |
 | 46 | [Love Trax \- Love Izz](https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Love Trax](https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9) | 6:46 |
 | 47 | [Set My Spirit Free \(feat\. Sandy Rivera\)](https://open.spotify.com/track/1waCufNVr5c5kfOBzUEEPM) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3) | [Set My Spirit Free \(feat\. Sandy Rivera\)](https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN) | 7:48 |
-| 48 | [You Don't Know \- MuthaFunkaz Tribute Mix](https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17) | [SuSu Bobien](https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:03 |
-| 49 | [Spark da Meth \- Bangin Like a Benzi Mix](https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X) | [Da Mongoloids](https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG) | [Spark Da Meth](https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME) | 6:33 |
+| 48 | [Spark da Meth \- Bangin Like a Benzi Mix](https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X) | [Da Mongoloids](https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG) | [Spark Da Meth](https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME) | 6:33 |
+| 49 | [You Don't Know \- MuthaFunkaz Tribute Mix](https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17) | [SuSu Bobien](https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:03 |
 | 50 | [Dance To The Rhythm](https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE) | [The Untouchables](https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF) | [The Swing Doctor](https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB) | 5:43 |
 | 51 | [Get Up](https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q) | [Krimp](https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz) | [Get Up](https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK) | 6:50 |
 | 52 | [Wanna Be Your Girl \- A 'G' Thang Mix](https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH) | [Raw Power](https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 4:57 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 69 | [Curious \- Vocal Mix](https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm) | [Sun, Sun, Sun](https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj) | [Curious](https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A) | 7:20 |
 | 70 | [The Beat That Makes U Move \- The Rhythm Hype Mix](https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb) | [Bass Hitt](https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR), [Dreamgirl Vee](https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN) | [The Beat That Makes U Move](https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw) | 7:39 |
 | 71 | [Just Us \- B.O.P\. Radio Joint](https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ) | [Joey Washington](https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ), [The Men's Club](https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6) | [Just Us](https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r) | 3:47 |
-| 72 | [Everybody Dance \- M.A.S\. Club Vocal](https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Everybody Dance](https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr) | 7:59 |
-| 73 | [Alright \(feat\. Earl Bennett\) \- BOP Journey Remix](https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI) | [B.O.P.](https://open.spotify.com/artist/4wgHscFAZfZ1SPzvNguxBf), [Earl Bennett](https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe) | [Alright \(feat\. Earl Bennett\)](https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6) | 10:05 |
+| 72 | [Alright \(feat\. Earl Bennett\) \- BOP Journey Remix](https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI) | [B.O.P.](https://open.spotify.com/artist/4wgHscFAZfZ1SPzvNguxBf), [Earl Bennett](https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe) | [Alright \(feat\. Earl Bennett\)](https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6) | 10:05 |
+| 73 | [Everybody Dance \- M.A.S\. Club Vocal](https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Everybody Dance](https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr) | 7:59 |
 | 74 | [Move Your Body \(feat\. LaVette\) \- Radio Mix](https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD) | [Chicago Syndicate](https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK), [LaVette](https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY) | [Move Your Body \(feat\. LaVette\) \[Mixes\]](https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH) | 3:48 |
 | 75 | [The Bombero Remix 96](https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA) | [R.B.M.](https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl) | [Straight from the Bario EP](https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK) | 6:12 |
 
-Snapshot ID: `MTY0NjMxNTk1NiwwMDAwMDAwMDc5NmU4MTc3NWYzMzdkNjYzYzM1ZmFiYjFkMjIwZmE3`
+Snapshot ID: `MTY0NjMxNTk1NiwwMDAwMDAwMDAxMDY3MzNkYzIzOTQ5ZTc2NDE5MTA0ZDFiOWNlMzlj`

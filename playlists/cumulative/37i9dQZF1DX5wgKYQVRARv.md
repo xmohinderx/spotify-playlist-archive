@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-550 songs - 1 day 23 hr 56 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+551 songs - 2 day 0 hr 3 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Marigold](https://open.spotify.com/track/0xaN6B7xNJU9czMXELDyDM) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/5L9ddlTFtgLj93nzy77MEO) | 7:19 | 2022-08-26 | 2022-10-04 |
 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 | 2022-07-13 | 2022-07-29 |
 | [Marigold](https://open.spotify.com/track/56g7gV4V3YvAmo4zbwnh3j) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/45TYtX5PUFk1DlFB6m1N1M) | 7:19 | 2022-07-13 | 2022-08-28 |
+| [Marigold](https://open.spotify.com/track/7EqmLdQLCRSqYJdD7wvRXv) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/334ndig2eVDFWx1HrVMmU5) | 7:19 | 2022-09-02 |  |
 | [Martyrs](https://open.spotify.com/track/2mijuiOFHf4EJcS2QpUkrn) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/16v3Ule2sTTWT37VKUsH6F) | 6:08 | 2021-12-17 | 2022-07-01 |
 | [Mechanisms of Loneliness](https://open.spotify.com/track/5pmYGT4j7nPmqapNdUIPhE) | [Burial In The Sky](https://open.spotify.com/artist/4QFGc1JTcGzr72JEGDCNd7) | [Mechanisms of Loneliness](https://open.spotify.com/album/1dH6mpUtk8kB2GWWPtRdww) | 6:58 | 2022-01-14 | 2022-07-26 |
 | [Melatonin](https://open.spotify.com/track/1cMy9ngVh1qJcWaIZPMBU8) | [Sleep Waker](https://open.spotify.com/artist/4hizDhcij3xrH69kcQ4R3i) | [Melatonin](https://open.spotify.com/album/4ZZXNJGWnA54rn0izMoJFp) | 3:28 | 2022-07-13 |  |
@@ -333,7 +334,7 @@
 | [Para](https://open.spotify.com/track/1ygXmSQzIQm4kqGiTod2h0) | [Rogue](https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6) | [Para](https://open.spotify.com/album/5kaDYE7WiHuPcfnJLU1X7h) | 3:49 | 2022-07-13 |  |
 | [Paradise](https://open.spotify.com/track/64dt6MAY6mSV1mQBUl8Uf0) | [Artificial Sky](https://open.spotify.com/artist/2nrrmLHotFGo4Mg627nDtN) | [Paradise](https://open.spotify.com/album/1LF4dSz5wwgj1jPh0VHXRK) | 4:10 | 2022-07-13 | 2022-07-28 |
 | [Paradise](https://open.spotify.com/track/4JZvkJ4PHhg3sAgOxpeIwa) | [Midgar](https://open.spotify.com/artist/5QUScOesnUgAxXlWGZ7jGG) | [Paradise](https://open.spotify.com/album/7I8QHeOcEyRgi1hp9IZDAH) | 3:37 | 2022-01-14 | 2022-05-31 |
-| [Paradox](https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr) | [Paradox](https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY) | 6:05 | 2022-07-13 |  |
+| [Paradox](https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr) | [Paradox](https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY) | 6:05 | 2022-07-13 | 2022-10-06 |
 | [Paralyzed](https://open.spotify.com/track/7DCLX6EC3qcwW9Cz38DJ8O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Distance Over Time \(Bonus track version\)](https://open.spotify.com/album/1sRDi0MSGOy91fHhcpXIu4) | 4:17 | 2021-12-17 | 2022-09-03 |
 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 | 2021-12-17 | 2022-05-13 |
 | [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 | 2022-07-29 |

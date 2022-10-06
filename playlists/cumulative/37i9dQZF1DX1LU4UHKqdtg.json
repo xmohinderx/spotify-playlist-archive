@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "One Bad Night",
+        "url": "https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "3D Woman",
+      "url": "https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
         "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
       },
@@ -3367,6 +3385,24 @@
       "duration_ms": 213180,
       "name": "lonely",
       "url": "https://open.spotify.com/track/6tHHDLX1jZNzlT4vZmqm5n"
+    },
+    {
+      "album": {
+        "name": "History Of Kingdom: Pt.\u2164. Louis",
+        "url": "https://open.spotify.com/album/5WCO0pg5sLOFGPA4HiukJd"
+      },
+      "artists": [
+        {
+          "name": "KINGDOM",
+          "url": "https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Long Live The King",
+      "url": "https://open.spotify.com/track/5HjnoCb0iYENuiZ78lCdjR"
     },
     {
       "album": {
@@ -6899,10 +6935,28 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 218910,
       "name": "\u30c9\u30ad\u30c9\u30adLOVE",
       "url": "https://open.spotify.com/track/2kB8TUv0mosnHHSXhKqZlJ"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30ad\u30c9\u30adLOVE",
+        "url": "https://open.spotify.com/album/7b9wP99WEev9gsqheUolXV"
+      },
+      "artists": [
+        {
+          "name": "Rocket Punch",
+          "url": "https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218910,
+      "name": "\u30c9\u30ad\u30c9\u30adLOVE",
+      "url": "https://open.spotify.com/track/6tE7vkuLAOPrJcKt1dTErE"
     },
     {
       "album": {

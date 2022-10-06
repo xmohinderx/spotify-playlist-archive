@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18089,
+  "num_followers": 18091,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDk3MDQ1Mjc2YzRkMzU0MTRkZmY0NGIzZWFkOTM3Mjdi",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDU2YTk1NzZlMzY2ZTU5NzljMzM0NWU2M2QyNTlmM2Rk",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -99,22 +99,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "In the Arms",
-        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "In the Arms",
-      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Only Ever",
         "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 201040,
       "name": "Only Ever",
       "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "In the Arms",
+        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "In the Arms",
+      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -419,22 +419,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Dearly Loved",
-        "url": "https://open.spotify.com/album/0HMkDsyQXtgF0sgMFpudvK"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 265961,
-      "name": "Dearly Loved",
-      "url": "https://open.spotify.com/track/5ARJNdFbSj2yYpaAKPfIDo"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Love Me Like You (TYE Remix)",
         "url": "https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 203000,
       "name": "Love Me Like You - TYE Remix",
       "url": "https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Dearly Loved",
+        "url": "https://open.spotify.com/album/0HMkDsyQXtgF0sgMFpudvK"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 265961,
+      "name": "Dearly Loved",
+      "url": "https://open.spotify.com/track/5ARJNdFbSj2yYpaAKPfIDo"
     },
     {
       "added_at": "2019-09-20 18:34:06",

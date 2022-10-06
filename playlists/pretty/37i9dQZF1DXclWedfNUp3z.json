@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 146179,
+  "num_followers": 146292,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgxNzg5NCwwMDAwMDAwMGUzOTRkY2JlNzc1ZDA2ODlhMjc0NDhlNGY0OThlMTM1",
+  "snapshot_id": "MTY2NDgxNzg5NCwwMDAwMDAwMDY1ZTBjY2QyY2YyNzY3N2QyMzdiMjI4YzgzMTRmMzg3",
   "tracks": [
     {
       "added_at": "2022-01-11 00:02:15",
@@ -397,20 +397,24 @@
       "url": "https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b"
     },
     {
-      "added_at": "2021-11-12 05:55:14",
+      "added_at": "2021-11-12 19:01:27",
       "album": {
-        "name": "Music For Psychedelic Therapy (Excerpt)",
-        "url": "https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv"
+        "name": "Music For Psychedelic Therapy",
+        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
       },
       "artists": [
         {
           "name": "Jon Hopkins",
           "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "7RAYS",
+          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
         }
       ],
-      "duration_ms": 427299,
-      "name": "Music For Psychedelic Therapy - Excerpt",
-      "url": "https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba"
+      "duration_ms": 382773,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -513,24 +517,20 @@
       "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
     },
     {
-      "added_at": "2021-11-12 19:01:27",
+      "added_at": "2021-11-12 05:55:14",
       "album": {
-        "name": "Music For Psychedelic Therapy",
-        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
+        "name": "Music For Psychedelic Therapy (Excerpt)",
+        "url": "https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv"
       },
       "artists": [
         {
           "name": "Jon Hopkins",
           "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "7RAYS",
-          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
         }
       ],
-      "duration_ms": 382773,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
+      "duration_ms": 427299,
+      "name": "Music For Psychedelic Therapy - Excerpt",
+      "url": "https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -821,26 +821,6 @@
       "url": "https://open.spotify.com/track/0cUpqIJQv8Yke4XfL3y0UK"
     },
     {
-      "added_at": "2022-01-12 18:38:07",
-      "album": {
-        "name": "Hope!",
-        "url": "https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3"
-      },
-      "artists": [
-        {
-          "name": "Somni",
-          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
-        },
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        }
-      ],
-      "duration_ms": 163914,
-      "name": "Hope!",
-      "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
-    },
-    {
       "added_at": "2021-12-28 01:10:43",
       "album": {
         "name": "Fantastic Farewell (2021 Remastered)",
@@ -891,6 +871,26 @@
       "duration_ms": 341621,
       "name": "Sin\u00fa",
       "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
+    },
+    {
+      "added_at": "2022-01-12 18:38:07",
+      "album": {
+        "name": "Hope!",
+        "url": "https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3"
+      },
+      "artists": [
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "duration_ms": 163914,
+      "name": "Hope!",
+      "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/6AcwRvuVN9FjROlyLIws2o"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "CZ-5000 Sounds & Sequences",
-        "url": "https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2"
-      },
-      "artists": [
-        {
-          "name": "Satoshi & Makoto",
-          "url": "https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr"
-        }
-      ],
-      "duration_ms": 234055,
-      "name": "White Wall",
-      "url": "https://open.spotify.com/track/1m54vFgkAORsMpRTy55QUN"
-    },
-    {
       "added_at": "2022-08-24 01:13:46",
       "album": {
         "name": "I Survived, It's Over",
@@ -1119,6 +1103,38 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "CZ-5000 Sounds & Sequences",
+        "url": "https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2"
+      },
+      "artists": [
+        {
+          "name": "Satoshi & Makoto",
+          "url": "https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr"
+        }
+      ],
+      "duration_ms": 234055,
+      "name": "White Wall",
+      "url": "https://open.spotify.com/track/1m54vFgkAORsMpRTy55QUN"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Annual Flowers in Color",
+        "url": "https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 64000,
+      "name": "The Geranium Room",
+      "url": "https://open.spotify.com/track/6DJTf1VV8uDbjxSHbsdX3v"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Gorge",
         "url": "https://open.spotify.com/album/2HkEQUkxDl5AkzG4RPJ6wr"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 181532,
       "name": "Gorge",
       "url": "https://open.spotify.com/track/21NWvfC00qCfHdaMIb7Cqq"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Jardin au fou",
-        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
-      },
-      "artists": [
-        {
-          "name": "Roedelius",
-          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "Le jardin",
-      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
     },
     {
       "added_at": "2022-05-18 01:37:47",
@@ -1165,40 +1165,20 @@
       "url": "https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT"
     },
     {
-      "added_at": "2022-03-19 07:13:25",
-      "album": {
-        "name": "Clementine",
-        "url": "https://open.spotify.com/album/4bNYz34i2RM9VRcQjPwQ8v"
-      },
-      "artists": [
-        {
-          "name": "No Spirit",
-          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
-        },
-        {
-          "name": "Wishes and Dreams",
-          "url": "https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/7ebe1xN7k4WLIP6ERROxEB"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "SVMMER SVN vol. 6",
-        "url": "https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya"
+        "name": "Jardin au fou",
+        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
       },
       "artists": [
         {
-          "name": "John Looke",
-          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
         }
       ],
-      "duration_ms": 267027,
-      "name": "Redder Than The Moon",
-      "url": "https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE"
+      "duration_ms": 268400,
+      "name": "Le jardin",
+      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1219,6 +1199,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "SVMMER SVN vol. 6",
+        "url": "https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya"
+      },
+      "artists": [
+        {
+          "name": "John Looke",
+          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
+        }
+      ],
+      "duration_ms": 267027,
+      "name": "Redder Than The Moon",
+      "url": "https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Ultra Marine",
         "url": "https://open.spotify.com/album/1mDDSvhlqghu08AS5u8e35"
       },
@@ -1233,20 +1229,24 @@
       "url": "https://open.spotify.com/track/6G9LFyviMIEEXwRKTeAD1s"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
+      "added_at": "2022-03-19 07:13:25",
       "album": {
-        "name": "Annual Flowers in Color",
-        "url": "https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX"
+        "name": "Clementine",
+        "url": "https://open.spotify.com/album/4bNYz34i2RM9VRcQjPwQ8v"
       },
       "artists": [
         {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        },
+        {
+          "name": "Wishes and Dreams",
+          "url": "https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h"
         }
       ],
-      "duration_ms": 64000,
-      "name": "The Geranium Room",
-      "url": "https://open.spotify.com/track/6DJTf1VV8uDbjxSHbsdX3v"
+      "duration_ms": 175208,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/7ebe1xN7k4WLIP6ERROxEB"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Late Spring",
-        "url": "https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Breaking Dawn",
-      "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Tantra Loom",
         "url": "https://open.spotify.com/album/3MjKf7c5JLNMQIj2XTDOGa"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 227700,
       "name": "Tantra Loom",
       "url": "https://open.spotify.com/track/3kv41hhvbb2lM2yNnR7MCw"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Late Spring",
+        "url": "https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Breaking Dawn",
+      "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Nausea",
-        "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
-      },
-      "artists": [
-        {
-          "name": "drkmnd",
-          "url": "https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0XQoOGwbUn930qZGji0885"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "blue moon",
         "url": "https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ"
       },
@@ -1399,22 +1383,6 @@
       "duration_ms": 86292,
       "name": "conversations with grandma",
       "url": "https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG"
-    },
-    {
-      "added_at": "2022-04-07 03:16:04",
-      "album": {
-        "name": "Purpose.",
-        "url": "https://open.spotify.com/album/3iUUBlbgj5U6FaIwOkImoB"
-      },
-      "artists": [
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Purpose.",
-      "url": "https://open.spotify.com/track/7AQGxFft7GGhqWGCnQXtMq"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1431,6 +1399,58 @@
       "duration_ms": 111079,
       "name": "lake hylia",
       "url": "https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Nausea",
+        "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
+      },
+      "artists": [
+        {
+          "name": "drkmnd",
+          "url": "https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C"
+        }
+      ],
+      "duration_ms": 186634,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0XQoOGwbUn930qZGji0885"
+    },
+    {
+      "added_at": "2022-03-30 02:54:54",
+      "album": {
+        "name": "Point Zero",
+        "url": "https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Jim Doney",
+          "url": "https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "Dear Ko (To Ko the Regt)",
+      "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
+    },
+    {
+      "added_at": "2022-04-07 03:16:04",
+      "album": {
+        "name": "Purpose.",
+        "url": "https://open.spotify.com/album/3iUUBlbgj5U6FaIwOkImoB"
+      },
+      "artists": [
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Purpose.",
+      "url": "https://open.spotify.com/track/7AQGxFft7GGhqWGCnQXtMq"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1467,6 +1487,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "Mists",
+        "url": "https://open.spotify.com/album/5jithCshUdK6yZd8oP4XMf"
+      },
+      "artists": [
+        {
+          "name": "Phillip Norman Watson",
+          "url": "https://open.spotify.com/artist/2l470mqKXM31vhpMnf3IGN"
+        }
+      ],
+      "duration_ms": 281658,
+      "name": "Pale Lavender",
+      "url": "https://open.spotify.com/track/3FZqioWMlFemrJ1ZfElWDE"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Habitat",
         "url": "https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN"
       },
@@ -1483,74 +1519,6 @@
       "duration_ms": 550079,
       "name": "Botanique",
       "url": "https://open.spotify.com/track/1pWIPbmvcqy9N06Bmasdfa"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Mists",
-        "url": "https://open.spotify.com/album/5jithCshUdK6yZd8oP4XMf"
-      },
-      "artists": [
-        {
-          "name": "Phillip Norman Watson",
-          "url": "https://open.spotify.com/artist/2l470mqKXM31vhpMnf3IGN"
-        }
-      ],
-      "duration_ms": 281658,
-      "name": "Pale Lavender",
-      "url": "https://open.spotify.com/track/3FZqioWMlFemrJ1ZfElWDE"
-    },
-    {
-      "added_at": "2022-03-19 06:40:38",
-      "album": {
-        "name": "The Plant Whisperer",
-        "url": "https://open.spotify.com/album/6Y0GISNmyOkKYfUNQBcQfi"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 137923,
-      "name": "Maranta",
-      "url": "https://open.spotify.com/track/2wTpKE7LiT9Zd9PTps0AtT"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Intimate Immensity",
-        "url": "https://open.spotify.com/album/5uU3uLAmcSsZUpTjNLu59H"
-      },
-      "artists": [
-        {
-          "name": "Tomaga",
-          "url": "https://open.spotify.com/artist/22UtZr56I5MgK9Ru1QfUCj"
-        }
-      ],
-      "duration_ms": 269619,
-      "name": "Reverie for Fragile Houseplants",
-      "url": "https://open.spotify.com/track/2wA6lj5uEjfVVDflH5t3Ud"
-    },
-    {
-      "added_at": "2022-03-30 02:54:54",
-      "album": {
-        "name": "Point Zero",
-        "url": "https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Jim Doney",
-          "url": "https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "Dear Ko (To Ko the Regt)",
-      "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1585,52 +1553,20 @@
       "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
     },
     {
-      "added_at": "2022-08-31 03:39:54",
+      "added_at": "2022-03-19 06:40:38",
       "album": {
-        "name": "Voz",
-        "url": "https://open.spotify.com/album/3uY9APJcADScKquOCujhw3"
+        "name": "The Plant Whisperer",
+        "url": "https://open.spotify.com/album/6Y0GISNmyOkKYfUNQBcQfi"
       },
       "artists": [
         {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
         }
       ],
-      "duration_ms": 151838,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Sova",
-        "url": "https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY"
-      },
-      "artists": [
-        {
-          "name": "Guustavv",
-          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
-        }
-      ],
-      "duration_ms": 132958,
-      "name": "Yawn Machine",
-      "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Roses Are Blue",
-        "url": "https://open.spotify.com/album/6kZ4ilp9EF7jibsKzq8Wra"
-      },
-      "artists": [
-        {
-          "name": "Martina Stock",
-          "url": "https://open.spotify.com/artist/6kv6jaS62CE2oWnH7msKzT"
-        }
-      ],
-      "duration_ms": 577500,
-      "name": "Roses Are Blue",
-      "url": "https://open.spotify.com/track/3wUxE9yh357hRzB56zFGbD"
+      "duration_ms": 137923,
+      "name": "Maranta",
+      "url": "https://open.spotify.com/track/2wTpKE7LiT9Zd9PTps0AtT"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1651,6 +1587,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "Intimate Immensity",
+        "url": "https://open.spotify.com/album/5uU3uLAmcSsZUpTjNLu59H"
+      },
+      "artists": [
+        {
+          "name": "Tomaga",
+          "url": "https://open.spotify.com/artist/22UtZr56I5MgK9Ru1QfUCj"
+        }
+      ],
+      "duration_ms": 269619,
+      "name": "Reverie for Fragile Houseplants",
+      "url": "https://open.spotify.com/track/2wA6lj5uEjfVVDflH5t3Ud"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Mutaciones",
         "url": "https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg"
       },
@@ -1667,18 +1619,66 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Gal\u00e1pagos (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/6MEySYP7MoW6HTEL0fkXwF"
+        "name": "Sova",
+        "url": "https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY"
       },
       "artists": [
         {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+          "name": "Guustavv",
+          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
         }
       ],
-      "duration_ms": 138773,
-      "name": "Seals",
-      "url": "https://open.spotify.com/track/5yBwN4BHv5WUvch6MR5L68"
+      "duration_ms": 132958,
+      "name": "Yawn Machine",
+      "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
+    },
+    {
+      "added_at": "2022-06-30 01:13:19",
+      "album": {
+        "name": "Slopped + Chewed, Volume 1",
+        "url": "https://open.spotify.com/album/5GZmKpx3tboxuJ1cfqYhQw"
+      },
+      "artists": [
+        {
+          "name": "TUAWKI",
+          "url": "https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Nevada",
+      "url": "https://open.spotify.com/track/3TGUXBzeUqekCLeAxOfzfr"
+    },
+    {
+      "added_at": "2022-08-31 03:39:54",
+      "album": {
+        "name": "Voz",
+        "url": "https://open.spotify.com/album/3uY9APJcADScKquOCujhw3"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O"
+        }
+      ],
+      "duration_ms": 151838,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Roses Are Blue",
+        "url": "https://open.spotify.com/album/6kZ4ilp9EF7jibsKzq8Wra"
+      },
+      "artists": [
+        {
+          "name": "Martina Stock",
+          "url": "https://open.spotify.com/artist/6kv6jaS62CE2oWnH7msKzT"
+        }
+      ],
+      "duration_ms": 577500,
+      "name": "Roses Are Blue",
+      "url": "https://open.spotify.com/track/3wUxE9yh357hRzB56zFGbD"
     }
   ],
   "unique_name": "Music for Plants",

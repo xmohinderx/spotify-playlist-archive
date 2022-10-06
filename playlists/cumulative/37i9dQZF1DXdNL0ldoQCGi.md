@@ -4,7 +4,7 @@
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então
 
-161 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
+163 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Privê](https://open.spotify.com/track/3KUQN385nghhy1Aey1H58h) | [Junior Villa](https://open.spotify.com/artist/4SEKohpPMBHAPiEaxiJDwP) | [Privê](https://open.spotify.com/album/2tvx8ctdXE03gR4SaysPOH) | 2:25 | 2022-09-26 |  |
 | [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/73u22uLsakf8W12suab1QO) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pro Nosso Bem \(Ao Vivo\)](https://open.spotify.com/album/1XFfWQRZRRgvyapnWUHPFg) | 3:14 | 2022-08-29 |  |
 | [Put0 & Cheiroso](https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR) | [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Jv045](https://open.spotify.com/artist/7DUxpqSJderzchDZHoqZZS), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe) | [Put0 & Cheiroso](https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp) | 3:23 | 2022-07-22 |  |
+| [Quarto](https://open.spotify.com/track/2OXzRAorEoKl90G8n8tu5t) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [Adeus Tokyo Part II](https://open.spotify.com/album/3lXVOBlBz0s2iun2ocA5Gn) | 2:49 | 2022-10-05 |  |
 | [Rave e Bagaceira](https://open.spotify.com/track/1Unc6luL5ueLO3t8I5YtpP) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl), [Marquinhos Lima](https://open.spotify.com/artist/57mkZiyi1RbNRp58F3RACm) | [Rave e Bagaceira](https://open.spotify.com/album/4PMmbtTltGCjdDhWdIdyj3) | 2:55 | 2022-05-25 | 2022-07-31 |
 | [Rave e Bagaceira](https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl), [Marquinhos Lima](https://open.spotify.com/artist/57mkZiyi1RbNRp58F3RACm) | [Embaixador do Piseiro em Casa \- Ao Vivo](https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX) | 2:55 | 2022-07-28 |  |
 | [Rihanna](https://open.spotify.com/track/2OmSPqvPsPK5m5X6UByh5S) | [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP) | [Rihanna](https://open.spotify.com/album/6DoJq2RqQevgGMkpAFuPtw) | 2:39 | 2022-05-25 | 2022-08-26 |
@@ -148,6 +149,7 @@
 | [Swing Lynn](https://open.spotify.com/track/6hIOunhsLUT66KQgZV5dMD) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8) | 5:21 | 2022-05-25 | 2022-07-29 |
 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2022-07-25 |  |
 | [Só Rock 2](https://open.spotify.com/track/3r9ljWQNQMV0xLY5v44Hwp) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 3:59 | 2022-05-25 | 2022-07-21 |
+| [Take My Breath Away](https://open.spotify.com/track/3T9K3rHpNZrcXAnlMBIakW) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [in between everything](https://open.spotify.com/album/1ssO74VtSjbPQlf6sA0oNF) | 2:38 | 2022-10-05 |  |
 | [Tapinha](https://open.spotify.com/track/51kGHvWwCdwbHWAVXnwPSC) | [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Tapinha](https://open.spotify.com/album/153Ri9zQdq540R7a2uYQ4q) | 2:26 | 2022-08-11 |  |
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2022-09-08 |  |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 |  |

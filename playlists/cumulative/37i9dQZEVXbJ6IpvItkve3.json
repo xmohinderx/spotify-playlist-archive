@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
@@ -2719,7 +2719,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 184000,
       "name": "Lie Like This",
       "url": "https://open.spotify.com/track/0Vza8xv9EmTgei0HxLO8L3"
@@ -3889,7 +3889,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -5219,7 +5219,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-18",
+      "date_removed": null,
       "duration_ms": 230700,
       "name": "\u05d0\u05d5\u05d7\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/07uIhNfeg1X7QZBl5BRxUK"
@@ -5545,7 +5545,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 204255,
       "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
       "url": "https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr"
@@ -5903,7 +5903,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 142084,
       "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05d9\u05e9\u05df \u05e2\u05dc \u05d6\u05d4",
       "url": "https://open.spotify.com/track/4N8FwcfRTju02qsgn9Mcl8"
@@ -6070,6 +6070,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05dc\u05d5\u05dc \u05ea\u05e9\u05e2\u05f4\u05d8",
+        "url": "https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM"
+      },
+      "artists": [
+        {
+          "name": "Ishay Ribo",
+          "url": "https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203860,
+      "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/0NSzGPKxiIAakpaD6sMSIA"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05e1\u05d5\u05e3 \u05e0\u05e8\u05e7\u05d5\u05d3",
         "url": "https://open.spotify.com/album/0B08f7onZv05gu5kO9zymf"
       },
@@ -6165,7 +6183,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 174738,
       "name": "\u05d1\u05e9\u05d5\u05e8\u05d5\u05ea \u05d8\u05d5\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ"
@@ -6433,7 +6451,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-18",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "\u05d4\u05dc\u05d1 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/7Ck421SAROdN0Q6RXMbic7"
@@ -6751,7 +6769,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 205081,
       "name": "\u05d7\u05de\u05d9\u05e9\u05d9 \u05e9\u05d9\u05e9\u05d9",
       "url": "https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT"
@@ -6991,7 +7009,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 176440,
       "name": "\u05d9'\u05d0 2",
       "url": "https://open.spotify.com/track/2PpTUW96jjJYr8ib8RUnUu"
@@ -7409,7 +7427,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 155219,
       "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
       "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
@@ -7568,6 +7586,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05dc\u05d5\u05dc \u05ea\u05e9\u05e2\u05f4\u05d8",
+        "url": "https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM"
+      },
+      "artists": [
+        {
+          "name": "Ishay Ribo",
+          "url": "https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220060,
+      "name": "\u05dc\u05da \u05d0\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/78mgH95nOBPj7gjwP5pOtU"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05de\u05e2 \u05e7\u05d5\u05dc\u05d9",
         "url": "https://open.spotify.com/album/0DeZnWXy1VdVmbZHyzfmnk"
       },
@@ -7597,7 +7633,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 158589,
       "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C"
@@ -7691,7 +7727,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-09-18",
+      "date_removed": null,
       "duration_ms": 197481,
       "name": "\u05dc\u05e9\u05d5\u05d1 \u05d4\u05d1\u05d9\u05ea\u05d4",
       "url": "https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6"
@@ -8470,6 +8506,28 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05dc\u05d5\u05dc \u05ea\u05e9\u05e2\u05f4\u05d8",
+        "url": "https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM"
+      },
+      "artists": [
+        {
+          "name": "Ishay Ribo",
+          "url": "https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj"
+        },
+        {
+          "name": "Motty Steinmetz",
+          "url": "https://open.spotify.com/artist/1pZcigV84ihZL3erh8v0gY"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266310,
+      "name": "\u05e0\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/7zA6yuXpK5ctlaQe8EQ1hf"
+    },
+    {
+      "album": {
         "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
         "url": "https://open.spotify.com/album/0pgYmDRVswjq8DdKYzJdY7"
       },
@@ -8553,7 +8611,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-18",
+      "date_removed": null,
       "duration_ms": 350955,
       "name": "\u05e1\u05d3\u05e8 \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4",
       "url": "https://open.spotify.com/track/4A5lRH29TyKxllsl94BWex"
@@ -8669,7 +8727,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 199710,
       "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv"
@@ -9747,7 +9805,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 238089,
       "name": "\u05e9\u05de\u05e9",
       "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"
@@ -9921,7 +9979,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 173500,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
       "url": "https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB"

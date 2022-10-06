@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover: Christine and the Queens.
 
-191 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+192 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Mirage](https://open.spotify.com/track/51xm7ThW7RFWFequh489x2) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Mirage](https://open.spotify.com/album/1yyd5eQ1MlUHP8kJNEuAtC) | 3:02 | 2022-01-06 | 2022-05-07 |
 | [Misbehave](https://open.spotify.com/track/7wKs9pd54ChcpRCn0ZvMZy) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Sonic Poems](https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn) | 3:29 | 2022-02-24 | 2022-04-08 |
 | [Misunderstood](https://open.spotify.com/track/4cd2bB36S1dcP88xNZnY3p) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Misunderstood](https://open.spotify.com/album/6ju1O90njqELb8iVbc2bOh) | 2:33 | 2022-04-28 |  |
-| [Mon cœur](https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Mon cœur](https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf) | 3:18 | 2022-03-24 |  |
+| [Mon cœur](https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Mon cœur](https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf) | 3:18 | 2022-03-24 | 2022-10-06 |
+| [Mon cœur](https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:18 | 2022-09-29 |  |
 | [Médicament](https://open.spotify.com/track/7zqDvIozUYDkUU2j61O9M8) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [1901 \- Part II](https://open.spotify.com/album/3KqY4Enmk7fHbjq7eIRmY2) | 3:22 | 2022-09-15 |  |
 | [Médicament](https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Médicament](https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j) | 3:22 | 2021-12-16 | 2022-09-16 |
 | [Noir \- Radio Edit](https://open.spotify.com/track/3w5V2euF3wWJnZkkt0QBxq) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Noir \(Radio Edit & Remixes\)](https://open.spotify.com/album/1mAA1TuXTiymyRcdxALQ9j) | 2:41 | 2021-12-16 | 2022-02-04 |

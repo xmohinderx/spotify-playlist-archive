@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Christian Löffler, Henry Green
 
-812 songs - 3 day 3 hr 2 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+812 songs - 3 day 3 hr 1 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ) | 8:12 | 2022-05-26 | 2022-06-17 |
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-04-14 | 2022-05-06 |
 | [Libertas](https://open.spotify.com/track/4hiKwWocPmJe06qhGHemgI) | [Thomas Lizzara](https://open.spotify.com/artist/6WqAx7kpPz11g54zvpcOuU) | [Libertas](https://open.spotify.com/album/33mlYQrdzkSj5oIjqtMOdn) | 6:26 | 2022-04-28 | 2022-05-20 |
-| [Light A Fire \- Radio Edit](https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Light A Fire](https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl) | 4:02 | 2022-09-29 |  |
+| [Light A Fire \- Radio Edit](https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Light A Fire](https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl) | 3:00 | 2022-09-29 |  |
 | [Lights of Faith](https://open.spotify.com/track/7xXiuefFV8xndf5sxHU320) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp), [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Lights of Faith](https://open.spotify.com/album/0N3lwyQkCyM1ej21zrxclu) | 6:00 | 2022-06-30 | 2022-07-15 |
 | [Lilium](https://open.spotify.com/track/6iQINdqIIEc7cNmRjag7NW) | [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h), [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [In Vere](https://open.spotify.com/album/7cErROe5eCmc6iS1W4aHgm) | 6:43 | 2022-05-20 | 2022-06-03 |
 | [Liquid Lights](https://open.spotify.com/track/6PA8fJBBXhPpfCToM1i9An) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m) | 5:57 | 2022-08-25 | 2022-09-09 |

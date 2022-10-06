@@ -1712,6 +1712,24 @@
     },
     {
       "album": {
+        "name": "Garuda Sevai",
+        "url": "https://open.spotify.com/album/3QjGleINdYDm4weNifzoyI"
+      },
+      "artists": [
+        {
+          "name": "Aman Nandi",
+          "url": "https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289804,
+      "name": "Shakthi Ganapathy",
+      "url": "https://open.spotify.com/track/03nIRan6UXhE1LauTQuEPG"
+    },
+    {
+      "album": {
         "name": "Aatma Momabattee",
         "url": "https://open.spotify.com/album/4vcltSZOJLMWgyomcNKHps"
       },

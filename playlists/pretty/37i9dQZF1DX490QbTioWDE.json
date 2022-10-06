@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 513450,
+  "num_followers": 513708,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGE1M2NlMDZjMTk3NGI2N2UzZTNiZGQ4ZTJmNzRlZTM5",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDgzMzI3ZTcxYmQwYWJiZjRkZDFhZTFkZjc0NGFmMzM3",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Me Duele Tu Nombre (En Vivo)",
         "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Para Rato!",
-        "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 227306,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Trulala - Grandes exitos",
         "url": "https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 198320,
       "name": "Tu amor me duele",
       "url": "https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Para Rato!",
+        "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 227306,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1723,18 +1723,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Mi Venganza",
-        "url": "https://open.spotify.com/album/2VGrCh43R8idRgJsYQrYa0"
+        "name": "Volver\u00e1s a mi cama",
+        "url": "https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV"
       },
       "artists": [
         {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        },
+        {
+          "name": "Fabi\u00e1n Show",
+          "url": "https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH"
         }
       ],
-      "duration_ms": 235101,
-      "name": "Mi Venganza",
-      "url": "https://open.spotify.com/track/3AFoC3oyF7fLyOFhWp7mS9"
+      "duration_ms": 192997,
+      "name": "Volver\u00e1s a mi cama",
+      "url": "https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N"
     },
     {
       "added_at": "2022-09-23 03:00:00",

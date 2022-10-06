@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-193 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+194 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Norfolk Hotel](https://open.spotify.com/track/2OhAqX7sDaxpE23yAF3nYJ) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/3OyYu4vdYFTIS0iseUKGfx) | 4:34 | 2022-09-27 |  |
 | [Omar](https://open.spotify.com/track/6GtsK77L2Ug3viCoe2P1kz) | [Carl Stone](https://open.spotify.com/artist/5tRMYUL8PeJlM9hd6pqCPU) | [Omar](https://open.spotify.com/album/61UdTK0uspBsU3qzmrsaq7) | 4:24 | 2022-09-28 |  |
 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 | 2022-06-08 | 2022-07-14 |
+| [On & On \- Lewis OfMan Houseparty Remix Edit](https://open.spotify.com/track/2badCse6I0mH4VGU8qBx5k) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [On & On \(Lewis OfMan Houseparty Remix\)](https://open.spotify.com/album/1oQUnYSAfX0DXRKOl9cLIu) | 3:00 | 2022-10-05 |  |
 | [Only in America: It Feels Like This](https://open.spotify.com/track/3KJCGTbqnx0CQCq3VTt9LV) | [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Only in America](https://open.spotify.com/album/1lZgy5sIQg9HOUaDWzXvXh) | 4:28 | 2022-08-16 | 2022-09-29 |
 | [Optimistic](https://open.spotify.com/track/4jJAMHQWkAQ57Eyuxn0Qi3) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh), [kimdollars1](https://open.spotify.com/artist/6fePUvIaJB7SLeOeGapoS5) | [Optimistic](https://open.spotify.com/album/2iLdOaxHCMnmFL6Oz73Neg) | 4:55 | 2022-08-10 | 2022-09-22 |
 | [Option 8](https://open.spotify.com/track/5dxk732O5asDxSLeW6H0cg) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Versions of Modern Performance](https://open.spotify.com/album/435br4I9UOHTrQI5qbxVbI) | 3:33 | 2022-06-08 | 2022-07-14 |

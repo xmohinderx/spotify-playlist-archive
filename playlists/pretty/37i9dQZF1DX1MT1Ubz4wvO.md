@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Austin TV en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,272 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,284 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 20 | [Carne de cañón \(feat\. Marlon\)](https://open.spotify.com/track/7vFuz6sDPJ8lIECqpi5F35) | [Sergio Rojas](https://open.spotify.com/artist/6neVdFsg6mjvNaQLI8K856), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Carne de cañón \(feat\. Marlon\)](https://open.spotify.com/album/5mkfnjFemm7v6xMiX9jfxM) | 3:58 |
 | 21 | [Lofi Chill Beats](https://open.spotify.com/track/5uqblLFRDCU9G2mgjpZP2R) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lofi Chill Beats](https://open.spotify.com/album/2gb4IhHZd1waeTbF6xxzzH) | 3:00 |
 | 22 | [Al meternos en el lecho](https://open.spotify.com/track/1jaY8Lm0EdSHviWgnoHO8c) | [Lagartija Nick](https://open.spotify.com/artist/6Ipe0i7N3mneCjxpkNifri) | [Al meternos en el lecho](https://open.spotify.com/album/4JHNRf5vv7CGFLRs14mLan) | 5:45 |
-| 23 | [Cometas](https://open.spotify.com/track/3fsxPpfv7Hbilg1lhBmzhU) | [Burdeos](https://open.spotify.com/artist/7cr0BoLNRJqGuloE0R8E4G) | [Cometas](https://open.spotify.com/album/67y7lFdPaCsTu3eltvao1A) | 4:46 |
+| 23 | [Cometas](https://open.spotify.com/track/3fsxPpfv7Hbilg1lhBmzhU) | [Burdeos](https://open.spotify.com/artist/7cr0BoLNRJqGuloE0R8E4G) | [Cometas](https://open.spotify.com/album/67y7lFdPaCsTu3eltvao1A) | 3:47 |
 | 24 | [La Pasión](https://open.spotify.com/track/0401ZCeLd2wTo5TNIYRG7b) | [El Verbo Odiado](https://open.spotify.com/artist/3BzLOWDqacG7i8N9SPYjVB) | [La Pasión](https://open.spotify.com/album/6XclKFX8qkeQo6c5pPTFw7) | 3:32 |
 | 25 | [Mi Mente Es Un Laberinto](https://open.spotify.com/track/6w48GFZii4o5FsaiRoosb0) | [François](https://open.spotify.com/artist/6BV3Tdvgnk5usWDtKtlIDg) | [Mi Mente Es Un Laberinto](https://open.spotify.com/album/5oXLPixDJZnrLqcDXZQIlu) | 2:28 |
 | 26 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/4e999HSStCk9Z1OOjyVZlv) | [Baldosa](https://open.spotify.com/artist/1mIT3nlH1FgnI1OhwpsSK2) | [Baldosa](https://open.spotify.com/album/6YS2jYeZVUKnlZlVysjbX7) | 3:23 |

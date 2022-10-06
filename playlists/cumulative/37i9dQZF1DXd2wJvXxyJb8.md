@@ -4,7 +4,7 @@
 
 > só hit bombado e viralizando na net! confia
 
-156 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+157 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [TU JOGA PRA TRAS TU ENCOSTA ENCOSTA vs NO PIQUE BBB \- DJ DN O ASTRO Remix](https://open.spotify.com/track/40ZZ1ZlfyNuDHgzjlxiTHC) | [DJ Dn o Astro](https://open.spotify.com/artist/1lqKo9SkOrpKcnxQlEYqeb), [Mc Mascara](https://open.spotify.com/artist/1hZn47PkkXSDml6ablUn1t), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [TU JOGA PRA TRAS TU ENCOSTA ENCOSTA vs NO PIQUE BBB \(DJ DN O ASTRO Remix\)](https://open.spotify.com/album/0w4hxUsI0uBLB7xJYG7P0o) | 1:43 | 2022-05-26 | 2022-06-01 |
 | [Tubarao Te Amo vs Andou Na Prancha Cuidado Tubarao Vai te Pegar](https://open.spotify.com/track/20AZdKe5RIGArK9rjqwcAg) | [diorrboy](https://open.spotify.com/artist/1txNI43n0I4SIvKeOEfM7g) | [Tubarao Te Amo vs Andou Na Prancha Cuidado Tubarao Vai te Pegar](https://open.spotify.com/album/1srwuY94jh8m6OYYCbA1Dv) | 2:32 | 2022-09-22 |  |
 | [Tuf Tuf Pof Pof](https://open.spotify.com/track/5IgFVuxghOxiIYRnjUsqi1) | [MC Reino](https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1), [DJ Malicia](https://open.spotify.com/artist/3gNtJCqmFD4p27qCQiQWvW), [Mc Babu](https://open.spotify.com/artist/7oeudIVqIvznvUPrvivH5W), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Thaizinha](https://open.spotify.com/artist/5O30nI9WzhHuxqFZqReBQu) | [Tuf Tuf Pof Pof](https://open.spotify.com/album/4h7QfGIwKtRwi3KZ27LVdj) | 2:42 | 2022-05-26 |  |
+| [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 | 2022-10-05 |  |
 | [Um Sonhador / Não Precisa / Não Aprendi A Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/42cdiwjkfYVjI8JtAQwsG5) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/6Ih58tG6tjs31HTfEUVwUL) | 4:36 | 2022-07-22 | 2022-08-12 |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-07-28 | 2022-08-09 |
 | [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 | 2022-05-26 | 2022-07-29 |

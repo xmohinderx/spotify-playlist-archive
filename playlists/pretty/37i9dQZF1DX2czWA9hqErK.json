@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 410245,
+  "num_followers": 410279,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1NjcyMSwwMDAwMDAwMDc5OTQzMmY4NDk4NWM5NDMxNDc2NjlmN2I0ZWQxMWRi",
+  "snapshot_id": "MTY2NDU1NjcyMSwwMDAwMDAwMGNiYTA0ZDgxMWUwOTkzMWIwMzRhMmQxOGI4NzFlMTQy",
   "tracks": [
     {
       "added_at": "2022-09-13 15:58:45",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "Bad Life",
         "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 226867,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Box of Regrets",
-        "url": "https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 196731,
-      "name": "Box of Regrets",
-      "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 146810,
       "name": "Margaux",
       "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Box of Regrets",
+        "url": "https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 196731,
+      "name": "Box of Regrets",
+      "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "For Those Who Can't Be Here",
-        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 183079,
-      "name": "For Those Who Can't Be Here",
-      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "squares / y 13",
         "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 267031,
       "name": "squares",
       "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "For Those Who Can't Be Here",
+        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 183079,
+      "name": "For Those Who Can't Be Here",
+      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K"
     },
     {
-      "added_at": "2022-10-05 01:43:53",
+      "added_at": "2022-10-06 01:34:41",
       "album": {
         "name": "East End Coast",
         "url": "https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy"
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Better in the Shade",
-        "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "Better in the Shade",
-      "url": "https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Mountaineer",
         "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 221875,
       "name": "Mountaineer",
       "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Better in the Shade",
+        "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "Better in the Shade",
+      "url": "https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Birds That Flew and Ships That Sailed",
-        "url": "https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 273453,
-      "name": "Blink of an Eye",
-      "url": "https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "Birds That Flew and Ships That Sailed",
+        "url": "https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 273453,
+      "name": "Blink of an Eye",
+      "url": "https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "Dinner Table",
         "url": "https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 209125,
       "name": "Dinner Table",
       "url": "https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
         "name": "With The Band / Bruises & Scratches",
         "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 174567,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Hallelujah I Love Her So",
         "url": "https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 163414,
       "name": "Hallelujah I Love Her So",
       "url": "https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 174567,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
     },
     {
       "added_at": "2022-09-13 15:58:45",

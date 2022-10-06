@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 189182,
+  "num_followers": 189282,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMDY2N2I4MGU4NDA4NTg3NGExYTNmNTQwOTVmMDRjMTc1",
+  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMGU5MmQ4ODU1YjkxOWNhNjZhZjljNGRkYzZkZTg4YjBl",
   "tracks": [
     {
       "added_at": "2022-02-15 16:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Morire Bebiendo",
-      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
-    },
-    {
-      "added_at": "2022-02-15 16:00:00",
-      "album": {
         "name": "...A Pasito Lento!",
         "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 272400,
       "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
       "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
+    },
+    {
+      "added_at": "2022-02-15 16:00:00",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Morire Bebiendo",
+      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Para Toda la Vida",
-        "url": "https://open.spotify.com/album/3c70wS1k77HwXB5k3E1Elr"
+        "name": "Obl\u00edgame",
+        "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
       },
       "artists": [
         {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
         }
       ],
-      "duration_ms": 344733,
-      "name": "Me Voy de Ti",
-      "url": "https://open.spotify.com/track/6hhW39JKMFCO5652Hi1dlg"
+      "duration_ms": 233706,
+      "name": "Me Duele La Cabeza",
+      "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Obl\u00edgame",
-        "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
+        "name": "Para Toda la Vida",
+        "url": "https://open.spotify.com/album/3c70wS1k77HwXB5k3E1Elr"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 233706,
-      "name": "Me Duele La Cabeza",
-      "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
+      "duration_ms": 344733,
+      "name": "Me Voy de Ti",
+      "url": "https://open.spotify.com/track/6hhW39JKMFCO5652Hi1dlg"
     },
     {
       "added_at": "2022-02-15 16:00:00",

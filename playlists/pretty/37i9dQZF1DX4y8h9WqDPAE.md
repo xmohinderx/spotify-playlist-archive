@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Ayra Starr & Kelly Rowland
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749,511 likes - 68 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749,552 likes - 68 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

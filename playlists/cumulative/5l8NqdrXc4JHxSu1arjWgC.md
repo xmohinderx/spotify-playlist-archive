@@ -4,7 +4,7 @@
 
 > 
 
-653 songs - 1 day 19 hr 53 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+654 songs - 1 day 19 hr 57 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Grass \- Remastered 2001](https://open.spotify.com/track/4GpmzLeUrLirnvzjb1epVy) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:05 | 2019-02-03 |  |
 | [Grave Architecture](https://open.spotify.com/track/71m8TLglSP4Naj0CVPd9pc) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Wowee Zowee](https://open.spotify.com/album/5C1ePFbSzOGHdypuNBIDZh) | 4:16 | 2019-06-05 |  |
 | [Grey Lanes](https://open.spotify.com/track/0bULxvo3EybNcJ2GiEUbUV) | [Jacco Gardner](https://open.spotify.com/artist/5RfKXXQQn2OhZiT5iSggZn) | [Hypnophobia](https://open.spotify.com/album/3PDgKBSnMy41T0IDRqIudq) | 3:06 | 2020-01-13 |  |
+| [Grounded \- Remastered](https://open.spotify.com/track/0RvVB5q8bzBiSuDBtLs8MZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 4:15 | 2022-10-05 |  |
 | [Growin' Up](https://open.spotify.com/track/6XqFS3UxIiDh0s6aNvSpc7) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Delorean Highway](https://open.spotify.com/album/2bzz6q23UzitaG2UAdrrNN) | 4:07 | 2018-11-26 |  |
 | [Guess I'm Doing Fine](https://open.spotify.com/track/6Pxqd7tcXE0t4mfK7PGDra) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:49 | 2021-04-18 |  |
 | [Hand Mouth Dancer](https://open.spotify.com/track/5cvzazmKknWEYWG3taVUys) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:40 | 2019-03-23 |  |

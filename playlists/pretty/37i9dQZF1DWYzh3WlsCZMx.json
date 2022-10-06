@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 74,
+  "num_followers": 185,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGVjNmJmYzI4MDk3ZWQ4ZTIxYzBhMzY1OTlhNGM1ZDQy",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDI1ZmUzODY4NTU0MmY1OTg3NjMzZmMyNjFhZjEyMGM1",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Yellow Tape",
         "url": "https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 146880,
       "name": "Mr. Glock",
       "url": "https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Who Don't Like Dollaz",
+        "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
+      },
+      "artists": [
+        {
+          "name": "Zoey Dollaz",
+          "url": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
+        }
+      ],
+      "duration_ms": 193358,
+      "name": "Blow a Check",
+      "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 193657,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Who Don't Like Dollaz",
-        "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
-      },
-      "artists": [
-        {
-          "name": "Zoey Dollaz",
-          "url": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
-        }
-      ],
-      "duration_ms": 193358,
-      "name": "Blow a Check",
-      "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
     },
     {
       "added_at": "2022-10-01 16:00:00",

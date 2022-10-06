@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance radio</a> hits from the 90s and 00s!",
-  "num_followers": 1274927,
+  "num_followers": 1275114,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMGMxOGUxZDA5MDk2YmU0ZTRhNmJhMzE3OGFkNDhmYzBk",
+  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMGJlOWU4YTMzNjBkMDEwNmNjMjczZmIzZWU5MjQ3YmU3",
   "tracks": [
     {
       "added_at": "2022-02-28 22:22:26",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Cry For You",
-        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Cry For You",
-      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Cry For You",
+        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Cry For You",
+      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "I Am Free",
-        "url": "https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN"
-      },
-      "artists": [
-        {
-          "name": "The Mackenzie",
-          "url": "https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP"
-        },
-        {
-          "name": "Jessy",
-          "url": "https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "I Am Free - Radio Edit",
-      "url": "https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Every Word",
         "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 213173,
       "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
       "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "I Am Free",
+        "url": "https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN"
+      },
+      "artists": [
+        {
+          "name": "The Mackenzie",
+          "url": "https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP"
+        },
+        {
+          "name": "Jessy",
+          "url": "https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "I Am Free - Radio Edit",
+      "url": "https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1"
     },
     {
       "added_at": "2022-02-28 22:22:26",

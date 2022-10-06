@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 74961,
+  "num_followers": 75280,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMGM3MTAzMmNmYmU3YzM1MDVmZTE2MjA0OGE5NWM2YzFi",
+  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMDk2YjFjNDQyZjc1MzllYmQ4NWFiNTZmMDM2NWY0Y2Nj",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -455,18 +455,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
         }
       ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/7B2yGUDt0aHGP0YuP4c2iG"
+      "duration_ms": 258533,
+      "name": "Only The Young",
+      "url": "https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
       },
       "artists": [
         {
-          "name": "Brandon Flowers",
-          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 258533,
-      "name": "Only The Young",
-      "url": "https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8"
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/7B2yGUDt0aHGP0YuP4c2iG"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 301400,
-      "name": "We Used to Wait",
-      "url": "https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Flaws",
         "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 176071,
       "name": "Ivy & Gold",
       "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 301400,
+      "name": "We Used to Wait",
+      "url": "https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU"
     },
     {
       "added_at": "2021-10-05 08:40:49",

@@ -1,15 +1,31 @@
 {
   "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: THAMA(\ub530\ub9c8))",
-  "num_followers": 18458,
+  "num_followers": 18494,
   "original_name": "K-Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg1MTYwNCwwMDAwMDAwMGU4ODQwNTg4MzgyZTUwNGU2NGU2MDM4MjNkZTJkN2M2",
+  "snapshot_id": "MTY2NDk0OTUxMSwwMDAwMDAwMGM5YzI2OGNiMmNhY2NmYjFmOWFhMGE0OGY4NjkwYzQ1",
   "tracks": [
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
+      "album": {
+        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 229570,
+      "name": "LA VIE",
+      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
+    },
+    {
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Complicated Needles",
         "url": "https://open.spotify.com/album/3m4dDrPmFG9Uzgl1C7y5zM"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/7hJyTX9CUFlYDmbVPuv8nT"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Zero gravity",
         "url": "https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Lost Mood",
         "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "imagine club",
         "url": "https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Therapy Session",
         "url": "https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "HUGS",
         "url": "https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "ADAMAS, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1MkWm3teh6zqfBVkpPUaji"
@@ -153,7 +169,23 @@
       "url": "https://open.spotify.com/track/4BPHgRFpbYJZhYLp5161Qi"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
+      "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "ALARM",
         "url": "https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Rust (feat. Rico)",
         "url": "https://open.spotify.com/album/6IifE3wcI8uxFaOrU21Hvr"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/2jYtKXsb2RblcLMhUMD3Fx"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "i ex you",
         "url": "https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/6FaSGjSSORmLRw8ElPHJbM"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Alive with you",
         "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "More and More",
         "url": "https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "When It Rains",
         "url": "https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "The One I Love",
         "url": "https://open.spotify.com/album/7IWphRN26CJeRDB6BjnYBl"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/6C1e3Fl3BHzlRNZk6ubm6C"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Sool",
         "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "blanc",
         "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Before you leave",
         "url": "https://open.spotify.com/album/5WHFoTl5Kt1mcIDAq23opf"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/5jM1gEtRlJvL0wRr6mWwuC"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "1,2,3..",
         "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "4th Mini Album ?=3 GENEZIS3",
         "url": "https://open.spotify.com/album/2KHj5gzlNgcDyDSwfuC3si"
@@ -361,7 +393,7 @@
       "url": "https://open.spotify.com/track/7gJcMXrSgaj0L9HN65Hkdd"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "chasing you",
         "url": "https://open.spotify.com/album/38K7xBBVe4XrZm7Y07lNhZ"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "XNFP (feat.JUNE)",
         "url": "https://open.spotify.com/album/3mYQq0tgwSXvUBkNQFegEl"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "After you\u2019ve gone",
         "url": "https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
@@ -429,7 +461,7 @@
       "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "KHAMAI",
         "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
@@ -445,7 +477,7 @@
       "url": "https://open.spotify.com/track/4sSo8hmQ1g7qt1iE1uMRDr"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "love",
         "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
@@ -461,7 +493,7 @@
       "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "White Lie",
         "url": "https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Remarriage and Desires (Original Soundtrack from The Netflix Series)",
         "url": "https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg"
@@ -497,7 +529,7 @@
       "url": "https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Hidden Castle",
         "url": "https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Wash me",
         "url": "https://open.spotify.com/album/1eqIFpJ2RxKJilG8j5CNQf"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/11xruTNYBtkgJVuc7ebgvW"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Out of My Intention",
         "url": "https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "SummerSweet",
         "url": "https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "EGO 90'S",
         "url": "https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Why (Feat. Hoody)",
         "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
         "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Everytime",
         "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Call Me Now",
         "url": "https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Lock me up",
         "url": "https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "OceanooM Duet\u2218\u263d",
         "url": "https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd"
@@ -709,7 +741,7 @@
       "url": "https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.14",
         "url": "https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF"
@@ -725,7 +757,7 @@
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Blue Interior",
         "url": "https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1"
@@ -773,7 +805,7 @@
       "url": "https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "CRONICLE",
         "url": "https://open.spotify.com/album/4YMtCMITwcAMvLfeywZ7ry"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/0wjUPck5yAl1w5S1bkd5un"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Sunset to Sunrise",
         "url": "https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "In the Rain",
         "url": "https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH"
@@ -829,7 +861,7 @@
       "url": "https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs"
@@ -861,7 +893,7 @@
       "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
     },
     {
-      "added_at": "2022-10-04 02:46:44",
+      "added_at": "2022-10-05 05:58:31",
       "album": {
         "name": "Seoul Check-in OST Part 9",
         "url": "https://open.spotify.com/album/5NLLw4yV1Du4PiekameabR"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDdmYTQzMDg3YTUyOWM4YmMyNDRkNTcyMWYyM2FhZjI1",
+  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMGU3MzMyNDlmYWY0Mzk3NDkxYmZiZDUwYzQyZDU1Yzk5",
   "tracks": [
     {
       "added_at": "2022-10-04 22:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
+        "name": "ROSES",
+        "url": "https://open.spotify.com/album/7L4QP4w9OivS4mb0DXUfak"
+      },
+      "artists": [
+        {
+          "name": "ELIF",
+          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
+        }
+      ],
+      "duration_ms": 147545,
+      "name": "ROSES",
+      "url": "https://open.spotify.com/track/40nvBToL831q0NDFMiunKR"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
         "name": "into it",
         "url": "https://open.spotify.com/album/4cLFhHP7yf468yHFERPdh3"
       },
@@ -159,18 +175,18 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "ROSES",
-        "url": "https://open.spotify.com/album/7L4QP4w9OivS4mb0DXUfak"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC"
       },
       "artists": [
         {
-          "name": "ELIF",
-          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
         }
       ],
-      "duration_ms": 147545,
-      "name": "ROSES",
-      "url": "https://open.spotify.com/track/40nvBToL831q0NDFMiunKR"
+      "duration_ms": 170370,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -191,22 +207,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC"
-      },
-      "artists": [
-        {
-          "name": "Loi",
-          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
-        }
-      ],
-      "duration_ms": 170370,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/6gvKYRTLGU3umRpmFdHPGX"
       },
@@ -219,6 +219,22 @@
       "duration_ms": 146841,
       "name": "Close",
       "url": "https://open.spotify.com/track/17750mkCVMegJAI2UeSeR9"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Caprisonnen",
+        "url": "https://open.spotify.com/album/2NZ4wb5YIDDGTTuI7d9NpX"
+      },
+      "artists": [
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
+        }
+      ],
+      "duration_ms": 170545,
+      "name": "Caprisonnen",
+      "url": "https://open.spotify.com/track/6tcsi9NusBSy1ZeXqRr6LB"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -255,22 +271,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Caprisonnen",
-        "url": "https://open.spotify.com/album/2NZ4wb5YIDDGTTuI7d9NpX"
-      },
-      "artists": [
-        {
-          "name": "LINA",
-          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
-        }
-      ],
-      "duration_ms": 170545,
-      "name": "Caprisonnen",
-      "url": "https://open.spotify.com/track/6tcsi9NusBSy1ZeXqRr6LB"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Erstmal Essen",
         "url": "https://open.spotify.com/album/14APsRnvqOWgceB3DqwciA"
       },
@@ -283,70 +283,6 @@
       "duration_ms": 123829,
       "name": "Erstmal Essen",
       "url": "https://open.spotify.com/track/00SCoeeKghqbYfxHSRV64D"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Separate Us",
-        "url": "https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz"
-      },
-      "artists": [
-        {
-          "name": "Dillon",
-          "url": "https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "Separate Us",
-      "url": "https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Baby Blue",
-        "url": "https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV"
-      },
-      "artists": [
-        {
-          "name": "MOLA",
-          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "what if we?",
-        "url": "https://open.spotify.com/album/45mEiWk5PgdeQqabD0fQw3"
-      },
-      "artists": [
-        {
-          "name": "Faye Montana",
-          "url": "https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "what if we?",
-      "url": "https://open.spotify.com/track/3bLunJFm0B341fJ2TDQdLE"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR"
-      },
-      "artists": [
-        {
-          "name": "Sira",
-          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -367,6 +303,86 @@
       "duration_ms": 144919,
       "name": "Got 2 Know (feat. SHELLS) - Radio Edit",
       "url": "https://open.spotify.com/track/5dYHeKMZtAgwE1GU1HY7RE"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Separate Us",
+        "url": "https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz"
+      },
+      "artists": [
+        {
+          "name": "Dillon",
+          "url": "https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "Separate Us",
+      "url": "https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "what if we?",
+        "url": "https://open.spotify.com/album/45mEiWk5PgdeQqabD0fQw3"
+      },
+      "artists": [
+        {
+          "name": "Faye Montana",
+          "url": "https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "what if we?",
+      "url": "https://open.spotify.com/track/3bLunJFm0B341fJ2TDQdLE"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR"
+      },
+      "artists": [
+        {
+          "name": "Sira",
+          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Morio Muskat",
+        "url": "https://open.spotify.com/album/43fUbOTiqzqzRIz0XkJMNc"
+      },
+      "artists": [
+        {
+          "name": "ADINA",
+          "url": "https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Morio Muskat",
+      "url": "https://open.spotify.com/track/574CekDWfeHnXb9Cw8PpLU"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -419,18 +435,18 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Morio Muskat",
-        "url": "https://open.spotify.com/album/43fUbOTiqzqzRIz0XkJMNc"
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl"
       },
       "artists": [
         {
-          "name": "ADINA",
-          "url": "https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y"
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
         }
       ],
-      "duration_ms": 164053,
-      "name": "Morio Muskat",
-      "url": "https://open.spotify.com/track/574CekDWfeHnXb9Cw8PpLU"
+      "duration_ms": 180000,
+      "name": "Light A Fire - Radio Edit",
+      "url": "https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -467,22 +483,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/72oWWoZFQWj7gMMLjyIYdl"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Light A Fire - Radio Edit",
-      "url": "https://open.spotify.com/track/4kWh7JxUrd2FGLbrnMuy8P"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Delikat",
         "url": "https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 156000,
       "name": "Delikat",
       "url": "https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Where Did You Sleep?",
+        "url": "https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pac",
+          "url": "https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE"
+        }
+      ],
+      "duration_ms": 208655,
+      "name": "Where Did You Sleep?",
+      "url": "https://open.spotify.com/track/0z1lz4gVf6XoACzgev1CQ5"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -535,22 +551,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Where Did You Sleep?",
-        "url": "https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Pac",
-          "url": "https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE"
-        }
-      ],
-      "duration_ms": 208655,
-      "name": "Where Did You Sleep?",
-      "url": "https://open.spotify.com/track/0z1lz4gVf6XoACzgev1CQ5"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 268568,
       "name": "Schweden Espresso",
       "url": "https://open.spotify.com/track/0LokKpZ75o151vBOJpDS8b"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "ORCA",
+        "url": "https://open.spotify.com/album/1lPXlaxGjJ985MXLnDOJX7"
+      },
+      "artists": [
+        {
+          "name": "MARYAM.fyi",
+          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "ORCA",
+      "url": "https://open.spotify.com/track/09UjGnS0SrbxDxL4yD8ldG"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -583,18 +599,18 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "ORCA",
-        "url": "https://open.spotify.com/album/1lPXlaxGjJ985MXLnDOJX7"
+        "name": "Romeo Must Die",
+        "url": "https://open.spotify.com/album/3EIVFvcT8DPj35kUU4oyXL"
       },
       "artists": [
         {
-          "name": "MARYAM.fyi",
-          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
+          "name": "Gaddafi Gals",
+          "url": "https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l"
         }
       ],
-      "duration_ms": 175238,
-      "name": "ORCA",
-      "url": "https://open.spotify.com/track/09UjGnS0SrbxDxL4yD8ldG"
+      "duration_ms": 186760,
+      "name": "Tearz",
+      "url": "https://open.spotify.com/track/4SljM2mMcA8t7wqJU1rhye"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -627,22 +643,6 @@
       "duration_ms": 177962,
       "name": "Verlieren",
       "url": "https://open.spotify.com/track/2tsWZUMOTJR3wXze5SKW2D"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Romeo Must Die",
-        "url": "https://open.spotify.com/album/3EIVFvcT8DPj35kUU4oyXL"
-      },
-      "artists": [
-        {
-          "name": "Gaddafi Gals",
-          "url": "https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Tearz",
-      "url": "https://open.spotify.com/track/4SljM2mMcA8t7wqJU1rhye"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
+        "name": "Adalam Va!",
+        "url": "https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 142102,
+      "name": "Adalam Va!",
+      "url": "https://open.spotify.com/track/0BJkSAC37xEAJW2a9yTeoq"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
         "name": "Summerchild",
         "url": "https://open.spotify.com/album/0SUFmKIXuz0BCpUHehkxXs"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 203904,
       "name": "Eudaimonia",
       "url": "https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Adalam Va!",
-        "url": "https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 142102,
-      "name": "Adalam Va!",
-      "url": "https://open.spotify.com/track/0BJkSAC37xEAJW2a9yTeoq"
     },
     {
       "added_at": "2022-10-04 22:00:00",

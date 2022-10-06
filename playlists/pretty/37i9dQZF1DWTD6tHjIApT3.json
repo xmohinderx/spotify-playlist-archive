@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Tokimeki Records",
-  "num_followers": 84190,
+  "num_followers": 84289,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMzEyOSwwMDAwMDAwMDNlZWQxZDI3OGNlNzhlNDA3NTY4ZjJhYjlmZGU4ZjRm",
+  "snapshot_id": "MTY2NDkyMzEyOSwwMDAwMDAwMDAyOGIxNGM0ZTA3MDg5MTM0MGEzZjNmM2YxNTZmMGIx",
   "tracks": [
     {
       "added_at": "2022-10-04 15:00:00",
@@ -148,7 +148,7 @@
       "added_at": "2022-10-04 15:00:00",
       "album": {
         "name": "A revolution",
-        "url": "https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL"
+        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
       },
       "artists": [
         {
@@ -158,7 +158,7 @@
       ],
       "duration_ms": 240133,
       "name": "Radio song",
-      "url": "https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F"
+      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq"
     },
     {
-      "added_at": "2022-10-05 01:24:23",
+      "added_at": "2022-10-06 01:18:01",
       "album": {
         "name": "\u590f\u306e\u50d5\u306b\u3082",
         "url": "https://open.spotify.com/album/2CnBGbNazCkeBAUs44hXOG"
@@ -315,26 +315,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
-        "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
+        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        },
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        },
-        {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 188060,
-      "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
-      "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
+      "duration_ms": 257799,
+      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
+      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -355,18 +347,26 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-        "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
+        "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
+        "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 257799,
-      "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
-      "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
+      "duration_ms": 188060,
+      "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
+      "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -563,8 +563,8 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "\u6708\u304c\u6d99\u3092\u6d41\u3059\u591c",
-        "url": "https://open.spotify.com/album/7AyOi29A8SRAcDOojIJBCi"
+        "name": "Tsuki ga Namida o Nagasuyoru",
+        "url": "https://open.spotify.com/album/1TnIqeOXBIJMLTz22atSjq"
       },
       "artists": [
         {
@@ -573,8 +573,8 @@
         }
       ],
       "duration_ms": 219666,
-      "name": "\u6708\u304c\u6d99\u3092\u6d41\u3059\u591c",
-      "url": "https://open.spotify.com/track/68CMuQlO03vyQrGVNHTle2"
+      "name": "Tsuki ga Namida o Nagasuyoru",
+      "url": "https://open.spotify.com/track/2wiFirrejFmndoqcCupcmF"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 249227,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "UTA'S SONGS ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 272466,
       "name": "Where the Wind Blows",
       "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 249227,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
-        "url": "https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 273293,
-      "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
-      "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "\u611b\u306e\u3057\u308b\u3057",
         "url": "https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 170666,
       "name": "\u611b\u306e\u3057\u308b\u3057",
       "url": "https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
+        "url": "https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
+      "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "High Five",
-        "url": "https://open.spotify.com/album/0tbxmJoW2zvNON0TKj2tPv"
+        "name": "Call me back",
+        "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
       "artists": [
         {
-          "name": "Miisha Shimizu",
-          "url": "https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp"
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
         }
       ],
-      "duration_ms": 193832,
-      "name": "High Five",
-      "url": "https://open.spotify.com/track/1bFGGcm9ttACXufVIAoJVV"
+      "duration_ms": 225529,
+      "name": "Call me back",
+      "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1291,22 +1295,18 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Call me back",
-        "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
+        "name": "High Five",
+        "url": "https://open.spotify.com/album/0tbxmJoW2zvNON0TKj2tPv"
       },
       "artists": [
         {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        },
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+          "name": "Miisha Shimizu",
+          "url": "https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp"
         }
       ],
-      "duration_ms": 225529,
-      "name": "Call me back",
-      "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+      "duration_ms": 193832,
+      "name": "High Five",
+      "url": "https://open.spotify.com/track/1bFGGcm9ttACXufVIAoJVV"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Another Day Goes By",
-        "url": "https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15"
-      },
-      "artists": [
-        {
-          "name": "Lizabet",
-          "url": "https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq"
-        }
-      ],
-      "duration_ms": 241043,
-      "name": "Another Day Goes By",
-      "url": "https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "\u9178\u6b20\u5c11\u5973",
         "url": "https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 248386,
       "name": "\u9178\u6b20\u5c11\u5973",
       "url": "https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "Another Day Goes By",
+        "url": "https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15"
+      },
+      "artists": [
+        {
+          "name": "Lizabet",
+          "url": "https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq"
+        }
+      ],
+      "duration_ms": 241043,
+      "name": "Another Day Goes By",
+      "url": "https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "\u3044\u3068\u3092\u304b\u3057",
-        "url": "https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u3044\u3068\u3092\u304b\u3057",
-      "url": "https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "ONE AND LAST",
         "url": "https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 287453,
       "name": "ONE AND LAST",
       "url": "https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "\u3044\u3068\u3092\u304b\u3057",
+        "url": "https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u3044\u3068\u3092\u304b\u3057",
+      "url": "https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
+        "name": "bye bye",
+        "url": "https://open.spotify.com/album/355jantKZOHA8IzbjeSi5A"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        }
+      ],
+      "duration_ms": 168225,
+      "name": "bye bye",
+      "url": "https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
         "name": "\u70b9\u706f",
         "url": "https://open.spotify.com/album/2E5Pq4Abnn7pBSotdqREqV"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 298194,
       "name": "\u70b9\u706f",
       "url": "https://open.spotify.com/track/1x66l1vEQ7gl0I5zZWlKku"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "Suisei \u00d7 Konyawa Boogie Back nice vocal",
-        "url": "https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ"
-      },
-      "artists": [
-        {
-          "name": "Tomoko Ikeda \u00d7 TENDRE",
-          "url": "https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P"
-        }
-      ],
-      "duration_ms": 301413,
-      "name": "Suisei \u00d7 Konyawa Boogie Back nice vocal",
-      "url": "https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB"
     },
     {
       "added_at": "2022-10-04 15:00:00",

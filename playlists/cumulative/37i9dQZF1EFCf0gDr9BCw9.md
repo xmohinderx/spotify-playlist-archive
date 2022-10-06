@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
+143 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Blues In Orbit](https://open.spotify.com/track/1pCfOO0Zs5F5TRQxcTdQma) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:27 | 2022-09-08 |  |
 | [Boll Weevil Ballet](https://open.spotify.com/track/7JImy6RMJR48M66vZwSMCw) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 5:11 | 2022-09-08 |  |
 | [Boo\-Dah \- Remastered](https://open.spotify.com/track/1BYrhHjvDPbUaGCqv8gvkt) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/2K0iRt0H36VGYi9Dt21Q0g) | 3:25 | 2022-09-08 |  |
-| [Bugle Breaks](https://open.spotify.com/track/1UuP4NP57KfD2CoMlLLWaa) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Grands Succès : Les Plus Grands Orchestre De La Libération](https://open.spotify.com/album/3M84IpjW6jlrAkEW8dgXao) | 2:53 | 2022-09-08 |  |
+| [Bugle Breaks](https://open.spotify.com/track/1UuP4NP57KfD2CoMlLLWaa) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Grands Succès : Les Plus Grands Orchestre De La Libération](https://open.spotify.com/album/3M84IpjW6jlrAkEW8dgXao) | 2:53 | 2022-09-08 | 2022-10-06 |
+| [Bugle Breaks](https://open.spotify.com/track/722g3b31Fn8GzSQ68WJlbR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Les Plus Grands Orchestres de la Liberation](https://open.spotify.com/album/4TvT04s52uey1cRszFZHOq) | 2:53 | 2022-10-05 |  |
 | [Carribee Joe](https://open.spotify.com/track/4INUy71Qk3A6dOC54tZ8lv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 2:58 | 2022-09-08 |  |
 | [Cashmere Cutie](https://open.spotify.com/track/0ERpyYWqiHtWNQKHWOWKIn) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:16 | 2022-09-08 |  |
 | [Chalmeau](https://open.spotify.com/track/3KftqPtAFIUDyJsZ6KQJMD) | [Harry Carney](https://open.spotify.com/artist/28fgw4cYFSCSciUyDqnbXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Music For Loving](https://open.spotify.com/album/1feZuoiJrSbos4LfhUIZF0) | 3:38 | 2022-09-08 |  |

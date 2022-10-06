@@ -4,7 +4,7 @@
 
 > JORDSS getting you ready for the road at Notting Hill Carnival 2022
 
-215 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
+216 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Underneath It All](https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 5:02 | 2022-07-30 | 2022-08-19 |
 | [Up In The Party](https://open.spotify.com/track/27DPusjnPmFU2ocLC4hUlc) | [Jadel](https://open.spotify.com/artist/7KyDUKtDsgx2cXDCaywYWH) | [Buddy Pass Riddim](https://open.spotify.com/album/4A6riOxllXc7umV09PSViF) | 2:22 | 2022-02-24 | 2022-07-31 |
 | [Vaccine](https://open.spotify.com/track/4Kp07YpnI59rSmNsEiCbf7) | [Chi Ching Ching](https://open.spotify.com/artist/1a3wNO8RPhwmEBZqm68aqU), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Vaccine](https://open.spotify.com/album/6JcXEstpbw90IyjJURvgfj) | 2:48 | 2021-08-26 | 2022-02-25 |
-| [Vagabond](https://open.spotify.com/track/5orUcK5UFka2Y7QtPTms83) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Get Soca 2015](https://open.spotify.com/album/25W1b4wuBuqq4eM3rNPORQ) | 3:56 | 2022-08-18 |  |
+| [Vagabond](https://open.spotify.com/track/5orUcK5UFka2Y7QtPTms83) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Get Soca 2015](https://open.spotify.com/album/25W1b4wuBuqq4eM3rNPORQ) | 3:56 | 2022-08-18 | 2022-10-06 |
+| [Vagabond](https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Vagabond](https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz) | 3:58 | 2022-08-18 |  |
 | [Vagabond](https://open.spotify.com/track/7db0CuuDCvgmu8hROocLAk) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Homesick](https://open.spotify.com/album/0BpmLQRZ6tZJuP5oPi5Koc) | 3:58 | 2021-08-26 | 2022-02-25 |
 | [Vent](https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [International Stephen](https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6) | [Vent](https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc) | 3:45 | 2022-02-24 | 2022-07-31 |
 | [Vibes Cyah Done](https://open.spotify.com/track/4bItGccKKBrmxKjnzaBTwX) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Antilles Riddim \(Soca 2012 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7) | 3:18 | 2022-08-18 |  |

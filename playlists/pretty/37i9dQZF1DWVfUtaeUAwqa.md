@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,130 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,134 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 8 | [New Orleans Shout](https://open.spotify.com/track/5Pcr62bLUsT3KIotsiafwB) | [Bourbon Street Jazzband](https://open.spotify.com/artist/2SvsDVaQnwhr8da9LPepJO) | [I Must Have It](https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8) | 2:55 |
 | 9 | [Savoy Blues](https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N) | [Kid Ory's Creole Jazz Band](https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ) | [Kid Ory New Orleans Jazz Man](https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z) | 3:03 |
 | 10 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 2:55 |
-| 11 | [Struttin' with Some Barbecue \- 78 rpm Version](https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:03 |
-| 12 | [Walkin' The Dog](https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL) | [Edmond Hall](https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc) | [Jazz Foundations Vol\. 25](https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn) | 4:34 |
+| 11 | [Walkin' The Dog](https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL) | [Edmond Hall](https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc) | [Jazz Foundations Vol\. 25](https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn) | 4:34 |
+| 12 | [Struttin' with Some Barbecue \- 78 rpm Version](https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:03 |
 | 13 | [Frankie & Johnny](https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [That's A Plenty](https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx) | 3:47 |
 | 14 | [Doctor Jazz](https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:28 |
 | 15 | [By and By](https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 3:00 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 48 | [Jazz Me Blues](https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Pete Fountain Presents The Best Of Dixieland: Al Hirt](https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE) | 3:33 |
 | 49 | [Nobody's Sweetheart](https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu) | [Frank Teschemacher feat\. McKenzie and Condons Chicagoans](https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf), [Frank Teschemacher](https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA), [McKenzie and Condon's Chicagoans](https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d) | [Jazz Chronicles: Frank Teschemacher, Vol\. 1](https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe) | 3:02 |
 | 50 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
-| 51 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
+| 51 | [In The Good Old Summertime](https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [50 Classics: The Best Of Dixieland Jazz](https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO) | 3:08 |
 | 52 | [Bugle Call Blues](https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr) | [New Orleans Rhythm Kings](https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA) | [All Time Jazz: New Orleans Rhythm Kings](https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl) | 2:22 |
 | 53 | [Dixie](https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP) | [Billy Randolph](https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF), [The High Hatters](https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u) | [Roaring' 20's](https://open.spotify.com/album/6yGyFKhtYmeatToldl421e) | 3:02 |
 | 54 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
-| 55 | [In The Good Old Summertime](https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [50 Classics: The Best Of Dixieland Jazz](https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO) | 3:08 |
+| 55 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
 
-Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMGU4MDcyZDU4ZWJkYzg0NjJlMjQ3NmI4ODMwOGFmOTI4`
+Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDUwYmY4ODMzYTExMmMwMDI4MmZjYjBhMjIwZTM3OGFk`

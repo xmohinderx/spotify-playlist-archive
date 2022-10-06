@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,190 likes - 500 songs - 19 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,309 likes - 500 songs - 19 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 146 | [Moon's Lullaby](https://open.spotify.com/track/0To5bmmXdBIWONbMxKvGBr) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Moon's Lullaby](https://open.spotify.com/album/10cSPrGYsbsahaxNjiky8Q) | 2:40 |
 | 147 | [Downhill](https://open.spotify.com/track/0cmpRSmhFJn8pXmMjvQ4Pn) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fields EP](https://open.spotify.com/album/4HytNQMUWTEner4HYiHUmN) | 2:31 |
 | 148 | [radiance](https://open.spotify.com/track/5iarqXiQifQaYOQwlTJQoO) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj) | [radiance](https://open.spotify.com/album/2y3gpgpIREI735flBpCsLk) | 2:17 |
-| 149 | [Starseed](https://open.spotify.com/track/5uMkulU7wdEslXN7lurIW1) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Multiverse](https://open.spotify.com/album/7Em2BDNDHEc2fRhPg1Do3g) | 3:31 |
+| 149 | [Starseed](https://open.spotify.com/track/4eeCZlYrjUzySykBusineE) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Multiverse](https://open.spotify.com/album/7BueHUEkuGGJL07tvBaiyt) | 3:31 |
 | 150 | [Warm Breeze](https://open.spotify.com/track/1weQYfRCaDf2qdjw93N3RV) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Warm Breeze](https://open.spotify.com/album/2tCTpJojdYxzwjcN5IDnnO) | 1:55 |
 | 151 | [hidden falls](https://open.spotify.com/track/6QpbZ4FLkrFwN33t8qA6UV) | [commonbeats](https://open.spotify.com/artist/00LuMIocV08ovp4ri9z6lb), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [hidden falls](https://open.spotify.com/album/3n0zkV8YBJOL1GeYGchrLU) | 1:59 |
 | 152 | [Nowadays](https://open.spotify.com/track/7nDOxwF2XVs6OKBPLUHYUV) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF) | [Nowadays](https://open.spotify.com/album/789zBfGu9ZjonbEImt3H24) | 2:15 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 499 | [Temple of Mood](https://open.spotify.com/track/30h1YyFVlmMqXzCYAcvy1l) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Temple of Mood](https://open.spotify.com/album/3G23jVBaADVaCjJLw4dPjz) | 3:28 |
 | 500 | [final destination](https://open.spotify.com/track/0OW5uPJBSLNZvAAoQqmY5b) | [Adam Panek](https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9), [Bobo Bocian](https://open.spotify.com/artist/6u3c1RudVSYYSo9AKXEuhO) | [final destination](https://open.spotify.com/album/4fyuFnoEFW7hx3D3ZFGrEg) | 1:47 |
 
-Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMDk4ODFkYWMxYjFjM2MwMDVmYjNhOGU0Yzg0NmQ1NmYy`
+Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMDFkNjc1ZDNlYmVlOTIwNjgzMzljNzJlMzM3YTg5NzA5`

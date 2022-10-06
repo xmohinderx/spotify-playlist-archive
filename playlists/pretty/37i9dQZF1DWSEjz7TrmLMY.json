@@ -1,12 +1,12 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 41420,
+  "num_followers": 41488,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMDBlNDJiZTg2MTliOTNiNzUzNTgwMzZlZGFjMzU5Yjhl",
+  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMGU5MjlmNDM0MGI4ZDdjZDAwOTQ5ZDgwY2FiNGEwYjZk",
   "tracks": [
     {
       "added_at": "2022-08-02 23:50:53",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Te Fall\u00e9",
-      "url": "https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Arriba Huentitan",
         "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 180733,
       "name": "Volver Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Te Fall\u00e9",
+      "url": "https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Sus Grandes \u00c9xitos Con Banda (Vol. 1)",
-        "url": "https://open.spotify.com/album/0BXF2Fwc4FXyC9vq9IvgDS"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Lamento De Amor - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/1tPPuhWAPxzOXKoLz6MiCs"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Camilo Superstar",
         "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Sus Grandes \u00c9xitos Con Banda (Vol. 1)",
+        "url": "https://open.spotify.com/album/0BXF2Fwc4FXyC9vq9IvgDS"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Lamento De Amor - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/1tPPuhWAPxzOXKoLz6MiCs"
     },
     {
       "added_at": "2022-08-02 23:50:53",

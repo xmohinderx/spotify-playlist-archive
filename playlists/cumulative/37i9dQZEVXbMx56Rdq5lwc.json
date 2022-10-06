@@ -976,6 +976,24 @@
     },
     {
       "album": {
+        "name": "A\u0161 Bijau",
+        "url": "https://open.spotify.com/album/0dWZmScJSwJdssZH8hI4YC"
+      },
+      "artists": [
+        {
+          "name": "Kamaniu Silelis",
+          "url": "https://open.spotify.com/artist/4QS6cBjYsUxt7UyRVomTS4"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "A\u0161 Bijau",
+      "url": "https://open.spotify.com/track/2LIVPIuDTXNxV3cjH6bvJq"
+    },
+    {
+      "album": {
         "name": "a\u0161 tavo lovoj, o tu lol\u0105 kapoji",
         "url": "https://open.spotify.com/album/3cCdaJXA9BxurSH2G2Xm0T"
       },
@@ -5535,7 +5553,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3"
@@ -14487,7 +14505,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 193960,
       "name": "Ten, kur noriu",
       "url": "https://open.spotify.com/track/6WtxgI42kF4WbsVinpqNis"
@@ -16015,7 +16033,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"

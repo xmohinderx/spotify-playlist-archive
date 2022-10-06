@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,340 songs - 3 day 21 hr 1 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,341 songs - 3 day 21 hr 5 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [always on my mind](https://open.spotify.com/track/2y3ou8i65NQGyQF9g53iMg) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 3:41 | 2020-03-16 | 2020-07-18 |
 | [America 2 \(Instrumental\)](https://open.spotify.com/track/5nfNN3jjU0lYBsUpDwCWQg) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids \(The Instrumentals\)](https://open.spotify.com/album/77StEacT5IhWZLdj0Rj2W2) | 4:02 | 2020-03-20 | 2022-04-19 |
 | [America Online](https://open.spotify.com/track/2MnAs40kO1izWTF63MW5uM) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [America Online](https://open.spotify.com/album/7nUIXnRMkRFbyoduYKRnvF) | 5:49 | 2020-03-20 | 2021-10-02 |
-| [América](https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG) | [América](https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro) | 4:30 | 2022-05-25 |  |
+| [América](https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG) | [América](https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro) | 4:30 | 2022-05-25 | 2022-10-06 |
 | [Angel \- Lonely Prelude](https://open.spotify.com/track/68YoXtGeFsiKNnQfXtdwCv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 0:41 | 2020-05-18 | 2020-06-12 |
 | [Angels](https://open.spotify.com/track/4TQmCn0e9L7XTiKY4Hk8X4) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/0VN8KeolDU9D7Iv1ivEYvV) | 4:16 | 2020-02-29\* | 2020-03-16 |
 | [Another Chance \- Don Diablo Chill Mix](https://open.spotify.com/track/7HZqD8EWEBQrklzLf3oQer) | [Big Pineapple](https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Another Chance \(Remixes\)](https://open.spotify.com/album/5pLiabGezZM6PTes04JYsF) | 3:37 | 2020-03-20 | 2020-08-20 |
@@ -322,6 +322,7 @@
 | [Emily](https://open.spotify.com/track/3VY42CX63Kshy77EbM6Zrr) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Emily](https://open.spotify.com/album/3df1BIiTr2gxRch1Et9LaB) | 3:51 | 2020-03-17 | 2022-04-19 |
 | [Empire](https://open.spotify.com/track/1ywIrbGuUkwHADbRcgTHZI) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Empire](https://open.spotify.com/album/1H2dCA0ubfJW3K35f17QCy) | 4:16 | 2021-11-12 | 2022-05-07 |
 | [Empty Promise](https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Empty Promise](https://open.spotify.com/album/7c1vkq6VrXtK7gdUOPy5ch) | 3:51 | 2022-04-01 | 2022-08-27 |
+| [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 | 2022-09-09 |  |
 | [Endless](https://open.spotify.com/track/0EnCOAi1Nx7yJwlQpUoha1) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:47 | 2020-04-13 | 2022-03-05 |
 | [Endless Endeavor](https://open.spotify.com/track/6No1iyh21ROzdBkxGWqhmQ) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [RIPPLS](https://open.spotify.com/album/3L7pWKpDt0YFxACcY0CbLR) | 2:55 | 2020-03-25 | 2022-04-18 |
 | [Enough](https://open.spotify.com/track/0o4fUGy8EitPtnQZ2Wp1jy) | [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Enough](https://open.spotify.com/album/6Na2NRtCRObMaG7Qa4S54Q) | 3:21 | 2020-05-18 | 2020-07-18 |

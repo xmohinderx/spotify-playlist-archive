@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169318,
+  "num_followers": 169335,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGM2OGVlM2JjNmEwMmQ1NmQ4ZDZjMmI0ZTVlZmY4Yzg0",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDJhZmY5ZTk1NWU3YTM4MmEwZWExY2QyMmM5YmRlNjU1",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Fish Outta Water",
-        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
-      },
-      "artists": [
-        {
-          "name": "Karen Lovely",
-          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Fish Outta Water",
-      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Back To The River",
         "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 209866,
       "name": "No Riders",
       "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Fish Outta Water",
+        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
+      },
+      "artists": [
+        {
+          "name": "Karen Lovely",
+          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Fish Outta Water",
+      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Out Of The Dark",
-        "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e1inne Duffy",
-          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Good Love Had To Die",
-      "url": "https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Moon Goes Missing",
         "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Time...",
-        "url": "https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ"
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
       },
       "artists": [
         {
-          "name": "Shakura S'Aida",
-          "url": "https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw"
+          "name": "Gr\u00e1inne Duffy",
+          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
         }
       ],
-      "duration_ms": 277760,
-      "name": "Geechee Woman",
-      "url": "https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY"
+      "duration_ms": 215946,
+      "name": "Good Love Had To Die",
+      "url": "https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -883,6 +867,22 @@
       "duration_ms": 234520,
       "name": "Blood Red Blues",
       "url": "https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Time...",
+        "url": "https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ"
+      },
+      "artists": [
+        {
+          "name": "Shakura S'Aida",
+          "url": "https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw"
+        }
+      ],
+      "duration_ms": 277760,
+      "name": "Geechee Woman",
+      "url": "https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY"
     },
     {
       "added_at": "2022-03-08 14:01:09",

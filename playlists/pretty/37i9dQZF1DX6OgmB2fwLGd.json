@@ -1,13 +1,37 @@
 {
   "description": "The soundtrack to the internet. Cover: Yeat",
-  "num_followers": 1244091,
+  "num_followers": 1244625,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkxMzA2NywwMDAwMDAwMDFjYjVmNDI2YWU1MTk3ZTc1OWRmNTJjN2VhYjM3OTc3",
+  "snapshot_id": "MTY2NTAxMTIxMCwwMDAwMDAwMGM0YjRjMTI1NTJmODIzOGRhMWJlY2VhZTAyMzg1Yzc3",
   "tracks": [
+    {
+      "added_at": "2022-10-05 23:06:30",
+      "album": {
+        "name": "attachment (she wanna love)",
+        "url": "https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Bossa",
+          "url": "https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC"
+        },
+        {
+          "name": "Kanii Archive",
+          "url": "https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv"
+        }
+      ],
+      "duration_ms": 88620,
+      "name": "attachment (she wanna love)",
+      "url": "https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S"
+    },
     {
       "added_at": "2022-08-12 18:54:23",
       "album": {
@@ -1739,22 +1763,6 @@
       "duration_ms": 174545,
       "name": "SOFA",
       "url": "https://open.spotify.com/track/2FhswqpB97CDVIaHHfNUhW"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "I Like Him",
-      "url": "https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H"
     },
     {
       "added_at": "2022-08-29 15:35:16",

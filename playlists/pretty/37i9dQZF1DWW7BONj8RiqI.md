@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Rave and whine to the best of Soca with Nadia Batson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,473 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,485 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 9 | [I Need](https://open.spotify.com/track/1e9mLK4LXUPkomLzZwBAUg) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Cabana Riddim](https://open.spotify.com/album/7LLEj0e1mEmemyJs2RAFsJ) | 4:07 |
 | 10 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 11 | [Up & Up](https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:09 |
-| 12 | [Do like That](https://open.spotify.com/track/0GQdDxTVd8ap2ysTLdOBf8) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:12 |
+| 12 | [Do like That](https://open.spotify.com/track/3vp1O8ewfNIIvezxaTBQPE) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:12 |
 | 13 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
 | 14 | [So Long](https://open.spotify.com/track/2WmNARSzCch3nzifLfn05K) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/0lE3XJtV1vvNwtyypqPymW) | 3:03 |
-| 15 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |
+| 15 | [Hookin' Meh](https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd) | 3:03 |
 | 16 | [Mash Up](https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/5zz01v5QiZmweXPy0ctPmV) | 3:04 |
 | 17 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 |
 | 18 | [Naked](https://open.spotify.com/track/2LszGvDF3uAHUlbiJsykbw) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:21 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 21 | [Vent](https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [International Stephen](https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6) | [Vent](https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc) | 3:45 |
 | 22 | [A Love Note to Carnival](https://open.spotify.com/track/4PZhNZLBpgqg6OCirQvoj6) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [A Love Note to Carnival](https://open.spotify.com/album/7AakuFywRKGoe2Zh3cI0JQ) | 3:33 |
 | 23 | [Play Harder](https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:39 |
-| 24 | [Captain](https://open.spotify.com/track/3lZ3eMvVB2V1NOYDh5yACv) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Captain](https://open.spotify.com/album/6tDRBYN5svaPwFcIuJJuYw) | 3:50 |
+| 24 | [Captain](https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Captain](https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6) | 3:50 |
 | 25 | [Rum And Soca](https://open.spotify.com/track/1eIzpFnHthxY4lIE9QStVm) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Rum And Soca](https://open.spotify.com/album/36hTVbdi17Acx7ZGMXWc4O) | 3:37 |
 | 26 | [Leave It Alone](https://open.spotify.com/track/49dbEbAqvPYl1p24xo7J9d) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Leave It Alone](https://open.spotify.com/album/5cNr6YPKo8WgzaQ8COYEd5) | 3:06 |
 | 27 | [Love & Hate](https://open.spotify.com/track/0szjogw2vC9hu0VFYDPbdy) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Love & Hate](https://open.spotify.com/album/5yEDJLRBIB0qkIuh1Kqjil) | 3:53 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 46 | [Cooler Fete](https://open.spotify.com/track/1UozL4yojo6yzHpvgi5JWe) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Fan Base](https://open.spotify.com/album/1AikLXCLEapAdw2XgtSiqy) | 3:35 |
 | 47 | [Because of You](https://open.spotify.com/track/07K7Vcn6PzqrZnX9Lat3Qp) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:04 |
 | 48 | [Dance with Me](https://open.spotify.com/track/09Buf6SCL2n6k4xKgIU3aT) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:25 |
-| 49 | [Rollin](https://open.spotify.com/track/5cyAZnCnZveCwM71bl8Djm) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 3:16 |
+| 49 | [Rollin](https://open.spotify.com/track/2R27w3AVAkLBsaXVuVRB2u) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:16 |
 | 50 | [Coming Back Fuh Yuh](https://open.spotify.com/track/0btmu6nRf1fFcwAipBj9B6) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Hot Sun Riddim](https://open.spotify.com/album/3pPDSVI0PB9SZPpAiRLqw5) | 2:28 |
 
-Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMDhiNmYwMWIyNjhlZWJkNGEwNWY1OTQ5MGFkYjdkZTc1`
+Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMDlhNTc4MThkMDBiY2QzN2UwN2Q1NDU2OTY0YzMwNDgx`

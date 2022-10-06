@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Rahul Sathu
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,791 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,866 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 5 | [Dobara](https://open.spotify.com/track/5FstrPnBmjay102fHndAi9) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Dobara](https://open.spotify.com/album/4ygODoje558PbmXwItZjv2) | 2:52 |
 | 6 | [MAHARANI](https://open.spotify.com/track/6lDfLFiLuu1X326XudETOm) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [MAHARANI](https://open.spotify.com/album/6rfA7hE6XJUVOiNNFmK1kB) | 2:30 |
 | 7 | [Chhoo Le Dobara](https://open.spotify.com/track/53UJ1W3coeSHzbt8mphllg) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Chhoo Le Dobara](https://open.spotify.com/album/78rIsOrzTypOH10fDtGbFu) | 3:46 |
-| 8 | [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:20 |
+| 8 | [Noor](https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Noor](https://open.spotify.com/album/6uS7i8fRP8hapepB4kW553) | 3:19 |
 | 9 | [Baawrey](https://open.spotify.com/track/7o8PJPcIGvNu3s9pWgcylh) | [Rohit Nigam](https://open.spotify.com/artist/7qdScuZ6LcdSpnjMLwQd6x), [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Vylom](https://open.spotify.com/artist/3oOUsejqDQj2HWzaKC8CYX) | [Baawrey](https://open.spotify.com/album/3w0Sinjg9gvxUb1AUMdZSM) | 3:15 |
 | 10 | [Ho Tum Yahan](https://open.spotify.com/track/2CbnIxbC0lh3nuZQf5bzfH) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Ho Tum Yahan](https://open.spotify.com/album/0S7xlyq1eUe6eOp2tpNqFu) | 4:08 |
 | 11 | [Baadalon Mein Ghar](https://open.spotify.com/track/5IDdCwtNnh3aWv1bhe03kU) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Pranav RV](https://open.spotify.com/artist/1B7a5UHGC1LJ09OFjYDWPO), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Baadalon Mein Ghar](https://open.spotify.com/album/545WvV1HIfxAIx2IYB1bLx) | 3:00 |

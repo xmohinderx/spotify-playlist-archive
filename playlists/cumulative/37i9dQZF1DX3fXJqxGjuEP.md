@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-425 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+426 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Mi Arizal](https://open.spotify.com/track/1LJMp7tNMRHdMTxhfNFJRy) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Dorkas](https://open.spotify.com/artist/2gR1nzGz8J2IhuUy6BYTsx) | [Mi Arizal](https://open.spotify.com/album/5erexWEf8MMcR34rquvHfz) | 4:25 | 2021-10-20 | 2022-04-21 |
 | [Mi Querer](https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s) | [Pescador de Sueños](https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP) | 3:58 | 2021-10-20 |  |
 | [Mi Vida sin tu Amor](https://open.spotify.com/track/09ItADtdrIPjTN48OMiIU7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/6E3Yb6f93bEEOyAzYwKCIQ) | 5:28 | 2021-10-20 | 2022-07-25 |
+| [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 | 2021-10-20 |  |
 | [Miel](https://open.spotify.com/track/2XPbUr8BK8hfYdTWrBWT9g) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Miel](https://open.spotify.com/album/6a9KLmmB85CuT8HTUbhbzf) | 3:20 | 2022-08-17 | 2022-09-22 |
 | [Milagros](https://open.spotify.com/track/3DcXS8m4EnQFKy5HmmtHNh) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Milagros](https://open.spotify.com/album/0GvWeb8OzGB3oLQR2Dj0cs) | 3:10 | 2021-10-20 | 2022-07-06 |
 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 | 2022-02-01 | 2022-07-29 |
@@ -310,7 +311,7 @@
 | [Peligrosa Mujer](https://open.spotify.com/track/3zaKc0uMw4GI7xHva4tjLa) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Libres](https://open.spotify.com/album/2efyfAfCPx6O7BnVeg9D9p) | 3:02 | 2021-10-20 | 2022-04-19 |
 | [Pelota](https://open.spotify.com/track/39p88iz6Hzx5KN00QbLIdv) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/2zX0TMRVNyesrH6kciPrQZ) | 2:47 | 2021-10-20 | 2022-04-20 |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2021-10-20 |  |
-| [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 |  |
+| [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 | 2022-10-06 |
 | [Pensé \- Acústico](https://open.spotify.com/track/1yE83tAX81AJW3wkHm5SEg) | [Tony True and the Tijuana Tres](https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Pensé \(Acústico\)](https://open.spotify.com/album/1GAfZYrYpKrQzDXDe9aGpd) | 4:07 | 2021-10-20 | 2022-04-17 |
 | [Pequeña Niña](https://open.spotify.com/track/6lCnlQ9f13pCokyCNfiT0I) | [Enio Silveti](https://open.spotify.com/artist/2Htqe7nKQ0kHayNSjrH4xr) | [Pequeña Niña](https://open.spotify.com/album/6ANlUv5kDUABEOTUKxdq0R) | 3:22 | 2021-10-20 | 2022-04-21 |
 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 | 2021-10-20 | 2022-07-19 |

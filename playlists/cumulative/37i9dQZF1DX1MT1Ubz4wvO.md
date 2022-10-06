@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Austin TV en portada.
 
-362 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
+362 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 | 2022-08-26 | 2022-09-10 |
 | [Cicatriz](https://open.spotify.com/track/1rg5jQyjIOLDVY1pVIvAp2) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3), [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cicatriz](https://open.spotify.com/album/17UCqNgvn8qTeRvQK8NNk8) | 4:13 | 2022-07-01 | 2022-07-16 |
 | [Com espines](https://open.spotify.com/track/0rAjBQ6lPrulBbjYLWIj5J) | [Aliment](https://open.spotify.com/artist/0Igzy0wlOGrmOWsVsWHtX3) | [Com espines](https://open.spotify.com/album/1xBnGwsaptv7SceJ47HA6M) | 2:39 | 2022-09-09 | 2022-09-17 |
-| [Cometas](https://open.spotify.com/track/3fsxPpfv7Hbilg1lhBmzhU) | [Burdeos](https://open.spotify.com/artist/7cr0BoLNRJqGuloE0R8E4G) | [Cometas](https://open.spotify.com/album/67y7lFdPaCsTu3eltvao1A) | 4:46 | 2022-09-30 |  |
+| [Cometas](https://open.spotify.com/track/3fsxPpfv7Hbilg1lhBmzhU) | [Burdeos](https://open.spotify.com/artist/7cr0BoLNRJqGuloE0R8E4G) | [Cometas](https://open.spotify.com/album/67y7lFdPaCsTu3eltvao1A) | 3:47 | 2022-09-30 |  |
 | [COMO SI FUERA](https://open.spotify.com/track/2ExiAhtleheHlq9MtG0mxI) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [COMO SI FUERA](https://open.spotify.com/album/0msOamo2vupl5aos2VJScQ) | 2:50 | 2022-08-12 | 2022-09-03 |
 | [Como Vos](https://open.spotify.com/track/0EYTcO3KhYOq8R1MVv447o) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Como Vos](https://open.spotify.com/album/4MtXhW68YIgZlt5alIbYT2) | 3:24 | 2022-09-09 | 2022-09-24 |
 | [Condena](https://open.spotify.com/track/7pqRhBYhm9kU5XvymmZqoD) | [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Condena](https://open.spotify.com/album/4euDN4Es39dUOQu6G7uSai) | 3:38 | 2022-09-09 | 2022-09-24 |

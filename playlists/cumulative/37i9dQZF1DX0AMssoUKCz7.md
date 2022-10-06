@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-506 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+507 songs - 1 day 2 hr 36 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Love That We Need](https://open.spotify.com/track/58U52B6rDjT30RIquT51dE) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI), [Loyal](https://open.spotify.com/artist/46hRjZWANVDZXOV2WVODGI) | [Love That We Need](https://open.spotify.com/album/2zGvqQVpjRZRF7H08V5en5) | 2:57 | 2022-01-14 |  |
 | [Lovers Friends](https://open.spotify.com/track/23GHwhFGMi2mNTD4CtyOCA) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Daniel Nitt](https://open.spotify.com/artist/09PsKVFiuvklTBRCVAlSY2) | [Lovers Friends](https://open.spotify.com/album/5ToTpFY6Tex4ywkXSCx21P) | 3:45 | 2022-02-18 | 2022-04-20 |
 | [Lovers Friends \- Boy Kiss Girl Remix](https://open.spotify.com/track/3qGD5ja8Cr7C61MDYVBwDX) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Daniel Nitt](https://open.spotify.com/artist/09PsKVFiuvklTBRCVAlSY2), [Boy Kiss Girl](https://open.spotify.com/artist/1RblunviNfn4MvwPcAq96i) | [Lovers Friends \(Remixes\)](https://open.spotify.com/album/2eqszZBn0gcPXPdFUUGI21) | 3:47 | 2022-01-14 | 2022-04-16 |
+| [Loving You Forever](https://open.spotify.com/track/14WOYReC2KGZKGsjY7qiNk) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Loving You Forever](https://open.spotify.com/album/1wAN1IuFfQLiKKeXN4RH3R) | 2:21 | 2022-09-30 |  |
 | [Lucky Star](https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4) | [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Lucky Star](https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN) | 3:12 | 2022-06-17 |  |
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-01 |  |
 | [Maaya](https://open.spotify.com/track/6p8uFTidsF68EHK5p753gU) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5) | [Maaya](https://open.spotify.com/album/6eW0O5Pw4fGnyVBS3avc79) | 3:13 | 2022-01-14 | 2022-04-22 |
@@ -431,7 +432,7 @@
 | [Summertime](https://open.spotify.com/track/1ijqGNeQBWYSO9X5YyaQdo) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [Summertime](https://open.spotify.com/album/0pYMS3c7DoZyKyCoJlMJJ8) | 2:02 | 2022-09-09 |  |
 | [Summertime With You](https://open.spotify.com/track/5b6zREc57MnDHRh2EjVHbw) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Summertime With You](https://open.spotify.com/album/5NQ9nE5nfn78rpz8o97rZp) | 2:20 | 2022-05-20 |  |
 | [Sun Don't Shine](https://open.spotify.com/track/6n0OQD5aGspHuwFPJ2ePGC) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 3:57 | 2022-01-14 |  |
-| [Sun Screen](https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sun Screen](https://open.spotify.com/album/3B3oVJJzRieSTbS8Q8hPut) | 2:12 | 2022-04-01 |  |
+| [Sun Screen](https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sun Screen](https://open.spotify.com/album/3B3oVJJzRieSTbS8Q8hPut) | 2:12 | 2022-04-01 | 2022-10-06 |
 | [Sun Sun Sun](https://open.spotify.com/track/4QiKSnA1Uf3D4vbEzfas9T) | [Monaco Vibes](https://open.spotify.com/artist/3yDbR0eiX5vOecrx6wQaoO) | [Sun Sun Sun](https://open.spotify.com/album/72l5FIlGulaWXJDGcKudG2) | 2:27 | 2022-04-01 | 2022-07-28 |
 | [Sunbeams](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Sunbeams](https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY) | 2:27 | 2022-07-29 |  |
 | [Sunday \- KlangTherapeuten "Looking For Summer" Remix](https://open.spotify.com/track/3YcAw0Uc94mb7n8DHMFWRa) | [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Sunday EP](https://open.spotify.com/album/7D2sQ7G0waCT2JuWSkuD8m) | 6:08 | 2022-01-21 | 2022-09-24 |

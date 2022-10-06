@@ -3726,6 +3726,24 @@
     },
     {
       "album": {
+        "name": "Quarantine The Past: The Best Of Pavement",
+        "url": "https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "Grounded - Remastered",
+      "url": "https://open.spotify.com/track/0RvVB5q8bzBiSuDBtLs8MZ"
+    },
+    {
+      "album": {
         "name": "Delorean Highway",
         "url": "https://open.spotify.com/album/2bzz6q23UzitaG2UAdrrNN"
       },

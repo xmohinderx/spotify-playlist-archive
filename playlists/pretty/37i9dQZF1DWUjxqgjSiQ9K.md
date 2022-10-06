@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Un Corazón
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,807 likes - 98 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,009 likes - 98 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jesucristo Basta](https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [X SIEMPRE](https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW) | 5:50 |
+| 1 | [Jesucristo Basta](https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [X SIEMPRE](https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW) | 5:49 |
 | 2 | [Lo Que Has Comenzado](https://open.spotify.com/track/1QnPkSwaky40rZuT23NEBK) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Lo Que Has Comenzado](https://open.spotify.com/album/2brSHsXD0E1UIBeqDuhZIs) | 5:05 |
 | 3 | [Mil Veces \(En vivo desde Buenos Aires, Argentina\)](https://open.spotify.com/track/6qVUoKXaEBQVr89xakrUcD) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Mil Veces \(En vivo desde Buenos Aires, Argentina\)](https://open.spotify.com/album/63mIQOgfHoAY9lLdJl87ia) | 5:34 |
 | 4 | [Acepta](https://open.spotify.com/track/5XJIavEw1BuKXzuOVNr944) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Acepta](https://open.spotify.com/album/0VHRc2YBKViwWXQffw7Qpb) | 7:53 |

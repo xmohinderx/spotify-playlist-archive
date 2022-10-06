@@ -272,6 +272,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+        "url": "https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+      "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
+    },
+    {
+      "album": {
         "name": "c\u00f4 \u0111\u01a1n s\u1edbm t\u1ed1i",
         "url": "https://open.spotify.com/album/4qYvvuBK3FkOVg1Qw0liko"
       },
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 231652,
       "name": "Sashimi",
       "url": "https://open.spotify.com/track/48ogJnwdNJGgHj2aNZhZq6"

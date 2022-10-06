@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Lala &ce
 
-469 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+471 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Joy Song](https://open.spotify.com/track/4NwkPwcmLEI9HwAgNRJamy) | [Fiona Monbet](https://open.spotify.com/artist/1xIOPl8xFpFNMVx6PGjc9W) | [Maelström](https://open.spotify.com/album/4SJUJTrkMvIl4E8tZqwxJz) | 4:50 | 2022-02-01 | 2022-03-08 |
 | [JTM](https://open.spotify.com/track/2qBSFAWO96E9Vy4RcFaXiR) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [JTM](https://open.spotify.com/album/12HDdGXjVHHLiuNc5ZAuWW) | 3:24 | 2022-10-04 |  |
 | [jtm de ouf](https://open.spotify.com/track/5RETH5olIVxF5otLezKqbh) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [jtm de ouf](https://open.spotify.com/album/4RspWUPtIKPBXU4WzwEho2) | 3:11 | 2022-05-03 | 2022-06-01 |
+| [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 | 2022-10-05 |  |
 | [Juste le talent](https://open.spotify.com/track/10tDhzLvMjWYjOuumnCGdx) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Juste le talent](https://open.spotify.com/album/7f6D22X9OlC1JIOBNf2eVX) | 3:27 | 2022-10-04 |  |
 | [Kikiri](https://open.spotify.com/track/4v1KFFbjI8PZFVD7KxTiC2) | [Natpena](https://open.spotify.com/artist/7EqO0gG6ohpEjsDQrgOarL) | [Kikiri](https://open.spotify.com/album/5DjNavoQPAzDOs2looZlG4) | 4:27 | 2022-06-01 | 2022-07-06 |
 | [L'appétit](https://open.spotify.com/track/1vOprAwZqZLHGt5H9ATza1) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [L'appétit](https://open.spotify.com/album/26PdACHB87VnkxaLEQitT2) | 2:57 | 2022-06-01 | 2022-07-06 |
@@ -267,6 +268,7 @@
 | [MALHONNÊTE](https://open.spotify.com/track/2xRT0pRIPOli38LO1lGTVI) | [Sally](https://open.spotify.com/artist/2rX5le9Bn1XdQwPsXA8aPP) | [PRISONNIÈRE](https://open.spotify.com/album/0buMW6IjmnMt1eNpNJAKqQ) | 2:56 | 2022-04-07 | 2022-05-04 |
 | [Maquiller](https://open.spotify.com/track/0kSlKM6oCLbpmpHXf3JCAT) | [Sola](https://open.spotify.com/artist/0UTolPLHS3Il6Pz2DrnXVV) | [Maquiller](https://open.spotify.com/album/0Ii2tDoeGbMmzSnbBF9yv0) | 2:33 | 2022-05-03 | 2022-06-01 |
 | [MATTER OF TIME](https://open.spotify.com/track/1BiQ2jfH5Etm1jwmlSEeHZ) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [MATTER OF TIME](https://open.spotify.com/album/6qqsKkM05X5NISYoXNS9gk) | 4:13 | 2022-02-01 | 2022-03-08 |
+| [Mattress](https://open.spotify.com/track/117LsXmdWsAaodcvRBQfYe) | [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Mattress](https://open.spotify.com/album/2jNE05koiPr9OupkN8NG7b) | 2:32 | 2022-10-05 |  |
 | [Maux de tête](https://open.spotify.com/track/15JOE9D6XC0xW8rFRclsZj) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/769povRMdGePBHz5c39gOS) | 2:50 | 2022-10-04 |  |
 | [Me Gustas Tu](https://open.spotify.com/track/7gu3kq7KeEOnTuBJBYe6ZM) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Me Gustas Tu](https://open.spotify.com/album/7zYTRWSsdYqy0em5bJD0W6) | 2:30 | 2022-02-01 | 2022-03-08 |
 | [ME VOILÀ](https://open.spotify.com/track/3qJzUKj78n8JzdxFjkfkGr) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [ME VOILÀ](https://open.spotify.com/album/1xmDvMNKREJDfHBVjexEnm) | 2:54 | 2022-10-04 |  |

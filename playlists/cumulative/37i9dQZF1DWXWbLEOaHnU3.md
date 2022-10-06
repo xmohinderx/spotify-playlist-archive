@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-206 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+207 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [End of a Government \- 2019 Remix](https://open.spotify.com/track/5kElAiWCna42paMRY7ngZi) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [End of a Government](https://open.spotify.com/album/4k4eSPuB5LfzU0unwN4Oh9) | 7:13 | 2022-04-15 | 2022-07-29 |
 | [Enlightenment](https://open.spotify.com/track/7F8ACXtI6sU7dmYuBJJfrh) | [Hidden Secret](https://open.spotify.com/artist/1h3OfpOaCVBgmlNcuoZR8t) | [Enlightenment](https://open.spotify.com/album/2LyO7cVpobBnG29q2YCxiF) | 8:30 | 2022-04-15 | 2022-07-29 |
 | [Esta Si](https://open.spotify.com/track/3reyHrjQqNBv35CBKKfX2s) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Chimo Bayo](https://open.spotify.com/artist/5v8i5bIYoqGgrh9SLpclfd) | [Esta Si](https://open.spotify.com/album/1Ei5gXDhVrKIgbmGvRPHDa) | 2:35 | 2022-09-29 |  |
+| [Euphoria](https://open.spotify.com/track/79uWqZaYE5s0tq09FiEyMp) | [Alchimyst](https://open.spotify.com/artist/2yrruLNIgKetksilWBdJHy), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [Euphoria](https://open.spotify.com/album/1DoRi80ZXtwNN6gxsxhejL) | 3:24 | 2022-09-29 |  |
 | [Falling Down](https://open.spotify.com/track/5QyjJqlOKfy7Uq7AUbClq6) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D) | [Falling Down](https://open.spotify.com/album/4qWKZYFGNAJ7kaP5iwA3hH) | 3:46 | 2022-09-09 | 2022-09-24 |
 | [Famous](https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [Famous](https://open.spotify.com/album/3ro1Am5Vrj5ML2zlgOlvIJ) | 6:59 | 2022-04-15 | 2022-07-29 |
 | [Feel Home](https://open.spotify.com/track/1gsatgs4xQi1FsCzaL50Ma) | [Liquexx](https://open.spotify.com/artist/5v5HDK4ZozQQZJ7NVL8phC), [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej) | [Feel Home](https://open.spotify.com/album/28EWTMUSAatw0LPVz2mCdc) | 4:23 | 2022-04-15 | 2022-05-21 |
@@ -161,7 +162,7 @@
 | [Silence](https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Silence](https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub) | 7:32 | 2022-04-15 |  |
 | [Silent](https://open.spotify.com/track/7s2Ao9oB7J4uRU9zJ2VGrP) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4) | [Silent](https://open.spotify.com/album/5WcZGRMOoh9oXaUFXwyRiR) | 5:34 | 2022-05-12 | 2022-07-29 |
 | [Silkroad \- Original Mix](https://open.spotify.com/track/03D6o1eMu48h9bJEYcYhLt) | [Kleysky](https://open.spotify.com/artist/3AIbItivbkxJK4UKSuM7GC), [Mind Void](https://open.spotify.com/artist/5e7EV7yhHZZUmaNpgsYj6G), [RIFM](https://open.spotify.com/artist/6NoWcK8Tdr1pxLbwGLGjoX) | [Silkroad](https://open.spotify.com/album/2fGG6NOsxTChxgiX74aeoe) | 5:30 | 2022-04-28 | 2022-05-30 |
-| [Smooth Operator](https://open.spotify.com/track/3wY0DLyit5UboF17RzhaTw) | [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT), [Phenomenal](https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU), [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU) | [Smooth Operator](https://open.spotify.com/album/66KT7vEoAFpht0ilpvi8cw) | 4:23 | 2022-09-23 |  |
+| [Smooth Operator](https://open.spotify.com/track/3wY0DLyit5UboF17RzhaTw) | [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT), [Phenomenal](https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU), [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU) | [Smooth Operator](https://open.spotify.com/album/66KT7vEoAFpht0ilpvi8cw) | 4:23 | 2022-09-23 | 2022-10-06 |
 | [Snap](https://open.spotify.com/track/7aj4xtdZhFZW1kJ2TygT0C) | [Bizzare Contact](https://open.spotify.com/artist/6BWehK6aRgVlFZskKYzhFQ), [Pettra](https://open.spotify.com/artist/2qzM98SPNta8roSgqVfG7D) | [Snap](https://open.spotify.com/album/5ujqRo695zZgy9lZvaVf6e) | 8:21 | 2022-04-22 | 2022-07-29 |
 | [Solace](https://open.spotify.com/track/1Eo1mHzudnBpopkg7Xc5ua) | [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [Solace](https://open.spotify.com/album/6SuBLFp1J2FtOMubJYi68Y) | 3:46 | 2022-05-19 | 2022-07-19 |
 | [Something](https://open.spotify.com/track/1KgU8LZ7MWxBkCugjWFRJ2) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Something](https://open.spotify.com/album/30uZ7QkSe3RiIuNCiRCLWk) | 3:23 | 2022-07-07 |  |

@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: HALIENE.
 
-260 songs - 15 hr 40 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+261 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Hold Me](https://open.spotify.com/track/14PyY68X7D0J6i2xtdajEo) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Sane Music](https://open.spotify.com/artist/6bdY2YWzlQ6H1gxLB5Pdin) | [Hold Me](https://open.spotify.com/album/5aUyuveFrtgWfyXcsTCoX8) | 2:26 | 2022-07-08 | 2022-10-01 |
 | [Hollow Eyes \(feat\. EKE\)](https://open.spotify.com/track/5zZ29l9N3ZZCtNH4eg3clf) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Hollow Eyes \(feat\. EKE\)](https://open.spotify.com/album/0xgNljaerSZIHuRpZKav5F) | 3:51 | 2022-07-08 | 2022-09-16 |
 | [Hollywood Hills](https://open.spotify.com/track/3x9RTdQNT1Ic1lDylGYQpJ) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Hollywood Hills](https://open.spotify.com/album/0pLgAY0KSRdXFWobd0xhmV) | 3:30 | 2022-07-18 | 2022-08-26 |
-| [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/track/7gfSFkrGjKZL2XbSggjyxz) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/album/2K0oDcNSg9KnyZL5jWrzr2) | 3:36 | 2022-07-08 |  |
+| [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/track/7gfSFkrGjKZL2XbSggjyxz) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/album/2K0oDcNSg9KnyZL5jWrzr2) | 3:36 | 2022-07-08 | 2022-10-06 |
+| [Hurt](https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Hurt](https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7) | 4:15 | 2022-09-30 |  |
 | [Hurting Too](https://open.spotify.com/track/3CzT2BHL7mdohRzSvyeJuL) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Hurting Too](https://open.spotify.com/album/7KV3axglofQ6kQcyiwi6Au) | 3:38 | 2022-07-08 | 2022-08-06 |
 | [Hypnotize](https://open.spotify.com/track/1UWYmWcYtNeoVfI05gL05Z) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Hypnotize](https://open.spotify.com/album/3FTumF4XnugewlfCek5Rs8) | 3:07 | 2022-07-08 |  |
 | [I Can Feel](https://open.spotify.com/track/6vAghAitNFHoGUEbhJPI6n) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel) | [I Can Feel](https://open.spotify.com/album/57l0rDfB4jXEepSeuuE56H) | 2:31 | 2022-07-08 | 2022-09-03 |

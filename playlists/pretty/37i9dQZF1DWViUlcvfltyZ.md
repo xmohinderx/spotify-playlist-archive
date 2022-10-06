@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Her Skin
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,457 likes - 54 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,477 likes - 54 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 42 | [La stessa parte della luna](https://open.spotify.com/track/5uNUAUBFwmKESymGQND6VB) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [La stessa parte della luna](https://open.spotify.com/album/0AxuaJx5LvpAl59UyPmUUG) | 4:17 |
 | 43 | [Artistico serale](https://open.spotify.com/track/5EBpMh8KabaQxYITlPd5nc) | [Lo Straniero](https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD) | [Falli a pezzi!](https://open.spotify.com/album/6Y5QkxB88qzpT3njgKH2LF) | 3:43 |
 | 44 | [Casanova](https://open.spotify.com/track/4fImlKONfekd1g8CNPnOea) | [Francie](https://open.spotify.com/artist/0yWTeuyotX6gZzD2pbe8ip) | [Casanova](https://open.spotify.com/album/48Kseq11LU065k91UeV3c3) | 3:56 |
-| 45 | [Storia](https://open.spotify.com/track/0iqB0jQVH03FWjvoKcQkJg) | [RAGAZZAcd](https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp), [Alessandro Baronciani](https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u), [Rachele Bastreghi](https://open.spotify.com/artist/3HYc75gfN9DrNB75ld2u57) | [Storia](https://open.spotify.com/album/6cb8vQtt1AVfGwRYobPcrL) | 3:10 |
+| 45 | [Storia](https://open.spotify.com/track/0iqB0jQVH03FWjvoKcQkJg) | [RAGAZZAcd](https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp), [Alessandro Baronciani](https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u), [Rachele Bastreghi](https://open.spotify.com/artist/3HYc75gfN9DrNB75ld2u57) | [Storia](https://open.spotify.com/album/6cb8vQtt1AVfGwRYobPcrL) | 3:07 |
 | 46 | [Kawasaki, Vol\. 1](https://open.spotify.com/track/2095aCnjEciEBnu5t72XXK) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [Kawasaki](https://open.spotify.com/album/58PrjlnW7Z4oHjWevekZsn) | 4:05 |
 | 47 | [ZERO](https://open.spotify.com/track/6hrRoEVft0SM5lsBUq3MMe) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [ZERO](https://open.spotify.com/album/53XmHlZRSLn5vBenhupHfq) | 3:26 |
 | 48 | [Prigionia](https://open.spotify.com/track/1zAim4kAlqGntjUw6P6Sov) | [Breathe Me In](https://open.spotify.com/artist/78XpnnstgBFWLIG2ZiDKY7) | [Prigionia](https://open.spotify.com/album/1txqMh7EDjj3V1yJwHmafr) | 3:32 |

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,688 likes - 96 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,887 likes - 96 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 |
-| 2 | [FMZ](https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [FMZ](https://open.spotify.com/album/49fyTqDk38lgABCzMRNahd) | 2:36 |
-| 3 | [ROLEPLAY](https://open.spotify.com/track/6lBjqdPLsOxLSKrBPQufi5) | [OMXNEMO](https://open.spotify.com/artist/6QK0K28MJ2Fj2nsmrZv1O1), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Lucie's Nightmare](https://open.spotify.com/artist/73cmp0OKYaPbYsCAgKqAcl), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ROLEPLAY](https://open.spotify.com/album/4tYEe0g5xT5kWJg5wFxrs1) | 2:58 |
-| 4 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 |
-| 5 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 |
-| 6 | [what i see when i'm walking alone at night](https://open.spotify.com/track/3ekCDlvLHI0kFj2U1W81oQ) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [what i see when i'm walking alone at night](https://open.spotify.com/album/1An8EBw9h670Cmzuzd2m05) | 2:13 |
-| 7 | [Priton](https://open.spotify.com/track/5q2lsqzPGPyQn6fMBUupLP) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Dahako](https://open.spotify.com/artist/4IBT5lUigLwZDQkeyxdgFp) | [Priton](https://open.spotify.com/album/1WYSfTi4fA8GW99SED2G3U) | 1:58 |
-| 8 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
+| 1 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
+| 2 | [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 |
+| 3 | [FMZ](https://open.spotify.com/track/7BRaV0abZpAFtHlwyeckP5) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [FMZ](https://open.spotify.com/album/49fyTqDk38lgABCzMRNahd) | 2:36 |
+| 4 | [ROLEPLAY](https://open.spotify.com/track/6lBjqdPLsOxLSKrBPQufi5) | [OMXNEMO](https://open.spotify.com/artist/6QK0K28MJ2Fj2nsmrZv1O1), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Lucie's Nightmare](https://open.spotify.com/artist/73cmp0OKYaPbYsCAgKqAcl), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ROLEPLAY](https://open.spotify.com/album/4tYEe0g5xT5kWJg5wFxrs1) | 2:58 |
+| 5 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 |
+| 6 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 |
+| 7 | [what i see when i'm walking alone at night](https://open.spotify.com/track/3ekCDlvLHI0kFj2U1W81oQ) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [what i see when i'm walking alone at night](https://open.spotify.com/album/1An8EBw9h670Cmzuzd2m05) | 2:13 |
+| 8 | [Priton](https://open.spotify.com/track/5q2lsqzPGPyQn6fMBUupLP) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Dahako](https://open.spotify.com/artist/4IBT5lUigLwZDQkeyxdgFp) | [Priton](https://open.spotify.com/album/1WYSfTi4fA8GW99SED2G3U) | 1:58 |
 | 9 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
 | 10 | [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 |
 | 11 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 95 | [Metal](https://open.spotify.com/track/3Y7AlLapD7AYzmqS4CM5FR) | [Oh Gasm!](https://open.spotify.com/artist/1VMMM8J2XHnLHyTPQ0HS0s) | [Metal](https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r) | 1:51 |
 | 96 | [Trumpets](https://open.spotify.com/track/18wVzwlJ2zkBxzwV6SKNQs) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Trumpets](https://open.spotify.com/album/2911GWsISHeF45SK8iy3NY) | 1:34 |
 
-Snapshot ID: `MTY2NDU1NDMzMCwwMDAwMDAwMDJiM2M5ZWUzYmY5ZDM0ODAzMDdiMTljODQ3ZTljMWQy`
+Snapshot ID: `MTY2NTAwMDUxMywwMDAwMDAwMDYzMTk0NjdlNTc2YWQwYjViZDNlMGRhZDE1YTJkN2Rk`

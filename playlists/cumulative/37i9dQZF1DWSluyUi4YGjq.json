@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Autopilot Paradise",
+        "url": "https://open.spotify.com/album/6txXTab3aLAy2ypXvXtoDu"
+      },
+      "artists": [
+        {
+          "name": "Lemonade Shoelace",
+          "url": "https://open.spotify.com/artist/72gHreLHpaDQdue2ON7snF"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Autopilot Paradise",
+      "url": "https://open.spotify.com/track/0dj2Uv200jKLhbukIVVSqn"
+    },
+    {
+      "album": {
         "name": "Balloons of Memories",
         "url": "https://open.spotify.com/album/0fUR7LZcSVYO8nDywl12Z9"
       },
@@ -3399,7 +3417,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 214000,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39"

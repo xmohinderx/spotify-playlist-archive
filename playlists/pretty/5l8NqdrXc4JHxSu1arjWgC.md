@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,696 likes - 653 songs - 1 day 19 hr 53 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,700 likes - 654 songs - 1 day 19 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -661,5 +661,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 651 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:33 |
 | 652 | [Second Hand News \- 2004 Remaster](https://open.spotify.com/track/0hlniElQOr5tvSKBaSpAQi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 2:56 |
 | 653 | [Embassy Row \- Remastered](https://open.spotify.com/track/49SU8RpuDc3thJiOidCrqr) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 3:50 |
+| 654 | [Grounded \- Remastered](https://open.spotify.com/track/0RvVB5q8bzBiSuDBtLs8MZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 4:15 |
 
-Snapshot ID: `MTY3NiwxYTc5YmQzNTMzYTExNWEwY2Q0NWRhZmQ0NjVjYmVlMGQ4ZGQ3Y2U1`
+Snapshot ID: `MTY3Nyw1MmNhYTcyMjE4YTNlMmRkYzgwZGQ1YTljOWZmYjg4NTJjNGYxZjI4`

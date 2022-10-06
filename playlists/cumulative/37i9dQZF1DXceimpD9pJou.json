@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 212114,
       "name": "Alentador",
       "url": "https://open.spotify.com/track/79conTU66MZOzGtVoYVV6Z"
@@ -3077,7 +3077,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 272281,
       "name": "Este Amor - Live Session From L.A.",
       "url": "https://open.spotify.com/track/4JLocWW0Q5yay3iH11GSX6"
@@ -4292,7 +4292,7 @@
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 350421,
+      "duration_ms": 349280,
       "name": "Jesucristo Basta",
       "url": "https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai"
     },
@@ -6583,6 +6583,10 @@
         {
           "name": "Samuel Adri\u00e1n",
           "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        },
+        {
+          "name": "Jesus Molina",
+          "url": "https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4"
         }
       ],
       "date_added": "2022-09-30",
@@ -7518,6 +7522,28 @@
     },
     {
       "album": {
+        "name": "Quise pedirle al se\u00f1or",
+        "url": "https://open.spotify.com/album/2N5ebVyZzelWZl4OTEZ0Bi"
+      },
+      "artists": [
+        {
+          "name": "Andy CM",
+          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
+        },
+        {
+          "name": "Rub\u00e9n Guiral",
+          "url": "https://open.spotify.com/artist/15GnCUGT8Pyuq4PxJIpYn1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107896,
+      "name": "Quise pedirle al se\u00f1or",
+      "url": "https://open.spotify.com/track/3dAcxhTSRDcj0xKOuavter"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date Con Ese",
         "url": "https://open.spotify.com/album/6WvJTzI5uvCgUXuQoJgy7f"
       },
@@ -8065,7 +8091,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 160491,
       "name": "Seguimos Aqu\u00ed",
       "url": "https://open.spotify.com/track/4EPjX1dQiFUNVyaQYikp83"

@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 127108,
+  "num_followers": 127142,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDc2NSwwMDAwMDAwMDA3MWYzMzgyNDc4ZTJjY2EzMDM2ODA3MDQzZDI4ZWEw",
+  "snapshot_id": "MTY2MTkzMDc2NSwwMDAwMDAwMDBhMTBkMzQ4NDk4YTA4NDYzY2NlMWQ5OWE4ZmVjMzhk",
   "tracks": [
     {
       "added_at": "2022-08-31 07:26:05",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 309653,
-      "name": "C\u00f3mo Lo Hacen",
-      "url": "https://open.spotify.com/track/6pZuVdTpc09YFGEqlu2Npc"
+      "duration_ms": 420040,
+      "name": "Lo Mio Es Amor - En Vivo",
+      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 420040,
-      "name": "Lo Mio Es Amor - En Vivo",
-      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
+      "duration_ms": 309653,
+      "name": "C\u00f3mo Lo Hacen",
+      "url": "https://open.spotify.com/track/6pZuVdTpc09YFGEqlu2Npc"
     },
     {
       "added_at": "2022-08-31 07:26:05",

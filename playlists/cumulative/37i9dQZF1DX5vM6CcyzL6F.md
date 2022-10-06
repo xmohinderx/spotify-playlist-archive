@@ -4,12 +4,13 @@
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina y ponle sabor a tus labores!
 
-153 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/0gmGoKj3osvWK7STuxpUvj)
+154 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/0gmGoKj3osvWK7STuxpUvj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Donde Va el Amor](https://open.spotify.com/track/5FkApfk8iM4K2P7QSq8fYr) | [Octava Dimensión](https://open.spotify.com/artist/4JUDKDD17O3mcDHAGuMgOr) | [Sólo Tú](https://open.spotify.com/album/0WrM9OH9RrcpNxAzK7SLUk) | 4:56 | 2022-08-02 |  |
-| [A Pesar del Tiempo](https://open.spotify.com/track/4hAL5hEovJ29cHPAN1r1Yy) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Latino! Grandes Éxitos \- Juan Luis Guerra / Karen Records](https://open.spotify.com/album/2zjk3XQqUgGB8Mh7pkcP49) | 4:55 | 2022-08-02 |  |
+| [A Pesar del Tiempo](https://open.spotify.com/track/1UAnqYmOWtyVXNOA8cPQ8r) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4) | 4:55 | 2022-08-02 |  |
+| [A Pesar del Tiempo](https://open.spotify.com/track/4hAL5hEovJ29cHPAN1r1Yy) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Latino! Grandes Éxitos \- Juan Luis Guerra / Karen Records](https://open.spotify.com/album/2zjk3XQqUgGB8Mh7pkcP49) | 4:55 | 2022-08-02 | 2022-10-06 |
 | [A Pesar Del Tiempo](https://open.spotify.com/track/694UEye58A0IZCIluDQNRv) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [A Pesar Del Tiempo](https://open.spotify.com/album/2w7deBpcUwnDDk2pIEhzd3) | 4:57 | 2022-08-02 | 2022-09-25 |
 | [Ahora Entregate](https://open.spotify.com/track/1PX148jfoix6o4reLZbplc) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Entregate](https://open.spotify.com/album/4E6qUXYKMpabevZvHDYYxS) | 4:30 | 2022-08-02 |  |
 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 | 2022-08-02 |  |

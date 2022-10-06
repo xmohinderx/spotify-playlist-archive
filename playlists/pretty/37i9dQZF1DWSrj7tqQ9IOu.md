@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Christine and the Queens.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,202 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,279 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 6 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 |
 | 7 | [Le Tuto](https://open.spotify.com/track/7CQWOTljGv2tc9leEARsTa) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Le Tuto](https://open.spotify.com/album/6DMKItPu49cvlJmiKC0qdL) | 3:30 |
 | 8 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 |
-| 9 | [Mon cœur](https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Mon cœur](https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf) | 3:18 |
+| 9 | [Mon cœur](https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:18 |
 | 10 | [Le coup d'soleil \(feat\. Emma Peters\)](https://open.spotify.com/track/1J8BB10crN7uZc42kZiALR) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le coup d'soleil \(feat\. Emma Peters\)](https://open.spotify.com/album/0O9qHe6RGZ2mc6tRfZfI33) | 3:26 |
 | 11 | [I Made It](https://open.spotify.com/track/3GGs5TGfMh675Tvg08VjLQ) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [I Made It](https://open.spotify.com/album/4EolaFLE1ii1Xw3Lb6lLbj) | 2:40 |
 | 12 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Film d’amour](https://open.spotify.com/track/3Uy9lHCTF8lRpwg9ribsyj) | [La Belle Vie](https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY) | [Film d’amour](https://open.spotify.com/album/0khmF7ztwpwP4azahusqyn) | 2:36 |
 | 50 | [She Don't Want To Dance](https://open.spotify.com/track/0rWjhlFgYS1WXIUKfjsXz5) | [Thomas Guerlet](https://open.spotify.com/artist/3vtnZRBtqMvQ9Y62AfaDn3), [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [How Strange To Be Anyone?](https://open.spotify.com/album/2VCtwA3g7UuK1Hy2NexMoZ) | 2:27 |
 
-Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMDA4ZjcwYmNmZWE1NjlmYzg5MWZiNTQ2NDgzOTdkNzZi`
+Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMGUzNDFkZjkxOWY2YjcyMzdkOGM2ZDJlZWViZWZiNzFk`

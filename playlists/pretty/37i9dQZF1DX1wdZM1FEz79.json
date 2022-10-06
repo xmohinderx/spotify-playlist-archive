@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: 10CM, BIG Naughty) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 224480,
+  "num_followers": 224544,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgwMDQ1NiwwMDAwMDAwMDU4MmFhNWJmNTZmYzZiYTRjMDMzZTM2YTdhYmJiYTI1",
+  "snapshot_id": "MTY2NDgwMDQ1NiwwMDAwMDAwMGMxM2RkNzFmMGNjODdkNTRmODNhMzZmNWVmYTAwY2U3",
   "tracks": [
     {
       "added_at": "2022-10-03 12:34:16",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "Rocking Chair",
-        "url": "https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Rocking Chair",
-      "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 237106,
       "name": "Si Fueras M\u00eda",
       "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "Rocking Chair",
+        "url": "https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Rocking Chair",
+      "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
         "name": "See you",
         "url": "https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 187946,
       "name": "friend to lover",
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "Nap Fairy - SM STATION",
         "url": "https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 216453,
       "name": "Nap Fairy",
       "url": "https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -671,38 +687,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "Our Blues, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/090bFiHKTLRk5QA4hsE5Zv"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 227691,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 192293,
       "name": "Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)",
       "url": "https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "Our Blues, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/090bFiHKTLRk5QA4hsE5Zv"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 227691,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D"
-      },
-      "artists": [
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Saying Hello",
-      "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "When The Wind Blows - SM STATION",
         "url": "https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Saying Hello",
+      "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
     },
     {
       "added_at": "2022-10-03 12:34:16",

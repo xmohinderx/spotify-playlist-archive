@@ -4,7 +4,7 @@
 
 > Alternative meets electronic\. Cover: Sub Urban + BENEE
 
-195 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+196 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-06-17 |  |
 | [Fear You](https://open.spotify.com/track/2QN88XWB8FkZ1oqGNfODL9) | [Kat Von D](https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU) | [Fear You](https://open.spotify.com/album/0vRrXDcnH9qEtyjPf9zBxd) | 4:45 | 2021-08-06 | 2022-01-15 |
 | [Feel Alive](https://open.spotify.com/track/3A7MuetzfV2cDtLZbEmXMw) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [Feel Alive](https://open.spotify.com/album/0YL8dobBzKj2V1lcx4tTKV) | 3:46 | 2020-11-27 | 2022-07-29 |
+| [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 | 2022-06-17 |  |
 | [Feel Real Pretty](https://open.spotify.com/track/2nRcQbL9FZYFii3fFLKPSp) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty \(Remixes\)](https://open.spotify.com/album/5uM5JzzgYV0obfBY4Ebm2b) | 3:03 | 2022-06-17 | 2022-09-18 |
 | [Feel Real Pretty](https://open.spotify.com/track/58L9BLQuOAwAzHhCvTpp3l) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/0m2MtmlY7kOaQq5cVAg4DN) | 3:03 | 2020-08-17 | 2022-08-26 |
 | [Fighter](https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:36 | 2022-04-01 |  |
@@ -155,7 +156,7 @@
 | [Rich Girl](https://open.spotify.com/track/0ixGQPZSCRllfWBNrG2E31) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Rich Girl](https://open.spotify.com/album/4yqJZLW1d2RvtiwnhxsMVa) | 3:45 | 2020-10-02 | 2022-02-12 |
 | [Rocket On My Feet \- Remix](https://open.spotify.com/track/2FRPNemB4JGpbFrgboic91) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Rocket On My Feet \(Remix\)](https://open.spotify.com/album/4JLj98zpw1zg1zgeAtExJo) | 4:47 | 2022-06-17 | 2022-08-17 |
 | [Running](https://open.spotify.com/track/5PtOXZFJyXnXwj6gQ0PsuV) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Running](https://open.spotify.com/album/3JqEX8kWRDih4SJ2DZXHxg) | 2:53 | 2022-04-08 | 2022-07-28 |
-| [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 | 2022-03-15 |  |
+| [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 | 2022-03-15 | 2022-10-06 |
 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 | 2021-08-20 | 2022-03-16 |
 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 | 2021-01-29 |  |
 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-30 |  |
