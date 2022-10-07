@@ -2,7 +2,7 @@
 
 ### [Feel Good Classics](https://open.spotify.com/playlist/37i9dQZF1DWVinJBuv0P4z)
 
-> Happy tunes from the 50s, 60s & 70s.
+> Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
 311 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
 

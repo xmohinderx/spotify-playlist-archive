@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley Gorley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,915 likes - 202 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,936 likes - 202 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

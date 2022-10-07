@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: TOLEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,025 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,067 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 3 | [Give Me A Reason](https://open.spotify.com/track/2ZCZc1R6mUTDKpy1O0rmTz) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Give Me A Reason](https://open.spotify.com/album/2Q3nPnB0WjJoWkJ25XB3SS) | 5:53 |
 | 4 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 |
 | 5 | [ILY2](https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/3nBehmaH78kXLIQhImNnOH) | 3:45 |
-| 6 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 |
+| 6 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
 | 7 | [Let Me Hate](https://open.spotify.com/track/1GgP54v1bcv3FfswJ1cJZU) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Let Me Hate](https://open.spotify.com/album/08HSvJI8DNBgwlcQLFSPsV) | 3:30 |
 | 8 | [Leap Day](https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [Leap Day](https://open.spotify.com/album/5bIvA0LQnYPoZNpqJAKlFw) | 2:16 |
 | 9 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 124 | [Low Era](https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 4:14 |
 | 125 | [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 |
 
-Snapshot ID: `MTY2NDUxNjcwMCwwMDAwMDAwMDZhOTU5MGU3NzFkNDc4ZWZkZDk5M2ZlNjJiZTRhM2I2`
+Snapshot ID: `MTY2NDUxNjcwMCwwMDAwMDAwMDYwYjZkYmM3ZWRkNzBlYjMwYTJiNmUyMTc4NGNjZDQz`

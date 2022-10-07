@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 93974,
+  "num_followers": 94049,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMGRkYTBiN2M1YmQ1ZWI2MDE3ODJhMWUyOTdmYzE1ZTg5",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDcxZGY5NWI5MDg5MjdhNzk2ZGU5OGQ4NGNiMWNmZDk2",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -887,22 +887,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Supermodified",
-        "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 337506,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Love Pussycats & Carwrecks",
         "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 272760,
       "name": "Koop Island Blues",
       "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Supermodified",
+        "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 337506,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Nothing Changes Under The Sun",
+        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
+      },
+      "artists": [
+        {
+          "name": "Blue States",
+          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Superluminal",
         "url": "https://open.spotify.com/album/3It8376G4eBhEraQbW3TNR"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 306586,
       "name": "Insomniac Olympics",
       "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Nothing Changes Under The Sun",
-        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
-      },
-      "artists": [
-        {
-          "name": "Blue States",
-          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 440040,
-      "name": "His Majesty King Raam",
-      "url": "https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Genetic World",
         "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 241560,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 440040,
+      "name": "His Majesty King Raam",
+      "url": "https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Revenge Of The Bomberclad Joint",
-        "url": "https://open.spotify.com/album/2KlPuCPbATFbfCaHuGDU2O"
-      },
-      "artists": [
-        {
-          "name": "Knowtoryus",
-          "url": "https://open.spotify.com/artist/4QiVrFYBkKs4s5qjCE3tiq"
-        }
-      ],
-      "duration_ms": 277360,
-      "name": "Revenge Of The Bomberclad Joint",
-      "url": "https://open.spotify.com/track/4jrnabJuksUnzUfDlv1gIE"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Suzuki",
         "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 441866,
       "name": "B Monkey",
       "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Revenge Of The Bomberclad Joint",
+        "url": "https://open.spotify.com/album/2KlPuCPbATFbfCaHuGDU2O"
+      },
+      "artists": [
+        {
+          "name": "Knowtoryus",
+          "url": "https://open.spotify.com/artist/4QiVrFYBkKs4s5qjCE3tiq"
+        }
+      ],
+      "duration_ms": 277360,
+      "name": "Revenge Of The Bomberclad Joint",
+      "url": "https://open.spotify.com/track/4jrnabJuksUnzUfDlv1gIE"
     },
     {
       "added_at": "2020-09-04 01:12:56",

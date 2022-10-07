@@ -4,7 +4,7 @@
 
 > The romantic side of classic rock and metal
 
-424 songs - 1 day 8 hr 15 min - [published](https://open.spotify.com/playlist/1tXGnbXeluTxKGNVwR9OWH)
+425 songs - 1 day 8 hr 20 min - [published](https://open.spotify.com/playlist/1tXGnbXeluTxKGNVwR9OWH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Hard to Say I'm Sorry / Get Away \- 2006 Remaster](https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 5:04 | 2022-03-30 | 2022-04-12 |
 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 | 2021-12-20 | 2022-07-29 |
 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/3Mn8fQPVX4hV8gWRBCl75a) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0w1m51HSEsX82WsjGGx75M) | 5:24 | 2022-03-30 | 2022-06-21 |
+| [Have You Ever Really Loved A Woman?](https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 4:51 | 2022-07-05 |  |
 | [Have You Ever Really Loved A Woman? \- From "Don Juan DeMarco"](https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Ultimate](https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV) | 4:53 | 2021-12-20 | 2022-04-24 |
 | [Heartbreak Station](https://open.spotify.com/track/63ZUgNxorR2j1Au8iHBhDQ) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Heartbreak Station](https://open.spotify.com/album/2fxpaT73zIgbKXNhVQDSER) | 4:28 | 2022-03-30 | 2022-04-04 |
 | [Hearts Breaking Even](https://open.spotify.com/track/73QwHBgxelDk4DPL2XHFKT) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [These Days](https://open.spotify.com/album/1b6ChQEPZbOHVNi5vjqYr6) | 5:06 | 2022-03-30 | 2022-04-07 |
@@ -180,7 +181,7 @@
 | [I'll See You In My Dreams](https://open.spotify.com/track/5Pr7EYxfxsduely39MZBvF) | [GIANT](https://open.spotify.com/artist/3gKPME3EjakIpyBUZrWPTh) | [Last Of The Runaways](https://open.spotify.com/album/7qelbqu64vITzhHq86fld4) | 4:46 | 2022-03-30 | 2022-04-07 |
 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 | 2021-12-20 |  |
 | [I'm in Love with You](https://open.spotify.com/track/7kbp5pZo1811mqW6WMt2ep) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl), [The Classic Night Orchestra](https://open.spotify.com/artist/6r9xwUlXf0x8S1PSRV6r2B) | [Classic Diamonds](https://open.spotify.com/album/3EcOu2qvaqiAH9W3lVIm99) | 4:44 | 2022-03-30 | 2022-04-07 |
-| [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 | 2022-03-30 |  |
+| [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 | 2022-03-30 | 2022-10-07 |
 | [I'm On Fire](https://open.spotify.com/track/6OA6JTMUGmQRtYGxpXgEa1) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/1c72XklDkH9TmbPMxy11a9) | 2:34 | 2022-03-30 | 2022-04-17 |
 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 | 2022-07-05 |  |
 | [I've Been In Love Before \- Edit](https://open.spotify.com/track/0rPImSYezi40zBhwvIvTrr) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [The Best Of Cutting Crew](https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH) | 4:02 | 2022-03-30 | 2022-04-21 |

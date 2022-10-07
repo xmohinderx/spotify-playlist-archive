@@ -6241,7 +6241,7 @@
     {
       "album": {
         "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
       },
       "artists": [
         {
@@ -6252,6 +6252,24 @@
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234531,
+      "name": "Noah (Stand Still)",
+      "url": "https://open.spotify.com/track/1n4KID2dgcMa5yaPgYRHDO"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
       "duration_ms": 234531,
       "name": "Noah (Stand Still)",
       "url": "https://open.spotify.com/track/2skKlGMaP2Z9SxK5cDtg9t"

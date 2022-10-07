@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 27897,
+  "num_followers": 27941,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MDYyOCwwMDAwMDAwMDc5ZmZmMGVlNjcwZjFjOTBiOTQwOGZhMzIwY2RiZTM3",
+  "snapshot_id": "MTY2NDU2MDYyOCwwMDAwMDAwMGVhYzM2YTM0ZTc0NWIzNGY2NmMwMjdjZDBmMjliYzE4",
   "tracks": [
     {
       "added_at": "2022-09-20 15:51:44",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Hello Planta",
-        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 128274,
-      "name": "Hello Planta",
-      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "My People Have Deep Roots",
         "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 425440,
       "name": "Retour",
       "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "Hello Planta",
+        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 128274,
+      "name": "Hello Planta",
+      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/0XPEa03giPkkTHDsCHf3H0"
-      },
-      "artists": [
-        {
-          "name": "Ocoeur",
-          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Opposite Sides",
-      "url": "https://open.spotify.com/track/5KwIpjS1J5h0ZaDlPtEL76"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 307080,
       "name": "The Edges",
       "url": "https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/0XPEa03giPkkTHDsCHf3H0"
+      },
+      "artists": [
+        {
+          "name": "Ocoeur",
+          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "Opposite Sides",
+      "url": "https://open.spotify.com/track/5KwIpjS1J5h0ZaDlPtEL76"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "How Do You Live",
-        "url": "https://open.spotify.com/album/0a48X39VME2QhWVEASztpm"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 213514,
-      "name": "Phaedra",
-      "url": "https://open.spotify.com/track/3GG5A7ugKwKqtxAOvSwuF8"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "Madre",
         "url": "https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 221775,
       "name": "An Absolute Living Hell, Pt. 1",
       "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "How Do You Live",
+        "url": "https://open.spotify.com/album/0a48X39VME2QhWVEASztpm"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 213514,
+      "name": "Phaedra",
+      "url": "https://open.spotify.com/track/3GG5A7ugKwKqtxAOvSwuF8"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -989,20 +989,20 @@
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
-      "added_at": "2022-09-20 15:51:44",
+      "added_at": "2022-10-07 01:32:26",
       "album": {
-        "name": "miu",
-        "url": "https://open.spotify.com/album/2wnxhsvtfuzDH1ETN0pr8p"
+        "name": "05-10",
+        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
       },
       "artists": [
         {
-          "name": "Marina Herlop",
-          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
         }
       ],
-      "duration_ms": 243765,
-      "name": "miu",
-      "url": "https://open.spotify.com/track/1GSoTgzYMRYI8yZM056Sml"
+      "duration_ms": 296413,
+      "name": "Roller The Wick",
+      "url": "https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
+        "name": "miu",
+        "url": "https://open.spotify.com/album/2wnxhsvtfuzDH1ETN0pr8p"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "duration_ms": 243765,
+      "name": "miu",
+      "url": "https://open.spotify.com/track/1GSoTgzYMRYI8yZM056Sml"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
         "name": "Penelope Three",
         "url": "https://open.spotify.com/album/17i8UBmNkp5UY0CLRHokyk"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9"
-      },
-      "artists": [
-        {
-          "name": "Feral",
-          "url": "https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A"
-        }
-      ],
-      "duration_ms": 207656,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "Rushes Recede",
         "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
       },
@@ -1113,20 +1113,20 @@
       "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
     },
     {
-      "added_at": "2022-10-06 01:21:35",
+      "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "05-10",
-        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+          "name": "Feral",
+          "url": "https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A"
         }
       ],
-      "duration_ms": 296413,
-      "name": "Roller The Wick",
-      "url": "https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU"
+      "duration_ms": 207656,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
         "name": "Lucy & Aaron",
         "url": "https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 211381,
       "name": "Demands Of Ordinary Devotion",
       "url": "https://open.spotify.com/track/3XCN0p4qDpdodFwAdYYoXk"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1503,6 +1503,42 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
+        "name": "Made In Silence",
+        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
+      },
+      "artists": [
+        {
+          "name": "dBridge",
+          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
+        },
+        {
+          "name": "Madison Willing",
+          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
+        }
+      ],
+      "duration_ms": 154740,
+      "name": "One Note",
+      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 327474,
+      "name": "Evensong",
+      "url": "https://open.spotify.com/track/4TS7ZKYI9duQujtVglF2Cb"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
         "name": "Razor (Foam and Sand Remix)",
         "url": "https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky"
       },
@@ -1527,58 +1563,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 327474,
-      "name": "Evensong",
-      "url": "https://open.spotify.com/track/4TS7ZKYI9duQujtVglF2Cb"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
-        "name": "Made In Silence",
-        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
-      },
-      "artists": [
-        {
-          "name": "dBridge",
-          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
-        },
-        {
-          "name": "Madison Willing",
-          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
-        }
-      ],
-      "duration_ms": 154740,
-      "name": "One Note",
-      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
-        "name": "CRATER",
-        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
-      },
-      "artists": [
-        {
-          "name": "Booker Stardrum",
-          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
-        }
-      ],
-      "duration_ms": 322948,
-      "name": "Walking Through Still Air",
-      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "Agalma",
         "url": "https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 450006,
       "name": "Agalma V",
       "url": "https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "CRATER",
+        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
+      },
+      "artists": [
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        }
+      ],
+      "duration_ms": 322948,
+      "name": "Walking Through Still Air",
+      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Vespera",
-        "url": "https://open.spotify.com/album/5J3DHxWVjqENguNOG5jsgj"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
       },
@@ -1651,34 +1635,18 @@
     {
       "added_at": "2022-09-20 15:51:44",
       "album": {
-        "name": "Remember Rainbow Bridge",
-        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
+        "name": "Vespera",
+        "url": "https://open.spotify.com/album/5J3DHxWVjqENguNOG5jsgj"
       },
       "artists": [
         {
-          "name": "Croatian Amor",
-          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 239224,
-      "name": "Alabaster",
-      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
-    },
-    {
-      "added_at": "2022-09-20 15:51:44",
-      "album": {
-        "name": "Acrobatic Thoughts",
-        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
-      },
-      "artists": [
-        {
-          "name": "Panoram",
-          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
-        }
-      ],
-      "duration_ms": 209112,
-      "name": "Fiction Of A Sea",
-      "url": "https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1"
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk"
     },
     {
       "added_at": "2022-09-20 15:51:44",
@@ -1699,6 +1667,38 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "Acrobatic Thoughts",
+        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
+      },
+      "artists": [
+        {
+          "name": "Panoram",
+          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
+        }
+      ],
+      "duration_ms": 209112,
+      "name": "Fiction Of A Sea",
+      "url": "https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1"
+    },
+    {
+      "added_at": "2022-09-20 15:51:44",
+      "album": {
+        "name": "Remember Rainbow Bridge",
+        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "duration_ms": 239224,
+      "name": "Alabaster",
+      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
     },
     {
       "added_at": "2022-09-20 15:51:44",

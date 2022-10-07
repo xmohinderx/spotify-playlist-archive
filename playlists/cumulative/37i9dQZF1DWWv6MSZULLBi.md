@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: First Aid Kit
 
-217 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+218 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Echo Park](https://open.spotify.com/track/0oKMYyW7lQE1KQWCDyNobd) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Echo Park](https://open.spotify.com/album/3tlE6Sz6txgBWAy32hzc8N) | 3:30 | 2022-09-16 |  |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 | 2022-09-03 |
 | [Endless Time](https://open.spotify.com/track/1JS1QZwFXKVCdJPxoUAwrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6GgHy26g1ILOtU9hkrHbLb) | 4:20 | 2022-05-13 | 2022-06-04 |
-| [Every Beginning Ends](https://open.spotify.com/track/16fxWByj3xZ3yWxwZieyD7) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 2:30 | 2022-09-30 |  |
+| [Every Beginning Ends](https://open.spotify.com/track/16fxWByj3xZ3yWxwZieyD7) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 2:30 | 2022-09-30 | 2022-10-07 |
+| [Every Beginning Ends](https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 2:30 | 2022-09-30 |  |
 | [Every Beginning Ends](https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 2:30 | 2022-08-26 | 2022-10-06 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-05-13 | 2022-07-09 |
 | [Everyday Sunflower](https://open.spotify.com/track/2wdIXkZ4nFlaYbzvifuAp1) | [Jason Collett](https://open.spotify.com/artist/4uuXjSga3HgpAETXd0UpxW) | [Everyday Sunflower](https://open.spotify.com/album/6xlZH4sV5XGl17TMKezsrp) | 2:50 | 2022-09-23 |  |

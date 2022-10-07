@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2la7g9bMqsgsWPC9WcQg56"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 288531,
       "name": "After Dark x Sweater Weather",
       "url": "https://open.spotify.com/track/5drMnds5Li20IwjUOoN4nq"
@@ -3183,7 +3183,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
@@ -16235,10 +16235,28 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "album": {
@@ -16849,6 +16867,28 @@
       "duration_ms": 133680,
       "name": "\u00c9 S\u00f3 Blus\u00e3o da Ecko e Bon\u00e9 da Lacoste Vs Putaria (feat. Mc Denny)",
       "url": "https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH"
+    },
+    {
+      "album": {
+        "name": "\u00d6l\u00fcmle Ya\u015fam Aras\u0131nda",
+        "url": "https://open.spotify.com/album/61FFY1aI5DXTbAV5SJn95C"
+      },
+      "artists": [
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        },
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176052,
+      "name": "\u00d6l\u00fcmle Ya\u015fam Aras\u0131nda",
+      "url": "https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV"
     },
     {
       "album": {

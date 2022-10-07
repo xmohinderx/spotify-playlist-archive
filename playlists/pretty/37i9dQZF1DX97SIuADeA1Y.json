@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 271643,
+  "num_followers": 271760,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzOTUzOSwwMDAwMDAwMGEzMWI1NTA0MjNkODI1Y2I4N2MzNzBlN2MzNTAyNTYz",
+  "snapshot_id": "MTY2NDUzOTUzOSwwMDAwMDAwMDUxN2RiYjA3MTMwNTQwM2RhZWI2YTVkNjgzZjVhYWVk",
   "tracks": [
     {
       "added_at": "2022-09-30 12:05:38",
@@ -215,26 +215,6 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
-        "name": "Redlight",
-        "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 177780,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
-    },
-    {
-      "added_at": "2022-09-30 12:05:38",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 161000,
       "name": "Boots",
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2022-09-30 12:05:38",
+      "album": {
+        "name": "Redlight",
+        "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 177780,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
     },
     {
       "added_at": "2022-09-30 12:05:38",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Ekko",
-          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
-        }
-      ],
-      "duration_ms": 152459,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5"
-    },
-    {
-      "added_at": "2022-09-30 12:05:38",
-      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 157446,
       "name": "Skippin",
       "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
+    },
+    {
+      "added_at": "2022-09-30 12:05:38",
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "duration_ms": 152459,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5"
     },
     {
       "added_at": "2022-09-30 12:05:38",
@@ -767,6 +767,30 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
+        "name": "Alone Again (feat. PollyAnna)",
+        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "SESA",
+          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Alone Again (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+    },
+    {
+      "added_at": "2022-09-30 12:05:38",
+      "album": {
         "name": "Heaven (feat. Sofia Quinn)",
         "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
       },
@@ -807,30 +831,6 @@
       "duration_ms": 151723,
       "name": "I'm Okay",
       "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
-    },
-    {
-      "added_at": "2022-09-30 12:05:38",
-      "album": {
-        "name": "Alone Again (feat. PollyAnna)",
-        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "SESA",
-          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Alone Again (feat. PollyAnna)",
-      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
     },
     {
       "added_at": "2022-09-30 12:05:38",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "url": "https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA"
+      },
+      "artists": [
+        {
+          "name": "Le Pedre",
+          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg"
+    },
+    {
+      "added_at": "2022-09-30 12:05:38",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 139322,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
-    },
-    {
-      "added_at": "2022-09-30 12:05:38",
-      "album": {
-        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-        "url": "https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA"
-      },
-      "artists": [
-        {
-          "name": "Le Pedre",
-          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg"
     },
     {
       "added_at": "2022-09-30 12:05:38",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2022-09-30 12:05:38",
       "album": {
+        "name": "Feel Good Inc.",
+        "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 173313,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
+    },
+    {
+      "added_at": "2022-09-30 12:05:38",
+      "album": {
         "name": "redruM (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 176785,
       "name": "redruM - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
-    },
-    {
-      "added_at": "2022-09-30 12:05:38",
-      "album": {
-        "name": "Feel Good Inc.",
-        "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 173313,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
     },
     {
       "added_at": "2022-09-30 12:05:38",

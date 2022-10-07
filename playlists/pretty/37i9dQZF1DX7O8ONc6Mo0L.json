@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Gabriel Guedes de Almeida",
-  "num_followers": 224014,
+  "num_followers": 224120,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MzMwNSwwMDAwMDAwMDA4MDhiMjY1NTEzMGQzODRlODU4ZTE5NWZhMmExNDgy",
+  "snapshot_id": "MTY2NDU0MzMwNSwwMDAwMDAwMGJlNTQzMTRmMjFiYTZjMWYwYTYyYzQ1N2Y2MzM0ZmRk",
   "tracks": [
     {
       "added_at": "2022-09-30 13:08:25",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
+        "name": "Milagres (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Milagres - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
         "name": "Minha Ess\u00eancia",
         "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 269354,
       "name": "Descansa",
       "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
-        "name": "Milagres (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Milagres - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
-        "name": "Vendavais (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Vendavais - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
         "name": "A Dois",
         "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 236001,
       "name": "A Dois",
       "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
+        "name": "Vendavais (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Vendavais - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
+        "name": "Primeira Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Primeira Ess\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
         "name": "Tomou o Meu Lugar",
         "url": "https://open.spotify.com/album/2FaHAoJgaGXFF5Z6fOlTLZ"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 410133,
       "name": "Tomou o Meu Lugar",
       "url": "https://open.spotify.com/track/4m27IBRu2hbprZK1iTtvgc"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
-        "name": "Primeira Ess\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Primeira Ess\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
+        "name": "Aprender Com a Vida (Piano e Voz)",
+        "url": "https://open.spotify.com/album/6RS8eJ68iNTDvm55Q0nLAs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 258044,
+      "name": "Aprender Com a Vida - Piano e Voz",
+      "url": "https://open.spotify.com/track/27KUBPN9Vja3WlsZsNNvj0"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 234613,
       "name": "Valeu a Pena: Releitura",
       "url": "https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
-        "name": "Aprender Com a Vida (Piano e Voz)",
-        "url": "https://open.spotify.com/album/6RS8eJ68iNTDvm55Q0nLAs"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 258044,
-      "name": "Aprender Com a Vida - Piano e Voz",
-      "url": "https://open.spotify.com/track/27KUBPN9Vja3WlsZsNNvj0"
     },
     {
       "added_at": "2022-09-30 13:08:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-30 13:08:25",
       "album": {
-        "name": "O Que Meu Deus Vai Fazer (Ess\u00eancia Sessions)",
-        "url": "https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM"
-      },
-      "artists": [
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 271709,
-      "name": "O Que Meu Deus Vai Fazer (Ess\u00eancia Sessions)",
-      "url": "https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q"
-    },
-    {
-      "added_at": "2022-09-30 13:08:25",
-      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 270933,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
+    },
+    {
+      "added_at": "2022-09-30 13:08:25",
+      "album": {
+        "name": "O Que Meu Deus Vai Fazer (Ess\u00eancia Sessions)",
+        "url": "https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM"
+      },
+      "artists": [
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 271709,
+      "name": "O Que Meu Deus Vai Fazer (Ess\u00eancia Sessions)",
+      "url": "https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q"
     },
     {
       "added_at": "2022-09-30 13:08:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,181 likes - 66 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,205 likes - 66 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 | 40 | [Superstitious Thoughts](https://open.spotify.com/track/4ZoggoHYM0Ll0jDOPeKPsU) | [Skatman](https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58) | [Superstitious Thoughts EP](https://open.spotify.com/album/0Fa9rAVo45sYENGM0PVatb) | 5:56 |
 | 41 | [Love Tender](https://open.spotify.com/track/34ZM9aIIid4hAyCOAah5NB) | [Laurent Wood](https://open.spotify.com/artist/6EH61vIvEkWng4dKEa2WQX) | [Cross Vault 09: Laurent Wood](https://open.spotify.com/album/7A0Jf0s21MUEMxsVQJh3x2) | 5:54 |
 | 42 | [Silver Tears](https://open.spotify.com/track/7EGtWb2e58plUAQkix2aON) | [Pale Blue](https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr) | [Silver Tears](https://open.spotify.com/album/2Gpd3rckgmWytExozWxA35) | 10:54 |
-| 43 | [See Me Burn](https://open.spotify.com/track/45s2GAogNZf9nVgvZVxSki) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [See Me Burn](https://open.spotify.com/album/1RGYGqxIczhfpKFMnrY3vh) | 6:16 |
+| 43 | [See Me Burn](https://open.spotify.com/track/7woYT8xm9T0sGQbkA8UmkL) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [See Me Burn](https://open.spotify.com/album/43jMmlOY6iXdr22eSlrInL) | 6:16 |
 | 44 | [U Did It 2 Urself \- DJ Ferrari Remix](https://open.spotify.com/track/59YJO7dwHEDMN6V9B61wpW) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [DJ Ferrari](https://open.spotify.com/artist/0a4S5Gm2HO6YlrawGzsg7f) | [Nomad Lyfe EP Remixes](https://open.spotify.com/album/3ZrbjS6Mo812qlicvMG08r) | 5:04 |
 | 45 | [Mit Dir \- Extended](https://open.spotify.com/track/4sboge3wKtCLTGPnbZAR9r) | [Robert Görl](https://open.spotify.com/artist/2eixF9V5bbfSJNkZ1hUOb8) | [Night Full Of Tension](https://open.spotify.com/album/1a48xcA7BpKm5RtfRX9xZo) | 5:56 |
 | 46 | [Scythe Master](https://open.spotify.com/track/4XUiKsKnHRiLaOhKC3HCFp) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5rsIqymNEB0QlStjVPpENL) | 8:00 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 | 65 | [Okra Ooze](https://open.spotify.com/track/65XrhSXZKHhBz9V8gMNhKL) | [Kee Avil](https://open.spotify.com/artist/178F3Nm61BKsUtDP3egSoR) | [Crease](https://open.spotify.com/album/5HrRbXAcV7NZ2G2Z2ghcF6) | 3:54 |
 | 66 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 |
 
-Snapshot ID: `MTY2MzU5NTUwOSwwMDAwMDAwMDk1MTY4ZWY5MTdjZDI5MjZmYzNmN2M4MzVhZjFlZWJh`
+Snapshot ID: `MTY2MzU5NTUwOSwwMDAwMDAwMGQ2N2I4MTk5YTZiMDUzZTNjZmQ4YzJlNjYyNGNiNGYz`

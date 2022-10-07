@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Lala &ce
 
-471 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+472 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3jHeHzz5MSmBhUuhaS6H7g) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Bye Bye Baby](https://open.spotify.com/album/2iVrZlFKJDwvwnXz4VZYwm) | 3:18 | 2022-09-06 | 2022-10-05 |
 | [Cœur à cœur](https://open.spotify.com/track/3T2BybVNTRi1D3BChLPNyX) | [iambillies](https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG) | [Cœur à cœur](https://open.spotify.com/album/5mWGbQvxI666IWrLZML4B2) | 3:11 | 2022-04-05 | 2022-05-04 |
 | [Dame un Beso](https://open.spotify.com/track/2ALbKqUuWRDwB61bgfxsOq) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Dame un Beso](https://open.spotify.com/album/1Blvg1TCxOSpHjWyLRmmcp) | 2:52 | 2022-07-05 | 2022-08-03 |
+| [Dans la Chaleur](https://open.spotify.com/track/027KMnt9OZofLLFvJeGTWZ) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [Dans la Chaleur](https://open.spotify.com/album/2tYY9qw3JkrNrlEfUToQ2U) | 3:48 | 2022-10-05 |  |
 | [Dans La Neige](https://open.spotify.com/track/2Q72FAtGOzphNpdY2bmaLn) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Dans La Neige](https://open.spotify.com/album/2YTcYREKouFNyEhhYVGmyR) | 2:56 | 2022-02-01 | 2022-03-08 |
 | [Dans ma tête](https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [Dans ma tête](https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW) | 2:44 | 2022-09-06 | 2022-10-05 |
 | [Dans mon dos](https://open.spotify.com/track/1O7RIzTY1bz1ma7JfSkl7m) | [Camille Schneyder](https://open.spotify.com/artist/2jPO50YbPAgwG8D7kGWGVn) | [Dans mon dos](https://open.spotify.com/album/1EznXF8vOZ8zTjdzvigkdO) | 2:51 | 2022-04-05 | 2022-05-04 |

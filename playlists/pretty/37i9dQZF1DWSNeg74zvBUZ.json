@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18391,
+  "num_followers": 18393,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMDk2NzU3NDIwMDJhN2U3NDcxOTI4OThjZTVlNjdmZmMx",
+  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMDM4NDllMmFkMWQ2N2JhOGY4MGI5NDFiNzU4ODQwNzUx",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M"
+      },
+      "artists": [
+        {
+          "name": "Forest Walks",
+          "url": "https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb"
+    },
+    {
       "added_at": "2022-01-07 02:01:58",
       "album": {
         "name": "Two",
@@ -823,22 +839,6 @@
       "duration_ms": 163733,
       "name": "Natural Bridges",
       "url": "https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M"
-      },
-      "artists": [
-        {
-          "name": "Forest Walks",
-          "url": "https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW"
-        }
-      ],
-      "duration_ms": 178260,
-      "name": "A New Day",
-      "url": "https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb"
     },
     {
       "added_at": "2021-09-10 04:35:25",

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 761982,
+  "num_followers": 764708,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ1OTM4NCwwMDAwMDAwMDE0MDQ1OWQ5MjgzYjg1NjM2ZTczNDE4Yzg5MzM1ODQy",
+  "snapshot_id": "MTY2NDQ1OTM4NCwwMDAwMDAwMGQzMWYwNDQwYzQwYTBmYjA3OWU4OGZjNzkxOWYyMjI4",
   "tracks": [
     {
       "added_at": "2022-09-28 14:46:59",
@@ -500,7 +500,7 @@
       "added_at": "2022-09-28 14:46:59",
       "album": {
         "name": "Here With Me",
-        "url": "https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm"
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
       "artists": [
         {
@@ -510,7 +510,7 @@
       ],
       "duration_ms": 242484,
       "name": "Here With Me",
-      "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "added_at": "2022-09-28 14:46:59",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-28 14:46:59",
       "album": {
-        "name": "Not Around",
-        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
-      },
-      "artists": [
-        {
-          "name": "Nova",
-          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Not Around",
-      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
-    },
-    {
-      "added_at": "2022-09-28 14:46:59",
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 276960,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+    },
+    {
+      "added_at": "2022-09-28 14:46:59",
+      "album": {
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
+      },
+      "artists": [
+        {
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
     }
   ],
   "unique_name": "goosebumps",

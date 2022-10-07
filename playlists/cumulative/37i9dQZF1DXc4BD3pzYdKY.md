@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: Social Club Misfits
 
-683 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+684 songs - 1 day 10 hr 32 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Hang Out The Coupe](https://open.spotify.com/track/33GkPyyqE8PnWQM4legfwJ) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt), [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd) | [Hang Out The Coupe](https://open.spotify.com/album/4kjexb30S5KM3JTN8sM60X) | 2:24 | 2022-03-12 | 2022-03-17 |
 | [Hard Life](https://open.spotify.com/track/1nwX36WCJWiPChGGIxswan) | [Kamban](https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP) | [Hard Life](https://open.spotify.com/album/0zAHdRnv6GL24i0bvgLMcd) | 2:40 | 2021-12-11 | 2022-02-02 |
 | [Have Me](https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Have Me](https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k) | 2:48 | 2022-09-11 |  |
-| [Heart Of Stone](https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Heart Of Stone](https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf) | 4:15 | 2022-09-11 |  |
+| [Heart Of Stone](https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Heart Of Stone](https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf) | 4:15 | 2022-09-11 | 2022-10-07 |
 | [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 | 2022-04-29 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/5Ie2QBQyUYCcJvQxvsXvBz) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q), [King Koro](https://open.spotify.com/artist/4R1pqL0Q87tj2KZO1Fu3mG) | [Heaven](https://open.spotify.com/album/2MuSjMBXRimvn45wHLiG0f) | 3:43 | 2022-02-04 | 2022-03-16 |
 | [Helga](https://open.spotify.com/track/47n31kXP2dwfE82xtOA3qK) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Helga](https://open.spotify.com/album/4GpsaQPRX1Sjv628WlMFRC) | 2:36 | 2022-06-25 | 2022-09-12 |
@@ -516,6 +516,7 @@
 | [Rocky Road](https://open.spotify.com/track/4FGj20G3ceuu0y5tdPPcPl) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Rocky Road](https://open.spotify.com/album/0aJGfLXFLhudd3uUOAleIK) | 2:33 | 2022-09-11 |  |
 | [Rolled the Stone Away](https://open.spotify.com/track/5YHUVyxICPbJEAWLAfHyyC) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Rolled the Stone Away](https://open.spotify.com/album/0ssZ0VidJ8c8c6L9dKFdit) | 2:45 | 2022-04-29 | 2022-07-29 |
 | [Rooftop Freestyle](https://open.spotify.com/track/51BxmYU98SZRH4v7G4aZDn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Rooftop Freestyle](https://open.spotify.com/album/3zgi7I0YyzMLqkpj6kxlYJ) | 2:49 | 2021-12-11 | 2022-03-23 |
+| [Run](https://open.spotify.com/track/4qzirIMTlJblsRSkVByPHX) | [Lyne Nsongo](https://open.spotify.com/artist/5jSmCziGF235deMJthrIMA), [David Okit](https://open.spotify.com/artist/2TNEke8iPCbFBj8Tp9KlnJ) | [Run](https://open.spotify.com/album/2gsAFy50lZsU5vrzFin6sd) | 2:54 | 2022-10-07 |  |
 | [Run A Bag](https://open.spotify.com/track/3TIGNuFMoOD6B3VP6mHVO3) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Run A Bag](https://open.spotify.com/album/2jT7lbecAOaO708xio98qC) | 3:05 | 2022-07-17 | 2022-09-12 |
 | [RUSH](https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61) | [Kaboose](https://open.spotify.com/artist/2zD5NNTrgXT3o2RVrRBvv1), [Joe Bills](https://open.spotify.com/artist/1W0jgt0r6ladSy83zw9Ik4) | [RUSH](https://open.spotify.com/album/065QDCv1XieAGlpweuCSEP) | 2:49 | 2022-04-29 | 2022-08-07 |
 | [Safe](https://open.spotify.com/track/4UbnBTANJcMsvAq8cc3hQe) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Safe](https://open.spotify.com/album/4iwaGwvXlj1kwJFQZvKNWT) | 2:21 | 2022-09-11 |  |

@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Roddy Ricch, Kodak Black and Quavo & Takeoff.
+> New music from Quavo & Takeoff, Roddy Ricch and Kodak Black.
 
 1,374 songs - 2 day 22 hr 44 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 

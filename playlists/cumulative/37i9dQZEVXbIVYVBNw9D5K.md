@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-520 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+521 songs - 1 day 2 hr 36 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Sana Bayılıyorum](https://open.spotify.com/track/1P75ygfeKbTnWpuyTzUpCy) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD) | 2:36 | 2021-05-23 | 2021-06-06 |
 | [Sana Çıkıyor Yollar \- Kaderimin Oyunu Orijinal Dizi Müziği](https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Sana Çıkıyor Yollar \(Kaderimin Oyunu Orijinal Dizi Müziği\)](https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi) | 3:49 | 2022-02-15 | 2022-05-08 |
 | [SAVANA](https://open.spotify.com/track/4zamjWcxvLNIkiAmBEQhda) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 3:23 | 2022-01-22 | 2022-01-30 |
-| [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 | 2022-09-03 |  |
+| [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 | 2022-09-03 | 2022-10-07 |
 | [Sen Affetsen](https://open.spotify.com/track/0nudrF7WUr6R5OEVffxuky) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 4:25 | 2022-03-06 | 2022-04-10 |
 | [Sen Varsın Diye](https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Sen Varsın Diye](https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc) | 3:46 | 2021-07-04 | 2022-03-07 |
 | [Seni Dert Etmeler](https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Seni Dert Etmeler](https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj) | 3:08 | 2021-03-27\* |  |
@@ -520,6 +520,7 @@
 | [Çiftetelli](https://open.spotify.com/track/34MM2UIWX7JOdI7NmnVNyD) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Çiftetelli](https://open.spotify.com/album/40KYcI9yGdQhAWIOYyaE1L) | 2:11 | 2021-07-04 | 2021-07-16 |
 | [Çok Kolay](https://open.spotify.com/track/4BBee59kamxuAF3J0pS6GT) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [Çok Kolay](https://open.spotify.com/album/7hz72trerdO3cg4JP9TGx1) | 3:30 | 2022-08-13 | 2022-08-15 |
 | [Ölebilirim](https://open.spotify.com/track/5jtqm1ZWbtyaUfhX9zc0ls) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Ölebilirim](https://open.spotify.com/album/0P3wjoDhm36wToI7e2riWK) | 3:49 | 2021-05-17 | 2021-12-12 |
+| [Ölümle Yaşam Arasında](https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Ölümle Yaşam Arasında](https://open.spotify.com/album/61FFY1aI5DXTbAV5SJn95C) | 2:56 | 2022-10-06 |  |
 | [Ömrüm](https://open.spotify.com/track/0GwSSml9L21vNI7VGLz1ae) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Ömrüm](https://open.spotify.com/album/0Hnmp3HmLAReVVeCc4Bd9Y) | 4:00 | 2021-09-05 | 2022-01-30 |
 | [Öptüm Nefesinden](https://open.spotify.com/track/2ReOPzZ5eaKbZjLhlMjxDT) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [Ekin Uzunlar](https://open.spotify.com/artist/35ngoeYRyOveM0rPvahkot) | [Öptüm Nefesinden](https://open.spotify.com/album/4IA9Ll6okj08r4WOYbudhz) | 2:46 | 2021-03-27\* | 2021-03-29 |
 | [Ücra](https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg) | [Emrah Karakuyu](https://open.spotify.com/artist/1Kb8Eb6SbHbzUYSqhhDtx5), [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [Ücra](https://open.spotify.com/album/4PypqHBUVxAuaApFq9Mbxr) | 3:19 | 2021-07-11 | 2021-07-14 |

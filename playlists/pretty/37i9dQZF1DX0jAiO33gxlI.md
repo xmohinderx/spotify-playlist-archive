@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Kayode
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,779 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,841 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Podcast](https://open.spotify.com/track/7j0kFL8uQ1quCKihQRScZE) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Podcast](https://open.spotify.com/album/3zE8liYYIGutz1qLXwySz1) | 2:52 |
 | 2 | [Tamo Gigante](https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Tamo Gigante](https://open.spotify.com/album/6c53Ns7a0MfyZZfNw6hqZV) | 5:16 |
 | 3 | [Gratidão](https://open.spotify.com/track/0EYN8iQmNTIZz0avaUCfHC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 4:07 |
-| 4 | [Invocação](https://open.spotify.com/track/5BCEuuEWZoaA3JOdsrsYDG) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Operários do Som](https://open.spotify.com/album/0ULzUEpTg7lZKwmruoJcWl) | 3:57 |
+| 4 | [Invocação](https://open.spotify.com/track/5BCEuuEWZoaA3JOdsrsYDG) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [DJ Mako](https://open.spotify.com/artist/2Ioqrv9nykVtIAf1Hk1H7g), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Operários do Som](https://open.spotify.com/album/0ULzUEpTg7lZKwmruoJcWl) | 3:57 |
 | 5 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
 | 6 | [Não Sabem de Nada](https://open.spotify.com/track/0JyL8OXGNa7KAVhTWoObp7) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Não Sabem de Nada](https://open.spotify.com/album/1YoF3z0NiZaTa2huvFvZ1t) | 4:02 |
 | 7 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |

@@ -5302,6 +5302,24 @@
     },
     {
       "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227951,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
+    },
+    {
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/4eEfNctnzXQ0lqKNgjnrw0"
       },
@@ -7489,7 +7507,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 176810,
       "name": "Who are you ?",
       "url": "https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs"
@@ -11971,7 +11989,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 240031,
       "name": "\u5927\u4eba\u306b\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl"
@@ -12982,6 +13000,24 @@
     },
     {
       "album": {
+        "name": "\u679c\u3066\u3057\u306a\u3044\u4e8c\u4eba",
+        "url": "https://open.spotify.com/album/5kKS6IYSpmdWtT8XddQfKl"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284226,
+      "name": "\u679c\u3066\u3057\u306a\u3044\u4e8c\u4eba",
+      "url": "https://open.spotify.com/track/4Yom29I6eZpdrUZiI2Cqis"
+    },
+    {
+      "album": {
         "name": "\u6930\u5b50\u306e\u5b9f",
         "url": "https://open.spotify.com/album/1MB2F8iRYODbwurw8ia6P0"
       },
@@ -13283,7 +13319,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 298194,
       "name": "\u70b9\u706f",
       "url": "https://open.spotify.com/track/1x66l1vEQ7gl0I5zZWlKku"
@@ -14457,6 +14493,28 @@
       "duration_ms": 249359,
       "name": "\u9752\u3044\u7406\u60f3\u90f7 (feat. \u6625\u8336)",
       "url": "https://open.spotify.com/track/52sa2Yllu0MIq2SFKRNIbc"
+    },
+    {
+      "album": {
+        "name": "RA MU - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/7Dre4HkNvQhl8diVNQugD0"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "RA MU",
+          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302721,
+      "name": "\u9752\u5c71Killer\u7269\u8a9e (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/03eu5QoG6mWFvdu3IOCmHp"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127192,
+  "num_followers": 127206,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY2MixjNzRlNDY1NjFjODhlODNhNDQ2MjI3ZDcxNDE0ZDM3MTQ1MzkwOTE3",
+  "snapshot_id": "MzY2NCxlNjQ5NTVlZDg5ZGUwNGFkMzkwZDEzMDMzMGIxNzdlMzlmN2UwNmJj",
   "tracks": [
+    {
+      "added_at": "2022-10-06 16:35:41",
+      "album": {
+        "name": "The Dead March",
+        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 162356,
+      "name": "The Dead March",
+      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
+    },
     {
       "added_at": "2022-10-05 16:46:33",
       "album": {
@@ -1075,30 +1095,6 @@
       "duration_ms": 192000,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/4I9lRMeXjpHClXcwXRi1nF"
-    },
-    {
-      "added_at": "2022-07-26 16:41:19",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/5NoNQjHMRQ0bmO2BfOoxv1"
-      },
-      "artists": [
-        {
-          "name": "Maazel",
-          "url": "https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7"
-        },
-        {
-          "name": "Darby",
-          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
-        },
-        {
-          "name": "BELELA",
-          "url": "https://open.spotify.com/artist/6nPKt2CGXcKHtmbMq8Sq62"
-        }
-      ],
-      "duration_ms": 201126,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/59j1aFqihFjuwZzii7lIYP"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

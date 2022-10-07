@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: TOLEDO
 
-639 songs - 1 day 12 hr 25 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+640 songs - 1 day 12 hr 29 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Heaven in Your Head](https://open.spotify.com/track/4GBxHpWJ8kF8w1hX8pw4VL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Heaven in Your Head](https://open.spotify.com/album/1ijAzqI3b0LJdS0fgWaDJ1) | 3:14 | 2022-05-06 | 2022-10-01 |
 | [Hello, Hi](https://open.spotify.com/track/6IVk7Q7oc6rDBIvj77HUD2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Hello, Hi](https://open.spotify.com/album/15SPCpxHawJKpc7y3x4wqx) | 2:46 | 2022-04-29 | 2022-05-18 |
 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 | 2022-08-05 |  |
-| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 |  |
+| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 | 2022-10-07 |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-23 |  |
 | [HEY BESTIE](https://open.spotify.com/track/4wpt4Ce3g5KMR7CJzE4JRu) | [Neanderthal](https://open.spotify.com/artist/7AV66Eu1XevhHitr3MEama) | [HEY BESTIE](https://open.spotify.com/album/1gPDKhz51xxY4Kmrl1IF1i) | 2:41 | 2022-08-26 |  |
 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 | 2021-10-22 | 2022-04-29 |
 | [Hideout](https://open.spotify.com/track/7sAKscWRY39xK9BrrLk0os) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Swan](https://open.spotify.com/album/2WNatU5Euq27Fc9lrte3KI) | 3:58 | 2021-08-27 | 2022-04-24 |

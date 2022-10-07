@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-111 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
+112 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,12 +62,13 @@
 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 | 2022-03-25 |  |
 | [In the Mood](https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:45 | 2022-03-25 |  |
 | [In the Skies](https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 3:49 | 2021-04-22 |  |
+| [In Your Town \- Alternate Take 3](https://open.spotify.com/track/29x3HEIlwM6qn6dEQgRKRa) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(50th Anniversary\)](https://open.spotify.com/album/4aCigoJ1Vh797W4FaPWIkU) | 5:34 | 2022-09-09 |  |
 | [In Your Town \- Alternate Take 3](https://open.spotify.com/track/31qFaijhaTMs3Xe0pzq0Bl) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(50th Anniversary\)](https://open.spotify.com/album/5OL57ObDW2DkOHQp0jQDeX) | 5:34 | 2022-09-09 | 2022-10-05 |
 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 | 2022-03-25 |  |
 | [It's A Man Down There \- Single Version](https://open.spotify.com/track/3iQFbMJiZbME79vjmm0JOu) | [Duster Bennett](https://open.spotify.com/artist/3aos6Gjahfz5kPMX9KK0ib) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/0NtX7rmXNFPQebNrZ1CcwZ) | 2:49 | 2021-04-22 | 2022-07-29 |
 | [It's Only Love](https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Pigthology](https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli) | 3:22 | 2021-04-22 |  |
 | [It's Only Love \- 2006 Remaster](https://open.spotify.com/track/2wMxAVkpqT4t7oNtxgoX94) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Ahead Rings Out \(2006 Remaster\)](https://open.spotify.com/album/380B7eXtpYM732cslvhVNt) | 3:23 | 2021-04-22 | 2022-07-29 |
-| [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 | 2021-04-22 |  |
+| [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 | 2021-04-22 | 2022-10-07 |
 | [Junior's Wailing \- 21st Century Version](https://open.spotify.com/track/2VR6NdQzzmcpvJIOBRdPeF) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Junior's Wailing \(21st Century Version\)](https://open.spotify.com/album/0SFYMVa6tj5Lu9nm1lIeOj) | 3:59 | 2022-09-09 | 2022-10-01 |
 | [Junior's Wailing \- 21st Century Version](https://open.spotify.com/track/7IUA28oFz78kpRUx8rDK49) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Wailing Again](https://open.spotify.com/album/7uNZi23dwmDzuvyXw0tiL2) | 3:59 | 2022-09-09 |  |
 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 | 2021-04-22 |  |

@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Seven Lions
 
-500 songs - 1 day 4 hr 24 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+501 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,8 @@
 | [Trouble So Hard \(feat\. MELLY OHH\)](https://open.spotify.com/track/3Y6sP8zjB9vhQ7kViCFBkV) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [MELLY OHH](https://open.spotify.com/artist/1CQHY4R9T7Fr7qwydWLVUa) | [Trouble So Hard \(feat\. MELLY OHH\)](https://open.spotify.com/album/3XaRcRxRDXPwHm4EMs8R61) | 3:20 | 2022-06-10 | 2022-08-27 |
 | [Tulum](https://open.spotify.com/track/2EBNZDuUE3FFcbLADOhOTC) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/1pFpQxlLrzhPTTV071GvTL) | 3:45 | 2022-05-20 | 2022-09-24 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-07-29 | 2022-09-17 |
-| [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-09-09 |  |
+| [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-09-09 | 2022-10-07 |
+| [Twennies](https://open.spotify.com/track/2JKUKfXVAGuaEHLZKEzXFH) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/0WTmYak2Ws78H1nxSJim9m) | 2:51 | 2022-09-16 |  |
 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 | 2022-08-05 |  |
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Annual 2021](https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI) | 2:21 | 2021-12-31 | 2022-02-19 |
 | [U Up?](https://open.spotify.com/track/7Jyjdmar8F7w05l8gahqQo) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Stondon Massey](https://open.spotify.com/artist/0f5OmOrnXOokDq55o3osxg) | [U Up?](https://open.spotify.com/album/5aOX9mSq1uvbw4un5Mvz9A) | 2:23 | 2021-12-31 | 2022-02-26 |

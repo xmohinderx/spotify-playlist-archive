@@ -1,12 +1,12 @@
 {
   "description": "pov: vc \u00e9 uma lenda/Lil Nas X",
-  "num_followers": 229875,
+  "num_followers": 230151,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMDVkZGI1NGRhOTg1MTM2NzZjMjYzMzI5NTMwOWE3ZTNj",
+  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMGFjMjcxZGJiM2M0NzI1YTMyZDA4NmRjNjFlNGQ4NGIz",
   "tracks": [
     {
       "added_at": "2022-09-28 13:38:23",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
     },
     {
-      "added_at": "2022-10-06 01:39:10",
+      "added_at": "2022-10-07 01:51:46",
       "album": {
         "name": "uh oh",
         "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
@@ -781,24 +781,20 @@
       "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
     },
     {
-      "added_at": "2022-09-28 13:38:23",
+      "added_at": "2022-10-07 01:51:46",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL"
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        },
-        {
-          "name": "Sierra Deaton",
-          "url": "https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 197897,
-      "name": "Older (feat. Sierra Deaton)",
-      "url": "https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1"
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh"
     },
     {
       "added_at": "2022-09-28 13:38:23",
@@ -817,20 +813,24 @@
       "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
     },
     {
-      "added_at": "2022-10-06 01:39:10",
+      "added_at": "2022-09-28 13:38:23",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        },
+        {
+          "name": "Sierra Deaton",
+          "url": "https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs"
         }
       ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh"
+      "duration_ms": 197897,
+      "name": "Older (feat. Sierra Deaton)",
+      "url": "https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1"
     },
     {
       "added_at": "2022-09-28 13:38:23",

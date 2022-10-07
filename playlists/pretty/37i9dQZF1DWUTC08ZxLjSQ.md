@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Yvzid, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 665 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,27 +18,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 8 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
 | 9 | [Strange Goodbyes](https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB) | [Anou](https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc) | [Strange Goodbyes](https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq) | 4:32 |
 | 10 | [Summer Falls](https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [Summer Falls](https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0) | 2:48 |
-| 11 | [Higher \(Breathe Easy\)](https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3) | [ABRI](https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I) | [Higher \(Breathe Easy\)](https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN) | 3:26 |
-| 12 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
-| 13 | [start again](https://open.spotify.com/track/33XOL8guHAws71hVhQLYiC) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [start again](https://open.spotify.com/album/7b2pfkpByTUXX0rGbKICpl) | 2:33 |
-| 14 | [Bye Bye](https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV) | [Sandra Sahi](https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy) | [Bye Bye](https://open.spotify.com/album/4Tk57fBzUK6VOLXExtFWFe) | 2:29 |
-| 15 | [Words](https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Words](https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK) | 6:37 |
-| 16 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 |
-| 17 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 |
-| 18 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 |
-| 19 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 |
-| 20 | [Breathe](https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD) | [Fell'g](https://open.spotify.com/artist/2GZ2Ds7aWRKK1sgfZGwhmv) | [Breathe](https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij) | 2:26 |
-| 21 | [Caravan Flow](https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX) | [Soof](https://open.spotify.com/artist/2ubCUPUvkTug5bB3vRNrQo) | [Caravan Flow](https://open.spotify.com/album/39S4YTM2k91hwLIBVhIeSI) | 2:43 |
-| 22 | [Balaleen](https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Balaleen](https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS) | 3:12 |
-| 23 | [Ouda](https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Ouda](https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ) | 5:08 |
-| 24 | [Hammouda](https://open.spotify.com/track/2IgzQGOfEExzrkQclnt3JQ) | [Farouk Sen](https://open.spotify.com/artist/3TT4bOipuMdmB6MOr9RlRh), [Abdellah Stitou](https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK) | [Hammouda](https://open.spotify.com/album/2n66xZ8ZBgZryfMv8GwBMH) | 2:31 |
-| 25 | [Come Find Me](https://open.spotify.com/track/3Df0XGXVpGWCSm3uMmpqle) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Come Find Me](https://open.spotify.com/album/7jZ4pnFqXPXoTJapHRd1CV) | 2:01 |
-| 26 | [i love you](https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq) | [LOSTBOY](https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV), [Offkaktus](https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh) | [Lost Garden](https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1) | 3:24 |
-| 27 | [Breaze](https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW) | [Breaze](https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe) | 5:00 |
-| 28 | [Purity](https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8) | [Nour](https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0) | [Purity](https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC) | 7:54 |
-| 29 | [Yabki Wa Yadhak](https://open.spotify.com/track/6eQpjNP77wurPhX40EO8rV) | [SHAH \(EG\)](https://open.spotify.com/artist/7MUIbP7XLg9nsftAV4Eclq), [Obada](https://open.spotify.com/artist/6NeBmluEiGgPZdmGzqpSPq) | [Yabki Wa Yadhak](https://open.spotify.com/album/7uM3myz2mW7peXJQB8r8PA) | 6:46 |
-| 30 | [Desert Tale](https://open.spotify.com/track/6TdpnCDgeya8E4t6Skc60K) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Desert Tale](https://open.spotify.com/album/4yuwchv1cn57wwMe8hqW7p) | 7:23 |
-| 31 | [Pura Vida](https://open.spotify.com/track/5UVeoZzAMgosQFFdsfGbBM) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil 2](https://open.spotify.com/album/4LZsJJZQ6SqqxGp5ukMnEj) | 2:13 |
+| 11 | [i love you](https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq) | [LOSTBOY](https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV), [Offkaktus](https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh) | [Lost Garden](https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1) | 3:24 |
+| 12 | [Breaze](https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW) | [Breaze](https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe) | 5:00 |
+| 13 | [Purity](https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8) | [Nour](https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0) | [Purity](https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC) | 7:54 |
+| 14 | [Yabki Wa Yadhak](https://open.spotify.com/track/6eQpjNP77wurPhX40EO8rV) | [SHAH \(EG\)](https://open.spotify.com/artist/7MUIbP7XLg9nsftAV4Eclq), [Obada](https://open.spotify.com/artist/6NeBmluEiGgPZdmGzqpSPq) | [Yabki Wa Yadhak](https://open.spotify.com/album/7uM3myz2mW7peXJQB8r8PA) | 6:46 |
+| 15 | [Desert Tale](https://open.spotify.com/track/6TdpnCDgeya8E4t6Skc60K) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Desert Tale](https://open.spotify.com/album/4yuwchv1cn57wwMe8hqW7p) | 7:23 |
+| 16 | [Pura Vida](https://open.spotify.com/track/5UVeoZzAMgosQFFdsfGbBM) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil 2](https://open.spotify.com/album/4LZsJJZQ6SqqxGp5ukMnEj) | 2:13 |
+| 17 | [Higher \(Breathe Easy\)](https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3) | [ABRI](https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I) | [Higher \(Breathe Easy\)](https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN) | 3:26 |
+| 18 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
+| 19 | [start again](https://open.spotify.com/track/33XOL8guHAws71hVhQLYiC) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [start again](https://open.spotify.com/album/7b2pfkpByTUXX0rGbKICpl) | 2:33 |
+| 20 | [Bye Bye](https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV) | [Sandra Sahi](https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy) | [Bye Bye](https://open.spotify.com/album/4Tk57fBzUK6VOLXExtFWFe) | 2:29 |
+| 21 | [Words](https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Words](https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK) | 6:37 |
+| 22 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 |
+| 23 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 |
+| 24 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 |
+| 25 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 |
+| 26 | [Breathe](https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD) | [Fell'g](https://open.spotify.com/artist/2GZ2Ds7aWRKK1sgfZGwhmv) | [Breathe](https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij) | 2:26 |
+| 27 | [Caravan Flow](https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX) | [Soof](https://open.spotify.com/artist/2ubCUPUvkTug5bB3vRNrQo) | [Caravan Flow](https://open.spotify.com/album/39S4YTM2k91hwLIBVhIeSI) | 2:43 |
+| 28 | [Balaleen](https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Balaleen](https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS) | 3:12 |
+| 29 | [Ouda](https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Ouda](https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ) | 5:08 |
+| 30 | [Hammouda](https://open.spotify.com/track/2IgzQGOfEExzrkQclnt3JQ) | [Farouk Sen](https://open.spotify.com/artist/3TT4bOipuMdmB6MOr9RlRh), [Abdellah Stitou](https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK) | [Hammouda](https://open.spotify.com/album/2n66xZ8ZBgZryfMv8GwBMH) | 2:31 |
+| 31 | [Come Find Me](https://open.spotify.com/track/3Df0XGXVpGWCSm3uMmpqle) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Come Find Me](https://open.spotify.com/album/7jZ4pnFqXPXoTJapHRd1CV) | 2:01 |
 | 32 | [MAYBE](https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm) | [Khaleeji Blonde](https://open.spotify.com/artist/7CQ4LU9FOCvhabssN8fbYt), [REDD Nine](https://open.spotify.com/artist/3RZ8kpxXH8uKpzQI6Rt1pt) | [MAYBE](https://open.spotify.com/album/6Pxc7DoXnVBuHvFBcBODPJ) | 3:03 |
 | 33 | [Afkar Galbi](https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR) | [Ghada Sheri](https://open.spotify.com/artist/7c1eMleZFWsvk2Z0PCrai0) | [Afkar Galbi](https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk) | 4:32 |
 | 34 | [دنیا](https://open.spotify.com/track/3DZh4G7frGfIp4z4qRBew9) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [دنیا](https://open.spotify.com/album/3xppr5g8VXteFX9DQGzizx) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Hold On](https://open.spotify.com/track/25xfmkU1otdXjgVfVwQR8i) | [Riiiiko](https://open.spotify.com/artist/6XbUbADSRCbfgMjYrPGfbN), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa) | [Hold On](https://open.spotify.com/album/1VOPosTnkaFRJLTpfNh9MF) | 2:34 |
 | 50 | [On Sight](https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [On Sight](https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368) | 3:17 |
 
-Snapshot ID: `MTY2NDkyNDQwMCwwMDAwMDAwMDMxY2EzZmQyOTY5MjM3OGYwMjAyYzdmZmQ1ZmQ1Y2Zh`
+Snapshot ID: `MTY2NTA5NjIyOSwwMDAwMDAwMDU0ZWJiY2QyMTRlNGYzY2EzOTVjMTE2MjFkYjUwNWUz`

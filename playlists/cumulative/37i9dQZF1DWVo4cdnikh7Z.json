@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 242019,
       "name": "Dhoom Dhaam",
       "url": "https://open.spotify.com/track/03CC6SSI9i2E8BG3f1MvEs"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 242019,
       "name": "Dhoom Dhaam (From \"Dasara\")",
       "url": "https://open.spotify.com/track/1Fs00ueR7iu8mTUATCDGbB"
@@ -1455,6 +1455,32 @@
       "duration_ms": 274477,
       "name": "Dhooram",
       "url": "https://open.spotify.com/track/7zt9YvDQDrJBdHGvNZ4hNX"
+    },
+    {
+      "album": {
+        "name": "Ratchan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2g0FGxLQUfN7WpBCSqznsH"
+      },
+      "artists": [
+        {
+          "name": "Mark K Robin",
+          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "KSR",
+          "url": "https://open.spotify.com/artist/2tojFy19VoFeFJud9Wvain"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222620,
+      "name": "Dhooram Pona",
+      "url": "https://open.spotify.com/track/1H9eXVNViwIEQkOWVJ6w9F"
     },
     {
       "album": {
@@ -6013,6 +6039,32 @@
       "duration_ms": 192322,
       "name": "Thoovi Thoovi",
       "url": "https://open.spotify.com/track/0hCUSLgkgQcd7zoTVdF3Ss"
+    },
+    {
+      "album": {
+        "name": "Thotta Load Aage Waiting (From \"Laththi\")",
+        "url": "https://open.spotify.com/album/7fJUZCBsdq5xuhTgtkFPu2"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "MC Vickey",
+          "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
+        },
+        {
+          "name": "Durai",
+          "url": "https://open.spotify.com/artist/4JczPNG9WBzHsuxs6X4qF0"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198971,
+      "name": "Thotta Load Aage Waiting - From \"Laththi\"",
+      "url": "https://open.spotify.com/track/5K6JpLRCdbIQigdJp2jFWQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-368 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+369 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,13 @@
 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 | 2022-09-30 |  |
 | [Amorestream](https://open.spotify.com/track/36Pq4Q9JAmPrrKVXcOypEM) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Amorestream](https://open.spotify.com/album/046EjpYevPhRy74d8c9y5T) | 4:09 | 2022-07-01 | 2022-07-26 |
 | [Amuleto](https://open.spotify.com/track/6EAN9mfCYKzQx4AWoKhNJT) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/3Tu4K48pBVeOWJI65Te4jy) | 3:34 | 2022-06-03 | 2022-07-19 |
-| [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 |  |
+| [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 | 2022-10-07 |
 | [Ariel](https://open.spotify.com/track/4SFBLZPnrpIJJN5CDuJIKF) | [Tripulación de Osos](https://open.spotify.com/artist/3HpM2k1tJNzverenUeTj0l) | [Ariel](https://open.spotify.com/album/3Gi0izlniY0VMiR5Kybldn) | 3:32 | 2022-07-01 | 2022-07-27 |
 | [Astros](https://open.spotify.com/track/6jt1P2x8sjmh4oqABT6Qni) | [Lenguas Vivas](https://open.spotify.com/artist/5HyHc3I5ZThbCB1BWckosT) | [Astros](https://open.spotify.com/album/1RlCfBba89NET7V2tyvory) | 2:54 | 2022-07-01 | 2022-07-08 |
 | [Atlántida](https://open.spotify.com/track/6JCAu0nt4HFMAEvdFLHQvW) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Atlántida](https://open.spotify.com/album/7kWcGPdxlEhJk9liwvUPUF) | 4:03 | 2022-06-03 | 2022-07-28 |
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-06-03 | 2022-07-25 |
 | [Año Viejo](https://open.spotify.com/track/59kbsKYSbQmVOZDDBuDKAI) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [Año Viejo](https://open.spotify.com/album/78aEkXgwwwoEY6764Saus9) | 5:10 | 2022-07-01 | 2022-07-29 |
+| [Bailando tristes](https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Parcialmente nublado](https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4) | 3:04 | 2022-09-30 |  |
 | [Bajo las Sombras](https://open.spotify.com/track/2GLwpugztC0QylwpvtIbnB) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:46 | 2022-07-01 | 2022-07-12 |
 | [Baño de Sangre](https://open.spotify.com/track/3lLPcfcroqpDCZjdmJ4EBT) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Baño de Sangre](https://open.spotify.com/album/3zPf7FxukN1hfrpa1m4Cdb) | 2:40 | 2022-07-01 | 2022-07-27 |
 | [Berlín](https://open.spotify.com/track/2dvEMEPUednUH9Fo01HcXT) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Andyno Plex](https://open.spotify.com/artist/1v0Gf4vVNpD2tfOruHapzp) | [Berlín](https://open.spotify.com/album/4yajrPmBYJYZ4V2zpZVaVx) | 2:45 | 2022-06-03 |  |

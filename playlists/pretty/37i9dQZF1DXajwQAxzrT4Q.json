@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 22420,
+  "num_followers": 22494,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDE3YTcyYWI2MmJlMjA5ZDFlODg3NGU0Y2M2ZGY4ZTll",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDhiOWU1MzgyN2U3NDBiNDczNTZmMmRlODBhMzBkYjMy",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Chicago (Jersey Club)",
-        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 118256,
-      "name": "Chicago (Jersey Club)",
-      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 160016,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4WrPZ198RawgV8uMVwkYWU"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Chicago (Jersey Club)",
+        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 118256,
+      "name": "Chicago (Jersey Club)",
+      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Heartbroken Twenty Twenty",
-        "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
-      },
-      "artists": [
-        {
-          "name": "Mike Zombie",
-          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "Heartbroken Twenty Twenty",
-      "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Luhh Galore",
         "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
       },
@@ -899,6 +879,22 @@
       "duration_ms": 88302,
       "name": "Luhh Galore",
       "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "New Jersey Club EP",
+        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
+      },
+      "artists": [
+        {
+          "name": "DJ Tray",
+          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
+        }
+      ],
+      "duration_ms": 98208,
+      "name": "Nobody's Perfect - Original Mix",
+      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -919,18 +915,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "New Jersey Club EP",
-        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
+        "name": "Heartbroken Twenty Twenty",
+        "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
       },
       "artists": [
         {
-          "name": "DJ Tray",
-          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
+          "name": "Mike Zombie",
+          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         }
       ],
-      "duration_ms": 98208,
-      "name": "Nobody's Perfect - Original Mix",
-      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
+      "duration_ms": 171940,
+      "name": "Heartbroken Twenty Twenty",
+      "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "New Jersey Club vol.2",
-        "url": "https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW"
-      },
-      "artists": [
-        {
-          "name": "ClubHeadSLiiM",
-          "url": "https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Like This - Original Mix",
-      "url": "https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Award",
         "url": "https://open.spotify.com/album/577KGCdAfnAoAIu4MBUb3V"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 226225,
       "name": "Hula Hoop",
       "url": "https://open.spotify.com/track/6GvqVPaFlnIR1FMaBJrKk9"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "New Jersey Club vol.2",
+        "url": "https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW"
+      },
+      "artists": [
+        {
+          "name": "ClubHeadSLiiM",
+          "url": "https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Like This - Original Mix",
+      "url": "https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "New Jersey Club vol.2",
-        "url": "https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW"
-      },
-      "artists": [
-        {
-          "name": "ClubHeadSLiiM",
-          "url": "https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "I'm A Feak - Original Mix",
-      "url": "https://open.spotify.com/track/36R18vBB91woI7YHbEykdF"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Magnetic (Remixes)",
         "url": "https://open.spotify.com/album/3Kfgkz8I4XS2alTVzqMXab"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 180864,
       "name": "Magnetic - Remix",
       "url": "https://open.spotify.com/track/611DTJC3NW3ojN95CUPxef"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "New Jersey Club vol.2",
+        "url": "https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW"
+      },
+      "artists": [
+        {
+          "name": "ClubHeadSLiiM",
+          "url": "https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "I'm A Feak - Original Mix",
+      "url": "https://open.spotify.com/track/36R18vBB91woI7YHbEykdF"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1911,22 +1911,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Love Song (Remixes)",
-        "url": "https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu"
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5ejDnrOQ5Yb8qZhxrn5nBx"
       },
       "artists": [
         {
-          "name": "IV JAY",
-          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
-        },
-        {
-          "name": "TrillzAL",
-          "url": "https://open.spotify.com/artist/4jovnMrcMoNDMhx8xLnp7A"
+          "name": "BR33ZY",
+          "url": "https://open.spotify.com/artist/2UXvoavIi2SaWRY7A1vgcq"
         }
       ],
-      "duration_ms": 142528,
-      "name": "Love Song - TrillzAL Jersey Edit",
-      "url": "https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx"
+      "duration_ms": 139026,
+      "name": "POP",
+      "url": "https://open.spotify.com/track/6ZvZtgdc38dTaQ74WB9qUr"
     }
   ],
   "unique_name": "Jersey Club Heat",

@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 127265,
+  "num_followers": 127407,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMDkzNGMxNWVkMzFjYWY1ZTcwY2IxYzY4MzNlZjM3Yjcx",
+  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMGUzMzM4NDQ2ZjJhZGM4NzdkMTEzMDNkOWVjMTliMjlh",
   "tracks": [
     {
       "added_at": "2021-12-02 09:05:08",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Magnetic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Scars & Stories",
         "url": "https://open.spotify.com/album/1Nu3r7EuveXog0rPvXExSF"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 220693,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2atYprr9JsQaLynGhrWhld"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Magnetic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz"
     },
     {
       "added_at": "2021-12-02 09:05:08",

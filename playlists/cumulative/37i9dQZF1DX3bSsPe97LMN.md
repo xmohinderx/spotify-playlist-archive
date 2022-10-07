@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Michelle Maciel en portada.
 
-130 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
+131 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [El Canelo](https://open.spotify.com/track/7Dz034bA0pM21kTDqTW1jM) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [El Canelo](https://open.spotify.com/album/4GvvGYS3KFaNqwh9UXnaP7) | 3:16 | 2022-06-24 | 2022-08-06 |
 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/19I7n3fJWbecNWpRUSuIjf) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 | 2022-04-01 | 2022-09-24 |
 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 | 2022-04-01 |  |
-| [El Chivo](https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [El Chivo](https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i) | 2:54 | 2022-08-05 |  |
+| [El Chivo](https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [El Chivo](https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i) | 2:54 | 2022-08-05 | 2022-10-07 |
 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 | 2022-06-24 |  |
 | [El Discovery](https://open.spotify.com/track/6osid8f2nLcVrpa1Xd0emE) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Alucinando](https://open.spotify.com/album/7d8UxNZot940zNdnbMRlQt) | 2:54 | 2022-06-24 | 2022-08-06 |
 | [El Dolido](https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [El Dolido](https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln) | 3:14 | 2022-02-23 |  |
@@ -127,6 +127,7 @@
 | [Una Linda Canción](https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Una Linda Canción](https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw) | 4:28 | 2022-09-30 |  |
 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 | 2022-06-07 | 2022-09-03 |
 | [Veneno Verde](https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN), [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Veneno Verde](https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi) | 2:35 | 2022-07-08 |  |
+| [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 | 2022-09-30 |  |
 | [Volví a Creer](https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Volví a Creer](https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC) | 3:10 | 2022-09-30 |  |
 | [Vuela y Vuela](https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Vuela y Vuela](https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l) | 3:01 | 2022-08-05 |  |
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2022-04-29 | 2022-09-24 |

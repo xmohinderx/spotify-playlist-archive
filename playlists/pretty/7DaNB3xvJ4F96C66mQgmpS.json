@@ -1,12 +1,12 @@
 {
   "description": "The best workout playlist is here. Listen to rap and electronic bangers from Nicki Minaj, DJ Snake, and more.",
-  "num_followers": 90049,
+  "num_followers": 90050,
   "original_name": "Workout Bangers",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTUwOSw5NzNiYzBlMGYwMTZiNzFhZmNiMDAwYTQwMjUyNWMyMzZiZDAzOTYz",
+  "snapshot_id": "MTUxMSwzMmUzZWI2ZDk1M2Q2MzhmMzNhMzZiMGQ3ZDU3N2RiMTQyMWY2NmI1",
   "tracks": [
     {
       "added_at": "2022-10-03 06:51:10",
@@ -507,6 +507,38 @@
       "duration_ms": 167526,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
+    },
+    {
+      "added_at": "2022-10-06 03:33:48",
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 363521,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
+    },
+    {
+      "added_at": "2022-10-06 03:33:48",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
     },
     {
       "added_at": "2022-10-03 06:51:10",

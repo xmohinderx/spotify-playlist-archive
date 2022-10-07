@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Christina Aguilera",
-  "num_followers": 56774,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Mati G\u00f3mez",
+  "num_followers": 56773,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzQ3MCw2ZWQyMGFmMjdlNmQ3NmMwNDE5YWUxMGE5OTY1MzM5NTZhNjhjYzk5",
+  "snapshot_id": "MzQ3MyxkZWExNTBhNDc3M2RiNzc1ZTZiMmViMzg4NTk2YzNiMWRjYjgzNTIy",
   "tracks": [
+    {
+      "added_at": "2022-10-06 23:06:41",
+      "album": {
+        "name": "Blocked",
+        "url": "https://open.spotify.com/album/54IDrgp6Q51TqIZAWHLHyW"
+      },
+      "artists": [
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        }
+      ],
+      "duration_ms": 159101,
+      "name": "Blocked",
+      "url": "https://open.spotify.com/track/7DjMz9ge9phQJlEjFYqgmw"
+    },
     {
       "added_at": "2022-09-30 04:08:55",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 283676,
       "name": "No Es Que Te Extra\u00f1e",
       "url": "https://open.spotify.com/track/4LhHpq9hWUNhhxQkrIpTXT"
+    },
+    {
+      "added_at": "2022-10-06 22:04:36",
+      "album": {
+        "name": "Una y Mil Veces",
+        "url": "https://open.spotify.com/album/7ixHyWCOz4NvKbHMLi1P8K"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 199968,
+      "name": "Una y Mil Veces",
+      "url": "https://open.spotify.com/track/2QFxZNTECGz7uGd7me4dzH"
     },
     {
       "added_at": "2022-09-30 04:39:26",

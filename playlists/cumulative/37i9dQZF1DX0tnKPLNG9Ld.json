@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 132144,
       "name": "Cocktails For Two",
       "url": "https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK"
@@ -658,6 +658,24 @@
     },
     {
       "album": {
+        "name": "April In Paris (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283293,
+      "name": "Didn't You",
+      "url": "https://open.spotify.com/track/1ST1NsO69sL7rUZKdrLeQz"
+    },
+    {
+      "album": {
         "name": "How Glad I Am",
         "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
       },
@@ -669,7 +687,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 133333,
       "name": "Don't Rain On My Parade",
       "url": "https://open.spotify.com/track/4mtgGu7EI1txi6GCmMsGZc"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 166280,
       "name": "Farmer's Market",
       "url": "https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 147200,
       "name": "Four Brothers",
       "url": "https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 195106,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/3HYAO6bacg5rW3hVH2qoHF"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 215293,
       "name": "Sweet Georgia Brown",
       "url": "https://open.spotify.com/track/4zq2Rjnl5GOmVPUvZJwx0j"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 139906,
       "name": "This Time The Dream's On Me - Remastered",
       "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"

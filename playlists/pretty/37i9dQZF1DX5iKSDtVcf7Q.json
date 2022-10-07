@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 194443,
+  "num_followers": 194438,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDEzNjkyYWIwNWU3Mjg0YTEyNDY0YWFkMTU0NmFmNjUz",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGExMDgzYjUzNTU3ZmNhMjU4ODZiYzEyOThmNTM2NWFh",
   "tracks": [
     {
       "added_at": "2022-09-23 04:25:47",
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
     },
     {
-      "added_at": "2022-10-06 01:40:36",
+      "added_at": "2022-10-07 01:52:59",
       "album": {
         "name": "Ashley McBryde Presents: Lindeville",
         "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-23 04:25:47",
       "album": {
-        "name": "Grew Up On That (Quarantine Edition)",
-        "url": "https://open.spotify.com/album/6OaqgRfFDDPBbEdXvTmUxZ"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Grew Up On That",
-      "url": "https://open.spotify.com/track/1dwYdVvxMwMllDgwQuXMGs"
-    },
-    {
-      "added_at": "2022-09-23 04:25:47",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 246453,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
+    },
+    {
+      "added_at": "2022-09-23 04:25:47",
+      "album": {
+        "name": "Grew Up On That (Quarantine Edition)",
+        "url": "https://open.spotify.com/album/6OaqgRfFDDPBbEdXvTmUxZ"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "Grew Up On That",
+      "url": "https://open.spotify.com/track/1dwYdVvxMwMllDgwQuXMGs"
     },
     {
       "added_at": "2022-09-23 04:25:47",

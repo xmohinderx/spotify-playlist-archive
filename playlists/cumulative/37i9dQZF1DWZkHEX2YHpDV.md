@@ -4,7 +4,7 @@
 
 > Pop\-punk, emo, post\-hardcore, alternative \- it's whatever you want it to be\. Cover: nothing, nowhere
 
-820 songs - 1 day 19 hr 52 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+821 songs - 1 day 19 hr 55 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A Real Thing](https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [A Real Thing](https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn) | 3:35 | 2022-02-11 | 2022-04-12 |
 | [A Song For Dan](https://open.spotify.com/track/7yNGXJgbrWuDBuaw0epS6W) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Twenty](https://open.spotify.com/album/675XmEdhjSVOK5HT4gDQBe) | 4:59 | 2022-03-25 | 2022-04-12 |
 | [A Summer Song](https://open.spotify.com/track/7nCcB00RZZFD3BEAQMa4O3) | [Dusty Miller](https://open.spotify.com/artist/43iKuF1Cf7G4jp0N9mOnTP) | [A Summer Song](https://open.spotify.com/album/3AAnAmJWM9t1YkW9zS9U7d) | 3:22 | 2022-03-25 | 2022-04-11 |
-| [Act Like That](https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:03 | 2022-05-13 |  |
+| [Act Like That](https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:03 | 2022-05-13 | 2022-10-07 |
 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1) | 3:11 | 2021-12-10 |  |
 | [Adrenaline](https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 3:21 | 2021-12-10 | 2022-07-08 |
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/5xLv5i7u2e4uT3Ewgvkr8Z) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/album/69miU2ZUNDbOpyqUziOHFS) | 2:21 | 2022-04-15 | 2022-07-25 |
@@ -351,6 +351,7 @@
 | [I Hate Everybody \(feat\. Simple Plan\)](https://open.spotify.com/track/61LmjrYtevg8KjHjuV5Hs7) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [I Hate Everybody \(feat\. Simple Plan\)](https://open.spotify.com/album/0aL4qAIykP8kbzDzAaX1TA) | 3:12 | 2021-12-10 | 2022-07-28 |
 | [I Hope You're Happy](https://open.spotify.com/track/3hVsjwJWXLZDVi3SaOD7rU) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/3l2IrLIJKskE3AHZL1mMCU) | 2:59 | 2021-12-10 | 2022-07-29 |
 | [I Hope You're Okay](https://open.spotify.com/track/4skbVo76V7H7w02A8Ivtxx) | [Sunsleeper](https://open.spotify.com/artist/3KHHh4WVfyUa9ZwE63jdir) | [You Can Miss Something & Not Want It Back](https://open.spotify.com/album/51OZRo1WABZiBBVXgOEdns) | 3:41 | 2021-12-10 | 2022-06-22 |
+| [I Hope You’re Happy](https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 2:59 | 2022-09-30 |  |
 | [I Hope You’re Happy](https://open.spotify.com/track/4NDZlGtNiLIgFNkBgVhX9n) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You’re Happy](https://open.spotify.com/album/48M1E73JIiEgVpXKwppWLK) | 2:59 | 2022-07-08 | 2022-08-30 |
 | [I JUST REMEMBERED I HATE YOU](https://open.spotify.com/track/0u8Q67Ox09f2nUi6rRAd3G) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [YEAR OF THE DOG](https://open.spotify.com/album/5eSU3WEw7mMuCOEhk4cjNF) | 2:56 | 2021-12-10 | 2022-08-02 |
 | [I LIE TO ME](https://open.spotify.com/track/3vkccsA1oD7AmeTekqcGFe) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I Lie To Me](https://open.spotify.com/album/01F35E1FtRdjpYzmyPl3d9) | 2:48 | 2021-12-10 | 2022-02-12 |

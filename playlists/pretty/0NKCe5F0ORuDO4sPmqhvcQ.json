@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwMDYsMjZiYzU5NjIxNTdlNzBkNDczZTUyZTI1ZDkwYjgwNGJjNWQ1OWQ2Ng==",
+  "snapshot_id": "MTAwMDcsMmM2MDcwNDBkZWJjNWVjZTlmMTNiM2M2MzE4ZTBhODcwOGI2ZTY2Mg==",
   "tracks": [
     {
       "added_at": "2022-09-22 15:02:05",
@@ -86,6 +86,10 @@
         {
           "name": "WOBBLEBUG",
           "url": "https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
       "duration_ms": 177250,
@@ -1979,6 +1983,26 @@
       "duration_ms": 216333,
       "name": "I Kill Everything",
       "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
+    },
+    {
+      "added_at": "2022-10-06 20:33:20",
+      "album": {
+        "name": "Scandalous (with Tinashe)",
+        "url": "https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 159252,
+      "name": "Scandalous (with Tinashe)",
+      "url": "https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq"
     }
   ],
   "unique_name": "Moving Castle Monthly",

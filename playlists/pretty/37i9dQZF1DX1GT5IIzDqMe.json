@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 68996,
+  "num_followers": 69046,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGEwZTg2YzQ4MDMyMDc0MWZjYTEzYzQ0Yjk5MzkwNDE2",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGE2NjZjMjQ0NjdkZjE5NGEzN2M4ZThjMDg5Y2E4NDVj",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "The Album Formerly Known As ...",
-        "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
-      },
-      "artists": [
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
-        }
-      ],
-      "duration_ms": 415759,
-      "name": "A Wonderful Life - Version",
-      "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Recycled Plastik",
         "url": "https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 555626,
       "name": "Spastik",
       "url": "https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "The Album Formerly Known As ...",
+        "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 415759,
+      "name": "A Wonderful Life - Version",
+      "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -503,6 +503,26 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 208818,
+      "name": "World Of Deep",
+      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "No Ufo's (Original Version)",
         "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
       },
@@ -515,22 +535,6 @@
       "duration_ms": 258933,
       "name": "No Ufo's - Vocal",
       "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
-      },
-      "artists": [
-        {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
-        }
-      ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -555,22 +559,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
       },
       "artists": [
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
         }
       ],
-      "duration_ms": 208818,
-      "name": "World Of Deep",
-      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2022-07-22 08:57:48",

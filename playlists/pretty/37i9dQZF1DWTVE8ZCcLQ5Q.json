@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421165,
+  "num_followers": 421161,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDY3N2Y2MTlkMmJhZGJmZTJjZTdmZjE3NjRiMWRkMWNl",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMGM3ZjBiZWRlOTkwMDI0Mzc2M2EzNmM2ZmRhNjM4NGRl",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 139644,
+      "name": "Festa do Pijama",
+      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 303550,
       "name": "Baile de M\u00e1scaras (Recarnaval)",
       "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 139644,
-      "name": "Festa do Pijama",
-      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
     },
     {
       "added_at": "2022-08-15 03:01:00",

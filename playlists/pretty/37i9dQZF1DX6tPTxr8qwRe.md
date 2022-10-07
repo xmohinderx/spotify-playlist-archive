@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Extra vicious, hard\-hitting pop\. This is SALT\. Cover: Zolita
+> Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,308 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,540 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 69 | [Women Don't Owe You Sh\*t](https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Women Don't Owe You Sh\*t](https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX) | 3:32 |
 | 70 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 |
 
-Snapshot ID: `MTY2NDg1NTQ1NywwMDAwMDAwMDBmNWExOWY0MWNlMGIxYTY1MzYwNjgzZDEzYjhlZmQ5`
+Snapshot ID: `MTY2NTA5NzU5NiwwMDAwMDAwMDUwZmIwMDE0MjA1YmNlM2Q4MjQ5Mzc1YmYyYzExNjMz`

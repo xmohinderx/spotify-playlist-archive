@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 864983,
+  "num_followers": 865093,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDEyMzEwZjdjOGE0OTAyMTZiOTZjYjdjYTUwNWRiYjk5",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGI1NTI0YzI1YTE2MjU0NDJlYjZkOGUzOWRhNzIyM2Vj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Return of House Music",
-        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Elayna Boynton",
-          "url": "https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv"
-        }
-      ],
-      "duration_ms": 244302,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Arena",
         "url": "https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 206400,
       "name": "Arena",
       "url": "https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Return of House Music",
+        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Elayna Boynton",
+          "url": "https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv"
+        }
+      ],
+      "duration_ms": 244302,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 210017,
+      "name": "I Want U",
+      "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "I Admit It (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 220839,
       "name": "DAMN - Bonus Track",
       "url": "https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 210017,
-      "name": "I Want U",
-      "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 173413,
       "name": "Stars Tonight",
       "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -863,50 +863,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Blood For Mercy",
-        "url": "https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 168641,
-      "name": "In My Room (feat. Ty Dolla $ign & Tyga)",
-      "url": "https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 127900,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Came Up",
         "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
       },
@@ -935,6 +891,50 @@
       "duration_ms": 214929,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 127900,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Blood For Mercy",
+        "url": "https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 168641,
+      "name": "In My Room (feat. Ty Dolla $ign & Tyga)",
+      "url": "https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Kazu",
-          "url": "https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "Pop Off",
-      "url": "https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Rail Breaker (feat. Rico Act)",
         "url": "https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 225116,
       "name": "Rail Breaker (feat. Rico Act)",
       "url": "https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Kazu",
+          "url": "https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "Pop Off",
+      "url": "https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "O.G.",
-        "url": "https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv"
+        "name": "Animal Vegetable Mineral Pt. 1",
+        "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
       },
       "artists": [
         {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Foramic",
-          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
         }
       ],
-      "duration_ms": 170000,
-      "name": "O.G.",
-      "url": "https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL"
+      "duration_ms": 249600,
+      "name": "Flying Spaghetti Monster",
+      "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Animal Vegetable Mineral Pt. 1",
-        "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
+        "name": "O.G.",
+        "url": "https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv"
       },
       "artists": [
         {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Foramic",
+          "url": "https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Flying Spaghetti Monster",
-      "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
+      "duration_ms": 170000,
+      "name": "O.G.",
+      "url": "https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Wobble",
-        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Wobble",
-      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Lions (Doctor P Remix)",
         "url": "https://open.spotify.com/album/7xWxGshK3ogleWUz6WvnkL"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 273600,
       "name": "Lions - Doctor P Remix",
       "url": "https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Wobble",
+        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Wobble",
+      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Twitter",
-        "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Syaqish",
-          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
-        }
-      ],
-      "duration_ms": 165350,
-      "name": "Twitter",
-      "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "MINDDD",
         "url": "https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 198000,
       "name": "Matangi",
       "url": "https://open.spotify.com/track/6tNgb8wC2bRSUDkb3biccy"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Twitter",
+        "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Syaqish",
+          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
+        }
+      ],
+      "duration_ms": 165350,
+      "name": "Twitter",
+      "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1971,22 +1971,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "PHASE III",
-        "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "OG Maco",
-          "url": "https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Mumbai Mode",
-      "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     }
   ],
   "unique_name": "Trap Mojito",

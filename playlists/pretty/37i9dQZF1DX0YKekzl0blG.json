@@ -1,15 +1,15 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
-  "num_followers": 641144,
+  "num_followers": 641247,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2NTI4NiwwMDAwMDAwMDljNzY2NjI5Nzc0MjRhZDZhN2UwOTRkYTUzNjU2NDBi",
+  "snapshot_id": "MTY2NDQ2NTI4NiwwMDAwMDAwMDQ0NmU0YzA1ZGE0NWUwMDdlMGZiYzRkZWJjNTFkYTc0",
   "tracks": [
     {
-      "added_at": "2022-10-06 01:31:22",
+      "added_at": "2022-10-07 01:42:36",
       "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
     },
     {
-      "added_at": "2022-10-06 01:31:22",
+      "added_at": "2022-10-07 01:42:36",
       "album": {
         "name": "Travelling Like The Light",
         "url": "https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
-      "added_at": "2022-10-06 01:31:22",
+      "added_at": "2022-10-07 01:42:36",
       "album": {
         "name": "Fefe Dobson",
         "url": "https://open.spotify.com/album/12PDdl6duI4nUZJZzQuNdK"
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-11-15 21:20:03",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
-    },
-    {
-      "added_at": "2021-11-15 21:20:03",
-      "album": {
         "name": "Everything All The Time",
         "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 322173,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
+    },
+    {
+      "added_at": "2021-11-15 21:20:03",
+      "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
     },
     {
       "added_at": "2021-11-15 21:20:03",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-11-15 21:20:03",
       "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
-    },
-    {
-      "added_at": "2021-11-15 21:20:03",
-      "album": {
         "name": "Yours Truly, Angry Mob (Deluxe)",
         "url": "https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 202800,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g"
+    },
+    {
+      "added_at": "2021-11-15 21:20:03",
+      "album": {
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
     },
     {
       "added_at": "2021-11-15 21:20:03",

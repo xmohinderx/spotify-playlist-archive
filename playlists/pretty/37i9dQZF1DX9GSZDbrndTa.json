@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 65712,
+  "num_followers": 65778,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDQ5NDYwMzE3MTkyMjExMGIxOGNmYjM1YTE1MjUzYTAz",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDVmMDhlMzcxZGQxN2MzYzU1OWExNTQ5N2MwMzZlZDQ3",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -451,6 +451,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Blues In The Closet",
+        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Blues In The Closet",
+      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "The Freelance Years",
         "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 297493,
       "name": "Birks' Works",
       "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Blues In The Closet",
-        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Blues In The Closet",
-      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
     },
     {
       "added_at": "2020-10-12 18:15:54",

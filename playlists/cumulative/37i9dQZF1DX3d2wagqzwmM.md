@@ -4,7 +4,7 @@
 
 > Big rooms with big sounds\. Cover: Quintino
 
-196 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+197 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Battlefield](https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj) | 3:00 | 2022-04-14 | 2022-07-29 |
 | [Battlefield](https://open.spotify.com/track/6b0FcvPP7M5EETtkmz1yQB) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/3lxyMjsVcDWkpuLuiYdnH2) | 3:00 | 2022-07-28 |  |
 | [Beat Of My Heart](https://open.spotify.com/track/5lHKO6KzDJELesoxLFiASz) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [Beat Of My Heart](https://open.spotify.com/album/3bHtXH4CzjDyT4XboPlwPo) | 2:41 | 2022-04-21 | 2022-07-28 |
-| [Beat Of My Heart](https://open.spotify.com/track/6IHQczMpJmWnNIKijtKHY1) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [Beat Of My Heart](https://open.spotify.com/album/0jTrfHAkabTrkRUS9EjaGS) | 2:41 | 2022-09-15 |  |
+| [Beat Of My Heart](https://open.spotify.com/track/6IHQczMpJmWnNIKijtKHY1) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [Beat Of My Heart](https://open.spotify.com/album/0jTrfHAkabTrkRUS9EjaGS) | 2:41 | 2022-09-15 | 2022-10-07 |
 | [BED \- David Guetta Festival Mix](https://open.spotify.com/track/5z6jkLZ698f5SmQa4s189t) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED \(David Guetta Festival Mix\)](https://open.spotify.com/album/2g7TH4pjOmA7jcfPi24m2H) | 3:55 | 2022-04-14 | 2022-06-24 |
 | [Believe](https://open.spotify.com/track/3KckvunLh7ppfXqzl0P8AT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Believe](https://open.spotify.com/album/5j8FYbyJOB1ppcDdtqou6N) | 2:54 | 2022-09-22 |  |
 | [BLACK MAGIC](https://open.spotify.com/track/0MAmBZVV9a6bdeiBPZXSW9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/7wFHTmHUtg2OL02ADttmT9) | 4:05 | 2022-05-05 | 2022-05-13 |
@@ -176,6 +176,7 @@
 | [Switch Back](https://open.spotify.com/track/1M0hRg4ccFGMqi00ITrxNv) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Switch Back](https://open.spotify.com/album/5b6uOk8B0jOexZIOqOrt3x) | 2:45 | 2022-04-14 |  |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-21 | 2022-05-01 |
 | [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 | 2022-09-01 |  |
+| [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-10-06 |  |
 | [The Age Of Rave](https://open.spotify.com/track/0MJrPeuSXdHBPfsoaaFEIG) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Age Of Rave](https://open.spotify.com/album/5Xb58SF94wdSAJd5iaA5KP) | 3:04 | 2022-05-26 |  |
 | [The Ashes](https://open.spotify.com/track/77TqubLV7jUg5fxvOCbjtM) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Ashes](https://open.spotify.com/album/1zdhuNHo4sdVF90RMtqVDG) | 4:11 | 2022-04-14 | 2022-05-29 |
 | [The Chase](https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [The Chase](https://open.spotify.com/album/2oR0zKDQpFKxWJjyHqrDpq) | 3:14 | 2022-07-28 | 2022-09-02 |

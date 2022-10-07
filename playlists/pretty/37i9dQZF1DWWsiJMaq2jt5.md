@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Marie, ZUZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,272 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,316 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HIDE AND SEEK](https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [HIDE AND SEEK](https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY) | 3:02 |
+| 1 | [HIDE AND SEEK](https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [HIDE AND SEEK](https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY) | 3:02 |
 | 2 | [Dziewczyna z tatuażem](https://open.spotify.com/track/2Vj7I6BgiUEsCOI2gZiY5Q) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Dziewczyna z tatuażem](https://open.spotify.com/album/4lk4BJI6KHPfgVW1Mb28Re) | 5:04 |
 | 3 | [Monika \- Radio Edit](https://open.spotify.com/track/22TZkqpbGsLvXaGiSWWso6) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Monika \(Radio Edit\)](https://open.spotify.com/album/3uSNZkFYfyl83R8LCKoCpF) | 3:07 |
 | 4 | [Nie tęsknię za nikim](https://open.spotify.com/track/4f7JhNi9rPoSF4PpkTWrzc) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Nie tęsknię za nikim](https://open.spotify.com/album/1t0kkJS2Db4pvc84wZtK1Q) | 1:45 |

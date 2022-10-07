@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Jacobo Velez & La Mambanegra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,818 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,843 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 38 | [Relación Formal](https://open.spotify.com/track/5FNSSPBwuSanOh2bPHEZUN) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn), [Mane de la Parra](https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck) | [Relación Formal](https://open.spotify.com/album/1TGdbTXd1qVAN332K1F0eD) | 3:26 |
 | 39 | [Nostalgias](https://open.spotify.com/track/1yipCWDdzYsU7vHR6B49ZN) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Nostalgias](https://open.spotify.com/album/6EPsgLYdUjDUY2FDFDGTno) | 4:31 |
 | 40 | [Una Cerveza \- Remix](https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Una Cerveza \(Remix\)](https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G) | 3:16 |
-| 41 | [Ya Me Contaron](https://open.spotify.com/track/3iXBJFCgER31zBfwyfWnUx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/0WrPTpiIgKioi7arRnTmJB) | 2:38 |
+| 41 | [Ya Me Contaron](https://open.spotify.com/track/70dc2zS1YS8YBeBGJLH3TA) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/6wm12GSDilR8IlPZGSmo8A) | 2:38 |
 | 42 | [Me Sobrabas Tú](https://open.spotify.com/track/4dcuxjWUy2QGhF36vKiOEP) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Me Sobrabas Tú](https://open.spotify.com/album/0mfh4oJ9ROwOwQ3cBdh9Et) | 3:06 |
 | 43 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
 | 44 | [Catalina \- Remix](https://open.spotify.com/track/4c1xBl7NISQ6okmlTWYfzx) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Catalina \(Remix\)](https://open.spotify.com/album/0A2ZoNOn5il12wtkl4P7lk) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Al Fin Del Mundo](https://open.spotify.com/track/2EV1kEigBZrkywwVUWu056) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Al Fin Del Mundo](https://open.spotify.com/album/4G8iRkrp3wlnYrwyEm0MB4) | 2:39 |
 | 50 | [Ni Diabla Ni Santa](https://open.spotify.com/track/3hsuj2FuNZh9XSdVmFmusi) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Ni Diabla Ni Santa](https://open.spotify.com/album/2oUcalZThOmfHkwnkr47OZ) | 3:09 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDIxZTVkNDE5MTlmZDgyOTQ0ZjVhMWE5ODUxZWM1ZDA3`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMGIzODJlMzFkZDgxZjM1MjllMGJjMWM3YzYzMjFjMDFi`

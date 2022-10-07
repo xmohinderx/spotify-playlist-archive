@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Russell Dickerson, Ashley McBryde, Zac Brown Band and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,868 likes - 76 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,059 likes - 76 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 47 | [Sunny Side Up](https://open.spotify.com/track/4wEMmGavtNq8ry9qop7vS0) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Sunny Side Up](https://open.spotify.com/album/5wBdXNwLIAOESookG2o6Rm) | 2:28 |
 | 48 | [My Kinda Country](https://open.spotify.com/track/45vE1cFelwn5xT6dbdxrTm) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [My Kinda Country](https://open.spotify.com/album/2HoCUUfvCvQTNQALIQQUkA) | 3:04 |
 | 49 | [Hometown Home](https://open.spotify.com/track/5sJxxWWr073FXlYSRnPUJY) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [Hey Nice to Meet You](https://open.spotify.com/album/0t3EzZ7DPZ05TsjQBDEFGG) | 3:32 |
-| 50 | [You Could Break My Heart](https://open.spotify.com/track/2bAZn47QF9dbLZwCO2L1Ki) | [Huey Mack](https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [You Could Break My Heart](https://open.spotify.com/album/5LoNNu9Q7IXRvxGdho19UH) | 3:42 |
+| 50 | [You Could Break My Heart \(feat\. Lauren Weintraub\)](https://open.spotify.com/track/2bAZn47QF9dbLZwCO2L1Ki) | [Huey Mack](https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [You Could Break My Heart \(feat\. Lauren Weintraub\)](https://open.spotify.com/album/5LoNNu9Q7IXRvxGdho19UH) | 3:42 |
 | 51 | [1992](https://open.spotify.com/track/6hji7H4Z0BL2WJkxfwlyOp) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [1992](https://open.spotify.com/album/2HrhcZ6rsTLQs9Nm6lVAQ9) | 2:58 |
 | 52 | [Wreck Me Again](https://open.spotify.com/track/1kQ8IP5aHSDdUIp7HCpK8v) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [Wreck Me Again](https://open.spotify.com/album/2PsePlm42F6snkeiKiTFx4) | 3:38 |
 | 53 | [Wild West Woman](https://open.spotify.com/track/7wSmfa2OKfieWQ5hIc1Ak0) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Wild West Woman](https://open.spotify.com/album/43DcPmpLJOkAjf7oSprEhS) | 2:30 |

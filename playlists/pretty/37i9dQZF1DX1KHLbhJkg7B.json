@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 78370,
+  "num_followers": 78422,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgyNTI3MiwwMDAwMDAwMGJhMjk3MDYzNjg1OGZmZDVmMDQxNTk1MjI1MTZlMjhl",
+  "snapshot_id": "MTY2NDgyNTI3MiwwMDAwMDAwMDllNjdhODEyMGRkZTIxZmNjMGUzMmFhNGRiYTYyZTA0",
   "tracks": [
     {
       "added_at": "2022-10-03 19:27:52",
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+        "name": "Now That I've Found You: A Collection",
+        "url": "https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+      "duration_ms": 260800,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Now That I've Found You: A Collection",
-        "url": "https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs"
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
       "artists": [
         {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 260800,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20"
+      "duration_ms": 212666,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Let's All Help the Cowboys (Sing the Blues)",
-      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
-    },
-    {
-      "added_at": "2022-10-03 19:27:52",
-      "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 203538,
       "name": "I Wanna Dance With Somebody - Who Loves Me",
       "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
+    },
+    {
+      "added_at": "2022-10-03 19:27:52",
+      "album": {
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Let's All Help the Cowboys (Sing the Blues)",
+      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 320933,
-      "name": "Someone Like You - Piano Vocal",
-      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
-    },
-    {
-      "added_at": "2022-10-03 19:27:52",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 225000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
+    },
+    {
+      "added_at": "2022-10-03 19:27:52",
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "Someone Like You - Piano Vocal",
+      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
+        "name": "Make Me Want To",
+        "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
+    },
+    {
+      "added_at": "2022-10-03 19:27:52",
+      "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 218493,
       "name": "Footloose",
       "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
-    },
-    {
-      "added_at": "2022-10-03 19:27:52",
-      "album": {
-        "name": "Make Me Want To",
-        "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
-      },
-      "artists": [
-        {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
-        }
-      ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
-    },
-    {
-      "added_at": "2022-10-03 19:27:52",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2022-10-03 19:27:52",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2022-10-03 19:27:52",
-      "album": {
         "name": "Rachel Bradshaw",
         "url": "https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 192236,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa"
+    },
+    {
+      "added_at": "2022-10-03 19:27:52",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Lord, I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
+        "name": "Uncovered",
+        "url": "https://open.spotify.com/album/5hs99gvzSISGOEmncgy853"
       },
       "artists": [
         {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
         }
       ],
-      "duration_ms": 169317,
-      "name": "Lord, I Hope This Day Is Good",
-      "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
+      "duration_ms": 210013,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -1463,18 +1459,22 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Uncovered",
-        "url": "https://open.spotify.com/album/5hs99gvzSISGOEmncgy853"
+        "name": "Lord, I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
       },
       "artists": [
         {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS"
+      "duration_ms": 169317,
+      "name": "Lord, I Hope This Day Is Good",
+      "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Folsom Prison Blues - Spotify Singles",
-      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
-    },
-    {
-      "added_at": "2022-10-03 19:27:52",
-      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 186346,
       "name": "Wild And Blue",
       "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
+    },
+    {
+      "added_at": "2022-10-03 19:27:52",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Folsom Prison Blues - Spotify Singles",
+      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
     },
     {
       "added_at": "2022-10-03 19:27:52",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
+        "name": "Feeling Whitney",
+        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
+      },
+      "artists": [
+        {
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+        }
+      ],
+      "duration_ms": 217034,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
+    },
+    {
+      "added_at": "2022-10-03 19:27:52",
+      "album": {
         "name": "Outskirts of Heaven",
         "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
       },
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Re-Dunn",
-        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/21Z3B5PE2ocrIpKMduWPSr"
-    },
-    {
-      "added_at": "2022-10-03 19:27:52",
-      "album": {
         "name": "Acoustic Covers (Deluxe)",
         "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2022-10-03 19:27:52",
       "album": {
-        "name": "Flower Shops",
-        "url": "https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW"
+        "name": "Re-Dunn",
+        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
       },
       "artists": [
         {
-          "name": "Lindsay James",
-          "url": "https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz"
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
         }
       ],
-      "duration_ms": 214684,
-      "name": "Flower Shops",
-      "url": "https://open.spotify.com/track/5H51cBWdVVStrUl5ymGeqa"
+      "duration_ms": 217253,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/21Z3B5PE2ocrIpKMduWPSr"
     }
   ],
   "unique_name": "Country Covers",

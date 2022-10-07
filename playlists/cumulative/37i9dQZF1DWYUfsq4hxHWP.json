@@ -5452,6 +5452,24 @@
     },
     {
       "album": {
+        "name": "Glory Daze",
+        "url": "https://open.spotify.com/album/6lv2AerZEW7LTMuyWmb0lk"
+      },
+      "artists": [
+        {
+          "name": "Rachel McIntyre Smith",
+          "url": "https://open.spotify.com/artist/1z8eldHhK2nqKa26VIcJde"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208632,
+      "name": "Glory Daze",
+      "url": "https://open.spotify.com/track/4utY2OiOSNIsf2R3ndhuqk"
+    },
+    {
+      "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/32AvenUw700HfE0dXOGsge"
       },

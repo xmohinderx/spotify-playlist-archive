@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Druhh e Drehh",
-  "num_followers": 60700,
+  "num_followers": 60871,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0ODAyNiwwMDAwMDAwMDlkNjdhZmI0MWM5YzlmY2JkNjkzN2I4NmE3ZTFjOWY3",
+  "snapshot_id": "MTY2NDU0ODAyNiwwMDAwMDAwMDhkMzc1ZjlmZmQyNWUyMzA4NGQxYjhkMmFlM2E0ZjEz",
   "tracks": [
     {
       "added_at": "2022-09-30 14:27:06",
@@ -431,34 +431,6 @@
     {
       "added_at": "2022-09-30 14:27:06",
       "album": {
-        "name": "Hugo Boss",
-        "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Gabb MC",
-          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Hugo Boss",
-      "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
-    },
-    {
-      "added_at": "2022-09-30 14:27:06",
-      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
       },
@@ -483,6 +455,34 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
+    },
+    {
+      "added_at": "2022-09-30 14:27:06",
+      "album": {
+        "name": "Hugo Boss",
+        "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Hugo Boss",
+      "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
     },
     {
       "added_at": "2022-09-30 14:27:06",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-30 14:27:06",
       "album": {
-        "name": "Progresso",
-        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Progresso",
-      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
-    },
-    {
-      "added_at": "2022-09-30 14:27:06",
-      "album": {
         "name": "Corte do Jaca",
         "url": "https://open.spotify.com/album/6ZQNfwK2DagQENxZhXkuOj"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 152812,
       "name": "Corte do Jaca",
       "url": "https://open.spotify.com/track/2a2GuHAYjmIVAPVaG9Nh7u"
+    },
+    {
+      "added_at": "2022-09-30 14:27:06",
+      "album": {
+        "name": "Progresso",
+        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Progresso",
+      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
     },
     {
       "added_at": "2022-09-30 14:27:06",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-09-30 14:27:06",
       "album": {
+        "name": "Animais Traidores",
+        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "VEGA",
+          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Animais Traidores",
+      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
+    },
+    {
+      "added_at": "2022-09-30 14:27:06",
+      "album": {
         "name": "Panamera",
         "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 157777,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
-    },
-    {
-      "added_at": "2022-09-30 14:27:06",
-      "album": {
-        "name": "Animais Traidores",
-        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "VEGA",
-          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Animais Traidores",
-      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
     },
     {
       "added_at": "2022-09-30 14:27:06",

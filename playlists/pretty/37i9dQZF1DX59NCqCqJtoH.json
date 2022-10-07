@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 936325,
+  "num_followers": 938537,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk3NTQzNywwMDAwMDAwMDQwYzgyMTVjNjU0NWU0Yzg3NjVmMjRkYjliNWRkYmVj",
+  "snapshot_id": "MTY2NDk3NTQzNywwMDAwMDAwMGJiNWUxOTVkZDc4ZmI1NzBhMTIxOGUyYjQ4Mjc0NWRk",
   "tracks": [
     {
       "added_at": "2022-09-19 20:15:53",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 227031,
-      "name": "drunk",
-      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+      "duration_ms": 227031,
+      "name": "drunk",
+      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 126824,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "Not a Home",
+        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Not a Home",
+      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "tell me your feelings and i won't tell you mine",
         "url": "https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 187500,
       "name": "snowflake (feat. Jaden & Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "Not a Home",
-        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
-      },
-      "artists": [
-        {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Not a Home",
-      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+      },
+      "artists": [
+        {
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Bad Idea",
         "url": "https://open.spotify.com/album/7nC6jmFJ2jpycTEgeu9a4J"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 114108,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/4Z0qEl50Xg5oHY1T6XZpQX"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
-      },
-      "artists": [
-        {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Safe.",
-        "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Meow",
-          "url": "https://open.spotify.com/artist/3O7oOXK7KPniAPEUorctsi"
-        },
-        {
-          "name": "Shiloh",
-          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
-        }
-      ],
-      "duration_ms": 119089,
-      "name": "I Know You so Well",
-      "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 214455,
       "name": "I'm So Happy",
       "url": "https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
+        "name": "Safe.",
+        "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Meow",
+          "url": "https://open.spotify.com/artist/3O7oOXK7KPniAPEUorctsi"
+        },
+        {
+          "name": "Shiloh",
+          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
+        }
+      ],
+      "duration_ms": 119089,
+      "name": "I Know You so Well",
+      "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
       },
       "artists": [
         {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 157801,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0"
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
       },
       "artists": [
         {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+      "duration_ms": 157801,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0"
     },
     {
       "added_at": "2022-09-19 20:15:53",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Trashfire",
-      "url": "https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll"
-    },
-    {
-      "added_at": "2022-09-19 20:15:53",
-      "album": {
         "name": "Sick of Losing Soulmates",
         "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
+        "name": "The Devil And God Are Raging Inside Me",
+        "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "Jesus Christ",
+      "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
+    },
+    {
+      "added_at": "2022-09-19 20:15:53",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2022-09-19 20:15:53",
       "album": {
-        "name": "The Devil And God Are Raging Inside Me",
-        "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
       },
       "artists": [
         {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 318266,
-      "name": "Jesus Christ",
-      "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
+      "duration_ms": 171066,
+      "name": "Trashfire",
+      "url": "https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll"
     }
   ],
   "unique_name": "idk.",

@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4ctt7ZN6LoY2Brr7efh52M"
+      },
+      "artists": [
+        {
+          "name": "CHENDA",
+          "url": "https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269955,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1uDsU3oY2XBYGKMe0i7BLB"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f"
       },

@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- Brahmastra \- Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood favourites only on this playlist!
 
-191 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
+192 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Main Tumhara](https://open.spotify.com/track/2ZvWoJ82LKCgD0nU9H5ue5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 4:18 | 2020-07-27 | 2022-04-19 |
 | [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 | 2021-01-25\* | 2021-03-25 |
 | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx) | [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z) | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy) | 4:47 | 2020-01-20 | 2022-04-19 |
+| [Manike \(From "Thank God"\)](https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Manike \(From "Thank God"\)](https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3) | 3:17 | 2022-10-06 |  |
 | [Manja](https://open.spotify.com/track/6o1o5SVSqVPLKAnZxRQz4x) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Kai Po Che \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZCZAEzlu3GchXdbkR5qOY) | 3:37 | 2022-08-04 |  |
 | [Mann Bharryaa 2.0 \(From "Shershaah"\)](https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Mann Bharryaa 2.0 \(From "Shershaah"\)](https://open.spotify.com/album/37nWpT1gls52Tu6pymuPw3) | 4:26 | 2021-08-16 |  |
 | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/track/7LasZEDby0I9uVNUjED1yS) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/album/4msvzEOis0kGxDHn2ZaQQx) | 3:32 | 2021-01-25\* | 2021-08-27 |

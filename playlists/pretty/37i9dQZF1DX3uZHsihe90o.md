@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,369 likes - 70 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,421 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 24 | [I've Been Workin' on the Railroad \(feat\. Niall de Burca and John Wood\)](https://open.spotify.com/track/6x28Wyl6aWusAfnywEyBIl) | [Dan Crow](https://open.spotify.com/artist/1EQSKxGMjwQWCo6QqBwt4p), [Niall de Burca](https://open.spotify.com/artist/71oI8ewDCjuoKNQ3UIYP0e), [John Wood](https://open.spotify.com/artist/3pmgthLeZygjIItk1u5TTx) | [Sing\-a\-Ling with Friends](https://open.spotify.com/album/3GpgPqtCnQSV1Ng4EkGZKl) | 2:18 |
 | 25 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
 | 26 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:29 |
-| 27 | [Kind Words](https://open.spotify.com/track/5ivT7uNynzs2VJomWxlnMu) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through The Year \- A Little Wild Childhood](https://open.spotify.com/album/4KJd068CAuYYeiENNj7y1e) | 4:03 |
+| 27 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/42asoM3aOwxRsivZEKFEeI) | [David Landau](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) | [Kids and Kitties](https://open.spotify.com/album/5dO917ENOex3W1RnneH0wv) | 1:41 |
 | 28 | [Hello](https://open.spotify.com/track/6rkleD9KWx0iz0RTQYCfY7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:37 |
-| 29 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/42asoM3aOwxRsivZEKFEeI) | [David Landau](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) | [Kids and Kitties](https://open.spotify.com/album/5dO917ENOex3W1RnneH0wv) | 1:41 |
+| 29 | [Kind Words](https://open.spotify.com/track/5ivT7uNynzs2VJomWxlnMu) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through The Year \- A Little Wild Childhood](https://open.spotify.com/album/4KJd068CAuYYeiENNj7y1e) | 4:03 |
 | 30 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
 | 31 | [The Bullfrog Opera](https://open.spotify.com/track/40jZFJBVYMzxdEpMptacUM) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:01 |
 | 32 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 35 | [All the Pretty Little Horses](https://open.spotify.com/track/5HXDMlAhQDa991t1CSfcdO) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/3VgWRCn0IIHO9h3CADQw1W) | 2:16 |
 | 36 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 |
 | 37 | [Hope Machine](https://open.spotify.com/track/34bqUQ5NteJZjgpu5VW408) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:48 |
-| 38 | [My Country Tis of Thee](https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd) | 1:42 |
-| 39 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
+| 38 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
+| 39 | [My Country Tis of Thee](https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd) | 1:42 |
 | 40 | [Family Time](https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 4:20 |
 | 41 | [Bought Me a Cat](https://open.spotify.com/track/3SbOjVO4kaVgh3JxGaTMaB) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Animal Songs](https://open.spotify.com/album/0wjCa0rFSpQXadjEK2MIjs) | 2:36 |
 | 42 | [Home on the Range](https://open.spotify.com/track/1MAXtir2OgyGQKfQAxDK6c) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:35 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 67 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/30DiNVMuWhBwU24K16dk39) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 1:54 |
 | 68 | [Goober Peas](https://open.spotify.com/track/046AO6ZBgRPwA52YufDUIx) | [Arthur Smith](https://open.spotify.com/artist/4a73lr7ZzVCTFqy6d7sHc7) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:53 |
 | 69 | [Old Dan Tucker](https://open.spotify.com/track/1ZLcb3xbst0LEkwinZ7R3Y) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [150 Toddler Favorites](https://open.spotify.com/album/0OFrQEiMbjQvgBiQ9iYXa8) | 1:02 |
-| 70 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 |
+| 70 | [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 |
 
-Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMDBiMzc5YmEzNGZhZmRiMDA3NzZmMWU0YzFiZTMxNTZl`
+Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMGY2OTNjYTEyZDlmNDlhODJmNzYzZjEyY2JkMjBjZDJl`

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 31893,
+  "num_followers": 31968,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4NzE3OCwwMDAwMDAwMDRjNjk5YzRlYzU5OGRmMWVkOWQwOWJkMmVmNGY1MGQx",
+  "snapshot_id": "MTY2NDg4NzE3OCwwMDAwMDAwMDk1YWVhYTMyMTY3MDFlMjU0YmQ2MTdmNGJmZDg5MTJj",
   "tracks": [
     {
       "added_at": "2022-10-04 12:39:38",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 319333,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Canned Heat",
         "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 191093,
       "name": "Rollin' And Tumblin'",
       "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 319333,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
-        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 112600,
-      "name": "I Hear You Knocking - Remastered 2002",
-      "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Texas Cannonball",
         "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 239133,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
+        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 112600,
+      "name": "I Hear You Knocking - Remastered 2002",
+      "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
     },
     {
       "added_at": "2022-10-04 12:39:38",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "The Very Best Of Albert King",
-        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 154813,
-      "name": "Crosscut Saw",
-      "url": "https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Singin' The Blues",
         "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-04 12:39:38",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
-    },
-    {
-      "added_at": "2022-10-04 12:39:38",
-      "album": {
         "name": "Blues From The Gutter",
         "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 236360,
       "name": "Stack-O-Lee",
       "url": "https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD"
+    },
+    {
+      "added_at": "2022-10-04 12:39:38",
+      "album": {
+        "name": "The Very Best Of Albert King",
+        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 154813,
+      "name": "Crosscut Saw",
+      "url": "https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke"
     },
     {
       "added_at": "2022-10-04 12:39:38",

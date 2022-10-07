@@ -4,7 +4,7 @@
 
 > take over the aux cord and scream sing down Broadway
 
-125 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/7EiBtGZmlpvFcE8sLPd28j)
+126 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/7EiBtGZmlpvFcE8sLPd28j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Drunk Girls Don't Cry](https://open.spotify.com/track/5zpZxvuwfG7IXZ2s6iT8CN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:31 | 2022-04-13 |  |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2022-06-06 | 2022-10-06 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2022-04-13 | 2022-07-29 |
-| [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/28dBFTWUPlrYazMHWBkUmp) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Classic Halloween Hits](https://open.spotify.com/album/0VMOOJvuloNJH4zojPtMvh) | 3:45 | 2022-09-23 |  |
+| [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/28dBFTWUPlrYazMHWBkUmp) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Classic Halloween Hits](https://open.spotify.com/album/0VMOOJvuloNJH4zojPtMvh) | 3:45 | 2022-09-23 | 2022-10-07 |
+| [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/2PiJWbeDHT33QY0uYDrL83) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Spooky Halloween Hits](https://open.spotify.com/album/2c3LBDNnptvWquptllUuyq) | 3:45 | 2022-09-23 |  |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2022-04-13 | 2022-07-29 |
 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2022-06-06 |  |
 | [Fishin' in the Dark](https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs) | 3:22 | 2022-04-13 | 2022-07-29 |

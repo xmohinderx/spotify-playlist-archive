@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-88 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
+89 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Sonny Parker](https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:42 | 2021-12-21 |  |
 | [Carol Of The Bells](https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Christmas Time Is Here](https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y) | 3:57 | 2021-12-21 |  |
 | [Caroling, Caroling](https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:01 | 2022-09-27 |  |
-| [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 | 2021-12-21 |  |
+| [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 | 2021-12-21 | 2022-10-07 |
 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 | 2022-09-27 |  |
 | [Christmas Is Coming](https://open.spotify.com/track/4YSSB7ZtqVnbsxybS5NHJC) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 3:25 | 2021-12-21 | 2022-09-18 |
 | [Christmas Is Coming](https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 3:25 | 2022-09-16 |  |
@@ -29,6 +29,7 @@
 | [Christmas Night In Harlem](https://open.spotify.com/track/332PGtU23efyGgyilfneG8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:39 | 2021-12-21 | 2022-07-29 |
 | [Christmas Night In Harlem](https://open.spotify.com/track/1oE2ZJOWfLrKU8R18OzFrI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:42 | 2022-01-03 |  |
 | [Christmas Time All Over the World](https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Christmas Jazz With The Stars](https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY) | 2:34 | 2021-12-21 | 2022-10-04 |
+| [Christmas Time All Over the World](https://open.spotify.com/track/6o3s3bTNZnBdRgdBOQhB9k) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Best Christmas Ever](https://open.spotify.com/album/120EmRXSkzLW49alWW7R59) | 2:34 | 2022-09-27 |  |
 | [Christmas Waltz \- Live](https://open.spotify.com/track/4NA7seRwfdJch5PyIP0fxt) | [David Benoit Trio](https://open.spotify.com/artist/5NxxiI9sRWMIQlDDrnxhvJ) | [Believe](https://open.spotify.com/album/4EpjnAXDD9dMwVnbxUAz2C) | 3:56 | 2021-12-21 | 2022-07-28 |
 | [Christmas Waltz \- Live](https://open.spotify.com/track/0EtRMZ87ocVPNElTsigWtJ) | [David Benoit Trio](https://open.spotify.com/artist/5NxxiI9sRWMIQlDDrnxhvJ), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Believe](https://open.spotify.com/album/3in4JMLDU4UAflQrIpyt16) | 3:56 | 2022-01-03 |  |
 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 | 2021-12-21 |  |

@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 276014,
       "name": "Bill Bailey",
       "url": "https://open.spotify.com/track/5d0EUzwVmcAt6x8m78sztI"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 135760,
       "name": "Blow, Gabriel",
       "url": "https://open.spotify.com/track/7igj33lnYQEsUKHXuPpXIY"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 175400,
       "name": "Can't Be Satisfied - Instrumental",
       "url": "https://open.spotify.com/track/65TO75TTJpRkVzvplOyCnl"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 137626,
       "name": "Coco Blues",
       "url": "https://open.spotify.com/track/0lBwR0hV88ZIw4iCzagqJX"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 182047,
       "name": "Cross And Evil Woman Blues",
       "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -581,6 +581,24 @@
       "duration_ms": 175680,
       "name": "He Never Has Left Me Alone",
       "url": "https://open.spotify.com/track/2FsPOo6hnxpbWvBNmxVoD6"
+    },
+    {
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110061,
+      "name": "He's My King",
+      "url": "https://open.spotify.com/track/5lyiTTO43ZkCVNi7aUdT7i"
     },
     {
       "album": {
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 172000,
       "name": "I Can't Bear My Burden By Myself",
       "url": "https://open.spotify.com/track/03iDpGZtb0pcEv5Y6aki2L"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 289134,
       "name": "I Will Do My Last Singing In This Land Somewhere - Live",
       "url": "https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "I'll Be All Right Some Day",
       "url": "https://open.spotify.com/track/6JGdOWfLkBMvGjv8ApMH72"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 225746,
       "name": "If the Lord Be for You",
       "url": "https://open.spotify.com/track/1BngS6U4fZ5gsQKbReI0iP"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 189906,
       "name": "Let Us Get Together Right Down Here",
       "url": "https://open.spotify.com/track/5cicntULcN9AtVoCu1fT4n"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 270933,
       "name": "Little Bitty Blues",
       "url": "https://open.spotify.com/track/3JYy9ZrrPgVtChNiciRa7t"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 258240,
       "name": "Lo, I Be With You Always",
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Mister Jim (Walkin' Dog Blues) - Instrumental",
       "url": "https://open.spotify.com/track/7y1rfJduBCRDaaeJ3El2pL"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 296480,
       "name": "People Who Use to See",
       "url": "https://open.spotify.com/track/1khQBzvLPhG83uJTgsLGHt"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Please Baby - Instrumental",
       "url": "https://open.spotify.com/track/4vp787isTelbuYgnkZcwGi"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 243600,
       "name": "Samson And Delilah",
       "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 181760,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 189293,
       "name": "The Angel's Message To Me",
       "url": "https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 210266,
       "name": "The Coon Hunt - Instrumental",
       "url": "https://open.spotify.com/track/699dNhyPOOfnmNVSBvDize"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 135347,
       "name": "Tired, My Soul Needs Resting",
       "url": "https://open.spotify.com/track/2TCraiyN2mGfjFM74Fzog4"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 206013,
       "name": "We Are the Heavenly Father's Children",
       "url": "https://open.spotify.com/track/51c4fGoPtzpwjtPOGeaAJ7"
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 156266,
       "name": "West Coast Blues (Blind Blake)",
       "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 209440,
       "name": "When I Die I'll Live Again",
       "url": "https://open.spotify.com/track/1HvEABbJqI7cujTto79yAH"
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 187559,
       "name": "You Can Go Home",
       "url": "https://open.spotify.com/track/6AqBgPjQXZYolTRG6vmn4M"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 198186,
       "name": "You Got To Go Down",
       "url": "https://open.spotify.com/track/0nPMAv8LxG6CxO4bkP0qi8"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 199160,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"

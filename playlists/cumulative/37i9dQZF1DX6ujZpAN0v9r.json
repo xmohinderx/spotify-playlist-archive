@@ -1269,7 +1269,7 @@
     {
       "album": {
         "name": "Lesser Matters",
-        "url": "https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC"
+        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
       },
       "artists": [
         {
@@ -1280,6 +1280,24 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 293160,
+      "name": "Keen on Boys",
+      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
+    },
+    {
+      "album": {
+        "name": "Lesser Matters",
+        "url": "https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
       "duration_ms": 293160,
       "name": "Keen on Boys",
       "url": "https://open.spotify.com/track/1SbeUtO3YCeSGccurWHHBP"

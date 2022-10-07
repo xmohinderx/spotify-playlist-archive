@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Rina Sawayama
 
-753 songs - 1 day 17 hr 27 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+755 songs - 1 day 17 hr 33 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,9 +256,10 @@
 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 | 2022-08-03 | 2022-09-09 |
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2022-02-02 | 2022-03-09 |
 | [heartache in july](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 | 2022-08-03 | 2022-09-09 |
+| [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 | 2022-10-04 |  |
 | [Heartbreak Culture](https://open.spotify.com/track/4MMJbS1RLxovnQ7KWrD9ro) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Heartbreak Culture](https://open.spotify.com/album/4tBMHWT12lc9PX4xNloyz7) | 3:08 | 2022-09-07 | 2022-10-05 |
 | [Hey Linda](https://open.spotify.com/track/5qhvuxqKZvU3C5kNA4K9U5) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sakidila](https://open.spotify.com/album/7AztWWBX82cp2yrqajfddM) | 3:17 | 2022-04-06 | 2022-05-05 |
-| [HIDE AND SEEK](https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [HIDE AND SEEK](https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY) | 3:02 | 2022-10-04 |  |
+| [HIDE AND SEEK](https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [HIDE AND SEEK](https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY) | 3:02 | 2022-10-04 |  |
 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-02-02 | 2022-03-09 |
 | [HIGH RISK HIGH RETURN \(Feat\. Polodared\)](https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:09 | 2022-09-07 | 2022-10-05 |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2022-01-05 | 2022-04-07 |
@@ -513,6 +514,7 @@
 | [Qué Tal](https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Qué Tal](https://open.spotify.com/album/4ygfd1lPGeyflD5NtWR8AT) | 2:59 | 2022-04-06 | 2022-05-05 |
 | [Rain](https://open.spotify.com/track/1plLer6A3uu8SpNPJuepA0) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Neon Angel](https://open.spotify.com/album/0qDcxbWwJ1KN4P5NmzwnUt) | 3:56 | 2022-01-05 | 2022-02-03 |
 | [Raindrops \- Intl\. Version](https://open.spotify.com/track/6qL6L3DIkcdFBZnXiZOrBA) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Raindrops \(Intl\. Version\)](https://open.spotify.com/album/2zE8Y3n1xjtoAAvz1bQpym) | 2:20 | 2022-01-05 | 2022-02-03 |
+| [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 | 2022-10-04 |  |
 | [raznotsvetnaya](https://open.spotify.com/track/5FSCVRmdUhEBYtk6Add4wx) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [raznotsvetnaya](https://open.spotify.com/album/1eSUakepJzzyD2XUjY1KKh) | 3:05 | 2022-03-08 | 2022-04-07 |
 | [Ready, Let Go\. \- Songwriter’s Version](https://open.spotify.com/track/70MCD7juQnnJToj7OBySw5) | [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [Ready, Let Go\. \(Songwriter’s Version\)](https://open.spotify.com/album/5qBxuMEZJvtkpEWan9fPSj) | 4:48 | 2022-03-08 | 2022-04-07 |
 | [Rehne Dena Tha](https://open.spotify.com/track/2dZLTQPMdPVqX2DD252AND) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Rehne Dena Tha](https://open.spotify.com/album/2HkwDjkMnuVJ6SOgmj2SC0) | 3:25 | 2022-01-05 | 2022-02-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 310351,
+  "num_followers": 310444,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDk1YmJlZTUyY2ZkNmJjYmQ3YWM2ZDNjYjJmNjYwNjA4",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDIxNmNhM2Y1Y2Y1MzZmMWViMDU3NmVjZWE5MTk2ZWI2",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -315,6 +315,26 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Slow Jam (feat. Monica)",
+      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 239733,
       "name": "This Is for the Lover In You (feat. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels)",
       "url": "https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Slow Jam (feat. Monica)",
-      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
       },
       "artists": [
         {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
         }
       ],
-      "duration_ms": 281559,
-      "name": "What's Going On - Live At Spotify, NY/2012",
-      "url": "https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE"
+      "duration_ms": 296066,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K"
       },
       "artists": [
         {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
         }
       ],
-      "duration_ms": 296066,
-      "name": "Yearning For Your Love",
-      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
+      "duration_ms": 281559,
+      "name": "What's Going On - Live At Spotify, NY/2012",
+      "url": "https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE"
     },
     {
       "added_at": "2021-01-15 05:01:00",

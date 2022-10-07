@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 71265,
+  "num_followers": 71273,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDNkYWY0YWY5NjUyMGM1NDZjOGEwMjIwNGQwYzJlM2Jk",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDVlYmEwM2JmMDIyZTVmYjg1Y2FiMzZlYjBiNDEyZGUz",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -515,6 +515,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Never Have to Be Alone",
         "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "I Need A Word",
-      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
     },
     {
       "added_at": "2020-06-03 14:33:10",

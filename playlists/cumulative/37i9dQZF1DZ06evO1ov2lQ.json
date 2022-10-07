@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 107133,
       "name": "As the Sun Kissed the Horizon",
       "url": "https://open.spotify.com/track/7k1SYL49hsMcFgIPsG0FmO"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 304831,
       "name": "Baby Satellite",
       "url": "https://open.spotify.com/track/0TvD9dSrJQ0T3ZNJjLep9Y"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 308175,
       "name": "Black Lamb and Grey Falcon",
       "url": "https://open.spotify.com/track/0lhkLqfUNI2B4eCpsp12B8"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 363903,
       "name": "Decryption",
       "url": "https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 259706,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/5xgAiOzfGQIDB4H12rnFbL"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 198000,
       "name": "Faith and Reverence",
       "url": "https://open.spotify.com/track/5iPqoLslN6d14t7ZEeYHqu"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 398306,
       "name": "Iberia Eterea",
       "url": "https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 244000,
       "name": "In the Ballroom",
       "url": "https://open.spotify.com/track/1GPzqVAsIXsJfFZ2lUfn7U"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 350528,
       "name": "In Triple Time",
       "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 513650,
       "name": "Infinium",
       "url": "https://open.spotify.com/track/21UIeael82ah6ep6ED7Nd7"
@@ -961,6 +961,32 @@
       "duration_ms": 383000,
       "name": "Interval Signal",
       "url": "https://open.spotify.com/track/1WZcAa7lyALMxQHnq4mcCB"
+    },
+    {
+      "album": {
+        "name": "Nordheim Transformed",
+        "url": "https://open.spotify.com/album/30O89DMxubRNxxncKnFXdX"
+      },
+      "artists": [
+        {
+          "name": "Arne Nordheim",
+          "url": "https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME"
+        },
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        },
+        {
+          "name": "Deathprod",
+          "url": "https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413386,
+      "name": "Journey To The Centre Of The First, Pt. 1",
+      "url": "https://open.spotify.com/track/280pz3FHXp82OZzls1lyvH"
     },
     {
       "album": {
@@ -1055,7 +1081,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 432600,
       "name": "Kobresia",
       "url": "https://open.spotify.com/track/5O6MFTh1rd9PeN8XEn1yCS"
@@ -1207,7 +1233,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 161706,
       "name": "Monju-1",
       "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
@@ -1225,7 +1251,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 237893,
       "name": "Monju-2",
       "url": "https://open.spotify.com/track/5tHbDap6SZw6Ml49hJBmBt"
@@ -1369,7 +1395,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 251066,
       "name": "Poa Alpina",
       "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
@@ -1405,7 +1431,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 119367,
       "name": "Remote and Distant",
       "url": "https://open.spotify.com/track/4b3XA6TUvkff0vQxSNmXuX"
@@ -1423,7 +1449,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 480866,
       "name": "Sendai-1",
       "url": "https://open.spotify.com/track/222FcNSefEQFkhSHAr1vI0"
@@ -1495,7 +1521,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 314279,
       "name": "Shine on You Crazy Diamond - Club Mix",
       "url": "https://open.spotify.com/track/4NaZg0fRM2K9uKqPd4oy86"
@@ -1571,7 +1597,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 347640,
       "name": "Sphere of No Form",
       "url": "https://open.spotify.com/track/1sTEwlABqphttrrXoUUeqE"
@@ -1614,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "The Hilvarenbeek Recordings",
+        "url": "https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192855,
+      "name": "Strigiformes",
+      "url": "https://open.spotify.com/track/7a3CqfeqPJwP6GJWyAMncI"
+    },
+    {
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -1625,7 +1669,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 205432,
       "name": "Talking to Some Imaginary Person",
       "url": "https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY"
@@ -1715,7 +1759,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 534430,
       "name": "The Shield",
       "url": "https://open.spotify.com/track/5dmviv6oMhKDHSUiI2AX0a"
@@ -1805,7 +1849,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"

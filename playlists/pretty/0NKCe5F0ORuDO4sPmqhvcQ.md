@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,227 likes - 104 songs - 5 hr 56 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,227 likes - 105 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dark Places \- Promnite Remix](https://open.spotify.com/track/3fG0CSPqKqBYmv9JUdHzvg) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV), [Promnite](https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5) | [Dark Places \(Promnite Remix\)](https://open.spotify.com/album/3mP38vYlIEwpsGJ1sR2Jam) | 5:55 |
 | 2 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 |
 | 3 | [Wide Awake \(feat\. Charlie Houston\) \- Devault Remix](https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(Devault Remix\)](https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr) | 4:33 |
-| 4 | [Wobbledrug](https://open.spotify.com/track/0xqRM5GuFJZgWXXkwaqMtV) | [WOBBLEBUG](https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu) | [Wobbledrug](https://open.spotify.com/album/1wYCpHXmc2NN3StQeefORi) | 2:57 |
+| 4 | [Wobbledrug](https://open.spotify.com/track/0xqRM5GuFJZgWXXkwaqMtV) | [WOBBLEBUG](https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Wobbledrug](https://open.spotify.com/album/1wYCpHXmc2NN3StQeefORi) | 2:57 |
 | 5 | [222](https://open.spotify.com/track/2aFaDxU5b4aRxOKrTRuA0v) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [222](https://open.spotify.com/album/5v4pzv7O0Ye6dKobqXgMg5) | 3:28 |
 | 6 | [Dreamfields](https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Dreamfields](https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS) | 2:40 |
 | 7 | [HEAVEN'S GATES \(feat\. Izzy Camina\) \- Manila Killa Remix](https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [HEAVEN'S GATES \(feat\. Izzy Camina\) \[Manila Killa Remix\]](https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7) | 4:00 |
@@ -112,5 +112,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 102 | [THREE IN THE MORNING](https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [THREE IN THE MORNING](https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8) | 2:47 |
 | 103 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 |
 | 104 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 |
+| 105 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |
 
-Snapshot ID: `MTAwMDYsMjZiYzU5NjIxNTdlNzBkNDczZTUyZTI1ZDkwYjgwNGJjNWQ1OWQ2Ng==`
+Snapshot ID: `MTAwMDcsMmM2MDcwNDBkZWJjNWVjZTlmMTNiM2M2MzE4ZTBhODcwOGI2ZTY2Mg==`

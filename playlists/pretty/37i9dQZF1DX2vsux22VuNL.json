@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: 3030",
-  "num_followers": 232751,
+  "num_followers": 232827,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MzUwOCwwMDAwMDAwMDI4ZDgxYjBjNzQ2NmIxNjk3MWQxNjFhNWQ1Y2U4NTUy",
+  "snapshot_id": "MTY2NDU1MzUwOCwwMDAwMDAwMDUwYzUwOWE5MTZhYzI2MjgxMjg4NTBmYWFkYWVmNGJm",
   "tracks": [
     {
       "added_at": "2022-09-30 15:58:28",
@@ -243,26 +243,6 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Imaterial",
-        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 152582,
-      "name": "War",
-      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 139703,
       "name": "Imprevisto",
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "Imaterial",
+        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 152582,
+      "name": "War",
+      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -347,30 +347,22 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "N\u00e3o Sai da Minha Mente (feat. Lionel)",
-        "url": "https://open.spotify.com/album/5qpJt1uCoons7XTDQXp29Q"
+        "name": "Amor e Amor",
+        "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
       },
       "artists": [
         {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         },
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Lionel",
-          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
         }
       ],
-      "duration_ms": 190967,
-      "name": "N\u00e3o Sai da Minha Mente (feat. Lionel)",
-      "url": "https://open.spotify.com/track/10BAfuVOPB5C1ed1ZQCfkq"
+      "duration_ms": 261333,
+      "name": "Amor e Amor",
+      "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -403,22 +395,30 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Amor e Amor",
-        "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
+        "name": "N\u00e3o Sai da Minha Mente (feat. Lionel)",
+        "url": "https://open.spotify.com/album/5qpJt1uCoons7XTDQXp29Q"
       },
       "artists": [
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
         },
         {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Amor e Amor",
-      "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
+      "duration_ms": 190967,
+      "name": "N\u00e3o Sai da Minha Mente (feat. Lionel)",
+      "url": "https://open.spotify.com/track/10BAfuVOPB5C1ed1ZQCfkq"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -935,22 +935,26 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
+        "name": "Melhor Lugar",
+        "url": "https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B"
       },
       "artists": [
         {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+          "name": "LUE",
+          "url": "https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN"
         },
         {
-          "name": "NaBuscaDoOuro",
-          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
+          "name": "PedroWnx",
+          "url": "https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
         }
       ],
-      "duration_ms": 169850,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
+      "duration_ms": 168031,
+      "name": "Melhor Lugar",
+      "url": "https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -975,26 +979,22 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Melhor Lugar",
-        "url": "https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B"
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ"
       },
       "artists": [
         {
-          "name": "LUE",
-          "url": "https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN"
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
         },
         {
-          "name": "PedroWnx",
-          "url": "https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
         }
       ],
-      "duration_ms": 168031,
-      "name": "Melhor Lugar",
-      "url": "https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN"
+      "duration_ms": 163221,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        },
-        {
-          "name": "IssoQue\u00c9SomDeRap",
-          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
-        }
-      ],
-      "duration_ms": 163221,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 180750,
       "name": "Melhor Que Ontem",
       "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        },
+        {
+          "name": "NaBuscaDoOuro",
+          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
+        }
+      ],
+      "duration_ms": 169850,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1251,6 +1251,30 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "Golpe Baixo",
+        "url": "https://open.spotify.com/album/3JTHIZV0FUtTD8gCpSCu10"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Vulto",
+          "url": "https://open.spotify.com/artist/0F70fLZ3B78qjKQg3PguLX"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Golpe Baixo",
+      "url": "https://open.spotify.com/track/0tikP9agfqFyjJS4NLJHxp"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1315,78 +1339,6 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Ainda \u00c9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/4OXmBQKfqClzQD5fG9gxkD"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Keviin",
-          "url": "https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
-        }
-      ],
-      "duration_ms": 184629,
-      "name": "Ainda \u00c9 Ver\u00e3o",
-      "url": "https://open.spotify.com/track/1JaH1KgP4oYWBdc2I6dYud"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
-        "name": "Golpe Baixo",
-        "url": "https://open.spotify.com/album/3JTHIZV0FUtTD8gCpSCu10"
-      },
-      "artists": [
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Vulto",
-          "url": "https://open.spotify.com/artist/0F70fLZ3B78qjKQg3PguLX"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Golpe Baixo",
-      "url": "https://open.spotify.com/track/0tikP9agfqFyjJS4NLJHxp"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
-      },
-      "artists": [
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
         "name": "Malandra Treinada",
         "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
       },
@@ -1411,22 +1363,26 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Surreal",
-        "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
+        "name": "Ainda \u00c9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4OXmBQKfqClzQD5fG9gxkD"
       },
       "artists": [
         {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "FEL",
-          "url": "https://open.spotify.com/artist/5BFA1MzEXTBZTSLgB7cSRd"
+          "name": "Keviin",
+          "url": "https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
         }
       ],
-      "duration_ms": 171392,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
+      "duration_ms": 184629,
+      "name": "Ainda \u00c9 Ver\u00e3o",
+      "url": "https://open.spotify.com/track/1JaH1KgP4oYWBdc2I6dYud"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1463,6 +1419,50 @@
       "duration_ms": 350014,
       "name": "Xavequin 2",
       "url": "https://open.spotify.com/track/2C2Ya63y7cp3rh01Umjy2P"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        },
+        {
+          "name": "FEL",
+          "url": "https://open.spotify.com/artist/5BFA1MzEXTBZTSLgB7cSRd"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1507,22 +1507,26 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "\u00daltima Mensagem",
-        "url": "https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4"
+        "name": "Queria Te Ver",
+        "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
       "artists": [
         {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
         },
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
         }
       ],
-      "duration_ms": 174482,
-      "name": "\u00daltima Mensagem",
-      "url": "https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc"
+      "duration_ms": 189562,
+      "name": "Queria Te Ver",
+      "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1559,6 +1563,42 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
+        "name": "\u00daltima Mensagem",
+        "url": "https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "duration_ms": 174482,
+      "name": "\u00daltima Mensagem",
+      "url": "https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1579,46 +1619,6 @@
       "duration_ms": 196559,
       "name": "Livro Aberto",
       "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
-        "name": "Queria Te Ver",
-        "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        }
-      ],
-      "duration_ms": 189562,
-      "name": "Queria Te Ver",
-      "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-09-30 15:58:28",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2022-09-30 15:58:28",
       "album": {
-        "name": "Droga Pesada (feat. Nairo)",
-        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Droga Pesada (feat. Nairo)",
-      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
-    },
-    {
-      "added_at": "2022-09-30 15:58:28",
-      "album": {
         "name": "Te Fazer Vibrar",
         "url": "https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 187272,
       "name": "Te Fazer Vibrar",
       "url": "https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy"
+    },
+    {
+      "added_at": "2022-09-30 15:58:28",
+      "album": {
+        "name": "Droga Pesada (feat. Nairo)",
+        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Droga Pesada (feat. Nairo)",
+      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
     },
     {
       "added_at": "2022-09-30 15:58:28",

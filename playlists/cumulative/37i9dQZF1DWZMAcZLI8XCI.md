@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/14NF73p0PX7l2Dwfl5bnjd)
+67 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/14NF73p0PX7l2Dwfl5bnjd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Sandstorm](https://open.spotify.com/track/7CnR3YREnYKqsMqEKz31jL) | [Jacques Bon](https://open.spotify.com/artist/5YasrI8HxT3UfR4emuMg5k), [Drux](https://open.spotify.com/artist/3X4u8KofdfV6WIvILeucpD) | [A Long Way](https://open.spotify.com/album/0xGp8CQuuXRkmj2Xzvxvh2) | 8:38 | 2022-09-19 |  |
 | [Scythe Master](https://open.spotify.com/track/4XUiKsKnHRiLaOhKC3HCFp) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5rsIqymNEB0QlStjVPpENL) | 8:00 | 2022-09-19 |  |
 | [Seabrain \- Quiet Village Remix \(Radio Edit\)](https://open.spotify.com/track/2zNRtWP5F8PNDJ28Zt8aEg) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7), [Quiet Village](https://open.spotify.com/artist/0DoRa03IPuPzfAlD8aMgn9) | [Acrobatic Thoughts Remixes](https://open.spotify.com/album/3GZhdJwLPHdDlne97YWwzi) | 4:15 | 2022-09-19 |  |
-| [See Me Burn](https://open.spotify.com/track/45s2GAogNZf9nVgvZVxSki) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [See Me Burn](https://open.spotify.com/album/1RGYGqxIczhfpKFMnrY3vh) | 6:16 | 2022-09-19 |  |
+| [See Me Burn](https://open.spotify.com/track/45s2GAogNZf9nVgvZVxSki) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [See Me Burn](https://open.spotify.com/album/1RGYGqxIczhfpKFMnrY3vh) | 6:16 | 2022-09-19 | 2022-10-07 |
+| [See Me Burn](https://open.spotify.com/track/7woYT8xm9T0sGQbkA8UmkL) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [See Me Burn](https://open.spotify.com/album/43jMmlOY6iXdr22eSlrInL) | 6:16 | 2022-09-19 |  |
 | [Silver Tears](https://open.spotify.com/track/7EGtWb2e58plUAQkix2aON) | [Pale Blue](https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr) | [Silver Tears](https://open.spotify.com/album/2Gpd3rckgmWytExozWxA35) | 10:54 | 2022-09-19 |  |
 | [Step](https://open.spotify.com/track/08BQkqwtl5AavghUuUsB58) | [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7) | [Step](https://open.spotify.com/album/1LLtX7iBHT9U4hjaBgnzdE) | 4:41 | 2022-09-19 |  |
 | [Superstitious Thoughts](https://open.spotify.com/track/4ZoggoHYM0Ll0jDOPeKPsU) | [Skatman](https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58) | [Superstitious Thoughts EP](https://open.spotify.com/album/0Fa9rAVo45sYENGM0PVatb) | 5:56 | 2022-09-19 |  |

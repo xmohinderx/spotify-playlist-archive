@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Christmas Song",
+        "url": "https://open.spotify.com/album/0WUOWtTTCfCiEv9mkjvCod"
+      },
+      "artists": [
+        {
+          "name": "Mitch Coleman",
+          "url": "https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224505,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/2rGPxZss3HtfmVF1JNvfKT"
+    },
+    {
+      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
       },

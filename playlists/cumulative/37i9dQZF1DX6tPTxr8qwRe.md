@@ -2,7 +2,7 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Extra vicious, hard\-hitting pop\. This is SALT\. Cover: Zolita
+> Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Zolita
 
 262 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 59567,
+  "num_followers": 59569,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDRiN2I1MGQ2NzBkOWZkNDI0YmIyN2RlOWUyNDY0M2I2",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDc3ZWRkYWEwYjY0M2U2OTE1Njg2ZGVkMjZiYzczODBk",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 289106,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "The Boatman's Call (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 256120,
       "name": "Into My Arms - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 289106,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -983,18 +983,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+        "name": "A Tabua De Esmeralda",
+        "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+      "duration_ms": 195266,
+      "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
+      "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "A Tabua De Esmeralda",
-        "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
-      "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Ao vivo",
-        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Do fundo do nosso quintal - Ao vivo",
-      "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
-    },
-    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Chico 50 Anos - O Trovador",
@@ -1147,6 +1131,22 @@
       "duration_ms": 141773,
       "name": "Jo\u00e3o E Maria",
       "url": "https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9"
+    },
+    {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Ao vivo",
+        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Do fundo do nosso quintal - Ao vivo",
+      "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 412693,
-      "name": "Sereia / De Repente Calif\u00f3rnia / Como uma Onda (Zen Surfismo)",
-      "url": "https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Chico Buarque de Hollanda Vol. 3",
         "url": "https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 233400,
       "name": "Roda-Viva",
       "url": "https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Sereia / De Repente Calif\u00f3rnia / Como uma Onda (Zen Surfismo)",
+      "url": "https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico 2",
-        "url": "https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "L\u00e1 vem o sol",
-      "url": "https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico 2",
+        "url": "https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "L\u00e1 vem o sol",
+      "url": "https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "P\u00e1ssaro Proibido",
         "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
       },
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/0by19mYM0du6rkzugAogN9"
     },
     {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 223368,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6G9ZBD209DRFToSC8AEW1d"
+    },
+    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Retratos",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2022-06-07 14:45:28",
       "album": {
-        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 223368,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6G9ZBD209DRFToSC8AEW1d"
-    },
-    {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
         "name": "Moleque Dudu",
         "url": "https://open.spotify.com/album/7qbifdalLtBeQvvuMupelk"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 168040,
       "name": "A Grande Fam\u00edlia",
       "url": "https://open.spotify.com/track/1JtxEMmDhKzA7QRZE1ISNP"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Divino Maravilhoso",
+      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1525,22 +1541,6 @@
       "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Divino Maravilhoso",
-      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Quem Sabe Isso Quer Dizer Amor",
@@ -1571,6 +1571,22 @@
       "duration_ms": 436720,
       "name": "Odara - Remix",
       "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
+    },
+    {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 88954,
+      "name": "Era Uma Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1655,38 +1671,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Johnny Cash Children's Album",
-        "url": "https://open.spotify.com/album/7AsniiHVen13QlnqZm5DR2"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 171333,
-      "name": "I Got a Boy and His Name Is John (with June Carter Cash)",
-      "url": "https://open.spotify.com/track/2HCxr7MRt7iTevb58uwd9o"
-    },
-    {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Quem Sabe Isso Quer Dizer Amor",
-        "url": "https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 167568,
-      "name": "O Sal da Terra",
-      "url": "https://open.spotify.com/track/374SHBJGZL3oaArhIi2GFi"
+      "duration_ms": 198173,
+      "name": "Nao Identificado",
+      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
     }
   ],
   "unique_name": "Pais e Filhos",

@@ -30,6 +30,36 @@
     },
     {
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/2nekkd7Ip0LxXpFIM85epo"
+      },
+      "artists": [
+        {
+          "name": "ASH Trio",
+          "url": "https://open.spotify.com/artist/1lWRqHdNuzCQUaJdl1HUwm"
+        },
+        {
+          "name": "Hernan Hecht",
+          "url": "https://open.spotify.com/artist/7dl3J3Gs0ryFhyeRDypljB"
+        },
+        {
+          "name": "Juan Pablo Arredondo",
+          "url": "https://open.spotify.com/artist/60cGWQvC5gsGlxBihniRCS"
+        },
+        {
+          "name": "Natalio Sued",
+          "url": "https://open.spotify.com/artist/1WqYlCDG2cmVXPZ1CcdMOs"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "A Dormir",
+      "url": "https://open.spotify.com/track/5GZaVGl3gtqJQIsGacAhXX"
+    },
+    {
+      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
       },
@@ -41,7 +71,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 378493,
       "name": "A la Ventana Carolina",
       "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"

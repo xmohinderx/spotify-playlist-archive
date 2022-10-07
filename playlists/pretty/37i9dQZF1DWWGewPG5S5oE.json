@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: \u6851\u539f\u3042\u3044",
-  "num_followers": 17614,
+  "num_followers": 17641,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NTYwMCwwMDAwMDAwMDhjOGE5NzViZjIzODc5YmExMDQxNTMxNjQ5NDE5YTMw",
+  "snapshot_id": "MTY2NDg5NTYwMCwwMDAwMDAwMDVlMmFlNTZiOTU0NzY4MDUzNDUxMjczMzFkZmJiNmNm",
   "tracks": [
     {
       "added_at": "2022-10-04 15:00:00",
@@ -283,38 +283,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Midnight Crisp",
-        "url": "https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG"
-      },
-      "artists": [
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        }
-      ],
-      "duration_ms": 326552,
-      "name": "Midnight Crisp",
-      "url": "https://open.spotify.com/track/44egUa8FkT17spwSFvQis6"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
-        "name": "\u4eca\u65e5\u3001\u660e\u65e5",
-        "url": "https://open.spotify.com/album/5F2ivWiZ8ABtYHib8KWQ4E"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "\u4eca\u65e5\u3001\u660e\u65e5",
-      "url": "https://open.spotify.com/track/0hbipI6H7ZniYEiUYTZjpl"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev"
       },
@@ -335,6 +303,38 @@
       "duration_ms": 445133,
       "name": "Seeker",
       "url": "https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "\u4eca\u65e5\u3001\u660e\u65e5",
+        "url": "https://open.spotify.com/album/5F2ivWiZ8ABtYHib8KWQ4E"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "\u4eca\u65e5\u3001\u660e\u65e5",
+      "url": "https://open.spotify.com/track/0hbipI6H7ZniYEiUYTZjpl"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "Midnight Crisp",
+        "url": "https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "duration_ms": 326552,
+      "name": "Midnight Crisp",
+      "url": "https://open.spotify.com/track/44egUa8FkT17spwSFvQis6"
     },
     {
       "added_at": "2022-10-04 15:00:00",

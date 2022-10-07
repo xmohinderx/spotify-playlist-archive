@@ -2,7 +2,7 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica: Foto: Quevedo
+> Éxitos urbanos de Latinoamérica con Pablo Pesadilla, Nickoog Clk, Polimá Westcoast & Fran C.
 
 343 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 

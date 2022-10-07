@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 41139,
+  "num_followers": 41186,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgwOTIwMSwwMDAwMDAwMDFmMmM4NjZhNzNmOWVkOWI0OTY2ZjRiMDU0NDhiYzkx",
+  "snapshot_id": "MTY2MDgwOTIwMSwwMDAwMDAwMDkyZGI4MjYwMjQ1ZDRmZjk1ODllNzcxN2IxMjdmMTU3",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "You're Beautiful - Live in Ireland",
-      "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Hurts So Good (Live From The Studio)",
         "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 202833,
       "name": "Hurts So Good - Live From The Studio",
       "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "You're Beautiful - Live in Ireland",
+      "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "ATTENTION: MILEY LIVE",
-        "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
+        "name": "Imagine Dragons (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 420791,
-      "name": "Party In The USA - Live",
-      "url": "https://open.spotify.com/track/5awub9b8qfJEAhJXhkiWez"
+      "duration_ms": 212810,
+      "name": "Shots - Live From Spotify London",
+      "url": "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Imagine Dragons (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 212810,
-      "name": "Shots - Live From Spotify London",
-      "url": "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp"
+      "duration_ms": 420791,
+      "name": "Party In The USA - Live",
+      "url": "https://open.spotify.com/track/5awub9b8qfJEAhJXhkiWez"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
+        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 250586,
+      "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
+      "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Live In Berlin",
         "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
-        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
+        "name": "Spotify Sessions (Live From Spotify NYC)",
+        "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 250586,
-      "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
-      "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
+      "duration_ms": 160400,
+      "name": "Ghost - Live From Spotify NYC",
+      "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -915,22 +931,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Spotify Sessions (Live From Spotify NYC)",
-        "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Ghost - Live From Spotify NYC",
-      "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "One Night Only",
         "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 320400,
       "name": "Sacrifice - Live",
       "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Havana (Live)",
+        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 248572,
+      "name": "Havana - Live",
+      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Havana (Live)",
-        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 248572,
-      "name": "Havana - Live",
-      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live Friday The 13th",
         "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
@@ -1007,38 +1007,6 @@
       "duration_ms": 379013,
       "name": "She Will Be Loved - Live",
       "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
-      },
-      "artists": [
-        {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
-        }
-      ],
-      "duration_ms": 321453,
-      "name": "Lemon Tree - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Elton 60 - Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Your Song - Live At Madison Square Garden",
-      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1063,18 +1031,34 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Best of Live",
-        "url": "https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H"
+        "name": "Elton 60 - Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 376853,
-      "name": "I Want to Know What Love Is - Live",
-      "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
+      "duration_ms": 249666,
+      "name": "Your Song - Live At Madison Square Garden",
+      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
+      },
+      "artists": [
+        {
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
+        }
+      ],
+      "duration_ms": 321453,
+      "name": "Lemon Tree - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1091,6 +1075,38 @@
       "duration_ms": 340880,
       "name": "She Wolf - El Dorado World Tour Live",
       "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Best of Live",
+        "url": "https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 376853,
+      "name": "I Want to Know What Love Is - Live",
+      "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 334813,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
+      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1123,22 +1139,6 @@
       "duration_ms": 299159,
       "name": "When You Say Nothing At All - Live",
       "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 334813,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
-      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "On the Road to Nashville (Live)",
-        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
+        "name": "Best Song Ever (From THIS IS US)",
+        "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
       "artists": [
         {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 218240,
-      "name": "A Little Respect - Live in Nashville",
-      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
+      "duration_ms": 267066,
+      "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
+      "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Best Song Ever (From THIS IS US)",
-        "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
-      "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
-        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
+        "name": "On the Road to Nashville (Live)",
+        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
         }
       ],
-      "duration_ms": 345666,
-      "name": "Listen to Your Heart - Live from Santiago 2012",
-      "url": "https://open.spotify.com/track/0QrQYEtKj6R5xknD8Rw3TO"
+      "duration_ms": 218240,
+      "name": "A Little Respect - Live in Nashville",
+      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1331,6 +1315,22 @@
       "duration_ms": 256800,
       "name": "Smooth Operator - Live",
       "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
+        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Listen to Your Heart - Live from Santiago 2012",
+      "url": "https://open.spotify.com/track/0QrQYEtKj6R5xknD8Rw3TO"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 265520,
-      "name": "Take A Chance On Me - Live",
-      "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 270840,
       "name": "Animals - Live In Manchester",
       "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 265520,
+      "name": "Take A Chance On Me - Live",
+      "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
         "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 236200,
       "name": "Lost - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
         }
       ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Footloose (Live at John F. Kennedy Stadium, 13th July 1985)",
-        "url": "https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 254341,
-      "name": "Footloose - Live at John F. Kennedy Stadium, 13th July 1985",
-      "url": "https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
       },
@@ -1623,6 +1607,38 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Footloose (Live at John F. Kennedy Stadium, 13th July 1985)",
+        "url": "https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 254341,
+      "name": "Footloose - Live at John F. Kennedy Stadium, 13th July 1985",
+      "url": "https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 199829,
+      "name": "New Americana - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Warwick Avenue (Live)",
         "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 237386,
       "name": "Warwick Avenue - Live",
       "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     }
   ],
   "unique_name": "Pop Live",

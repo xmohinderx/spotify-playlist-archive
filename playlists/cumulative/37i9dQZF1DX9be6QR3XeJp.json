@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Shygirl",
+  "description": "Discover your new favourite artists. Cover: Sfven",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -1349,6 +1349,24 @@
       "duration_ms": 177077,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50"
+    },
+    {
+      "album": {
+        "name": "little things",
+        "url": "https://open.spotify.com/album/4VUImLdCRQZ7lDm8gqNrDL"
+      },
+      "artists": [
+        {
+          "name": "Sfven",
+          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165860,
+      "name": "little things",
+      "url": "https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R"
     },
     {
       "album": {

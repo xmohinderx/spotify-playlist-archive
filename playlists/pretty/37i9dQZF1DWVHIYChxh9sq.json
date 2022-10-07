@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Luis Alfonso Partida El Yaki",
-  "num_followers": 44902,
+  "num_followers": 44915,
   "original_name": "Mexicano En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM3NjE4OCwwMDAwMDAwMGU3NjRkNTA5NWFhNDRkYmYxMmJkOWIzYWMwMTRlMDg4",
+  "snapshot_id": "MTY1MjM3NjE4OCwwMDAwMDAwMGExZjY1YzYzODMzMzA4YjUxMWM4ODEwYmE0MTUwNTdi",
   "tracks": [
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
+        "name": "No Pasa De Moda",
+        "url": "https://open.spotify.com/album/1qS2UjDR1h36oHpVuNAKLa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 221099,
+      "name": "No Pasa De Moda",
+      "url": "https://open.spotify.com/track/1pyxTCljRaXLEbClpbjb8f"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
         "name": "Un Placer, Fui El Chamaco (En Vivo)",
         "url": "https://open.spotify.com/album/1TnuJCwhjp4hVXakm0AyVX"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "No Pasa De Moda",
-        "url": "https://open.spotify.com/album/1qS2UjDR1h36oHpVuNAKLa"
+        "name": "Las Preferidas, Vol. 3 (En vivo)",
+        "url": "https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 221099,
-      "name": "No Pasa De Moda",
-      "url": "https://open.spotify.com/track/1pyxTCljRaXLEbClpbjb8f"
+      "duration_ms": 175777,
+      "name": "El B\u00faho - En vivo",
+      "url": "https://open.spotify.com/track/2ca33MiWXy5JR0ELVH6SXj"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1411,22 +1427,6 @@
       "duration_ms": 315512,
       "name": "Cuando Nadie Te Quiera - En Vivo",
       "url": "https://open.spotify.com/track/0ActR7aXd8BMfMZ0zVPkRp"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "Las Preferidas, Vol. 3 (En vivo)",
-        "url": "https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "El B\u00faho - En vivo",
-      "url": "https://open.spotify.com/track/2ca33MiWXy5JR0ELVH6SXj"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 345720,
+      "name": "Me Gusta Tu Vieja - En Vivo",
+      "url": "https://open.spotify.com/track/3wka8qC0K5TYW4hrFY040p"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
         "name": "La OB \u201cOperaci\u00f3n B\u00e9lica\u201d (En Vivo)",
         "url": "https://open.spotify.com/album/1iaZKDqV66FaFAc7qEUeor"
       },
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "En Vivo Guadalajara - Monterrey (Live)",
-        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/2P2ZYypvyZ4lo9ylhAl3fa"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 345720,
-      "name": "Me Gusta Tu Vieja - En Vivo",
-      "url": "https://open.spotify.com/track/3wka8qC0K5TYW4hrFY040p"
+      "duration_ms": 234080,
+      "name": "Si Tu Amor No Vuelve - En Directo",
+      "url": "https://open.spotify.com/track/4Ht8pYtSlED2lckPC1azip"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1739,22 +1755,6 @@
       "duration_ms": 215296,
       "name": "La Nueva Escuela - En Vivo",
       "url": "https://open.spotify.com/track/0HK4v2FdgjsrHSTZtx23Ly"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/2P2ZYypvyZ4lo9ylhAl3fa"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Si Tu Amor No Vuelve - En Directo",
-      "url": "https://open.spotify.com/track/4Ht8pYtSlED2lckPC1azip"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "Con Todo y Mi Tristeza (Live)",
-        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 258730,
-      "name": "Con Todo y Mi Tristeza - Live",
-      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
         "name": "El Juan",
         "url": "https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 138703,
       "name": "El Juan - Vivo",
       "url": "https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "Con Todo y Mi Tristeza (Live)",
+        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 258730,
+      "name": "Con Todo y Mi Tristeza - Live",
+      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
+        "name": "Lo Que No Escuchaste MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/5aO37RIIgwkTZ5t0uejh78"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "La Camioneta Gris - Live",
+      "url": "https://open.spotify.com/track/7melVMedjk3K0AVUHx8w8n"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 193920,
       "name": "El Palomito (En Vivo)",
       "url": "https://open.spotify.com/track/5IJZmZJM5eDYq8WE5k0y4a"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "Lo Que No Escuchaste MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/5aO37RIIgwkTZ5t0uejh78"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "La Camioneta Gris - Live",
-      "url": "https://open.spotify.com/track/7melVMedjk3K0AVUHx8w8n"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "El Inmigrante (En Vivo)",
-        "url": "https://open.spotify.com/album/0k1zLGzjpIbLLF0w5IWyZn"
-      },
-      "artists": [
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        },
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 203005,
-      "name": "El Inmigrante (En Vivo)",
-      "url": "https://open.spotify.com/track/4vTOriU3pZrfRkbR5tu43p"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
         "name": "Regulo Caro Con la Misma Banda (En Vivo)",
         "url": "https://open.spotify.com/album/39qeD8pcclZXKcb37EUhLe"
       },
@@ -2219,18 +2199,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "Me Bautiz\u00f3 la Mafia (En Vivo)",
-        "url": "https://open.spotify.com/album/5F3XVAQsKSIJzORXwKL4v5"
+        "name": "El Inmigrante (En Vivo)",
+        "url": "https://open.spotify.com/album/0k1zLGzjpIbLLF0w5IWyZn"
       },
       "artists": [
         {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        },
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
         }
       ],
-      "duration_ms": 166729,
-      "name": "Me Bautiz\u00f3 la Mafia - En Vivo",
-      "url": "https://open.spotify.com/track/4bsDUiLDCU3IGrtzarWWFY"
+      "duration_ms": 203005,
+      "name": "El Inmigrante (En Vivo)",
+      "url": "https://open.spotify.com/track/4vTOriU3pZrfRkbR5tu43p"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2263,6 +2247,22 @@
       "duration_ms": 140466,
       "name": "El Aguila Blanca (En Vivo)",
       "url": "https://open.spotify.com/track/6er9SyOWhor6FtZ0s1ZnS9"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "Me Bautiz\u00f3 la Mafia (En Vivo)",
+        "url": "https://open.spotify.com/album/5F3XVAQsKSIJzORXwKL4v5"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 166729,
+      "name": "Me Bautiz\u00f3 la Mafia - En Vivo",
+      "url": "https://open.spotify.com/track/4bsDUiLDCU3IGrtzarWWFY"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
+        "name": "Por Tu Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/5ops1wzh5py3wKUkqQBcKQ"
+      },
+      "artists": [
+        {
+          "name": "Los Cazadores Del Cerro",
+          "url": "https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ"
+        }
+      ],
+      "duration_ms": 216202,
+      "name": "Por Tu Amor - En Vivo",
+      "url": "https://open.spotify.com/track/46KqzlChHmjRmZQvvxk5dn"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
         "name": "El Callejero (En Vivo) [feat. El Yaki]",
         "url": "https://open.spotify.com/album/4T9F4lYfSEICjga2IS0hzD"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 192786,
       "name": "Amor Prisionero - En Vivo Desde Culiac\u00e1n Sinaloa",
       "url": "https://open.spotify.com/track/3oTtoY5Yf5COtlHdNcoDxD"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "Por Tu Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/5ops1wzh5py3wKUkqQBcKQ"
-      },
-      "artists": [
-        {
-          "name": "Los Cazadores Del Cerro",
-          "url": "https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ"
-        }
-      ],
-      "duration_ms": 216202,
-      "name": "Por Tu Amor - En Vivo",
-      "url": "https://open.spotify.com/track/46KqzlChHmjRmZQvvxk5dn"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "Ojitos De Golondrina (En Vivo)",
-        "url": "https://open.spotify.com/album/1GsRibnQPEYKcnJDOM3fbd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Manuel Figueroa",
-          "url": "https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Ojitos De Golondrina - En Vivo",
-      "url": "https://open.spotify.com/track/3YZeu8Z7Ss85OYR2LjbmRX"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
         "name": "De Negro Con Vino",
         "url": "https://open.spotify.com/album/1EynFfQfVD4B3eQCAxZiuS"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 157730,
       "name": "De Negro Con Vino",
       "url": "https://open.spotify.com/track/4bMKtEF8u3oK8pYVO3bi0v"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "Ojitos De Golondrina (En Vivo)",
+        "url": "https://open.spotify.com/album/1GsRibnQPEYKcnJDOM3fbd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Manuel Figueroa",
+          "url": "https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Ojitos De Golondrina - En Vivo",
+      "url": "https://open.spotify.com/track/3YZeu8Z7Ss85OYR2LjbmRX"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2599,26 +2599,6 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "7 A\u00f1os / 7 Duetos (En Vivo Desde Guadalajara)",
-        "url": "https://open.spotify.com/album/5RKZxuHlEQIYrZUzMAXhPD"
-      },
-      "artists": [
-        {
-          "name": "Norte\u00f1o 4.5",
-          "url": "https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Una Tarde Como Cualquiera / Pero la Recuerdo - En Vivo",
-      "url": "https://open.spotify.com/track/5QsQRVwaUyLObcvCeCIkSw"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
         "name": "Que Te Ruegue Quien Te Quiera (En Vivo)",
         "url": "https://open.spotify.com/album/21vwbCy7Nj5fL0OZ10gG0r"
       },
@@ -2639,34 +2619,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
-        "name": "Suelta Tu Pelo (En Vivo)",
-        "url": "https://open.spotify.com/album/2l2jHJSfUUaIVUubZj872w"
+        "name": "7 A\u00f1os / 7 Duetos (En Vivo Desde Guadalajara)",
+        "url": "https://open.spotify.com/album/5RKZxuHlEQIYrZUzMAXhPD"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 168752,
-      "name": "Suelta Tu Pelo - En Vivo",
-      "url": "https://open.spotify.com/track/3eMyVT3lCVk93fbAQVfxaF"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "En Vivo Con Tololoche, Vol. 1",
-        "url": "https://open.spotify.com/album/2cIcTzyrRXluUVjFI957lO"
-      },
-      "artists": [
+          "name": "Norte\u00f1o 4.5",
+          "url": "https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY"
+        },
         {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 193060,
-      "name": "Sinaloense Hecho y Derecho - En Vivo",
-      "url": "https://open.spotify.com/track/3iMEyTEnMbjvhJzimzn8r5"
+      "duration_ms": 198591,
+      "name": "Una Tarde Como Cualquiera / Pero la Recuerdo - En Vivo",
+      "url": "https://open.spotify.com/track/5QsQRVwaUyLObcvCeCIkSw"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2683,6 +2651,38 @@
       "duration_ms": 223000,
       "name": "Maniaco Enfermo",
       "url": "https://open.spotify.com/track/3048sEV1VZ5jcqDvLm3CDL"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "De Puro Gusto (En Vivo)",
+        "url": "https://open.spotify.com/album/1NS2pCVAohnBnXbq3YkoTl"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 162752,
+      "name": "De Puro Gusto (En Vivo)",
+      "url": "https://open.spotify.com/track/3KJkfQIGxUOCq2ImgYFPni"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "En Vivo Con Tololoche, Vol. 1",
+        "url": "https://open.spotify.com/album/2cIcTzyrRXluUVjFI957lO"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 193060,
+      "name": "Sinaloense Hecho y Derecho - En Vivo",
+      "url": "https://open.spotify.com/track/3iMEyTEnMbjvhJzimzn8r5"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2775,6 +2775,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
+        "name": "Suelta Tu Pelo (En Vivo)",
+        "url": "https://open.spotify.com/album/2l2jHJSfUUaIVUubZj872w"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 168752,
+      "name": "Suelta Tu Pelo - En Vivo",
+      "url": "https://open.spotify.com/track/3eMyVT3lCVk93fbAQVfxaF"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
         "name": "Al Limite (En Vivo)",
         "url": "https://open.spotify.com/album/0TesywM6XrhHiJqWSNoUim"
       },
@@ -2787,22 +2803,6 @@
       "duration_ms": 149251,
       "name": "El Balenciaga - En Vivo",
       "url": "https://open.spotify.com/track/6TM4XplDYUrkHPXVUBD2xm"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "De Puro Gusto (En Vivo)",
-        "url": "https://open.spotify.com/album/1NS2pCVAohnBnXbq3YkoTl"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 162752,
-      "name": "De Puro Gusto (En Vivo)",
-      "url": "https://open.spotify.com/track/3KJkfQIGxUOCq2ImgYFPni"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2851,6 +2851,22 @@
       "duration_ms": 212546,
       "name": "Te Amo Y Te Amo - En Vivo",
       "url": "https://open.spotify.com/track/1Hx6JkOrY3K665STfZnD88"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
+        "name": "El Corrido de Everardo (En Vivo)",
+        "url": "https://open.spotify.com/album/30adXk1ADomEHWfS8red5c"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 187174,
+      "name": "El Corrido de Everardo - En Vivo",
+      "url": "https://open.spotify.com/track/7HMhgYzvOvz9ZBbylacRrm"
     },
     {
       "added_at": "2022-05-12 17:23:08",
@@ -2923,6 +2939,22 @@
     {
       "added_at": "2022-05-12 17:23:08",
       "album": {
+        "name": "En Vivo a Caballo Desde Jalisco, Vol. 3",
+        "url": "https://open.spotify.com/album/0uQR7BaLZQTfkeDhZKlyRS"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "El Taquicardio - En Vivo",
+      "url": "https://open.spotify.com/track/2iEPF5e1qtrKUlxIKJDU6q"
+    },
+    {
+      "added_at": "2022-05-12 17:23:08",
+      "album": {
         "name": "Feliz, Feliz",
         "url": "https://open.spotify.com/album/0WPwAFCO5FOMvmsEAaTRZP"
       },
@@ -2939,38 +2971,6 @@
       "duration_ms": 219855,
       "name": "Feliz, Feliz - Live",
       "url": "https://open.spotify.com/track/6DkjoClnR4PMMFer8XJs5n"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "El Corrido de Everardo (En Vivo)",
-        "url": "https://open.spotify.com/album/30adXk1ADomEHWfS8red5c"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 187174,
-      "name": "El Corrido de Everardo - En Vivo",
-      "url": "https://open.spotify.com/track/7HMhgYzvOvz9ZBbylacRrm"
-    },
-    {
-      "added_at": "2022-05-12 17:23:08",
-      "album": {
-        "name": "En Vivo a Caballo Desde Jalisco, Vol. 3",
-        "url": "https://open.spotify.com/album/0uQR7BaLZQTfkeDhZKlyRS"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "El Taquicardio - En Vivo",
-      "url": "https://open.spotify.com/track/2iEPF5e1qtrKUlxIKJDU6q"
     },
     {
       "added_at": "2022-05-12 17:23:08",

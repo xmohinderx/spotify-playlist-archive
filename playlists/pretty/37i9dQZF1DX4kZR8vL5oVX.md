@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Lala &ce
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,656 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,897 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,21 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 31 | [La lune](https://open.spotify.com/track/69UYh1FffcoJcadeOiIpOt) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [La Lune](https://open.spotify.com/album/6bK58gR6Koh8O94W9qevFm) | 3:51 |
 | 32 | [JTM](https://open.spotify.com/track/2qBSFAWO96E9Vy4RcFaXiR) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [JTM](https://open.spotify.com/album/12HDdGXjVHHLiuNc5ZAuWW) | 3:24 |
 | 33 | [Almodovar](https://open.spotify.com/track/6FJH3I476biUvEjQYsZbaY) | [SARA SOFIA](https://open.spotify.com/artist/1gpoxohUsapx6qpKkyOCWL) | [Almodovar](https://open.spotify.com/album/1X6JmfZc1G4H27JhmCCVlq) | 2:50 |
-| 34 | [Grisaille](https://open.spotify.com/track/6yLhM0azbIFm0TTjExXyx7) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [Grisaille](https://open.spotify.com/album/0BWHhXM5vMsHrMZqX6f3Oi) | 3:00 |
-| 35 | [Mon identité](https://open.spotify.com/track/5bbcWihkD1ccm8woYyCfXN) | [Noémie](https://open.spotify.com/artist/6I4Y1OpnBcs0srZPVBGAxO) | [Mon identité](https://open.spotify.com/album/6QhT1vDeToj5Ds6LX29dxB) | 2:54 |
-| 36 | [MRB](https://open.spotify.com/track/2cjgFTARCIR9oGHfH4h33f) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Substance, Vol\. 1](https://open.spotify.com/album/7EUuntezCgCSJAZpKt89xG) | 2:38 |
-| 37 | [Maladroite](https://open.spotify.com/track/10ZFy3BaH8YNalucqf9Hgg) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Maladroite](https://open.spotify.com/album/0yGyHMBm1dcR2QBiRHwIoj) | 3:12 |
-| 38 | [Que les rêves](https://open.spotify.com/track/2RCnfQhmyXQGmYMRBQz7EF) | [Mélissende](https://open.spotify.com/artist/1WQ43Zwk8Ry5Q6Y46OWJkt) | [Que les rêves](https://open.spotify.com/album/5Kw43QcnJd9SDKcgr3gvwG) | 3:54 |
-| 39 | [L'impromptu](https://open.spotify.com/track/4sZYEhggoilJ0t1fRKqMon) | [Stéphanie d'Oro](https://open.spotify.com/artist/5K1N9ke3dgGnrWmasCHQT3) | [L'impromptu](https://open.spotify.com/album/7euVlwXWzDrdDJtZCebKWD) | 2:54 |
-| 40 | [Des chiffres](https://open.spotify.com/track/3P3XSkJkFbdEom2Hbc7A9z) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Des chiffres](https://open.spotify.com/album/2A2vWtWqKaPumHvyibX6EJ) | 2:43 |
-| 41 | [Maux de tête](https://open.spotify.com/track/15JOE9D6XC0xW8rFRclsZj) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/769povRMdGePBHz5c39gOS) | 2:50 |
-| 42 | [Lithium](https://open.spotify.com/track/4fEATCg8Kor1Pp7C3U7Zk6) | [Gina](https://open.spotify.com/artist/46UUjj9c7Qx8SxLogphyzH) | [Lithium](https://open.spotify.com/album/2Wz5T4OoFq9p7muAX0U100) | 3:06 |
-| 43 | [Les voiles](https://open.spotify.com/track/5sEC7iaiegqDh3GtxRfyyd) | [Elodie Rama](https://open.spotify.com/artist/7szuplhzxUcgWSPs2CXys3) | [Les voiles](https://open.spotify.com/album/1OBpGQvMbeMzrPNKBOVo2r) | 4:50 |
-| 44 | [Une danse pour rien](https://open.spotify.com/track/6DsnFSxccQe4SGMPpZSOkx) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une danse pour rien](https://open.spotify.com/album/5C0WfzSs1wWrN3wiE6j9RA) | 4:13 |
-| 45 | [Trop loin](https://open.spotify.com/track/6yJCoVdB2Lf89ep9khOYp4) | [Alyssia La R](https://open.spotify.com/artist/76rkN3xGb4V2icAaLdAeVO) | [Réalité](https://open.spotify.com/album/3hkgmqI7y6Vr9at4N7VPVc) | 3:01 |
-| 46 | [ME VOILÀ](https://open.spotify.com/track/3qJzUKj78n8JzdxFjkfkGr) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [ME VOILÀ](https://open.spotify.com/album/1xmDvMNKREJDfHBVjexEnm) | 2:54 |
-| 47 | [Outsider](https://open.spotify.com/track/7ocQ4cvIfJBzZClMPvoWjE) | [Inayat](https://open.spotify.com/artist/3dhYxA8Qs2Y1Nt93uU7ey6), [GO GO GO](https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f) | [Outsider](https://open.spotify.com/album/472lwBkjiGklRs51cQgJey) | 2:44 |
-| 48 | [Dessin](https://open.spotify.com/track/4e0a4fagqACP5WioqMJADN) | [Moukoukenoff](https://open.spotify.com/artist/5ttzh5c5okYxvTOEaEgL7S) | [Dessin](https://open.spotify.com/album/42YwVNaBOZ1obLg0Eazcaq) | 2:58 |
-| 49 | [15 ans plus tard](https://open.spotify.com/track/0OhEJjCKb7kmAaxSiaEp7Z) | [Turquoise M](https://open.spotify.com/artist/3MbVetgAiX77R6xRxd8D1V) | [15 ans plus tard](https://open.spotify.com/album/1dCOnLcoy6Ybdfaez34viY) | 4:07 |
+| 34 | [Dans la Chaleur](https://open.spotify.com/track/027KMnt9OZofLLFvJeGTWZ) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [Dans la Chaleur](https://open.spotify.com/album/2tYY9qw3JkrNrlEfUToQ2U) | 3:48 |
+| 35 | [Grisaille](https://open.spotify.com/track/6yLhM0azbIFm0TTjExXyx7) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [Grisaille](https://open.spotify.com/album/0BWHhXM5vMsHrMZqX6f3Oi) | 3:00 |
+| 36 | [Mon identité](https://open.spotify.com/track/5bbcWihkD1ccm8woYyCfXN) | [Noémie](https://open.spotify.com/artist/6I4Y1OpnBcs0srZPVBGAxO) | [Mon identité](https://open.spotify.com/album/6QhT1vDeToj5Ds6LX29dxB) | 2:54 |
+| 37 | [MRB](https://open.spotify.com/track/2cjgFTARCIR9oGHfH4h33f) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Substance, Vol\. 1](https://open.spotify.com/album/7EUuntezCgCSJAZpKt89xG) | 2:38 |
+| 38 | [Maladroite](https://open.spotify.com/track/10ZFy3BaH8YNalucqf9Hgg) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Maladroite](https://open.spotify.com/album/0yGyHMBm1dcR2QBiRHwIoj) | 3:12 |
+| 39 | [Que les rêves](https://open.spotify.com/track/2RCnfQhmyXQGmYMRBQz7EF) | [Mélissende](https://open.spotify.com/artist/1WQ43Zwk8Ry5Q6Y46OWJkt) | [Que les rêves](https://open.spotify.com/album/5Kw43QcnJd9SDKcgr3gvwG) | 3:54 |
+| 40 | [L'impromptu](https://open.spotify.com/track/4sZYEhggoilJ0t1fRKqMon) | [Stéphanie d'Oro](https://open.spotify.com/artist/5K1N9ke3dgGnrWmasCHQT3) | [L'impromptu](https://open.spotify.com/album/7euVlwXWzDrdDJtZCebKWD) | 2:54 |
+| 41 | [Des chiffres](https://open.spotify.com/track/3P3XSkJkFbdEom2Hbc7A9z) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Des chiffres](https://open.spotify.com/album/2A2vWtWqKaPumHvyibX6EJ) | 2:43 |
+| 42 | [Maux de tête](https://open.spotify.com/track/15JOE9D6XC0xW8rFRclsZj) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/769povRMdGePBHz5c39gOS) | 2:50 |
+| 43 | [Lithium](https://open.spotify.com/track/4fEATCg8Kor1Pp7C3U7Zk6) | [Gina](https://open.spotify.com/artist/46UUjj9c7Qx8SxLogphyzH) | [Lithium](https://open.spotify.com/album/2Wz5T4OoFq9p7muAX0U100) | 3:06 |
+| 44 | [Les voiles](https://open.spotify.com/track/5sEC7iaiegqDh3GtxRfyyd) | [Elodie Rama](https://open.spotify.com/artist/7szuplhzxUcgWSPs2CXys3) | [Les voiles](https://open.spotify.com/album/1OBpGQvMbeMzrPNKBOVo2r) | 4:50 |
+| 45 | [Une danse pour rien](https://open.spotify.com/track/6DsnFSxccQe4SGMPpZSOkx) | [La Pietà](https://open.spotify.com/artist/5P0atd21WQems5FDKnBysF) | [Une danse pour rien](https://open.spotify.com/album/5C0WfzSs1wWrN3wiE6j9RA) | 4:13 |
+| 46 | [Trop loin](https://open.spotify.com/track/6yJCoVdB2Lf89ep9khOYp4) | [Alyssia La R](https://open.spotify.com/artist/76rkN3xGb4V2icAaLdAeVO) | [Réalité](https://open.spotify.com/album/3hkgmqI7y6Vr9at4N7VPVc) | 3:01 |
+| 47 | [ME VOILÀ](https://open.spotify.com/track/3qJzUKj78n8JzdxFjkfkGr) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [ME VOILÀ](https://open.spotify.com/album/1xmDvMNKREJDfHBVjexEnm) | 2:54 |
+| 48 | [Outsider](https://open.spotify.com/track/7ocQ4cvIfJBzZClMPvoWjE) | [Inayat](https://open.spotify.com/artist/3dhYxA8Qs2Y1Nt93uU7ey6), [GO GO GO](https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f) | [Outsider](https://open.spotify.com/album/472lwBkjiGklRs51cQgJey) | 2:44 |
+| 49 | [Dessin](https://open.spotify.com/track/4e0a4fagqACP5WioqMJADN) | [Moukoukenoff](https://open.spotify.com/artist/5ttzh5c5okYxvTOEaEgL7S) | [Dessin](https://open.spotify.com/album/42YwVNaBOZ1obLg0Eazcaq) | 2:58 |
+| 50 | [15 ans plus tard](https://open.spotify.com/track/0OhEJjCKb7kmAaxSiaEp7Z) | [Turquoise M](https://open.spotify.com/artist/3MbVetgAiX77R6xRxd8D1V) | [15 ans plus tard](https://open.spotify.com/album/1dCOnLcoy6Ybdfaez34viY) | 4:07 |
 
 Snapshot ID: `MTY2NDk3NzA4MSwwMDAwMDAwMDcxNDUxOWEzNTE1ZDdlOTBmN2RjYzNlODUwYzBlNzE0`

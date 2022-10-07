@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Oh'laville
 
-187 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/11Mc0pmsFxafTtRY7OU2qP)
+188 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/11Mc0pmsFxafTtRY7OU2qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,9 +155,10 @@
 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 | 2022-06-24 |  |
 | [Salvaje Vagabundo](https://open.spotify.com/track/5eePEucQO2cluD0ToDqnXK) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Salvaje Vagabundo](https://open.spotify.com/album/1HTvnF60Ik9GQXKIQIKJQG) | 3:16 | 2022-03-11 | 2022-07-27 |
 | [Sangre de Prófugo](https://open.spotify.com/track/09avsricP8Wl6MAB8F71vL) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3bBvYcVnGmhsXE3U5cF7gY) | 3:31 | 2022-03-11 | 2022-07-28 |
-| [Sangre de Prófugo](https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec) | 3:31 | 2022-06-24 |  |
+| [Sangre de Prófugo](https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec) | 3:31 | 2022-06-24 | 2022-10-07 |
 | [Santa Fe](https://open.spotify.com/track/3lIDl1z8S2n0Ga1a6L4vnA) | [Distrito Especial](https://open.spotify.com/artist/2nV0WCZHU0dQpzRersbuo7), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [No Tire Tanta Bala](https://open.spotify.com/album/4Gjx7eC492BS5wKtkLBvVJ) | 2:37 | 2022-03-11 | 2022-07-28 |
 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 | 2022-03-11 | 2022-07-29 |
+| [Si no es muy tarde](https://open.spotify.com/track/5lUS2JGjBQrVvUVgd2jgdF) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [Si no es muy tarde](https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb) | 2:33 | 2022-10-07 |  |
 | [Sigo](https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ) | 3:19 | 2022-03-11 |  |
 | [Sirenas](https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Soles Negros](https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG) | 4:00 | 2022-03-11 | 2022-07-20 |
 | [Soledad Criminal](https://open.spotify.com/track/0Ly8FMXLrMhiJW7kgECxPZ) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Aquí Vamos Otra Vez](https://open.spotify.com/album/5Ky4OYPxlJcZDvVsN2zANf) | 3:09 | 2022-03-11 | 2022-07-28 |

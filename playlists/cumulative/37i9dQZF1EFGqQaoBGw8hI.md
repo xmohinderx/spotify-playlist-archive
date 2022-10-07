@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-487 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+488 songs - 1 day 11 hr 43 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 | 2022-09-08 |  |
 | [Simple Life](https://open.spotify.com/track/1KkPY76tgPzEnL8hdqTiIu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 6:26 | 2022-09-08 |  |
 | [Simple Things](https://open.spotify.com/track/7IIM5wzOr8EQ3I14xHyziq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:11 | 2022-09-08 |  |
+| [Since God Invented Girls](https://open.spotify.com/track/0agGbBdOQuH2qIsVzL6Hao) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:54 | 2022-10-06 |  |
 | [Sine From Above \(with Elton John\)](https://open.spotify.com/track/0zzsyWc45eUcSjw4FNHxeN) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 4:04 | 2022-09-08 |  |
 | [Sixty](https://open.spotify.com/track/7LdYewqyXq76VabqPahqoE) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:51 | 2022-09-08 |  |
 | [Sixty Years On \- Album Edit](https://open.spotify.com/track/4SOuQPxWb4Bddwj4bLb8Hd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:35 | 2022-09-08 |  |
@@ -409,7 +410,7 @@
 | [The Bitch Is Back / Dress You Up \(Glee Cast Version\)](https://open.spotify.com/track/1RJE1C1S7HNmGoR43H6XIo) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Complete Season Four](https://open.spotify.com/album/4fZXOp8No89WLudGy6brXd) | 2:34 | 2022-09-08 |  |
 | [The Bridge](https://open.spotify.com/track/78i0joKG9JwJDqtxcQOPXE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 3:38 | 2022-09-08 |  |
 | [The Cage](https://open.spotify.com/track/0DCyXrySuYSRIVDIuLPzdd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:26 | 2022-09-08 |  |
-| [The Camera Never Lies](https://open.spotify.com/track/4jvqotcqMZ32eA6zGiSY2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:36 | 2022-09-08 |  |
+| [The Camera Never Lies](https://open.spotify.com/track/4jvqotcqMZ32eA6zGiSY2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:36 | 2022-09-08 | 2022-10-07 |
 | [The Captain and The Kid](https://open.spotify.com/track/1dUO9PDSYxb1UERmWYycPi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:01 | 2022-09-08 |  |
 | [The Diving Board](https://open.spotify.com/track/0QRKs4JhXJR7BG4E0Zc3Ka) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 5:59 | 2022-09-08 |  |
 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 | 2022-09-08 | 2022-09-10 |

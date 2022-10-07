@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-503 songs - 22 hr 27 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+504 songs - 22 hr 31 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Hey J](https://open.spotify.com/track/0wmINFeBlnKKQ4Eb6RhSSe) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [Hey J](https://open.spotify.com/album/31ZQnyL40TaWNQDOjH9XIX) | 3:35 | 2021-12-23 | 2022-07-05 |
 | [Higher Protein](https://open.spotify.com/track/5uzSHqZl7wqY4L4UBRLzde) | [PURE](https://open.spotify.com/artist/2u8Sm9jSnMvbZNUjsbeZIM), [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [an/tunes](https://open.spotify.com/artist/727ZLZhPSKwb7qPw91oCD0) | [Higher Protein](https://open.spotify.com/album/6admNcl5NFzP0mLJRZcnyX) | 2:32 | 2022-01-13 | 2022-04-17 |
 | [Himawari](https://open.spotify.com/track/0Db8jbxnMBkB5kO72uIjEJ) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM) | [Himawari](https://open.spotify.com/album/28tmfRGaerhsZg6lusXnL9) | 4:34 | 2021-12-23 | 2022-02-11 |
+| [Home](https://open.spotify.com/track/3wysWXmxGlyI6IiY3prpYK) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/3Tye56Yi85arJp0l5LT6IC) | 3:44 | 2022-10-06 |  |
 | [Home \- Rain Ver.](https://open.spotify.com/track/0mWOdDrz7awswEe7ppzVpO) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Nostalgic Rain](https://open.spotify.com/album/2Npx9E4iJAg08fHM5sIZf5) | 2:15 | 2022-08-11 |  |
 | [Home Is Home](https://open.spotify.com/track/1D1IDEaFX3RnA99wUnWrJv) | [PURE](https://open.spotify.com/artist/2u8Sm9jSnMvbZNUjsbeZIM) | [Home Is Home](https://open.spotify.com/album/4xyxg9DxzajDy72lw8kcIG) | 2:34 | 2022-03-31 | 2022-04-21 |
 | [Hot Chocolate](https://open.spotify.com/track/2GvqwmeGmbWHPnyYF7nQ7O) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's Penny Candy Store \#1](https://open.spotify.com/album/65zDuJRom3CMxP56XSPAM9) | 2:11 | 2022-02-03 | 2022-04-11 |
@@ -437,7 +438,7 @@
 | [Sunday Burger](https://open.spotify.com/track/1wqj078Th6WnoIQrPjIZE0) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [OLD WAYS WON'T OPEN NEW DOOR](https://open.spotify.com/album/3Sa35KpRmVffMhH4b73h0J) | 2:12 | 2022-01-13 | 2022-06-11 |
 | [sweet smoke](https://open.spotify.com/track/444O4OVp9DSfS5PwzOeueM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [SWEET SMOKE](https://open.spotify.com/album/6COcQwEQ9QOI3i101M6e97) | 1:54 | 2021-12-23 | 2022-01-10 |
 | [Sweet Spare](https://open.spotify.com/track/16os4JPoRQcwdzIKo9pdHo) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Sweet Spare](https://open.spotify.com/album/6fOmtJfu7XciZl8g2SRSJi) | 3:16 | 2021-12-23 | 2022-07-16 |
-| [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 |  |
+| [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 | 2022-10-07 |
 | [SXL](https://open.spotify.com/track/18sl3aS5bDBG0yBOD1G9pD) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [THE MOTEL](https://open.spotify.com/album/3Mm4nwyzBqUUXGJrIqzDFF) | 2:49 | 2022-01-06 | 2022-07-27 |
 | [Synchronizing](https://open.spotify.com/track/5dUD00EY39bUkoW0MeH2Co) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Synchronizing](https://open.spotify.com/album/5XguhI1DdLE0q48X8e24uU) | 2:47 | 2022-01-13 | 2022-05-04 |
 | [tasty greens](https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG) | [Froowty Lupes](https://open.spotify.com/artist/2Q9neDyx9dRoMnH7yZkCe2), [Yoshi Tanaka](https://open.spotify.com/artist/1iZ1b2L5WewpMQvrB5acFr), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [tasty greens](https://open.spotify.com/album/4JzSspBnbceWs3F6qexRSR) | 1:36 | 2022-01-13 |  |

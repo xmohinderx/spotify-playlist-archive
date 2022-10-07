@@ -2,9 +2,9 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Lo street rap in Italia è qua\. Aggiornata ogni venerdì\. Cover: Kassimi
+> La casa dello street rap italiano\. Cover: Néza
 
-141 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+142 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cella 3](https://open.spotify.com/track/0VkRsiJbqTffovcsUYQBFA) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 2:23 | 2022-06-16 |  |
 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY) | 3:07 | 2022-06-30 |  |
 | [Click](https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Click](https://open.spotify.com/album/4sqgiuAro7E7ULVcZd1UnR) | 2:51 | 2022-06-23 |  |
-| [Coki \(con Tony Effe, Noyz Narcos, Ketama126 & Guè\)](https://open.spotify.com/track/19MTV4slq11KeCGoF7RQZ6) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:53 | 2022-09-15 |  |
+| [Coki \(con Tony Effe, Noyz Narcos, Ketama126 & Guè\)](https://open.spotify.com/track/19MTV4slq11KeCGoF7RQZ6) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:53 | 2022-09-15 | 2022-10-07 |
 | [Comandamento \(feat\. Geolier\)](https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:09 | 2022-05-11 | 2022-07-22 |
 | [Come Te](https://open.spotify.com/track/6GRm5bcmVArMsd0SaUSn1V) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Come Te](https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX) | 2:40 | 2022-09-08 |  |
 | [Copacabana](https://open.spotify.com/track/4IUW8x8SdDkcbm8LivZRC1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Copacabana](https://open.spotify.com/album/1gDOQhITnrLJtvL1q3aTm2) | 1:56 | 2022-09-22 |  |
@@ -72,6 +72,7 @@
 | [Giro La Nuit](https://open.spotify.com/track/1bBuTSK4KzCBveyk8999Qa) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Giro La Nuit](https://open.spotify.com/album/5OdTbldVWMzYUmJKy6zw0M) | 2:49 | 2022-09-22 |  |
 | [Go Go Jack](https://open.spotify.com/track/1PmoesTamml0fTaUiTxxe5) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Go Go Jack](https://open.spotify.com/album/1sb1yVEaGyTLLOzM1QNRlk) | 2:57 | 2022-05-11 | 2022-05-18 |
 | [GORILLA\#1](https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [GORILLA\#1](https://open.spotify.com/album/1nsRK8s3uXIw0dNGN3rWAF) | 2:38 | 2022-06-09 | 2022-06-24 |
+| [Gossip](https://open.spotify.com/track/1C2LT6N62SfqtF3SGPQbJ9) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Gossip](https://open.spotify.com/album/7e9ts0pFKQ6ey3aUZNRLt4) | 2:14 | 2022-10-06 |  |
 | [Goyard](https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Goyard](https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA) | 2:44 | 2022-05-12 |  |
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-11 |  |
 | [HOUMA](https://open.spotify.com/track/6HYJLFIqcRzL7uwcnq2JKC) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [HOUMA](https://open.spotify.com/album/5w61uZnYtLBWGxpFcsJLF3) | 2:44 | 2022-05-26 | 2022-06-17 |

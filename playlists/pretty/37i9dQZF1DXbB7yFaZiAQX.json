@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 855801,
+  "num_followers": 856147,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI4NDE4MSwwMDAwMDAwMGJkMGMxMmMxODE3MGUxMDczZThlNzNiMDk0NjkxYWEx",
+  "snapshot_id": "MTY2NDI4NDE4MSwwMDAwMDAwMDNiZjViZmFlZTgzYmMyYmRmYzk3YTgxZTBjNGJlZDc0",
   "tracks": [
     {
       "added_at": "2022-06-01 09:47:30",
@@ -225,10 +225,10 @@
       "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw"
     },
     {
-      "added_at": "2019-08-01 09:13:54",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2019-08-01 09:50:38",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
-      "added_at": "2019-08-02 12:07:51",
-      "album": {
-        "name": "Points On The Curve",
-        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
-      },
-      "artists": [
-        {
-          "name": "Wang Chung",
-          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Dance Hall Days",
-      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Call Me",
@@ -321,10 +305,26 @@
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
+      "added_at": "2019-08-02 12:07:51",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+        "name": "Points On The Curve",
+        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
+      },
+      "artists": [
+        {
+          "name": "Wang Chung",
+          "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Dance Hall Days",
+      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
+    },
+    {
+      "added_at": "2019-08-01 09:13:54",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -595,6 +595,22 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
         "name": "Touch (Reissue - Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pGwe5BW8GVtIP8ruoa1jB"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 294586,
       "name": "Here Comes the Rain Again - Remastered Version",
       "url": "https://open.spotify.com/track/78RIER8V6EhrqVPOBi2GYa"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2"
     },
     {
-      "added_at": "2019-08-02 12:19:29",
-      "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "And She Was",
-      "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Metro Music",
@@ -839,6 +823,22 @@
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2019-08-02 12:19:29",
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "And She Was",
+      "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
     },
     {
-      "added_at": "2019-08-01 09:50:38",
-      "album": {
-        "name": "The Stars We Are",
-        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
-      },
-      "artists": [
-        {
-          "name": "Marc Almond",
-          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
-        }
-      ],
-      "duration_ms": 261687,
-      "name": "Tears Run Rings",
-      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
-    },
-    {
       "added_at": "2020-01-07 15:19:52",
       "album": {
         "name": "Music for the Masses (2006 Remaster)",
@@ -1159,6 +1143,22 @@
       "duration_ms": 290493,
       "name": "Never Let Me Down Again - 2006 Remaster",
       "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
+    },
+    {
+      "added_at": "2019-08-01 09:50:38",
+      "album": {
+        "name": "The Stars We Are",
+        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
+      },
+      "artists": [
+        {
+          "name": "Marc Almond",
+          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
+        }
+      ],
+      "duration_ms": 261687,
+      "name": "Tears Run Rings",
+      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
     },
     {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Song To The Siren - Remastered",
+      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
+    },
+    {
       "added_at": "2021-04-13 07:11:45",
       "album": {
         "name": "Easy Pieces (Remastered)",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "It'll End In Tears (Remastered)",
-        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
-      },
-      "artists": [
-        {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Song To The Siren - Remastered",
-      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Argybargy",
         "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
       },
@@ -1353,20 +1353,20 @@
       "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
     },
     {
-      "added_at": "2019-08-07 10:02:33",
+      "added_at": "2019-08-01 09:13:54",
       "album": {
-        "name": "New Clear Days",
-        "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
       },
       "artists": [
         {
-          "name": "The Vapors",
-          "url": "https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2"
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
         }
       ],
-      "duration_ms": 224106,
-      "name": "Turning Japanese - Non Stop Edit",
-      "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1385,20 +1385,20 @@
       "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
     },
     {
-      "added_at": "2019-08-01 09:13:54",
+      "added_at": "2019-08-07 10:02:33",
       "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+        "name": "New Clear Days",
+        "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
       },
       "artists": [
         {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+          "name": "The Vapors",
+          "url": "https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2"
         }
       ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
+      "duration_ms": 224106,
+      "name": "Turning Japanese - Non Stop Edit",
+      "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
     },
     {
       "added_at": "2021-03-29 06:58:38",
@@ -1465,6 +1465,22 @@
       "url": "https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1"
     },
     {
+      "added_at": "2021-06-15 11:00:16",
+      "album": {
+        "name": "(Who's Afraid Of) The Art Of Noise? [Remastered]",
+        "url": "https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR"
+      },
+      "artists": [
+        {
+          "name": "The Art Of Noise",
+          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+        }
+      ],
+      "duration_ms": 615693,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa"
+    },
+    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "I Just Can't Stop It (Remastered)",
@@ -1513,22 +1529,6 @@
       "url": "https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj"
     },
     {
-      "added_at": "2021-06-15 11:00:16",
-      "album": {
-        "name": "(Who's Afraid Of) The Art Of Noise? [Remastered]",
-        "url": "https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR"
-      },
-      "artists": [
-        {
-          "name": "The Art Of Noise",
-          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
-        }
-      ],
-      "duration_ms": 615693,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Upstairs At Eric's",
@@ -1543,6 +1543,22 @@
       "duration_ms": 191306,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Some Great Reward (2006 Remaster)",
+        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "People Are People - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1577,20 +1593,20 @@
       "url": "https://open.spotify.com/track/4cY1KFcIcTkjXxxF4KVDpY"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
+      "added_at": "2022-03-31 16:07:57",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 232080,
-      "name": "People Are People - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
+      "duration_ms": 277688,
+      "name": "Someone Somewhere (In Summertime)",
+      "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
     },
     {
       "added_at": "2020-10-21 16:52:43",
@@ -1609,20 +1625,20 @@
       "url": "https://open.spotify.com/track/42B78nSUeYYpdzmeWciyPM"
     },
     {
-      "added_at": "2022-03-31 16:07:57",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "Fun Boy Three",
+          "url": "https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL"
         }
       ],
-      "duration_ms": 277688,
-      "name": "Someone Somewhere (In Summertime)",
-      "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
+      "duration_ms": 171506,
+      "name": "Our Lips Are Sealed",
+      "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1721,22 +1737,6 @@
       "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx"
-      },
-      "artists": [
-        {
-          "name": "Fun Boy Three",
-          "url": "https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "Our Lips Are Sealed",
-      "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"
-    },
-    {
       "added_at": "2021-08-31 07:26:09",
       "album": {
         "name": "Vision Thing",
@@ -1817,22 +1817,6 @@
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Everyday Is Like Sunday - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
-    },
-    {
       "added_at": "2019-08-01 09:23:21",
       "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
@@ -1847,6 +1831,22 @@
       "duration_ms": 290480,
       "name": "Fashion - 2017 Remaster",
       "url": "https://open.spotify.com/track/1MMYuuvnD3O9Sn90gDabv9"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Everyday Is Like Sunday - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
     },
     {
       "added_at": "2020-07-05 11:25:07",
@@ -2121,22 +2121,6 @@
       "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
     },
     {
-      "added_at": "2019-08-02 12:45:54",
-      "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "p:Machinery",
-      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Thirty Thousand Feet Over China",
@@ -2151,6 +2135,22 @@
       "duration_ms": 241320,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
+    },
+    {
+      "added_at": "2019-08-02 12:45:54",
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "p:Machinery",
+      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Life's Too Good",
-        "url": "https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp"
-      },
-      "artists": [
-        {
-          "name": "The Sugarcubes",
-          "url": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "On The Other Hand There's A Fist",
         "url": "https://open.spotify.com/album/3Yg4ePP2KlxZgCXhOgQIDU"
       },
@@ -2237,20 +2221,20 @@
       "url": "https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG"
     },
     {
-      "added_at": "2018-12-18 07:25:29",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Eisb\u00e4r",
-        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
+        "name": "Life's Too Good",
+        "url": "https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp"
       },
       "artists": [
         {
-          "name": "Grauzone",
-          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
+          "name": "The Sugarcubes",
+          "url": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
         }
       ],
-      "duration_ms": 288305,
-      "name": "Eisb\u00e4r",
-      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
+      "duration_ms": 239533,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f"
     },
     {
       "added_at": "2021-07-27 10:40:15",
@@ -2287,22 +2271,6 @@
     {
       "added_at": "2019-08-02 12:19:29",
       "album": {
-        "name": "Autoamerican",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 391426,
-      "name": "Rapture - Remastered 2001",
-      "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
-    },
-    {
-      "added_at": "2019-08-02 12:19:29",
-      "album": {
         "name": "We Are The '80s",
         "url": "https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV"
       },
@@ -2315,6 +2283,38 @@
       "duration_ms": 249106,
       "name": "The More You Live, The More You Love",
       "url": "https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn"
+    },
+    {
+      "added_at": "2018-12-18 07:25:29",
+      "album": {
+        "name": "Eisb\u00e4r",
+        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
+      },
+      "artists": [
+        {
+          "name": "Grauzone",
+          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
+        }
+      ],
+      "duration_ms": 288305,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
+    },
+    {
+      "added_at": "2019-08-02 12:19:29",
+      "album": {
+        "name": "Autoamerican",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 391426,
+      "name": "Rapture - Remastered 2001",
+      "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
     },
     {
       "added_at": "2020-10-21 16:52:43",
@@ -2349,22 +2349,6 @@
       "url": "https://open.spotify.com/track/21DRFiBq9G12EAq9RoW6iw"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/6HJUiwsBuAI9uhL9FkpUuG"
-      },
-      "artists": [
-        {
-          "name": "Altered Images",
-          "url": "https://open.spotify.com/artist/07h7JMfYWswTq4qpinC5q4"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "Don't Talk to Me About Love",
-      "url": "https://open.spotify.com/track/4QBZTbaM3vreybFgzRO5QQ"
-    },
-    {
       "added_at": "2019-08-02 11:52:58",
       "album": {
         "name": "Kilimanjaro",
@@ -2379,6 +2363,22 @@
       "duration_ms": 162266,
       "name": "Reward",
       "url": "https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/6HJUiwsBuAI9uhL9FkpUuG"
+      },
+      "artists": [
+        {
+          "name": "Altered Images",
+          "url": "https://open.spotify.com/artist/07h7JMfYWswTq4qpinC5q4"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Don't Talk to Me About Love",
+      "url": "https://open.spotify.com/track/4QBZTbaM3vreybFgzRO5QQ"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2413,22 +2413,6 @@
       "url": "https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK"
     },
     {
-      "added_at": "2019-08-02 12:19:29",
-      "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Psycho Killer - Live",
-      "url": "https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Today",
@@ -2443,6 +2427,22 @@
       "duration_ms": 236933,
       "name": "Tugboat",
       "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
+    },
+    {
+      "added_at": "2019-08-02 12:19:29",
+      "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Psycho Killer - Live",
+      "url": "https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2"
     }
   ],
   "unique_name": "The '80s All Lined Up",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,216 likes - 102 songs - 5 hr 25 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,217 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 5 | [God's Incense](https://open.spotify.com/track/4vBGS75jLj7VlI2Oh1UuWA) | [Shooterkhumz](https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU) | [I Was Overthinking This](https://open.spotify.com/album/4I2o2HtxSLxqvUmb5D1JAy) | 3:58 |
 | 6 | [Lil Troca \- Fugitivo Vol\. 14](https://open.spotify.com/track/3N50BFSH4rrcXoh8VJ3j4e) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Lil Troca \- Fugitivo Vol\. 14](https://open.spotify.com/album/4kThl11a8isSrM5WHzywB7) | 2:20 |
 | 7 | [TT](https://open.spotify.com/track/4J5r3xeWb9Wm2ykeBnS3EU) | [SWN](https://open.spotify.com/artist/72kUoZtNxzO942bjFr66IM), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [TT](https://open.spotify.com/album/5CCZeC47D7vp57SHBJB2dq) | 2:17 |
-| 8 | [Tally Sh\*t](https://open.spotify.com/track/2oJLfoTjgyW8U5Jzta8Omp) | [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8) | [Tally Sh\*t](https://open.spotify.com/album/51YeMmctz9ORKCvMGPIV7F) | 2:30 |
+| 8 | [Tally Sh\*t Freestyle](https://open.spotify.com/track/2oJLfoTjgyW8U5Jzta8Omp) | [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8) | [Tally Sh\*t Freestyle](https://open.spotify.com/album/51YeMmctz9ORKCvMGPIV7F) | 2:30 |
 | 9 | [On The Way](https://open.spotify.com/track/3oznSZIE0fjOC4S0HRPyDz) | [Breeze Zulu Bass King](https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q), [808RSA](https://open.spotify.com/artist/5sIbt07rSAUcgbNWjSZOSz) | [On The Way](https://open.spotify.com/album/4NrbCr2mw2OxJ4rBFmRvAp) | 3:21 |
 | 10 | [Heart](https://open.spotify.com/track/769kJFLQw0d1Ta91gUMNZF) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp), [Tidez](https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4) | [Heart](https://open.spotify.com/album/1MQzojmRw1y0rPSfgvIBWk) | 2:47 |
 | 11 | [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 |

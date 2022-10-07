@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Eric Land com Matheus Fernandes, LUDMILLA, N.I.N.A e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782,243 likes - 94 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,782,503 likes - 94 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

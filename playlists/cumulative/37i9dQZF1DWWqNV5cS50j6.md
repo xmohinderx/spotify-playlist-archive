@@ -4,7 +4,7 @@
 
 > d4vd make anti pop.
 
-1,102 songs - 2 day 5 hr 30 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,103 songs - 2 day 5 hr 34 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,8 @@
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-01-30 | 2022-07-23 |
 | [Her Manner](https://open.spotify.com/track/1Qv8px5889ebB4g6V6tCCR) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Her Manner](https://open.spotify.com/album/7bfRq1kM8itHlpTIpz5HIo) | 3:48 | 2021-05-08 | 2021-06-16 |
 | [Here](https://open.spotify.com/track/64rXwox33vcb7IKEPWZjeD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/2bGtxkYsnt72Vl7GejjZYD) | 2:16 | 2022-02-18 | 2022-05-10 |
-| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 |  |
+| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 | 2022-10-07 |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-04 |  |
 | [HEROIN](https://open.spotify.com/track/54glJfnfZgMutAEMXpS2t8) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEROIN](https://open.spotify.com/album/40DFO4R4WiWLejep48mMAO) | 3:07 | 2022-04-01 | 2022-04-15 |
 | [Herringbone](https://open.spotify.com/track/0ekkYaWO7OR9RBWtOcGPKM) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Herringbone](https://open.spotify.com/album/3y8sZLquAIwSOVz9g2mQnI) | 2:44 | 2021-02-06 | 2021-05-03 |
 | [HETEROCHROMIA](https://open.spotify.com/track/3dmUfLSsWUrI5PUYUnCy0v) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [HETEROCHROMIA](https://open.spotify.com/album/3QPG12bUNPfq1WqbzQO3W5) | 2:13 | 2021-06-12 | 2021-11-06 |

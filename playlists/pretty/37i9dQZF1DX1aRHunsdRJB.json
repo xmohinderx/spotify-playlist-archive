@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDUzZjczODYzMGZkZGJmMjlmY2ExNmJiOGZiNTM5N2Ji",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGY2NGFhMDA4NzUwYjY1YzRiNjA5NWU1ZjZkMzU0MWYw",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Practice",
+        "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
+      },
+      "artists": [
+        {
+          "name": "GBM Nutron",
+          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Baby Bells Riddim",
         "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
@@ -863,6 +879,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "The Wedding Album",
+        "url": "https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 219846,
+      "name": "Play Harder",
+      "url": "https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Bad in Bum Bum / Back Bend",
         "url": "https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q"
       },
@@ -903,22 +935,6 @@
       "duration_ms": 154909,
       "name": "Bend Yuh Back",
       "url": "https://open.spotify.com/track/6d9GMNNJpGEjrH8OFDGEXN"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "The Wedding Album",
-        "url": "https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 219846,
-      "name": "Play Harder",
-      "url": "https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -995,38 +1011,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Practice",
-        "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
       },
       "artists": [
         {
-          "name": "GBM Nutron",
-          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
         }
       ],
-      "duration_ms": 185660,
-      "name": "Practice",
-      "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Toatin Riddim",
-        "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        },
-        {
-          "name": "Team Foxx",
-          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
-        }
-      ],
-      "duration_ms": 151588,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T"
+      "duration_ms": 216405,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1059,6 +1055,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Toatin Riddim",
+        "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        },
+        {
+          "name": "Team Foxx",
+          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
+        }
+      ],
+      "duration_ms": 151588,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Soca Gold 2012",
         "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
       },
@@ -1071,6 +1087,42 @@
       "duration_ms": 182773,
       "name": "Work",
       "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Bottle over Head",
+        "url": "https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK"
+      },
+      "artists": [
+        {
+          "name": "Triniboi Joocie",
+          "url": "https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w"
+        },
+        {
+          "name": "Wetty Beatz",
+          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Bottle over Head",
+      "url": "https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1099,18 +1151,54 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "iShal",
-        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
       },
       "artists": [
         {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
         }
       ],
-      "duration_ms": 216405,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+      "duration_ms": 230711,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/6z720xQ3VQnESEKUDISzno"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 136663,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/5dNlxKgi1aVsi5sTuOcN4P"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1183,90 +1271,6 @@
       "duration_ms": 171964,
       "name": "Behave Pun It",
       "url": "https://open.spotify.com/track/56AjWZnckGDACRkOOQSYIz"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Bottle over Head",
-        "url": "https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK"
-      },
-      "artists": [
-        {
-          "name": "Triniboi Joocie",
-          "url": "https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w"
-        },
-        {
-          "name": "Wetty Beatz",
-          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Bottle over Head",
-      "url": "https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Sparta Boss",
-        "url": "https://open.spotify.com/album/6UMCVOLFPduRH1u48WNH2Q"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
-        }
-      ],
-      "duration_ms": 188055,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/1823Dax4egZNBDGAE9co2y"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Bam Bam Season",
-        "url": "https://open.spotify.com/album/4uPcKI9HbmnJzsOR8qCRuM"
-      },
-      "artists": [
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Bam Bam Season",
-      "url": "https://open.spotify.com/track/4S6kzemNEMI7UhgxF6He9e"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Lookin' for China",
-        "url": "https://open.spotify.com/album/6md8CnJ0pfv57rx9QFhdK4"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Lookin' for China",
-      "url": "https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw"
     }
   ],
   "unique_name": "Soca Bashment",

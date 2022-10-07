@@ -1750,6 +1750,28 @@
     },
     {
       "album": {
+        "name": "Cool Kids",
+        "url": "https://open.spotify.com/album/7BeNCwqOUFyfWN4392UWEK"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153107,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX"
+    },
+    {
+      "album": {
         "name": "Could've Been Us",
         "url": "https://open.spotify.com/album/2LLSwLZdGO0ADN1RlpVccS"
       },
@@ -3201,7 +3223,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 178514,
       "name": "Gonna Need Ya",
       "url": "https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3"
@@ -7340,6 +7362,32 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6N396y1yfDrriAkUx1ESs3"
+      },
+      "artists": [
+        {
+          "name": "Viva La Panda",
+          "url": "https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy"
+        },
+        {
+          "name": "Swizznife",
+          "url": "https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a"
+        },
+        {
+          "name": "Friends & I",
+          "url": "https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6hmEfkBtsBnOGoXPS0AULw"
+    },
+    {
+      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/1fqCw1wJoJltXN65GhcxZc"
       },
@@ -7523,7 +7571,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 169043,
       "name": "Pull Me",
       "url": "https://open.spotify.com/track/46QfufNUnY25faVWLkohut"

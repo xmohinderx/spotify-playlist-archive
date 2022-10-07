@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-70 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
+71 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baby It's Cold Outside](https://open.spotify.com/track/6J0FoTuu2z24FutBRLfwmb) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 2:14 | 2021-12-21 |  |
 | [Blue Christmas](https://open.spotify.com/track/2zdQV5ZAr4lKpHK4dJCbKW) | [Holy Eve Trio](https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG) | [Blue Christmas EP](https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ) | 2:56 | 2021-12-21 |  |
 | [Christmas Blues](https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:47 | 2021-12-21 |  |
+| [Christmas Song](https://open.spotify.com/track/2rGPxZss3HtfmVF1JNvfKT) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Christmas Song](https://open.spotify.com/album/0WUOWtTTCfCiEv9mkjvCod) | 3:44 | 2022-10-06 |  |
 | [Christmas Time](https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 2:02 | 2021-12-21 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/4RHhF5oVeV0ubNBcvKgCX9) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/1ufkzsMX60Mt6E2eCrpOff) | 5:26 | 2021-12-21 |  |
 | [Deck The Halls](https://open.spotify.com/track/0SD5t32YWkTFMFOAig3dRG) | [The Holiday Horns](https://open.spotify.com/artist/4BUCzxTW8MiC4TT0C29CKF) | [Deck The Halls](https://open.spotify.com/album/0Xom85WcjyXZcX4stFhVS8) | 3:22 | 2021-12-21 |  |

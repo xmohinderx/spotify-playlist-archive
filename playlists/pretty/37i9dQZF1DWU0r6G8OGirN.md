@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,796 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,025 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 4 | [Away In A Manger](https://open.spotify.com/track/1k0GSxGcSWSCAlofk7nnGp) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9) | 5:03 |
 | 5 | [Hark! The Herald Angels Sing \(Smooth Jazz Version\)](https://open.spotify.com/track/3CtCdVoPoB3IALr4erTZr8) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [Traditional Christmas: Jazz Versions](https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC) | 3:19 |
 | 6 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 |
-| 7 | [White Christmas](https://open.spotify.com/track/2dvU6xGERLJVghYFioPgmf) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [A Slow Jams Jazz Christmas](https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ) | 3:52 |
-| 8 | [Frosty The Snowman](https://open.spotify.com/track/1vhjeweVA3yg4cwWZgtSCj) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [Christmas Time Is Here](https://open.spotify.com/album/4QieYF9NU48QWzoazTI7C9) | 2:10 |
+| 7 | [Frosty The Snowman](https://open.spotify.com/track/6i78EhlNpCODok4KjHKLrf) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:02 |
+| 8 | [White Christmas](https://open.spotify.com/track/2dvU6xGERLJVghYFioPgmf) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [A Slow Jams Jazz Christmas](https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ) | 3:52 |
 | 9 | [Home for the Holidays](https://open.spotify.com/track/6M2ZatEcMJNWrhm7dF8h6M) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [Home for the Holidays](https://open.spotify.com/album/3mcRjaxQEF83X8u7PWHqba) | 3:46 |
 | 10 | [Christmas Waltz](https://open.spotify.com/track/0myOinmRDkfWlHnG2wIFzh) | [Rob McConnell Trio](https://open.spotify.com/artist/53mwOK94FGkKKUBUq9jGTx) | [A Concord Jazz Christmas](https://open.spotify.com/album/3cR6XhgcN0mAP5bGVF9ghX) | 4:32 |
 | 11 | [Abide With Me](https://open.spotify.com/track/7qPYEUXACuFdUyywP24ZvO) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Abide With Me](https://open.spotify.com/album/5zBhekiGUyciT3kBry7MRp) | 3:17 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 52 | [Oh Christmas Tree](https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg) | [Holly Humphries](https://open.spotify.com/artist/1LEm1FrOUeY0mc4QSANWCv) | [Blue Christmas](https://open.spotify.com/album/2OTob7u7QIBN14LmOckwvc) | 2:53 |
 | 53 | [A Christmas Love Song](https://open.spotify.com/track/1rkIIRDsTaaAShnlE3qxyD) | [Lori Mechem](https://open.spotify.com/artist/4iOaiUFARBMbAKFW1AHeI4) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:48 |
 
-Snapshot ID: `MTY2MzI1MzA5NywwMDAwMDAwMGVhODYyNTVkZDU2ZTQ3NTRmZTg1NjZmYzFlODliNGEz`
+Snapshot ID: `MTY2NTA5MzY2MCwwMDAwMDAwMDMzZDZkYmUxMjA3YTMxM2Q3N2EzYjkyZWM1NGY5NjA0`

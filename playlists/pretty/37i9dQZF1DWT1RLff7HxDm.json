@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 140883,
+  "num_followers": 140932,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDdlZmFkN2Q2MDJiMjE4NTYzOGJiZmQ5NGNkNmQxYmQ3",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGYwMGNlMWNkMjBjMDJjODA3MTQwYjBjYWMzNjdjMDY2",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+        "name": "Live at the Ryman",
+        "url": "https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1"
       },
       "artists": [
         {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 275033,
-      "name": "Keep Coming Back - Live",
-      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
+      "duration_ms": 615573,
+      "name": "Red Light - Live",
+      "url": "https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -895,6 +895,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 275033,
+      "name": "Keep Coming Back - Live",
+      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Live In Europe",
         "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 230306,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live at the Ryman",
-        "url": "https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 615573,
-      "name": "Red Light - Live",
-      "url": "https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c"
     },
     {
       "added_at": "2020-10-30 17:47:12",

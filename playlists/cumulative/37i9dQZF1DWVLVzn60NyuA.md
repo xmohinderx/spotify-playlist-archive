@@ -4,14 +4,14 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-345 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
+346 songs - 18 hr 38 min - [published](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Outta 10](https://open.spotify.com/track/7pLekRLFessQEXoPhw5jB3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [10 Outta 10](https://open.spotify.com/album/1Ekae0nx8S2LySjBnMb1hq) | 2:20 | 2021-12-16 | 2022-02-24 |
 | [3AM](https://open.spotify.com/track/7lvVLpULHfnqgxn9yZha8L) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV) | [Heating Up](https://open.spotify.com/album/4ZTBDp6mTXBEn2GkJNBBgo) | 2:34 | 2021-12-16 | 2022-07-29 |
 | [911](https://open.spotify.com/track/5jFQM82pmdJSBHGnlhL8as) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [911](https://open.spotify.com/album/4UKWh8YBQqktuX1HArlnwq) | 3:13 | 2021-12-16 | 2022-01-26 |
-| [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2021-12-16 |  |
+| [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2021-12-16 | 2022-10-07 |
 | [Activate](https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Activate](https://open.spotify.com/album/0tQ3jHEuVyNat7bmECwY4d) | 3:10 | 2021-12-28 | 2022-07-20 |
 | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/4MntS4sILmujgVJgWJoRbv) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/album/6uOlTbRJLSTYDIieRMzcs0) | 5:13 | 2021-12-16 | 2022-07-29 |
 | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/6u06O02Qv5ZdwD0x9SqEbX) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith X GuiltyBeatz\)](https://open.spotify.com/album/0Q7QMfuDDS2Pm0OAxaJSPU) | 5:13 | 2022-07-28 |  |
@@ -293,6 +293,7 @@
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-05-11 | 2022-07-14 |
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-16 |  |
 | [Table For Two](https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa) | [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Quarantime: The Lost Files](https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0) | 2:34 | 2021-12-16 |  |
+| [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2022-10-07 |  |
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 | 2022-03-25 |  |
 | [Te Gusta](https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z) | [Young "D"](https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Te Gusta](https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V) | 3:26 | 2021-12-16 | 2022-01-26 |
 | [Temper](https://open.spotify.com/track/7i0ACEM0ZTfVP2C5wIrIhD) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Temper](https://open.spotify.com/album/1cHhAGNkqqKFgMDQIzrILi) | 3:56 | 2021-12-16 | 2022-07-27 |

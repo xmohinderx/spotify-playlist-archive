@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-88 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+89 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,10 +62,11 @@
 | [On & On](https://open.spotify.com/track/4szdAoKiSXuatHbwwWRDDz) | [Rush Midnight](https://open.spotify.com/artist/7JhInRTK054LmqV3Ton1z4) | [On & On](https://open.spotify.com/album/2OmNDztyjPcH9yjZlBklbO) | 3:30 | 2022-05-13 | 2022-07-21 |
 | [On E](https://open.spotify.com/track/4VozL4k5xPgFcFhH6Qr0zH) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Ívan Frey](https://open.spotify.com/artist/6WG66UQJB2RFMfEMr2SbXh) | [A Blue Tesla Story](https://open.spotify.com/album/0drLi05JrFsXqzhnHmyOhp) | 3:46 | 2022-07-01 | 2022-09-24 |
 | [Only One](https://open.spotify.com/track/3y8UYe62ldlvxRgAFGovZq) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Only One](https://open.spotify.com/album/2KMexrqmHK600SRQNJykVb) | 3:01 | 2021-11-05 |  |
-| [Opposites](https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1) | [Ade](https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb) | [Opposites](https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW) | 3:39 | 2022-07-11 |  |
+| [Opposites](https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1) | [Ade](https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb) | [Opposites](https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW) | 3:39 | 2022-07-11 | 2022-10-07 |
 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 | 2021-11-05 |  |
 | [PALM SPRINGS](https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO) | [Distance Learning](https://open.spotify.com/artist/0QYMpYHo80SIAEdOJ70GPd) | [PALM SPRINGS](https://open.spotify.com/album/2TbX2nyWZdxlyMI9CgUmRn) | 2:51 | 2022-05-09 | 2022-07-14 |
 | [Playboy](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 | 2022-06-20 | 2022-09-09 |
+| [poseidon](https://open.spotify.com/track/4qpFTWOjbrKueLNSDdjigo) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [mynameisleonidas](https://open.spotify.com/album/2r9YXXiFLz4VB4oSsVYA2h) | 3:26 | 2022-10-06 |  |
 | [R A B O N A](https://open.spotify.com/track/2S369D2uttM1uwlfqtHhUw) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [R A B O N A](https://open.spotify.com/album/18mWb3oJws5PhyH8aETKZs) | 2:50 | 2022-06-08 | 2022-08-23 |
 | [Recall \(Young Man\)](https://open.spotify.com/track/3qn8vCHlKfZiiZaQZHFwYI) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Omolola](https://open.spotify.com/artist/2oiwI74vU7D2J3F8bNqf0Z) | [Recall \(Young Man\)](https://open.spotify.com/album/2A787Mr8PzkjC2lUjwOxAb) | 5:17 | 2022-06-23 | 2022-09-10 |
 | [Recharge](https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Recharge](https://open.spotify.com/album/6JnyLWPrZowsSOvW2yGTbR) | 2:40 | 2022-06-06 | 2022-08-13 |

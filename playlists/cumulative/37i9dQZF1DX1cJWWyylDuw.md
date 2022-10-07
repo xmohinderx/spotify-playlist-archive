@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-402 songs - 1 day 2 hr 15 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+403 songs - 1 day 2 hr 20 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,13 +39,14 @@
 | [Ascension](https://open.spotify.com/track/5oP3huOzflpHFKzqUK3UsR) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Ascension](https://open.spotify.com/album/7adD2POLb9tawK0Kcp2p8U) | 3:46 | 2021-12-17 | 2022-07-25 |
 | [Asymmetry](https://open.spotify.com/track/3DKSM1HppHmGgEztFS5q2T) | [Eradicate Me](https://open.spotify.com/artist/1PqHlQtpYfnuWGNoWhZB6l) | [Asymmetry](https://open.spotify.com/album/5ArIhP5EoNogavKjUzWg89) | 3:13 | 2022-01-07 | 2022-07-25 |
 | [Awakened Salvation](https://open.spotify.com/track/03rvFxNjwXwNUMaBBVDpDT) | [Resist The Thought](https://open.spotify.com/artist/48RlvjoKZtNIcimFZ6BDbL) | [Awakened Salvation](https://open.spotify.com/album/4aXmofWOwUJ6tZv446Cpqy) | 4:54 | 2021-12-31 | 2022-04-09 |
+| [Baba Yaga](https://open.spotify.com/track/0RSkbK5eWAPY5W5l5Q08zf) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs) | 4:15 | 2022-10-03 |  |
 | [Baba Yaga](https://open.spotify.com/track/2qk76H18li0kh0hPJTZmMk) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Baba Yaga](https://open.spotify.com/album/1fUP56lgqAS5bzycn35WAl) | 4:15 | 2021-12-17 | 2022-07-29 |
 | [Baba Yaga](https://open.spotify.com/track/3BI1nr32dmrPTTMmywXZZp) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 4:15 | 2022-07-08 | 2022-10-04 |
 | [Banquet of Enigmatic Horrors Pt1: Terror](https://open.spotify.com/track/4vjralLcZQXtoCFTQajZQu) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Banquet of Enigmatic Horrors Pt 1: Terror](https://open.spotify.com/album/4t6hqON21Pp8pkNAXKd9lK) | 4:22 | 2021-12-17 | 2022-07-28 |
 | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/track/4RxrwJYJ3gRnxrUBpyKkzz) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Oliver Rae Aleron](https://open.spotify.com/artist/2IHcesdgSqwFOxH6n7GOXQ) | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/album/2zwDvKAqalRZTDl4luS9bW) | 4:45 | 2021-12-17 | 2022-07-29 |
 | [Banshee](https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm) | [Seeing Things](https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH) | [Banshee](https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj) | 3:10 | 2022-05-27 | 2022-07-24 |
 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Barren and Breathless Macrocosm](https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz) | 4:56 | 2021-12-17 | 2022-07-29 |
-| [Bathe in the Flame](https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Bathe in the Flame](https://open.spotify.com/album/1hHaXapKFTDXsnDhlZbmN6) | 4:00 | 2021-12-17 |  |
+| [Bathe in the Flame](https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Bathe in the Flame](https://open.spotify.com/album/1hHaXapKFTDXsnDhlZbmN6) | 4:00 | 2021-12-17 | 2022-10-07 |
 | [Battles Are Won Within](https://open.spotify.com/track/1x3h4Gt8q5lr3lCr9DwW40) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Battles Are Won Within](https://open.spotify.com/album/2SxBnU5KV2nnjndfDlQgqZ) | 3:56 | 2021-12-17 | 2022-07-23 |
 | [Behind the Crowd](https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Behind The Crowd](https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM) | 3:14 | 2022-04-15 |  |
 | [Behind the Hand of God](https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Behind the Hand of God](https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp) | 3:20 | 2021-12-17 |  |

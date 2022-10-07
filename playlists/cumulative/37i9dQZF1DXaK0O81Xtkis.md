@@ -4,7 +4,7 @@
 
 > make it pop! cover: 5 Seconds of Summer
 
-440 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+441 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2022-01-14 | 2022-07-29 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-16 |  |
 | [i hate her boyfriend's face](https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [i hate her boyfriend's face](https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy) | 2:25 | 2022-05-13 | 2022-07-23 |
-| [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 |  |
+| [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-16 |  |
+| [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-10-07 |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2021-10-29 | 2022-02-19 |
 | [i love u](https://open.spotify.com/track/4h83bb7xRzB7Qo735CjLMH) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [i love u](https://open.spotify.com/album/6f3F3cp9VVYCFKerzAp82n) | 2:43 | 2022-02-25 | 2022-03-12 |
 | [I Love You So \- King Henry Remix](https://open.spotify.com/track/0F6XcWEzymSracgq12pOXX) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8), [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [I Love You So \(King Henry Remix\)](https://open.spotify.com/album/7mGp8czi0fTiBsg7xq6wMD) | 3:13 | 2022-01-07 | 2022-02-26 |

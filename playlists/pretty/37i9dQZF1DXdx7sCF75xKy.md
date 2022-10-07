@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: OHMYMEITING
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,651 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,652 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 |
+| 1 | [望遠鏡](https://open.spotify.com/track/0wJD3QKVyzk9rBwtiBhQbe) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [望遠鏡](https://open.spotify.com/album/6yr99eQaRmQnSh5Xj61Kpr) | 3:49 |
 | 2 | [Obvi](https://open.spotify.com/track/2qKm38yVYENyqytMGLNt2Y) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Obvi](https://open.spotify.com/album/1up43JxXIQ3MbRYWfJ6piU) | 2:31 |
-| 3 | [獨立](https://open.spotify.com/track/2MGTlOEdDIN4GTUnP7qav7) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [仙人掌](https://open.spotify.com/album/0Yoxxp6B6QLXtjaQJ1L4On) | 3:26 |
+| 3 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 |
 | 4 | [3 Hours On](https://open.spotify.com/track/05POP75H2yDY9ojTVMTnfm) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:31 |
 | 5 | [Precious](https://open.spotify.com/track/7iE2pKXgHO93pvzCs1RkdH) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Precious](https://open.spotify.com/album/5zCGVSNOIhoCt0fjvX8R1K) | 2:25 |
 | 6 | [Berubah](https://open.spotify.com/track/1WhkLfwJ0rJtAeNQ0ylYKh) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Berubah](https://open.spotify.com/album/7ldfXTwlEZChKWBTBL81LY) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Redha](https://open.spotify.com/track/0EtzzEjVc5yShbUT1gmsRb) | [Tom LG3](https://open.spotify.com/artist/57aG0C5ngtmPvdCIb5mql6) | [Redha](https://open.spotify.com/album/1a8aLMPNoaT2LtoyAW6JeV) | 4:31 |
 | 50 | [Suratan Luka](https://open.spotify.com/track/5D9KJKnld21G6XPvpWXFbA) | [Muna Shahirah](https://open.spotify.com/artist/5SRNnJxN0REYoX7HR7SUgL) | [Suratan Luka](https://open.spotify.com/album/5Bwu8IUPfOXZ5T7sTl5Z4G) | 3:50 |
 
-Snapshot ID: `MTY2NDg5OTIwMCwwMDAwMDAwMDU5ODNhNDEyZDEzZWM5NjJhZjE4MTZmZDhhYmQwYjAy`
+Snapshot ID: `MTY2NTEwNTg0MCwwMDAwMDAwMGZhOTg2MGEwNjg1MDYxYmExY2JhYzU3NDAyNzQ0OTcz`

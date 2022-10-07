@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-882 songs - 1 day 23 hr 47 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+883 songs - 1 day 23 hr 50 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Fly Before I Die](https://open.spotify.com/track/308mx4tQwpFmEklHXkQOxf) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Koas](https://open.spotify.com/artist/0tkAO7XjyXcLahiHPTtfqW), [Sickside](https://open.spotify.com/artist/2XURl3PiYtmMgwhOcVuhoU) | [Kentrodytika](https://open.spotify.com/album/5Bu0bh5LUjTmJjJXffLEMS) | 3:42 | 2021-07-15 | 2021-07-16 |
 | [Folies](https://open.spotify.com/track/6cFasAy5JwTHeX3d3bvdnq) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 4:48 | 2021-04-04 | 2021-04-05 |
 | [FOR YOUR LOVE](https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:50 | 2021-05-29 | 2021-05-30 |
+| [Forema](https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Forema](https://open.spotify.com/album/7L0CPtSxiCvErPmV2O0VcA) | 2:50 | 2022-10-06 |  |
 | [Fotiá \- Evangelia x Eleni Foureira](https://open.spotify.com/track/6s21oobR6fHbSNVViAzwBt) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fotiá \(Evangelia x Eleni Foureira\)](https://open.spotify.com/album/4jDchGBgtx772BlfW931iP) | 2:54 | 2021-12-05 | 2022-04-09 |
 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 | 2021-09-05 | 2021-09-06 |
 | [FOVATE](https://open.spotify.com/track/5ZySt28YCUcCHam2pSFjwi) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [FOVATE](https://open.spotify.com/album/0Cy7geKcuy4dPCUDVY9yjw) | 2:46 | 2022-04-22 | 2022-04-28 |
@@ -570,7 +571,7 @@
 | [Nike Boyz \- Remix](https://open.spotify.com/track/5B6l2oDnLlxUPlS8Ycz9sZ) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Nike Boyz \(Remix\)](https://open.spotify.com/album/1sFWkDYkHQwnSglebhh39X) | 3:09 | 2022-04-17 | 2022-04-22 |
 | [Nikitis](https://open.spotify.com/track/1TACmpMEuoK9D1DdmuyvvK) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 3:24 | 2022-02-26 | 2022-02-28 |
 | [NINTENTO](https://open.spotify.com/track/4DKoLFTt98tbwRqPJE6D3a) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [NINTENTO](https://open.spotify.com/album/4CAcppjIIkJlTmbvWREYcV) | 2:23 | 2021-11-12 | 2021-11-30 |
-| [Nisi](https://open.spotify.com/track/2xdG3MPGdmb2u57RKwQF34) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Nisi](https://open.spotify.com/album/1P9koamky66z8HlFHX5avf) | 2:21 | 2022-05-07 |  |
+| [Nisi](https://open.spotify.com/track/2xdG3MPGdmb2u57RKwQF34) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Nisi](https://open.spotify.com/album/1P9koamky66z8HlFHX5avf) | 2:21 | 2022-05-07 | 2022-10-07 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-02 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-07 |
 | [No Lies](https://open.spotify.com/track/3DiqJjzg1XsVXbVnAnxp8I) | [YT](https://open.spotify.com/artist/48pDK4NOqLtJxn5AAKVUra), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [No Lies](https://open.spotify.com/album/3XbiwB6Pni6s7O3ttnYkbH) | 2:45 | 2022-01-25 | 2022-01-27 |

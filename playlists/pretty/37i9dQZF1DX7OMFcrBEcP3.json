@@ -1,12 +1,12 @@
 {
   "description": "The Corridos of yesterday and today all in one place!",
-  "num_followers": 22140,
+  "num_followers": 22171,
   "original_name": "Now & Then Corridos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDFlZGE3MmUxMzc0OTExMTU4ZmUyMWUwMDVhNTZlZTdi",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMGEzMmZlMWNiOWMxOTY4YTAyYzJkMWE3NmQyYWZjMmQz",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Mis Tres Viejas",
-      "url": "https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "El Karma (Deluxe Version)",
         "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 195136,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Mis Tres Viejas",
+      "url": "https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Equipo Armado",
-        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
+        "name": "Es Dificil Ser Un Santo",
+        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 151903,
-      "name": "Mi 45",
-      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
+      "duration_ms": 185756,
+      "name": "Es Dificil Ser Un Santo",
+      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Es Dificil Ser Un Santo",
-        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
+        "name": "Equipo Armado",
+        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 185756,
-      "name": "Es Dificil Ser Un Santo",
-      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
+      "duration_ms": 151903,
+      "name": "Mi 45",
+      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "QUE TOQUE MI BANDA JEREZ",
-        "url": "https://open.spotify.com/album/0Egtfs604xlqru5JoXtJv7"
+        "name": "La Captura III",
+        "url": "https://open.spotify.com/album/2Dx9DX0zG74oF0x4vqyAOx"
       },
       "artists": [
         {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 178525,
-      "name": "Pancho Villa",
-      "url": "https://open.spotify.com/track/7oIyahcc9zHe1n9FRYh8Ft"
+      "duration_ms": 188928,
+      "name": "La Captura III",
+      "url": "https://open.spotify.com/track/1y1zGvNOVkURLr8TzqWjXA"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "La Captura III",
-        "url": "https://open.spotify.com/album/2Dx9DX0zG74oF0x4vqyAOx"
+        "name": "QUE TOQUE MI BANDA JEREZ",
+        "url": "https://open.spotify.com/album/0Egtfs604xlqru5JoXtJv7"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
         }
       ],
-      "duration_ms": 188928,
-      "name": "La Captura III",
-      "url": "https://open.spotify.com/track/1y1zGvNOVkURLr8TzqWjXA"
+      "duration_ms": 178525,
+      "name": "Pancho Villa",
+      "url": "https://open.spotify.com/track/7oIyahcc9zHe1n9FRYh8Ft"
     },
     {
       "added_at": "2022-01-01 08:00:00",

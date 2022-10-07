@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: All Them Witches\n",
-  "num_followers": 460787,
+  "num_followers": 460824,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDljYTYzNDgxNGEyMDk1MGMxNjRlNjQ5YjgyZjhlZmE5",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGRkNDI4OTM5YTNlMTBhYjVjOWNhZjEwZDUzMGI5ZTg0",
   "tracks": [
     {
       "added_at": "2022-08-28 19:10:51",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
-      "added_at": "2022-10-06 01:34:37",
+      "added_at": "2022-10-07 01:46:19",
       "album": {
         "name": "Jersey Girl",
         "url": "https://open.spotify.com/album/5iB2B0iDgHikV3eeBo5dzk"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/57nlJv1i24h7KMcNod0dyZ"
     },
     {
-      "added_at": "2022-10-06 01:34:37",
+      "added_at": "2022-10-07 01:46:19",
       "album": {
         "name": "Tour Death Song",
         "url": "https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u"
@@ -91,8 +91,8 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "I Don't Live Here Anymore (feat. Lucius)",
-        "url": "https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD"
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
       "artists": [
         {
@@ -106,10 +106,10 @@
       ],
       "duration_ms": 327546,
       "name": "I Don't Live Here Anymore (feat. Lucius)",
-      "url": "https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH"
+      "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
     },
     {
-      "added_at": "2022-10-06 01:34:37",
+      "added_at": "2022-10-07 01:46:19",
       "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/2QBXaoVHGTe1R88O3aO1XI"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/32dbM6sFlQmbl4y7nVy9cS"
     },
     {
-      "added_at": "2022-10-06 01:34:37",
+      "added_at": "2022-10-07 01:46:19",
       "album": {
         "name": "Do I Love You (Indeed I Do)",
         "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
     },
     {
-      "added_at": "2022-10-06 01:34:37",
+      "added_at": "2022-10-07 01:46:19",
       "album": {
         "name": "Human Crime",
         "url": "https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4"
     },
     {
-      "added_at": "2022-10-06 01:34:37",
+      "added_at": "2022-10-07 01:46:19",
       "album": {
         "name": "Stay Out Of It",
         "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
     },
     {
-      "added_at": "2022-10-06 01:34:37",
+      "added_at": "2022-10-07 01:46:19",
       "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF"
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Hard Working Man",
-        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 248210,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Hard Working Man",
+        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Hospital",
         "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 213328,
       "name": "Hospital",
       "url": "https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 232529,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -967,46 +967,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Falling Down (with Nick Hexum of 311)",
-        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 199971,
-      "name": "Falling Down (with Nick Hexum of 311)",
-      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "Strictly A One-Eyed Jack",
-        "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Did You Say Such A Thing (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "The Hardest Cut",
         "url": "https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6"
       },
@@ -1035,6 +995,46 @@
       "duration_ms": 223783,
       "name": "Red Run Cold",
       "url": "https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Strictly A One-Eyed Jack",
+        "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Did You Say Such A Thing (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Falling Down (with Nick Hexum of 311)",
+        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 199971,
+      "name": "Falling Down (with Nick Hexum of 311)",
+      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio"
-      },
-      "artists": [
-        {
-          "name": "Indio Ink",
-          "url": "https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 286887,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio"
+      },
+      "artists": [
+        {
+          "name": "Indio Ink",
+          "url": "https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
+        "name": "Love & Algorhythms",
+        "url": "https://open.spotify.com/album/4mQO6EHGG1jGPPFJtCVIPs"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 187319,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/5FV4pXdYZzG9CYcHDLkGHl"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 273946,
       "name": "High And Lonesome",
       "url": "https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "Love & Algorhythms",
-        "url": "https://open.spotify.com/album/4mQO6EHGG1jGPPFJtCVIPs"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 187319,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/5FV4pXdYZzG9CYcHDLkGHl"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Can't You See",
-        "url": "https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9"
-      },
-      "artists": [
-        {
-          "name": "Skrizzly Adams",
-          "url": "https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK"
-        }
-      ],
-      "duration_ms": 210499,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Strength",
         "url": "https://open.spotify.com/album/2lYnlOOGFCd0hzkUoSnFNK"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 189886,
       "name": "Blows",
       "url": "https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Can't You See",
+        "url": "https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9"
+      },
+      "artists": [
+        {
+          "name": "Skrizzly Adams",
+          "url": "https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK"
+        }
+      ],
+      "duration_ms": 210499,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr"
     },
     {
       "added_at": "2022-08-28 19:10:51",

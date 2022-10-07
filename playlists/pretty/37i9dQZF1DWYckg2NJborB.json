@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53277,
+  "num_followers": 53273,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDMwYTI3OGYzNmQ1MjAyZjA1YWJlY2E0YzkxYTM2YWNm",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDBlNTllZGQ2MWFlYzNhMzdiYmRkNjNlNDUzMTg0MzMy",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -427,22 +427,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "The Sensual World (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "The Sensual World - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Kerplunk!",
         "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "The Sensual World - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -747,22 +747,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Harper Lee",
-      "url": "https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Com Lag: 2+2=5",
         "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 238280,
       "name": "Paperbag Writer",
       "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Harper Lee",
+      "url": "https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq"
     },
     {
       "added_at": "2018-12-10 14:56:06",

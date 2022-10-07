@@ -1,12 +1,12 @@
 {
   "description": "d4vd make anti pop.",
-  "num_followers": 668021,
+  "num_followers": 668211,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkwNjU0NywwMDAwMDAwMGQ0OTUxMjY5ODdjNWY3YWI4MzM2YjMxN2MyM2ZlZjEy",
+  "snapshot_id": "MTY2NDkwNjU0NywwMDAwMDAwMDU1YzUxZmZhMTQxYmY5YWU4MjMxNjYxZGIwYTljMDcx",
   "tracks": [
     {
       "added_at": "2022-09-23 04:03:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "fantasize",
         "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "Eye Tell (!)",
-        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 130692,
-      "name": "Eye Tell (!)",
-      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 114416,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "Eye Tell (!)",
+        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 130692,
+      "name": "Eye Tell (!)",
+      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+        "name": "DEPRESSED BUT MAKE IT COOL",
+        "url": "https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0"
       },
       "artists": [
         {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+      "duration_ms": 121500,
+      "name": "ANECDOTE",
+      "url": "https://open.spotify.com/track/6dorpHqoBlF2fgY8BqPoVr"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 310597,
       "name": "You",
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
-        "name": "DEPRESSED BUT MAKE IT COOL",
-        "url": "https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0"
-      },
-      "artists": [
-        {
-          "name": "Rahul",
-          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "ANECDOTE",
-      "url": "https://open.spotify.com/track/6dorpHqoBlF2fgY8BqPoVr"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
+        "name": "SICK OF IT*",
+        "url": "https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "SICK OF IT*",
+      "url": "https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
         "name": "a liquid breakfast",
         "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 228440,
       "name": "AMERICAN GURL",
       "url": "https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
-        "name": "SICK OF IT*",
-        "url": "https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 129119,
-      "name": "SICK OF IT*",
-      "url": "https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "I Did Drugs For You",
-        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
+        "name": "PORN ACTING*",
+        "url": "https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk"
       },
       "artists": [
         {
-          "name": "Rook Monroe",
-          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 192592,
-      "name": "I Did Drugs For You",
-      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
+      "duration_ms": 172346,
+      "name": "PORN ACTING*",
+      "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
+        "name": "I Did Drugs For You",
+        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
+      },
+      "artists": [
+        {
+          "name": "Rook Monroe",
+          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "I Did Drugs For You",
+      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU"
       },
@@ -819,34 +835,18 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "PORN ACTING*",
-        "url": "https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk"
+        "name": "fall at the same time",
+        "url": "https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
         }
       ],
-      "duration_ms": 172346,
-      "name": "PORN ACTING*",
-      "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
-        "name": "quinn",
-        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 186485,
-      "name": "two door tiffany",
-      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
+      "duration_ms": 142666,
+      "name": "fall at the same time",
+      "url": "https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "fall at the same time",
-        "url": "https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp"
+        "name": "quinn",
+        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
       },
       "artists": [
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 142666,
-      "name": "fall at the same time",
-      "url": "https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn"
+      "duration_ms": 186485,
+      "name": "two door tiffany",
+      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
+        "name": "VISUALS (DELUXE)",
+        "url": "https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ"
+      },
+      "artists": [
+        {
+          "name": "KUNZITE",
+          "url": "https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "duration_ms": 113073,
+      "name": "ANTIGRAVITY",
+      "url": "https://open.spotify.com/track/3vS4mbVxt9cOpaxtV2uZNr"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI"
       },
@@ -1055,22 +1079,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "BOLD Willow Tree",
         "url": "https://open.spotify.com/album/693EHFhJzzw7gQt1qnfQMV"
       },
@@ -1087,6 +1095,38 @@
       "duration_ms": 216576,
       "name": "BOLD Willow Tree",
       "url": "https://open.spotify.com/track/5rPPJNrsX05TaWrvKPusB2"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 179060,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "play pretend",
+        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "duration_ms": 117774,
+      "name": "play pretend",
+      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1127,46 +1167,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "VISUALS (DELUXE)",
-        "url": "https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ"
-      },
-      "artists": [
-        {
-          "name": "KUNZITE",
-          "url": "https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO"
-        },
-        {
-          "name": "Lee \"Scratch\" Perry",
-          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
-        },
-        {
-          "name": "Ratatat",
-          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
-        }
-      ],
-      "duration_ms": 113073,
-      "name": "ANTIGRAVITY",
-      "url": "https://open.spotify.com/track/3vS4mbVxt9cOpaxtV2uZNr"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
-        "name": "play pretend",
-        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
-      },
-      "artists": [
-        {
-          "name": "Cybertrash",
-          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
-        }
-      ],
-      "duration_ms": 117774,
-      "name": "play pretend",
-      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/0Vau5zitoLgqTvG0FAZUjH"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "GTFO",
-        "url": "https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "GTFO",
-      "url": "https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "Cold Blood",
         "url": "https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 164610,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "GTFO",
+        "url": "https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "Hi-Fidelity",
-        "url": "https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        }
-      ],
-      "duration_ms": 209286,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "Would It Kill You At All",
         "url": "https://open.spotify.com/album/169zbd4B9wyNVMcknh3zcC"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 167500,
       "name": "Would It Kill You At All",
       "url": "https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "Hi-Fidelity",
+        "url": "https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 209286,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "Hamilton",
-        "url": "https://open.spotify.com/album/2oI0QNhxvXlYulNWAYK3yu"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "Hamilton",
-      "url": "https://open.spotify.com/track/7s4GCpLK57ybNAEeJfvOLF"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "SASSY (Deluxe)",
         "url": "https://open.spotify.com/album/51sUPyQRFL5HlwIqQYop4q"
       },
@@ -1379,22 +1363,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "chosen",
-        "url": "https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 169215,
-      "name": "chosen",
-      "url": "https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "Act One",
         "url": "https://open.spotify.com/album/7hS3HK39ZkDsnKFfItdMRX"
       },
@@ -1407,6 +1375,22 @@
       "duration_ms": 104613,
       "name": "Fabric",
       "url": "https://open.spotify.com/track/2oSG1lrQZHUSs4hhgv7Imu"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "chosen",
+        "url": "https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 169215,
+      "name": "chosen",
+      "url": "https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "THE FUNK WILL PREVAIL",
-        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
+        "name": "Hamilton",
+        "url": "https://open.spotify.com/album/2oI0QNhxvXlYulNWAYK3yu"
       },
       "artists": [
         {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
         }
       ],
-      "duration_ms": 109036,
-      "name": "LIL BIT",
-      "url": "https://open.spotify.com/track/29N9AppxSC5zhz7q7GZcAY"
+      "duration_ms": 207904,
+      "name": "Hamilton",
+      "url": "https://open.spotify.com/track/7s4GCpLK57ybNAEeJfvOLF"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
+        "name": "THE FUNK WILL PREVAIL",
+        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
+      },
+      "artists": [
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 109036,
+      "name": "LIL BIT",
+      "url": "https://open.spotify.com/track/29N9AppxSC5zhz7q7GZcAY"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
         "name": "Sunset Drive - A COLORS SHOW",
         "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
       },
@@ -1471,6 +1471,38 @@
       "duration_ms": 193983,
       "name": "Sunset Drive - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "DANDELION",
+        "url": "https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 201974,
+      "name": "DANDELION",
+      "url": "https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "cool kids",
+        "url": "https://open.spotify.com/album/57zgwmZISU2Ihn9aF1ZFiK"
+      },
+      "artists": [
+        {
+          "name": "CHRIS YONGE",
+          "url": "https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT"
+        }
+      ],
+      "duration_ms": 149341,
+      "name": "cool kids",
+      "url": "https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1495,22 +1527,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "DANDELION",
-        "url": "https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 201974,
-      "name": "DANDELION",
-      "url": "https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "maybe not",
         "url": "https://open.spotify.com/album/1Q52MWeo7WqYYJnB8suIlL"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 162461,
       "name": "maybe not",
       "url": "https://open.spotify.com/track/1WnfHYAmjW9XwiCeLUpKLc"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
-        "name": "cool kids",
-        "url": "https://open.spotify.com/album/57zgwmZISU2Ihn9aF1ZFiK"
-      },
-      "artists": [
-        {
-          "name": "CHRIS YONGE",
-          "url": "https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT"
-        }
-      ],
-      "duration_ms": 149341,
-      "name": "cool kids",
-      "url": "https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC"
     },
     {
       "added_at": "2022-10-04 15:18:04",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-04 15:18:04",
       "album": {
-        "name": "meant2be",
-        "url": "https://open.spotify.com/album/6cy7cQSqjGX4tdgOiYtbrY"
-      },
-      "artists": [
-        {
-          "name": "The Hellp",
-          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
-        }
-      ],
-      "duration_ms": 193203,
-      "name": "meant2be",
-      "url": "https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3"
-    },
-    {
-      "added_at": "2022-10-04 15:18:04",
-      "album": {
         "name": "World Wide Pop",
         "url": "https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 212763,
       "name": "Solar System",
       "url": "https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt"
+    },
+    {
+      "added_at": "2022-10-04 15:18:04",
+      "album": {
+        "name": "meant2be",
+        "url": "https://open.spotify.com/album/6cy7cQSqjGX4tdgOiYtbrY"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "duration_ms": 193203,
+      "name": "meant2be",
+      "url": "https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3"
     },
     {
       "added_at": "2022-10-04 15:18:04",

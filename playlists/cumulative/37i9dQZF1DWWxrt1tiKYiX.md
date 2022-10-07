@@ -4,7 +4,7 @@
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: OneRepublic
 
-124 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
+125 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,8 +106,9 @@
 | [she's all i wanna be \- Acoustic](https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be \(Acoustic\)](https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ) | 3:18 | 2022-03-18 |  |
 | [Shivers \- Acoustic Version](https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers \(Acoustic Version\)](https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF) | 3:26 | 2022-01-28 |  |
 | [skinny dipping \- Acoustic](https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [skinny dipping \(Acoustic\)](https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK) | 3:12 | 2022-01-28 |  |
-| [SNAP \- Acoustic](https://open.spotify.com/track/1Kg4T22aL4CyoJO1nbAEPe) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 3:28 | 2022-08-05 |  |
+| [SNAP \- Acoustic](https://open.spotify.com/track/1Kg4T22aL4CyoJO1nbAEPe) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 3:28 | 2022-08-05 | 2022-10-07 |
 | [SNAP \- Acoustic](https://open.spotify.com/track/4cJfy4NKPrgJuT95gruimF) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CFTu4CTLeQOogO51E6ki3) | 3:28 | 2022-07-15 | 2022-08-21 |
+| [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 | 2022-08-05 |  |
 | [So Good \- Stripped](https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good \(Stripped\)](https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie) | 3:11 | 2022-07-01 |  |
 | [So What! \- Acoustic](https://open.spotify.com/track/11TMCwobbRFkN4XtDs8g5u) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [So What! \(Acoustic\)](https://open.spotify.com/album/5dLmrV9qbdoP6N3XCvQvF8) | 3:08 | 2022-01-28 |  |
 | [Somebody \- Acoustic](https://open.spotify.com/track/0nWFVoAELIeNcPikBntCJi) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody \(Acoustic\)](https://open.spotify.com/album/5DbmSBevpqojf8A69IEwhR) | 2:48 | 2022-01-28 | 2022-07-29 |

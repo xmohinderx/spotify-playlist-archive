@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 119427,
+  "num_followers": 119533,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDc0NmE1MjJhYWM3NDhkMjAwNjA4MTM1NGEzZTg5MGEz",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDIwODUyNDBjMTIxZDNkMzNiNzVmYzUwYTM4MWI0MTdh",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Ascendance / Give It Up",
-        "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
-      },
-      "artists": [
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        }
-      ],
-      "duration_ms": 230673,
-      "name": "Ascendance",
-      "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Vivi",
         "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 236000,
       "name": "Vivi",
       "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Ascendance / Give It Up",
+        "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "duration_ms": 230673,
+      "name": "Ascendance",
+      "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
+        "name": "Far Away Connections",
+        "url": "https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH"
       },
       "artists": [
         {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+          "name": "J_ulio",
+          "url": "https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2"
         }
       ],
-      "duration_ms": 236101,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
+      "duration_ms": 390369,
+      "name": "White Ghost",
+      "url": "https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1019,22 +1019,6 @@
       "duration_ms": 188157,
       "name": "Unite",
       "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Influence",
-        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
-      },
-      "artists": [
-        {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
-        }
-      ],
-      "duration_ms": 259364,
-      "name": "Influence - Edit",
-      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1059,18 +1043,34 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Far Away Connections",
-        "url": "https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH"
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
       },
       "artists": [
         {
-          "name": "J_ulio",
-          "url": "https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2"
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
         }
       ],
-      "duration_ms": 390369,
-      "name": "White Ghost",
-      "url": "https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq"
+      "duration_ms": 236101,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Influence",
+        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
+      },
+      "artists": [
+        {
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+        }
+      ],
+      "duration_ms": 259364,
+      "name": "Influence - Edit",
+      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
-      },
-      "artists": [
-        {
-          "name": "Jerome Price",
-          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
-        }
-      ],
-      "duration_ms": 205117,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "List (Hosini Remix)",
         "url": "https://open.spotify.com/album/2vuenVOn3qtC4ff2I57eI4"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 263866,
       "name": "List",
       "url": "https://open.spotify.com/track/30HKHaDLgbOz9qv6TgpIId"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        }
+      ],
+      "duration_ms": 205117,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Calling For You",
+        "url": "https://open.spotify.com/album/7EsyhR8e3RVPG3zLer0rSU"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "Calling For You",
+      "url": "https://open.spotify.com/track/1TeVwlRyDjhUeXAe9D6jgA"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Enter the Storm",
         "url": "https://open.spotify.com/album/5ClXSbEC6bzGAUaMH9Quw3"
       },
@@ -1435,26 +1451,6 @@
       "duration_ms": 472258,
       "name": "Enter the Storm",
       "url": "https://open.spotify.com/track/3v96fHvufikij2zsqANLos"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Freedom Call",
-        "url": "https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo"
-      },
-      "artists": [
-        {
-          "name": "Nick Warren",
-          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
-        },
-        {
-          "name": "Black 8",
-          "url": "https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju"
-        }
-      ],
-      "duration_ms": 239789,
-      "name": "Freedom Call",
-      "url": "https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz"
     }
   ],
   "unique_name": "Melodic & Euphoric",

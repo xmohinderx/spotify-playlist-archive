@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-190 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+191 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cedar Waltzin' \~ Don't You Worry 'bout a Thing](https://open.spotify.com/track/1JJ3Wpkx2igFJEcBMq2gCS) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 8:23 | 2020-03-31 | 2022-04-28 |
 | [Clifford Notes](https://open.spotify.com/track/58ZOSLqiasr2M0HIodxecW) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 8:46 | 2022-05-25 |  |
 | [Coffee Table Afternoon](https://open.spotify.com/track/2BwZMNVNbAInWWbyQQ7QOT) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Coffee Table Afternoon](https://open.spotify.com/album/4ws4gC9VFhEL7kqMGShjNc) | 4:54 | 2022-03-04 |  |
-| [Connections](https://open.spotify.com/track/1R74JFlONy0cZt57Hwi7Tk) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Connections Home](https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po) | 5:35 | 2022-08-30 |  |
+| [Connections](https://open.spotify.com/track/1R74JFlONy0cZt57Hwi7Tk) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Connections Home](https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po) | 5:35 | 2022-08-30 | 2022-10-07 |
 | [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2020-03-31 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/0g13WtzfAwcHPSdcZnMbxH) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Standards](https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby) | 7:46 | 2022-02-18 | 2022-10-06 |
 | [Dear Ruth](https://open.spotify.com/track/45VPHeZWtLlm2xjQMwRNGn) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [David Williams](https://open.spotify.com/artist/1Qondy0id4ABDI62mzlCcX), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [I Remember Cedar](https://open.spotify.com/album/5kM4FI7fxp22Lro1mBnVTy) | 6:02 | 2022-09-16 |  |
@@ -97,6 +97,7 @@
 | [Little Big Steps \(feat\. Paolo Fresu\)](https://open.spotify.com/track/09qRAoiYfu019U0wVkYCAg) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Giulia](https://open.spotify.com/album/23eKeozrh6qUzPnUpBwGjg) | 6:19 | 2022-02-18 | 2022-08-31 |
 | [London Blues](https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Introducing Brad Mehldau](https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1) | 7:02 | 2020-03-31 |  |
 | [Loneliness](https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 7:04 | 2022-07-28 |  |
+| [Lucky to Be Me](https://open.spotify.com/track/26tDMDknpR3kl3G8XYsN9q) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:34 | 2022-10-06 |  |
 | [Lucky to be Me](https://open.spotify.com/track/5tMEOw8LjLhCizDcyCvw4H) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Street of Dreams](https://open.spotify.com/album/7qIDAwVcQxA6jIIvaQ9WcD) | 6:42 | 2022-05-25 |  |
 | [Luiz](https://open.spotify.com/track/4ExjcScZAfGKTZmONryc8L) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Ambivalence](https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS) | 4:47 | 2022-03-11 |  |
 | [Mack the Knife](https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc) | [Chad Lefkowitz\-Brown](https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe) | [Mack the Knife](https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu) | 5:31 | 2022-02-18 |  |

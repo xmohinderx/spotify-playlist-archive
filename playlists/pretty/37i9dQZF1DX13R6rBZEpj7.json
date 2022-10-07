@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 176801,
+  "num_followers": 176872,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDEwNmQwYjQzZDZkMzdiN2I5YTRjOTMwMTg3Y2U4ZDgy",
+  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDE5ZWY1NzI5ZDFhNzNjMDJhNWQ3ZDM0YTMzYzg5NTY0",
   "tracks": [
     {
       "added_at": "2022-09-23 15:03:03",
@@ -271,22 +271,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Wrong Answers Only",
-        "url": "https://open.spotify.com/album/1mXBGKqlNCIglHpT3AbhN2"
+        "name": "Who's Got The Bag",
+        "url": "https://open.spotify.com/album/7wqAIus994VXs9LH05VxdZ"
       },
       "artists": [
         {
           "name": "The Streets",
           "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 185615,
-      "name": "Wrong Answers Only",
-      "url": "https://open.spotify.com/track/4aHi701FKuFYj7QSeSEftV"
+      "duration_ms": 165000,
+      "name": "Who's Got The Bag",
+      "url": "https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -575,18 +571,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Who's Got The Bag",
-        "url": "https://open.spotify.com/album/7wqAIus994VXs9LH05VxdZ"
+        "name": "Wrong Answers Only",
+        "url": "https://open.spotify.com/album/1mXBGKqlNCIglHpT3AbhN2"
       },
       "artists": [
         {
           "name": "The Streets",
           "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Who's Got The Bag",
-      "url": "https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v"
+      "duration_ms": 185615,
+      "name": "Wrong Answers Only",
+      "url": "https://open.spotify.com/track/4aHi701FKuFYj7QSeSEftV"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
-      },
-      "artists": [
-        {
-          "name": "Gecha",
-          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/2mkvOo2qTskjUU8TLmvgxl"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 208000,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4dGspblo1g4D5yyYrwBri1"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
+      },
+      "artists": [
+        {
+          "name": "Gecha",
+          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "U Get Me",
-        "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
-      },
-      "artists": [
-        {
-          "name": "Livsey",
-          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
-        }
-      ],
-      "duration_ms": 322206,
-      "name": "U Get Me",
-      "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 198372,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "U Get Me",
+        "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
+      },
+      "artists": [
+        {
+          "name": "Livsey",
+          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
+        }
+      ],
+      "duration_ms": 322206,
+      "name": "U Get Me",
+      "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
-      },
-      "artists": [
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/4JvQ6sH4NsLqABE1qG6dy6"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 215282,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Perfect Crime",
-        "url": "https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV"
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
       },
       "artists": [
         {
-          "name": "Spence",
-          "url": "https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
         },
         {
-          "name": "S-70",
-          "url": "https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ"
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 210001,
-      "name": "Perfect Crime",
-      "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
+      "duration_ms": 169846,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
     }
   ],
   "unique_name": "Bassline Bangers",

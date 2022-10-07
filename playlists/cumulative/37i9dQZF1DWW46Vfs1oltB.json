@@ -4540,6 +4540,28 @@
     },
     {
       "album": {
+        "name": "God's Science",
+        "url": "https://open.spotify.com/album/3GfRA7uHVRHVjt1FDHZHgd"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "God's Science - Remix",
+      "url": "https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr"
+    },
+    {
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/4Bhx96JxhZK8hiEhIpCNA0"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1215,
+  "num_followers": 1218,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDY1Zjc1OTk3Y2YyMmNjMjc0ZjRkNmM3N2JmNDU2MmMz",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDhmZDY4NWI3YTkzYjU4MzE4YTYwZDVjYTEzNmE1ZWVm",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -679,30 +679,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "CD8: Lleg\u00f3 Panam",
-        "url": "https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW"
-      },
-      "artists": [
-        {
-          "name": "Panam y Circo",
-          "url": "https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW"
-        },
-        {
-          "name": "Edith Hermida",
-          "url": "https://open.spotify.com/artist/5jNFhWiUYNUAp2wUDoFijh"
-        },
-        {
-          "name": "Mauricio D'Alessandro",
-          "url": "https://open.spotify.com/artist/2EV35jD2yLf6HbFljRA7fr"
-        }
-      ],
-      "duration_ms": 150906,
-      "name": "A Comer Que la Mesa Est\u00e1 Servida",
-      "url": "https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Canciones Para Chicos",
         "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 174653,
       "name": "Comida light",
       "url": "https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "CD8: Lleg\u00f3 Panam",
+        "url": "https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW"
+      },
+      "artists": [
+        {
+          "name": "Panam y Circo",
+          "url": "https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW"
+        },
+        {
+          "name": "Edith Hermida",
+          "url": "https://open.spotify.com/artist/5jNFhWiUYNUAp2wUDoFijh"
+        },
+        {
+          "name": "Mauricio D'Alessandro",
+          "url": "https://open.spotify.com/artist/2EV35jD2yLf6HbFljRA7fr"
+        }
+      ],
+      "duration_ms": 150906,
+      "name": "A Comer Que la Mesa Est\u00e1 Servida",
+      "url": "https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s"
     },
     {
       "added_at": "2020-04-22 19:35:42",

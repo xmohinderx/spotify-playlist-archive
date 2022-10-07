@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-205 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
+206 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 | 2021-02-05 | 2022-04-21 |
 | [Excuses](https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J) | [The Morning Benders](https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD) | [Big Echo](https://open.spotify.com/album/4GGwYDNw2tNHbmK93bygqm) | 5:17 | 2021-02-05 | 2022-06-29 |
 | [Feeling Ok](https://open.spotify.com/track/0pufbBQTb9Voh9ZtpCpYLH) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/3lobKWYjPRZWL6gFLKYE4P) | 3:16 | 2021-02-05 | 2022-04-20 |
-| [Fire Flower](https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Favorite Holiday, Vol\. 1](https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer) | 4:10 | 2022-09-22 |  |
+| [Fire Flower](https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Favorite Holiday, Vol\. 1](https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer) | 4:10 | 2022-09-22 | 2022-10-07 |
 | [Fire Flower](https://open.spotify.com/track/4zSZfVqbXLFFvNfT4RLDlM) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Fire Flower](https://open.spotify.com/album/2DHEZDsm02YY3MLxvNkPcA) | 4:10 | 2021-02-05 | 2022-06-30 |
 | [Fish On The Sand](https://open.spotify.com/track/62ZxTubCrtxe31QedetTTT) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish On The Sand](https://open.spotify.com/album/60XDrObKGHZnKMQ8KOGvcT) | 3:38 | 2021-02-05 | 2022-04-20 |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2021-04-13 |  |
@@ -84,7 +84,8 @@
 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 | 2021-02-05 |  |
 | [Hawaiian Boi](https://open.spotify.com/track/6EzFRLgOG9gXBg2OwREqJu) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/5XqSocqCRgQwhAWTjeYaPv) | 2:41 | 2021-02-05 | 2022-05-10 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-04-13 |  |
-| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-22 |  |
+| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-22 | 2022-10-07 |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-22 |  |
 | [Hey \(feat\. Alfie Templeman\)](https://open.spotify.com/track/2mSRmsgVkgdAahTTKaG7we) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/6F0NmdsuJkbsqhDZrSHLbK) | 3:01 | 2021-02-05 | 2022-04-20 |
 | [Hey Good Lookin'](https://open.spotify.com/track/6bKHrmhfMFhlXqYR6zfPt9) | [Blonde Tongues](https://open.spotify.com/artist/1WXAzKcld8b4tZIteRi14G) | [Blonde Tongues](https://open.spotify.com/album/1pzZ7uCZMJSH21sP8g7dUG) | 5:47 | 2021-02-05 | 2022-06-18 |
 | [Hey Lover](https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII) | [The Daughters Of Eve](https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On) | [Hey Lover / Stand by Me](https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE) | 2:24 | 2022-05-13 |  |
@@ -140,7 +141,7 @@
 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 | 2022-07-22 |  |
 | [Peach Pit](https://open.spotify.com/track/4W8iitrK5csxU1kqBeT5Js) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/3Ab4CfKIqTQdJPCrz6U0Ka) | 4:47 | 2021-02-05 | 2022-07-26 |
 | [Petals](https://open.spotify.com/track/21DCAUa5hBGdNhDBSDAuCI) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Petals](https://open.spotify.com/album/3S3BIsaQzGl7WfdV8OZQfh) | 2:54 | 2021-02-05 | 2022-07-29 |
-| [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 | 2022-09-02 | 2022-09-26 |
+| [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 | 2022-09-02 |  |
 | [Petty Crime](https://open.spotify.com/track/4FMyAa7jAyWgiGUpRE5Ef8) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Petty Crime](https://open.spotify.com/album/0T1N6wc4r56Y7qe2oFjf88) | 3:42 | 2021-02-05 | 2022-07-29 |
 | [Pipeline](https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf) | [The Chantays](https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR) | [Pipeline](https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn) | 2:19 | 2021-02-05 | 2022-04-21 |
 | [Poor Relations](https://open.spotify.com/track/2OPmmqhPLBbHoHwtzOsUnl) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Poor Relations](https://open.spotify.com/album/52XthHFl0TIgAikopVpv1g) | 4:21 | 2021-02-05 | 2022-07-02 |

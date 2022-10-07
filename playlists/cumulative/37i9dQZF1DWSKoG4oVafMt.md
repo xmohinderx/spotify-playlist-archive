@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-568 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+570 songs - 1 day 6 hr 49 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Faraar](https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Faraar](https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF) | 3:12 | 2021-12-02 | 2022-04-06 |
 | [Feel Safe](https://open.spotify.com/track/4m268S7e5ttPQQbFRM8Ah0) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Feel Safe](https://open.spotify.com/album/6ZR6Il83UooDKFMUqR7QnT) | 2:41 | 2022-08-19 |  |
 | [Feelinga](https://open.spotify.com/track/3Z3LWu6W9E64D1PuyNqlWD) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longwal](https://open.spotify.com/artist/3oZRmK1lNVPMjKck5cdOgR) | [Feelinga](https://open.spotify.com/album/1Dg0h9qaMvlQd9CrWqOhve) | 2:30 | 2022-07-15 | 2022-09-23 |
+| [Ferozi Koka](https://open.spotify.com/track/3nBT3djv8UdFtlM7hqfnit) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Ferozi Koka](https://open.spotify.com/album/58CBHd8bAudqjM2ySjMaqt) | 2:52 | 2022-10-06 |  |
 | [Firozi](https://open.spotify.com/track/3C1CI7A7stRCh6gpBWCEQS) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:36 | 2022-02-02 | 2022-04-06 |
 | [Five Flower](https://open.spotify.com/track/74wcCZYO6yofhiahlJqkKk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Five Flower](https://open.spotify.com/album/463xWGyBZ2PjYCLIVAIxU5) | 2:38 | 2022-09-09 |  |
 | [Flat](https://open.spotify.com/track/2yeklSP8NLY1INR6GOzVgd) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat](https://open.spotify.com/album/0VPaB19nfI80AE71iO22zN) | 2:33 | 2022-07-21 | 2022-07-29 |
@@ -261,6 +262,7 @@
 | [Kujh Pal](https://open.spotify.com/track/1e6aFVm5degTzEej18pCWQ) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Kujh Pal](https://open.spotify.com/album/4wtsHIBHrcDslzhQty25nX) | 2:59 | 2022-07-13 | 2022-08-18 |
 | [Kuwait Wala Koka](https://open.spotify.com/track/6rqCGWzwW10e370MIA4lWW) | [Gurman Sandhu](https://open.spotify.com/artist/5ugj60Brzgzl1h08AjGlKN), [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Kuwait Wala Koka](https://open.spotify.com/album/5Gst6VK89e4LeTHOT0CvAQ) | 2:49 | 2022-05-09 | 2022-05-20 |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2021-12-02 | 2022-02-01 |
+| [Kya Ne Baatan](https://open.spotify.com/track/2wMijO0F9GGHDx1Ka1nDvW) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Kya Ne Baatan](https://open.spotify.com/album/7CCtSr52USEN9jLCGFh5hA) | 2:48 | 2022-10-06 |  |
 | [LA](https://open.spotify.com/track/27G0kb3K0M6wTcRFEtAp8H) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [LA](https://open.spotify.com/album/4YDpYD0bKAcFD8t6BQS0rA) | 2:59 | 2022-04-20 | 2022-05-20 |
 | [La La La](https://open.spotify.com/track/6dMm31vV30QYSLwpcTPznv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [La La La](https://open.spotify.com/album/4HLctn0Rgefl2sMIYF0XUU) | 2:41 | 2022-05-07 | 2022-07-06 |
 | [Laare](https://open.spotify.com/track/2lKfpNZeNDQ1AsR8btddjH) | [Puran Sidhu](https://open.spotify.com/artist/6TC5PtzelDA6UDZYK5XO72) | [Laare](https://open.spotify.com/album/3AGYl1b5NqxVtrcM3ikyk2) | 3:05 | 2022-07-21 | 2022-08-18 |

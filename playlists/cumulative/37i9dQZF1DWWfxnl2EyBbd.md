@@ -4,11 +4,11 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-226 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+227 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-02-10 |  |
+| ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-02-10 | 2022-10-07 |
 | [A Ballad for Pete Candoli](https://open.spotify.com/track/5fsGPtGbnwTQ3ZuotX0Mhl) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 6:42 | 2022-05-26 |  |
 | [A Fainter Scent](https://open.spotify.com/track/7i8DqSgFKo099i4IC0uCPN) | [Uri Gincel Trio](https://open.spotify.com/artist/4oKQrvutERW1Lk4fFSmQzQ) | [Love Through the Stained Glass](https://open.spotify.com/album/5NIszRl14IEi6zOF4umxge) | 4:58 | 2022-04-22 |  |
 | [A Foggy Day](https://open.spotify.com/track/7b579YfrUOFI8jwCd8ZeZm) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/5fR9R5HWZcyhdBXdpGsZiu) | 6:33 | 2022-02-10 |  |
@@ -181,6 +181,7 @@
 | [Spartacus Love Theme](https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 7:53 | 2022-02-10 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/2YaDljVAZoDt5WDZCmWflN) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [Like Minds](https://open.spotify.com/album/1bbFxIZJwvmY6vACdsJFn9) | 8:19 | 2022-05-13 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Trio](https://open.spotify.com/album/09gOqXkme0kvY0n32naCqY) | 6:38 | 2022-02-10 |  |
+| [Stairway to the Stars](https://open.spotify.com/track/4XfFBYtS2QlwddTWzbxGGS) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:17 | 2022-10-06 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/08m95knJWmtWZ4xWwAFVoX) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 5:19 | 2022-04-14 |  |
 | [Story II: Early Snow](https://open.spotify.com/track/6IDHaero0jclHqzqk2PXzy) | [Heiri Känzig](https://open.spotify.com/artist/0KBHDpk6syXYfN7DItgFDF) | [Five Stories](https://open.spotify.com/album/1ZwF41qmQptzg0FKm3mDEp) | 7:18 | 2022-03-10 |  |
 | [Strays](https://open.spotify.com/track/3UvkApsnwcV9pQHfU5WASz) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6) | [Awareness](https://open.spotify.com/album/1DMLil6FOSdKNzRGWCCZiw) | 5:24 | 2022-02-10 |  |

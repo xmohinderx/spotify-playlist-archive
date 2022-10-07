@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Đức Phúc
+> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: MONO
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,442 likes - 56 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,567 likes - 56 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tại Vì Sao](https://open.spotify.com/track/5yrPkBvOBvqfSjDhoRzDlO) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Tại Vì Sao](https://open.spotify.com/album/5DZXXrAKNwD0c0Avrs5W9j) | 3:23 |
-| 2 | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/track/5Fmtix3LkYpcXI7nVFpEyC) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/album/4qEl0OfTTPs6x8U2i62hYn) | 5:10 |
-| 3 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
-| 4 | [Waiting For You](https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [Onionn](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [22](https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj) | 4:25 |
-| 5 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
-| 6 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
-| 7 | [Tự Tình 2](https://open.spotify.com/track/4AT7ZRCPu3jDxA4Y22IO22) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Tự Tình 2](https://open.spotify.com/album/644Tj4OPFEO8PtpgWhbvug) | 4:50 |
+| 1 | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/track/5Fmtix3LkYpcXI7nVFpEyC) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/album/4qEl0OfTTPs6x8U2i62hYn) | 5:10 |
+| 2 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
+| 3 | [Waiting For You](https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [Onionn](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [22](https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj) | 4:25 |
+| 4 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
+| 5 | [Tự Tình 2](https://open.spotify.com/track/4AT7ZRCPu3jDxA4Y22IO22) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Tự Tình 2](https://open.spotify.com/album/644Tj4OPFEO8PtpgWhbvug) | 4:50 |
+| 6 | [Tại Vì Sao](https://open.spotify.com/track/5yrPkBvOBvqfSjDhoRzDlO) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Tại Vì Sao](https://open.spotify.com/album/5DZXXrAKNwD0c0Avrs5W9j) | 3:23 |
+| 7 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
 | 8 | [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 |
 | 9 | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/track/45PPoUgqs3JrhkZGEzSUHT) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF) | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/album/6uBnpHfSuZsVHjuTmrd0Y8) | 3:33 |
 | 10 | [Có Chơi Có Chịu](https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo) | [Có Chơi Có Chịu](https://open.spotify.com/album/4N7qnvyotrQcxAF8fKqO4e) | 3:43 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 55 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr), [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 56 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
 
-Snapshot ID: `MTY2NDkzNDY3NiwwMDAwMDAwMGQyZjY4MjQ1MTA2MGQzMzVlYWY0NjIyMDlmYWYxMGM0`
+Snapshot ID: `MTY2NTEwNTU4NywwMDAwMDAwMDU4NjY3MzIxOWIxZjJlMjg0OTRjODk4NDA2MmNiYWYw`

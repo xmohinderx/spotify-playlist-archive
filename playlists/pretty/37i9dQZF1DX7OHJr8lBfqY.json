@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 22897,
+  "num_followers": 22913,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDUwNjJmNDY4MjI2MDEyMjFjZDc1N2RlMzY2NWUxMTdh",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDA5NmQyOWE1ZWM1NDk0NmNmMjFkMDFkMWNkNWZjOWMx",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Una Vaina Loca",
-        "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 188894,
-      "name": "Una Vaina Loca",
-      "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "ANTES QUE SALGA EL SOL",
-        "url": "https://open.spotify.com/album/1LRi8tnlnSaxAcffcxzhwi"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 183926,
-      "name": "ANTES QUE SALGA EL SOL",
-      "url": "https://open.spotify.com/track/1vucS7X4otbyQSZ9RXYXFI"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Libertad 548",
         "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 198453,
       "name": "No Lo Trates",
       "url": "https://open.spotify.com/track/7mwoTHCLbucY3b1a6Ude1V"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "ANTES QUE SALGA EL SOL",
+        "url": "https://open.spotify.com/album/1LRi8tnlnSaxAcffcxzhwi"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 183926,
+      "name": "ANTES QUE SALGA EL SOL",
+      "url": "https://open.spotify.com/track/1vucS7X4otbyQSZ9RXYXFI"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Arrebata",
-        "url": "https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 175174,
-      "name": "Arrebata",
-      "url": "https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -1231,22 +1211,42 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Imaginarme Sin Ti",
-        "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
+        "name": "Arrebata",
+        "url": "https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
         },
         {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 236254,
-      "name": "Imaginarme Sin Ti",
-      "url": "https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL"
+      "duration_ms": 175174,
+      "name": "Arrebata",
+      "url": "https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Libertad 548",
+        "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Cantare",
+      "url": "https://open.spotify.com/track/3sLyTeDoFFgLYtaBeUAlgr"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Imaginarme Sin Ti",
+        "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        }
+      ],
+      "duration_ms": 236254,
+      "name": "Imaginarme Sin Ti",
+      "url": "https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
         "url": "https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 186440,
       "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
       "url": "https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Libertad 548",
-        "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Cantare",
-      "url": "https://open.spotify.com/track/3sLyTeDoFFgLYtaBeUAlgr"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Las Puertas del Cielo",
-        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 232803,
-      "name": "Las Puertas del Cielo",
-      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Conga",
         "url": "https://open.spotify.com/album/1bIdSuFjTwqZLXI5BSGKGv"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 207090,
       "name": "Conga",
       "url": "https://open.spotify.com/track/0GF9zxH5xAhKiRQQJTb9VZ"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Las Puertas del Cielo",
+        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
+      },
+      "artists": [
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 232803,
+      "name": "Las Puertas del Cielo",
+      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "En Cuarentena",
-        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 259586,
-      "name": "El Combo del Mundo",
-      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
+      "duration_ms": 231575,
+      "name": "Adicto - Salsa Version",
+      "url": "https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+        "name": "En Cuarentena",
+        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 231575,
-      "name": "Adicto - Salsa Version",
-      "url": "https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop"
+      "duration_ms": 259586,
+      "name": "El Combo del Mundo",
+      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cornettazos (Vol.2)",
-        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Mara Del Carmen",
-      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "La Plata (Los \u00c1ngeles Azules Remix)",
         "url": "https://open.spotify.com/album/0ybT81ASDfAvIFKoWWPVr8"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 219106,
       "name": "La Plata (Los \u00c1ngeles Azules Remix) (Feat. Los \u00c1ngeles Azules, Lalo Ebratt)",
       "url": "https://open.spotify.com/track/65qnIZCLVTYdnNxWMJQ3kj"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Cornettazos (Vol.2)",
+        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Mara Del Carmen",
+      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
     },
     {
       "added_at": "2022-08-31 07:37:37",

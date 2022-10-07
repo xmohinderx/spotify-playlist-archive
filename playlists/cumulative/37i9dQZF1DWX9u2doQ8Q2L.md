@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-318 songs - 19 hr 52 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+319 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Radio Star](https://open.spotify.com/track/403fQdcKjArXQGy9N9Ovee) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Radio Star](https://open.spotify.com/album/5sTnegCUd4nlDKucRR6tHY) | 3:48 | 2022-07-19 | 2022-08-17 |
 | [Rain](https://open.spotify.com/track/6qZu1EgDfzDRGPrNtxJ3Vt) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [Rain](https://open.spotify.com/album/5k0YCzq4A7zvCmIIgJYrHK) | 4:09 | 2022-08-03 | 2022-08-25 |
 | [Rainbow](https://open.spotify.com/track/6crmtADvci3cPjB2jjjVqm) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Rainbow](https://open.spotify.com/album/30NIxP2VrovM30Jm0CvMhU) | 4:09 | 2022-05-26 | 2022-07-01 |
-| [REAL U](https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [REAL U](https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh) | 3:33 | 2022-07-28 |  |
+| [REAL U](https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [REAL U](https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh) | 3:33 | 2022-07-28 | 2022-10-07 |
 | [Reborn Again](https://open.spotify.com/track/5I2AnwIFQ0MyVfO5FZIqEV) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [The Lost Tapes](https://open.spotify.com/album/2JDEZm422EdSMgmpXQT2CG) | 3:03 | 2022-09-27 |  |
 | [RECIPE](https://open.spotify.com/track/6zRjzLaCarPcnPUb4Zrh0W) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 3:32 | 2022-06-28 | 2022-09-15 |
 | [RECIPE feat\. IRONBOY](https://open.spotify.com/track/4YclzoUsvIQOWidEpIuqBo) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne) | [RECIPE feat\. IRONBOY](https://open.spotify.com/album/4YNUmGFqLRX4INc2hRSgCq) | 2:58 | 2022-07-26 | 2022-08-03 |
@@ -236,6 +236,7 @@
 | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:28 | 2022-09-06 | 2022-09-28 |
 | [WARUNORI](https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WARUNORI](https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz) | 4:19 | 2022-09-27 |  |
 | [Waving](https://open.spotify.com/track/13azqt7NX9Rxj2iBjIoG5k) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Waving](https://open.spotify.com/album/6gIiOFp2XCgsVrQNEeFPtz) | 3:45 | 2022-05-26 | 2022-06-29 |
+| [We'll be fine \- English Version](https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [We'll be fine \(English Version\)](https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi) | 3:17 | 2022-10-06 |  |
 | [Weigh me down](https://open.spotify.com/track/4t7nufsnEQopDCkPmXE0rn) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:24 | 2022-09-30 |  |
 | [Whiskey](https://open.spotify.com/track/1oIZe3U574XwPSHCKw1CuX) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Whiskey](https://open.spotify.com/album/4vDnDGOvWhIXdRBB3B8IFW) | 3:54 | 2022-07-05 | 2022-07-27 |
 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 | 2022-07-21 |  |

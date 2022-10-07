@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 2833,
+  "num_followers": 2840,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGM5NmE5Yjg3NjRiMGZkNzRkOGNkYmM5ODI2ODNjODdl",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGI5MGZjZTIzNzZjZGY0NTVmMTM0MzUwYmQ5N2Q4NTIx",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
+        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Greeting",
+      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 267640,
       "name": "She Said (With Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Greeting",
-      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
     },
     {
       "added_at": "2022-08-18 14:25:32",

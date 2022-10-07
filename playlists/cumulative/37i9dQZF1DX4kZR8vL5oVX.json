@@ -1672,6 +1672,24 @@
     },
     {
       "album": {
+        "name": "Dans la Chaleur",
+        "url": "https://open.spotify.com/album/2tYY9qw3JkrNrlEfUToQ2U"
+      },
+      "artists": [
+        {
+          "name": "REB",
+          "url": "https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228206,
+      "name": "Dans la Chaleur",
+      "url": "https://open.spotify.com/track/027KMnt9OZofLLFvJeGTWZ"
+    },
+    {
+      "album": {
         "name": "Dans La Neige",
         "url": "https://open.spotify.com/album/2YTcYREKouFNyEhhYVGmyR"
       },

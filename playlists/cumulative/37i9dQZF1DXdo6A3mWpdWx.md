@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-300 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
+301 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Everybody](https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Greatest Hits](https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO) | 3:49 | 2021-09-08 | 2022-10-06 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2021-03-22 | 2022-10-06 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2021-03-22 | 2022-07-29 |
-| [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/28dBFTWUPlrYazMHWBkUmp) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Classic Halloween Hits](https://open.spotify.com/album/0VMOOJvuloNJH4zojPtMvh) | 3:45 | 2021-03-22 |  |
+| [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/28dBFTWUPlrYazMHWBkUmp) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Classic Halloween Hits](https://open.spotify.com/album/0VMOOJvuloNJH4zojPtMvh) | 3:45 | 2021-03-22 | 2022-10-07 |
+| [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/2PiJWbeDHT33QY0uYDrL83) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Spooky Halloween Hits](https://open.spotify.com/album/2c3LBDNnptvWquptllUuyq) | 3:45 | 2021-03-22 |  |
 | [Everybody Get Up \- Radio Mix](https://open.spotify.com/track/3rHDO1HJBpjY5NzT4WRX3h) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Five](https://open.spotify.com/album/3x5IW1MzKe5OS9vw7gprFX) | 3:26 | 2021-09-08 | 2022-07-29 |
 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 | 2021-03-22 | 2022-07-29 |
 | [Fastlove, Pt\. 1](https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:24 | 2021-03-22 |  |

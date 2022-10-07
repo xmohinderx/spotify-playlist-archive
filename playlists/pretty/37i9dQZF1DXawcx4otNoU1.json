@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 438364,
+  "num_followers": 438559,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0Nzk0MywwMDAwMDAwMDRmN2ZlZDQ4YjMyNzUzODU1NzIwYWQ5OTQ4YmY0ODJj",
+  "snapshot_id": "MTY2NDU0Nzk0MywwMDAwMDAwMDVlZGY3MTc2YjQ4ZjQzMzUxYWFkY2JkNzI5M2IzMzk1",
   "tracks": [
     {
       "added_at": "2022-09-30 14:22:50",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Songs About Jane",
-        "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "She Will Be Loved",
-      "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Songs About Jane",
+        "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "She Will Be Loved",
+      "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
     },
     {
-      "added_at": "2022-10-06 01:49:15",
+      "added_at": "2022-10-07 02:02:46",
       "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
     },
     {
-      "added_at": "2022-10-06 01:49:15",
+      "added_at": "2022-10-07 02:02:46",
       "album": {
         "name": "The Bedroom Tour Playlist",
         "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
+        "name": "One Call Away (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
         }
       ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
+      "duration_ms": 209680,
+      "name": "1973 - Acoustic",
+      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1331,22 +1347,6 @@
       "duration_ms": 141757,
       "name": "Honey (with Muni Long)",
       "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "1973 - Acoustic",
-      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 203262,
+      "name": "Need You Now - Acoustic",
+      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
         "name": "Proverb",
         "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
-        "name": "Same Kind Of Different (Acoustic)",
-        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 203262,
-      "name": "Need You Now - Acoustic",
-      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Only Ticket Home",
-        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Only Ticket Home",
+        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 216930,
-      "name": "Lips On You",
-      "url": "https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Bridge Back to Your Heart",
-        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
       "artists": [
         {
-          "name": "The Beach",
-          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 261279,
-      "name": "Bridge Back to Your Heart",
-      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
+      "duration_ms": 216930,
+      "name": "Lips On You",
+      "url": "https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1819,6 +1803,22 @@
       "duration_ms": 202289,
       "name": "So Close To Magic",
       "url": "https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Bridge Back to Your Heart",
+        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+      },
+      "artists": [
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Bridge Back to Your Heart",
+      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
-      },
-      "artists": [
-        {
-          "name": "CokeCarl",
-          "url": "https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Rebekah - EP",
         "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 179783,
       "name": "Change Your Mind - Stripped",
       "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
+      },
+      "artists": [
+        {
+          "name": "CokeCarl",
+          "url": "https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Can't Help Falling in Love",
-        "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
-      },
-      "artists": [
-        {
-          "name": "Jessie Kol",
-          "url": "https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf"
-        }
-      ],
-      "duration_ms": 178246,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Glasshouse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
       },
@@ -2079,6 +2063,22 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
+      },
+      "artists": [
+        {
+          "name": "Jessie Kol",
+          "url": "https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf"
+        }
+      ],
+      "duration_ms": 178246,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
         "name": "Kaleidoscope Evening",
         "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
       },
@@ -2091,6 +2091,22 @@
       "duration_ms": 163866,
       "name": "Kaleidoscope Evening",
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "duration_ms": 200747,
+      "name": "Rebekah",
+      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -2127,38 +2143,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Amari' SZN 1",
-        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
-      },
-      "artists": [
-        {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
-        }
-      ],
-      "duration_ms": 182248,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 200747,
-      "name": "Rebekah",
-      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Song For A Friend",
         "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 236478,
       "name": "Song For A Friend",
       "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "duration_ms": 182248,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL"
+      },
+      "artists": [
+        {
+          "name": "dia mat\u00e9",
+          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
+        }
+      ],
+      "duration_ms": 221612,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
         "name": "Sex + Hennessy",
         "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
       },
@@ -2319,6 +2335,22 @@
       "duration_ms": 155744,
       "name": "Sex + Hennessy",
       "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Paupers Field",
+        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "If the Creek Don't Rise",
+      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -2343,22 +2375,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL"
-      },
-      "artists": [
-        {
-          "name": "dia mat\u00e9",
-          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 243784,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
-        "name": "Paupers Field",
-        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "If the Creek Don't Rise",
-      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
     },
     {
       "added_at": "2022-09-30 14:22:50",

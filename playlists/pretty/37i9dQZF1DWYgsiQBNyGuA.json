@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 45186,
+  "num_followers": 45228,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDI3MmM1MmQwN2RhNzA2M2M3YzA5MzVjZTZhODlmZWE4",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDY3NTAwYzg3ZDY0NzdkZmI2NDhhOTk1NDEyODgwMjll",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Every Day a Dream",
-      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Sea of Noise",
         "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 209440,
       "name": "All I Ever Wonder",
       "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Every Day a Dream",
+      "url": "https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Make the Road By Walking",
-        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Montego Sunset",
-      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Emma Jean",
         "url": "https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man of the Universe",
+      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Live for Each Other",
         "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 249693,
-      "name": "Man of the Universe",
-      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
     },
     {
       "added_at": "2022-01-05 09:24:56",

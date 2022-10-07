@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 美根
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,173 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,195 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 10 | [ときめきちゅるぴかきゅるるらった](https://open.spotify.com/track/5uSxT6i3vKlZYnLKQsHTmm) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ラブホリック](https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc) | 2:38 |
 | 11 | [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 |
 | 12 | [Togenkyo To Taxi \- Yohji Igarashi Remix](https://open.spotify.com/track/0XcbEqKQCQR8NknZ8QERdp) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Togenkyo To Taxi\(Yohji Igarashi Remix\)](https://open.spotify.com/album/3elwIPFh7wYC4JwrCRGa6l) | 4:36 |
-| 13 | [Don't Stop Music](https://open.spotify.com/track/7y0FQ8CkO9DgLTibVWfxwd) | [PAIN](https://open.spotify.com/artist/6j1kStxMJerbkmXFRY0Gqa) | [Don't Stop Music](https://open.spotify.com/album/5pYXUQ8e83wbktfh41WhhD) | 1:27 |
+| 13 | [Don't Stop Music](https://open.spotify.com/track/7y0FQ8CkO9DgLTibVWfxwd) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0) | [Don't Stop Music](https://open.spotify.com/album/5pYXUQ8e83wbktfh41WhhD) | 1:27 |
 | 14 | [WORLDWIDE☆GIRL](https://open.spotify.com/track/6VIMp5ixCYoQmoIBOKrlyg) | [Kyunchi](https://open.spotify.com/artist/6OSypK1O2H0k33zP5HtPtI), [nonamera](https://open.spotify.com/artist/7rNZaXvNg2hfUGxQqd0nPe) | [WORLDWIDE☆GIRL](https://open.spotify.com/album/4Jjv97NhY1uM0TLKL6X0lH) | 2:56 |
 | 15 | [やっぱそれなー](https://open.spotify.com/track/03zdsbNQ5BIPzMyOXRL36C) | [KOMAGOME](https://open.spotify.com/artist/4yi7xi9fRysQclHSMAkQpY) | [やっぱそれなー](https://open.spotify.com/album/0tHBLTysQOwtuGLNpWOcGH) | 2:49 |
 | 16 | [Utopia](https://open.spotify.com/track/48MXnJ5rtyxncZ5paMhGpt) | [Mirror,Mirror](https://open.spotify.com/artist/5KDhjWedvGFr62NzeBasEw) | [OtogigotO](https://open.spotify.com/album/4mlCrC1fOJbVa0mz06IvWL) | 3:36 |

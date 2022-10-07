@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 954395,
+  "num_followers": 955009,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMGQ5MTQzZDMyMzlhZjdiNjE4MzRmY2JkMTU5YjVhMGQw",
+  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMDBhZGJiY2QzOGQ0Y2JkNWM5ODU5MjJhODQ3ZGZhZTZk",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "My Babe",
-      "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Dreamer",
@@ -151,6 +135,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "My Babe",
+      "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
     },
     {
       "added_at": "2022-04-11 19:33:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Somebody Loan Me A Dime",
-      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "The Pious Bird of Good Omen",
         "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 172693,
       "name": "Black Magic Woman - 2018 Master",
       "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Somebody Loan Me A Dime",
+      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "My Feeling For the Blues",
@@ -687,6 +671,22 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 215026,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
+      "duration_ms": 399173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Easy Blues (France, 1978) [Blues Reference]",
-        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Leake",
-          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Short Dressed Woman",
-      "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Born Under A Bad Sign (Mono)",
@@ -851,6 +835,22 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
+        "name": "Easy Blues (France, 1978) [Blues Reference]",
+        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Leake",
+          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Short Dressed Woman",
+      "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
         "name": "Bloomfield-A Retrospective",
         "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
       },
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 399173,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J"
+      "duration_ms": 215026,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
     },
     {
       "added_at": "2018-03-29 19:44:07",

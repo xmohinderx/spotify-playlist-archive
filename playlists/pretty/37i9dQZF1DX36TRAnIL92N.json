@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 40183,
+  "num_followers": 40622,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMGYwODM5OTRlODZiZTAxYWJjNDRhY2Y0Y2ZiYzczOWM5",
+  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMGRhMzAxZmMxZjE5M2QyYTBjYjc4NWY3YjhmMTBjMDFk",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
       },
@@ -225,23 +241,7 @@
       "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
     },
     {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 419164,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
-    },
-    {
-      "added_at": "2022-10-06 01:35:33",
+      "added_at": "2022-10-07 01:48:02",
       "album": {
         "name": "Lonely Traveller",
         "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
     },
     {
-      "added_at": "2022-10-06 01:35:33",
+      "added_at": "2022-10-07 01:48:02",
       "album": {
         "name": "Human Race",
         "url": "https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD"

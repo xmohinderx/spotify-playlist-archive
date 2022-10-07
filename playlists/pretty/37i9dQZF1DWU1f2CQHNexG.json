@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: The Psychedelic Furs. ",
-  "num_followers": 39696,
+  "num_followers": 39903,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzQ3NjA5NiwwMDAwMDAwMDU2ZjM5NjQwNzRjODllMDFmMzU0OTc2Yjg1MGI4MzM0",
+  "snapshot_id": "MTY2MzQ3NjA5NiwwMDAwMDAwMDYyNDk3NzcwYWYyNzI4YzM5NmQzMzMyM2Y2NTUzM2Qz",
   "tracks": [
     {
       "added_at": "2022-09-18 04:41:36",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-09-18 04:41:36",
       "album": {
-        "name": "Falco 3",
-        "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh"
-      },
-      "artists": [
-        {
-          "name": "Falco",
-          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
-        }
-      ],
-      "duration_ms": 202236,
-      "name": "Rock Me Amadeus",
-      "url": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
-    },
-    {
-      "added_at": "2022-09-18 04:41:36",
-      "album": {
         "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
         "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 285906,
       "name": "West End Girls - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
+    },
+    {
+      "added_at": "2022-09-18 04:41:36",
+      "album": {
+        "name": "Falco 3",
+        "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh"
+      },
+      "artists": [
+        {
+          "name": "Falco",
+          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
+        }
+      ],
+      "duration_ms": 202236,
+      "name": "Rock Me Amadeus",
+      "url": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
     },
     {
       "added_at": "2022-09-18 04:41:36",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-09-18 04:41:36",
       "album": {
-        "name": "The Innocents",
-        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Chains of Love",
-      "url": "https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA"
-    },
-    {
-      "added_at": "2022-09-18 04:41:36",
-      "album": {
         "name": "Everything Counts",
         "url": "https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 239706,
       "name": "Everything Counts",
       "url": "https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p"
+    },
+    {
+      "added_at": "2022-09-18 04:41:36",
+      "album": {
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Chains of Love",
+      "url": "https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA"
     },
     {
       "added_at": "2022-09-18 04:41:36",

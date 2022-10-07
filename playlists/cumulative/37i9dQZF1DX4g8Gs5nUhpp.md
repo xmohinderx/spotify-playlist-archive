@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Đức Phúc
+> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: MONO
 
 114 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 

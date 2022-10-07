@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 17831,
+  "num_followers": 17876,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMGIwY2MxZTdlNzE5ODQyZjY3MzA3NTg3ODM5MjNmMzdj",
+  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMGNmNzNmOGU3OWM2MGE1NjRmYmFkYWIyMDcwMzI3Yjcy",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Wasting Light",
-        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Rope",
-      "url": "https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Every Where Is Some Where",
         "url": "https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 188706,
       "name": "Blood In The Cut",
       "url": "https://open.spotify.com/track/4q604hQba5940BbOoaenmz"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "Rope",
+      "url": "https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-06-30 18:55:35",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "E-Pro",
-      "url": "https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W"
-    },
-    {
-      "added_at": "2022-06-30 18:55:35",
-      "album": {
         "name": "Lullabies To Paralyze",
         "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 174026,
       "name": "Little Sister",
       "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
+    },
+    {
+      "added_at": "2022-06-30 18:55:35",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "E-Pro",
+      "url": "https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W"
     },
     {
       "added_at": "2021-07-01 23:15:26",

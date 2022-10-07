@@ -1258,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "Vitamin String Quartet Performs the Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/1kQbCezHW2WISK4pcXl8Fi"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/61OAY1Rtoc80jfqUwYI9qM"
+    },
+    {
+      "album": {
         "name": "Bach, J.S.: Toccata and Fugue BWV 565; Organ Works BWV 572, 590, 532, 769 & 552",
         "url": "https://open.spotify.com/album/55QLnZs735inLUYGNBkti5"
       },

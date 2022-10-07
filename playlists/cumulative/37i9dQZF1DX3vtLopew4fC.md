@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-522 songs - 1 day 3 hr 24 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+523 songs - 1 day 3 hr 27 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,8 @@
 | [Truck Boi](https://open.spotify.com/track/25Ofqeg9tHp5HhpfFX2QSY) | [Olivia Rose](https://open.spotify.com/artist/1orgaHol6BcEWYTccOW8Rm) | [Truck Boi](https://open.spotify.com/album/3rJxHTwSmrGADrDdjZrNxb) | 2:37 | 2022-08-03 | 2022-10-06 |
 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 | 2022-01-05 | 2022-02-03 |
 | [Tu peux crever là\-bas](https://open.spotify.com/track/2x94Cuhc6w1qU6QhA03HzK) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:23 | 2022-01-05 | 2022-02-03 |
-| [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-10-05 |  |
+| [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-10-05 | 2022-10-07 |
+| [Twennies](https://open.spotify.com/track/2JKUKfXVAGuaEHLZKEzXFH) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/0WTmYak2Ws78H1nxSJim9m) | 2:51 | 2022-10-05 |  |
 | [TWITCH](https://open.spotify.com/track/6jZXep6N4A3xbSTVxHAEBh) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [TWITCH](https://open.spotify.com/album/3SiW26Em1rSBOfmwICXFSG) | 3:10 | 2022-02-02 | 2022-03-09 |
 | [U\-Turn](https://open.spotify.com/track/6Rc2piXpsUG65h6gOnDgYa) | [Angelica Appelman](https://open.spotify.com/artist/5MP0qg1tME82lHjl75bmfM) | [U\-Turn](https://open.spotify.com/album/7KkEHP3sWnhbKEZ43sSZMm) | 3:07 | 2022-09-07 | 2022-10-06 |
 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 | 2022-10-05 |  |

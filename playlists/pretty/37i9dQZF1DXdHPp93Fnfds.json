@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Javiera Mena",
-  "num_followers": 143430,
+  "num_followers": 143439,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGY1NDhhOTczNmE2NzQ1ODg4MzA2YjhmMzFhYTViOGJm",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDE5NGFiODIzMTA1NmIxZDNkODdmMTIwMzk2OGNjMjgz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
+        "name": "Error 404",
+        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
       },
       "artists": [
         {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
         }
       ],
-      "duration_ms": 215967,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
+      "duration_ms": 114706,
+      "name": "Deriva",
+      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Error 404",
-        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
       },
       "artists": [
         {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
         }
       ],
-      "duration_ms": 114706,
-      "name": "Deriva",
-      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
+      "duration_ms": 215967,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dormir Contigo",
-        "url": "https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Dormir Contigo",
-      "url": "https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Esta podr\u00eda ser la se\u00f1al",
         "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Ya Dormir\u00e9 Cuando Me Muera",
-        "url": "https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w"
+        "name": "Dormir Contigo",
+        "url": "https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
         }
       ],
-      "duration_ms": 159715,
-      "name": "Cosas Moradas",
-      "url": "https://open.spotify.com/track/4vVC4ABAKzmkCalefOogIH"
+      "duration_ms": 204841,
+      "name": "Dormir Contigo",
+      "url": "https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 174975,
       "name": "No s\u00e9 qu\u00e9 tienes",
       "url": "https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Ya Dormir\u00e9 Cuando Me Muera",
+        "url": "https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 159715,
+      "name": "Cosas Moradas",
+      "url": "https://open.spotify.com/track/4vVC4ABAKzmkCalefOogIH"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Aquellos Misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Aquellos Misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/4CiBWK8rGcw3MjgOqaAJAf"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/09PyIVzV0oQlDkXwvFExDB"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 250909,
       "name": "La Fuerza",
       "url": "https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/4CiBWK8rGcw3MjgOqaAJAf"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/09PyIVzV0oQlDkXwvFExDB"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 150236,
       "name": "A m\u00ed ya me iba mal de antes",
       "url": "https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Aquellos Misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos Misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/3Urx6Gf2iN5NPaaswZCpdq"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
         }
       ],
-      "duration_ms": 232925,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R"
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1159,26 +1163,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
-        }
-      ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Petr\u00f3leo",
         "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Una Linterna",
-        "url": "https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/3Urx6Gf2iN5NPaaswZCpdq"
       },
       "artists": [
         {
-          "name": "Candelaria Zamar",
-          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 162546,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs"
+      "duration_ms": 232925,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 233680,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Una Linterna",
+        "url": "https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO"
+      },
+      "artists": [
+        {
+          "name": "Candelaria Zamar",
+          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
-      },
-      "artists": [
-        {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Una explicaci\u00f3n \u2661",
         "url": "https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 183836,
       "name": "Una explicaci\u00f3n \u2661",
       "url": "https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
     },
     {
       "added_at": "2022-09-30 04:00:00",

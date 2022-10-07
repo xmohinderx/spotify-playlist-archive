@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-185 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+186 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2021-08-05 |  |
 | [Comb My Hair](https://open.spotify.com/track/6bAjvvI6Oo1MARyB2zDHPo) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Bruhnice](https://open.spotify.com/artist/2QW8NaVjm8HVF86S2rMrXL), [Tesia](https://open.spotify.com/artist/5X1yJG15xC3PkAid9lt1sP) | [Comb My Hair](https://open.spotify.com/album/3ErfwLMu1oq718Jn1us5TQ) | 3:35 | 2021-08-05 |  |
 | [Come Down](https://open.spotify.com/track/276zciJ7Fg7Jk6Ta6QuLkp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 2:49 | 2021-08-05 |  |
-| [Come With Me](https://open.spotify.com/track/6MM83CZc1Vj1VaP410sL6S) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Come With Me](https://open.spotify.com/album/6gBMd18G54Yx50Kl1LLsKI) | 3:42 | 2021-08-05 | 2022-07-29 |
+| [Come With Me](https://open.spotify.com/track/6MM83CZc1Vj1VaP410sL6S) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Come With Me](https://open.spotify.com/album/6gBMd18G54Yx50Kl1LLsKI) | 3:42 | 2021-08-05 |  |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2021-08-05 |  |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2021-08-05 |  |
 | [Crush](https://open.spotify.com/track/3GldXbSFOqFbLVsluOkm4M) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Crush](https://open.spotify.com/album/1YfQe8ZDLXXlwBWQp9RzO6) | 3:43 | 2022-02-11 | 2022-04-21 |
@@ -143,7 +143,7 @@
 | [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2021-08-05 | 2022-06-08 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2021-08-05 |  |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-06-03 |  |
-| [Settle](https://open.spotify.com/track/4mf7qJmN4RwCGMZoMQ0IlX) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [Settle](https://open.spotify.com/album/6ieSb59mq1lavNphSD3p5T) | 3:02 | 2022-08-17 |  |
+| [Settle](https://open.spotify.com/track/4mf7qJmN4RwCGMZoMQ0IlX) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [Settle](https://open.spotify.com/album/6ieSb59mq1lavNphSD3p5T) | 3:02 | 2022-08-17 | 2022-10-07 |
 | [she calls me daddy](https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [she calls me daddy](https://open.spotify.com/album/2fKXo7qmQYw5u0DOeKhQoU) | 3:03 | 2021-08-05 |  |
 | [Sign](https://open.spotify.com/track/25OQdkzcMcIwPqRhBr7QAj) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Sign](https://open.spotify.com/album/75iYQQNe7nXl2rfwP0tW5t) | 4:18 | 2021-08-05 | 2022-05-02 |
 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 | 2022-07-25 |  |
@@ -167,6 +167,7 @@
 | [The Middle](https://open.spotify.com/track/2GQpMLpOu3dpCoYX5jADt9) | [Petticoat](https://open.spotify.com/artist/4B9XnPfyVGBIL2cBS17OoX) | [The Middle](https://open.spotify.com/album/3ClkDhO4tkQwY7iXmSmhk2) | 3:27 | 2021-08-05 | 2022-07-28 |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-11-12 |  |
 | [The Outsiders](https://open.spotify.com/track/7ikfWiyZgjwCFi8Wq88oCk) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [The Outsiders](https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv) | 2:22 | 2021-11-12 |  |
+| [The Start](https://open.spotify.com/track/1uyOb4rVDC4QkTwqTH9Thj) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [The Start](https://open.spotify.com/album/0KrSUDXYpQdGuLWc0qw4v8) | 3:08 | 2022-10-07 |  |
 | [Through Tha Night](https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [Through Tha Night](https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2) | 3:16 | 2021-08-05 |  |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2021-12-14 | 2022-08-18 |
 | [Too Sensitive](https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Too Sensitive](https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM) | 2:41 | 2021-08-05 |  |
@@ -178,7 +179,7 @@
 | [VOCES](https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ) | 3:22 | 2021-08-05 | 2022-07-28 |
 | [Wallflower](https://open.spotify.com/track/2aLsrZVPkJm6pm05WXZ0aC) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/7D6XTJzVwNVH2upfKTNvKQ) | 2:57 | 2021-08-05 | 2022-07-29 |
 | [Wallflower](https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm) | 2:57 | 2022-07-25 |  |
-| [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 | 2021-08-05 |  |
+| [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 | 2021-08-05 | 2022-10-07 |
 | [We're All Falling Apart](https://open.spotify.com/track/7uhPrSyqbRDSwWd0JBTsA7) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [We're All Falling Apart](https://open.spotify.com/album/35IjLV9YXGSRULuZlhqAO1) | 3:02 | 2021-11-12 | 2022-07-16 |
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2021-08-05 | 2022-07-29 |
 | [Weekend](https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 3:08 | 2022-07-25 |  |

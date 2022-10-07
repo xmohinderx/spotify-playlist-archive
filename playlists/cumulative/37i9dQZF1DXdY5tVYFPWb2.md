@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-312 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+315 songs - 20 hr 59 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 | 2022-06-16 |  |
 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 | 2022-05-24 | 2022-07-20 |
 | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/track/2QArMxNdNf0RRtbWgluQ8B) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/album/0dne3frd7OM589ZVfQDWqS) | 4:03 | 2022-08-30 | 2022-09-07 |
-| [Almond](https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [樹影](https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye) | 3:29 | 2022-08-02 |  |
+| [Almond](https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [樹影](https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye) | 3:29 | 2022-08-02 | 2022-10-07 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-06-07 | 2022-08-24 |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-24 |  |
 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 | 2022-09-13 |  |
@@ -44,6 +44,7 @@
 | [CITY BOY](https://open.spotify.com/track/3v0JBtr2GRE7fONwUaIGrS) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/3GUO72r5DExiZzVytINvxM) | 4:03 | 2022-07-27 | 2022-08-03 |
 | [CITY FLIGHT](https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [EP\-3](https://open.spotify.com/album/2abkuqj2lyCwE0dyQlnyMK) | 4:05 | 2022-05-24 | 2022-07-29 |
 | [Cosmic Love \(2021 Remix\)](https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU) | [1986 Omega Tribe](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [The Reverb 2022 OMEGA TRIBE \-VAP Edition\-](https://open.spotify.com/album/0YmD6k6pMLxnb9E3R1DdsY) | 4:12 | 2022-06-14 | 2022-08-31 |
+| [countdown \- prod\. Shin Sakiura & ZIN](https://open.spotify.com/track/7kg73PDeip6tT32vZHJ2hh) | [GaRDeN](https://open.spotify.com/artist/6blpRxldFfjqsSOm3s5DZi) | [countdown \(prod\. Shin Sakiura & ZIN\)](https://open.spotify.com/album/39cmHGqTMKDUo0tyUSKu7T) | 4:18 | 2022-10-06 |  |
 | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/track/4c1wyYgYhN8ckz4eOccw7r) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/album/0eaGXqRgtmSVu2Dxvj6Ob4) | 4:12 | 2022-06-07 | 2022-07-10 |
 | [cycle](https://open.spotify.com/track/0gpSNOdoWHlRCaGp4iIjC5) | [Som](https://open.spotify.com/artist/25e7VNBZs2slmntthPkwZH) | [cycle](https://open.spotify.com/album/0XfYpMjkFoyexPrP41X0l9) | 3:16 | 2022-10-04 |  |
 | [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 | 2022-08-28 |  |
@@ -81,7 +82,7 @@
 | [Higher](https://open.spotify.com/track/0AFmH6T57kBT7ZcVflH2me) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Higher](https://open.spotify.com/album/4gCkJK3KO7KDYCn5Kq2uEO) | 4:13 | 2022-09-08 | 2022-09-15 |
 | [Highway](https://open.spotify.com/track/1ilQZ06LvmBcqtXhoSlpln) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [Highway](https://open.spotify.com/album/3xDydP9dNsLrFkRzF5KYXz) | 3:56 | 2022-07-26 | 2022-07-28 |
 | [Highway Flyer](https://open.spotify.com/track/33sk4kPKBJ33h9f3VyCnuG) | [Alisa Takigawa](https://open.spotify.com/artist/6fvp9HPqOxcYd7PgyKPF4e), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [Highway Flyer / Warmth](https://open.spotify.com/album/5RjcXaZA6Wfoy8AL15ojbb) | 4:30 | 2022-06-02 | 2022-07-22 |
-| [Holiday](https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Holiday](https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4) | 4:04 | 2022-08-09 |  |
+| [Holiday](https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Holiday](https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4) | 4:04 | 2022-08-09 | 2022-10-07 |
 | [Homies](https://open.spotify.com/track/0NnZUhIQzF99CSoDGKSCwI) | [NORISTRY](https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU) | [Homies](https://open.spotify.com/album/6PxGvjRqGO34UAw47JX7io) | 3:15 | 2022-05-31 | 2022-06-08 |
 | [HONDA](https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [HONDA](https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN) | 3:59 | 2022-08-02 |  |
 | [Hooray Hooray](https://open.spotify.com/track/2Vkk9kZOqdbHlA6bIXBQzV) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [Hooray Hooray](https://open.spotify.com/album/2qFtotDNT7IqsqyFu9OHFw) | 4:01 | 2022-05-31 | 2022-07-21 |
@@ -144,6 +145,7 @@
 | [Rainin' on my parade](https://open.spotify.com/track/4bjbD3oRzJKcGKx0isRWDI) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [Rainin' on my parade](https://open.spotify.com/album/0I6IpubleNWNAZkDllZaCR) | 3:08 | 2022-09-08 | 2022-09-15 |
 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 | 2022-06-21 |  |
 | [Rainy Talk](https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [Golden Circle](https://open.spotify.com/album/57BcxFEK536HPkPFLW6pI2) | 3:29 | 2022-05-24 | 2022-07-20 |
+| [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-06 |  |
 | [Remember me](https://open.spotify.com/track/02cpMqOFhYCBFcOf8u2V8P) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [Remember me](https://open.spotify.com/album/1OQlchkVRwfKlCg02KEtSA) | 4:46 | 2022-08-09 | 2022-08-17 |
 | [Rhythm of Your Heart](https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Rhythm of Your Heart](https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e) | 3:44 | 2022-05-24 | 2022-10-04 |
 | [RIDE ON TIME \- Cover](https://open.spotify.com/track/4yRMOU6PB5f5ZCY5ejjX82) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [RIDE ON TIME \(Cover\)](https://open.spotify.com/album/16ODyrM0M0PeF9JtXbpnNL) | 5:08 | 2022-06-30 | 2022-07-08 |
@@ -309,7 +311,7 @@
 | [笑ってほしいよ](https://open.spotify.com/track/6IcZU5CPGK8x5V9GTwxfJ3) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [笑ってほしいよ](https://open.spotify.com/album/4cBISpXQQZkbO29bQj0ZJl) | 2:56 | 2022-06-28 | 2022-07-06 |
 | [素っ頓狂](https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [素っ頓狂](https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf) | 5:07 | 2022-05-24 | 2022-07-27 |
 | [終電で帰ります](https://open.spotify.com/track/6D7eSKejjPAow87gnqH3YM) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [終電で帰ります](https://open.spotify.com/album/4ja62FoYYdfe7Ioao9A9Rr) | 4:04 | 2022-05-28 | 2022-07-25 |
-| [薄明](https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [薄明](https://open.spotify.com/album/0BM9dlMllgmxMswckrkhkd) | 4:25 | 2022-05-28 |  |
+| [薄明](https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [薄明](https://open.spotify.com/album/0BM9dlMllgmxMswckrkhkd) | 4:25 | 2022-05-28 | 2022-10-07 |
 | [蜃気楼](https://open.spotify.com/track/1poGs2OYI3IJvRRf3lnwHy) | [LEE HWANGDAE](https://open.spotify.com/artist/63RogPtcs8DxN7cdqRU9FV) | [蜃気楼](https://open.spotify.com/album/5wuHxESE0c3fKwyRRq6W07) | 3:42 | 2022-06-30 | 2022-07-09 |
 | [誓い](https://open.spotify.com/track/0qk9PyviJnLL2rzHikQ4Oy) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [誓い](https://open.spotify.com/album/6bHUl9K4cipCsU2wew0XrU) | 3:33 | 2022-05-24 | 2022-07-07 |
 | [踊らせないで](https://open.spotify.com/track/6AA6bwyZpNlRpf3ii2la7e) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6o54CCBkUg46egcmBrHpIC) | 3:47 | 2022-05-24 | 2022-07-29 |
@@ -319,6 +321,7 @@
 | [陽の当たる大通り \(feat\. Phum Viphurit\)](https://open.spotify.com/track/7eM4bUjucfMv5GkM4gotZA) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [陽の当たる大通り \(feat\. Phum Viphurit\)](https://open.spotify.com/album/5CAbx94HFbCDQXFP4F9bDx) | 4:12 | 2022-05-24 | 2022-07-20 |
 | [雨](https://open.spotify.com/track/6x2Lcv2fQ3bOqTRAcm0hNY) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [雨](https://open.spotify.com/album/15jgJZhUFLWbLgvypQdMk1) | 4:27 | 2022-06-14 |  |
 | [雨のリグレット](https://open.spotify.com/track/1vGLybuIsoMevv7DXNnW1c) | [Chikuzen sato](https://open.spotify.com/artist/7xK7fPe7SjHrGS54CvUoer) | [雨のリグレット](https://open.spotify.com/album/0hKGVTJz57q8FOwKalb0sj) | 4:37 | 2022-09-13 | 2022-10-05 |
+| [青山Killer物語 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/03eu5QoG6mWFvdu3IOCmHp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/7Dre4HkNvQhl8diVNQugD0) | 5:02 | 2022-10-06 |  |
 | [須臾の島 feat\. ぷにぷに電機](https://open.spotify.com/track/6NzyTK0raOqtE9DVm00qHj) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [須臾の島 feat\. ぷにぷに電機](https://open.spotify.com/album/4171BuBCD86VDuavepuczQ) | 5:02 | 2022-05-24 | 2022-07-20 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

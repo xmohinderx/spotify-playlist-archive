@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Jacobo Velez & La Mambanegra en portada.
 
-413 songs - 1 day 0 hr 54 min - [published](https://open.spotify.com/playlist/1A3UHUVNXWpYmJZRAxzxtE)
+414 songs - 1 day 0 hr 56 min - [published](https://open.spotify.com/playlist/1A3UHUVNXWpYmJZRAxzxtE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,8 @@
 | [Ya Fue](https://open.spotify.com/track/5oK9DaQ93OfKwGoTBEv87l) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La T](https://open.spotify.com/artist/3VeRIwuCVkaBUT9DOjvj3A), [la M](https://open.spotify.com/artist/1Eu8sMSmWx1RQI5lDra6M5) | [Ya Fue](https://open.spotify.com/album/08qxaTG7kPlbBEzz8BCBrz) | 3:13 | 2022-05-06 | 2022-05-28 |
 | [Ya Fue](https://open.spotify.com/track/5KcHM0MeRD80BSrsv7Ofas) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Ya Fue](https://open.spotify.com/album/7MDpxFAQsap0rcim87rxFg) | 2:06 | 2022-08-19 | 2022-09-03 |
 | [Ya Me Canse De Ser Tu Amor](https://open.spotify.com/track/2RWlSi1pQ2CqoDK1vKryJk) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Ya Me Canse De Ser Tu Amor](https://open.spotify.com/album/0Ur5VDqnQk3m4Adi6HCAKh) | 2:54 | 2022-06-10 | 2022-06-18 |
-| [Ya Me Contaron](https://open.spotify.com/track/3iXBJFCgER31zBfwyfWnUx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/0WrPTpiIgKioi7arRnTmJB) | 2:38 | 2022-09-23 |  |
+| [Ya Me Contaron](https://open.spotify.com/track/3iXBJFCgER31zBfwyfWnUx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/0WrPTpiIgKioi7arRnTmJB) | 2:38 | 2022-09-23 | 2022-10-07 |
+| [Ya Me Contaron](https://open.spotify.com/track/70dc2zS1YS8YBeBGJLH3TA) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/6wm12GSDilR8IlPZGSmo8A) | 2:38 | 2022-09-30 |  |
 | [Ya no más](https://open.spotify.com/track/4YLPGeZQgcSJmR0g0BbzhG) | [Los Kombolokos](https://open.spotify.com/artist/186zc9g3W3zfjfQZqEu9Zd) | [Ya no más](https://open.spotify.com/album/5aFL1hW4vCL9ZlwOzvR38b) | 3:48 | 2022-05-27 | 2022-06-04 |
 | [Yo No Fui](https://open.spotify.com/track/3YcmYycKWslwStc05Ayn2B) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Yo No Fui](https://open.spotify.com/album/0otb2F4xh0ZtxPTbzDe3lM) | 2:55 | 2022-09-30 |  |
 | [Yo Soy Así](https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Gastón Angrisani](https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK) | [Yo Soy Así](https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG) | 2:34 | 2022-07-15 | 2022-08-13 |

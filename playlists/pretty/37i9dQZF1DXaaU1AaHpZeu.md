@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Javiera Mena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,463 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,507 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 11 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 |
 | 12 | [Transparente](https://open.spotify.com/track/2UTE1ME7sIZ5AbQtcJUG5s) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Transparente](https://open.spotify.com/album/7Af4bNugpHm44QACs6akyX) | 2:33 |
 | 13 | [Twilight](https://open.spotify.com/track/1rSo4bfLhRIKBb64DNENst) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv) | [Y3Y2](https://open.spotify.com/album/6h897DcO8dKccdOGrG523w) | 3:42 |
-| 14 | [La vida moderna \(feat\. Love of Lesbian\)](https://open.spotify.com/track/67oh7LlJZOzQiZ7mM2GtRm) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8), [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [La vida moderna \(feat\. Love of Lesbian\)](https://open.spotify.com/album/0fSBw8VIIwvIp3ji1WMCAr) | 3:13 |
+| 14 | [La vida moderna](https://open.spotify.com/track/67oh7LlJZOzQiZ7mM2GtRm) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8) | [La vida moderna](https://open.spotify.com/album/0fSBw8VIIwvIp3ji1WMCAr) | 3:13 |
 | 15 | [Quiero Equivocarme](https://open.spotify.com/track/6WM4wCSJgZvrP1GklQhoVk) | [Second](https://open.spotify.com/artist/3Ju3bW8OaeUmfQKqMtATKr) | [Flores Imposibles](https://open.spotify.com/album/6k8PiFkefHbLgqXVEGyzVi) | 4:49 |
 | 16 | [Navaja](https://open.spotify.com/track/4xYjeIMP9G5a6E6KC6DZlF) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH), [Abhir Hathi](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0) | [Navaja](https://open.spotify.com/album/0otVj9VzNTlgJ5jeXbBUtG) | 2:50 |
 | 17 | [Llevar\-nos cada matí](https://open.spotify.com/track/1JaABxYFawzOTCpgQWfCo4) | [Pau Vallvé](https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s) | [Llevar\-nos cada matí](https://open.spotify.com/album/7y4nHFXGStTpxloFq32MUu) | 2:34 |

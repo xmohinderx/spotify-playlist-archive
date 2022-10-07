@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Rahma Riad
 
-312 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+313 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Abeek](https://open.spotify.com/track/2eiAj8fuDd6uFJwAqT62DI) | [Shaikha Alaslawi](https://open.spotify.com/artist/0d9sGPgZHOwkrc2FAEZvqR) | [Abeek](https://open.spotify.com/album/30MGwB1gA27RfeBZNGniLC) | 4:40 | 2021-12-23 | 2022-03-02 |
 | [Abjadiyeh](https://open.spotify.com/track/5CV4sbHeftCkLZ8JMTwidN) | [Venus](https://open.spotify.com/artist/3wr1mI1Kd3FsimBQOGPZbY) | [Ad Ma Ehke](https://open.spotify.com/album/2TrKZ3tb2wFgOzvR3ZKuHz) | 3:35 | 2021-12-23 | 2022-03-01 |
 | [Abu 3ntr](https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr](https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN) | 3:33 | 2021-12-23 | 2022-03-01 |
-| [Action](https://open.spotify.com/track/42oyB4eDAiU4hxis698Glb) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Action](https://open.spotify.com/album/5lHKqYoOrYfvWPDPKNDyh9) | 2:46 | 2022-09-20 |  |
+| [Action](https://open.spotify.com/track/42oyB4eDAiU4hxis698Glb) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Action](https://open.spotify.com/album/5lHKqYoOrYfvWPDPKNDyh9) | 2:46 | 2022-09-20 | 2022-10-07 |
 | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/track/3uWb9pRy167A3QgCMcAUwH) | [Ángel Gregorio Villoldos](https://open.spotify.com/artist/3Qk0GyKffDb9elY6DLYsrG), [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh) | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/album/4qp6sN0NNxCdU9adjDXVKZ) | 2:44 | 2022-07-15 | 2022-09-26 |
 | [Afa](https://open.spotify.com/track/61sFahxJGZjEQgASy45VTX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Afa](https://open.spotify.com/album/01QAkV39wYAMuyj0qdBBC5) | 2:36 | 2022-09-08 |  |
 | [Aghani Al Shouk](https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb) | [Hasnaa](https://open.spotify.com/artist/2DnWkyy7jNoREYG8z3eHui) | [Aghani Al Shouk](https://open.spotify.com/album/4um9Pt1IpTm2GhV9yRs2DC) | 3:18 | 2021-12-23 | 2022-02-19 |
@@ -156,6 +156,7 @@
 | [Mabahebesh El Ghaltan](https://open.spotify.com/track/5Lbb8c16dD8HLfUUKPAFut) | [Aya Khafaga](https://open.spotify.com/artist/0gj21C6dPraExVvV4Rgjm7) | [Mabahebesh El Ghaltan](https://open.spotify.com/album/7BOM9qCENfVAOO7uiyjObX) | 4:00 | 2021-12-23 | 2022-03-01 |
 | [Maey Solef](https://open.spotify.com/track/2w9rtSDzKPD2ONLCG6f39o) | [Nariman](https://open.spotify.com/artist/4PGqbi1DtCzG4itqf4UcSh) | [Maey Solef](https://open.spotify.com/album/129Uvupg3zkSumY6XQuoLv) | 5:47 | 2021-12-23 | 2022-03-02 |
 | [Maghnateess](https://open.spotify.com/track/4AbDFi4FmZuk1IwUWhGtY7) | [Cheen](https://open.spotify.com/artist/29Es5aQwN2V7y4kn4GZrIp) | [Maghnateess](https://open.spotify.com/album/56BkSCPiZsLGOJwAEqWgks) | 2:57 | 2021-12-23 | 2022-03-01 |
+| [Majaneen](https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Majaneen](https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S) | 2:48 | 2022-10-06 |  |
 | [Makanak Mbyen](https://open.spotify.com/track/0TzQ3u6VhbcxTcRN3zBi8a) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Haneen](https://open.spotify.com/album/5ogbgcC7gexEMspoSYTU8z) | 3:49 | 2022-07-06 | 2022-07-08 |
 | [Makhntny](https://open.spotify.com/track/7lddnpLYUOXG1P1pGbMlxQ) | [Meme](https://open.spotify.com/artist/3VebAr9PRCkjBiOeeK2Xr3) | [Makhntny](https://open.spotify.com/album/0zR7KLmcF1FrxJhTjxfJ7l) | 3:21 | 2021-12-23 | 2022-03-02 |
 | [Malnash Naseeb](https://open.spotify.com/track/5BTkrgvHrlwrzQuKTXMuyd) | [Enas Ezz Eldeen](https://open.spotify.com/artist/4ZZsLsV3oBkkQ2i1INk0ts) | [Malnash Naseeb](https://open.spotify.com/album/7iG0WHzIp4kJSmJyzSvwXg) | 3:04 | 2021-12-23 | 2022-03-02 |

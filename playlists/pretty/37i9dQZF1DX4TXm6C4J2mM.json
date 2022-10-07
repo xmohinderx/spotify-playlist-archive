@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157112,
+  "num_followers": 157118,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDczN2Y0OWFhMTQ5ODY4NzE3YzRlMmExMjE4ZDZlOTAz",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGI3ZDIyMTU2OGUyZDE1YmU0ZDVlYTk0MjI2NjgyMjM2",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "No One Dies From Love (220 KID Remix)",
         "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 186180,
       "name": "No One Dies From Love (220 KID Remix)",
       "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "i miss u (VIZE Remix)",
-        "url": "https://open.spotify.com/album/3zpYj8yX3IY6vyju8Hwkp7"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 152109,
-      "name": "i miss u - VIZE Remix",
-      "url": "https://open.spotify.com/track/4zvJFnv4nIwW1rAN4XlhBc"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
       },
@@ -1187,26 +1163,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Monkey Mind",
-        "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
+        "name": "i miss u (VIZE Remix)",
+        "url": "https://open.spotify.com/album/3zpYj8yX3IY6vyju8Hwkp7"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "Paradigm",
-          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
         },
         {
-          "name": "AMELY",
-          "url": "https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 126511,
-      "name": "Monkey Mind",
-      "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
+      "duration_ms": 152109,
+      "name": "i miss u - VIZE Remix",
+      "url": "https://open.spotify.com/track/4zvJFnv4nIwW1rAN4XlhBc"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1231,6 +1207,30 @@
       "duration_ms": 136500,
       "name": "Te Bot\u00e9",
       "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Monkey Mind",
+        "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        },
+        {
+          "name": "AMELY",
+          "url": "https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM"
+        }
+      ],
+      "duration_ms": 126511,
+      "name": "Monkey Mind",
+      "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        },
+        {
+          "name": "Until Dawn",
+          "url": "https://open.spotify.com/artist/49hK2KdkC23KHY83DwIfS2"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Fingers Crossed - Until Dawn Remix",
+      "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Always Feels Like (MOTi Remix)",
         "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 139922,
       "name": "Always Feels Like - MOTi Remix",
       "url": "https://open.spotify.com/track/60EfJrwzNKarb9RtHiwJHq"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        },
-        {
-          "name": "Until Dawn",
-          "url": "https://open.spotify.com/artist/49hK2KdkC23KHY83DwIfS2"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Fingers Crossed - Until Dawn Remix",
-      "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Where You Wanna Be",
         "url": "https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 158709,
       "name": "Where You Wanna Be",
       "url": "https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2103,22 +2103,30 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
+        "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
+        "url": "https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z"
       },
       "artists": [
         {
-          "name": "Zookeepers",
-          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
         }
       ],
-      "duration_ms": 194220,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
+      "duration_ms": 226451,
+      "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
+      "url": "https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r"
     }
   ],
   "unique_name": "Tr\u00e4ning",

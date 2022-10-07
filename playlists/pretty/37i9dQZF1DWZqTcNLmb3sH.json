@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Triple Riding",
-  "num_followers": 40995,
+  "num_followers": 41029,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk0MzIwOCwwMDAwMDAwMDliYzQxMTA3NTU0MWY4ZjQwMzEzMGU1MDU4ZTc4YjQ5",
+  "snapshot_id": "MTY2NTA2NzkzNCwwMDAwMDAwMGYwYzEyZTJkNGNkNDg0Mzc1MWUyYWNhY2Q5MWIwMmVk",
   "tracks": [
     {
       "added_at": "2022-09-16 05:21:59",
@@ -57,26 +57,30 @@
       "url": "https://open.spotify.com/track/7N2G2VjUmmKWO6FrW2hZMt"
     },
     {
-      "added_at": "2022-07-18 06:13:34",
+      "added_at": "2022-10-06 14:52:14",
       "album": {
-        "name": "Champion - Title Track (From \"Champion\")",
-        "url": "https://open.spotify.com/album/4YHcxV2nqBfUmjOGCM43iV"
+        "name": "Crazy Heartige (From \"Champion\")",
+        "url": "https://open.spotify.com/album/4ZYc1TMwqTrHfAqSJNNOtZ"
       },
       "artists": [
         {
           "name": "B. Ajaneesh Loknath",
           "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "C R Bobby",
+          "url": "https://open.spotify.com/artist/4l9k87iqGrzpc4JwAmDAdQ"
         }
       ],
-      "duration_ms": 218357,
-      "name": "Champion - Title Track (From \"Champion\")",
-      "url": "https://open.spotify.com/track/2Vocp5rThRgjQtI1zKDGL7"
+      "duration_ms": 225753,
+      "name": "Crazy Heartige (From \"Champion\")",
+      "url": "https://open.spotify.com/track/4nWobt9jWc9WfO9P1mLuDv"
     },
     {
       "added_at": "2022-10-03 10:54:09",
       "album": {
-        "name": "Dhoom Dhaam (From \"Dasara\") - Single",
-        "url": "https://open.spotify.com/album/6iV4v7e8hKHYg338ypwHUS"
+        "name": "Dhoom Dhaam (From \"Dasara\") - Kannada",
+        "url": "https://open.spotify.com/album/7rLhjH8jZgH42fDIRXFLpv"
       },
       "artists": [
         {
@@ -90,15 +94,11 @@
         {
           "name": "Maalavika Sundar",
           "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
-        },
-        {
-          "name": "Santhosh Varma",
-          "url": "https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp"
         }
       ],
       "duration_ms": 242019,
-      "name": "Dhoom Dhaam (From \"Dasara\")",
-      "url": "https://open.spotify.com/track/1Fs00ueR7iu8mTUATCDGbB"
+      "name": "Dhoom Dhaam",
+      "url": "https://open.spotify.com/track/0jruykYpkPEst0xBJCYWie"
     },
     {
       "added_at": "2022-09-22 02:37:37",
@@ -291,6 +291,46 @@
       "duration_ms": 118758,
       "name": "Oh Nanna Gelaya (From \"Nodi Swamy Ivanu Irode Heege\")",
       "url": "https://open.spotify.com/track/3aZbZArFMRcApeJ9fL39hC"
+    },
+    {
+      "added_at": "2022-10-06 14:52:14",
+      "album": {
+        "name": "Brahmastra (Kannada) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1eUqIrELR2kac2RjtgXMQr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 278377,
+      "name": "Kesariya Rangu",
+      "url": "https://open.spotify.com/track/3X0CBCVKnvNajOvuSN0ngN"
+    },
+    {
+      "added_at": "2022-07-18 06:13:34",
+      "album": {
+        "name": "Champion - Title Track (From \"Champion\")",
+        "url": "https://open.spotify.com/album/4YHcxV2nqBfUmjOGCM43iV"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "Champion - Title Track (From \"Champion\")",
+      "url": "https://open.spotify.com/track/2Vocp5rThRgjQtI1zKDGL7"
     },
     {
       "added_at": "2022-09-23 11:12:19",
@@ -1159,30 +1199,6 @@
       "duration_ms": 130071,
       "name": "Vikrant Rona Tribute Song",
       "url": "https://open.spotify.com/track/2O9NIFR9BHadAMIKq0z53z"
-    },
-    {
-      "added_at": "2022-07-18 06:13:34",
-      "album": {
-        "name": "Kesariya Rangu [From \"Brahmastra (Kannada)\"]",
-        "url": "https://open.spotify.com/album/0St5fP672OHd31twjogATZ"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 278377,
-      "name": "Kesariya Rangu (From \"Brahmastra (Kannada)\")",
-      "url": "https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ"
     },
     {
       "added_at": "2022-08-26 12:14:17",

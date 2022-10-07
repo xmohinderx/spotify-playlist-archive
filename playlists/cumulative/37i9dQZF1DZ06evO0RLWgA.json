@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 289560,
       "name": "Baby, Please Don't Go",
       "url": "https://open.spotify.com/track/7uhXMSCHj0eaW5VRB2jP1w"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 248280,
       "name": "Deep Blue Sea",
       "url": "https://open.spotify.com/track/5KagK4pdr06uUCYgEnjDRt"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 177680,
       "name": "Hoogie Boogie",
       "url": "https://open.spotify.com/track/6phCqRAEwlmHpRsCO76ukL"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 239830,
       "name": "I Do Believe - Live 1969",
       "url": "https://open.spotify.com/track/2HlaS8TVh4PvZVc4BksWi0"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 145026,
       "name": "I Need Some Money",
       "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 331493,
       "name": "I'm Bad Like Jesse James - Live At Cafe Au-Go-Go/1966",
       "url": "https://open.spotify.com/track/5VmHzbvhPS6nCfO7NZiVBq"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 208732,
       "name": "It Serves Me Right to Suffer - Remastered",
       "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 246493,
       "name": "Let's Make It",
       "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Moon Is Rising",
       "url": "https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 153293,
       "name": "My Own Blues",
       "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 147066,
       "name": "No Shoes",
       "url": "https://open.spotify.com/track/5Zcg5ltKPWOaxvwtRTBk4S"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 233360,
       "name": "Peace Lovin' Man",
       "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
@@ -1101,10 +1101,28 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 226629,
       "name": "Process",
       "url": "https://open.spotify.com/track/7CMDV19vm31ihLvqZUHLAu"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244773,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/2al9nseOuULjTfe6GqInU1"
     },
     {
       "album": {
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 184506,
       "name": "Stella Mae",
       "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Unfriendly Woman",
       "url": "https://open.spotify.com/track/2FwMyaKaq5V8NLIvfWR0Ft"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 277200,
       "name": "Whiskey And Wimmen'",
       "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"

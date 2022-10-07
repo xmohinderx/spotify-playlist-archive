@@ -449,6 +449,24 @@
     {
       "album": {
         "name": "Repave",
+        "url": "https://open.spotify.com/album/69qFYmNxf9i1kc26Cip5sZ"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "Byegone",
+      "url": "https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4"
+    },
+    {
+      "album": {
+        "name": "Repave",
         "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
       },
       "artists": [
@@ -3943,7 +3961,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"

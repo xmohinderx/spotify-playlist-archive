@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Lorna Shore",
-  "num_followers": 853907,
+  "num_followers": 853987,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDUwYTFkNTM3OWE2MWU1YjQ2NDk5NzE4OTNhNzc4Y2Y0",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDViMDgwMDg0ZDM2MGQ3ZDNjMGI2OGFhMmU2NjQ3NjBh",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
-      },
-      "artists": [
-        {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Cross My Heart",
         "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 198000,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Bullet For My Valentine (Deluxe)",
         "url": "https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 235018,
       "name": "This Means War",
       "url": "https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Hangfire",
-        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
+        "name": "A Form of Protest",
+        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
       },
       "artists": [
         {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
         }
       ],
-      "duration_ms": 195217,
-      "name": "Hangfire",
-      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
+      "duration_ms": 189405,
+      "name": "A Form of Protest",
+      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -371,18 +371,34 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "A Form of Protest",
-        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
+        "name": "Hangfire",
+        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
       },
       "artists": [
         {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
         }
       ],
-      "duration_ms": 189405,
-      "name": "A Form of Protest",
-      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
+      "duration_ms": 195217,
+      "name": "Hangfire",
+      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Mass Produced",
+        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Mass Produced",
+      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -403,22 +419,6 @@
       "duration_ms": 202418,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/6O6U83grucuxSktER0IbrM"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Mass Produced",
-        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
-      },
-      "artists": [
-        {
-          "name": "Oceano",
-          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Mass Produced",
-      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
-      },
-      "artists": [
-        {
-          "name": "Citizen Soldier",
-          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Shade Astray",
         "url": "https://open.spotify.com/album/13V5598DE5BTivaX1zecEF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 277093,
       "name": "Shade Astray",
       "url": "https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Venenosa",
-        "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 190495,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 246282,
       "name": "Stand Down",
       "url": "https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Venenosa",
+        "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 190495,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Spearmint Revolt",
-        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 302258,
-      "name": "Spearmint Revolt",
-      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Be Someone",
         "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 200000,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Spearmint Revolt",
+        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 302258,
+      "name": "Spearmint Revolt",
+      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 209564,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Break Me Down",
         "url": "https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt"
       },
@@ -1035,18 +1019,34 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "UFO Party",
-        "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
       },
       "artists": [
         {
-          "name": "Young Medicine",
-          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
         }
       ],
-      "duration_ms": 242769,
-      "name": "UFO Party",
-      "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Seed of Self-Destruction",
+        "url": "https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0"
+      },
+      "artists": [
+        {
+          "name": "Allt",
+          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+        }
+      ],
+      "duration_ms": 243722,
+      "name": "Severance",
+      "url": "https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Seed of Self-Destruction",
-        "url": "https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0"
+        "name": "UFO Party",
+        "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
       },
       "artists": [
         {
-          "name": "Allt",
-          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+          "name": "Young Medicine",
+          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
         }
       ],
-      "duration_ms": 243722,
-      "name": "Severance",
-      "url": "https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q"
+      "duration_ms": 242769,
+      "name": "UFO Party",
+      "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
-      },
-      "artists": [
-        {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "I Will Return",
         "url": "https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS"
       },
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
+      },
+      "artists": [
+        {
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Call It Home",
         "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 210128,
       "name": "Call It Home",
       "url": "https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "White Eyes",
-        "url": "https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo"
-      },
-      "artists": [
-        {
-          "name": "Hopes Die Last",
-          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
-        }
-      ],
-      "duration_ms": 216363,
-      "name": "White Eyes",
-      "url": "https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m"
+        "name": "White Eyes",
+        "url": "https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo"
       },
       "artists": [
         {
-          "name": "Cabin Boy Jumped Ship",
-          "url": "https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S"
+          "name": "Hopes Die Last",
+          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ"
+      "duration_ms": 216363,
+      "name": "White Eyes",
+      "url": "https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 204198,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m"
+      },
+      "artists": [
+        {
+          "name": "Cabin Boy Jumped Ship",
+          "url": "https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ"
     }
   ],
   "unique_name": "The Core",

@@ -4,15 +4,16 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-163 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
+164 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999 \(I Wanna Go Back\)](https://open.spotify.com/track/4LXXrqp6zXLI7JyZpdY1wF) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [1999 \(I Wanna Go Back\)](https://open.spotify.com/album/6O8JEMmARS2zvMTkzl2v8K) | 2:36 | 2022-04-21 | 2022-07-29 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-28 |  |
 | [Air Balloon](https://open.spotify.com/track/0zFhZc3qHgMpV26V1GsL3K) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [ALPHACAST](https://open.spotify.com/artist/3UNkFmRjyF1KBDHUAVTrEl) | [Air Balloon](https://open.spotify.com/album/0FgZvChXeLV0dPLoAPXGvZ) | 2:38 | 2022-04-14 | 2022-07-29 |
+| [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-06 |  |
 | [All The Time](https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [All The Time](https://open.spotify.com/album/67Ulp5KinPqy6RBWgS3hO7) | 2:19 | 2022-04-14 | 2022-07-28 |
-| [Always Feel Like](https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Always Feel Like](https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1) | 3:01 | 2022-08-25 |  |
+| [Always Feel Like](https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Always Feel Like](https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1) | 3:01 | 2022-08-25 | 2022-10-07 |
 | [Another You \(feat\. The Vamps\)](https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BLOODLINE](https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Another You \(feat\. The Vamps\)](https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV) | 2:38 | 2022-04-14 | 2022-07-29 |
 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 | 2022-04-14 |  |
 | [Back to Life](https://open.spotify.com/track/6ixjgNCGvFTXTO1fGqltw1) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Back to Life](https://open.spotify.com/album/2eShCMLXmJ06B65OMOIOQ4) | 2:06 | 2022-04-14 | 2022-07-29 |

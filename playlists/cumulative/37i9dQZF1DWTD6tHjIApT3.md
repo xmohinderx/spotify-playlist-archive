@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Tokimeki Records
 
-776 songs - 2 day 3 hr 12 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+779 songs - 2 day 3 hr 26 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-04 | 2022-10-06 |
 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 |  |
 | [Rain](https://open.spotify.com/track/6qZu1EgDfzDRGPrNtxJ3Vt) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [Rain](https://open.spotify.com/album/5k0YCzq4A7zvCmIIgJYrHK) | 4:09 | 2022-08-02 | 2022-08-17 |
+| [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-06 |  |
 | [Reality](https://open.spotify.com/track/6NmXOBqYN96jb8qGubot2Z) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality](https://open.spotify.com/album/4eEfNctnzXQ0lqKNgjnrw0) | 3:45 | 2022-07-14 | 2022-07-20 |
 | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/track/0WDhwnZ325K5LUvx1FywgW) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/album/13jQMgxK2VECQAxVSz89Ja) | 4:57 | 2022-05-31 | 2022-06-27 |
 | [ride on](https://open.spotify.com/track/7AawKQ42s5gjNXTjFYkXYL) | [Miyuu](https://open.spotify.com/artist/6r5DBRzP1cJGTHrnptDrSR) | [ride on](https://open.spotify.com/album/05IL3ynMadtHGQ46kHonfZ) | 3:40 | 2022-06-16 | 2022-06-18 |
@@ -397,7 +398,7 @@
 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 | 2022-09-29 |  |
 | [Who Am I](https://open.spotify.com/track/35X8bc2o33vDfitEWjXVJu) | [Abe mao](https://open.spotify.com/artist/693KkQwUKXRxGPNo5RtRzH) | [Who Am I](https://open.spotify.com/album/5drwYlTLTM7AeatiYTemgY) | 4:59 | 2022-08-25 | 2022-08-31 |
 | [Who Are You](https://open.spotify.com/track/6l50VsBz2P3MaWBOiUUxac) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [Who Are You](https://open.spotify.com/album/0YNMv9mhlMRlC1haWTbYbH) | 4:03 | 2022-05-29 | 2022-07-27 |
-| [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 | 2022-07-20 |  |
+| [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 | 2022-07-20 | 2022-10-07 |
 | [WILD&FREE](https://open.spotify.com/track/3IYOHha3mVv5OLcoNCRi7b) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [WILD&FREE](https://open.spotify.com/album/6fTH7RtpZSKnTd9WWI9F5k) | 3:55 | 2022-09-06 | 2022-09-21 |
 | [Winding Road](https://open.spotify.com/track/7M9JmUQLDwU6iwhfIhMmBP) | [Riho Sayashi](https://open.spotify.com/artist/1YTdqGyGxK0qx14Yn4lDnh) | [Reflection](https://open.spotify.com/album/4FEl9oa81Tbgc8Vpg1hYTd) | 4:15 | 2022-06-07 | 2022-07-11 |
 | [Wings](https://open.spotify.com/track/74k3mpE1AOJz1PsLOZKtWi) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Wings](https://open.spotify.com/album/4CAhXMaKEX05kH5MA8iVr8) | 4:21 | 2022-08-30 | 2022-09-07 |
@@ -636,7 +637,7 @@
 | [夜逃げ](https://open.spotify.com/track/6DtpRO1A0MRiGsWgKXlmzB) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [夜逃げ](https://open.spotify.com/album/46sPxSwFOOq2zjACGq1grI) | 4:02 | 2022-06-02 | 2022-07-27 |
 | [夜風](https://open.spotify.com/track/6Ml6Al2FULhS5MmKHX5HGO) | [笹生実久](https://open.spotify.com/artist/0rV9s5ykUdPnpBWYoGVFeY) | [She was a girl](https://open.spotify.com/album/7sgwDnLuYnrgxdh0AiDANx) | 4:06 | 2022-06-25 | 2022-06-28 |
 | [夢うらら](https://open.spotify.com/track/3OMpSwsfADNdcCnyE8bjzT) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [夢うらら](https://open.spotify.com/album/4OdbtCRb5hZUE9legqRuF7) | 4:07 | 2022-09-01 | 2022-09-07 |
-| [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 | 2022-05-29 |  |
+| [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 | 2022-05-29 | 2022-10-07 |
 | [大切な風景](https://open.spotify.com/track/6evYRPgpmEc342g0quy8Ij) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [大切な風景](https://open.spotify.com/album/5gBjca9nQS5uqwplEWOIt5) | 4:43 | 2022-07-12 | 2022-07-16 |
 | [天国](https://open.spotify.com/track/2fsdF5wmRf34jJEaWoEaIM) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [天国](https://open.spotify.com/album/6gdC0J09Uv87Wuqc3eVBJq) | 4:11 | 2022-09-06 | 2022-09-09 |
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-04 |  |
@@ -691,6 +692,7 @@
 | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/track/6mi2Zdi1QmZZaO5wgc8LMB) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/album/2auz7IkxAJbGaN8brJnJU6) | 4:47 | 2022-06-14 | 2022-06-28 |
 | [東京マーブル](https://open.spotify.com/track/1JBLGTCiqdlrIfzaCW9Hey) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 4:02 | 2022-07-28 | 2022-08-03 |
 | [東雲の空](https://open.spotify.com/track/6a7YhzN8mpMGUvpznqAD2x) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [東雲の空](https://open.spotify.com/album/2djZsw2Mg9qqNKwonrPECb) | 4:11 | 2022-06-02 | 2022-07-11 |
+| [果てしない二人](https://open.spotify.com/track/4Yom29I6eZpdrUZiI2Cqis) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [果てしない二人](https://open.spotify.com/album/5kKS6IYSpmdWtT8XddQfKl) | 4:44 | 2022-10-06 |  |
 | [椰子の実](https://open.spotify.com/track/2seGEJD1lDCYscPBpn6ySk) | [比嘉歌子](https://open.spotify.com/artist/1VOlbNGFRks8N598A1ukfe) | [椰子の実](https://open.spotify.com/album/1MB2F8iRYODbwurw8ia6P0) | 4:05 | 2022-06-21 | 2022-07-08 |
 | [楽園](https://open.spotify.com/track/2MCYwlrzVgOF3mmhk9tZW8) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [楽園](https://open.spotify.com/album/31GF5nxOwXvXdeoHcGiUyP) | 3:54 | 2022-10-04 |  |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-07-28 |  |
@@ -706,7 +708,7 @@
 | [火をつけて](https://open.spotify.com/track/5J0UJZXWr4W8I73A30UqSu) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [火をつけて](https://open.spotify.com/album/17bQJPnZKX0QcMWN699xkf) | 4:39 | 2022-10-04 |  |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-05-29 |  |
 | [点と線 \(feat\. さとうもか\)](https://open.spotify.com/track/48JIfccdKcd1swFuFc7s64) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [BITEKI](https://open.spotify.com/album/6IryR0y7YeL11qhnXrwxkX) | 4:21 | 2022-06-14 | 2022-07-27 |
-| [点灯](https://open.spotify.com/track/1x66l1vEQ7gl0I5zZWlKku) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点灯](https://open.spotify.com/album/2E5Pq4Abnn7pBSotdqREqV) | 4:58 | 2022-07-21 |  |
+| [点灯](https://open.spotify.com/track/1x66l1vEQ7gl0I5zZWlKku) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点灯](https://open.spotify.com/album/2E5Pq4Abnn7pBSotdqREqV) | 4:58 | 2022-07-21 | 2022-10-07 |
 | [煙たがられて feat\. 細野晴臣](https://open.spotify.com/track/2L48NZsLCdJUZDiqNMIwaK) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [7+](https://open.spotify.com/album/6zqCDu9CpRqAgR8J9ZFmHc) | 3:49 | 2022-06-28 | 2022-07-06 |
 | [煙草と共犯者](https://open.spotify.com/track/5Mn2VyZnJjq0xA6Gz0DncW) | [日向文](https://open.spotify.com/artist/6aWI8ZZ9CCyUFpayXQPoR2) | [SWALLOW](https://open.spotify.com/album/1tmMwcIqyUZlB0CtoQGOot) | 3:27 | 2022-07-19 | 2022-07-27 |
 | [熱帯夜](https://open.spotify.com/track/7odvMdF36clQoQUfGTgnJl) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [熱帯夜](https://open.spotify.com/album/5KE5TCfuJnAH5kQr0ShEvY) | 4:53 | 2022-08-23 | 2022-08-31 |
@@ -770,6 +772,7 @@
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-05-29 | 2022-10-01 |
 | [電源](https://open.spotify.com/track/0xTe1EdbvOcB7uFRfGLcgL) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [電源](https://open.spotify.com/album/3J2JtTkXqw0j4FGi3d7272) | 4:06 | 2022-07-26 | 2022-08-03 |
 | [青い理想郷 \(feat\. 春茶\)](https://open.spotify.com/track/52sa2Yllu0MIq2SFKRNIbc) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs) | [青い理想郷 \(feat\. 春茶\)](https://open.spotify.com/album/7CyfZA6EpaopCgBggVu7KB) | 4:09 | 2022-05-31 | 2022-07-15 |
+| [青山Killer物語 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/03eu5QoG6mWFvdu3IOCmHp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/7Dre4HkNvQhl8diVNQugD0) | 5:02 | 2022-10-06 |  |
 | [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 | 2022-07-28 |  |
 | [青藍遊泳](https://open.spotify.com/track/2jIfery4lw2abLEQ3QBBIO) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳](https://open.spotify.com/album/5dlzxOKdX0PwEvd3kfzJva) | 3:48 | 2022-06-14 | 2022-07-29 |
 | [青藍遊泳 \- From THE FIRST TAKE](https://open.spotify.com/track/59HgCwjIaxVbJs860xnVtT) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳 \(From THE FIRST TAKE\)](https://open.spotify.com/album/5UGM0wsfgPSbR9caFNWqIq) | 3:58 | 2022-09-15 |  |

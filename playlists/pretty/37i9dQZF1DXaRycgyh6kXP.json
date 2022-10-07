@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 135525,
+  "num_followers": 135682,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDhkNTRjODFiY2YzNThhNThmMDdmYmYxYzBmMTVlMmYw",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDg0NmMyNzVmZjU2YjM1MjlkMGRmNjA1ZTNkMWI4NjIx",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Portraits Outtakes",
+        "url": "https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Manila",
+      "url": "https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Trance Frendz",
         "url": "https://open.spotify.com/album/5yulSZK48ArdLPXWur0qik"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 354988,
       "name": "20:17",
       "url": "https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Portraits Outtakes",
-        "url": "https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Manila",
-      "url": "https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Saw You for the First Time",
-        "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
+        "name": "Insides",
+        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
       },
       "artists": [
         {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 404630,
-      "name": "Saw You for the First Time",
-      "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
+      "duration_ms": 100946,
+      "name": "Small Memory",
+      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Insides",
-        "url": "https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF"
+        "name": "Saw You for the First Time",
+        "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
         }
       ],
-      "duration_ms": 100946,
-      "name": "Small Memory",
-      "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
+      "duration_ms": 404630,
+      "name": "Saw You for the First Time",
+      "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Anything in Return",
-        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 285986,
-      "name": "So Many Details",
-      "url": "https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Anything in Return",
+        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 285986,
+      "name": "So Many Details",
+      "url": "https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Soon It Will Be Cold Enough",
         "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 229155,
       "name": "Without",
       "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "The Noise Made By People",
-        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Echo's Answer",
-      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Faith in Strangers",
-        "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
-      },
-      "artists": [
-        {
-          "name": "Andy Stott",
-          "url": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
-        }
-      ],
-      "duration_ms": 389186,
-      "name": "Faith in Strangers",
-      "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Time Spent Away From U",
         "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 368000,
       "name": "U",
       "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Faith in Strangers",
+        "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
+      },
+      "artists": [
+        {
+          "name": "Andy Stott",
+          "url": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
+        }
+      ],
+      "duration_ms": 389186,
+      "name": "Faith in Strangers",
+      "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Crooks & Lovers",
         "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 250338,
       "name": "Before I Move Off",
       "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "acceptance",
-        "url": "https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs"
-      },
-      "artists": [
-        {
-          "name": "poolsideconvo",
-          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
-        }
-      ],
-      "duration_ms": 311978,
-      "name": "acceptance",
-      "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/4shmthaRgqJbSA7CEeM3VV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 136000,
       "name": "My Lights Kiss Your Thoughts Every Moment",
       "url": "https://open.spotify.com/track/7FUUtoODxCE6EbzPR3rRXN"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "acceptance",
+        "url": "https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs"
+      },
+      "artists": [
+        {
+          "name": "poolsideconvo",
+          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
+        }
+      ],
+      "duration_ms": 311978,
+      "name": "acceptance",
+      "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Themes for a New Earth",
-        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 284705,
-      "name": "Kilika",
-      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Themes for a New Earth",
+        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 284705,
+      "name": "Kilika",
+      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Go / Together",
-        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
-      },
-      "artists": [
-        {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
-        }
-      ],
-      "duration_ms": 486941,
-      "name": "Together - Rework",
-      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Go / Together",
+        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 486941,
+      "name": "Together - Rework",
+      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sketch for Winter X: Immortal Word",
-        "url": "https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv"
+        "name": "Dissolvi",
+        "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
       "artists": [
         {
-          "name": "Jacober",
-          "url": "https://open.spotify.com/artist/5qqAJRq2z4M9IOULr4JtQu"
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 192300,
-      "name": "Four Horsemen",
-      "url": "https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc"
+      "duration_ms": 249534,
+      "name": "Saccade",
+      "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
     }
   ],
   "unique_name": "Electronica Romantica",

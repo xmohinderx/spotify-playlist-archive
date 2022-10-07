@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 166704,
       "name": "Action",
       "url": "https://open.spotify.com/track/42oyB4eDAiU4hxis698Glb"
@@ -2749,6 +2749,24 @@
       "duration_ms": 177473,
       "name": "Maghnateess",
       "url": "https://open.spotify.com/track/4AbDFi4FmZuk1IwUWhGtY7"
+    },
+    {
+      "album": {
+        "name": "Majaneen",
+        "url": "https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S"
+      },
+      "artists": [
+        {
+          "name": "Banah",
+          "url": "https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Majaneen",
+      "url": "https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp"
     },
     {
       "album": {

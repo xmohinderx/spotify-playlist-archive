@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-296 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
+297 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/0wv7jIu1raSykzpAO7jkt2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Olivia](https://open.spotify.com/track/75ATxsSO6V87RSR4UXLj2G) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/51c0ZqXWp5SfKOeyLK3Vg5) | 3:53 | 2021-11-05 | 2022-07-29 |
 | [On That Day](https://open.spotify.com/track/462spZcKDCjmwrJRDxlx3N) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(The Deluxe Edition\)](https://open.spotify.com/album/383Qq1zloMREmuYVSaAWPF) | 3:45 | 2022-02-07 | 2022-05-06 |
 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 | 2021-11-05 |  |
+| [Pain and Misery](https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/6seixGAN22NspEmvRID4fG) | 4:00 | 2022-08-02 |  |
 | [Pain and Misery](https://open.spotify.com/track/74MhYN5UyyDx0W2cbTUZYo) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh) | 4:00 | 2022-07-22 | 2022-09-15 |
 | [Pain and Misery](https://open.spotify.com/track/6sWVwDSjW1ZtqGQc9WnjdW) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/3HyoK42Wc8CMxHJ8MDU3qA) | 4:01 | 2022-02-07 | 2022-07-23 |
 | [Pale November Dew](https://open.spotify.com/track/1k0lOmYQWNyQnQYs0RepPV) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Pale November Dew](https://open.spotify.com/album/2ea78WFnPuZiXVietGV08T) | 3:50 | 2021-11-05 | 2022-07-29 |
@@ -247,7 +248,7 @@
 | [Sweet Home](https://open.spotify.com/track/2fnoVSzvOqstrEIzJ9F0Mh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/4fev1gmD2IVpftJWt2lfnx) | 4:08 | 2022-02-21 | 2022-07-29 |
 | [Sweet Home](https://open.spotify.com/track/6gxWNvzbOJnSFqU0GlzHPR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/3JVnUmC4nMLjgMtztt26I4) | 4:08 | 2022-07-22 |  |
 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 | 2022-02-07 | 2022-07-29 |
-| [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 | 2021-11-05 |  |
+| [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 | 2021-11-05 | 2022-10-07 |
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2021-11-05 |  |
 | [The Bear \(Trio\)](https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [The Doubles](https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V) | 4:24 | 2021-11-05 | 2022-07-29 |
 | [The Big One](https://open.spotify.com/track/2yzo8yTdYCJ6VEBO8qUyNB) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [The Big One](https://open.spotify.com/album/7pwt1GDIuIvHcWkirF8OwQ) | 3:39 | 2022-03-11 | 2022-07-29 |

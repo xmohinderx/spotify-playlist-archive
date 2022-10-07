@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 101904,
+  "num_followers": 101949,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGU4MmZkZTc5NDZmMmRiOTRjNzMzNjNkZGQ0MDQzZTc4",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDhlMGRhOTc1ODA5NjRhMzE0OGQ1YTMyZWQ4ODc3ZDdh",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Who Do You Love - The Anthology",
         "url": "https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 180146,
       "name": "Who Do You Love?",
       "url": "https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA"
     },
     {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Deuce (50th Anniversary)",
+        "url": "https://open.spotify.com/album/4aCigoJ1Vh797W4FaPWIkU"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "In Your Town - Alternate Take 3",
+      "url": "https://open.spotify.com/track/29x3HEIlwM6qn6dEQgRKRa"
+    },
+    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Telegram",
@@ -1001,38 +1017,6 @@
       "url": "https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Their First LP (Mono Version)",
-        "url": "https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Sittin' And Thinkin' - Mono Version",
-      "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
-        "url": "https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9"
-      },
-      "artists": [
-        {
-          "name": "Jo Ann Kelly",
-          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Someday Baby Blues",
-      "url": "https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Throw Away Your Blues",
@@ -1051,18 +1035,34 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Them",
-        "url": "https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ"
+        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
+        "url": "https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9"
       },
       "artists": [
         {
-          "name": "Them",
-          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+          "name": "Jo Ann Kelly",
+          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
         }
       ],
-      "duration_ms": 175853,
-      "name": "Jo Ann",
-      "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
+      "duration_ms": 216186,
+      "name": "Someday Baby Blues",
+      "url": "https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Their First LP (Mono Version)",
+        "url": "https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Sittin' And Thinkin' - Mono Version",
+      "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
     }
   ],
   "unique_name": "Brit-Blues",

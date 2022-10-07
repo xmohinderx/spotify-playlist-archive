@@ -1143,6 +1143,24 @@
     {
       "album": {
         "name": "Love and Rockets",
+        "url": "https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257825,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
+    },
+    {
+      "album": {
+        "name": "Love and Rockets",
         "url": "https://open.spotify.com/album/7ySBlv1N2wbYcaIwHBcBuy"
       },
       "artists": [
@@ -1157,24 +1175,6 @@
       "duration_ms": 257826,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl"
-    },
-    {
-      "album": {
-        "name": "Love and Rockets",
-        "url": "https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU"
-      },
-      "artists": [
-        {
-          "name": "Love and Rockets",
-          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
-        }
-      ],
-      "date_added": "2020-01-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257826,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 39604,
+  "num_followers": 39657,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4NzM2NiwwMDAwMDAwMDE3MWI3Y2ZiMTdjOTQwNDdmNWVjNDcxMWZmOTJiODg1",
+  "snapshot_id": "MTY2NDg4NzM2NiwwMDAwMDAwMGNlYTU1ZTg1YTRkMTUzYjJjZTAxODk4MzdmYTc5Nzg1",
   "tracks": [
     {
       "added_at": "2022-10-04 12:42:46",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-10-04 12:42:46",
       "album": {
-        "name": "Easy Mind",
-        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
-      },
-      "artists": [
-        {
-          "name": "Alma Meris",
-          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Easy Mind",
-      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
-    },
-    {
-      "added_at": "2022-10-04 12:42:46",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 149433,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
+    },
+    {
+      "added_at": "2022-10-04 12:42:46",
+      "album": {
+        "name": "Easy Mind",
+        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Easy Mind",
+      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
     },
     {
       "added_at": "2022-10-04 12:42:46",
@@ -347,34 +347,18 @@
     {
       "added_at": "2022-10-04 12:42:46",
       "album": {
-        "name": "Hills Of Clarity",
-        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
+        "name": "Sleeping Moons",
+        "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
       },
       "artists": [
         {
-          "name": "Elevated Minds",
-          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 255792,
-      "name": "Hills Of Clarity",
-      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
-    },
-    {
-      "added_at": "2022-10-04 12:42:46",
-      "album": {
-        "name": "Vishram - Yoga Version",
-        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
-      },
-      "artists": [
-        {
-          "name": "Gamini Khatri",
-          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Vishram - Yoga Version",
-      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
+      "duration_ms": 191484,
+      "name": "Sleeping Moons",
+      "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
     },
     {
       "added_at": "2022-10-04 12:42:46",
@@ -395,6 +379,22 @@
     {
       "added_at": "2022-10-04 12:42:46",
       "album": {
+        "name": "Hills Of Clarity",
+        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
+      },
+      "artists": [
+        {
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
+        }
+      ],
+      "duration_ms": 255792,
+      "name": "Hills Of Clarity",
+      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "added_at": "2022-10-04 12:42:46",
+      "album": {
         "name": "calm waters & distant star",
         "url": "https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ"
       },
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-04 12:42:46",
       "album": {
+        "name": "Vishram - Yoga Version",
+        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Vishram - Yoga Version",
+      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
+    },
+    {
+      "added_at": "2022-10-04 12:42:46",
+      "album": {
         "name": "Shaasvat",
         "url": "https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 205435,
       "name": "Shaasvat",
       "url": "https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J"
-    },
-    {
-      "added_at": "2022-10-04 12:42:46",
-      "album": {
-        "name": "Sleeping Moons",
-        "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 191484,
-      "name": "Sleeping Moons",
-      "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
     },
     {
       "added_at": "2022-10-04 12:42:46",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-04 12:42:46",
       "album": {
+        "name": "Silent Waters",
+        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 144830,
+      "name": "Silent Waters",
+      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+    },
+    {
+      "added_at": "2022-10-04 12:42:46",
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 141724,
       "name": "Hush",
       "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
-    },
-    {
-      "added_at": "2022-10-04 12:42:46",
-      "album": {
-        "name": "Silent Waters",
-        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 144830,
-      "name": "Silent Waters",
-      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
     },
     {
       "added_at": "2022-10-04 12:42:46",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-04 12:42:46",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/1jYA1RLpNu4G6eXzb7UeyL"
-      },
-      "artists": [
-        {
-          "name": "Yorokobi",
-          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
-        }
-      ],
-      "duration_ms": 126230,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/0yf0a2YESK4qQeJ2RxjTQS"
-    },
-    {
-      "added_at": "2022-10-04 12:42:46",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 160000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
+    },
+    {
+      "added_at": "2022-10-04 12:42:46",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1jYA1RLpNu4G6eXzb7UeyL"
+      },
+      "artists": [
+        {
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
+        }
+      ],
+      "duration_ms": 126230,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0yf0a2YESK4qQeJ2RxjTQS"
     },
     {
       "added_at": "2022-10-04 12:42:46",

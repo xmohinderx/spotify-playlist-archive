@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVztgMIUG66M.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf?si=7GfavyvfTIKTXvIxKrVFyw">Kawahi Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVztgMIUG66M.md) - [plain]
 | 19 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
 | 20 | [Hurricane](https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hurricane](https://open.spotify.com/album/4YV1qBdn6O6thyg18kBo0N) | 3:58 |
 | 21 | [100 Racks \(Offset feat\. Playboi Carti\)](https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:37 |
-| 22 | [Racks in the Middle \(feat\. Roddy Ricch and Hit\-Boy\)](https://open.spotify.com/track/6ya8ejoKgw906Y8LWclqrp) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Racks in the Middle \(feat\. Roddy Ricch and Hit\-Boy\)](https://open.spotify.com/album/6a2c06GAsKigzV53VyzBXk) | 3:53 |
-| 23 | [WIN](https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:35 |
+| 22 | [WIN](https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:35 |
+| 23 | [Racks in the Middle \(feat\. Roddy Ricch and Hit\-Boy\)](https://open.spotify.com/track/6ya8ejoKgw906Y8LWclqrp) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Racks in the Middle \(feat\. Roddy Ricch and Hit\-Boy\)](https://open.spotify.com/album/6a2c06GAsKigzV53VyzBXk) | 3:53 |
 | 24 | [INDUSTRY BABY \- EXTENDED](https://open.spotify.com/track/4BI4iNZigfF4SUq13TcFPh) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY 2.0](https://open.spotify.com/album/1GCduuJPhQGgnQEMxhp0fc) | 3:47 |
 | 25 | [327 \(feat\. Tyler, The Creator & Billie Essco\)](https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Billie Essco](https://open.spotify.com/artist/53IIk03HWWJ2Z7QwQ9yFHh) | [Pray for Paris](https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY) | 5:49 |
 | 26 | [Heart Of The City \(Ain't No Love\)](https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 3:43 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVztgMIUG66M.md) - [plain]
 | 47 | [Bestie](https://open.spotify.com/track/4RJ2tHMoFQbUus12u1hB5l) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Bestie](https://open.spotify.com/album/2wNYpDzwgeSbxSc8dVXcev) | 2:33 |
 | 48 | [Thankful](https://open.spotify.com/track/1MnzfrEHFh4Aj9uc85Rbuc) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Kawhi Leonard Presents: Culture Jam \(Vol\. 1\)](https://open.spotify.com/album/5QkoMINx6wyDn80AIOnErN) | 3:14 |
 
-Snapshot ID: `MTY2NDY1ODQwOCwwMDAwMDAwMDE5ZTA1ODlmZTM0ZWEyYjA0Yzg2ZTA4YmI1ZmJkNmJm`
+Snapshot ID: `MTY2NDY1ODQwOCwwMDAwMDAwMDczY2YyNzgzNzAwZGU1OGNkYmNlMGYzZTZmNDU3NGMw`

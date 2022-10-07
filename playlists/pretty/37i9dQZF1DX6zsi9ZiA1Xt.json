@@ -1,12 +1,12 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 19916,
+  "num_followers": 19935,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMDJlNzhmNjIwNjc3M2U5ZjRmZDc0MGFkNDU2ZTEyYzJk",
+  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMGJlZTYzNzdmMGQ1YTY1Y2I2YjVmMjc4N2I2MmJhZDZl",
   "tracks": [
     {
       "added_at": "2020-04-14 00:02:38",
@@ -827,6 +827,22 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
+        "name": "Rompiendo clave",
+        "url": "https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v"
+      },
+      "artists": [
+        {
+          "name": "El Combo Belga",
+          "url": "https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "Te conozco bacalao",
+      "url": "https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 248733,
       "name": "Manyoma",
       "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
-        "name": "Rompiendo clave",
-        "url": "https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v"
-      },
-      "artists": [
-        {
-          "name": "El Combo Belga",
-          "url": "https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Te conozco bacalao",
-      "url": "https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb"
     },
     {
       "added_at": "2020-04-14 00:02:38",

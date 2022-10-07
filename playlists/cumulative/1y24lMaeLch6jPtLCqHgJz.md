@@ -4,7 +4,7 @@
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-97 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
+98 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Inside You](https://open.spotify.com/track/4otyHwhmbnm5p7Plekn0C9) | [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI), [Thomas Feelman](https://open.spotify.com/artist/00OdRvY0b7tA8W84KSeTL2), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Inside You](https://open.spotify.com/album/2iCi4dTguHMiSAR15UnstE) | 3:27 | 2022-07-29 |  |
 | [Kings \- Shogun Remix](https://open.spotify.com/track/2HpnvnsKMnl88LLOz1xPPh) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:03 | 2022-08-26 |  |
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2022-07-29 |  |
+| [Losing Focus](https://open.spotify.com/track/0NiksN12Vqtj2XmOnFOFxz) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [SOUNDCHECK](https://open.spotify.com/artist/4cJtXXdfujLT0wr1DY9pdl), [Replay M](https://open.spotify.com/artist/6XTVE58RFOIxPuDGSkXa4z), [Michael Zhonga](https://open.spotify.com/artist/1FeScSe5coyXzmJ8ATtj9O) | [Revealed Recordings presents ADE Sampler 2022](https://open.spotify.com/album/5CZASEqfAIx22yQEaiBKXi) | 2:49 | 2022-10-06 |  |
 | [MAKI](https://open.spotify.com/track/6A307UCF6uSDhc6nFv3rB4) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5GcKpNowan68GzPLcW1WKX) | 3:20 | 2022-07-29 | 2022-09-10 |
 | [Memories](https://open.spotify.com/track/2c2Nne1QtjxR8sIc6ShuAV) | [AN3M](https://open.spotify.com/artist/5kpb3keizgJ6qq8QkPIBHv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Memories](https://open.spotify.com/album/0SCtOAO2qV1sAA0AFy46G2) | 3:13 | 2022-07-29 |  |
 | [Memory](https://open.spotify.com/track/3mZ9iEe21mY35SIRm6D3gP) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Memory](https://open.spotify.com/album/2FukjkZdxYfvZUDBkFymVh) | 2:42 | 2022-07-29 |  |

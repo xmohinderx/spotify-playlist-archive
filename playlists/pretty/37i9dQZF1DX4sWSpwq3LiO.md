@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,645,041 likes - 290 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,646,796 likes - 290 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 21 | [Alivio](https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Alivio](https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg) | 1:54 |
 | 22 | [along the path](https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [along the path](https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU) | 2:07 |
 | 23 | [Hommage d'amitié](https://open.spotify.com/track/5DezuV0RFcMcgA11UGdGBR) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Hommage d'amitié](https://open.spotify.com/album/1TdvDFv91Ff5iDdqK8K64x) | 2:16 |
-| 24 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/45qdRXOrVR0S49RWWsoJLS) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Broken Sunsets \(Solo Piano Version\)](https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3) | 2:56 |
+| 24 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/6RE1WhhdI1wvCOar6z2AdW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Colours \(Solo Piano Version\)](https://open.spotify.com/album/7obnUblJ3L4u0Ch4kyjfCK) | 2:56 |
 | 25 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 |
 | 26 | [Je vous ai trouvé](https://open.spotify.com/track/4PLaetqDYcJK1e6VFb361C) | [Verney Pépin](https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ) | [Je vous ai trouvé](https://open.spotify.com/album/2u9QYGFP25RUHD19s0rd4e) | 2:20 |
 | 27 | [Hourglass](https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Hourglass](https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P) | 2:02 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 289 | [A Little Journey](https://open.spotify.com/track/1ri5KgNPbiYHZEc4pYaKhB) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [A Little Journey](https://open.spotify.com/album/5hZI8dZFuOUmWn4Jlbb3Tb) | 2:00 |
 | 290 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
 
-Snapshot ID: `MTY2NDc5MzU0OSwwMDAwMDAwMGYxMjVhMmI2MDUwNjU0OGI4ZTgwZWEyMmMyMjIwMjcx`
+Snapshot ID: `MTY2NDc5MzU0OSwwMDAwMDAwMDY1NzQyMWQ5ZmU3ZDkwZTM2NjRmOWYzYWU0ZmZmN2Mx`

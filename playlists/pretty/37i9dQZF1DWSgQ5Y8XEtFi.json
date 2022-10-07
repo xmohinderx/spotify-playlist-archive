@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 111179,
+  "num_followers": 111762,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkxNTE5NCwwMDAwMDAwMDgxYWNjZjE3N2Q5ZGE4MTRiZmIzYWRhOTA5YjM0MmZh",
+  "snapshot_id": "MTY2NDkxNTE5NCwwMDAwMDAwMDJhZDAzNDMyN2EwMjIyZDJiZjhiOWY0ZDZmMThmODQ3",
   "tracks": [
     {
       "added_at": "2022-09-26 14:30:04",
@@ -635,26 +635,18 @@
     {
       "added_at": "2022-09-26 14:30:04",
       "album": {
-        "name": "Gospel",
-        "url": "https://open.spotify.com/album/7hjdykF03ChWqjN7sI928O"
+        "name": "Summertime '06",
+        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
       },
       "artists": [
         {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "Keith Ape",
-          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 173294,
-      "name": "Gospel",
-      "url": "https://open.spotify.com/track/2PqSNVmiEQpFkLoNPoDfwI"
+      "duration_ms": 183160,
+      "name": "Norf Norf",
+      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
     },
     {
       "added_at": "2022-09-26 14:30:04",
@@ -679,18 +671,26 @@
     {
       "added_at": "2022-09-26 14:30:04",
       "album": {
-        "name": "Summertime '06",
-        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
+        "name": "Gospel",
+        "url": "https://open.spotify.com/album/7hjdykF03ChWqjN7sI928O"
       },
       "artists": [
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Keith Ape",
+          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 183160,
-      "name": "Norf Norf",
-      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
+      "duration_ms": 173294,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/2PqSNVmiEQpFkLoNPoDfwI"
     },
     {
       "added_at": "2022-09-26 14:30:04",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-26 14:30:04",
       "album": {
-        "name": "Dat $tick",
-        "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "Dat $tick",
-      "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
-    },
-    {
-      "added_at": "2022-09-26 14:30:04",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -843,6 +827,42 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": "2022-09-26 14:30:04",
+      "album": {
+        "name": "Scratch Paper",
+        "url": "https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv"
+      },
+      "artists": [
+        {
+          "name": "Fukkit",
+          "url": "https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI"
+        },
+        {
+          "name": "Dutchman",
+          "url": "https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF"
+        }
+      ],
+      "duration_ms": 145624,
+      "name": "Flash Bang",
+      "url": "https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO"
+    },
+    {
+      "added_at": "2022-09-26 14:30:04",
+      "album": {
+        "name": "Dat $tick",
+        "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "Dat $tick",
+      "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
     },
     {
       "added_at": "2022-09-26 14:30:04",
@@ -867,26 +887,6 @@
       "duration_ms": 180000,
       "name": "SIMP",
       "url": "https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX"
-    },
-    {
-      "added_at": "2022-09-26 14:30:04",
-      "album": {
-        "name": "Scratch Paper",
-        "url": "https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv"
-      },
-      "artists": [
-        {
-          "name": "Fukkit",
-          "url": "https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI"
-        },
-        {
-          "name": "Dutchman",
-          "url": "https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF"
-        }
-      ],
-      "duration_ms": 145624,
-      "name": "Flash Bang",
-      "url": "https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO"
     },
     {
       "added_at": "2022-09-26 14:30:04",

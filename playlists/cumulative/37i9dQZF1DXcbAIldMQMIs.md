@@ -4,7 +4,7 @@
 
 > indie pop when ur crushing so hard it hurts
 
-240 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
+242 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,11 +37,11 @@
 | [B.O.M.D.](https://open.spotify.com/track/45GLZ5tAhzkkb9NznATAN7) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:39 | 2022-06-09 | 2022-06-20 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2021-04-30 |  |
 | [Bad Religion](https://open.spotify.com/track/2pMPWE7PJH1PizfgGRMnR9) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:55 | 2021-04-30 | 2022-04-21 |
-| [Bad Texter](https://open.spotify.com/track/7rymj8PopRWOI2kBdjPG9q) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Bad Texter](https://open.spotify.com/album/5OwoxFVxLosVA4O8uqAAfb) | 3:13 | 2021-04-30 | 2022-07-29 |
+| [Bad Texter](https://open.spotify.com/track/7rymj8PopRWOI2kBdjPG9q) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Bad Texter](https://open.spotify.com/album/5OwoxFVxLosVA4O8uqAAfb) | 3:13 | 2021-04-30 |  |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-05-28 | 2022-04-20 |
 | [Be Around Me](https://open.spotify.com/track/5MzNoRzcRrXH6kDtwnEAJD) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Be Around Me](https://open.spotify.com/album/4dJ5NmLGNjEfIxRMyS0SRa) | 3:01 | 2021-08-13 | 2022-04-16 |
 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 | 2021-04-30 |  |
-| [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-06-30 |  |
+| [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-06-30 | 2022-10-07 |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-03-04 | 2022-07-10 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2021-04-30 | 2022-04-21 |
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2021-04-30 |  |
@@ -83,7 +83,7 @@
 | [Dirty AF1s](https://open.spotify.com/track/6J1jIKelO3HerpKnTEVVMe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I'm Sorry I Love You \- EP](https://open.spotify.com/album/5DplyhOUuIy3xuAdS7rfqL) | 2:17 | 2021-04-30 | 2022-07-19 |
 | [Dms](https://open.spotify.com/track/3TEnlfSGINwgo84RXrQ3ta) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [Dms](https://open.spotify.com/album/1ZxhVhQ8qO9W1dljcAgIqq) | 3:43 | 2022-09-09 |  |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-29 | 2022-07-29 |
-| [Don't Be A Fool](https://open.spotify.com/track/16PeweyKsslOd2wnueVNFI) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 3:26 | 2022-09-09 |  |
+| [Don't Be A Fool](https://open.spotify.com/track/16PeweyKsslOd2wnueVNFI) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 3:26 | 2022-09-09 | 2022-10-07 |
 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 | 2021-04-30 |  |
 | [Dopamine](https://open.spotify.com/track/0bBTBGo3FvLDIbt2bl8wE3) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Dopamine](https://open.spotify.com/album/5ijMMFiB7itadRb19AIWIB) | 3:40 | 2021-04-30 | 2022-07-25 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-06-30 |  |
@@ -105,7 +105,7 @@
 | [Fallingforyou](https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:00 | 2021-08-13 | 2022-07-21 |
 | [Feels So Easy](https://open.spotify.com/track/671QGJAMRtE5Gtaa3T8GV4) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Feels So Easy](https://open.spotify.com/album/1yB6oGVd0ehSSRaHGNlFd3) | 2:26 | 2021-07-16 | 2022-09-27 |
 | [First Date](https://open.spotify.com/track/1RT37FnxNmvisZSb6leOCD) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/2Vk3dsyOpFew4gAcSXsS9t) | 2:53 | 2021-04-30 | 2022-04-17 |
-| [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 | 2022-06-30 |  |
+| [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 | 2022-06-30 | 2022-10-07 |
 | [First Place](https://open.spotify.com/track/5Td5Y4mFerZdmgs2mmGw9A) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [First Place](https://open.spotify.com/album/4t8vZxmCJHeUWcaQlKtBK6) | 2:33 | 2021-04-30 | 2022-04-20 |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2021-04-30 | 2022-05-20 |
 | [FMRN](https://open.spotify.com/track/08hB2ERJV6A1Ntu3OHgzjh) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/4jfJVKmrG63Cp8DPYDOHCD) | 2:02 | 2021-08-17 | 2022-04-18 |
@@ -191,6 +191,7 @@
 | [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 | 2022-03-25 | 2022-07-25 |
 | [Second Base](https://open.spotify.com/track/0krnQme22s9WqbuUq940fg) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Second Base](https://open.spotify.com/album/1CpVfieiYFzxzbiwckVBbl) | 2:37 | 2021-04-30 | 2022-07-28 |
 | [Sensitive](https://open.spotify.com/track/1XbyfNSAe9UHBjn22YJ7Ys) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Sensitive](https://open.spotify.com/album/4Wml9i3C4GlRNbdj99rRmX) | 2:47 | 2021-04-30 | 2022-07-26 |
+| [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-10-07 |  |
 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 | 2021-08-13 |  |
 | [She Don't Like Me](https://open.spotify.com/track/4FmXW5p7JwaVtJVEaJIMto) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [She Don't Like Me](https://open.spotify.com/album/6Sm5lKobNChQNdIonEObIe) | 3:03 | 2021-04-30 | 2022-04-18 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-04-30 |  |
@@ -201,6 +202,7 @@
 | [Soft Spot](https://open.spotify.com/track/7G47Ba9JiHkzl3JLYD0zJ4) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 3:08 | 2021-04-30 | 2022-07-28 |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-04-30 | 2022-07-29 |
 | [sorry haha i fell asleep](https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [sorry haha i fell asleep](https://open.spotify.com/album/10BhgUIfF4zFcLwqHhioL6) | 2:37 | 2021-04-30 | 2022-09-10 |
+| [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 | 2022-10-07 |  |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2021-04-30 |  |
 | [STAY IN \(feat\. LoveLeo\)](https://open.spotify.com/track/2smYox7uyoZCKgMHoqfg4X) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [STAY IN](https://open.spotify.com/album/0xO1o1vjzil8Nch5mNjjox) | 2:08 | 2021-04-30 | 2022-06-28 |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2021-04-30 | 2022-09-09 |

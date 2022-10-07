@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-57 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
+58 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Christmas Time Is Here \- Instrumental](https://open.spotify.com/track/4DphT1rljbJjbK9WdrR1zI) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 6:06 | 2021-12-21 | 2022-09-18 |
 | [Christmas Waltz](https://open.spotify.com/track/0myOinmRDkfWlHnG2wIFzh) | [Rob McConnell Trio](https://open.spotify.com/artist/53mwOK94FGkKKUBUq9jGTx) | [A Concord Jazz Christmas](https://open.spotify.com/album/3cR6XhgcN0mAP5bGVF9ghX) | 4:32 | 2021-12-21 |  |
 | [Deck the Halls](https://open.spotify.com/track/2HVU1szAZjST5179APX1ck) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [Jingle Bells](https://open.spotify.com/album/7wSW8TOkMzrSiAD6Wulblw) | 1:43 | 2021-12-21 |  |
-| [Frosty The Snowman](https://open.spotify.com/track/1vhjeweVA3yg4cwWZgtSCj) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [Christmas Time Is Here](https://open.spotify.com/album/4QieYF9NU48QWzoazTI7C9) | 2:10 | 2021-12-21 |  |
+| [Frosty The Snowman](https://open.spotify.com/track/6i78EhlNpCODok4KjHKLrf) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:02 | 2022-10-06 |  |
+| [Frosty The Snowman](https://open.spotify.com/track/1vhjeweVA3yg4cwWZgtSCj) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [Christmas Time Is Here](https://open.spotify.com/album/4QieYF9NU48QWzoazTI7C9) | 2:10 | 2021-12-21 | 2022-10-07 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/0fpmiqjmRvG6zk3y3RSkW0) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [It Came Upon The Midnight Clear / God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5MkXBVo1xAvfjfTg6Sn6yP) | 2:31 | 2021-12-21 |  |
 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 | 2021-12-21 |  |
 | [Hark! The Herald Angels Sing \(Smooth Jazz Version\)](https://open.spotify.com/track/3CtCdVoPoB3IALr4erTZr8) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [Traditional Christmas: Jazz Versions](https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC) | 3:19 | 2021-12-21 |  |

@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: OHMYMEITING
 
-472 songs - 1 day 3 hr 16 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
+473 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,10 +455,11 @@
 | [星海](https://open.spotify.com/track/4UJwGQKRuMbe55CyPPBNpW) | [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK) | [星海](https://open.spotify.com/album/7cbvmmGOQxuNLKieVgO7QO) | 3:01 | 2022-10-04 |  |
 | [最完美的距離](https://open.spotify.com/track/48cME4AkExcJk4PYLt7cq3) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [最完美的距離](https://open.spotify.com/album/7E53aq4Dt45fb6CZxqrhWS) | 4:13 | 2021-12-07 | 2022-01-05 |
 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 | 2022-01-04 | 2022-02-03 |
+| [望遠鏡](https://open.spotify.com/track/0wJD3QKVyzk9rBwtiBhQbe) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [望遠鏡](https://open.spotify.com/album/6yr99eQaRmQnSh5Xj61Kpr) | 3:49 | 2022-10-07 |  |
 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 | 2022-01-04 |  |
 | [沒時間](https://open.spotify.com/track/7wVpSf2DPd4EDKz7nEkdRk) | [梁嘉靖](https://open.spotify.com/artist/29XpDtSJTMMKR4BVKijsYz) | [沒時間](https://open.spotify.com/album/61ATcz62LDGx3pzzG2DIV6) | 3:46 | 2022-06-01 | 2022-07-08 |
 | [漂向北方](https://open.spotify.com/track/3hqB1JVt1kv0JUM5znLJdo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [漂向北方](https://open.spotify.com/album/19xOcUWpSn9Sv0KND7uuDp) | 4:31 | 2022-01-04 | 2022-02-03 |
-| [獨立](https://open.spotify.com/track/2MGTlOEdDIN4GTUnP7qav7) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [仙人掌](https://open.spotify.com/album/0Yoxxp6B6QLXtjaQJ1L4On) | 3:26 | 2022-10-04 |  |
+| [獨立](https://open.spotify.com/track/2MGTlOEdDIN4GTUnP7qav7) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [仙人掌](https://open.spotify.com/album/0Yoxxp6B6QLXtjaQJ1L4On) | 3:26 | 2022-10-04 | 2022-10-07 |
 | [百分知己](https://open.spotify.com/track/4erlUdYmQxiIpJFWUmi0iD) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [百分知己](https://open.spotify.com/album/46YchyuGlnEcFFxdRlVKYB) | 3:22 | 2022-01-04 | 2022-02-03 |
 | [空調維修人員](https://open.spotify.com/track/4Hb7PLzH9smJUyYgk0btTH) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0) | [空調維修人員](https://open.spotify.com/album/21rqneklb782tpAuOBtQAf) | 2:36 | 2022-09-06 | 2022-10-05 |
 | [第一次冒險](https://open.spotify.com/track/7EKaSamnvpNKsxMLmBIXxr) | [Tingzhi.Hz](https://open.spotify.com/artist/5bRgm42udQG0UHbfIA83bW) | [第一次冒險](https://open.spotify.com/album/0PFoH6BR5qw0hPpHcDtuhr) | 3:06 | 2022-09-06 | 2022-10-05 |

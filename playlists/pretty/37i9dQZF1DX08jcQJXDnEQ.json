@@ -1,13 +1,29 @@
 {
-  "description": "A collection of the biggest Metal classics of the 90s.",
-  "num_followers": 675323,
+  "description": "A collection of the biggest Metal classics of the 90s. Cover: Deftones",
+  "num_followers": 675883,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4NjY5MSwwMDAwMDAwMDZjN2YzMzdmYzk1NzExNjQ5NzY3ZDk3ODRjNjIyNGJh",
+  "snapshot_id": "MTY2NTA2OTE1NSwwMDAwMDAwMGZjN2YyODlkMGE5ZjMyNTUxZjA1NjEyMDY1Zjg3NjA5",
   "tracks": [
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
+    },
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
@@ -139,6 +155,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 283733,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -164,25 +196,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 214760,
-      "name": "My Own Summer (Shove It)",
-      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 283733,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
+      "duration_ms": 299866,
+      "name": "Be Quiet and Drive (Far Away)",
+      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -235,22 +251,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -299,18 +299,34 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 299866,
-      "name": "Be Quiet and Drive (Far Away)",
-      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -347,22 +363,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Dirt (2022 Remaster)",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 392600,
       "name": "Holy Wars...The Punishment Due - Remastered",
       "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 419893,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Empire - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 321573,
       "name": "Jet City Woman - Remastered 2003",
       "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 419893,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 258266,
-      "name": "Monkey Business",
-      "url": "https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x"
+      "duration_ms": 208666,
+      "name": "Slave to the Grind",
+      "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1528,9 +1528,9 @@
           "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 208666,
-      "name": "Slave to the Grind",
-      "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
+      "duration_ms": 258266,
+      "name": "Monkey Business",
+      "url": "https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Body Count",
-        "url": "https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Body Count's in the House",
-      "url": "https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Danzig III: How The Gods Kill",
         "url": "https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 356400,
       "name": "How The Gods Kill",
       "url": "https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Body Count",
+        "url": "https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Body Count's in the House",
+      "url": "https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Time'S Up",
-        "url": "https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA"
-      },
-      "artists": [
-        {
-          "name": "Living Colour",
-          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "Love Rears Its Ugly Head",
-      "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Souls of Black",
         "url": "https://open.spotify.com/album/3CFswsRArMIduymEMdBaHi"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 202493,
       "name": "Souls of Black",
       "url": "https://open.spotify.com/track/5zAN2OQJsmcBVG1oO5QroD"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Time'S Up",
+        "url": "https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "Love Rears Its Ugly Head",
+      "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Force Of Habit (Reissue)",
-        "url": "https://open.spotify.com/album/4z1C1YmKvYoM7cJysMXo74"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "Good Day To Die",
-      "url": "https://open.spotify.com/track/2rKz4ihTRHCD0RpNaO1ANJ"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 330226,
       "name": "Electric Crown",
       "url": "https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Force Of Habit (Reissue)",
+        "url": "https://open.spotify.com/album/4z1C1YmKvYoM7cJysMXo74"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Good Day To Die",
+      "url": "https://open.spotify.com/track/2rKz4ihTRHCD0RpNaO1ANJ"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Still Life (Remastered)",
-        "url": "https://open.spotify.com/album/5iA9ECcGKLN2BSxikuENma"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 478933,
-      "name": "Face Of Melinda (Remastered)",
-      "url": "https://open.spotify.com/track/4lPvQJ48sGao1zQPfnGDPj"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "One Second",
         "url": "https://open.spotify.com/album/6xf27M8BHlFb0xqH17k0tD"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 242733,
       "name": "Say Just Words",
       "url": "https://open.spotify.com/track/1yrquRdZk965GKv2kDHGpL"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Still Life (Remastered)",
+        "url": "https://open.spotify.com/album/5iA9ECcGKLN2BSxikuENma"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 478933,
+      "name": "Face Of Melinda (Remastered)",
+      "url": "https://open.spotify.com/track/4lPvQJ48sGao1zQPfnGDPj"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Filth Pig",
-        "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 344600,
-      "name": "Lay Lady Lay",
-      "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Lights...Camera...Revolution",
         "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 202160,
       "name": "Send Me Your Money",
       "url": "https://open.spotify.com/track/0JoHFDx1gp0JjBxEIPutNK"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Filth Pig",
+        "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 344600,
+      "name": "Lay Lady Lay",
+      "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
     },
     {
       "added_at": "2022-10-05 16:18:11",

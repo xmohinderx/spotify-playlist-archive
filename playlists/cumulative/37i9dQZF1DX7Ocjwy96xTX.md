@@ -4,7 +4,7 @@
 
 > Dark and dreamy while you wait for your wings to grow.
 
-75 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/59LZVsaOz0Y4d0uLOo25Vb)
+76 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/59LZVsaOz0Y4d0uLOo25Vb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2022-09-02 |  |
 | [Hansel and Gretel](https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC) | [Mercy Necromancy](https://open.spotify.com/artist/0LdEFRiFrm1kVJhGgAqL8d) | [Hansel and Gretel](https://open.spotify.com/album/0fQgAIvqLHiLpVIqGUl62Z) | 3:02 | 2022-09-30 |  |
 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 | 2022-09-02 | 2022-09-10 |
-| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-21 |  |
+| [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-21 | 2022-10-07 |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-30 |  |
 | [Hide](https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/0Bf9ofwafClZWZE3wDKVWX) | 6:47 | 2022-09-02 |  |
 | [I Don't Need You](https://open.spotify.com/track/7IWdKDoQ3QNaF790h3skyc) | [Acid Ghost](https://open.spotify.com/artist/3DxAikzv8719U68yCVRELD) | [I Don't Need You](https://open.spotify.com/album/2Wl1F5cEimia3CrJO7Jsrm) | 3:06 | 2022-09-02 |  |
 | [I Get Confused](https://open.spotify.com/track/4SbAeYSD7Fj2rL23sl8m1T) | [The Brooksidez](https://open.spotify.com/artist/3eU81ipH6PM8mWeywCS173) | [Signs Dreams and Memories](https://open.spotify.com/album/51wEqTdb3qnzEbpPNqCXAM) | 2:14 | 2022-09-02 |  |

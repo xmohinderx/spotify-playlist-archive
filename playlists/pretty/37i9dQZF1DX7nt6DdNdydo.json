@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 35440,
+  "num_followers": 35465,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGEwYzYyNTk3MGRlMTMxNTQyM2QzZDdiMjcxZGVmZDk1",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGZmMjk5OTg4OGRhM2MwMzhiMjQ4MDFmM2MyNWMyZjFj",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "5-10-15 Hours",
-      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 170533,
       "name": "Going Back To New Orleans",
       "url": "https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "5-10-15 Hours",
+      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Wild Wild Young Men",
-      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Jump, Jive An' Wail: The Essential",
         "url": "https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w"
       },
@@ -259,22 +243,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Lovin' Machine",
         "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
@@ -287,6 +255,38 @@
       "duration_ms": 160827,
       "name": "Bloodshot Eyes",
       "url": "https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Wild Wild Young Men",
+      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Aladdin '52-'59:Let The Good Times Roll",
         "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
       },
@@ -371,22 +355,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 145443,
-      "name": "Lovin' Machine",
-      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Mardi Gras Blues",
         "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
       },
@@ -399,6 +367,22 @@
       "duration_ms": 147053,
       "name": "(Every Time I Hear) That Mellow Saxophone",
       "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -423,18 +407,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Swingsation: Lionel Hampton",
-        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
       "artists": [
         {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
-      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
+      "duration_ms": 145443,
+      "name": "Lovin' Machine",
+      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -455,18 +439,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+        "name": "Swingsation: Lionel Hampton",
+        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
       },
       "artists": [
         {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
+      "duration_ms": 202933,
+      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
+      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -559,6 +543,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Sun Records - 60 Years, 60 Singles Box Set",
         "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Information Blues",
         "url": "https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 150893,
       "name": "Oh Babe",
       "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
+        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 145852,
+      "name": "Ravin' At The Haven",
+      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -731,22 +747,6 @@
       "duration_ms": 160186,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
-        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
-        }
-      ],
-      "duration_ms": 145852,
-      "name": "Ravin' At The Haven",
-      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
     },
     {
       "added_at": "2022-03-28 19:44:25",

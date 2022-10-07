@@ -4798,6 +4798,28 @@
     },
     {
       "album": {
+        "name": "Scandalous (with Tinashe)",
+        "url": "https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159252,
+      "name": "Scandalous (with Tinashe)",
+      "url": "https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq"
+    },
+    {
+      "album": {
         "name": "Ophelia Presents: Advent Volume 4",
         "url": "https://open.spotify.com/album/5qocn2lAsog53oZj9VoF03"
       },
@@ -6361,6 +6383,10 @@
         {
           "name": "WOBBLEBUG",
           "url": "https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
       "date_added": "2022-09-30",

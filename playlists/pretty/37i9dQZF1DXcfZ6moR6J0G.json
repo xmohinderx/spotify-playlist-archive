@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the 25th anniversary of Deftones' Around the Fur which was released on October 28th 1997. Cover: Chino Moreno",
-  "num_followers": 1454477,
+  "num_followers": 1455154,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE5NzMwOSwwMDAwMDAwMDBlMmEwNzg1YjliZDg3Mzg0MzEyOTc2OTE2ODkyYjhm",
+  "snapshot_id": "MTY2NDE5NzMwOSwwMDAwMDAwMDU0YmZhYzY2Y2E0ZmMyNGY2Nzc3M2JjZDIxMDA4ZmMz",
   "tracks": [
     {
       "added_at": "2022-09-26 13:01:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-09-26 13:01:49",
       "album": {
-        "name": "Dysfunction",
-        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "Mudshovel",
-      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
-    },
-    {
-      "added_at": "2022-09-26 13:01:49",
-      "album": {
         "name": "Hoobastank (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 175226,
       "name": "Crawling In The Dark",
       "url": "https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"
+    },
+    {
+      "added_at": "2022-09-26 13:01:49",
+      "album": {
+        "name": "Dysfunction",
+        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "Mudshovel",
+      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
     },
     {
       "added_at": "2022-09-26 13:01:49",

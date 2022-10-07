@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Lizzy Mcalpine
 
-1,355 songs - 2 day 23 hr 18 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,356 songs - 2 day 23 hr 21 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Dangerous](https://open.spotify.com/track/66k2yf5A5yeWidimsHOtSF) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Dangerous](https://open.spotify.com/album/54xf7HiB51PGuga8FDvxGS) | 2:51 | 2020-10-13\* | 2021-10-21 |
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2021-02-22 | 2021-10-13 |
 | [Day by Day](https://open.spotify.com/track/1iAtzizV90sFq9oXw4zONM) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Day by Day](https://open.spotify.com/album/1g5s0gmdxuwtZP4qzt9APy) | 2:57 | 2020-10-20 | 2021-02-25 |
+| [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-30 |  |
 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 | 2020-10-20 | 2022-04-15 |
 | [Daydream \- Portugal\. The Man Remix](https://open.spotify.com/track/6hGQz4yeepTEs9cGIgo53e) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Under My Influence \(Deluxe\)](https://open.spotify.com/album/3fwq6wiFtFjAZbVzUziFxk) | 3:07 | 2021-10-22 | 2021-12-26 |
 | [daydreams](https://open.spotify.com/track/28gOU6aiAGqn3INdkrbabZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [daydreams](https://open.spotify.com/album/3dSPH738SBPAvQB1aybD4f) | 2:40 | 2020-11-10 | 2021-10-14 |
@@ -549,7 +550,7 @@
 | [Home](https://open.spotify.com/track/2VqAGGmmxomwGTxp7699JB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Home](https://open.spotify.com/album/2BJtTSnAiDwhByqZR7Cwhv) | 2:40 | 2020-10-20 | 2020-10-21 |
 | [Home](https://open.spotify.com/track/62VYVWExRnkAmcbKTOvk1l) | [Scarypoolparty](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Home](https://open.spotify.com/album/4n9GXR9Tu9o4SE0eGvTMfA) | 3:45 | 2021-02-22 | 2021-05-28 |
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-06-01 | 2022-08-06 |
-| [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 | 2022-08-26 |  |
+| [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 | 2022-08-26 | 2022-10-07 |
 | [homebody](https://open.spotify.com/track/0JVd3a4OYQCFg6MPKDtQTx) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better](https://open.spotify.com/album/5lfELljfy64NbnEZVksAXn) | 3:11 | 2020-11-10 | 2022-07-29 |
 | [homebody](https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 3:11 | 2022-06-17 | 2022-08-06 |
 | [Honey](https://open.spotify.com/track/658qcSLPvoU4IZJhjxPHRo) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Honey](https://open.spotify.com/album/2erYmQSfrlmfOdktVdUcE3) | 2:28 | 2021-02-06 | 2021-10-23 |

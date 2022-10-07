@@ -4,7 +4,7 @@
 
 > The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: Dynamic Duo\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 다이나믹 듀오\)
 
-620 songs - 1 day 10 hr 33 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+621 songs - 1 day 10 hr 37 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Go Way](https://open.spotify.com/track/7IXcYYamS2tIOV2EXeJktG) | [Sway D](https://open.spotify.com/artist/3HfWEOcXit3EkuRCt5M3Yd) | [Go Way](https://open.spotify.com/album/77Wrn4DojRzDULosl0Lx79) | 3:36 | 2021-12-29 | 2022-04-14 |
 | [Go, dude !](https://open.spotify.com/track/1YWO7jS4KEyIW8aZvHcba2) | [ChaMane](https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd) | [26](https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR) | 2:28 | 2022-04-08 | 2022-04-13 |
 | [GOAT \(feat\. Basick, G2, SAN\-E\) \(Prod By\. NUOL\)](https://open.spotify.com/track/2XDC1raB8CHcTyoCN1kkHL) | [MIC SWG](https://open.spotify.com/artist/7ugTC3yB8Jqxbtiq1BX7RO), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [MIC SWG CEO 'GOAT'](https://open.spotify.com/album/03vv3RlmumxSQZOOj16bXZ) | 3:20 | 2022-01-04 | 2022-07-06 |
+| [God's Science \- Remix](https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [God's Science](https://open.spotify.com/album/3GfRA7uHVRHVjt1FDHZHgd) | 3:21 | 2022-10-06 |  |
 | [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/3eNvKpsWbefSkN2PReDxPf) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/4Bhx96JxhZK8hiEhIpCNA0) | 3:17 | 2022-03-03 | 2022-06-23 |
 | [Gone \(feat\. Loco\)\(prod\. 성국\)](https://open.spotify.com/track/4IvttuPCmhLXFoYg2DhWH2) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Gone \(feat\. Loco\)\(prod\. 성국\)](https://open.spotify.com/album/1HyRMR8M7NLcq6Y9MuQtSb) | 3:02 | 2022-04-08 | 2022-07-07 |
 | [GOOD 2 GO \(feat\. Jay Park\)](https://open.spotify.com/track/1pNtXt7AY1D4U9699g40mS) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [GOOD 2 GO](https://open.spotify.com/album/6t05xCPgRIHjikiHPxWI6a) | 2:34 | 2022-07-07 | 2022-08-16 |

@@ -3196,20 +3196,24 @@
     },
     {
       "album": {
-        "name": "Somewhere",
+        "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
       "artists": [
         {
           "name": "DJ Mog Feat Sarah Lynn",
           "url": "https://open.spotify.com/artist/0wva62e0Viq9HsLZwVOYxb"
+        },
+        {
+          "name": "Sarah Lynn",
+          "url": "https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K"
         }
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235866,
-      "name": "Somewhere - Radio Edit",
+      "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
       "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
     },
     {

@@ -4,7 +4,7 @@
 
 > Home is where the heart is.
 
-325 songs - 19 hr 47 min - [published](https://open.spotify.com/playlist/5lAopPvgezlqzomRb60xSb)
+326 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/5lAopPvgezlqzomRb60xSb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [I'm Gonna Find Another You](https://open.spotify.com/track/2KbKSPA3oHnZGlreYLGA92) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/6feeQj5H1QIpt1y17F1jJG) | 2:39 | 2022-04-07 | 2022-04-21 |
 | [I'm Not In Love](https://open.spotify.com/track/5Ws2EQtBiwpAcBYYSB14ns) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Tenology](https://open.spotify.com/album/37Iqxhq5QHYHhLn9kcAkHu) | 6:07 | 2022-04-07 | 2022-04-21 |
 | [i'm so tired...](https://open.spotify.com/track/7COXchtUOMd6uIT6HvmRaI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired...](https://open.spotify.com/album/13yMsBNa2femeWzhcDOqFw) | 2:42 | 2021-12-09 | 2022-07-29 |
-| [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2022-04-07 |  |
+| [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2022-04-07 | 2022-10-07 |
 | [Idiota](https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Idiota](https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki) | 3:04 | 2022-04-07 | 2022-07-11 |
 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 | 2021-12-09 | 2022-07-29 |
 | [Is This Love \- 2007 Remastered Version](https://open.spotify.com/track/5JSMty4xsozv560lo6UxhM) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987 \(2007 Remaster\)](https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw) | 4:35 | 2022-04-07 | 2022-04-21 |
@@ -313,6 +313,7 @@
 | [Waste My Time](https://open.spotify.com/track/1f6fIkTpKjUjwmExW2k2tW) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Waste My Time](https://open.spotify.com/album/2UCr3g97feInYXtl6d84pc) | 3:21 | 2021-12-09 | 2022-07-29 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-12-09 |  |
 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/3Q6fRSTIz9AZLfmTMGNlxG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/album/3RRlQpHcnBStDiuVD88wtp) | 2:56 | 2021-12-09 | 2022-07-26 |
+| [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 | 2022-10-03 |  |
 | [Waves](https://open.spotify.com/track/64xJ1MMFxxK6osZxJH857T) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Waves](https://open.spotify.com/album/0dcIrW5U3oco3GDCKiJ33I) | 4:01 | 2021-12-09 | 2022-07-21 |
 | [What a Fool Believes](https://open.spotify.com/track/0ZjTS5zoXFR2w9QMRweDhs) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Best of The Doobies, Volume II](https://open.spotify.com/album/0WV0QzJJowSjqZ6C9KlrcR) | 3:39 | 2022-04-07 | 2022-04-21 |
 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 | 2022-04-07 | 2022-04-19 |

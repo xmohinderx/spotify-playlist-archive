@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43448,
+  "num_followers": 43473,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk3MSxiOWQ0ODBkNTQ3MDMyOTVjOGEzZTk3M2UwN2I4OGFjNGQyNTRmOTYx",
+  "snapshot_id": "Mjk3NCxiOWZjMTFjMjc3NjkzNmNhMDFhMjc4YzI3YjU2OTFkOWQ5YTA5YmQy",
   "tracks": [
+    {
+      "added_at": "2022-10-06 10:03:09",
+      "album": {
+        "name": "mynameisleonidas",
+        "url": "https://open.spotify.com/album/2r9YXXiFLz4VB4oSsVYA2h"
+      },
+      "artists": [
+        {
+          "name": "mynameisleonidas",
+          "url": "https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe"
+        }
+      ],
+      "duration_ms": 206310,
+      "name": "poseidon",
+      "url": "https://open.spotify.com/track/4qpFTWOjbrKueLNSDdjigo"
+    },
     {
       "added_at": "2022-10-05 08:33:28",
       "album": {
@@ -415,22 +431,6 @@
       "duration_ms": 219436,
       "name": "We Are Shadows",
       "url": "https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD"
-    },
-    {
-      "added_at": "2022-09-28 09:25:44",
-      "album": {
-        "name": "Opposites",
-        "url": "https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW"
-      },
-      "artists": [
-        {
-          "name": "Ade",
-          "url": "https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb"
-        }
-      ],
-      "duration_ms": 219081,
-      "name": "Opposites",
-      "url": "https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1"
     },
     {
       "added_at": "2021-11-05 15:47:43",

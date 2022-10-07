@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Austin Snell, Artwork: Fanélie Muselier
 
-959 songs - 2 day 4 hr 26 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+960 songs - 2 day 4 hr 29 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 | 2022-07-06 | 2022-08-04 |
 | [Girls, Trucks and Beer](https://open.spotify.com/track/4dUnNIZwiCweeMYaKJCYZB) | [Martin McDaniel](https://open.spotify.com/artist/2t4ZNy3HK2oHrvHZxq9wHU) | [Girls, Trucks and Beer](https://open.spotify.com/album/6UNTNRES3DAuxqd2DldETh) | 3:05 | 2022-03-23 | 2022-05-05 |
 | [Give You Mine](https://open.spotify.com/track/1OkrRotQVFgQ8DTS43SAPT) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Give You Mine](https://open.spotify.com/album/7pPNU3IGck4Lf0ENylEW9q) | 3:09 | 2021-12-01 | 2022-01-13 |
+| [Glory Daze](https://open.spotify.com/track/4utY2OiOSNIsf2R3ndhuqk) | [Rachel McIntyre Smith](https://open.spotify.com/artist/1z8eldHhK2nqKa26VIcJde) | [Glory Daze](https://open.spotify.com/album/6lv2AerZEW7LTMuyWmb0lk) | 3:28 | 2022-10-06 |  |
 | [Go](https://open.spotify.com/track/3kyHMlCc1zGQQNhCN0c1mf) | [Jackson Truluck](https://open.spotify.com/artist/6ASULhBeCegPAPAvT6PO9u) | [Carolina](https://open.spotify.com/album/32AvenUw700HfE0dXOGsge) | 3:37 | 2022-09-14 |  |
 | [Go Find Less](https://open.spotify.com/track/0n0brhGyJyy1cHAUNDsi0h) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [Go Find Less](https://open.spotify.com/album/4vYnFA6hD0IB54aPYOKipm) | 2:40 | 2022-01-12 | 2022-02-10 |
 | [Go South](https://open.spotify.com/track/40CvwatMGE8WEDGjrIJIls) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Go South](https://open.spotify.com/album/2i1shC4lxulIH4cmO3qc8C) | 2:04 | 2022-04-06 | 2022-05-19 |

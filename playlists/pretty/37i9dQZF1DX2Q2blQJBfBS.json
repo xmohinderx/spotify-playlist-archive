@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 130947,
+  "num_followers": 131253,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MTc4MywwMDAwMDAwMGMwODViZWFkNjQ3YjJhNzI5NDQxYzBiMzQ1ZjUwZTM1",
+  "snapshot_id": "MTY2NTA2NzMxMCwwMDAwMDAwMDY3MTU0ZjcyOTQ1ZGFkNzJmNzQwOWY2MTZjZDMyNjIy",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 270653,
+      "name": "Paris, Tokyo",
+      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Flamagra",
         "url": "https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 161971,
       "name": "Black Balloons Reprise",
       "url": "https://open.spotify.com/track/2csZLnXBMuw6ETZuRxdUZF"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Lupe Fiasco's The Cool",
-        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 270653,
-      "name": "Paris, Tokyo",
-      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 112787,
-      "name": "Lye",
-      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "This Thing Of Ours 2",
         "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 114092,
       "name": "6 Five Heartbeats (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 112787,
+      "name": "Lye",
+      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
     },
     {
       "added_at": "2022-05-27 13:52:51",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Looking for Water (feat. Boldy James)",
-        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
-      },
-      "artists": [
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "Real Bad Man",
-          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 163850,
-      "name": "Looking for Water (feat. Boldy James)",
-      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/76BINBQvavXWT13Hax9eXF"
       },
@@ -1189,6 +1165,26 @@
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Cataracts",
+      "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "This Thing Of Ours",
@@ -1213,24 +1209,28 @@
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
     },
     {
-      "added_at": "2022-05-13 12:00:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf"
+        "name": "Looking for Water (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
         },
         {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 219826,
-      "name": "Cataracts",
-      "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
+      "duration_ms": 163850,
+      "name": "Looking for Water (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/0jQPVM41l6xWzynX7mIflu"
     },
     {
-      "added_at": "2022-09-02 18:33:39",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Why Worry",
@@ -1343,6 +1327,22 @@
       "duration_ms": 150561,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
+    },
+    {
+      "added_at": "2022-09-02 18:33:39",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
-      },
-      "artists": [
-        {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Liquid Swords",
         "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 229800,
       "name": "Investigative Reports",
       "url": "https://open.spotify.com/track/6NTceGKsDLTYehlyRbYp6O"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1557,6 +1557,22 @@
       "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Makeda",
+        "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 96067,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
+    },
+    {
       "added_at": "2022-05-13 12:00:00",
       "album": {
         "name": "No Gold Teeth",
@@ -1575,22 +1591,6 @@
       "duration_ms": 153600,
       "name": "No Gold Teeth",
       "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Makeda",
-        "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 96067,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Aethiopes",
         "url": "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD"
       },
@@ -1767,6 +1751,42 @@
       "duration_ms": 143781,
       "name": "Heavy Water",
       "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "The Black Mobius",
+        "url": "https://open.spotify.com/album/1sAeVV3MOJ7WgJFbQ7An8D"
+      },
+      "artists": [
+        {
+          "name": "LORD JAH-MONTE OGBON",
+          "url": "https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0"
+        },
+        {
+          "name": "SadhuGold",
+          "url": "https://open.spotify.com/artist/1G7eIKYQAYMnqNbHC9nROF"
+        }
+      ],
+      "duration_ms": 63504,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1791,26 +1811,6 @@
       "duration_ms": 171219,
       "name": "Beep",
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "The Black Mobius",
-        "url": "https://open.spotify.com/album/1sAeVV3MOJ7WgJFbQ7An8D"
-      },
-      "artists": [
-        {
-          "name": "LORD JAH-MONTE OGBON",
-          "url": "https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0"
-        },
-        {
-          "name": "SadhuGold",
-          "url": "https://open.spotify.com/artist/1G7eIKYQAYMnqNbHC9nROF"
-        }
-      ],
-      "duration_ms": 63504,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/6RwVEhegJzYvwGwt8U7hZW"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1873,6 +1873,26 @@
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Ironman",
+        "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "260 (feat. Raekwon)",
+      "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Dollar Menu 4",
@@ -1895,26 +1915,6 @@
       "duration_ms": 226091,
       "name": "4 Piece(s)",
       "url": "https://open.spotify.com/track/7mYCIIPDmDiFqW3YFHdE6D"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Ironman",
-        "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "260 (feat. Raekwon)",
-      "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
       "added_at": "2022-05-10 19:26:35",

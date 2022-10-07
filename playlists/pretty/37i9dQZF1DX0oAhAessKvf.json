@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 85416,
+  "num_followers": 85473,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMDNhNmQzYWYzOGRlMDIwYzFhMWQ4Nzg1Y2ZkNDYyOTdi",
+  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMDZiNmZjNWNmMDRkNzMxYTZlOTRlZjE5MzVlYmFiODZi",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Dos Tiempos Bajo Un Mismo Tono",
+        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Viernes 13 - Parte 1",
+      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 133766,
       "name": "Reggae Respect - Live",
       "url": "https://open.spotify.com/track/6RyawEEdxTWMFtwRBpfFV3"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Dos Tiempos Bajo Un Mismo Tono",
-        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        },
-        {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Viernes 13 - Parte 1",
-      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
     },
     {
       "added_at": "2021-12-20 17:02:25",

@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Kevin Kaarl",
-  "num_followers": 137789,
+  "num_followers": 137806,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMDY3OGUxNjVjNDUxNjQ3NzAzZDc3YzM1ZGM5NjgwNzI0",
+  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMGUyMjg3MDk3NjFlYjcyNzQzZjAyZDExODJkZTc2ZWNh",
   "tracks": [
     {
       "added_at": "2022-09-06 16:38:11",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Recuerdos Que Torturan",
-        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 210425,
-      "name": "Recuerdos Que Torturan",
-      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 202146,
       "name": "lejos",
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Recuerdos Que Torturan",
+        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 210425,
+      "name": "Recuerdos Que Torturan",
+      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Para\u00edso",
         "url": "https://open.spotify.com/album/4X61CX0485026hU97ZPc57"
       },
@@ -487,22 +471,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
-      },
-      "artists": [
-        {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -515,6 +483,38 @@
       "duration_ms": 207786,
       "name": "Ser De Ti",
       "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/2YOhfUkhFT2uNis4xMDPFe"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Te Espero Aqu\u00ed",
-      "url": "https://open.spotify.com/track/1xvQsgUbvz53trUe3xaIdm"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "inigualable",
         "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 178645,
       "name": "inigualable",
       "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/2YOhfUkhFT2uNis4xMDPFe"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Te Espero Aqu\u00ed",
+      "url": "https://open.spotify.com/track/1xvQsgUbvz53trUe3xaIdm"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "Far In",
         "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 189000,
       "name": "Flor",
       "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Tormenta",
-        "url": "https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0"
-      },
-      "artists": [
-        {
-          "name": "Hunters of the Alps",
-          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Yo Creo en el Amor",
         "url": "https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 171628,
       "name": "Yo Creo en el Amor",
       "url": "https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0"
+      },
+      "artists": [
+        {
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw"
     },
     {
       "added_at": "2022-09-06 16:38:11",

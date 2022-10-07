@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 240892,
+  "num_followers": 240953,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDgwNGJmODRhYWU5NWQ1Nzg5YzM2NTQ3NjlmOTkzMzg3",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGZhOTAwZTAxZDViMzgxZTM1Y2NkMjU5NjZhMGMxN2Jk",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -63,22 +63,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Gallows",
         "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 211472,
       "name": "Billy",
       "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Your Own Truth",
-        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
-      },
-      "artists": [
-        {
-          "name": "James Forest",
-          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Your Own Truth",
-      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Cycle",
@@ -595,6 +579,22 @@
       "duration_ms": 188573,
       "name": "Cycle",
       "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Your Own Truth",
+        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
+      },
+      "artists": [
+        {
+          "name": "James Forest",
+          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Your Own Truth",
+      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
       "added_at": "2018-12-11 21:12:31",

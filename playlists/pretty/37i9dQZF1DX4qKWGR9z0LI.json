@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
-  "num_followers": 1785796,
+  "num_followers": 1785978,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMDNjMWZjMDE2MDAwZDA1MzJiZDA0OWYzNDBjYWE0OGIx",
+  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGM5MjY4ZWEzYWJiNzY2NDRjYjk3OWFmYjY2NWJhMGE2",
   "tracks": [
     {
       "added_at": "2022-09-09 15:09:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Cartas Sobre La Mesa",
-        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 191081,
-      "name": "Cartas Sobre La Mesa",
-      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
       },
@@ -699,18 +683,34 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Aut\u00e9ntico",
-        "url": "https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD"
+        "name": "Cartas Sobre La Mesa",
+        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
       },
       "artists": [
         {
-          "name": "Grupo Gal\u00e9",
-          "url": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 279080,
-      "name": "El Amor de Mi Vida \"Se Fue\"",
-      "url": "https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl"
+      "duration_ms": 191081,
+      "name": "Cartas Sobre La Mesa",
+      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "El Arrollador",
+        "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 294440,
+      "name": "Salsa Con Coco",
+      "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "El Arrollador",
-        "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
+        "name": "Aut\u00e9ntico",
+        "url": "https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD"
       },
       "artists": [
         {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+          "name": "Grupo Gal\u00e9",
+          "url": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP"
         }
       ],
-      "duration_ms": 294440,
-      "name": "Salsa Con Coco",
-      "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
+      "duration_ms": 279080,
+      "name": "El Amor de Mi Vida \"Se Fue\"",
+      "url": "https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Por Culpa de Alguien",
+        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
+      },
+      "artists": [
+        {
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        }
+      ],
+      "duration_ms": 327563,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Mi Meta",
         "url": "https://open.spotify.com/album/7JsfV4EJLEjs2nhFKOK5NI"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 185575,
       "name": "Sincero - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Por Culpa de Alguien",
-        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
-      },
-      "artists": [
-        {
-          "name": "Josimar y Su Yamb\u00fa",
-          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
-        }
-      ],
-      "duration_ms": 327563,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Enriquez",
+          "url": "https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Abre Que Voy",
+      "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Enriquez",
-          "url": "https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Abre Que Voy",
-      "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
+        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 153608,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Cobarde (Remix)",
         "url": "https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
-        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
         }
       ],
-      "duration_ms": 153608,
-      "name": "Acuyuye",
-      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1347,22 +1363,6 @@
       "duration_ms": 200760,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Comienzos",
-        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 212045,
-      "name": "Me Tienes Mal",
-      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Los Oscares De Oscar",
         "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 304946,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+        "name": "Comienzos",
+        "url": "https://open.spotify.com/album/2ndeHTmp2o62pjmgYATwVf"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
         }
       ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+      "duration_ms": 212045,
+      "name": "Me Tienes Mal",
+      "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
     },
     {
       "added_at": "2022-09-09 15:09:32",

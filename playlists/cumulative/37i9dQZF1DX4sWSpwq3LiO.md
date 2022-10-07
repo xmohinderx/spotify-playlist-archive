@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,425 songs - 2 day 15 hr 56 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
+1,426 songs - 2 day 15 hr 59 min - [published](https://open.spotify.com/playlist/59zXuCHEMBal62ty9R9WVn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,7 +885,8 @@
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-02-17 | 2022-06-04 |
 | [Papa](https://open.spotify.com/track/3cAT1jmDFz969hO1LikyNH) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Papa](https://open.spotify.com/album/4LlT8tzmFNuzXEppDKn7qu) | 1:09 | 2019-05-26\* | 2019-07-05 |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2021-09-16 | 2022-09-24 |
-| [Papillon \- Solo Piano Version](https://open.spotify.com/track/45qdRXOrVR0S49RWWsoJLS) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Broken Sunsets \(Solo Piano Version\)](https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3) | 2:56 | 2022-09-23 |  |
+| [Papillon \- Solo Piano Version](https://open.spotify.com/track/45qdRXOrVR0S49RWWsoJLS) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Broken Sunsets \(Solo Piano Version\)](https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3) | 2:56 | 2022-09-23 | 2022-10-07 |
+| [Papillon \- Solo Piano Version](https://open.spotify.com/track/6RE1WhhdI1wvCOar6z2AdW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Colours \(Solo Piano Version\)](https://open.spotify.com/album/7obnUblJ3L4u0Ch4kyjfCK) | 2:56 | 2022-10-03 |  |
 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/6rrjDzYFuGQjpUk4hwfRJn) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evermore \(Solo Piano Version\)](https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS) | 2:56 | 2022-09-23 | 2022-09-30 |
 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 | 2021-12-21 |  |
 | [Pas de deux](https://open.spotify.com/track/2LNOrSjCSR1Ap7QOZLbJnd) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Pas de deux](https://open.spotify.com/album/4M6aRGOphviow2KljOzsA9) | 2:18 | 2019-08-23 | 2021-03-09 |

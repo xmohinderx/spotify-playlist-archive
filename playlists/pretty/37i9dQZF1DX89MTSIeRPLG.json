@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 39,
+  "num_followers": 56,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDBkNzk4MDMzNmExNGIzYjIyOThhMDk3ZjUyZTk3OGI3",
+  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDA3NzMwY2ZhNmE5YWIyOGZmNjdlZThkMDNjMmEwMDc2",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Easter In Miami",
+        "url": "https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Easter In Miami",
+      "url": "https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Blessed, I Guess",
         "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 123122,
       "name": "A.M. Flights (feat. Toosii)",
       "url": "https://open.spotify.com/track/37mxyK3wdiHlv6MDuQJnAp"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Easter In Miami",
-        "url": "https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 187096,
-      "name": "Easter In Miami",
-      "url": "https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI"
     },
     {
       "added_at": "2022-10-01 20:31:11",

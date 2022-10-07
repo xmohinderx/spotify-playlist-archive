@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 26020,
+  "num_followers": 26055,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMDMwNDI2YjJhNzUzZTBjN2Y0OTM2MmMxMmZjMjk3MWVj",
+  "snapshot_id": "MTY2NTA0MTMxMCwwMDAwMDAwMGQ2ZGZjNTEwMzBiZWQwZDBlOTJkNjFjNzgyZGY0Y2Jj",
   "tracks": [
     {
       "added_at": "2022-09-29 22:01:00",
@@ -277,6 +277,26 @@
       "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
+      "added_at": "2022-10-07 01:54:31",
+      "album": {
+        "name": "Forgot How to Love",
+        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "duration_ms": 149055,
+      "name": "Forgot How to Love",
+      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
+    },
+    {
       "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "This Love",
@@ -503,30 +523,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -547,6 +543,30 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -659,26 +679,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -943,22 +963,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Summer Stars",
         "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
       },
@@ -991,6 +995,22 @@
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1035,6 +1055,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2YL8UqzkqxspHtnBkDWyVA"
+        }
+      ],
+      "duration_ms": 220644,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Marco Polo",
         "url": "https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux"
       },
@@ -1059,26 +1099,6 @@
       "duration_ms": 156393,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2YL8UqzkqxspHtnBkDWyVA"
-        }
-      ],
-      "duration_ms": 220644,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1279,22 +1299,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Down from this High",
-        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
+        "name": "Unrequited",
+        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
       },
       "artists": [
         {
-          "name": "k\u00e1nji",
-          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
         },
         {
-          "name": "N\u00d8TALUVA",
-          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
         }
       ],
-      "duration_ms": 115297,
-      "name": "Down from this High",
-      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
+      "duration_ms": 171696,
+      "name": "Unrequited",
+      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1323,6 +1343,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Down from this High",
+        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
+      },
+      "artists": [
+        {
+          "name": "k\u00e1nji",
+          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
+        },
+        {
+          "name": "N\u00d8TALUVA",
+          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
+        }
+      ],
+      "duration_ms": 115297,
+      "name": "Down from this High",
+      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Sweet Side (feat. Caitlyn Scarlett)",
         "url": "https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR"
       },
@@ -1339,26 +1379,6 @@
       "duration_ms": 183866,
       "name": "Sweet Side (feat. Caitlyn Scarlett)",
       "url": "https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Unrequited",
-        "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1435,26 +1455,18 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt"
+        "name": "Late Delivery",
+        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
       },
       "artists": [
         {
-          "name": "Wankelmut",
-          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
-        },
-        {
-          "name": "De Hofnar",
-          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
         }
       ],
-      "duration_ms": 171250,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt"
+      "duration_ms": 202963,
+      "name": "Late Delivery",
+      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1479,18 +1491,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Late Delivery",
-        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt"
       },
       "artists": [
         {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        },
+        {
+          "name": "De Hofnar",
+          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
         }
       ],
-      "duration_ms": 202963,
-      "name": "Late Delivery",
-      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
+      "duration_ms": 171250,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1571,30 +1591,6 @@
       "duration_ms": 194000,
       "name": "Mound\u00e9",
       "url": "https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Bosana",
-        "url": "https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1"
-      },
-      "artists": [
-        {
-          "name": "El Mukuka",
-          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
-        },
-        {
-          "name": "Gaz Mawete",
-          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
-        },
-        {
-          "name": "HVMZA",
-          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
-        }
-      ],
-      "duration_ms": 211073,
-      "name": "Bosana",
-      "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
     }
   ],
   "unique_name": "Dance Chill",

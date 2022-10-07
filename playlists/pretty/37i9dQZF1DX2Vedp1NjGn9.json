@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 59364,
+  "num_followers": 59462,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGZkOTA4Y2E2NjVhNGQzNTRjMTk5MzU4MmMzMDFiODJl",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGRlZjQ3MzI5M2Y5NTBlODlmMjQwYWUwYjE1OWQzNDg4",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Blood Pressures",
-        "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
+        "name": "ActorCaster",
+        "url": "https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB"
       },
       "artists": [
         {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
         }
       ],
-      "duration_ms": 248200,
-      "name": "Future Starts Slow",
-      "url": "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
+      "duration_ms": 202613,
+      "name": "TenTwentyTen",
+      "url": "https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Future Starts Slow",
+      "url": "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "You Are All I See",
         "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 321453,
       "name": "Hanging On",
       "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "ActorCaster",
-        "url": "https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "TenTwentyTen",
-      "url": "https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB"
     },
     {
       "added_at": "2021-09-02 08:15:11",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,341 songs - 3 day 21 hr 5 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,342 songs - 3 day 21 hr 8 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Break Open Colour](https://open.spotify.com/track/0IoVnQAJTWNSD1qddEgrJH) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Don't Look Back](https://open.spotify.com/album/6e295vU5RvRKECmI5p8ZNm) | 4:36 | 2022-03-11 | 2022-07-29 |
 | [Breath.](https://open.spotify.com/track/1OlBjlxICLInZ3qTphHVuR) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Breath.](https://open.spotify.com/album/35bXBanx1utZN7LTOQmhBJ) | 3:31 | 2020-05-22 | 2020-10-09 |
 | [Breathe](https://open.spotify.com/track/5ag0L0xkUGJrkXmalqOfho) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Breathe](https://open.spotify.com/album/0RDzTKuYJFGWKkjYymVvNP) | 3:16 | 2022-01-21 |  |
+| [Breathe](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Breathe](https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ) | 2:48 | 2022-09-30 |  |
 | [Breathe \- CamelPhat Just Chill Mix](https://open.spotify.com/track/6omsLkEQDeDHtILgj3Vkmn) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe \(CamelPhat Just Chill Mix\)](https://open.spotify.com/album/3jJE4tQdbiYaRcxgNsVqtn) | 4:31 | 2020-03-16 |  |
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2021-03-27 |  |
 | [Brighter](https://open.spotify.com/track/6PKGDDpYt39sJfHJrYxJW4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:41 | 2020-05-18 | 2020-07-03 |
@@ -473,7 +474,7 @@
 | [Go! \(feat\. Mai Lan\) \- Animal Collective/Deakin Remix](https://open.spotify.com/track/7uW2fJJ7M1IMqrNXNNTBts) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Mai Lan](https://open.spotify.com/artist/2mDibyYe7k76MBMSZDTGo1), [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj), [Deakin](https://open.spotify.com/artist/6JSybS5o47NUTNFQauvxUY) | [Go \(feat\. Mai Lan\) \[Animal Collective/Deakin Remix\]](https://open.spotify.com/album/6IRGWSIXs6P3ZmYtRgZveZ) | 5:05 | 2020-05-22 | 2020-07-03 |
 | [Godson of House](https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Byron the Aquarius](https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5) | [Godson of House](https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm) | 8:36 | 2021-01-15 | 2021-03-10 |
 | [Gold](https://open.spotify.com/track/2penjl6afQ4JYqmTeNUxyL) | [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Gold](https://open.spotify.com/album/6a89n0OqocPjjN3hCrKUhL) | 2:35 | 2020-05-18 | 2020-07-03 |
-| [Gradients](https://open.spotify.com/track/1XpxDhEXKAnYdqYFsyFvBn) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Gradients](https://open.spotify.com/album/0KXcqZXj1M0jQ63QsjKLrT) | 3:44 | 2021-10-29 |  |
+| [Gradients](https://open.spotify.com/track/1XpxDhEXKAnYdqYFsyFvBn) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Gradients](https://open.spotify.com/album/0KXcqZXj1M0jQ63QsjKLrT) | 3:44 | 2021-10-29 | 2022-10-07 |
 | [GRAND LARGE](https://open.spotify.com/track/125sfWM2zapEZF3Nji9hHC) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 5:30 | 2022-08-26 | 2022-09-10 |
 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 | 2022-08-12 | 2022-09-24 |
 | [Gratitude](https://open.spotify.com/track/5CvaeEX9dU9ZhwyoVIIgTO) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Gratitude](https://open.spotify.com/album/3fRe1aTVYRwLNGOcLpnDXk) | 3:30 | 2022-08-12 |  |

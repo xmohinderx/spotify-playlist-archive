@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Natti Natasha, Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,561 likes - 68 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,810 likes - 68 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 21 | [Distancia](https://open.spotify.com/track/078SF4DC2Jf6qalzlFIi2J) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Distancia](https://open.spotify.com/album/2gqjUsHgffcCdtkAy44PWE) | 2:43 |
 | 22 | [X Ley \(feat\. Dei V\) \- Remix](https://open.spotify.com/track/2A6Rt8ePgLDKRZaIrQ2UVh) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [X Ley \(feat\. Dei V\) \[Remix\]](https://open.spotify.com/album/2Ck9KM9NeS7Qx8CpH9ryrt) | 5:01 |
 | 23 | [I Dance \(feat\. Duki & Cuco\)](https://open.spotify.com/track/4C9ySJUmAXiaroo91BeFDH) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:05 |
-| 24 | [Nieve \- Good Times Ahead Remix](https://open.spotify.com/track/0Z89MaST5Egh1JGuWtIohT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve \(Remixes\)](https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr) | 5:23 |
+| 24 | [Nieve \- Good Times Ahead Remix](https://open.spotify.com/track/0Z89MaST5Egh1JGuWtIohT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Nieve \(Remixes\)](https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr) | 5:23 |
 | 25 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 |
 | 26 | [Mía Mía](https://open.spotify.com/track/0hLHKOrFIHcr4NeWHlPTaI) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mía Mía](https://open.spotify.com/album/6JItTIS5UxMSndYqRMHpTX) | 2:10 |
 | 27 | [Pica](https://open.spotify.com/track/2fEp93Agw35A8WlymUpEBp) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Kerr Yen](https://open.spotify.com/artist/41fvTeCO2HPb9wWwpGy55M) | [Pica](https://open.spotify.com/album/7F0Y1O8rcT6HL2YpqRpJSJ) | 4:30 |

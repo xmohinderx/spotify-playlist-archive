@@ -832,6 +832,32 @@
     },
     {
       "album": {
+        "name": "Di Halawa",
+        "url": "https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Bahaa",
+          "url": "https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx"
+        },
+        {
+          "name": "Hassan Shakosh",
+          "url": "https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt"
+        },
+        {
+          "name": "Sary Hany",
+          "url": "https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196952,
+      "name": "Di Halawa",
+      "url": "https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9"
+    },
+    {
+      "album": {
         "name": "Diplomacy",
         "url": "https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL"
       },

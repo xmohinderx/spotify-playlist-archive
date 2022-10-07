@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Symba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,467 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,720 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 33 | [Quantum Leap](https://open.spotify.com/track/3ujsJyNJl1zxvS4G9JhJtE) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:28 |
 | 34 | [Sacrifices \(feat\. Fridayy\)](https://open.spotify.com/track/3jSGgwZMCfdEOOIxP8JkC2) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Results Take Time](https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9) | 4:07 |
 | 35 | [Time Fly's](https://open.spotify.com/track/5QwhmSNPjhj6nUfCZiehMW) | [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU) | [Time Fly's](https://open.spotify.com/album/5wpD2uVcwvA7V4nVkhkb93) | 2:49 |
-| 36 | [Elon](https://open.spotify.com/track/49gRLFjmdkS6Cip8V3MrMN) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI) | [Elon](https://open.spotify.com/album/44Hk4tGww4UmX2BSEC6W39) | 2:57 |
+| 36 | [Elon](https://open.spotify.com/track/49gRLFjmdkS6Cip8V3MrMN) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI) | [Elon](https://open.spotify.com/album/44Hk4tGww4UmX2BSEC6W39) | 2:53 |
 | 37 | [Free Slime](https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [W13](https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9) | 3:14 |
 | 38 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
 | 39 | [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 |

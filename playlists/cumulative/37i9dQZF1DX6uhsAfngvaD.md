@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-308 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+309 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 | 2021-09-23 | 2022-07-29 |
 | [how do you feel](https://open.spotify.com/track/3BMcTB54pN4oZlIIPNxcy1) | [strawbey](https://open.spotify.com/artist/3Ecd4KEdZpKTW8gi3HOmeX) | [play pretend](https://open.spotify.com/album/47wxXFDjvNfaGnMPaxBjT4) | 4:57 | 2020-10-08 | 2022-07-29 |
 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 | 2021-12-05 |  |
-| [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-10-09 |  |
+| [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-10-09 | 2022-10-07 |
+| [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 | 2022-07-06 |  |
 | [I Don't Want to Be Alone](https://open.spotify.com/track/3TJJmh4u2wHIZdYbImGyeM) | [Llovers](https://open.spotify.com/artist/0MGqjWWotQzv4HkaNAiWn5) | [I Don't Want to Be Alone](https://open.spotify.com/album/3jNjCCdOzAP9J4Szb8vuJ6) | 3:22 | 2020-08-09 | 2022-04-21 |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-06 |  |
 | [I'm Found](https://open.spotify.com/track/6lDydBw1co0u11hP3kMAgj) | [Katrina Ford](https://open.spotify.com/artist/0m1QOHroy845vm0zq28eIA) | [I'm Found](https://open.spotify.com/album/3Eh7jOuBuUZO5eq66WVANC) | 4:03 | 2022-07-06 | 2022-07-29 |
@@ -143,7 +144,7 @@
 | [Into You](https://open.spotify.com/track/3mFiltbUQfGVJdNcOVlT2U) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot) | [Into You](https://open.spotify.com/album/1FWYeLDbM2L5ZoM9X1GS9M) | 3:01 | 2021-10-09 | 2022-04-25 |
 | [Invierno](https://open.spotify.com/track/7DhCa1BLOVHTYwfZfL1TnQ) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Invierno](https://open.spotify.com/album/4l0iug24BEXMXEy4xci7VR) | 4:16 | 2020-09-19 | 2020-12-22 |
 | [Irrational](https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z) | [Erthlings](https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe) | [Irrational](https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF) | 3:23 | 2020-11-06 |  |
-| [Is This Where It Ends](https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq) | 4:02 | 2022-07-06 | 2022-08-23 |
+| [Is This Where It Ends](https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq) | 4:02 | 2022-07-06 |  |
 | [Is This Where It Ends](https://open.spotify.com/track/288NER7JJhr8AbhGbUCCSL) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/2X4WkO0kYi3kfBfPIsPVZP) | 4:02 | 2020-10-08 | 2022-07-29 |
 | [It's Time](https://open.spotify.com/track/1Gij4Ja8h7W64VXi1Eqj6j) | [Foliage](https://open.spotify.com/artist/6GO4Noo5C7TXVHxGNClp2w) | [It's Time](https://open.spotify.com/album/1GIFzIIeNsDYrBlmAGhuDu) | 2:55 | 2019-11-19\* | 2020-11-06 |
 | [Jalisco](https://open.spotify.com/track/7jqM0p5mYWqgwwVjdmWD8W) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Jalisco](https://open.spotify.com/album/7DfafYywcqlI3447rKnFTQ) | 3:42 | 2019-11-19\* | 2020-12-11 |
@@ -163,7 +164,7 @@
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-03-26 |  |
 | [Last Time](https://open.spotify.com/track/2wlqQfTm8x7RY0WldjFmT3) | [Good Posture](https://open.spotify.com/artist/1jQeZUi0AmxfRqjpF4ZFQQ) | [Last Time](https://open.spotify.com/album/0JNB7rlI8Q3tB2Wm2BpJ8W) | 2:26 | 2021-09-23 | 2022-07-27 |
 | [Leach](https://open.spotify.com/track/7GfcvEme8J6sI3k8pNTU2Y) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [Leach](https://open.spotify.com/album/4lWBuvoK2MBzJhePr98BQ6) | 3:53 | 2019-11-19\* | 2020-12-22 |
-| [Lean Into Life](https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw) | 5:27 | 2021-07-05 |  |
+| [Lean Into Life](https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw) | 5:27 | 2021-07-05 | 2022-10-07 |
 | [Leave Behind](https://open.spotify.com/track/1B2SbIJqWWjMa7yGeeOWDp) | [Eddie the Wheel](https://open.spotify.com/artist/0SPLXmAXib6l9RZ8XmH2Jt) | [Leave Behind](https://open.spotify.com/album/6iUZWiLRBDNmvMAJWpJZ29) | 3:35 | 2019-11-19\* | 2020-11-06 |
 | [Leaves](https://open.spotify.com/track/6D0RsrrwQ2YSYA9lv4lgz5) | [Fanclub](https://open.spotify.com/artist/2XxKRqSS7wels4dpUb5N1h) | [Leaves](https://open.spotify.com/album/1jLqWEcRGmfym6FjbmHlYe) | 3:15 | 2019-11-19\* | 2020-08-09 |
 | [Leipzig](https://open.spotify.com/track/41FUydVAeBuf0qLztk0d5j) | [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Leipzig](https://open.spotify.com/album/52jUVwh3vMzIx0SenSa8Xw) | 2:29 | 2019-11-19\* | 2020-12-22 |

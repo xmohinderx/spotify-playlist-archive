@@ -1598,6 +1598,28 @@
     },
     {
       "album": {
+        "name": "Crazy Heartige (From \"Champion\")",
+        "url": "https://open.spotify.com/album/4ZYc1TMwqTrHfAqSJNNOtZ"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "C R Bobby",
+          "url": "https://open.spotify.com/artist/4l9k87iqGrzpc4JwAmDAdQ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225753,
+      "name": "Crazy Heartige (From \"Champion\")",
+      "url": "https://open.spotify.com/track/4nWobt9jWc9WfO9P1mLuDv"
+    },
+    {
+      "album": {
         "name": "Dancina Huchchu [From \"Brahmastra (Kannada)\"]",
         "url": "https://open.spotify.com/album/11uTDzM2uMYU4Y2K70uPes"
       },
@@ -1829,7 +1851,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 242019,
       "name": "Dhoom Dhaam",
       "url": "https://open.spotify.com/track/0jruykYpkPEst0xBJCYWie"
@@ -1859,7 +1881,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 242019,
       "name": "Dhoom Dhaam (From \"Dasara\")",
       "url": "https://open.spotify.com/track/1Fs00ueR7iu8mTUATCDGbB"
@@ -4098,6 +4120,32 @@
     },
     {
       "album": {
+        "name": "Brahmastra (Kannada) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1eUqIrELR2kac2RjtgXMQr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278377,
+      "name": "Kesariya Rangu",
+      "url": "https://open.spotify.com/track/3X0CBCVKnvNajOvuSN0ngN"
+    },
+    {
+      "album": {
         "name": "Kesariya Rangu [From \"Brahmastra (Kannada)\"]",
         "url": "https://open.spotify.com/album/0St5fP672OHd31twjogATZ"
       },
@@ -4117,7 +4165,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 278377,
       "name": "Kesariya Rangu (From \"Brahmastra (Kannada)\")",
       "url": "https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ"

@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-263 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
+264 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Christmas Is All About You](https://open.spotify.com/track/3KjSzJFKgcLHOPrlz9SsTZ) | [Mallary Hope](https://open.spotify.com/artist/6FjFSDCzBRTcJzymqzfaJS) | [Christmas Is All About You](https://open.spotify.com/album/36BonE3xE7VHb8qVewd8Om) | 3:43 | 2021-12-24 | 2022-07-28 |
 | [Christmas Is All About You](https://open.spotify.com/track/6Tk0Wap2t72WP90wQMxDjR) | [Mallary Hope](https://open.spotify.com/artist/6FjFSDCzBRTcJzymqzfaJS) | [Christmas Is All About You](https://open.spotify.com/album/0RwBXSMUg0Dr7pvTgwk94R) | 3:45 | 2021-12-24 | 2022-07-27 |
 | [Christmas Is Here](https://open.spotify.com/track/7rs3wSpNwdkzalMpHU11xK) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Christmas Is Here](https://open.spotify.com/album/3nlgoaCTMqyTPi1BY8tSd8) | 3:34 | 2021-12-24 | 2022-07-28 |
-| [Christmas Lights](https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Lights](https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck) | 3:01 | 2021-12-24 |  |
+| [Christmas Lights](https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Lights](https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck) | 3:01 | 2021-12-24 | 2022-10-07 |
 | [Christmas Offering](https://open.spotify.com/track/5fJszr03uVM8V6P3Ek3gce) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 5:14 | 2021-12-24 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/4cYsUX11X8o82bP9Vmaabo) | [Sarah Reynolds](https://open.spotify.com/artist/5OzJnFI3dgRIfIr5PHnxte) | [Christmas Time Is Here](https://open.spotify.com/album/2rEicUO3iYZ2WFAoOfW9Na) | 4:45 | 2021-12-24 | 2022-07-24 |
 | [Christmas Vacation](https://open.spotify.com/track/1DxmJ0SaINkxDxA2xzlBOH) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Christmas Vacation](https://open.spotify.com/album/0kinNJkdODMETukgMudmMb) | 3:50 | 2021-12-24 | 2022-07-16 |
@@ -218,6 +218,7 @@
 | [Somewhere In Your Silent Night](https://open.spotify.com/track/6P1J2IE6TuDhBUEpuJyclv) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [It's Finally Christmas \- EP](https://open.spotify.com/album/6yYrcNXcSslKmDkR2sfm6Q) | 3:55 | 2021-12-24 |  |
 | [Son of God, Son of Man](https://open.spotify.com/track/4NQIzhVcMv3O4DfjZ4SqvL) | [Travis Ryan](https://open.spotify.com/artist/7u1e2COb5JA3hgQPQ0eSCJ) | [Majesty In a Manger](https://open.spotify.com/album/0480LVtrPitXcM67W7Yowf) | 4:24 | 2021-12-24 | 2022-07-14 |
 | [Star of Wonder](https://open.spotify.com/track/1LpLEqamxX9UzruiSL8MYp) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [O Holy Night](https://open.spotify.com/album/7mcfsEKYDD3DfiyPyDyJqF) | 1:25 | 2021-12-24 | 2022-07-27 |
+| [Star Of Wonder](https://open.spotify.com/track/1Zww1Z4sl3q2pWhkIa8nFg) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [O Holy Night](https://open.spotify.com/album/5uo3AWPImc2lqOqE64Vf59) | 1:25 | 2021-12-24 |  |
 | [Star of Wonder \(Radio Mix\)](https://open.spotify.com/track/5Npya8YSjhDnZGWgAkxAbv) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Wake up the World \(Bonus Track Version\)](https://open.spotify.com/album/7tP74b6iPiQQGzUbZks1K0) | 3:07 | 2021-12-24 | 2022-07-18 |
 | [Still Can’t Sleep On Christmas Eve](https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [A Family Christmas](https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5) | 3:20 | 2021-12-24 |  |
 | [Thank God for Christmas](https://open.spotify.com/track/1bxgpGhSOi0eB83b35NcI6) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [Thank God for Christmas](https://open.spotify.com/album/0QHrIr83UMw4XF5OTQc0rV) | 3:53 | 2021-12-24 | 2022-07-29 |

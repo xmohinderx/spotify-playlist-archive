@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Kang Min Kyung & Choi Jung Hoon\(강민경 & 최정훈\)\) \(당신의 감성에 발라드, 려요\)
 
-548 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+552 songs - 1 day 11 hr 52 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,9 @@
 | [The Ordinary Man](https://open.spotify.com/track/04jPC0IDGd27J4Zj4k5dUi) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [The Ordinary Man](https://open.spotify.com/album/5kg1no9E8GmHFqAvs9agxv) | 5:26 | 2021-12-23 | 2022-04-18 |
 | [The Regret of Yesterday](https://open.spotify.com/track/2eLPb8yBpSTb6LHWWmzUAN) | [SOSEOM](https://open.spotify.com/artist/4y3jFtAJVCGQkFDj5ezM0c) | [22](https://open.spotify.com/album/22R95NSDqjk64OHoqN4TQt) | 4:07 | 2022-09-05 |  |
 | [The Return of our Season](https://open.spotify.com/track/0XTukteREM3zrBZlMg2mzA) | [Cho Eun](https://open.spotify.com/artist/0epcsX8iJTTmRBhbCSHNdL) | [The Return of our Season \(Cho Eun x Parting Story\)](https://open.spotify.com/album/0iRKsPMeArjeS6jbvUGlKx) | 4:18 | 2022-07-07 |  |
+| [The Season of You](https://open.spotify.com/track/7iEELA32wMz4a1gYZNCNSO) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [Love in Contract, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/48zQbCd3wr1doH7uH4sWVh) | 3:57 | 2022-10-06 |  |
 | [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-02-23 | 2022-07-08 |
+| [The Story of Us](https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Story of Us](https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy) | 3:36 | 2022-10-06 |  |
 | [The Truth Untold](https://open.spotify.com/track/48XfojJC87VKLlUotYV0Gm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2021-12-20 | 2022-03-01 |
 | [The unbearable lightness of being](https://open.spotify.com/track/381Qd2YpkNvAbKIlkjyGKb) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [The unbearable lightness of being](https://open.spotify.com/album/4X5nMNxYiCVroaXzEsUfTh) | 4:18 | 2022-07-07 | 2022-08-13 |
 | [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2022-03-24 | 2022-04-18 |
@@ -480,6 +482,7 @@
 | [To the ordinary you](https://open.spotify.com/track/2QZKyD8R2ZtJroH3sGQdTD) | [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1jrZAwFNCuTIOS9bE3eIw9) | 3:55 | 2022-03-24 | 2022-04-20 |
 | [To You My Light \(2022\)](https://open.spotify.com/track/6RbocDE51e5OkEFIagJmQs) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [To You My Light](https://open.spotify.com/album/5YKiY8AKXdRP5vgTqEWccv) | 4:18 | 2022-03-09 | 2022-06-23 |
 | [Today Too](https://open.spotify.com/track/4CBHh5h0GVoaRv3DZ9EfEX) | [Hozee](https://open.spotify.com/artist/0UuQPB2dNkEpProkJuixZo), [찬미](https://open.spotify.com/artist/3jXFw3vlxPi5xBPiYze1ac) | [Today Too](https://open.spotify.com/album/12qXRPrAJkcV8Ysw8slGpr) | 4:36 | 2022-07-07 | 2022-08-13 |
+| [Tonight](https://open.spotify.com/track/5zRPAxbJo5IXIHFTOETcJL) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Tipping Point Pt.1](https://open.spotify.com/album/1S5zQMBBDIklg0QR97Zq9I) | 4:15 | 2022-10-06 |  |
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb) | 3:41 | 2022-01-03 | 2022-02-28 |
 | [TRUST YOUR PACE](https://open.spotify.com/track/1aXBRHkH3zQiTKXAwpuikj) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Him\-na song Label Project 01 \- TRUST YOUR PACE](https://open.spotify.com/album/1vuxWdAD9Vpych9Kh1e4fS) | 1:41 | 2022-03-24 | 2022-04-21 |
 | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/track/36ua7Cbt724p1RFlOVy9up) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/album/6go9sISRH2r8yCT5UDUDKh) | 3:41 | 2022-03-29 | 2022-06-09 |
@@ -555,6 +558,7 @@
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-07-26 |  |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2021-12-23 | 2022-07-06 |
 | [지나오다](https://open.spotify.com/track/5ndgHth5hDc2dFPDC9Sq9N) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About You](https://open.spotify.com/album/2tInxH0GgKYLdoclP1YjiM) | 4:41 | 2022-03-29 | 2022-04-08 |
+| [홀로 핀 아이](https://open.spotify.com/track/7HKQdNF6zTVj0QBLheWD7O) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,](https://open.spotify.com/album/50ypPSIjofQu7iEkA4ILTr) | 4:09 | 2022-10-06 |  |
 | [히말라야 \(feat\. 장명서\)](https://open.spotify.com/track/2FHpY8AcIkQZq9lHnKaMMx) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV), [Jang Myeongseo](https://open.spotify.com/artist/7I1SCP4IejyDD29rrRv4Qt) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 4:14 | 2022-08-12 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

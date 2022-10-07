@@ -1,12 +1,12 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
-  "num_followers": 146406,
+  "num_followers": 146518,
   "original_name": "Hot Rods & Horror Shows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMDhjMzUyNzQ4MmM5NDU2ZmFmN2FhNDVmOTIxYWUzNjE5",
+  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMGEwZGY1YjZjZWZhZjgyNjQ2NzA1NGM0MWUwZDJhMzdl",
   "tracks": [
     {
       "added_at": "2021-01-16 16:47:50",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Bail set at $6M",
-        "url": "https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL"
-      },
-      "artists": [
-        {
-          "name": "Batmobile",
-          "url": "https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Kiss me now",
-      "url": "https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Necrophaze",
         "url": "https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 265144,
       "name": "Decompose",
       "url": "https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Bail set at $6M",
+        "url": "https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL"
+      },
+      "artists": [
+        {
+          "name": "Batmobile",
+          "url": "https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Kiss me now",
+      "url": "https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Red Sky",
-        "url": "https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI"
-      },
-      "artists": [
-        {
-          "name": "The Hellfreaks",
-          "url": "https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr"
-        }
-      ],
-      "duration_ms": 193339,
-      "name": "Red Sky",
-      "url": "https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Stereoghost",
         "url": "https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 243750,
       "name": "Stars Are Falling",
       "url": "https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Red Sky",
+        "url": "https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI"
+      },
+      "artists": [
+        {
+          "name": "The Hellfreaks",
+          "url": "https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr"
+        }
+      ],
+      "duration_ms": 193339,
+      "name": "Red Sky",
+      "url": "https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip"
     },
     {
       "added_at": "2021-01-16 16:47:50",
